@@ -1,0 +1,1833 @@
+<!DOCTYPE html>
+<html class='no-js' lang='es'>
+<head>
+    <title>
+  Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 6 de junio de 2024 | Presidencia de la República  | Gobierno | gob.mx
+</title>
+
+  <meta charset='UTF-8'>
+  <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#393C3E">
+
+  
+  <meta name="keywords" content="">
+  <meta name="description" content="Acto encabezado por el presidente Andrés Manuel López Obrador desde Palacio Nacional">
+  <meta name="author" content="Presidencia de la República ">
+
+  <meta content="Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 6 de junio de 2024" property="og:title" />
+  <meta content="https://www.gob.mxhttps://www.gob.mx/cms/uploads/article/main_image/145887/Conferencia_presidente_10.42.54_AM.jpeg" property="og:image" />
+  <meta content="gob.mx" property="og:site_name" />
+  <meta content="Acto encabezado por el presidente Andrés Manuel López Obrador desde Palacio Nacional" property="og:description" />
+  <meta content="http://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-6-de-junio-de-2024?idiom=es" property="og:url" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@gobmx" />
+  <meta name="twitter:title" content="Versión estenográfica. Conferencia de prensa del presidente Andrés..." />
+  <meta name="twitter:description" content="Acto encabezado por el presidente Andrés Manuel López Obrador desde Palacio Nacional" />
+  <meta name="twitter:image" content="https://www.gob.mxhttps://www.gob.mx/cms/uploads/article/main_image/145887/Conferencia_presidente_10.42.54_AM.jpeg" />
+
+
+  <meta content="authenticity_token" name="csrf-param" />
+<meta content="REFS9l3NLWmwqmh45FrnPWmKPkcPxlVkWolRMifQ0Cw=" name="csrf-token" />
+
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700,600,300' rel='stylesheet' type='text/css'>
+  <link href='https://framework-gb.cdn.gob.mx/applications/cms/favicon.png' rel='shortcut icon'>
+  <link data-turbolinks-track="true" href="/cms/assets/application.css" media="all" rel="stylesheet" />
+  <link data-turbolinks-track="true" href="https://framework-gb.cdn.gob.mx/gm/accesibilidad/css/gobmx-accesibilidad.min.css" media="all" rel="stylesheet" />
+  
+
+  <!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+  <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+
+ <![endif]-->
+  <script async src="https://www.googletagmanager.com/gtag/js?id="></script>
+  <script src="https://framework-gb.cdn.gob.mx/applications/cms/carrusel/swiper-bundle.min.js"></script>
+
+  <link rel="stylesheet" href="https://framework-gb.cdn.gob.mx/applications/cms/carrusel/swiper-bundle.min.css">
+
+    <script type="text/javascript">
+
+        var SubGroup = '';
+        if(false || false){
+            SubGroup = 'Temas';
+        }else{
+            SubGroup = 'presidencia';
+        }
+        var PageType = '';
+        if(false){
+            PageType = 'Home'
+        }else{
+            if(false){
+                PageType = '';
+            }else {
+                var site = window.location.pathname;
+                var arrayPageType = ["articulos", "prensa", "agenda", "documentos", "multimedia", "galerias", "videos",
+                    "acciones_y_programas", "acciones-y-programas", "mi-foto-con-el-presidente",
+                    "estructuras", "descargables", "que-hacemos", "finanzas", "infografias"];
+
+                if (site.search("archivo") != -1) {
+                    PageType = "archivo_";
+                }
+                for (var i = 0; i < arrayPageType.length; i++) {
+                    if (site.search(arrayPageType[i]) != -1) {
+                        PageType += arrayPageType[i];
+                        break;
+                    }
+                }
+            }
+        }
+
+
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', '');
+
+        gtag('require', 'linker');
+        gtag('linker:autoLink', ['www.gob.mx']);
+        gtag('set', 'contentGroup1', 'Gobierno');
+        gtag('set', 'contentGroup2', SubGroup);
+        gtag('set', 'contentGroup3', PageType);
+        gtag('set', 'dimension14', 'Gobierno');
+        gtag('set', 'dimension15', SubGroup);
+        gtag('set', 'dimension16', PageType);
+        gtag('set', 'dimension13', 'No Registrado');
+        gtag('send', 'pageview');
+        gtag('set', 'contentGroup1', null);
+        gtag('set', 'contentGroup2', null);
+        gtag('set', 'contentGroup3', null);
+        gtag('set', 'dimension14', null);
+        gtag('set', 'dimension15', null);
+        gtag('set', 'dimension16', null);
+        gtag('set', 'dimension13', null);
+
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-144356475-1', 'auto', {'allowLinker':true});
+        ga('require', 'linker');
+        ga('linker:autoLink', ['www.gob.mx']);
+        ga('set', 'contentGroup1', 'Gobierno');
+        ga('set', 'contentGroup2', SubGroup);
+        ga('set', 'contentGroup3', PageType);
+        ga('set', 'dimension14', 'Gobierno');
+        ga('set', 'dimension15', SubGroup);
+        ga('set', 'dimension16', PageType);
+        ga('set', 'dimension13', 'No Registrado');
+        ga('send', 'pageview');
+        ga('set', 'contentGroup1', null);
+        ga('set', 'contentGroup2', null);
+        ga('set', 'contentGroup3', null);
+        ga('set', 'dimension14', null);
+        ga('set', 'dimension15', null);
+        ga('set', 'dimension16', null);
+        ga('set', 'dimension13', null);
+    </script>
+
+
+  <script type = "text/javascript"> console.log(true);
+  var rails_env_prod = true; </script>
+  <script src="/cms/assets/application.js"></script>
+  <script src="/cms/assets/imageReplace.js"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.js"></script>
+
+                              <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("True"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="N3JQ2-2RVHB-WJQMN-CEYEM-ATMWX",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"N3JQ2-2RVHB-WJQMN-CEYEM-ATMWX",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="xxqo3jv567lbazxpkfya-f-28248ce99-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"37","ak.cp":"413578","ak.ai":parseInt("270161",10),"ak.ol":"0","ak.cr":13,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"20b14739","ak.r":49405,"ak.a2":e,"ak.m":"b","ak.n":"essl","ak.bpcip":"189.224.237.0","ak.cport":64240,"ak.gh":"189.247.214.15","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"reno","ak.t":"1726959984","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==ApeeClHGLZUkoEQC3Z23JIZaP4fhlPcl9u04devvCVFEup/k0UjgyJOM59VK4rHTAVR6EEwmqDGDjBtWtcZAPrF+GyesvpH8V8s1WPlBoELq2Mcq/e4sVoymiwk/BbI9yNVoXtdLuMypwResXewOnyX8zEbuhnU1l+7hozNYBjB6paMeeuhuwvvE4eHpOCsbY+vnvwGrnA9a1QXzhyrULZ56RiK8zJ6UB4EAM8IyRIeu3HcDwL/axNg9s1TjFTCbHggmgEcn49Jj84xP2pVItYPg1ZGeUuUuOYvqXtBQA/1WB1ZUwXTnZBxGh5UUoRF4PTLxbiPnPkRn69fGpUsrQox/m3OOE8eBofT7hGoZNesxdIjhJhwLXlxBf/jfH8MaR9iFvlpyYtRLejzBs7U7ECjesX8eVt3CH5R4e6lMj9I=","ak.pv":"113","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+<body>
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v13.0" nonce="MZ2GPb2d"></script><!-- a href="#principal" class="skip">Saltar al contenido principal</a -->
+  <header class=" navbar navbar-inverse">
+    <nav class="navbar navbar-inverse  navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-target="#navbarMainCollapse" data-toggle="collapse">
+            <span class="sr-only">Interruptor de Navegación</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a href="/" style="padding: 1px 3px 3px 3px;" class="navbar-brand " title="Ir a la página inicial">
+
+            <div class="logo-main"></div>
+          </a>
+        </div>
+        <div id="navbarMainCollapse" class="collapse navbar-collapse">
+          <ul class="nav navbar-nav navbar-right">
+           <li><a href="/tramites" title="Trámites">Trámites </a></li>
+            <li><a href="/gobierno" title="Gobierno">Gobierno</a></li>
+                  <li><a href="/presidencia/en" title="Versión en inglés del sitio web">English</a>
+                  </li>
+                </li>
+
+
+            <li>
+              <form accept-charset="UTF-8" action="/busqueda" method="get"><div style="display:none"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+                <input type="hidden" name="site" value="presidencia">
+                <button data-v-6394873e="" id="botonbuscar" type="button" class="btn btn-search"><a data-v-6394873e="" href="https://www.gob.mx/busqueda?utf8=✓" target="_blank" id="botbusca"><img data-v-6394873e="" alt="Buscar" src="https://framework-gb.cdn.gob.mx/landing/img/lupa.png"></a></button>
+</form>            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    
+
+
+        <script src="/cms/assets/level_jump.js"></script><section>
+<!-- Subnavegacion -->
+<nav class=" navbar-inverse sub-navbar fixed-top"
+     >
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#subenlaces">
+        <span class="sr-only">Interruptor de Navegación</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="link-name" href="?tab="></a>
+    </div>
+    <div class="collapse navbar-collapse" id="subenlaces">
+      <ul class="nav subnav navbar-nav navbar-right">
+              <li class="landing-btn">
+                    <a href='/presidencia/es/archivo/prensa'>
+                Comunicados            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='/presidencia/es/#5173'>
+                Directorio            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='https://transparencia.presidencia.gob.mx/presidencia/transparencia/politicas-de-tratamiento-de-datos-personales-de-la-oficina-de-la-presidencia-de-la-republica/'>
+                Protección de Datos Personales            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='https://www.gob.mx/presidencia/transparencia/'>
+                Transparencia            </a>
+            </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+<style>
+  .flag-banner {
+  top: 45px  !important;
+  }
+</style>
+<!-- div class="warning-nav" style="margin-top: 0px;">
+  <div class="container">
+    <div class="row clearfix">
+  <div class="col-xs-12 col-sm-12 col-md-12">Este contenido será modificado temporalmente en atención a las disposiciones legales y normativas en materia electoral, con motivo del inicio de periodo de campaña</div>
+  </div>
+  </div>
+</div -->
+</section>
+
+
+  </header>
+
+
+
+
+
+<main class="inner-page interior ficha">
+  <div class="container">
+  	<ol class="breadcrumb">
+  <li><a href="http://www.gob.mx"><span class="icon icon-home"></span><span class="sr-only">Inicio</span></a></li>
+  <li><a href="/presidencia">Presidencia de la República </a></li>
+  <li class="active">Blog</li>
+</ol>
+  	<div class="">
+      <div aria-hidden="true" class="hidden-xs font-changer internal print" tabindex="-1">
+  <button class="inc-font font-modifier">Aa+</button>
+  <button class="dec-font font-modifier">Aa-</button>
+</div>
+      <div class="marquee-padding">
+      <div class='post-list main-post-list'>
+<div class='marque-float-left'>
+<div class='right_arrow'></div>
+<div class='titulo-pub'>
+<small>Publicaciones Recientes</small>
+</div>
+</div>
+<div>
+<div class='container-marque'>
+<div id='headlines'>
+<div class='marquee'>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-19 13:44:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-19-de-septiembre-de-2024' title='Versió'>
+Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 19 de septiembre de 2024
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-18 12:36:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-18-de-septiembre-de-2024' title='Versió'>
+Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 18 de septiembre de 2024
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-17 13:51:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-entrega-de-estimulos-a-delegaciones-mexicanas-participantes-en-juegos-olimpicos-y-paralimpicos-paris-2024' title='Versió'>
+Versión estenográfica. Entrega de estímulos a delegaciones mexicanas participantes en Juegos Olímpicos y Paralímpicos París 2024
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-17 12:21:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-17-de-septiembre-de-2024' title='Versió'>
+Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 17 de septiembre de 2024
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-16 13:56:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-desfile-civico-militar' title='Versió'>
+Versión estenográfica. Desfile Cívico Militar
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+      </div>
+  	  <div class="col-md-7 col-xs-12 col-sm-12 pull-left" tabindex="0">
+  	  	<h1 class="bottom-buffer">Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 6 de junio de 2024</h1>
+  	  	<h2>Acto encabezado por el presidente Andrés Manuel López Obrador desde Palacio Nacional</h2>
+        <section class="">
+          <p>Presidencia de la República  | 06 de junio de 2024</p>
+        </section>
+  	  <div class="imagen-principal">
+  	      <img alt="Conferencia de prensa del presidente Andrés Manuel López Obrador" class="img-responsive img_curve" src="https://www.gob.mx/cms/uploads/article/main_image/145887/Conferencia_presidente_10.42.54_AM.jpeg" />
+  	      <span class="small">Conferencia de prensa del presidente Andrés Manuel López Obrador</span>
+      </div>
+      <div class="article-body"><p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR</strong>: Buenos d&iacute;as. &Aacute;nimo, &aacute;nimo.</p>
+
+<p>Vamos a continuar el d&iacute;a de hoy informando sobre el avance del programa La Cl&iacute;nica es Nuestra, que tiene como prop&oacute;sito el que, con otras acciones que ya hemos hablando, m&eacute;dicos generales que se est&aacute;n contratando, especialistas, medicamentos, equipos, terminaci&oacute;n de nuevos hospitales, en fin, con todo, entregar en septiembre un sistema de salud de primera, como lo merece el pueblo de M&eacute;xico, un sistema de salud p&uacute;blica. Esto significa garantizar el derecho a la salud, como est&aacute; establecido en la Constituci&oacute;n, en el art&iacute;culo 4&ordm;, que el que se enferme pueda ir a un centro de salud, a un hospital, ser atendido, que no importe su condici&oacute;n econ&oacute;mica-social y que toda la atenci&oacute;n sea gratuita.</p>
+
+<p>Ese es el prop&oacute;sito, crear esta red de atenci&oacute;n m&eacute;dica con 11 mil centros de salud en todo el pa&iacute;s y m&aacute;s de 600 hospitales de segundo, de tercer nivel, incluidos los institutos nacionales de salud, todo para los que no tienen seguridad social y tambi&eacute;n para los que tienen seguridad social y requieren atenci&oacute;n de emergencia en problemas de salud como los infartos, la diabetes, el c&aacute;ncer y otros.</p>
+
+<p>Ah&iacute; es un acuerdo entre todas las instituciones de salud: Issste, IMSS ordinario, IMSS Complamar, los hospitales de Pemex, los hospitales de la Defensa, hospitales de Marina cuando se trata de estas causas: emergencia, infartos, diabetes y c&aacute;ncer.</p>
+
+<p>Y, desde luego, el primer nivel de atenci&oacute;n con las 11 mil cl&iacute;nicas o centros de salud para todos. Est&eacute;n inscritos al Issste, est&eacute;n inscritos al seguro o no tengan seguridad, en todos los centros de salud de primer nivel de atenci&oacute;n es universal y gratuito, y tambi&eacute;n arriba la atenci&oacute;n de salud.</p>
+
+<p>Es un esfuerzo que se est&aacute; haciendo de manera conjunta con todas las autoridades de salud. Y agradecerle mucho, mucho, a las gobernadoras, a los gobernadores, porque ellos permitieron la federalizaci&oacute;n de la salud.</p>
+
+<p>Antes se les enviaba el dinero nada m&aacute;s. &iquest;Qu&eacute; hicieron los neoliberales? Dejaron a la Secretar&iacute;a de Salud como un cascar&oacute;n, una oficina para transferir fondos federales a los estados. Creo que se quedaron a cargo de la Secretar&iacute;a de Salud los institutos y como 10 hospitales, esa era la Secretar&iacute;a de Salud, todo lo dem&aacute;s era una cuesti&oacute;n financiera de transferencia de fondos a los estados. Y en algunos estados funcionaba bien, pero en otros llegaba el dinero para la salud, para el llamado Seguro Popular, que por eso ni era seguro ni era popular, y el dinero se desviaba para otros menesteres.</p>
+
+<p>Y constru&iacute;an, pero nada m&aacute;s para sacar raja, provecho, obtener <em>moches</em> en la construcci&oacute;n, en los edificios. No les importaba que se equiparan, que hubiera m&eacute;dicos, que hubiera especialistas, medicinas, la operaci&oacute;n. Todos sabemos &mdash;quienes estamos en esto y la gente tambi&eacute;n&mdash; que si un hospital cuesta construirlo y equiparlo mil millones, pues cuesta despu&eacute;s operarlo la misma cantidad. Es como la construcci&oacute;n de un reclusorio, se pon&iacute;an a construir reclusorios mediante convenios, pero la operaci&oacute;n, la vigilancia, la alimentaci&oacute;n de los reclusos, pues eso no lo tomaban en cuenta, por eso dejaron tirados reclusorios. Y much&iacute;simos hospitales as&iacute;.</p>
+
+<p>Entonces, esto lo entendieron las gobernadoras, los gobernadores, y participaron adhiri&eacute;ndose a federalizar todo el sistema. Y ese dinero ya no se les transfiere, sino se utiliza nacionalmente, desde luego con la participaci&oacute;n de ellos, para garantizar a todos el derecho a la salud.</p>
+
+<p>Hubo casos en donde los gobernadores no aceptaron; se respet&oacute;. Muy pocos, ya son 23 estados, y acaba de notificar, &iquest;c&oacute;mo es que se dice?, virtual, el gobernador electo, porque todav&iacute;a no hay nada, que va a incorporarse, o sea, van a ser 24. Ya es mucho muy importante.</p>
+
+<p>Bueno, vamos hoy precisamente a hablar con las gobernadoras y los gobernadores que nos faltan de la regi&oacute;n norte de nuestro pa&iacute;s. Doctor.</p>
+
+<p><strong>JORGE ALCOCER VARELA, SECRETARIO DE SALUD:</strong> Con su permiso, se&ntilde;or presidente. Muy buenos d&iacute;as a todas y todos ustedes.</p>
+
+<p>Como saben, y ya ha anunciado el se&ntilde;or presidente, en seguimiento al programa de La Cl&iacute;nica es Nuestra con los resultados de las asambleas de los integrantes en las comunidades de los 23 estados federalizados, hoy seguiremos la comunicaci&oacute;n con las gobernadoras y los gobernadores para continuar la entrega de los fondos para la modernizaci&oacute;n de 11 mil 947 centros de salud mediante su rehabilitaci&oacute;n, equipamiento, mantenimiento.</p>
+
+<p>Este programa es clave en el nuevo modelo de atenci&oacute;n para el bienestar, ya que en el primer nivel de atenci&oacute;n pueden resolverse hasta el 80 por ciento de las necesidades de atenci&oacute;n m&eacute;dica de una comunidad.</p>
+
+<p>Aqu&iacute; un r&aacute;pido ejemplo &mdash;por favor, &iquest;me lo pueden pasar?&mdash; de lo que estamos hablando. La siguiente, por favor. La siguiente. La &uacute;ltima, que creo que esta. Son ejemplos en donde se manifiesta c&oacute;mo est&aacute;n y vamos a encontrarlos en meses antes de septiembre, c&oacute;mo deben estar.</p>
+
+<p>Esto es cuanto. Y para enlazarnos con los ocho estados que hoy est&aacute;n restantes esperando, el maestro Zo&eacute; Robledo conducir&aacute; su llamado.</p>
+
+<p><strong>ZO&Eacute; ROBLEDO ABURTO, DIRECTOR GENERAL DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL (IMSS): </strong>Con su permiso, presidente, secretaria, secretario, al director del Banco del Bienestar. Muchas gracias.</p>
+
+<p>Nos vamos a enlazar a ocho estados del pa&iacute;s, en donde se empiezan a entregar el d&iacute;a de hoy dos mil 500 tarjetas para dos mil 500 comit&eacute;s de La Cl&iacute;nica es Nuestra para igual n&uacute;mero de centros de salud que ya son IMSS-Bienestar. Y empezamos con Baja California, all&aacute; est&aacute; la gobernadora Marina del Pilar, junto con el subsecretario, el doctor Ruy L&oacute;pez Ridaura, representante de la comisi&oacute;n presidencial; tambi&eacute;n, el doctor Miguel Romero, que es el coordinador en Baja California de IMSS-Bienestar; el secretario de Salud, Adri&aacute;n Medina, y Jes&uacute;s Alejandro Ruiz, de Programas de Bienestar, y est&aacute;n all&aacute; con los integrantes del comit&eacute; en Mexicali. Adelante, gobernadora, te escuchamos.</p>
+
+<p><strong>MARINA DEL PILAR &Aacute;VILA OLMEDA, GOBERNADORA DE BAJA CALIFORNIA (ENLACE VIDEOLLAMADA):</strong> Hola, Zo&eacute;, gusto en saludarte. Se&ntilde;or presidente, lo saludo con much&iacute;simo gusto. Doctor Jorge Alcocer.</p>
+
+<p>Pues, ac&aacute; estamos desde Mexicali, Baja California. Saludo con gusto a las millones de mexicanas y mexicanos que ven esta conferencia ma&ntilde;anera, muy especialmente a las y a los bajacalifornianos.</p>
+
+<p>Se&ntilde;or presidente Andr&eacute;s Manuel L&oacute;pez Obrador, este sexenio quedar&aacute; escrito con un cap&iacute;tulo brillante en la historia de la salud p&uacute;blica de nuestro pa&iacute;s. En M&eacute;xico, un M&eacute;xico tan diversos y extenso como el nuestro, garantizar el acceso equitativo a servicios de salud de calidad es un desaf&iacute;o constante, pero tambi&eacute;n es una responsabilidad ineludible. El programa La Cl&iacute;nica es Nuestra es la confirmaci&oacute;n de que en el gobierno de la Cuarta Transformaci&oacute;n la salud se consolida como un derecho fundamental del pueblo.</p>
+
+<p>Se&ntilde;or presidente, le informo: este d&iacute;a le anunciamos con mucho orgullo que hemos conformado 117 Comit&eacute;s de Salud y Bienestar La Cl&iacute;nica es Nuestra, estamos hablando de 26 comit&eacute;s en centros de salud de un consultorio que reciben hasta 400 mil pesos, 37 comit&eacute;s en centros de salud de dos consultorios que reciben hasta 600 mil pesos, 41 comit&eacute;s m&aacute;s en centros de salud de tres a cinco consultorios que recibir&aacute;n 800 mil pesos, nueve comit&eacute;s en centros de consultorios de alrededor de seis consultorios o m&aacute;s que recibir&aacute;n hasta un mill&oacute;n de pesos, as&iacute; como tambi&eacute;n otros cuatro comit&eacute;s para centros de salud con servicios ampliados que reciben hasta un mill&oacute;n 200 mil pesos cada uno.</p>
+
+<p>La inversi&oacute;n total en Baja California es de 79 millones de pesos. Y hoy aqu&iacute;, en el Centro de Salud de Gonz&aacute;lez Ortega, mejor conocido como Palaco, en Mexicali, estamos haciendo la primera entrega de tarjetas La Cl&iacute;nica es Nuestra. Y esta misma ma&ntilde;ana estaremos entregando tambi&eacute;n en Tecate, Baja California, en el Centro de Salud Fundadores.</p>
+
+<p>Tambi&eacute;n le informo, presidente, que el d&iacute;a de ma&ntilde;ana entregaremos en la Cl&iacute;nica 1 del IMSS en Tijuana y en el Centro de Salud Urbano en Playas de Rosarito, y concluiremos el d&iacute;a s&aacute;bado en Ensenada en el Centro de Salud de La Ruiz y 14, y en San Quint&iacute;n, en Vicente Guerrero. El pueblo de Baja California agradece p&uacute;blicamente la dedicaci&oacute;n de todas y de todos los integrantes de estos comit&eacute;s. Son ustedes el alma de este gran programa.</p>
+
+<p>Adem&aacute;s, le informo, presidente, que estamos construyendo tres nuevos hospitales en Baja California: el Hospital General de la Zona Este en Tijuana, la de mayores necesidades y rezagos sociales de esta gran ciudad; el hospital del IMSS en Ensenada y el Hospital en San Felipe, el primero en la historia de este puerto y este nuevo municipio. Nunca antes en la historia de nuestro estado se hab&iacute;an construido tres hospitales al mismo tiempo.</p>
+
+<p>Los hospitales y las cl&iacute;nicas de salud p&uacute;blica que estamos habilitando son un tesoro invaluable para nuestro pa&iacute;s y para nuestras comunidades, sobre todo las m&aacute;s necesitadas. Son prueba de nuestro compromiso con la salud y con el bienestar del pueblo de M&eacute;xico, y de su compromiso, se&ntilde;or presidente Andr&eacute;s Manuel L&oacute;pez Obrador, con todo nuestro pueblo de Baja California.</p>
+
+<p>Muchas gracias, presidente. Y los saludo a todos con much&iacute;simo gusto.</p>
+
+<p><strong>ZO&Eacute; ROBLEDO ABURTO:</strong> Muchas gracias, gobernadora Marina del Pilar. Saludos a todos, sobre todo a los integrantes de los comit&eacute;s de La Cl&iacute;nica es Nuestra.</p>
+
+<p>Y vamos a Baja California Sur, all&aacute; est&aacute; en el Centro de Salud del IMSS-Bienestar, en la colonia 8 de Octubre, en La Paz, el gobernador V&iacute;ctor Manuel Castro; adem&aacute;s del contralmirante Francisco Gonz&aacute;lez Reyes, de la comisi&oacute;n presidencial por parte de la Semar; el IMSS-Bienestar, el coordinador estatal el doctor Bogd&aacute;n Arriaga; adem&aacute;s de la secretaria de Salud, Zazil Flores Aldape, y el coordinador de Programas de Bienestar, Daniel Torres Mendoza. Adelante, por favor, gobernador Castro.</p>
+
+<p><strong>V&Iacute;CTOR MANUEL CASTRO COS&Iacute;O, GOBERNADOR DE BAJA CALIFORNIA SUR (ENLACE VIDEOLLAMADA):</strong> Buenos d&iacute;as, compa&ntilde;ero presidente; buenos d&iacute;as, camarada Zo&eacute;; lo mismo al doctor Alcocer, le mando un abrazo, y buenos d&iacute;as a todos quienes nos est&aacute;n viendo y escuchando, y sobre todo a las y los sudcalifornianos que est&aacute;n atentos, pendientes de este nuevo programa.</p>
+
+<p>Entendiendo que la salud es lo m&aacute;s preciado para el ser humano y que se constituye el derecho universal constitucional en nuestro pa&iacute;s, el gobierno de la Rep&uacute;blica comprometido con preservar este derecho nos convoc&oacute; a sumar esfuerzos.</p>
+
+<p>Hace alrededor de un a&ntilde;o suscribimos el convenio con IMSS-Bienestar, esta convocatoria a sumar esfuerzos en la construcci&oacute;n de un sistema de salud universal con la visi&oacute;n clara que nadie se quede atr&aacute;s y nadie se quede fuera. A casi un a&ntilde;o de haber firmado este acuerdo, hemos transitado por diferentes etapas hasta llegar a esta &uacute;ltima, esta casi &uacute;ltima, donde se incorpora a la ciudadan&iacute;a en este proceso, fortaleciendo la visi&oacute;n de la Cuarta Transformaci&oacute;n de la democracia participativa, que la gente decida el presupuesto que le corresponde, un avance m&aacute;s de integrar a la gente a las decisiones p&uacute;blicas.</p>
+
+<p>Ahora, a trav&eacute;s del programa La Cl&iacute;nica es Nuestra y mediante los comit&eacute;s ciudadanos que se formaron en Baja California Sur y en el pa&iacute;s, el destino de los recursos p&uacute;blicos que les sean asignados, y de acuerdo a las reglas del programa en Baja California Sur, ser&aacute;n beneficiadas 54 cl&iacute;nicas de salud con una inversi&oacute;n de 34 millones de pesos.</p>
+
+<p>Hoy tambi&eacute;n iniciamos la entrega de tarjetas para el Bienestar, mismas que haremos llegar a todos los derechohabientes de IMSS-Bienestar en Baja California Sur.</p>
+
+<p>Gracias, amigo presidente, por este gran avance en la atenci&oacute;n de la infraestructura en el sector salud, que junto al fortalecimiento de la atenci&oacute;n m&eacute;dica prioritaria en esta transformaci&oacute;n que est&aacute; teniendo el sector salud, el pueblo de M&eacute;xico va a tener la oportunidad de ser atendido en cualquier parte de nuestra entidad y del pa&iacute;s. Sin descuidar el abasto de medicamentos, estaremos respondiendo con toda responsabilidad y esmero la atenci&oacute;n m&eacute;dica del pueblo mexicano y del pueblo de Baja California Sur.</p>
+
+<p>Quiero expresarle, se&ntilde;or presidente, una invitaci&oacute;n atenta para que en los pr&oacute;ximos meses pueda usted inaugurar el hospital de Santa Rosal&iacute;a. Es importante para el municipio de Muleg&eacute; este hospital. Ya est&aacute; en su fase ya final de construcci&oacute;n, de equipamiento, y creemos que para julio estar&aacute; listo el hospital de Santa Rosal&iacute;a, que atender&aacute; todo el pueblo mulegino.</p>
+
+<p>Un abrazo presidente. Y muchas gracias, en nombre del pueblo de Baja California Sur, por atender una de las condiciones m&aacute;s importantes para las y los sudcalifornianos: la salud del pueblo. Mi abrazo con aprecio, con respeto y con mucha estima.</p>
+
+<p>Vamos a entregar la tarjeta aqu&iacute; a mi amigo. Esta colonia 8 de Octubre se cre&oacute;, desgraciadamente, en una tragedia que hubo en Baja California Sur, de un hurac&aacute;n que devast&oacute; la ciudad de La Paz y la gente fue reubicada en esta popular colonia 8 de Octubre. Le entrego mi amigo, mi amiga tesorera este primer pago, una tarjeta, para bien de Baja California Sur.</p>
+
+<p>Gracias a toda a la gente que &lsquo;ma&ntilde;ane&oacute;&rsquo; acompa&ntilde;&aacute;ndonos. Un abrazo. Que siga la Cuarta Transformaci&oacute;n ayudando al pueblo de M&eacute;xico.</p>
+
+<p><strong>ZO&Eacute; ROBLEDO ABURTO:</strong> Muchas gracias, gobernador Castro. Saludos a todos en Baja California Sur.</p>
+
+<p>Y nos vamos ahora Sonora, a Hermosillo, al Centro Avanzado de Atenci&oacute;n Primaria de la salud del IMSS-Bienestar con el gobernador Alfonso Durazo; el secretario de Salud, Jos&eacute; Luis Alom&iacute;a; adem&aacute;s de la coordinadora de IMSS-Bienestar, la doctora Gabriela Nucamendi; el coordinador de Programas de Bienestar, Jos&eacute; Luis Taddei; adem&aacute;s, est&aacute;n all&aacute; con los integrantes de los comit&eacute;s. Adelante, por favor, gobernador Durazo.</p>
+
+<p><strong>ALFONSO DURAZO MONTA&Ntilde;O, GOBERNADOR DE SONORA: (ENLACE VIDEOLLAMADA)</strong> Gracias, estimado Zo&eacute;.</p>
+
+<p>Primeramente, se&ntilde;or presidente, mi reconocimiento por esta iniciativa, que representa un punto de inflexi&oacute;n en la construcci&oacute;n de un sistema de salud avanzado.</p>
+
+<p>Me dirijo tambi&eacute;n al doctor Alcocer, a Zo&eacute; Robledo y a todos los integrantes, presidente, del sistema de salud. Debo expresar mi reconocimiento a su trabajo. Es un gran equipo, sensible, comprometido, eficaz y honesto. Nos sentimos muy reconocidos con la colaboraci&oacute;n en la construcci&oacute;n de este nuevo sistema de salud aqu&iacute; en el estado de Sonora.</p>
+
+<p>A las amigas, amigos sonorenses que nos siguen en esta conferencia de prensa, decirles que nos encontramos aqu&iacute; esta ma&ntilde;ana en el Centro Avanzado de Atenci&oacute;n Primaria a la Salud, aqu&iacute; de Hermosillo, Sonora, que es uno de los 220 centros que se suman el d&iacute;a de hoy al nuevo programa La Cl&iacute;nica es Nuestra. Es importante comentar que esta forma parte de una de las 238 unidades de salud a las cuales, con el apoyo del presidente L&oacute;pez Obrador, hemos remodelado y rehabilitado con una inversi&oacute;n de 311 millones de pesos.</p>
+
+<p>Debo resaltar que todas esas instalaciones fueron construidas mayoritariamente en los 70 del siglo pasado y que desde entonces ning&uacute;n presidente hab&iacute;a volteado a verlas, muy eventualmente, ni siquiera un gobernador, nadie les hab&iacute;a dado una <em>manita de gato. </em>Ahora est&aacute;n rehabilitadas, equipadas con personal y con abasto suficiente que vamos a llevar al 100 por ciento el mes de septiembre a m&aacute;s tardar.</p>
+
+<p>La Cl&iacute;nica es Nuestra distribuir&aacute; en Sonora 109 millones de pesos a los Comit&eacute;s de Salud para el Bienestar que, como ya se ha dicho, se destinar&aacute; seg&uacute;n las prioridades que definan los integrantes del propio Comit&eacute; de Salud para el Bienestar. Tenemos ya conformados 220 comit&eacute;s.</p>
+
+<p>Y el d&iacute;a de hoy entregaremos la tarjeta a Miriam Grijalva, que es la tesorera del comit&eacute; de este Centro de Salud para el Bienestar. Aqu&iacute; est&aacute;. Entregamos. Gracias, querid&iacute;sima Miriam. Felicidades.</p>
+
+<p>Pero debo informar que entre hoy el s&aacute;bado estar&aacute;n recibiendo el resto de los comit&eacute;s, de los 220 Comit&eacute;s para el Bienestar, sus fondos correspondientes: 400 mil pesos para 160 unidades que tienen un consultorio, 600 mil pesos para 27 unidades que tienen dos consultorios, 800 mil pesos para 21 unidades que tienen de tres a cinco consultorios, un mill&oacute;n de pesos para 11 unidades que tienen seis o m&aacute;s consultorios, y un mill&oacute;n de pesos, un mill&oacute;n 200 mil pesos para unidades con servicios ampliados como son los de esta unidad.</p>
+
+<p>Finalmente, quiero informar, presidente, que est&aacute; muy avanzada la construcci&oacute;n del hospital IMSS r&eacute;gimen ordinario de Navojoa, con 90 camas, con una inversi&oacute;n de dos mil millones de pesos, incluido equipamiento; el hospital de V&iacute;cam, presidente, con 28 camas. Ambos estar&aacute;n concluidos antes del mes de septiembre.</p>
+
+<p>Vamos muy avanzados en la planeaci&oacute;n de los nuevos hospitales del IMSS en Guaymas y San Luis R&iacute;o Colorado. Y destacar de manera muy particular, presidente, que IMSS-Bienestar haya incorporado al viejo hospital general del estado para convertirlo en un hospital universitario IMSS-Bienestar, que dar&aacute; atenci&oacute;n igualmente a poblaci&oacute;n abierta, pero que capacitar&aacute; a los m&eacute;dicos egresados de la Universidad de Sonora.</p>
+
+<p>Me he pasado un poquito, presidente, pero no puedo dejar de se&ntilde;alar que no escapa a mi sensibilidad que no todos valoran el esfuerzo que se est&aacute; haciendo en el &aacute;mbito de la salud. Desde los cub&iacute;culos, con abstracci&oacute;n total, puede desestimarse su relevancia, pero aqu&iacute;, a ras de suelo, es un servicio fundamental.</p>
+
+<p>Que en todos los municipios tengamos instalaciones, medicamento, personal, equipamiento por primera vez en la historia, en m&aacute;s de 50 a&ntilde;os, y en ninguno de ellos van a encontrar una caja registradora. Por ello, presidente, nuestro agradecimiento.</p>
+
+<p><strong>ZO&Eacute; ROBLEDO ABURTO:</strong> Muchas gracias, gobernador Durazo, y a todas y todos all&aacute; en Hermosillo, Sonora.</p>
+
+<p>Nos vamos a Culiac&aacute;n, a Sinaloa, all&aacute; est&aacute; el gobernador Rub&eacute;n Rocha Moya, acompa&ntilde;ado del representante de la Comisi&oacute;n Presidencial para la Federalizaci&oacute;n, Javier Guerrero Garc&iacute;a; el doctor Julio C&eacute;sar Quintero, coordinador estatal de IMSS-Bienestar en Sinaloa; Cuitl&aacute;huac Gonz&aacute;lez, secretario de Salud; adem&aacute;s de &Aacute;ngel Ulises Pi&ntilde;a Garc&iacute;a, coordinador de Programas de Bienestar; y la doctora Tania Medina. Adelante, gobernador Rocha, le escuchamos.</p>
+
+<p><strong>RUB&Eacute;N ROCHA MOYA, GOBERNADOR DE SINALOA:</strong> Muchas gracias, estimado Zo&eacute;. Se&ntilde;or presidente, lo saludo con mucho aprecio y adem&aacute;s expreso mi gratitud, mi reconocimiento y mi admiraci&oacute;n por hoy y por siempre.</p>
+
+<p>Quiero saludar a mis colegas, a mis compa&ntilde;eros gobernadores, y a la compa&ntilde;era gobernadora de Baja California.</p>
+
+<p>Quiero decir, presidente, que, con la convicci&oacute;n que usted ha abordado el tema de salud, justamente hacer sentir que la salud es un derecho y no es un privilegio, y tampoco es mucho menos una mercanc&iacute;a, con esa convicci&oacute;n lo hemos acompa&ntilde;ado los gobernadores. Ya usted dijo, somos 23 estados que estamos federalizando nuestro servicio de salud, y lo estamos haciendo porque ya tenemos la plena convicci&oacute;n de que esto avanza.</p>
+
+<p>En este tiempo preparatorio, Sinaloa, por ejemplo, tiene la conclusi&oacute;n del hospital general, que ya lo estamos utilizando y empezamos, estamos haciendo el tr&aacute;nsito hacia all&aacute;; tenemos el hospital pedi&aacute;trico, muy importante, que igualmente ya lo estamos utilizando con instalaciones mucho muy modernas; y el CESA, el Centro de Salud de aqu&iacute; de Culiac&aacute;n, que es nuestra joya en materia de atenci&oacute;n del primer nivel.</p>
+
+<p>Hemos hecho otras cosas importantes con su apoyo, presidente, que es el tema del equipamiento m&eacute;dico para atender la di&aacute;lisis. Inicialmente ten&iacute;amos solamente Culiac&aacute;n; hoy ya tenemos en cuatro ciudades, municipios, Guasave, Mazatl&aacute;n y Ahome, Los Mochis.</p>
+
+<p>Parece poco importante. No, es muy importante, porque acercar justamente el servicio de di&aacute;lisis a la gente les ha hecho que no tengan que venir a Culiac&aacute;n, que est&eacute; acerc&aacute;ndose. Adem&aacute;s, estamos en la idea de que todav&iacute;a lo vamos a acercar m&aacute;s a todos, a todos los municipios, por lo menos tener una m&aacute;quina de di&aacute;lisis. No s&eacute; c&oacute;mo se pueda decir, pero yo ya digo &lsquo;m&aacute;quina&rsquo;. Este es un tema primordial.</p>
+
+<p>El otro tema importante, en equipamiento m&eacute;dico, son los aceleradores lineales para las radioterapias, la radioterapia particularmente a las personas con c&aacute;ncer.</p>
+
+<p>&iquest;Por qu&eacute; lo destaco?</p>
+
+<p>Porque la salud que el presidente est&aacute; ofreciendo a los mexicanos, a las mexicanas, no es s&oacute;lo de primer nivel, es del primer nivel y hasta el tercer nivel. Pero por supuesto que el primer nivel, que es ahora el tema fundamental, es muy importante porque, si se atiende bien en los centros de salud, en el primer nivel, podemos evitar el 80 por ciento de los enfermos que vengan a los hospitales, y con eso estaremos no solamente resolviendo un problema de salud popular, sino tambi&eacute;n evitando costos innecesarios, cuando pueden resolverse el problema en el primer nivel. Este es el tema central que ahora tenemos.</p>
+
+<p>Y, bueno, hay en el caso de los aceleradores lineales, lo que vamos a hacer es que: ten&iacute;amos en tiempo de espera tres meses, incluso, para que se les atendiera; hoy vamos a tener, la vamos a reducir a dos semanas, am&eacute;n de que podemos atender a toda la poblaci&oacute;n de Sinaloa y tambi&eacute;n la regional, si es que as&iacute; se requiere.</p>
+
+<p>Digo ahora, presidente, que en Sinaloa tenemos&hellip; O en el caso de La Cl&iacute;nica es Nuestra, que es un tema esencial tambi&eacute;n de la democracia, que se llegue a considerar que la gente es la que importa, que ellos administren el recurso, y adem&aacute;s se evite la burocracia en este tema tan importante, como es la salud.</p>
+
+<p>Van a ser los comit&eacute;s. Nosotros tenemos 316 comit&eacute;s. Estos 316 comit&eacute;s se dividen entre 215 en centros de salud de un consultorio, los que van a recibir hasta 400 mil pesos a partir de ahora. Que la gente entienda, sepa, que no estamos anunciando algo que va a venir en el futuro, largo futuro, sino futuro muy corto, de aqu&iacute; al s&aacute;bado vamos a entregar todos los apoyos.</p>
+
+<p>Tenemos 49 centros de salud con dos consultorios que reciben a partir de hoy hasta 600 mil pesos; tenemos 31 centros de salud de tres a cinco consultorios que reciben hasta 800 mil pesos; luego, tenemos 20 centros de salud de seis consultorios o m&aacute;s que reciben hasta un mill&oacute;n de pesos; y, finalmente, tenemos siete centros de salud con servicios ampliados, como es el caso de Culiac&aacute;n, el de Ahome, de Mochis, etc&eacute;tera, que reciben hasta un mill&oacute;n 200 mil pesos.</p>
+
+<p>&iquest;Cu&aacute;nto vamos a recibir en Sinaloa por este concepto? &iquest;Cu&aacute;l es la derrama para los centros de salud?</p>
+
+<p>Son 161 millones 400 mil pesos. Esto se dice f&aacute;cil. Acu&eacute;rdense, y quiero con ello hacer una menci&oacute;n especial, a prop&oacute;sito de la naturaleza de nuestro presidente, se van a distribuir en el pa&iacute;s alrededor de seis mil millones de pesos, est&aacute;n en eso ahorita, distribuyendo eso.</p>
+
+<p>A ver, &iquest;por qu&eacute; lo hacemos seis d&iacute;as o cuatro d&iacute;as despu&eacute;s del d&iacute;a de los comicios?, porque el presidente nuestro es un hombre de Estado; el presidente no trabaja para el siguiente comicio, trabaja para el futuro de su pueblo, y eso es lo que hace que nosotros no hayamos querido entregar beneficios con prop&oacute;sitos electoreros. Eso vale la pena mencionarlo porque es el caso. Nosotros tenemos otros programas, que nos est&aacute; apoyando el presidente, y que igualmente a partir de ahora los vamos a operar.</p>
+
+<p>Quiero, finalmente, presidente, agradecer al doctor Jorge Alcocer, respetado secretario de Salud.</p>
+
+<p>Quiero agradecerle a Zo&eacute;, que es la buj&iacute;a de este programa. Muchas gracias, Zo&eacute;. Incluso lo que estoy diciendo aqu&iacute;, Zo&eacute;, t&uacute; me lo mandaste, &iquest;eh?, para reconocer todav&iacute;a plenamente.</p>
+
+<p>Quiero reconocerle a Javier Guerrero, que es nuestro representante, el comisionado presidencial aqu&iacute; en Sinaloa. Mucho nos ha ayudado, presidente, realmente le ha metido muchas ganas.</p>
+
+<p>A la delegada del IMSS, que es una guerrera, que es en realidad ejemplar, que es Tania, te agradezco mucho.</p>
+
+<p>Y, por supuesto, a usted nuestro reconocimiento.</p>
+
+<p>Y si me permiten, quiero entregar la primera tarjeta para el CESA, que es el centro de salud de aqu&iacute; en Culiac&aacute;n, y se lo voy a entregar a Brisa Aydal&iacute; Arellano Valdovinos, ella es la tesorera de las 316 tesoreras que tenemos, porque el presidente mismo ha dispuesto que sean mujeres que manejen el recurso de La Cl&iacute;nica es Nuestra. Brisa, muchas gracias. Ella es de la colonia Rosales y la colonia Rosales es el entorno de nuestro centro de salud. Agradecemos ello.</p>
+
+<p>Y quiero decirle, presidente, que igualmente hoy empezamos a entregar las credenciales. Usted nos ha indicado que iniciamos con la credencializaci&oacute;n; ya empezamos, ya tenemos credenciales que vamos a empezar, hoy entregamos simb&oacute;licamente algunas.</p>
+
+<p>Reiterarle nuestro agradecimiento. Un abrazo sincero, presidente. Y los sinaloenses, con este esfuerzo del gobierno federal y del gobierno del estado, seguramente que estar&aacute;n m&aacute;s protegidos y estar&aacute;n gozando de su derecho constitucional a la salud.</p>
+
+<p>Enhorabuena.</p>
+
+<p><strong>ZO&Eacute; ROBLEDO ABURTO:</strong> Muchas gracias, gobernador Rub&eacute;n Rocha, y a todos all&aacute; en Sinaloa.</p>
+
+<p>Nos vamos ahora del Pac&iacute;fico hasta el golfo de M&eacute;xico, a Tamaulipas, en donde est&aacute; ya el gobernador Am&eacute;rico Villarreal, el doctor Am&eacute;rico Villarreal, gobernador del estado; adem&aacute;s del doctor Marggid Antonio Rodr&iacute;guez, el coordinador estatal de IMSS-Bienestar; el doctor Vicente Hern&aacute;ndez, secretario de Salud; Luis Lauro Reyes Rodr&iacute;guez, coordinador de Programas de Bienestar; adem&aacute;s de los integrantes del comit&eacute; de La Cl&iacute;nica es Nuestra, en este Centro de Salud del IMSS-Bienestar, de colonia Enrique C&aacute;rdenas Gonz&aacute;lez, en Ciudad Victoria. Adelante, gobernador Am&eacute;rico Villarreal.</p>
+
+<p><strong>AM&Eacute;RICO VILLAREAL ANAYA, GOBERNADOR DE TAMAULIPAS (ENLACE VIDEOLLAMADA):</strong> Muy buenos d&iacute;as, se&ntilde;or presidente. Lo saludamos con el afecto de siempre desde el estado de Tamaulipas, en esta ocasi&oacute;n entregando los apoyos al programa La Cl&iacute;nica es Nuestra en el fortalecimiento para la atenci&oacute;n m&eacute;dica del IMSS-Bienestar.</p>
+
+<p>Estoy acompa&ntilde;ado por los integrantes del sistema de salud en el estado, cuyos nombres ya dijo el maestro Zo&eacute;: el secretario de salud, el coordinador estatal del IMSS-Bienestar, el delegado de Programas para el Bienestar; as&iacute; como el director del Centro de Salud Urbano &lsquo;Enrique C&aacute;rdenas Gonz&aacute;lez&rsquo;, localizado en la colonia del mismo nombre en Ciudad Victoria; el doctor Sime&oacute;n Gamboa D&iacute;az, y la jefa de enfermeras de este centro, licenciada Teresa Yolanda Zapata Flores. Todos sumados y comprometidos, con la bata bien puesta, se&ntilde;or presidente, con el nuevo Modelo de Atenci&oacute;n a la Salud IMSS-Bienestar, para dar respuesta a la reforma constitucional de mayo de 2020, en la que se garantiza la atenci&oacute;n m&eacute;dica en forma gratuita a la poblaci&oacute;n sin seguridad social, considerando esta como un derecho humano.</p>
+
+<p>Este es un cambio sin precedentes en el Sistema Nacional de Salud, que refleja, como muchos otros programas de su administraci&oacute;n, la b&uacute;squeda de la equidad en la oportunidad para tener un Estado de bienestar de la poblaci&oacute;n mexicana, acorde a los principios que se han asentado del Humanismo Mexicano.</p>
+
+<p>El esfuerzo no ha sido menor en lo que corresponde a la organizaci&oacute;n y planeaci&oacute;n del mismo, por lo que extendemos nuestro reconocimiento al secretario de Salud, doctor Jorge Alcocer, y al maestro Zo&eacute; Robledo y a su comprometido equipo de trabajo con el que hemos avanzado de manera coordinada, incorporando las unidades de salud en el estado, las cuales han recibido el apoyo econ&oacute;mico necesario, unas para su mejora y otras para concluirlas por el estado de abandono en que se encontraban.</p>
+
+<p>Asimismo, se ha brindado el equipamiento y tecnolog&iacute;a m&eacute;dica adecuada para atender los problemas de salud que aquejan a nuestra poblaci&oacute;n. Y como punto central, con el recurso humano necesario para este fin al que se le ha brindado, a su vez, una anhelada seguridad laboral al incorporarlo en forma progresiva a este nuevo sistema de salud.</p>
+
+<p>Hoy estamos aqu&iacute; para constatar otro hecho sin precedentes en nuestro sistema de salud con la incorporaci&oacute;n de la sociedad al programa La Cl&iacute;nica es Nuestra, incluy&eacute;ndolos como participantes activos en la toma de decisiones, en la dignificaci&oacute;n de sus centros de salud, en la infraestructura, equipamiento m&eacute;dico y mobiliario.</p>
+
+<p>Por esto, est&aacute;n aqu&iacute; con nosotros los trabajadores del centro de salud &lsquo;Enrique C&aacute;rdenas&rsquo; y los directores de los 20 centros de salud a los que hoy de forma representativa se entrega el apoyo econ&oacute;mico a trav&eacute;s de los integrantes del comit&eacute; ciudadano, que ser&aacute; quienes establezcan el programa de mejora de sus centros de salud IMSS-Bienestar.</p>
+
+<p>Los montos a recibir en nuestro estado ser&aacute;n acordes a lo que ya ha sido mencionado en las anteriores intervenciones, teniendo nosotros en nuestra entidad la incorporaci&oacute;n a este programa 400 centros de salud, los cuales ya tienen conformados sus comit&eacute;s ciudadanos: 269 con un consultorio, 85 con dos consultorios, 20 de tres a cinco consultorios, 26 con m&aacute;s o seis consultorios, y siete con servicios ampliados, dando un apoyo econ&oacute;mico para nosotros de m&aacute;s de 209 millones de pesos.</p>
+
+<p>Se&ntilde;or presidente, aqu&iacute; nos acompa&ntilde;an los integrantes de los Comit&eacute;s de Salud para el Bienestar de 20 centros de salud a quienes entregamos el apoyo econ&oacute;mico correspondiente. En el caso del Centro de Salud &lsquo;Enrique C&aacute;rdenas&rsquo; recibe la se&ntilde;ora Marcela Elizabeth S&aacute;nchez Monsiv&aacute;is, presidenta del comit&eacute; de La Cl&iacute;nica es Nuestra; la se&ntilde;ora Josefina Silva Quintero, tesorera; as&iacute; como las presidentas y tesoreras que nos acompa&ntilde;an de los otros 19 centros de salud aqu&iacute; presentes. Muchas felicidades. Aqu&iacute; les entregamos.</p>
+
+<p><strong>ZO&Eacute; ROBLEDO ABURTO:</strong> Much&iacute;simas gracias, doctor Am&eacute;rico Villarreal. Un saludo a toda la comunidad.</p>
+
+<p><strong>AM&Eacute;RICO VILLAREAL ANAYA:</strong> Se&ntilde;or presidente, es as&iacute; como damos continuidad a la pol&iacute;tica humanista que ha caracterizado a su administraci&oacute;n, con una sociedad participativa y colaborativa, que busca en sus compromisos el desarrollo y el bienestar social.</p>
+
+<p>Muchas gracias, muchas gracias, se&ntilde;or presidente.</p>
+
+<p><strong>ZO&Eacute; ROBLEDO ABURTO:</strong> Muchas gracias y muchas felicidades a todos los comit&eacute;s de La Cl&iacute;nica es Nuestra.</p>
+
+<p>Y nos enlazamos ahora a Zacatecas, con el gobernador David Monreal &Aacute;vila; est&aacute; acompa&ntilde;ado del general Gabriel Hern&aacute;ndez, de la Comisi&oacute;n Presidencial para la Federalizaci&oacute;n; el coordinador estatal de IMSS-Bienestar, Carlos Marco Hern&aacute;ndez Magallanes; el secretario de Salud, Oswaldo Pinedo; adem&aacute;s de la licenciada Adilene Rosales Romero, de Programas de Bienestar; adem&aacute;s de los integrantes del Comit&eacute; del Centro de Salud del IMSS-Bienestar &lsquo;Dr. Jos&eacute; Castro Villagrana&rsquo;, en Zacatecas.</p>
+
+<p>Adelante, gobernador Monreal.</p>
+
+<p><strong>DAVID MONREAL &Aacute;VILA, GOBERNADOR DE ZACATECAS (ENLACE VIDEOLLAMADA):</strong> Buenos d&iacute;as, se&ntilde;or presidente Andr&eacute;s Manuel L&oacute;pez Obrador; buenos d&iacute;as al doctor Jorge Alcocer, secretario de Salud; al maestro Zo&eacute; Robledo, director general del IMSS; a la arquitecta Ariadna Montiel, secretaria del Bienestar, y dem&aacute;s integrantes del gabinete federal y medios de comunicaci&oacute;n; saludo con aprecio, con reconocimiento a la distancia a mis compa&ntilde;eros gobernadores y a nuestra gobernadora.</p>
+
+<p>Hoy Zacatecas refrenda su compromiso con uno de los pilares de la Cuarta Transformaci&oacute;n que usted encabeza: el anhelo de que las y los mexicanos, sin distinci&oacute;n, tengan acceso a un sistema de salud digno y gratuito, a trav&eacute;s del programa IMSS-Bienestar y La Cl&iacute;nica es Nuestra.</p>
+
+<p>El justo anhelo de que cualquier persona, independientemente de su condici&oacute;n socioecon&oacute;mica, &eacute;tnica o racial, cuente con el respaldo de un gobierno humanista para hacer frente a las insufribles cargas de cualquier enfermedad, es con la firme intenci&oacute;n de alcanzar este noble objetivo.</p>
+
+<p>Desde Zacatecas nos hemos sumado con voluntad y compromiso a la federalizaci&oacute;n del sistema de salud, convencidos de que se trata de una estrategia de transformaci&oacute;n de la vida de las y los mexicanos.</p>
+
+<p>Esta ma&ntilde;ana nos encontramos en el Centro de Salud Urbano &lsquo;Dr. Jos&eacute; Castro Villagrana&rsquo;, ubicado en la colonia de Las Palmas, en la capital de nuestro estado. Este es uno de los muchos complejos en donde se est&aacute; ya materializando este sue&ntilde;o por el que hemos luchado durante d&eacute;cadas, el de asegurar que todas y todos los mexicanos cuenten con acceso a servicios de salud digna, gratuitos y de calidad.</p>
+
+<p>Se&ntilde;or presidente, gracias a su apoyo y al esfuerzo de este gobierno, en Zacatecas hemos logrado instalar 292 comit&eacute;s de salud distribuidos de la siguiente manera: 216 comit&eacute;s de centro de salud de un consultorio que recibir&aacute;n 400 mil pesos, 26 comit&eacute;s de centros de salud de dos consultorios que reciben 600 mil pesos, 18 comit&eacute;s de centros de salud de tres a cinco consultorios que van a recibir 800 mil pesos, 28 comit&eacute;s de centros de salud de m&aacute;s de seis consultorios que reciben un mill&oacute;n de pesos y a cuatro comit&eacute;s de centro de salud ampliado de hasta 12 camas, que recibir&aacute;n 1.2 millones de pesos.</p>
+
+<p>Lo anterior representa una suma de 142 millones de pesos que ser&aacute;n destinados para la mejora de infraestructura y la adquisici&oacute;n de equipo m&eacute;dico y mobiliario, seg&uacute;n lo determine nuestro pueblo organizado a trav&eacute;s de estos comit&eacute;s.</p>
+
+<p>Todo esto ser&aacute; realizado con la mayor transparencia, con la mayor de las honestidades, tal como usted lo ha instruido. Ahora, gracias a este trabajo, estos recursos estar&aacute;n destinados a favorecer a todos, en lugar de convertirse en recursos discrecionales, en esas cajas chicas que se ejerc&iacute;an para beneficio de unos cuantos; ahora est&aacute;n dirigidos a incrementar de manera significativa y real la cobertura de salud para las personas m&aacute;s vulnerables de nuestro estado y de nuestro pa&iacute;s.</p>
+
+<p>Este programa permitir&aacute; que el pueblo zacatecano no tenga que preocuparse por el costo de una consulta m&eacute;dica, por el medicamento o por el tratamiento de especialistas, lo que nos permitir&aacute; seguir avanzando en la creaci&oacute;n de una sociedad m&aacute;s justa y equitativa, en donde todas y todos tengamos acceso a los mismos derechos.</p>
+
+<p>Se&ntilde;or presidente, termino reiterando la lealtad del pueblo de Zacatecas, la lealtad de nuestra gente para seguir cristalizando no solamente el sistema de salud, que ser&aacute; m&aacute;s justo y equitativo, sino la construcci&oacute;n de una sociedad en donde nadie se quede atr&aacute;s, en donde existan ni&ntilde;as y ni&ntilde;os con oportunidades para cumplir sus sue&ntilde;os, en donde ning&uacute;n estudiante deba abandonar la escuela por falta de recursos, en donde nuestros abuelitos y abuelitas cuenten siempre con la solidaridad de nuestro gobierno.</p>
+
+<p>Desde aqu&iacute;, desde Zacatecas, reiteramos y refrendamos nuestro compromiso para seguir avanzando en la impronta, humanista y progresista que usted ha sellado en el desarrollo del desarrollo del pa&iacute;s desde hace mucho tiempo.</p>
+
+<p>Y desde aqu&iacute;, tambi&eacute;n a nombre del estado de Zacatecas, de nuestras ni&ntilde;as, de nuestros ni&ntilde;os, de nuestros j&oacute;venes, hombres y mujeres, de nuestros adultos mayores y personas con discapacidad, le agradecemos infinitamente que ning&uacute;n d&iacute;a, en ning&uacute;n momento, nos ha dejado solos en este estado. Reconocemos su invaluable apoyo para que Zacatecas siga avanzando en el proceso de construcci&oacute;n de una sociedad de paz, bienestar y progreso.</p>
+
+<p>Y, sin m&aacute;s, vamos a proceder a la entrega de la tarjeta de beneficio a esta cl&iacute;nica por un monto de un mill&oacute;n de pesos a la tesorera del comit&eacute; del Centro de Salud &lsquo;Jos&eacute; Castro Villagrana&rsquo;. Este comit&eacute; lo integra la m&eacute;dico Laura Denise Ram&iacute;rez Sandoval, la enfermera Nancy Gabriela Nava Arteaga, la compa&ntilde;era presidenta Andrea Elizabeth V&eacute;lez Ram&iacute;rez y la tesorera Celia Carrillo Dom&iacute;nguez, a quien le hacemos entrega de esta tarjeta de La Cl&iacute;nica es Nuestra.</p>
+
+<p>Y, por &uacute;ltimo, se&ntilde;or presidente, no lo olvide, por favor, no lo olvide, nunca lo olvide: en Zacatecas lo queremos bien, mucho.</p>
+
+<p><strong>ZO&Eacute; ROBLEDO ABURTO:</strong> Muchas gracias, gobernador Monreal, y a todos los compa&ntilde;eros hasta Zacatecas.</p>
+
+<p>Nos vamos ahora a San Luis Potos&iacute; con el gobernador Ricardo Gallardo; el comisionado presidencial, el general Roberto Claudio del Rosal Ibarra; adem&aacute;s del coordinador de IMSS-Bienestar, el doctor Daniel Acosta; el secretario de Salud, la secretaria Ymuri Mercedes Vaca &Aacute;vila; el coordinador de Programas de Bienestar Guillermo Morales L&oacute;pez, al centro de salud del IMSS-Bienestar de Sim&oacute;n D&iacute;az, en San Luis Potos&iacute;. Adelante, gobernador Gallardo, lo escuchamos.</p>
+
+<p><strong>RICARDO GALLARDO CARDONA, GOBERNADOR DE SAN LUIS POTOS&Iacute; (ENLACE VIDEOLLAMADA):</strong> Gracias, Zo&eacute;. Muy buenos d&iacute;as, se&ntilde;or presidente Andr&eacute;s Manuel L&oacute;pez Obrador. Tambi&eacute;n saludo con mucho afecto al secretario de Salud, Jorge Alcocer; y, por supuesto, a ti, maestro Zo&eacute; Robledo, director general del Instituto Mexicano del Seguro Social; a las y los mexicanos, a las y los potosinos.</p>
+
+<p>Nos alegra informarles que en San Luis Potos&iacute; tambi&eacute;n estamos involucrados a las y los ciudadanos en la detecci&oacute;n de las necesidades m&aacute;s apremiantes en su centro de salud para que intervengan de manera directa en la soluci&oacute;n de dichas necesidades.</p>
+
+<p>Por ello, aqu&iacute; en San Luis Potos&iacute; se instalaron 392 comit&eacute;s, de los cuales 262 comit&eacute;s en centros de salud de un consultorio que recibir&aacute;n hasta 400 mil pesos, 27 comit&eacute;s y centros de salud de dos consultorios que recibir&aacute;n 600 mil pesos, siete consultorios de salud de tres a cinco consultorios que recibir&aacute;n hasta 800 mil pesos, 15 consultorios de salud, presidente, de hasta seis consultorios que recibir&aacute;n un mill&oacute;n de pesos y 81 centros de salud con servicios ampliados que recibir&aacute;n hasta un mill&oacute;n 200 mil pesos. En estos comit&eacute;s se les est&aacute;n entregando un total de 238 millones de pesos que servir&aacute;n para infraestructura, equipo m&eacute;dico y mobiliario de estas unidades.</p>
+
+<p>Nosotros estamos aqu&iacute; con la se&ntilde;orita Mares Corpus, tesorera del Comit&eacute; de Salud y Bienestar del Centro de Salud &lsquo;Sim&oacute;n D&iacute;az&rsquo;, a quien hago entrega el d&iacute;a de hoy de esta tarjeta La Cl&iacute;nica es Nuestra.</p>
+
+<p>Se&ntilde;or presidente, estamos seguros que con la participaci&oacute;n ciudadana vamos a mejorar el acceso a la salud, as&iacute; como las condiciones f&iacute;sicas de cientos de cl&iacute;nicas que hay en las cuatro regiones del estado. Y atendiendo a sus indicaciones, estaremos cuidando para que este recurso sea dispersado con la mayor transparencia, eficacia y, sobre todo, con la mayor honradez.</p>
+
+<p>Muchas gracias, se&ntilde;or presidente. Desde San Luis Potos&iacute; muchos saludos a las y los mexicanos.</p>
+
+<p><strong>ZO&Eacute; ROBLEDO ABURTO:</strong> Muchas gracias, gobernador Ricardo Gallardo, y a todos en San Luis Potos&iacute;.</p>
+
+<p>Y terminamos con Michoac&aacute;n, all&aacute; est&aacute;n en la Unidad M&eacute;dica Rural de Capula, en Morelia, el gobernador Alfredo Ram&iacute;rez Bedolla; el comisionado, el representante de la comisi&oacute;n presidencial, el doctor Ramiro L&oacute;pez Elizalde; Axay&aacute;catl Mar&iacute;n Correa, que es nuestro coordinador estatal de IMSS-Bienestar; L&aacute;zaro Cort&eacute;s, secretario de Salud; y Mar&iacute;a Concepci&oacute;n Dom&iacute;nguez, de Programas de Bienestar. Adelante, por favor, gobernador Bedolla.</p>
+
+<p><strong>ALFREDO RAM&Iacute;REZ BEDOLLA, GOBERNADOR DE MICHOAC&Aacute;N (ENLACE VIDEOLLAMADA):</strong> Gracias, amigo Zo&eacute; Robledo. Saludo al presidente Andr&eacute;s Manuel L&oacute;pez Obrador con cari&ntilde;o, con aprecio y admiraci&oacute;n.</p>
+
+<p>Desde Michoac&aacute;n, estamos aqu&iacute; en Capula, que es una tenencia, una comunidad de artesanos distinguidos internacionalmente en Morelia, y estamos aqu&iacute; con todo el personal, doctoras, enfermeras, enfermeros, m&eacute;dicos, por supuesto, de Morelia.</p>
+
+<p>Me da mucho gusto tambi&eacute;n saludar al secretario Alcocer, a Ariadna Montiel, secretaria del Bienestar.</p>
+
+<p>Y, bueno, Michoac&aacute;n est&aacute; sumado al IMSS-Bienestar para mejorar, sobre todo, la atenci&oacute;n directa a las michoacanas y a los michoacanos. Aqu&iacute;, se&ntilde;or presidente, quiero decirle que se formaron 686 comit&eacute;s en Michoac&aacute;n de La Cl&iacute;nica es Nuestra y se van a entregar un total de 376 millones de pesos en Michoac&aacute;n, en los 113 municipios que conforman la geograf&iacute;a michoacana.</p>
+
+<p>Van a recibir un consultorio, las unidades de un consultorio, que son 414, recibir&aacute;n 374 mil pesos; dos consultorios, que son 55 unidades, 574 mil pesos; de tres a cinco consultorios, que suman 116 unidades, 774 mil pesos; seis o m&aacute;s consultorios, tenemos 94 unidades en Michoac&aacute;n que recibir&aacute;n 974 mil pesos; y centros de salud ampliados, tenemos siete en este programa de La Cl&iacute;nica es Nuestra que van a recibir un mill&oacute;n 174 mil pesos.</p>
+
+<p>Se&ntilde;or presidente, agradecidos y agradecidos siempre por el apoyo que usted nos ha brindado en Michoac&aacute;n. Ya tenemos el nuevo hospital del IMSS en Uruapan, 90 camas, un hospital de mil 400 millones de pesos de inversi&oacute;n en su construcci&oacute;n y equipamiento, que esperemos pronto usted nos acompa&ntilde;e a inaugurar este importante hospital en Uruapan, la segundad ciudad en importancia en habitantes del estado de Michoac&aacute;n.</p>
+
+<p>Pero tambi&eacute;n se construyen dos importantes hospitales: uno en la costa, en Maruata, en Aquila, y otro m&aacute;s en la meseta pur&eacute;pecha, en Arantepacua.</p>
+
+<p>As&iacute; que la salud es para todas, es para todos, es un derecho, es el principal derecho que tiene como ser humano el que tengamos salud nosotros y toda la sociedad.</p>
+
+<p>As&iacute; que much&iacute;simas gracias, se&ntilde;or presidente.</p>
+
+<p>Vamos a proceder a entregar tambi&eacute;n la tarjeta. Se est&aacute;n entregando todas las tarjetas en Michoac&aacute;n de aqu&iacute; al d&iacute;a domingo. Est&aacute; conmigo Rosa Miguel, que es la presidenta del comit&eacute; de La Cl&iacute;nica es Nuestra en Capula, y la tesorera, Laura Itzel Rosas, a quienes les vamos a entregar en este momento su tarjeta, porque el apoyo de La Cl&iacute;nica es Nuestra, hay que decirlo, es un apoyo directo a la poblaci&oacute;n, sin intermediarios.</p>
+
+<p>Y, bueno, nosotros tambi&eacute;n confiamos plenamente las mujeres, y aqu&iacute; tenemos presidenta y tesorera. Y aqu&iacute; est&aacute; la tarjeta que entregamos a la tesorera. Felicidades. Gracias.</p>
+
+<p>Se&ntilde;or presidente, un gran abrazo. Y se le quiere mucho, de verdad, en tierras michoacanas. Gracias.</p>
+
+<p><strong>ZO&Eacute; ROBLEDO ABURTO:</strong> Muchas gracias, gobernador.</p>
+
+<p>Presidente, con esto concluimos los &uacute;ltimos ocho estados. S&oacute;lo de estos ocho estados son dos mil 500 comit&eacute;s, una dispersi&oacute;n de mil 380 millones de pesos.</p>
+
+<p>Y si me lo permite, presidente, tambi&eacute;n el d&iacute;a de hoy iniciamos, bueno, desde el martes iniciamos la dispersi&oacute;n y la entrega de las credenciales del IMSS-Bienestar. S&oacute;lo en estos estados son un mill&oacute;n 920 mil con las que iniciamos.</p>
+
+<p>En suma, con estos tres d&iacute;as, se est&aacute;n entregando un total de 11 mil 816 tarjetas del Banco del Bienestar al mismo n&uacute;mero de comit&eacute;s. Es un monto de cinco mil 87 millones de pesos. Son los comit&eacute;s ciudadanos completamente y est&aacute;n integrados por nueve personas, es decir, para el ejercicio de estos cinco mil millones de pesos en los 23 estados habr&aacute; m&aacute;s de 100 mil personas involucradas, tomando las decisiones, haciendo las prioridades y ejerci&eacute;ndolo, como lo sabe hacer el pueblo de M&eacute;xico, con total transparencia, honradez y mucho orden.</p>
+
+<p>Entonces, muchas gracias, presidente. Con esto concluimos la presentaci&oacute;n de La Cl&iacute;nica es Nuestra.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Vamos para la fila. A ver, pues, vamos. Vamos a alternar una y una para que no&hellip; Es mejor si empezamos porque si no, no&hellip; Nada m&aacute;s es pura izquierda y tiene que haber tambi&eacute;n derecha.</p>
+
+<p><strong>PREGUNTA:</strong> Gracias, presidente. Buenos d&iacute;as. Shaila Rosagel, corresponsal de <em>Grupo Healy</em>: <em>El Imparcial,</em> de Sonora; la <em>Cr&oacute;nica,</em> de Mexicali, y <em>Frontera,</em> de Tijuana. Buenos d&iacute;as a todos.</p>
+
+<p>Presidente, preguntarle sobre la medida que firm&oacute; el presidente Biden para restringir la entrada migratoria y permitir el cierre de la frontera en caso de que superen los dos mil 500 migrantes por una semana y reabrirla cuando baje a mil 500. Si esto llegara a suceder, bueno, usted ayer habl&oacute; de que pedir&iacute;a que no se triangulara la deportaci&oacute;n migratoria, pero en tanto esto sucede all&aacute; en Tijuana, por ejemplo, ya hay preocupaci&oacute;n por esta medida.</p>
+
+<p>Preguntarle si han analizado qu&eacute; va a suceder o c&oacute;mo se va a apoyar a ciudades como Tijuana en caso de que ocurriera esto, de que empezaran las deportaciones por ah&iacute; y que se cerrara eventualmente la frontera si se supera estos dos mil 500 migrantes.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Bueno, ayer hablaba yo que no se puede cerrar la frontera, no es posible, no le conviene a ninguno de los dos pa&iacute;ses ni a nuestros pueblos, es bastante la integraci&oacute;n econ&oacute;mica, comercial, social, que existe en la frontera.</p>
+
+<p>Imag&iacute;nense cerrar la econom&iacute;a en la frontera donde est&aacute; California, que debe ser como el estado con la quinta o sexta riqueza del mundo, lo que llaman producto interno bruto; y Texas, que debe de estar tambi&eacute;n, a ver si lo buscamos, como en el lugar nueve, 10; y M&eacute;xico, que est&aacute; entre las 10 principales econom&iacute;as del mundo. California es la quinta, esto para ubicarnos, y Texas es la 10. Entonces, M&eacute;xico es 12 o algo as&iacute;, 12. &iquest;C&oacute;mo se cierra la frontera? Somos los principales socios comerciales de Estados Unidos.</p>
+
+<p>Para tener tambi&eacute;n la idea, cuando llegamos al gobierno, el primer socio comercial de Estados Unidos era China; fuimos avanzando. Ahora se habla de un t&eacute;rmino en ingl&eacute;s que tiene que ver con el regreso, reacomodo, relocalizaci&oacute;n de inversiones. &iquest;C&oacute;mo le llaman al&hellip;?</p>
+
+<p><strong>INTERLOCUTORA:</strong> <em>Nearshoring</em>, presidente.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> <em>Nearshoring</em>, s&iacute;. Lo escuchaba yo hasta en el debate y dec&iacute;a: Pero &iquest;c&oacute;mo van a hablar de eso?, &iquest;qui&eacute;n entiende eso? O sea, si le est&aacute;n hablando al pueblo de M&eacute;xico. Pero como se ponen los t&eacute;rminos de moda, &iquest;no?, empiezan a hablar f&iacute;sico.</p>
+
+<p>&iquest;Qu&eacute; significa?</p>
+
+<p>Pues que est&aacute; llegando inversi&oacute;n extranjera, inversi&oacute;n for&aacute;nea. Porque hubo un plan desde el principio de nuestro gobierno, que se conoci&oacute; todav&iacute;a en las altas esferas del poder econ&oacute;mico y pol&iacute;tico de Estados Unidos, todav&iacute;a se le llama Plan M&eacute;xico. Porque no es para presumir, pero esto que est&aacute; pasando surgi&oacute; de nosotros, fue una propuesta nuestra desde el inicio del gobierno.</p>
+
+<p>Cuando se quer&iacute;a cerrar la econom&iacute;a en Estados Unidos, acu&eacute;rdense c&oacute;mo fue la campa&ntilde;a en ese entonces del presidente Trump. &Eacute;l hablaba de que iba a cerrar la econom&iacute;a para que no salieran las empresas de Estados Unidos ni se perdieran empleos en Estados Unidos, y sacaba siempre una cifra sobre el d&eacute;ficit que exist&iacute;a en Estados Unidos con relaci&oacute;n a M&eacute;xico porque est&aacute;bamos nosotros exportando m&aacute;s que lo que ellos nos vend&iacute;an, y desde luego el d&eacute;ficit con China era mayor.</p>
+
+<p>Entonces su propuesta era &mdash;creo que hasta lo manej&oacute; en una frase&mdash; una reedici&oacute;n de &lsquo;la Am&eacute;rica para los americanos&rsquo;, pensando que Am&eacute;rica es Estados Unidos, y no. Pero se habl&oacute; mucho de eso.</p>
+
+<p>Como es un hombre inteligente, con visi&oacute;n, fue cambiando. Porque, tambi&eacute;n, una cosa es la campa&ntilde;a y otra cosa es ya el gobierno. Ojal&aacute; y realmente no haya diferencias entre lo que se dice en campa&ntilde;a y lo que se hacen en el gobierno.</p>
+
+<p>Llegaron algunos de izquierda, entre comillas, a decir que se tomaba el poder como el viol&iacute;n, que se agarraba con la izquierda, pero se tocaba con la derecha. Una barbaridad, una incongruencia. Cuando yo escuchaba eso antes, dec&iacute;a: Ustedes no son de izquierda, ustedes son unos farsantes, porque ser de izquierda es ser consecuentes. Pero lo mismo pasaba en el flanco derecho y sigue pasando.</p>
+
+<p>Entonces, por eso una cosa son las campa&ntilde;as y otra cosa es el gobierno.</p>
+
+<p>Dec&iacute;a yo que el presidente Trump fue aceptando el que ten&iacute;amos que unirnos y que se ten&iacute;a que volver a firmar el tratado comercial, reafirmar el tratado, modificarlo, como se hizo, yo dir&iacute;a que para bien de M&eacute;xico, de Estados Unidos y de Canad&aacute;. Fue un triunfo importante el ratificar el tratado.</p>
+
+<p>El presidente Trump, ya lo he dicho, ten&iacute;a diferencias con el primer ministro Trudeau, y me lleg&oacute; a plantear que por qu&eacute; no se hac&iacute;a s&oacute;lo un tratado bilateral, M&eacute;xico-Estados Unidos. Y lo convencimos de que ten&iacute;amos que ser los tres pa&iacute;ses.</p>
+
+<p>Como ahora le va a tocar a las pr&oacute;ximas autoridades, a quien ya saben ustedes qui&eacute;n, pues seguir convenciendo de que se consolide la integraci&oacute;n de Am&eacute;rica del Norte, pero que se piense en consolidar la integraci&oacute;n de toda Am&eacute;rica; que como la Uni&oacute;n Europea comenz&oacute; como la Comunidad Europea y se convirti&oacute; en Uni&oacute;n Europea, lo mismo, comunidad de Am&eacute;rica y uni&oacute;n de todos los pa&iacute;ses de Am&eacute;rica. Esto va a significar una gran transformaci&oacute;n, pero, pensando en las nuevas generaciones, esta es la opci&oacute;n hacia adelante.</p>
+
+<p>Yo les dir&iacute;a que, en el corto, en el mediano plazo estamos garantizando el desarrollo de Am&eacute;rica del Norte, consolid&aacute;ndola, fortaleci&eacute;ndola, pero m&aacute;s adelante hay que procurar la integraci&oacute;n de toda Am&eacute;rica. Porque imag&iacute;nense lo que es el continente americano, sus recursos naturales, sus culturas, la laboriosidad de sus pueblos, su desarrollo tecnol&oacute;gico, la cercan&iacute;a de los pa&iacute;ses.</p>
+
+<p>&iquest;Qu&eacute; fue lo que llev&oacute; a aplicar lo que nosotros propon&iacute;amos? &iquest;Por qu&eacute; est&aacute; este regreso de inversiones a Am&eacute;rica del Norte?</p>
+
+<p>Porque era mucha la dependencia de Am&eacute;rica del Norte con relaci&oacute;n a Asia. Se lleg&oacute; al extremo &mdash;y se hizo sentir eso, y esto despert&oacute; a muchos&mdash;, se lleg&oacute; al extremo que se ten&iacute;an que traer chips, semiconductores de Asia, y no llegaban. Y un consumidor de Am&eacute;rica del Norte, de Estados Unidos, de M&eacute;xico, no pod&iacute;a comprar un refrigerador, un aparato electrodom&eacute;stico, por un chip, porque s&oacute;lo se produc&iacute;a en Asia.</p>
+
+<p>Y nosotros insistiendo de que hab&iacute;a que ir a la sustituci&oacute;n de importaciones, a fortalecer nuestros mercados, y se logr&oacute; ese prop&oacute;sito y en este sexenio, despu&eacute;s de ser China el principal socio comercial de Estados Unidos, pas&oacute; a serlo Canad&aacute; y luego M&eacute;xico, y ya estamos en el primer sitio. Pero es por esa pol&iacute;tica.</p>
+
+<p>Entonces, es imposible que se cierre la frontera, esto para tranquilidad de la gente. Podr&iacute;an tomar alguna medida, bueno, lo que en un tiempo hac&iacute;a, tambi&eacute;n con prop&oacute;sitos electorales, el gobernador de Texas &mdash;que afortunadamente ya est&aacute; cambiando en su manera de actuar&mdash; porque pon&iacute;a ciertas reglas para dejar pasar los camiones a M&eacute;xico, ten&iacute;an que revisarse los frenos. Puro requisito inventado, burocracia para presionar, y que por seguridad, y que por los migrantes. Se hac&iacute;an grandes, largas colas; empezaron a protestar los mismos empresarios de Estados Unidos de la frontera y ya no hay eso.</p>
+
+<p>Entonces, que no haya temor de que se vaya a cerrar la frontera.</p>
+
+<p>Y, adem&aacute;s, tenemos muy buena relaci&oacute;n con el presidente Biden, muy buena, y estamos constantemente comunic&aacute;ndonos. Nosotros somos respetuosos de las decisiones que toman en Estados Unidos; tenemos que respetar las soberan&iacute;as, la soberan&iacute;a de Estados Unidos y la soberan&iacute;a de M&eacute;xico.</p>
+
+<p>Entonces, en este caso estamos nosotros ayudando para que se acepte en los pa&iacute;ses donde ellos no tienen buena relaci&oacute;n el que puedan tomar medidas de deportaci&oacute;n; aunque nosotros quisi&eacute;ramos que no deportaran a nadie, porque la migraci&oacute;n no es por gusto, es por necesidad. Pero ya, como toman esas decisiones y es un Estado soberano, bueno, que los deportados lleguen de manera directa a sus pa&iacute;ses. Esto incluso es de m&aacute;s atenci&oacute;n, cuidado a los derechos humanos.</p>
+
+<p>Hablaba yo ayer del caso de Cuba, es el caso de Venezuela y de otros pa&iacute;ses. Como nosotros tenemos muy buenas relaciones con todos, nosotros tenemos un acuerdo y podemos desde M&eacute;xico enviar migrantes a cualquier pa&iacute;s, pero lo que buscamos es que puedan hacerlo de manera directa. A nosotros nos aceptan eso, nos los acepta Venezuela, nos los acepta Cuba, nos los acepta otros pa&iacute;ses, y ya lo estamos haciendo en el caso de estos pa&iacute;ses, pero estamos buscando que se llegue a acuerdos, que Estados Unidos llegue a un acuerdo con Cuba, que se abra un di&aacute;logo bilateral. &iquest;Por qu&eacute; no van a dialogar? Me consta que el gobierno de Cuba est&aacute; en condiciones, tiene una actitud de di&aacute;logo.</p>
+
+<p>Desde luego, ayer habl&aacute;bamos del bloqueo. Tiene que haber una respuesta. No quiero seguir rondando sobre el tema, pero son asuntos que se tienen que atender mediante el di&aacute;logo porque est&aacute; de por medio el sufrimiento de la gente, y no hay que dejar de pensar en la fraternidad universal, lo que va m&aacute;s all&aacute; de los l&iacute;mites territoriales, lo que va m&aacute;s all&aacute; de las fronteras.</p>
+
+<p>Entonces, eso es lo que yo puedo decir. Vamos a estar pendientes, de todas maneras, aqu&iacute; todos los d&iacute;as sobre este asunto, pero mi mensaje es que no deben de preocuparse en la frontera de nuestro pa&iacute;s.</p>
+
+<p><strong>INTERLOCUTORA:</strong> Gracias, presidente.</p>
+
+<p>Preguntarle de esta medida que firm&oacute; el presidente, migratoria. &iquest;Lo han analizado? &iquest;Cu&aacute;l ser&iacute;a el impacto para M&eacute;xico? Yo entiendo cuando hablaban del cierre de la frontera que es migratoria, no comercial, es lo que yo entiendo. No s&eacute; en el an&aacute;lisis que ustedes han hecho, de que cuando superen los dos mil 500 migrantes en una semana se va a cerrar para ellos y se reabrir&iacute;a cuando baje a mil 500.</p>
+
+<p>En este sentido, &iquest;qu&eacute; es lo que han analizado? Y si se prev&eacute; que se va&hellip; Pues que va a haber alg&uacute;n impacto, por ejemplo, en ciudades como Tijuana o la frontera de Sonora, donde ah&iacute; es donde llegan todos los migrantes. Ser&iacute;a s&oacute;lo esa aclaraci&oacute;n, preguntarle.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Yo creo que es muy buena tu interpretaci&oacute;n, o sea, para aclararlo m&aacute;s, es migratorio, no es comercial. O sea, no tiene que ver con la gente de Tijuana que va y viene, es para lo que se conoce como migraci&oacute;n irregular.</p>
+
+<p>Porque hay ya, afortunadamente tambi&eacute;n, canales, vamos a decir, formales, que se abrieron, que no hab&iacute;a, con el presidente Biden para que el que quiera llegar a Estados Unidos lo pueda hacer con un tr&aacute;mite. Y as&iacute; han entrado, yo creo que desde que se aprob&oacute; esa reforma legal en Estados Unidos con el presidente Biden, creo que han entrado como 500 mil migrantes de manera legal. Antes no hab&iacute;a ninguna v&iacute;a legal, no se pod&iacute;a, era muy dif&iacute;cil para los migrantes que quer&iacute;an ir a vivir, a trabajar a Estados Unidos. Entonces, hay esa v&iacute;a.</p>
+
+<p>Hay que seguirla ampliando, mejorando, facilitando, tambi&eacute;n, los tr&aacute;mites, que los migrantes puedan hacer los tr&aacute;mites en sus lugares de origen, no en Ciudad Ju&aacute;rez o en Tijuana, sino en Guatemala, en Honduras, en La Habana, en Venezuela, en Colombia.</p>
+
+<p>Lo m&aacute;s complicado por la situaci&oacute;n de ingobernabilidad, ojal&aacute; y se resuelva, es lo de Hait&iacute;, y ah&iacute; por cuestiones humanitarias tenemos todos que participar. Y tiene que aplicarse a fondo la ONU; esas son de las cosas que la ONU desatiende, voltea a ver para otro lado, con todo respeto a los diplom&aacute;ticos de la ONU. No se trata de estar asistiendo a congresos, visitas de supervisi&oacute;n. Si hay un tema como es lo de Gaza, lo de la guerra Ucrania-Rusia, como lo de Hait&iacute;, toda la ONU ah&iacute;, m&aacute;s activismo para atender estos casos.</p>
+
+<p>Pero eso es lo que puede comentarte.</p>
+
+<p><strong>INTERLOCUTORA:</strong> Gracias, presidente.</p>
+
+<p>Por otro lado, preguntarle si, antes de terminar su gesti&oacute;n, si van a quedar asegurados recursos para concluir con las obras que est&aacute;n pendientes en Sonora, como la modernizaci&oacute;n del puente del puerto de Guaymas, el parque solar de Puerto Pe&ntilde;asco y la carretera Guaymas y Chihuahua. Si van a quedar estos recursos.</p>
+
+<p>Y tambi&eacute;n preguntarle: bueno, yo s&eacute; que todav&iacute;a no habla con la virtual presidenta electa, Claudia Sheinbaum, pero, en este recorrido que har&iacute;an juntos, si podr&iacute;a estar incluido Baja California y Sonora, una visita a estos dos estados y qu&eacute; temas se ver&iacute;an por all&aacute;.</p>
+
+<p>Ser&iacute;a todo, presidente.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> S&iacute;, va a terminarse la carretera de Chihuahua a Guaymas, el tramo que se est&aacute; construyendo; va a quedar pendiente el tramo hasta los l&iacute;mites&hellip;</p>
+
+<p><strong>INTERVENCI&Oacute;N:</strong> (inaudible)</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> No, se llama&hellip; Ya pertenece a Chihuahua, en los l&iacute;mites de Sonora con Chihuahua.</p>
+
+<p><strong>INTERLOCUTORA:</strong> &Iacute;muris.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> No, no. &iquest;Por qu&eacute; no pones la&hellip;? para que lo expliquemos.</p>
+
+<p>&iexcl;Y&eacute;cora!, ya, ya. Es que el COVID y, como dicen mis adversarios, ya estoy <em>chocheando</em>. Pero es Y&eacute;cora. Ya, de donde se inici&oacute; la carretera, va a llegar a Guaymas, ya est&aacute; por llegar, o sea, vamos a tener esa modernizaci&oacute;n terminada, antes de que yo concluya el mandato se va a inaugurar.</p>
+
+<p>Lo del puerto de Guaymas, tambi&eacute;n, con las obras en Guaymas.</p>
+
+<p>&iquest;Qu&eacute; otra cosa?</p>
+
+<p><strong>INTERLOCUTORA:</strong> Lo de Puerto Pe&ntilde;asco.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> S&iacute;, se termina, se termina. T&uacute; hablas de la planta.</p>
+
+<p><strong>INTERLOCUTORA:</strong> De planta, s&iacute;.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> S&iacute;, s&iacute;, se tiene que terminar, no s&oacute;lo la planta, sino el tendido de la l&iacute;nea hasta Mexicali, desde Pe&ntilde;asco a Mexicali, eso est&aacute; en el plan. Se est&aacute; trabajando y nos vamos a dedicar mucho ya a inaugurar obras; es que con las elecciones no pod&iacute;amos hacerlo, pero ya estamos avanzando.</p>
+
+<p>Y, desde luego, todo el plan yaqui se va a concluir, todo. Esto significa el acueducto para que no les falte agua a los pueblos; la rehabilitaci&oacute;n del distrito de riego, que ya est&aacute; manejado por los yaquis, el distrito de riego que exist&iacute;a, pero se le est&aacute; haciendo una rehabilitaci&oacute;n completa; y el nuevo distrito de riego va a quedar tambi&eacute;n terminado en el caso de Sonora; el agua para los seris va a quedar tambi&eacute;n, es un acueducto, porque tienen planta de tratamiento desalinizadora, pero ellos quieren que no sea esa agua, y ya se est&aacute; trabajando. Y otras cosas que tenemos ah&iacute; pendientes en Sonora, vamos a avanzar mucho.</p>
+
+<p>Lo de la visita, pues va a depender de la agenda de la candidata. No, no, es presidenta virtual, presidenta electa.</p>
+
+<p>Que, por cierto, ya llevan contabilizadas las actas, ya lleg&oacute; a 35 millones y va a pasar. &iquest;No lo tienes por ah&iacute;? Estos son c&oacute;mputos distritales, empezaron ayer. &iquest;Cu&aacute;nto llevan ya?</p>
+
+<p><strong>JES&Uacute;S RAM&Iacute;REZ CUEVAS, COORDINADOR GENERAL DE COMUNICACI&Oacute;N SOCIAL Y VOCERO DE PRESIDENCIA:</strong> Faltan 300 m&aacute;s o menos.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> El porcentaje.</p>
+
+<p><strong>JES&Uacute;S RAM&Iacute;REZ CUEVAS:</strong> El porcentaje, 99.7.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> 99.7, pero 35 millones 852.</p>
+
+<p><strong>INTERVENCI&Oacute;N:</strong> Casi 20 millones de diferencia, presidente, entre el primer y segundo lugar.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> S&iacute;, s&iacute;. No, si me <em>cepill&oacute;</em> a m&iacute;.</p>
+
+<p>Se pensaba que iba a ser la elecci&oacute;n m&aacute;s votada, y miren. &iquest;A cu&aacute;nto?</p>
+
+<p><strong>JES&Uacute;S RAM&Iacute;REZ CUEVAS:</strong> A 61.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> A 61 la participaci&oacute;n.</p>
+
+<p>Entonces, terminan con esto, tiene que ser creo que el s&aacute;bado.</p>
+
+<p><strong>JES&Uacute;S RAM&Iacute;REZ CUEVAS:</strong> Eso termina seguramente hoy.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> S&iacute;, pero formalmente s&aacute;bado o domingo.</p>
+
+<p><strong>JES&Uacute;S RAM&Iacute;REZ CUEVAS:</strong> Falta senadores y diputados federales. O sea, todo termina el s&aacute;bado.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Y luego hay que esperar porque vienen las impugnaciones. Ayer estaba yo viendo una impugnaci&oacute;n. Y es interesante decirlo porque todav&iacute;a no quieren aceptar la nueva realidad, ese es un problema que tienen. &iquest;Cu&aacute;ntas veces he dicho aqu&iacute;, cu&aacute;ntas veces he repetido la frase b&iacute;blica de que no se pueden poner vinos nuevos o vino nuevo en botellas viejas? &iquest;Por qu&eacute; no entender los reacomodos, los cambios? &iquest;Por qu&eacute; no analizar un poco qu&eacute; fue la revoluci&oacute;n de las conciencias?, que se inici&oacute; desde hace a&ntilde;os con la participaci&oacute;n de millones de mexicanos, mujeres, hombres, porque este es un movimiento de mucha gente, yo fui uno m&aacute;s; me toc&oacute; en una etapa conducir, pero el motor del cambio fue el pueblo. &iquest;Por qu&eacute; no aceptar eso?</p>
+
+<p>Pues estaba yo viendo a Pedro Ferriz, que dice que van a impugnar porque con inteligencia artificial se manipul&oacute; el PREP. F&iacute;jense hasta d&oacute;nde. Yo creo que lo hacen ya ni siquiera por enojo, sino por llamar la atenci&oacute;n. Ni deber&iacute;a yo estarlo diciendo aqu&iacute; para no caer en ese juego, pero s&iacute; sirve para ir precisamente consolidando la toma de conciencia.</p>
+
+<p>De modo que va muy bien todo. Bueno, dec&iacute;a, va a depender de la agenda que tenga la presidenta electa, y nos vamos a poner de acuerdo para hacer un recorrido. En mi caso, a m&iacute; me gustar&iacute;a que, si salimos juntos sea a ver obras y a supervisar, m&aacute;s territorio que escritorio, aunque est&aacute;n de por medio las plazas, pero eso no.</p>
+
+<p>Yo voy a informar el d&iacute;a 1&ordm; de septiembre. S&iacute;, va a ser aqu&iacute; en el Z&oacute;calo. Es el &uacute;nico acto, mi informe el d&iacute;a 1&ordm; de septiembre y&hellip;</p>
+
+<p><strong>PREGUNTA:</strong> &iquest;Lo acompa&ntilde;ar&aacute; la doctora, el 1&ordm;, presidente?</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> &iquest;El 1&ordm; en el informe? La voy a invitar, claro, c&oacute;mo no. No s&eacute; si vaya ella a tener oportunidad de acompa&ntilde;arme, pero claro que s&iacute;, claro que s&iacute;.</p>
+
+<p>Y el d&iacute;a 15 de septiembre ya es el Grito, que me corresponde, d&iacute;a 15.</p>
+
+<p>Y el d&iacute;a 1&ordm; de octubre es la entrega de la banda presidencial, aunque legalmente desde las 12:00 de la noche del &uacute;ltimo d&iacute;a de septiembre yo ya dejo de ser presidente, lo de la ma&ntilde;ana es una ceremonia, es la formalidad; pero desde las primeras horas del d&iacute;a 1&ordm; de octubre, presidenta constitucional la compa&ntilde;era doctora Claudia Sheinbaum, la primera mujer en la historia, despu&eacute;s de 200 a&ntilde;os, desde la primer rep&uacute;blica federal, desde Guadalupe Victoria, el primer presidente, es un hecho hist&oacute;rico.</p>
+
+<p>No tenemos, &iquest;eh?, de qu&eacute; quejarnos, estamos viviendo tiempos interesantes, nos toc&oacute; vivir en un momento estelar. Y, adem&aacute;s, ustedes, todos los mexicanos estamos en la cresta de una ola de transformaci&oacute;n. D&iacute;ganme cu&aacute;ndo, si en la historia de nuestro pa&iacute;s pasaban los siglos y no suced&iacute;a nada, predominaba el inmovilismo, y ahora es una transformaci&oacute;n, cosas que no se hab&iacute;an visto en mucho tiempo, y tambi&eacute;n muchas cosas in&eacute;ditas, nuevas. Ah&iacute; lo vamos a ir poco a poco internalizando, poco a poco, pero s&iacute; es importante el momento.</p>
+
+<p><strong>PREGUNTA:</strong> Buenos d&iacute;as, presidente.</p>
+
+<p>Emir Olivares, de <em>La Jornada</em>.</p>
+
+<p>Un poco siguiendo con el tema pol&iacute;tico-electoral, &iquest;ha visto a la virtual presidenta electa en estos d&iacute;as?</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> He hablado con ella y le he mandado alg&uacute;n recadito de felicitaci&oacute;n. &iquest;Quieren conocerlo? &iquest;S&iacute;? Bueno, el que le mand&eacute; el domingo en la noche, &iquest;lo quieren conocer? Pero nada m&aacute;s ese.</p>
+
+<p><strong>INTERVENCI&Oacute;N:</strong> &iquest;Cu&aacute;ntos m&aacute;s?</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> No, no, no, ese y ya. Ofrezco disculpas por anticipado a Claudia por darlo a conocer. Pero a ver si lo Beatriz, mi compa&ntilde;era, esposa. Un d&iacute;a voy a hablar de ella en la ma&ntilde;anera. La voy a invitar, la voy a invitar porque me ha ayudado mucho como se comprender&aacute;. Que es el mensaje que le envi&eacute; en la noche del domingo. Yo creo que adem&aacute;s ya hab&iacute;an cerrado las casillas, para que no vaya a ser que me vayan a&hellip; La felicitaci&oacute;n, con Beatriz, iba a estar en&hellip;</p>
+
+<p><strong>JES&Uacute;S RAM&Iacute;REZ CUEVAS:</strong> No es felicitaci&oacute;n en mensaje, la felicitaci&oacute;n fue por tel&eacute;fono y el mensaje dice otra cosa.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> No, s&iacute; hay un texto.</p>
+
+<p><strong>INTERVENCI&Oacute;N:</strong> &iquest;Le ayud&oacute; su esposa?</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Yo la dict&eacute;.</p>
+
+<p><strong>JES&Uacute;S RAM&Iacute;REZ CUEVAS:</strong> Habla de los resultados del INE y los partidos, la posici&oacute;n que tomaron, pero no hay de felicitaci&oacute;n.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> No, no. Mejor la voy a buscar yo, no vaya a ser que lo vayan a usar para otras cosas.</p>
+
+<p><strong>JES&Uacute;S RAM&Iacute;REZ CUEVAS: </strong>Parece que ya lo borr&oacute;.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Ya lo borr&oacute;. Ma&ntilde;ana, ma&ntilde;ana. A lo mejor lo guard&oacute; Claudia, y est&aacute; de acuerdo y entonces lo podemos poner. Es donde le digo que es para m&iacute; lo mejor que pudo pasarle a M&eacute;xico en estos tiempos.</p>
+
+<p><strong>INTERVENCI&Oacute;N:</strong> (inaudible) los resultados.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Ya hab&iacute;an dado a conocer los resultados o estaban por darlos a conocer.</p>
+
+<p><strong>INTERLOCUTOR:</strong> &iquest;Usted ya ten&iacute;a la informaci&oacute;n?</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> S&iacute;. O sea, aqu&iacute; no hay espionaje, se acab&oacute; el espionaje, pero s&iacute; hay inteligencia. Pues aqu&iacute; se sabe todo porque aqu&iacute; viene gente de todos lados y nos informan; por eso, para qu&eacute; vamos a estar espiando, escuchando tel&eacute;fonos. Sabemos todo lo que pasa en el pa&iacute;s. Pero ya sab&iacute;amos, &iquest;no?</p>
+
+<p><strong>INTERLOCUTOR:</strong> Presidente, y con respecto a la presentaci&oacute;n que hizo ayer la secretaria de Gobernaci&oacute;n sobre los n&uacute;meros del PREP, mucha gente, personajes de la oposici&oacute;n se quejaron, criticaron que est&eacute; adelantando o que se estuvieran evidenciando estos resultados antes de los conteos distritales del INE.</p>
+
+<p>Incluso preguntarle si est&aacute;n bien los n&uacute;meros, si tiene mayor&iacute;as calificadas el movimiento de transformaci&oacute;n. Porque incluso hay tambi&eacute;n quienes aseguran que no se pueden alcanzar esos n&uacute;meros porque hay un tope para evitar la sobrerrepresentaci&oacute;n. &iquest;S&iacute; se apunta a eso?</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> S&iacute;, mire son dos cosas:</p>
+
+<p>Una, que debemos de acostumbrarnos a garantizar el derecho a la informaci&oacute;n, que no se garantizaba en M&eacute;xico, los aparatos medi&aacute;ticos que obedec&iacute;an y obedecen a intereses econ&oacute;micos, pol&iacute;ticos, administraban la informaci&oacute;n y daban a conocer s&oacute;lo lo que les conven&iacute;a. Eso lo sabe muy bien la gente.</p>
+
+<p>Si uno ha podido recoger los sentimientos del pueblo&hellip; Que es lo que les hace falta a los de arriba del bloque conservador, escuchar m&aacute;s al pueblo, recoger los sentimientos de la gente. Porque pueden tener much&iacute;simo dinero y tener acceso al <em>New York Times, el Wall Street Journal</em> y asesores, pero estoy seguro &mdash;y ellos saben a lo que me refiero&mdash; que se sorprendieron con los resultados, que no estaban esperando eso.</p>
+
+<p>&iquest;Y por qu&eacute; no?</p>
+
+<p>Ya lo dije, porque tienen mala informaci&oacute;n, sobre todo informaci&oacute;n sobre lo p&uacute;blico, sobre la gente, viven en otro mundo, es una burbuja. Pero si fuesen a acompa&ntilde;arme a una gira, a cualquier lugar me hubiesen acompa&ntilde;ado una semana antes que fui a Veracruz, al puerto, no s&eacute;&hellip; Ah, s&iacute;, y fuimos tambi&eacute;n cuando se conmemor&oacute;, se record&oacute; lo de la invasi&oacute;n estadounidense, creo que en abril, y en la calle la gente contenta, apoyando, en Acapulco. S&oacute;lo no conociendo al pueblo.</p>
+
+<p>Bueno, c&oacute;mo, un hurac&aacute;n, c&oacute;mo va a ser que en Acapulco voten por la transformaci&oacute;n; pues no conocen al pueblo. Es que se les olvid&oacute; que hemos invertido &mdash;porque no es un gasto, es una inversi&oacute;n&mdash; alrededor de 30 mil millones de pesos en el plan de recuperaci&oacute;n de mejoramiento de Acapulco, desde octubre hasta ahora, que incluso voy a ir a un &uacute;ltimo informe.</p>
+
+<p>Imag&iacute;nense lo que es entregar, en tres, cuatro meses, 250 mil paquetes de electrodom&eacute;sticos para 250 mil familias. No hay esa cantidad de estufas ni refrigeradores en M&eacute;xico. Pero la gente que est&aacute; bien informada sabe que fui al encuentro Asia-Pac&iacute;fico, a San Francisco, y s&iacute; me interesaba mucho participar en el encuentro, pero lo que m&aacute;s interesaba era hablar con el presidente de China para que nos vendieran los electrodom&eacute;sticos de Acapulco, y hablar con el primer ministro de Corea, y a eso fui.</p>
+
+<p>Y cuando se tuvo la reuni&oacute;n, porque tambi&eacute;n a M&eacute;xico lo distinguen mucho. Este fue un encuentro de muchos pa&iacute;ses, pero s&oacute;lo el presidente de China y el presidente de Estados Unidos fueron dos o tres reuniones bilaterales, y nosotros tuvimos una reuni&oacute;n aparte, una bilateral con el presidente de Estados Unidos, una bilateral con el primer ministro de Canad&aacute;, y una bilateral con el presidente de China, y el tema era eso.</p>
+
+<p>Y, entonces, ahora dicen&hellip; Estoy poniendo un ejemplo, m&aacute;s lo que hicieron las Fuerzas Armadas, lo que hicieron los trabajadores de la Comisi&oacute;n Federal de Electricidad, que, en una semana, en 10 d&iacute;as reestablecieron el servicio el&eacute;ctrico.</p>
+
+<p><strong>INTERVENCI&Oacute;N:</strong> (Inaudible) de la corte.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> No, claro, sin el apoyo de la corte.</p>
+
+<p>Pero no s&oacute;lo el apoyo de la corte, empiezan: &lsquo;&iexcl;Ah!, pero quitaron&hellip;&rsquo; &iquest;C&oacute;mo se llamaba ese barril sin fondo, donde se robaban el dinero?</p>
+
+<p><strong>INTERVENCI&Oacute;N:</strong> Fonden.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> El Fonden. &iquest;Cu&aacute;ndo hab&iacute;an ejercido s&oacute;lo para atender un siniestro, una tragedia as&iacute;, 30 mil millones en el Fonden? Nunca.</p>
+
+<p>Entonces, es un desconocimiento completo de la realidad, una falta de respeto al pueblo.</p>
+
+<p>La se&ntilde;ora de ayer, ya no quisiera seguirlo repitiendo, pero ayuda mucho a entender el clasismo, el racismo que prevalec&iacute;a, el decir &lsquo;me da mucha tristeza porque les quitamos las cadenas y se las volvieron a poner&rsquo;. Una&hellip; No, no lo digo, no lo digo.</p>
+
+<p><strong>INTERLOCUTOR:</strong> Nada m&aacute;s para cerrar el tema, presidente, entonces no ha visto a la ganadora, la virtual ganadora.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> He estado hablando con ella.</p>
+
+<p><strong>INTERLOCUTOR:</strong> &iquest;S&oacute;lo ha hablado con ella?</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> S&iacute;.</p>
+
+<p><strong>INTERLOCUTOR:</strong> En otro asunto, presidente, seguramente hoy le informaron en el Gabinete de Seguridad, anoche hubo un operativo, el Instituto Nacional de Migraci&oacute;n y la Guardia Nacional, incluso guardias nacionales iban armados, para desalojar un campamento en la colonia Ju&aacute;rez, en la Plaza Giordano Bruno, de personas migrantes, alrededor de 300 personas.</p>
+
+<p>&iquest;Se est&aacute;n endureciendo las pol&iacute;ticas migratorias de M&eacute;xico o por qu&eacute; se dio este desalojo? Y hasta estos momentos no se sabe a d&oacute;nde fueron enviadas estas personas que fueron subidas a los camiones. &iquest;Tiene reportes de algo?</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> S&iacute;, sali&oacute; hoy en el informe, pero no tenemos m&aacute;s.</p>
+
+<p><strong>JES&Uacute;S RAM&Iacute;REZ CUEVAS:</strong> Que fue voluntario y fue para regularizar su situaci&oacute;n, entonces est&aacute;n haciendo los tr&aacute;mites.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> En el transcurso de la ma&ntilde;ana informamos.</p>
+
+<p><strong>INTERLOCUTOR:</strong> Personalmente yo escuch&eacute; que les dec&iacute;an que les iban a dar la residencia, pero los migrantes denunciaron que les han venido diciendo eso en todo el camino. Ellos tem&iacute;an que los regresaran al sur, sobre todo porque muchos estaban esperando, unos en tr&aacute;mite ante la Comar.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> No, no hay deportaci&oacute;n.</p>
+
+<p><strong>INTERLOCUTOR:</strong> No, no, que se le regresara a Tapachula, dentro de M&eacute;xico, pero al sur de nuestro pa&iacute;s.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> No tenemos informaci&oacute;n.</p>
+
+<p><strong>INTERLOCUTOR:</strong> Porque ellos estaban en Ciudad de M&eacute;xico por dos razones, muchos de ellos: unos porque estaban haciendo el tr&aacute;mite de asilo ante la Comar y otros porque estaban esperando el tr&aacute;mite del CBP One, que por la tecnolog&iacute;a de Estados Unidos s&oacute;lo sirve o s&oacute;lo funciona de Ciudad de M&eacute;xico hacia el norte, entonces justamente llevarlos al sur ser&iacute;a contraproducente para ellos, &iquest;no?</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Hoy informamos m&aacute;s.</p>
+
+<p><strong>JES&Uacute;S RAM&Iacute;REZ CUEVAS:</strong> Pero no fue a la fuerza, &iquest;eh?</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Hoy informamos m&aacute;s.</p>
+
+<p><strong>INTERLOCUTOR:</strong> <em>Okey</em>, presidente.</p>
+
+<p>Y, tambi&eacute;n, despu&eacute;s de medianoche lleg&oacute; el comisionado Gardu&ntilde;o y felicit&oacute; a su equipo por el operativo, e incluso un poco ironiz&oacute; con la pol&iacute;tica de la Ciudad de M&eacute;xico que se dice santuario de la migraci&oacute;n, como que ironiz&oacute; delante de su equipo. &iquest;Alguna posici&oacute;n?</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> &iquest;Qui&eacute;n?</p>
+
+<p><strong>INTERLOCUTOR:</strong> El comisionado Francisco Gardu&ntilde;o.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> No estoy enterado de eso.</p>
+
+<p><strong>INTERLOCUTOR:</strong> &iquest;Y sabe c&oacute;mo va su proceso por lo de Ciudad Ju&aacute;rez, cuando lo del incendio?</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> No, tampoco, no. Y espero que vaya bien, eso s&iacute;.</p>
+
+<p><strong>INTERLOCUTOR:</strong> Entonces, &iquest;hoy nos pueden informar sobre la situaci&oacute;n? Para saber sobre todo d&oacute;nde est&aacute;n y qu&eacute; se va a hacer con estas personas.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> S&iacute;, s&iacute;, s&iacute;.</p>
+
+<p><strong>JES&Uacute;S RAM&Iacute;REZ CUEVAS:</strong> Est&aacute;n en la oficina de migraci&oacute;n en Morelos, Hidalgo, y el Estado de M&eacute;xico.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Ya est&aacute;.</p>
+
+<p><strong>INTERLOCUTOR:</strong> Morelos, Hidalgo y Estado de M&eacute;xico, oficinas de Migraci&oacute;n, &iquest;ah&iacute; est&aacute;n?</p>
+
+<p><strong>JES&Uacute;S RAM&Iacute;REZ CUEVAS:</strong> Oficinas de migraci&oacute;n, est&aacute;n haciendo los tr&aacute;mites de las visas, de las tarjetas por razones humanitarias.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Pero si nos esperamos una hora o dos horas, se les da, que den a conocer con un comunicado, un bolet&iacute;n.</p>
+
+<p><strong>INTERLOCUTOR:</strong> &iquest;No se endurecen las pol&iacute;ticas migratorias, presidente, en M&eacute;xico, despu&eacute;s sobre todo de la llamada con el presidente Biden y las medidas de Estados Unidos?</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> No, no, no. A ustedes, en <em>La Jornada</em>, que son excepcionales, &iquest;eh?, no quiero generalizar, pero a veces quisieran mandar el mensaje de que somos iguales, de que no hubo cambio. Nosotros no desaparecemos, nosotros no violamos derechos humanos, nosotros no torturamos, nosotros no reprimimos, no ordenamos masacres, no.</p>
+
+<p>Como un director adjunto de <em>La Jornada,</em> me dijo en una ocasi&oacute;n de que por qu&eacute; los vuelos rasantes en Chiapas. &iquest;Cu&aacute;les? Porque se qued&oacute; anclado en la &eacute;poca del movimiento zapatista, que seguramente hab&iacute;a esos vuelos rasantes.</p>
+
+<p>Hace dos d&iacute;as una <em>Rayuela</em>, de <em>La Jornada</em>, porque si aqu&iacute;&hellip; Primero, se cuestiona al presidente, como nunca. No es que yo me quiera tirar al suelo ni me voy a poner a llorar, ya les he dicho muchas veces que llevo a&ntilde;os luchando y que s&eacute; que cuando se lucha por una causa justa hay que estar dispuestos a pagar una cuota de humillaci&oacute;n.</p>
+
+<p>Entonces, se cuestiona al presidente; el presidente tambi&eacute;n contesta, responde, hace uso de su derecho de r&eacute;plica, aqu&iacute; vemos c&oacute;mo se comporta la prensa, la radio, la televisi&oacute;n, que est&aacute; al servicio de la oligarqu&iacute;a o de la llamada clase pol&iacute;tica.</p>
+
+<p>Pero tambi&eacute;n, bueno, <em>Proceso</em>, que antes era un faro de la verdad y se volvi&oacute; algo muy parecido a la <em>Alarma!</em> por su sensacionalismo, y nos da mucha pena.</p>
+
+<p>Pero, f&iacute;jense, aqu&iacute; aprovecho para hacer un reconocimiento. No les va a ir bien, pero qui&eacute;n les manda. Hay una revista. O sea, <em>Proceso</em> se fue eclipsando, &iquest;no?, y hay una revista nueva que la recomiendo, <em>Contral&iacute;nea</em>, que es la que hace los reportajes m&aacute;s fundados, que ya no se hacen en el pa&iacute;s, es la &uacute;nica revista. Y un d&iacute;a les voy a dar a conocer todos los reportajes, investigaciones. Por ejemplo, fueron los que hicieron la investigaci&oacute;n sobre los excesos de los consejeros del INAI, que ten&iacute;an su tarjeta American Express para ir a los&hellip;</p>
+
+<p><strong>INTERVENCI&Oacute;N:</strong> A los <em>table dance.</em></p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> No, no, no s&eacute;. A los bares. Pero eso en <em>Proceso</em> no, ya no, no hay nada, nada, nada, se acab&oacute;.</p>
+
+<p>Pero, <em>La Jornada</em>, hace dos d&iacute;as&hellip;</p>
+
+<p><strong>JES&Uacute;S RAM&Iacute;REZ CUEVAS:</strong> &iquest;Lo de la placa del tr&aacute;iler?</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> No, no, no, <em>La Rayuela</em>.</p>
+
+<p><strong>JES&Uacute;S RAM&Iacute;REZ CUEVAS:</strong> Por eso. Es la que dice si alguien apunt&oacute; la placa del tr&aacute;iler que pas&oacute; encima a la oposici&oacute;n.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> No, que por qu&eacute;, qui&eacute;n fue el que le aconsej&oacute; a la se&ntilde;ora X&oacute;chitl que reconociera el triunfo. Incre&iacute;ble.</p>
+
+<p><strong>JES&Uacute;S RAM&Iacute;REZ CUEVAS:</strong> S&iacute;, es el lunes.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> A ver, pero ponlo. Incre&iacute;ble. Ni el <em>Reforma</em>. Estamos aprovechando para&hellip;</p>
+
+<p>&lsquo;&iquest;Qui&eacute;n en la oposici&oacute;n fue el o la inteligente que los convenci&oacute; reconocer su derrota?&rsquo; A lo mejor lo estoy leyendo mal.</p>
+
+<p><strong>JES&Uacute;S RAM&Iacute;REZ CUEVAS:</strong> El estratega.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> S&iacute;, el sentido hay que verlo, pero yo lo que encontr&eacute; en esto es: no debieron convencerla de que aceptara su derrota. S&iacute;, porque dice: &lsquo;&iquest;Qui&eacute;n en la oposici&oacute;n fue el o la inteligente que los convenci&oacute;?&rsquo;</p>
+
+<p><strong>INTERVENCI&Oacute;N:</strong> (Inaudible) reconocer la derrota cuando ten&iacute;an mucho campo para poder tal vez defenderla.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> S&iacute;, pero entonces s&iacute; es en el sentido que yo lo estoy leyendo. Ojal&aacute; y se aclare, porque yo lo que entend&iacute; es: bueno, entonces no reconocer.</p>
+
+<p>Yo recuerdo que cuando yo triunfo me habla el presidente Pe&ntilde;a, me habla Meade, me habla Ricardo Anaya&hellip;</p>
+
+<p><strong>JES&Uacute;S RAM&Iacute;REZ CUEVAS:</strong> (Inaudible)</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> No, no, no, pero es que t&uacute; est&aacute;s pensando como yo. A lo mejor no es ese el sentido y se equivocaron, porque yo s&iacute; dir&iacute;a: qu&eacute; inteligente el que hizo esa recomendaci&oacute;n.</p>
+
+<p><strong>INTERVENCI&Oacute;N:</strong> Por el sentido, de que dice &lsquo;el o la inteligente&rsquo;, es como&hellip;</p>
+
+<p><strong>INTERVENCI&Oacute;N:</strong> Como burla, &iquest;no?</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> S&iacute;, eso es. Claro que hay libertad absoluta, pero a lo que voy es: &iquest;C&oacute;mo est&aacute; esto? &iquest;De d&oacute;nde sale? Y vaya que estamos hablando del mejor peri&oacute;dico de M&eacute;xico, pero con mucho, hist&oacute;ricamente; porque el <em>Proceso</em> fue muy buena revista, sobre todo en el cuestionamiento al poder, muy buena revista en cuanto al cuestionamiento al poder, pero no en la defensa del pueblo y menos del pueblo raso. <em>La Jornada </em>siempre ha estado defendiendo los movimientos sociales, al pueblo, abajo, y enfrentando tambi&eacute;n al poder, pero no igual que como lo hac&iacute;a <em>Proceso</em> en su mejor momento.</p>
+
+<p>Pero, bueno.</p>
+
+<p><strong>INTERLOCUTOR:</strong> &iquest;S&iacute; nos podr&iacute;an decir, entonces, cu&aacute;ntas personas son y a d&oacute;nde fueron conducidas, presidente?</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> S&iacute;, s&iacute;, en una hora m&aacute;s o menos, dos horas.</p>
+
+<p><strong>INTERLOCUTOR:</strong> Y nada m&aacute;s para cerrar el tema migratorio, en este asunto de las deportaciones, posibles deportaciones de Estados Unidos &iquest;M&eacute;xico podr&iacute;a colaborar, no s&eacute;, con aviones para que fuesen enviados a sus pa&iacute;ses de origen?</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> S&iacute;, lo estamos haciendo, s&iacute;.</p>
+
+<p><strong>INTERLOCUTOR:</strong> Y para cerrar, presidente, ayer se conmemoraron 15 a&ntilde;os de la tragedia en la Guarder&iacute;a ABC, el incendio. Los padres llevan 15 a&ntilde;os luchando por justicia. &iquest;D&oacute;nde est&aacute;n los responsables, presidente? &iquest;Por qu&eacute; sigue impune ese caso? &iquest;Qu&eacute; ha pasado?</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Ah, pues aqu&iacute; est&aacute; Zo&eacute; y &eacute;l puede informar. Porque hemos avanzado mucho, mucho, mucho, pero ser&iacute;a conveniente que informaras, y por qu&eacute; la expresi&oacute;n de estos padres que tienen todo su derecho, &iquest;no?, de protestar. Pero que expliques qu&eacute; hicimos nosotros, o sea, en qu&eacute; se ha ayudado, c&oacute;mo est&aacute; la cuesti&oacute;n legal, todo.</p>
+
+<p><strong>ZO&Eacute; ROBLEDO ABURTO:</strong> Claro que s&iacute;, presidente, con mucho gusto.</p>
+
+<p>En esta administraci&oacute;n, recordar&aacute;n, desde cuando se cumplieron 10 a&ntilde;os de esta tragedia, el incendio de la Guarder&iacute;a ABC en Sonora, el presidente L&oacute;pez Obrador tuvo varias reuniones con los diferentes grupos de padres, y despu&eacute;s de eso nos hemos seguido reuniendo.</p>
+
+<p>Se han ampliado las medidas econ&oacute;micas y los servicios que se les otorgan a las v&iacute;ctimas, que eran tambi&eacute;n parte de las exigencias y de los reclamos, 42 v&iacute;ctimas directas recib&iacute;an desde 2016 todas las medidas autorizadas por el decreto presidencial de 2010, que continuaron, pero, adem&aacute;s, las dem&aacute;s v&iacute;ctimas directas con exposici&oacute;n al humo y gases t&oacute;xicos las comenzaron a recibir estas medidas a partir del 2019 de forma homologada. Esa es una parte importante, se homologaron, porque la tragedia para alguien que perdi&oacute; un hijo, para alguien que qued&oacute; con lesiones permanentes es la misma. Hist&oacute;ricamente se hab&iacute;an hecho c&aacute;lculos de las pensiones vitalicias dependiendo del salario de la madre en el momento del incendio; desde 2019 se homolog&oacute; a partir de la reuni&oacute;n con el presidente L&oacute;pez Obrador.</p>
+
+<p>Y en el decreto que se public&oacute; en marzo del 2020 y en los acuerdos dictados en 2019 y 2020 en el Consejo T&eacute;cnico del IMSS se actualizaron y tambi&eacute;n se ampliaron las medidas autorizadas, siempre con un enfoque de protecci&oacute;n de derechos humanos y acorde con la Ley General de V&iacute;ctimas a cada uno de los grupos afectados, que son los siguientes:</p>
+
+<p>De las v&iacute;ctimas directas, la medida equivalente a la pensi&oacute;n garantizada para los ni&ntilde;os y ni&ntilde;as lesionados de forma permanente en caso de cumplir los 18 a&ntilde;os de edad. Es decir, tambi&eacute;n se empez&oacute; a ver que los mejores, sobre todo con lesiones permanentes, iban a cumplir una mayor&iacute;a de edad y tambi&eacute;n se incorporaron a estas medidas. Y que se determine que no se encuentran en condiciones de trabajar, toda vez que son incapacitantes muchas veces sus lesiones.</p>
+
+<p>Tambi&eacute;n el importe de los auxiliares de diagn&oacute;stico que sean necesarios para verificar su salud.</p>
+
+<p>La atenci&oacute;n sicol&oacute;gica y psiqui&aacute;trica institucional.</p>
+
+<p>La atenci&oacute;n vitalicia m&eacute;dica.</p>
+
+<p>El importe de las erogaciones que sean necesarios para la debida atenci&oacute;n m&eacute;dica, quir&uacute;rgica, hospitalaria, farmac&eacute;utica, sicol&oacute;gica y de rehabilitaci&oacute;n proporcionada en unidades que no son del Seguro Social.</p>
+
+<p>Tambi&eacute;n, el importe de traslados cuando son referidos para su atenci&oacute;n a otros centros m&eacute;dicos en el pa&iacute;s o en los Estados Unidos. Hay muchos que han llevado procesos, que adem&aacute;s son siempre muy dolorosos en el hospital Shriners en Estados Unidos.</p>
+
+<p>La beca para la educaci&oacute;n para los niveles de primaria y hasta educaci&oacute;n superior.</p>
+
+<p>El pago de consumo de energ&iacute;a el&eacute;ctrica, la que se genere en el domicilio.</p>
+
+<p>Y, tambi&eacute;n, para las v&iacute;ctimas indirectas la medida mensual vitalicia a todas las madres de ni&ntilde;as y ni&ntilde;os que resultaron lesionados de forma permanente y de aquellos que tuvieron inhalaci&oacute;n de humo o de gases t&oacute;xicos, la medida equivalente a la pensi&oacute;n garantizada para las madres y padres de ni&ntilde;os y ni&ntilde;as lesionados de forma permanente y de aquellos que inhalaron humo o t&oacute;xicos siempre y cuando no cuenten con una pensi&oacute;n de invalidez que hubiera sido dictaminada por el IMSS.</p>
+
+<p>Y la atenci&oacute;n m&eacute;dica vitalicia a trav&eacute;s del seguro de salud para la familia, para ellos, sus hijos y ascendientes, en el caso de v&iacute;ctimas indirectas; adem&aacute;s de atenci&oacute;n sicol&oacute;gica, siqui&aacute;trica institucional.</p>
+
+<p>Algo importante que se debe mencionar, como lo ha dicho el se&ntilde;or presidente: ha habido una serie de manifestaciones, sobre todo de personas afectadas y de su representante legal por casos de inhalaci&oacute;n de humo, el grupo de madres y padres con lesiones pulmonares o con exposici&oacute;n al humo y t&oacute;xicos, que tienen una petici&oacute;n principal, que es el reconocimiento inmediato para que les sea autorizado el pago retroactivo de las medidas y ayudas extraordinarias que se establecieron desde 2009.</p>
+
+<p>En el a&ntilde;o 2023 estas personas interpusieron 35 juicios de nulidad radicados en el Tribunal Federal de Justicia Administrativa, que est&aacute;n en proceso y que estamos atentos a lo que determinen estas instancias. Insisto, es para este grupo particular de personas, ni&ntilde;as, ni&ntilde;os y tambi&eacute;n adultos que tuvieron afectaciones por inhalaci&oacute;n.</p>
+
+<p>Y tambi&eacute;n mencionar, el 13 de julio del a&ntilde;o pasado, all&aacute; en Hermosillo, convocamos, junto con el gobernador Durazo a todos los grupos, nos reunimos con el grupo de madres y padres de ni&ntilde;as fallecidos, el grupo de madres de ni&ntilde;as y ni&ntilde;os con lesiones permanentes por quemadura, estuvimos ah&iacute;; hay un grupo que decidi&oacute; no asistir en ese momento y, bueno, nos vamos a seguir reuniendo.</p>
+
+<p>Es importante se&ntilde;alar tambi&eacute;n que del caso judicial, como saben, se present&oacute; una denuncia por primera vez, una denuncia penal con nuevos hechos y nuevos actores, que est&aacute; basado en el voto particular que se vot&oacute; en minor&iacute;a, que hab&iacute;a presentado el entonces ministro Zald&iacute;var y que fue la &uacute;ltima vez que la Suprema Corte de Justicia hizo una investigaci&oacute;n a manera de Ministerio P&uacute;blico, con eso es que presentamos la denuncia; la fiscal&iacute;a nos ha ido informando de estos avances.</p>
+
+<p>Hay otros temas, que tambi&eacute;n hemos comentado con el presidente, con el grupo de madres y padres de ni&ntilde;as y ni&ntilde;os fallecidos que tienen, adem&aacute;s, una enorme legitimidad: que se apruebe la Ley 5 de Junio, que se construya un memorial en donde est&aacute; la guarder&iacute;a. Y son temas que hemos estado viendo tambi&eacute;n con el gobernador Durazo, que corresponden al &aacute;mbito local, pero lo hemos estado atendiendo.</p>
+
+<p>Y, tambi&eacute;n, una reuni&oacute;n que tendremos este mes para ver algunas otras solicitudes que se han analizado tanto con la Consejer&iacute;a Jur&iacute;dica de la Presidencia como con la Subsecretar&iacute;a de Derechos Humanos de la Secretar&iacute;a de Gobernaci&oacute;n.</p>
+
+<p>Entonces, pues ese es el avance, ha habido un cambio importante.</p>
+
+<p>Se termin&oacute; el Caice, el Centro de Atenci&oacute;n Especial de Casos Especiales, que est&aacute; all&aacute; en Hermosillo, un inmueble que se empez&oacute; en 2017 y que qued&oacute; inacabado, abandonado por la administraci&oacute;n anterior; se tuvo que rescindir a la empresa, porque no ten&iacute;a salidas de emergencia; as&iacute; de grave era el tema de Caice. Hoy en Caice finalmente se concluy&oacute;, est&aacute; operando.</p>
+
+<p>Tambi&eacute;n se han incorporado nuevas especialidades en la atenci&oacute;n de los ni&ntilde;os, tanto en tema psicol&oacute;gicos, pero tambi&eacute;n ya ginecol&oacute;gicos y dem&aacute;s, porque ya son distintas tambi&eacute;n las necesidades.</p>
+
+<p>Muchos de los menores lesionados por quemaduras y todos los dem&aacute;s, pues est&aacute;n empezando a cumplir 18 a&ntilde;os, incluso muchos de ellos que est&aacute;n empezando a aplicar o est&aacute;n empezando a irse a unas universidades fuera, fuera de Sonora.</p>
+
+<p>Y el Caice, algo muy importante que era algo que era fundamental atender, que tuviera una administraci&oacute;n local que pudiera atender los temas de manera directa y evitar demoras, burocracia y dem&aacute;s.</p>
+
+<p>Entonces, pues son muchos los &aacute;mbitos, pero mantenemos una comunicaci&oacute;n permanente y as&iacute; lo queremos seguir haciendo en esta etapa.</p>
+
+<p><strong>INTERLOCUTOR:</strong> La investigaci&oacute;n penal, judicial &iquest;qu&eacute; les ha dicho la fiscal&iacute;a? &iquest;en d&oacute;nde est&aacute;n los responsables? &iquest;por qu&eacute; no hay personas detenidas?</p>
+
+<p><strong>ZO&Eacute; ROBLEDO ABURTO:</strong> Bueno, hubo personas ya detenidas en su momento, por primera vez funcionarios del Seguro Social, el entonces director de Prestaciones Econ&oacute;micas y Sociales y la coordinadora de Guarder&iacute;as de Nivel Central, no solamente de la Delegaci&oacute;n de Sonora, fueron vinculados a proceso. Y hay otros actores, que la fiscal&iacute;a lo que nos va reportando mes con mes es que est&aacute;n en diligencias o que est&aacute;n todav&iacute;a&hellip; hay una etapa todav&iacute;a procesal que ellos tienen que concluir.</p>
+
+<p>Pero estamos en una comunicaci&oacute;n directo con la Fiscal&iacute;a General de la Rep&uacute;blica. Estos casos ocurrieron, tuvieron una defensa, ya no est&aacute;n detenidos, pero bueno, no, no hemos detenido, hemos ampliado y, adem&aacute;s, otorgado todav&iacute;a m&aacute;s informaci&oacute;n en funci&oacute;n de lo que se le va a solicitando al Seguro Social.</p>
+
+<p><strong>INTERLOCUTOR:</strong> &iquest;Podr&iacute;a haber mayores avances en este caso, presidente antes de que acabe su gobierno</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> S&iacute;, va a depender de la fiscal&iacute;a, que est&aacute; actuando con autonom&iacute;a, como en todos los casos, con absoluta libertad.</p>
+
+<p>Aprovecho para subrayarlo, porque todo eso se olvida, hablando de la consigna de que todos somos iguales, se olvida que antes el procurador era un empleado del presidente. Y yo llevo, ya voy a cumplir seis a&ntilde;os, y creo que he visto al procurador como cinco u ocho veces, y nunca para darle una indicaci&oacute;n con el prop&oacute;sito de afectar a alguien por motivos pol&iacute;ticos, nada, nada. Por eso digo: No somos iguales. Y ya no me enoja, porque hay veces que digo: S&iacute;, eso s&iacute; calienta, pero no, ya lo hemos superado.</p>
+
+<p>Es muy importante que se contin&uacute;e con la investigaci&oacute;n.</p>
+
+<p>Y, tambi&eacute;n, para la amnesia colectiva, la amnesia colectiva, &iquest;por qu&eacute; sucedieron estos lamentables hechos?, por la privatizaci&oacute;n, por la pol&iacute;tica neoliberal, neoporfirista, de privatizarlo todo. &iexcl;C&oacute;mo poner una guarder&iacute;a del Seguro Social en manos de particulares!</p>
+
+<p>Cuando llegamos hasta nos hicieron un esc&aacute;ndalo, porque hab&iacute;a no s&eacute; cu&aacute;ntas&hellip; Ah, aqu&iacute; Ariadna sabe.</p>
+
+<p><strong>INTERLOCUTOR:</strong> Estancias infantiles.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Las estancias infantiles, otro modelo parecido era: &lsquo;te entrego &mdash;como una concesi&oacute;n&mdash; y t&uacute; puedes, con el dinero que se te otorgue, a trav&eacute;s de los padres, cuidar a los ni&ntilde;os, mientras las mam&aacute;s o los pap&aacute;s van a trabajar&rsquo;.</p>
+
+<p>Entonces, revisamos y resulta que no hab&iacute;a en las estancias&hellip; &iquest;Por qu&eacute; no explicas eso, lo que encontramos?</p>
+
+<p>&iquest;Y saben?, por lo mismo, por la seguridad. Pero ese af&aacute;n privatizador, todav&iacute;a en el debate una de las personas que participaron defendiendo eso.</p>
+
+<p>&iquest;Qu&eacute; hicimos?</p>
+
+<p>A nadie le quitamos su apoyo. A las madres, a los padres que recib&iacute;an su apoyo les seguimos manteniendo &mdash;ahorita les informas&mdash;, pero ya no a trav&eacute;s de intermediarios. Pero esto es algo menor a aquello, entregar las guarder&iacute;as a los amigos, a los familiares, para hacer negocio. Esa es la privatizaci&oacute;n, ese es el da&ntilde;o que causa; por eso, no.</p>
+
+<p>Hay muchas actividades, casi todas, que se tienen que hacer con la iniciativa privada, y no puede el Estado asfixiar la iniciativa de la sociedad civil, no debe, pero hay derechos, hay funciones que debe de cumplir el Estado, que son de car&aacute;cter p&uacute;blico, y aqu&iacute; era todo: los bancos, los ferrocarriles, el sistema de comunicaciones, la recolecci&oacute;n de basura, el agua, los hospitales, las c&aacute;rceles, las guarder&iacute;as.</p>
+
+<p>Hay&hellip; Ese s&iacute; lo vamos a poner. Ofrecemos disculpas. A ver, a Saramago cuando habla de las privatizaciones. Nada m&aacute;s vamos a ponerle un <em>p&iacute;, p&iacute;, p&iacute;, p&iacute;</em>, a ver si pueden. El gran escritor portugu&eacute;s, espa&ntilde;ol, portugu&eacute;s. Miren lo que dec&iacute;a de las privatizaciones.</p>
+
+<p>&iquest;Por qu&eacute; es importante esto?</p>
+
+<p>No olvidarlo, para no regresar a eso, la no repetici&oacute;n, nunca m&aacute;s estas tragedias que se producen, que pueden evitarse, por un modelo mercantilista en donde lo m&aacute;s importante es el lucro.</p>
+
+<p>Es medio grosero lo que dice, pero es Premio Nobel de Literatura, o sea, que ah&iacute; s&iacute; ni modo:</p>
+
+<p>&lsquo;Que se privatice todo. Que se privatice el mar y el cielo, que se privatice el agua y el aire, que se privatice la justicia y la ley, que se privatice la nube que pasa, que se privatice el sue&ntilde;o, sobre todo, si es diurno y con los ojos abiertos. Y, finalmente, para flor&oacute;n y remate, de tanto privatizar, privat&iacute;cense los Estados, entr&eacute;guense de una vez por todas la explotaci&oacute;n a empresas privadas mediante concurso internacional. Ah&iacute; se encuentra la salvaci&oacute;n del mundo. Y metidos en eso &mdash;ya encarrerados&mdash;, que se privatice tambi&eacute;n&hellip;&rsquo; Eso no lo digo, ya, no, no. Tampoco la se&ntilde;ora, el padre.</p>
+
+<p>Ven.</p>
+
+<p><strong>ARIADNA MONTIEL REYES, SECRETARIA DE BIENESTAR:</strong> Gracias. Buenos d&iacute;as.</p>
+
+<p>Respecto al tema de las estancias infantiles, lo que encontramos al inicio del gobierno eran cerca de nueve mil 500 espacios que nunca fueron del gobierno, eso siempre hay que aclararlo, que eran espacios de car&aacute;cter privado. Y el presidente desde el tiempo de la transici&oacute;n fue muy insistente en que hubiera seguridad.</p>
+
+<p>Cuando llegamos al gobierno, el presidente nos pidi&oacute; que revis&aacute;ramos todos los programas, todos los padrones, entre ellos ese programa. Y de 300 mil ni&ntilde;os que recib&iacute;an supuestamente el apoyo, encontramos solamente a 200 mil. Esta revisi&oacute;n la hicimos casa por casa yendo a sus domicilios, como lo hemos hecho a lo largo de todo el gobierno, pero especialmente en ese tiempo a trav&eacute;s del Censo del Bienestar. Y trajimos este informe, de que el 30 por ciento de estos ni&ntilde;os pues no exist&iacute;an, hicimos varias visitas de verificaci&oacute;n y no los encontramos.</p>
+
+<p>Y se cambi&oacute; el modelo, el programa sigue beneficiando a las madres trabajadoras, pero ahora se les entregan los recursos de manera directa a trav&eacute;s de la tarjeta del Banco del Bienestar, aqu&iacute; con el banco, que ha sido un trabajo importante de bancarizaci&oacute;n a todos los beneficiarios. Y las mam&aacute;s reciben bimestralmente mil 600 pesos para que ellas decidan en d&oacute;nde es el espacio de cuidado de sus hijos y tengan recursos para pagar este servicio.</p>
+
+<p>Pero s&iacute; insistir que las estancias eran de car&aacute;cter privado, no exist&iacute;a la totalidad de los ni&ntilde;os. Y el modelo que se defini&oacute; para todos los programas creo que es exitoso en medida que tambi&eacute;n le otorgamos su tarjeta a las personas, a los derechohabientes, a los beneficiarios, y tambi&eacute;n toman esta autonom&iacute;a del gobierno de decidir ellos en qu&eacute; emplean sus recursos.</p>
+
+<p>As&iacute; fue como encontramos el programa y c&oacute;mo hoy funciona el Programa para el Bienestar de las Hijas e Hijos de Madres Trabajadoras.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> O sea, son dos cosas: es atender a las v&iacute;ctimas, que lo estamos haciendo, pero hay un grupo que est&aacute; inconforme y est&aacute; en su derecho, y hay una denuncia, y vamos a esperar porque nosotros tambi&eacute;n, y eso aplica en todo, somos simplemente administradores de los dineros del pueblo, el presupuesto es dinero p&uacute;blico.</p>
+
+<p>Entonces, si un abogado&hellip; Porque no lo hacen de manera solidaria, es porque llevan un porcentaje en muchos casos. A veces quiere uno arreglarse directo con los trabajadores, y los trabajadores &lsquo;no, no&rsquo;. Entonces, no es cuesti&oacute;n&hellip;. Si es un asunto en donde sin duda se tiene justicia no se discute; pero cuando vemos que son otros intereses, o sea, que quieren medrar con el dinero del pueblo, con el dinero del presupuesto, porque el presupuesto no es de nosotros, repito, nosotros somos simplemente administradores de los dineros del pueblo, entonces mejor vamos a esperar a que una instancia competente resuelva. As&iacute; el asunto.</p>
+
+<p>Bueno, pero, primero, la reparaci&oacute;n del da&ntilde;o, bueno, la atenci&oacute;n a los ni&ntilde;os afectados, la reparaci&oacute;n del da&ntilde;o; luego, el castigo a los responsables. Pero algo que es muy importante, es tambi&eacute;n el subrayar el compromiso del Estado de la no repetici&oacute;n, que es esto, nunca m&aacute;s, no regresar a esto, eso es lo que hacemos en todos los casos.</p>
+
+<p>Aprovecho para decirles que, por ejemplo, en los asesinatos cuando la represi&oacute;n a maestros en Oaxaca, lo de Nochixtl&aacute;n, a todos los afectados, las v&iacute;ctimas, a todos se les apoy&oacute; con la reparaci&oacute;n del da&ntilde;o, todos.</p>
+
+<p>Y tambi&eacute;n, cuando hablan de cesados, un d&iacute;a vamos a exponer aqu&iacute;, porque me interesa que los maestros, las bases, est&eacute;n enterados todos, para que no se oculte informaci&oacute;n, porque no somos iguales. Cesaron a m&aacute;s de mil maestros cuando quer&iacute;an imponer la mal llamada reforma educativa. Y hemos reinstalado a mil 100, nos quedan como 70, y eso porque dependen de un gobierno estatal que estamos convenciendo de que se haga cargo.</p>
+
+<p><strong>PREGUNTA:</strong> &iquest;Qu&eacute; estado?</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Jalisco, y fue reciente. Pero todo lo que tuvo que ver con la represi&oacute;n de la llamada reforma educativa, todo est&aacute; haciendo atendido, todo; sin embargo, no hay esta informaci&oacute;n. Vamos a informar punto por punto, porque esto va a ayudar mucho a que los maestros sepan, maestras, maestros, de todo lo que hemos hecho.</p>
+
+<p>Hay una consigna: &lsquo;Dec&iacute;an, dec&iacute;an, que todo cambiar&iacute;a; mentira, mentira, es la misma porquer&iacute;a&rsquo;, o algo as&iacute;. Pero como a m&iacute; me gustan las&hellip; Me aprend&iacute; una, &iquest;no?, cuando luch&aacute;bamos en la oposici&oacute;n: &lsquo;Lucha, lucha, lucha, no dejes de luchar, por un gobierno obrero, campesino y popular&rsquo;. Y tengo otras, &iquest;eh?</p>
+
+<p>Pero es muy importante eso. Lo mismo en el caso de la represi&oacute;n, les puedo garantizar que no hay represi&oacute;n, no ha habido ni habr&aacute;. Y una buena nueva es que no habr&aacute;, hasta que yo termine, y estoy casi seguro de que no habr&aacute; hacia adelante porque conozco bien a la compa&ntilde;era Claudia Sheinbaum.</p>
+
+<p>Y, tambi&eacute;n, &iquest;por qu&eacute; digo esto? Porque muchos&hellip; Ya no estoy hablando del flanco derecho, sino de los supuestamente radicales o extremistas, y a m&iacute; el extremismo no me gusta, suele pasar que los m&aacute;s extremistas terminan siendo muy traidores al pueblo. No me gusta porque adem&aacute;s se tocan los extremos, el conservadurismo y de la llamada izquierda radical, y tengo muchos ejemplos sobre eso.</p>
+
+<p>Entonces, pueden estar pensando igual que la derecha o que los conservadores: &lsquo;Es lo mismo, es lo mismo&rsquo;. Pues no, no, la compa&ntilde;era Claudia es una mujer, adem&aacute;s de preparada, con mucha experiencia en asuntos p&uacute;blicos, es una mujer con convicciones, muchas convicciones.</p>
+
+<p>Hace unos d&iacute;as vi una parte de un documental en donde estaba jovencita en un mitin en la universidad, estaba arriba de un escritorio. Y me llam&oacute; mucho la atenci&oacute;n porque lo que estaba diciendo era: &lsquo;Compa&ntilde;eras, compa&ntilde;eros, no caigamos en la provocaci&oacute;n, cuidado con la provocaci&oacute;n&rsquo;. Ella sabe mucho y es muy sensible, es muy humana y es honesta, o sea, vamos de gane, pero no s&oacute;lo los del flanco izquierdo, todos los mexicanos, todos, todos, todos.</p>
+
+<p>A ver si encuentras, porque eso me sali&oacute;, bueno, todo me sale del alma, pero&hellip; Ya me est&aacute;n censurando, ya lo s&eacute;. El, &iquest;c&oacute;mo se llama?, el mensaje. &iquest;No te lo mandaron?</p>
+
+<p><strong>JES&Uacute;S RAM&Iacute;REZ CUEVAS:</strong> Es que no&hellip;</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Mejor ma&ntilde;ana, ya mejor ma&ntilde;ana.</p>
+
+<p>V&aacute;monos a desayunar. T&uacute; ma&ntilde;ana.</p>
+
+<p><strong>PREGUNTA:</strong> (Inaudible)</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Pero hablamos de Guerrero, y voy a ir, voy a ir, nada m&aacute;s que le digas a la gente que voy a ir en la semana que viene.</p>
+
+<p><strong>PREGUNTA:</strong> (inaudible)</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> S&iacute;, pero a finales de junio, de este mes, o a mediados. Hoy tengo una reuni&oacute;n con el secretario de Comunicaciones y vamos a revisar eso, la ampliaci&oacute;n de la carretera de la costa, de la Costa Chica.</p>
+
+<p><strong>INTERLOCUTOR:</strong> &iquest;Va a continuar hasta Oaxaca?</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Ya lo anunci&oacute; la virtual presidente electa.</p>
+
+<p><strong>PREGUNTA:</strong> Lo de la gripe aviar.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> &iexcl;Ah!, lo de la gripe aviar que&hellip; Para que no&hellip; A ver, lo de la gripe aviar, que dieron una informaci&oacute;n y se caus&oacute; alguna inquietud. Vale m&aacute;s m&aacute;s informar.</p>
+
+<p><strong>JORGE ALCOCER VARELA:</strong> S&iacute;, efectivamente, esta es una nota que hay que tomar con prudencia, porque no es precisa.</p>
+
+<p>Se trata de haber atendido en el Instituto de Enfermedades Respiratorias un problema respiratorio en un hombre de 59 a&ntilde;os, y se le tomaron varias muestras, como siempre se hace en pacientes que est&aacute;n en condiciones no muy buenas.</p>
+
+<p>Este paciente diab&eacute;tico, con problemas del ri&ntilde;&oacute;n, pero se le atendi&oacute;. Pero b&aacute;sicamente lo que se tom&oacute; fueron muestras; y en una de las muestras se encontr&oacute; el virus AH5N2, que est&aacute; ligado a la gripe aviar y que desde luego en este caso puede ser desde luego un aviso epidemiol&oacute;gico en el caso de las acciones que se dan para los trabajadores que atienden aves y que trabajan en ellas.</p>
+
+<p>Este paciente no ten&iacute;a nada de esto, ven&iacute;a del Estado de M&eacute;xico por esas manifestaciones de otro tipo. Y el virus, pues sabemos que es&hellip; que regularmente afecta a aves y que las infecciones en humanos que se han detectado especialmente en trabajadores de granjas con aves son muy leves, no llevan a estas manifestaciones.</p>
+
+<p>Hasta ahora no hay ninguna evidencia de transmisi&oacute;n humano-humano. El paciente que, repito, ven&iacute;a del Estado de M&eacute;xico no tiene antecedentes de contacto, familiarfg ni de conocimiento de alrededor de donde viv&iacute;a. Por parte de Epidemiolog&iacute;a se han evaluado todos esos contactos, por parte de Senasica y Semarnat se hizo un enfoque de la salud, sesionando en forma conjunta.</p>
+
+<p>Y puedo se&ntilde;alar que el comunicado que hizo la Organizaci&oacute;n Mundial de la Salud es bastante malo, ya que, de entrada, habla de un caso fatal, cosa que no fue as&iacute;, muri&oacute; por otra causa, y sin que se haya dictaminado. Y s&oacute;lo de manera marginal dice &lsquo;que el riesgo en este caso es bajo&rsquo;, pero va a tener una reuni&oacute;n hoy para precisar eso.</p>
+
+<p>Por lo tanto, y puntualizo, no existe ninguna raz&oacute;n para evitar comer pollo o sus derivados, o estar preocupado por esto. Eso es lo que les puedo decir.</p>
+
+<p><strong>PREGUNTA:</strong> &iquest;Cu&aacute;l fue la causa?</p>
+
+<p><strong>JORGE ALCOCER VARELA:</strong> &iquest;La causa? No se ha precisado, pero b&aacute;sicamente son la falla renal y, desde luego, la falla respiratoria que tuvo en cuesti&oacute;n de horas.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Bueno, ma&ntilde;ana.</p>
+
+<p>---</p>
+</div>
+      </div>
+
+      <div class="col-md-4 col-xs-12 pull-right">
+
+
+
+
+          <div id="survey" class="survey-popup small-top-buffer">
+	<div class="row">
+  <a class="fire">
+    <span class="title">Contesta nuestra encuesta de satisfacción.</span>
+		<i style="color: white" class="fas fa-poll"></i>
+  </a>
+  <hr>
+  
+  <div class="survey col-sm-12 clearfix">
+	<form id="survey-form">
+	  <div class="survey-form">
+	  <fieldset id="query_1">
+		<legend>¿Cómo fue tu experiencia en gob.mx?</legend>
+		<div id="Q_A" class="btn-group row">
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncGood" class="ga-survey" value="Feliz" title="Satisactorio">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-good.svg" alt="">
+		  	</button>
+		  </div>
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncReg" class="ga-survey" value="Neutral" title="Neutral">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-neutral.svg" alt="">
+		  	</button>
+		  </div>
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncBad" class="ga-survey" value="Triste" title="No satisactorio">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-bad.svg" alt="">
+		  	</button>
+		  </div>
+		</div>
+	  </fieldset>
+	  <fieldset id="query_1_a" class="hidden">
+	  	<legend>¿Fue fácil encontrar lo que buscabas?</legend>
+	  	<div id="Q_B" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R1" value="1">
+	  		<label for="A_R">Muy Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R2" value="2">
+	  		<label for="A_R">Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R3" value="3">
+	  		<label for="A_R">Difícil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R4" value="4">
+	  		<label for="A_R">Muy Difícil</label>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_s" class="hidden">
+	  	<legend>¿De qué estado de la República nos visitas?</legend>	  	
+	  	<div class="col-md-12">
+  	  		<div class="form-group" style="margin-bottom: 114px;">
+  	  			<select id="estados" class="form-control"></select>
+  	  		</div>
+  	  		<div class="form-group">
+  	  			<button type="button" class="Q_S_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  		</div>
+  	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_alt" class="hidden">
+		<legend>¿Qué buscabas?</legend>
+	  	<div id="Q_I" class="clearfix">
+	  	  <div class="col-sm-12">
+	  		<textarea id="txtA" class="form-control" rows="6" maxlength="250" style="font-size: 14px; width: 100%;"></textarea>
+	  		<span class="small">Máximo 250 caracteres</span>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+  	  	  <button type="button" class="Q_I_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_b" class="hidden">
+	  	<legend>¿Qué te gustó más?</legend>
+	  	<p class="small">Puedes seleccionar más de uno.</p>
+	  	<div id="Q_C" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R1" type="checkbox" name="A_R" value="1">
+	  		<label for="A_R">La información es clara y precisa</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R2" type="checkbox" name="A_R" value="2">
+	  		<label for="A_R">El diseño es agradable</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R3" type="checkbox" name="A_R" value="3">
+	  		<label for="A_R">Está bien organizado</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R4" type="checkbox" name="A_R" value="4">
+	  		<label for="A_R">Es sencillo navegar</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R5" type="checkbox" name="A_R" value="5">
+	  		<label for="A_R">El lenguaje es amigable</label>
+	  	  </div>
+	  	  <div class="clearfix">
+	  	  	<button type="button" class="Q_C_btn btn btn-primary btn-small pull-right">Siguiente</button>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_c" class="hidden">
+	  	<legend>¿Recomendarías nuestro portal a un amigo o familiar?</legend>
+	  	<div id="Q_D" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="radEncC_R1" type="radio" name="A_R" value="4">
+	  		<label for="A_R">Si</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncC_R2" type="radio" name="A_R" value="1">
+	  		<label for="A_R">No</label>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+        <button type="button" class="btn-finalizar btn btn-primary btn-small pull-right" style="margin-left: 8px; margin-top: 2px;" disabled>Finalizar</button>
+        <img src="https://framework-gb.cdn.gob.mx/assets/images/oval-white.svg" class="pull-right hidden loading">
+      </div>
+	  </fieldset>
+
+	  <fieldset id="query_2" class="hidden">
+		<legend>¿Fue fácil encontrar lo que buscabas?</legend>
+	  	<div id="Q_F" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R1" type="radio" name="A_R" value="1">
+	  		<label for="A_R">Muy Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R2" type="radio" name="A_R" value="2">
+	  		<label for="A_R">Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R3" type="radio" name="A_R" value="3">
+	  		<label for="A_R">Difícil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R4" type="radio" name="A_R" value="4">
+	  		<label for="A_R">Muy Difícil</label>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_2_b" class="hidden">
+	  	<legend>¿Qué mejorarías?</legend>
+	  	<p class="small">Puedes seleccionar más de una opción.</p>
+	  	<div id="Q_G" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A1" type="checkbox" name="A_R" value="1">
+	  		<label for="A_R">Diseño</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A2" type="checkbox" name="A_R" value="2">
+	  		<label for="A_R">Navegación dentro del sitio</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A3" type="checkbox" name="A_R" value="3">
+	  		<label class="too-long" for="A_R">Claridad y precisión de la información</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A4" type="checkbox" name="A_R" value="4">
+	  		<label for="A_R">Organización de los contenidos</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A5" type="checkbox" name="A_R" value="5">
+	  		<label for="A_R">Lenguaje utilizado</label>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">	  	  
+	  	  <button type="button" class="btn-finalizar btn btn-primary btn-small pull-right" style="margin-left: 8px; margin-top: 2px;" disabled>Finalizar</button>
+	  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/oval-white.svg" class="hidden pull-right loading">
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_2_alt" class="hidden">
+		<legend>¿Qué buscabas?</legend>
+	  	<div id="Q_H" class="clearfix">
+	  	  <div class="col-sm-12">
+	  		<textarea id="txtA1" class="form-control" rows="6" maxlength="250" style="font-size: 14px; width: 100%;"></textarea>
+	  		<span class="small">Máximo 250 caracteres</span>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+  	  	  <button type="button" class="Q_H_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  	</div>
+	  </fieldset>
+
+	</div>
+	<p class="hidden survey-thanks" style="text-align: center; color: white; font-weight: 700;">Gracias por tu opinión.</p>
+	</form>
+
+  </div>
+</div>
+</div>
+
+<script type="text/javascript">
+$(function() {
+  var c = 0;
+  var fin = 0;
+  var tipo_cara = "";
+  var page_type = "Articulos";
+  var triggered = false;
+  var answers = {};
+  var properties = {};
+  var organization = "presidencia";
+  var section = "Blog";
+  var lang = "es";
+  properties.published_on = "2024-06-06 10:03:00 -0600";
+  properties.title = "Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 6 de junio de 2024";
+  properties.path = "/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-6-de-junio-de-2024";
+  properties.referer = "";
+  properties.viewfinder = navigator.userAgent.toLowerCase();
+  properties.screens = screen.width;
+  properties.device = screen.width;
+
+  $.getJSON('https://www.gob.mx/vun/estados?filter[order]=nombre%20ASC', function (selectOptions) {
+    for( var i = 0; i < selectOptions.length; i ++) {
+      var selectOptionsJSON = selectOptions[i];
+      $('#estados').append('<option value="'+ selectOptionsJSON.nombre +'">'+ selectOptionsJSON.nombre +'</option>');
+    }
+    $('#estados').append('<option value="Otro">Otro</option>')
+  });
+
+  $('.fire').click(function(event) {
+    $('.survey-popup').css({'height':'440px'});
+  });
+
+  $('#Q_A').find('button').click(function(event) {
+  	$('#query_s').removeClass('hidden');
+  	$("#query_1").addClass('hidden');
+  	answers.q1 = $(this).attr('id');
+  });
+
+  $(".ga-survey").click(function () {
+    tipo_cara = $(this).val();
+    var interval_time = [30];
+    (function timer () {
+      if (c < 1) {
+        setTimeout(function () {
+           if(fin < 1) {
+             set_ga("Inconclusa");
+             timer();
+           }
+        }, interval_time[c] * 1000);
+      }
+      c++;
+    })();
+  });
+
+  $('.Q_S_btn').click(function(event) {
+    if( answers.q1 === "radEncGood") {
+      $("#query_s").addClass('hidden');
+      $("#query_1_a").removeClass('hidden');
+    } else if(answers.q1 === "radEncReg" || answers.q1 === "radEncBad") {
+      $("#query_s").addClass('hidden');
+      $("#query_2").removeClass('hidden');
+    } else { }
+    // answers.q1 = $('#Q_A').find('button').attr('id');
+  });
+
+  $('#Q_B').find('input').click(function(event) {
+  	if( $(this).attr('id') === 'radEncA_R3' || $(this).attr('id') === 'radEncA_R4' )  {
+  	  $("#query_1_a").addClass('hidden');
+	  $("#query_1_alt").removeClass('hidden');
+  	} else {
+  	  $("#query_1_a").addClass('hidden');
+	  $("#query_1_b").removeClass('hidden');	
+  	}	
+	answers.q2 = $(this).attr('id');
+  });
+
+  $('.Q_I_btn').click(function(event) {
+  	event.preventDefault();
+  	$("#query_1_alt").addClass('hidden');
+	$("#query_1_b").removeClass('hidden');
+	answers.q5 = $('#txtA').val().substring(0, 250);
+  });
+
+  $('#Q_C').find('button').click(function(event) {
+	$("#query_1_b").addClass('hidden');
+	$("#query_1_c").removeClass('hidden');
+	var q3_array = [];
+	$('#Q_C').find('input:checked').each(function(index, el) {
+	  q3_array.push($(el).attr('id'));
+	});
+	answers.q3 = q3_array;
+  });
+
+  $('#Q_D').find('input').change(function(event) {
+  	answers.q4 = $(this).attr('id');
+  	$('.btn-finalizar').attr('disabled', false);
+  });
+
+  $('#Q_F').find('input').click(function(event) {
+	
+	answers.q2 = $(this).attr('id');
+
+	if( $(this).attr('id') === 'rdEncA_R3' || $(this).attr('id') === 'rdEncA_R4' ) {
+	  $("#query_2").addClass('hidden');
+	  $("#query_2_alt").removeClass('hidden');
+	} else {
+	  $("#query_2").addClass('hidden');
+	  $("#query_2_b").removeClass('hidden');
+	}
+  });
+
+  $('#Q_G').find('input').change(function(event) {
+  	if($('#Q_G').find('input:checked').length > 0) {
+	  $('.btn-finalizar').attr('disabled', false);
+    }
+    var q2_array = [];
+    $('#Q_G').find('input:checked').each(function(index, el) {
+	  q2_array.push($(el).attr('id'));
+	});
+	answers.q3 = q2_array;
+  });
+
+  $('.Q_H_btn').click(function(event) {
+  	event.preventDefault();
+  	$("#query_2_alt").addClass('hidden');
+	$("#query_2_b").removeClass('hidden');
+	answers.q5 = $('#txtA1').val().substring(0, 250);
+  });
+
+  $('.btn-finalizar').click(function (event) {
+    fin++;
+    $.ajax({
+      url: '/encuesta-satisfaccion',
+      type: 'post',
+      dataType: 'json',
+      data: { section: section, lang: lang, properties: properties, answers: answers },
+      beforeSend: function() {
+        $('.loading').removeClass('hidden');
+      },
+      success: function(data) {
+        set_ga("Finalizada");
+
+        $('.survey').hide();
+        $('.survey-popup').css({'height':'60px','background-color':'#dff0d8','border':'1px solid #d6e9c6'});
+        $('.survey-popup .title').text('Gracias por tu participación.').css({'color':'#3c763d'});
+        $('#icon-survey').removeClass('fa-file-text-o').addClass('fa-check-circle').css({'color':'#3c763d'});
+        setTimeout(function() {
+          $('.survey-popup').fadeOut('800');
+        }, 1600);
+      }
+    });
+  });
+
+  function set_ga(estatus) {
+    var pages_group = "Gobierno";
+    var organization_name = "presidencia";
+
+    console.log("Entro a apartado de encuesta de satisfacción. Estatus: "+ estatus);
+    console.log("Pages group: "+pages_group);
+    console.log("Sub group: "+organization_name);
+    console.log("Page type: "+page_type);
+    console.log("Face: "+tipo_cara);
+
+      console.log("Rails.env.production");
+      //Código GA para encuesta de satisfacción.
+		gtag('set', 'dimension14', pages_group);
+		gtag('set', 'dimension15', organization_name);
+		gtag('set', 'dimension16', page_type);
+		gtag('send', 'event', 'Encuesta de satisfacción', tipo_cara ,estatus);
+		gtag('set', 'dimension14', null);
+		gtag('set', 'dimension15', null);
+		gtag('set', 'dimension16', null);
+  }
+
+  $('#subscribe-survey').click(function(event) {
+	event.preventDefault();
+    var email = $("#email-survey").val();
+    var state = $('#estados').val();
+
+    if (email !== '' || email !== undefined) {
+	    try {
+	      $.ajax({
+	        url: "/subscribe",
+	        type: 'post',
+	        dataType: 'json',
+	        data : { email: {address: email} },
+	        success: function (data) {
+	            $('#responseSignup').html(data.message);
+	        },
+	        error: function (data) {
+	            $('#responseSignup').html(data.message);
+	        }
+	      });
+	    }catch(e){
+	      $("#responseEmail").innerText(e);
+	    }
+
+	    $.ajax({
+	    	url: '/signups',
+	    	type: 'POST',
+	    	dataType: 'json',
+	    	data: { section: section, lang: lang, properties: properties },
+	    	success: function() {
+	    		//console.log('exito');
+	    	}
+	    });
+	} else {
+		$('#responseSignup').html('Por favor llena todos los campos.');
+	}
+  });
+
+  $('#survey-form').submit(function(event) {
+    event.preventDefault();
+  });
+});
+</script>
+
+      </div>
+      <div class="col-sm-7 pull-left">
+        <div class="share-buttons clearfix vertical-buffer">
+  <div class="col-md-2"> <a class="twitter-share-button" data-url="https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-6-de-junio-de-2024" data-text="Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 6 de junio de 2024"></a></div>
+  <div class="col-md-2">
+    <div class="fb-share-button" data-href="https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-6-de-junio-de-2024" data-layout="button_count" data-size="small" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-6-de-junio-de-2024&amp;src=sdkpreparse">Compartir</a></div>
+  </div>
+</div>
+
+  <script type="text/javascript">
+    (function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v2.7";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+    
+    var pages_group = "Gobierno";
+    var page_type = "Artículos";
+    var organization_name = "presidencia";
+    var title_content = "Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 6 de junio de 2024";
+
+     window.twttr = (function (d,s,id) {
+       var t, js, fjs = d.getElementsByTagName(s)[0];
+       if (d.getElementById(id)) return; js=d.createElement(s); js.id=id;
+       js.src="//platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs);
+       return window.twttr || (t = { _e: [], ready: function(f){ t._e.push(f) } });
+     }(document, "script", "twitter-wjs"));
+
+     function trackTwitter(intent_event) {
+       if (intent_event) {
+         if (intent_event.target && intent_event.target.nodeName == 'IFRAME') {
+           console.log("Metrica Compartir Twitter - "+title_content);
+           console.log("Organization: "+organization_name);
+           console.log("Page type: "+page_type);
+           console.log("Title content: "+title_content);
+           ga('set', 'dimension14', pages_group);
+           ga('set', 'dimension15', organization_name);
+           ga('set', 'dimension16', page_type);
+           ga('send', 'event', 'Compartir en redes sociales', 'Twitter', title_content);
+           ga('set', 'dimension14', null);
+           ga('set', 'dimension15', null);
+           ga('set', 'dimension16', null);
+         }
+       }
+     }
+  </script>
+  <script type="text/javascript">
+     twttr.ready(function (twttr) {
+       twttr.events.bind('tweet', trackTwitter);
+     });
+  </script>
+
+
+      </div>
+    </div>
+    <div class="row top-buffer">
+  <div class="col-md-8">
+    <hr>
+    <div class="print col-ms-12 col-md-12 col-xs-12">
+      <span class="icon-printing"></span>
+      <a href="#">Imprime la página completa</a>
+        <p class="small" style="font-size: 14px; line-height: 1.6em;">
+          La legalidad, veracidad y la calidad de la información es estricta responsabilidad de la dependencia, entidad o empresa productiva del Estado que la proporcionó en virtud de sus atribuciones y/o facultades normativas.
+        </p>
+    </div>
+  </div>
+</div>
+
+  </div>
+  <input type="hidden" id="page_type" name="page_type" value="Articulos">
+  <input type="hidden" id="organization_name" name="organization_name" value="presidencia">
+</main>
+<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+
+<footer class="main-footer">
+  <div class="list-info">
+    <div class="container">
+
+      <div class="col-sm-3">
+        <img  src="https://framework-gb.cdn.gob.mx/landing/img/logoheader.svg"  href="/" alt="logo gobierno de méxico" class="logo_footer" style="max-width: 90%; margin-left: -27px;   margin-top: 12px;">
+      </div>
+      <div class="col-sm-3">
+        <h2>Enlaces</h2>
+        <ul>
+         <!-- <li><a  href="http://www.participa.gob.mx">Participa</a></li> -->
+          <li><a  href="https://datos.gob.mx/">Datos</a></li>
+          <li><a href="https://www.gob.mx/publicaciones" target="_blank" rel="noopener" title="Enlace abre en ventana nueva">Publicaciones </a></li>
+
+                  <li><a class="footer" href="https://consultapublicamx.plataformadetransparencia.org.mx/vut-web/faces/view/consultaPublica.xhtml?idEntidad=MzM=&amp;idSujetoObligado=MTAwMDE=#inicio" id="Transparencia" target="blank" title="Enlace abre en ventana nueva">Portal de Obligaciones de Transparencia</a></li>
+
+                  <li><a class="footer" href="https://www.infomex.org.mx/gobiernofederal/home.action" id="PNT" target="blank" title="Enlace abre PNT en ventana nueva">PNT</a></li>
+
+                  <li><a class="footer" href="http://www.inai.org.mx/" id="INAI" target="blank" title="Enlace abre sitio INAI en ventana nueva">INAI</a></li>
+
+          <li><a class="footer" id="INAI" href="http://alertadores.funcionpublica.gob.mx/" target="_blank" rel="alertadores">Alerta</a></li>
+          <li><a class="footer" id="SIDEC" href="http://sidec.funcionpublica.gob.mx/" target="_blank" rel="sidec">Denuncia</a></li>
+           </ul>
+      </div>
+      <div class="col-sm-3">
+        <h2>¿Qué es gob.mx?</h2>
+        <p>Es el portal único de trámites, información y participación ciudadana.  <a href="/que-es-gobmx" style="text-decoration: none;">Leer más </a></p>
+        <ul>
+
+        
+            <li><a href='http://www.gob.mx/epn'> Administraciones anteriores  </a></li>
+          <li><a href="/accesibilidad">Declaración de Accesibilidad</a></li>
+          <li><a href="/privacidadintegral">Aviso de privacidad</a></li>
+          <li><a href="/privacidadsimplificado">Aviso de privacidad simplificado</a></li>
+          <li><a href="/terminos">Términos y Condiciones </a></li>
+          <li><a href="/terminos#medidas-seguridad-informacion">Política de seguridad</a></li>
+          <li><a class="footer" id="Marco Juridico" href="http://www.ordenjuridico.gob.mx" target="_blank" rel="noopener" title="Enlace abre en ventana nueva">Marco jurídico</a></li>
+          <li><a href="/sitemap">Mapa de sitio</a></li>
+        </ul>
+      </div>
+      <div class="col-sm-3">
+        </p>
+        <h2>Síguenos en </h2>
+        <ul class="list-inline">
+          <li>
+            <a id="Facebook" href="https://www.facebook.com/gobmexico" target="_blank" rel="noopener" class="sendEst share-info footer" title="enlace a facebook abre en una nueva ventana">
+              <img alt="Facebook" src="https://framework-gb.cdn.gob.mx/landing/img/facebook.png" />
+            </a>
+          </li>
+          <li>
+            <a id="Twitter" href="https://twitter.com/GobiernoMX" target="_blank" rel="noopener" class="sendEst share-info footer" title="Enlace a twitter abre en una nueva ventana">
+              <img alt="Twitter" src="https://framework-gb.cdn.gob.mx/landing/img/twitter.png" />
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+  </div>
+  </div>
+
+  <div class="container-fluid footer-pleca">
+    <div class="row">
+      <div class="col">
+        <br><br>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script type="text/javascript">
+      $("a.footer").click(function () {
+          var pagina_sitio = window.location.pathname;
+          var outbound_link = $(this).attr("id");
+          var subgrupo_paginas = "presidencia";
+          var page_type = "Home";
+          var pages_group = "Gobierno";
+          if($("#page_type").length > 0){ page_type = $("#page_type").val(); }
+
+          console.log("Metrica links externos footer - "+outbound_link);
+          gtag('set', 'dimension14', pages_group);
+          gtag('set', 'dimension15', subgrupo_paginas);
+          gtag('set', 'dimension16', page_type);
+          gtag('send', 'event', 'Outbound link - Footer', outbound_link, pagina_sitio);
+          gtag('set', 'dimension14', null);
+          gtag('set, ‘dimension15', null);
+      })
+  </script>
+
+<input class="hidden" id="route" value="/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-6-de-junio-de-2024" type="hidden" >
+<!-- div id="fb-root"></div -->
+
+
+
+
+
+  <!-- Begin comScore Tag -->
+  <script>
+      var _comscore = _comscore || [];
+      _comscore.push({ c1: "2", c2: "17183199" });
+      (function() {
+          var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+          s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+          el.parentNode.insertBefore(s, el);
+      })();
+  </script>
+  <noscript>
+    <img src="https://sb.scorecardresearch.com/p?c1=2&c2=17183199&cv=2.0&cj=1" />
+  </noscript>
+  <!-- End comScore Tag -->
+
+  <script src="https://sb.scorecardresearch.com/c2/17183199/ct.js"></script>
+
+
+  <script type="text/javascript">
+
+      var _sf_startpt=(new Date()).getTime();
+      var _sf_async_config = { uid: 43659, domain: 'www.gob.mx', useCanonical: true } ;
+      (function() {
+          function loadChartbeat() { window._sf_endpt = (new Date()).getTime(); var e = document.createElement('script'); e.setAttribute('language', 'javascript'); e.setAttribute('type', 'text/javascript'); e.setAttribute('src','//static.chartbeat.com/js/chartbeat.js'); document.body.appendChild(e); };
+          var oldonload = window.onload;
+          window.onload = (typeof window.onload != 'function') ?
+              loadChartbeat : function()
+              { oldonload(); loadChartbeat(); };
+      })();
+      var ele = "/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-6-de-junio-de-2024";
+      if( "#{(@organization_site.present? ? @organization_site.category : 'gobmx')}" == "Campaña") {
+          var siteEls = 'campaign';
+      } else {
+          var siteEls = 'gobierno';
+      }
+
+      for( var i = 1; i < ele.split('/').length; i++ ) {
+          siteEls = siteEls + '.' + ele.split('/')[i];
+      }
+
+      function udm_(e){var t="comScore=",n=document,r=n.cookie,i="",s="indexOf",o="substring",u="length",a=2048,f,l="&ns_",c="&",h,p,d,v,m=window,g=m.encodeURIComponent||escape;if(r[s](t)+1)for(d=0,p=r.split(";"),v=p[u];d<v;d++)h=p[d][s](t),h+1&&(i=c+unescape(p[d][o](h+t[u])));e+=l+"_t="+ +(new Date)+l+"c="+(n.characterSet||n.defaultCharset||"")+"&c8="+g(n.title)+i+"&c7="+g(n.URL)+"&c9="+g(n.referrer),e[u]>a&&e[s](c)>0&&(f=e[o](0,a-8).lastIndexOf(c),e=(e[o](0,f)+l+"cut="+g(e[o](f+1)))[o](0,a)),n.images?(h=new Image,m.ns_p||(ns_p=h),h.src=e):n.write("<","p","><",'img src="',e,'" height="1" width="1" alt="*"',"><","/p",">")};
+      function uid_call(a, b){
+          ui_c2 = 17183199; // your corporate c2 client value
+          ui_ns_site = 'gobmx'; // your sites identifier
+          window.b_ui_event = window.c_ui_event != null ? window.c_ui_event:"",window.c_ui_event = a;
+          var ui_pixel_url = 'https://sb.scorecardresearch.com/p?c1=2&c2='+ui_c2+'&ns_site='+ui_ns_site+'&name='+a+'&ns_type=hidden&type=hidden&ns_ui_type='+b;
+          var b="comScore=",c=document,d=c.cookie,e="",f="indexOf",g="substring",h="length",i=2048,j,k="&ns_",l="&",m,n,o,p,q=window,r=q.encodeURIComponent||escape;if(d[f](b)+1)for(o=0,n=d.split(";"),p=n[h];o<p;o++)m=n[o][f](b),m+1&&(e=l+unescape(n[o][g](m+b[h])));ui_pixel_url+=k+"_t="+ +(new Date)+k+"c="+(c.characterSet||c.defaultCharset||"")+"&c8="+r(c.title)+e+"&c7="+r(c.URL)+"&c9="+r(c.referrer)+"&b_ui_event="+b_ui_event+"&c_ui_event="+c_ui_event,ui_pixel_url[h]>i&&ui_pixel_url[f](l)>0&&(j=ui_pixel_url[g](0,i-8).lastIndexOf(l),ui_pixel_url=(ui_pixel_url[g](0,j)+k+"cut="+r(ui_pixel_url[g](j+1)))[g](0,i)),c.images?(m=new Image,q.ns_p||(ns_p=m),m.src=ui_pixel_url):c.write("<p><img src='",ui_pixel_url,"' height='1' width='1' alt='*'></p>");
+      }
+      udm_('https://sb.scorecardresearch.com/b?c1=2&c2=17183199&ns_site=gobmx&name='+siteEls);
+  </script>
+
+  <noscript>
+    <img src="https://sb.scorecardresearch.com/p?c1=2&amp;c2=17183199&amp;ns_site=gobmx&amp;name=gobierno.presidencia.es.articulos.version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-6-de-junio-de-2024" height="1" width="1" alt="*" />
+  </noscript>
+<script>
+    let key = '';
+    $(function () {
+
+        $.getJSON("https://framework-gb.cdn.gob.mx/applications/cms/configGobmx.json", function(json) {
+            console.log(json.keyAnalytics); // this will show the info it in firebug console
+            key = json.keyAnalytics;
+            ga('create', key , 'auto', 'GobTracker');
+            ga('GobTracker.require', 'linker');
+            ga('GobTracker.linker:autoLink', ['www.gob.mx']);
+            ga('GobTracker.set', 'contentGroup1', 'Gobierno');
+            ga('GobTracker.set', 'contentGroup2', SubGroup);
+            ga('GobTracker.set', 'contentGroup3', PageType);
+            ga('GobTracker.set', 'dimension14', 'Gobierno');
+            ga('GobTracker.set', 'dimension15', SubGroup);
+            ga('GobTracker.set', 'dimension16', PageType);
+            ga('GobTracker.set', 'dimension13', 'No Registrado');
+            ga('GobTracker.send', 'pageview');
+            ga('GobTracker.set', 'contentGroup1', null);
+            ga('GobTracker.set', 'contentGroup2', null);
+            ga('GobTracker.set', 'contentGroup3', null);
+            ga('GobTracker.set', 'dimension14', null);
+            ga('GobTracker.set', 'dimension15', null);
+            ga('GobTracker.set', 'dimension16', null);
+            ga('GobTracker.set', 'dimension13', null);
+        });
+    });
+</script>
+
+<script src="https://framework-gb.cdn.gob.mx/applications/cms/modal_global_cms.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/gm/accesibilidad/js/gobmx-accesibilidad.min.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick.min.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick-lightbox.js"></script>
+<link rel="stylesheet" href="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick-lightbox.css">
+
+
+<script src="https://framework-gb.cdn.gob.mx/applications/cms/config_dependency.js"></script>
+<script type="text/javascript"  src="/0RVTuHxj0/t/mhEICJIQ/YiOkthVkYSfw/PRc4N0sKYQk/PwhFVTt/GPxQB"></script></body>
+
+</html>
+

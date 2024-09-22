@@ -1,0 +1,1427 @@
+<!DOCTYPE html>
+<html class='no-js' lang='es'>
+<head>
+    <title>
+  Versión estenográfica. Plan de Salud IMSS-Bienestar Michoacán | Presidencia de la República  | Gobierno | gob.mx
+</title>
+
+  <meta charset='UTF-8'>
+  <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#393C3E">
+
+  
+  <meta name="keywords" content="">
+  <meta name="description" content="Acto encabezado por el presidente Andrés Manuel López Obrador desde Charo, Michoacán">
+  <meta name="author" content="Presidencia de la República ">
+
+  <meta content="Versión estenográfica. Plan de Salud IMSS-Bienestar Michoacán" property="og:title" />
+  <meta content="https://www.gob.mxhttps://www.gob.mx/cms/uploads/article/main_image/129030/IMSS_BIENESTAR_MICHOACAN_14.18.06.jpeg" property="og:image" />
+  <meta content="gob.mx" property="og:site_name" />
+  <meta content="Acto encabezado por el presidente Andrés Manuel López Obrador desde Charo, Michoacán" property="og:description" />
+  <meta content="http://www.gob.mx/presidencia/es/articulos/version-estenografica-plan-de-salud-imss-bienestar-michoacan?idiom=es" property="og:url" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@gobmx" />
+  <meta name="twitter:title" content="Versión estenográfica. Plan de Salud IMSS-Bienestar Michoacán" />
+  <meta name="twitter:description" content="Acto encabezado por el presidente Andrés Manuel López Obrador desde Charo, Michoacán" />
+  <meta name="twitter:image" content="https://www.gob.mxhttps://www.gob.mx/cms/uploads/article/main_image/129030/IMSS_BIENESTAR_MICHOACAN_14.18.06.jpeg" />
+
+
+  <meta content="authenticity_token" name="csrf-param" />
+<meta content="kku4Ic3uxUvkdGq1b7lGtC3pPAiAjW6uioRLCj6F1Ng=" name="csrf-token" />
+
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700,600,300' rel='stylesheet' type='text/css'>
+  <link href='https://framework-gb.cdn.gob.mx/applications/cms/favicon.png' rel='shortcut icon'>
+  <link data-turbolinks-track="true" href="/cms/assets/application.css" media="all" rel="stylesheet" />
+  <link data-turbolinks-track="true" href="https://framework-gb.cdn.gob.mx/gm/accesibilidad/css/gobmx-accesibilidad.min.css" media="all" rel="stylesheet" />
+  
+
+  <!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+  <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+
+ <![endif]-->
+  <script async src="https://www.googletagmanager.com/gtag/js?id="></script>
+  <script src="https://framework-gb.cdn.gob.mx/applications/cms/carrusel/swiper-bundle.min.js"></script>
+
+  <link rel="stylesheet" href="https://framework-gb.cdn.gob.mx/applications/cms/carrusel/swiper-bundle.min.css">
+
+    <script type="text/javascript">
+
+        var SubGroup = '';
+        if(false || false){
+            SubGroup = 'Temas';
+        }else{
+            SubGroup = 'presidencia';
+        }
+        var PageType = '';
+        if(false){
+            PageType = 'Home'
+        }else{
+            if(false){
+                PageType = '';
+            }else {
+                var site = window.location.pathname;
+                var arrayPageType = ["articulos", "prensa", "agenda", "documentos", "multimedia", "galerias", "videos",
+                    "acciones_y_programas", "acciones-y-programas", "mi-foto-con-el-presidente",
+                    "estructuras", "descargables", "que-hacemos", "finanzas", "infografias"];
+
+                if (site.search("archivo") != -1) {
+                    PageType = "archivo_";
+                }
+                for (var i = 0; i < arrayPageType.length; i++) {
+                    if (site.search(arrayPageType[i]) != -1) {
+                        PageType += arrayPageType[i];
+                        break;
+                    }
+                }
+            }
+        }
+
+
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', '');
+
+        gtag('require', 'linker');
+        gtag('linker:autoLink', ['www.gob.mx']);
+        gtag('set', 'contentGroup1', 'Gobierno');
+        gtag('set', 'contentGroup2', SubGroup);
+        gtag('set', 'contentGroup3', PageType);
+        gtag('set', 'dimension14', 'Gobierno');
+        gtag('set', 'dimension15', SubGroup);
+        gtag('set', 'dimension16', PageType);
+        gtag('set', 'dimension13', 'No Registrado');
+        gtag('send', 'pageview');
+        gtag('set', 'contentGroup1', null);
+        gtag('set', 'contentGroup2', null);
+        gtag('set', 'contentGroup3', null);
+        gtag('set', 'dimension14', null);
+        gtag('set', 'dimension15', null);
+        gtag('set', 'dimension16', null);
+        gtag('set', 'dimension13', null);
+
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-144356475-1', 'auto', {'allowLinker':true});
+        ga('require', 'linker');
+        ga('linker:autoLink', ['www.gob.mx']);
+        ga('set', 'contentGroup1', 'Gobierno');
+        ga('set', 'contentGroup2', SubGroup);
+        ga('set', 'contentGroup3', PageType);
+        ga('set', 'dimension14', 'Gobierno');
+        ga('set', 'dimension15', SubGroup);
+        ga('set', 'dimension16', PageType);
+        ga('set', 'dimension13', 'No Registrado');
+        ga('send', 'pageview');
+        ga('set', 'contentGroup1', null);
+        ga('set', 'contentGroup2', null);
+        ga('set', 'contentGroup3', null);
+        ga('set', 'dimension14', null);
+        ga('set', 'dimension15', null);
+        ga('set', 'dimension16', null);
+        ga('set', 'dimension13', null);
+    </script>
+
+
+  <script type = "text/javascript"> console.log(true);
+  var rails_env_prod = true; </script>
+  <script src="/cms/assets/application.js"></script>
+  <script src="/cms/assets/imageReplace.js"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.js"></script>
+
+                              <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("True"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="N3JQ2-2RVHB-WJQMN-CEYEM-ATMWX",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"N3JQ2-2RVHB-WJQMN-CEYEM-ATMWX",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="xxqo3jv567lbazxpkj6a-f-c7c614416-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"37","ak.cp":"413578","ak.ai":parseInt("270161",10),"ak.ol":"0","ak.cr":12,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"20d4a963","ak.r":49405,"ak.a2":e,"ak.m":"b","ak.n":"essl","ak.bpcip":"189.224.237.0","ak.cport":64760,"ak.gh":"189.247.214.15","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"reno","ak.t":"1726960252","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==Pmgha6013iz5iNDj1xkqo4RJokHeAogLL0dWDEkmhA9JETc40hJ5gyFEcQ5YmeoBI7eKOG6jL5mtaQQqbXxI3Fu3hKe0ajV8vfx+wnPiJ987NNa9tgfJeIRI7wntaQxWqw8P+vQepY8+x6eQtwBmV+6ZpEKZovqKcvEuhoqAwRkbVRSL0pwe8py4vjWf7xYiNrWnz2xoeCVvuD/Xx2ePokqf2082L6z7LN5iV53hHThXC1rQQd03zBNW/tnchfTqlKzVyqVA97koBFLubPdk+PVAHoI2M/zwRvZ7Mhn3y0aK2XmjW5KbYrmDW2S4Pb1r8aRlitLOdfFqqoy55kw0iE0Rzchw/4tlUTfQ6uICk21y//4PZSzEJajzleECFE39n41T0pDuDsPyF+KKW/JKckeX3CFE7F7ASdeMBOv+vX8=","ak.pv":"113","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+<body>
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v13.0" nonce="MZ2GPb2d"></script><!-- a href="#principal" class="skip">Saltar al contenido principal</a -->
+  <header class=" navbar navbar-inverse">
+    <nav class="navbar navbar-inverse  navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-target="#navbarMainCollapse" data-toggle="collapse">
+            <span class="sr-only">Interruptor de Navegación</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a href="/" style="padding: 1px 3px 3px 3px;" class="navbar-brand " title="Ir a la página inicial">
+
+            <div class="logo-main"></div>
+          </a>
+        </div>
+        <div id="navbarMainCollapse" class="collapse navbar-collapse">
+          <ul class="nav navbar-nav navbar-right">
+           <li><a href="/tramites" title="Trámites">Trámites </a></li>
+            <li><a href="/gobierno" title="Gobierno">Gobierno</a></li>
+                  <li><a href="/presidencia/en" title="Versión en inglés del sitio web">English</a>
+                  </li>
+                </li>
+
+
+            <li>
+              <form accept-charset="UTF-8" action="/busqueda" method="get"><div style="display:none"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+                <input type="hidden" name="site" value="presidencia">
+                <button data-v-6394873e="" id="botonbuscar" type="button" class="btn btn-search"><a data-v-6394873e="" href="https://www.gob.mx/busqueda?utf8=✓" target="_blank" id="botbusca"><img data-v-6394873e="" alt="Buscar" src="https://framework-gb.cdn.gob.mx/landing/img/lupa.png"></a></button>
+</form>            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    
+
+
+        <script src="/cms/assets/level_jump.js"></script><section>
+<!-- Subnavegacion -->
+<nav class=" navbar-inverse sub-navbar fixed-top"
+     >
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#subenlaces">
+        <span class="sr-only">Interruptor de Navegación</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="link-name" href="?tab="></a>
+    </div>
+    <div class="collapse navbar-collapse" id="subenlaces">
+      <ul class="nav subnav navbar-nav navbar-right">
+              <li class="landing-btn">
+                    <a href='/presidencia/es/archivo/prensa'>
+                Comunicados            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='/presidencia/es/#5173'>
+                Directorio            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='https://transparencia.presidencia.gob.mx/presidencia/transparencia/politicas-de-tratamiento-de-datos-personales-de-la-oficina-de-la-presidencia-de-la-republica/'>
+                Protección de Datos Personales            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='https://www.gob.mx/presidencia/transparencia/'>
+                Transparencia            </a>
+            </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+<style>
+  .flag-banner {
+  top: 45px  !important;
+  }
+</style>
+<!-- div class="warning-nav" style="margin-top: 0px;">
+  <div class="container">
+    <div class="row clearfix">
+  <div class="col-xs-12 col-sm-12 col-md-12">Este contenido será modificado temporalmente en atención a las disposiciones legales y normativas en materia electoral, con motivo del inicio de periodo de campaña</div>
+  </div>
+  </div>
+</div -->
+</section>
+
+
+  </header>
+
+
+
+
+
+<main class="inner-page interior ficha">
+  <div class="container">
+  	<ol class="breadcrumb">
+  <li><a href="http://www.gob.mx"><span class="icon icon-home"></span><span class="sr-only">Inicio</span></a></li>
+  <li><a href="/presidencia">Presidencia de la República </a></li>
+  <li class="active">Blog</li>
+</ol>
+  	<div class="">
+      <div aria-hidden="true" class="hidden-xs font-changer internal print" tabindex="-1">
+  <button class="inc-font font-modifier">Aa+</button>
+  <button class="dec-font font-modifier">Aa-</button>
+</div>
+      <div class="marquee-padding">
+      <div class='post-list main-post-list'>
+<div class='marque-float-left'>
+<div class='right_arrow'></div>
+<div class='titulo-pub'>
+<small>Publicaciones Recientes</small>
+</div>
+</div>
+<div>
+<div class='container-marque'>
+<div id='headlines'>
+<div class='marquee'>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-19 13:44:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-19-de-septiembre-de-2024' title='Versió'>
+Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 19 de septiembre de 2024
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-18 12:36:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-18-de-septiembre-de-2024' title='Versió'>
+Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 18 de septiembre de 2024
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-17 13:51:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-entrega-de-estimulos-a-delegaciones-mexicanas-participantes-en-juegos-olimpicos-y-paralimpicos-paris-2024' title='Versió'>
+Versión estenográfica. Entrega de estímulos a delegaciones mexicanas participantes en Juegos Olímpicos y Paralímpicos París 2024
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-17 12:21:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-17-de-septiembre-de-2024' title='Versió'>
+Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 17 de septiembre de 2024
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-16 13:56:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-desfile-civico-militar' title='Versió'>
+Versión estenográfica. Desfile Cívico Militar
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+      </div>
+  	  <div class="col-md-7 col-xs-12 col-sm-12 pull-left" tabindex="0">
+  	  	<h1 class="bottom-buffer">Versión estenográfica. Plan de Salud IMSS-Bienestar Michoacán</h1>
+  	  	<h2>Acto encabezado por el presidente Andrés Manuel López Obrador desde Charo, Michoacán</h2>
+        <section class="">
+          <p>Presidencia de la República  | 27 de enero de 2023</p>
+        </section>
+  	  <div class="imagen-principal">
+  	      <img alt="Plan de Salud IMSS-Bienestar Michoacán" class="img-responsive img_curve" src="https://www.gob.mx/cms/uploads/article/main_image/129030/IMSS_BIENESTAR_MICHOACAN_14.18.06.jpeg" />
+  	      <span class="small">Plan de Salud IMSS-Bienestar Michoacán</span>
+      </div>
+      <div class="article-body"><p>MODERADOR:&nbsp;Preside este evento de supervisi&oacute;n del Plan de Salud IMSS-Bienestar en Michoac&aacute;n el presidente constitucional de los Estados Unidos Mexicanos, licenciado Andr&eacute;s Manuel L&oacute;pez Obrador.</p>
+
+<p>Lo acompa&ntilde;an:</p>
+
+<p>El gobernador constitucional del estado de Michoac&aacute;n, Alfredo Ram&iacute;rez Bedolla.</p>
+
+<p>El secretario de Salud, Jorge Alcocer Varela.</p>
+
+<p>El director general del Instituto Mexicano del Seguro Social, Zo&eacute; Robledo.</p>
+
+<p>El director general del Instituto de Salud para el Bienestar, Juan Antonio Ferrer Aguilar.</p>
+
+<p>La directora general de Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar, doctora Gisela Lara Salda&ntilde;a.</p>
+
+<p>El subsecretario de Egresos de la Secretar&iacute;a de Hacienda y Cr&eacute;dito P&uacute;blico, Juan Pablo de Botton Falc&oacute;n.</p>
+
+<p>La directora del Hospital IMSS-Bienestar &lsquo;Eva S&aacute;mano&rsquo;, doctora Silvia Ch&aacute;vez Gallegos.</p>
+
+<p>Asimismo, damos la bienvenida a los representantes de los medios de comunicaci&oacute;n y a quienes nos siguen a trav&eacute;s de las redes sociales.</p>
+
+<p>Todas y todos ustedes sean bienvenidos.</p>
+
+<p>Procedemos con las palabras de bienvenida del gobernador constitucional del estado de Michoac&aacute;n, maestro Alfredo Ram&iacute;rez Bedolla.</p>
+
+<p>ALFREDO RAM&Iacute;REZ BEDOLLA, GOBERNADOR DE MICHOAC&Aacute;N:&nbsp;Gracias, muchas gracias. Buenas tardes a todas, a todos.</p>
+
+<p>Saludo con agrado, con aprecio, con admiraci&oacute;n y respeto al presidente de la Rep&uacute;blica, al licenciado Andr&eacute;s Manuel L&oacute;pez Obrador. Bienvenido a Morelia, a Michoac&aacute;n, se&ntilde;or presidente.</p>
+
+<p>Saludo tambi&eacute;n al doctor Jorge Alcocer, secretario de Salud. Doctor, bienvenido.</p>
+
+<p>Al maestro Zo&eacute; Robledo Aburto, director general del Instituto Mexicano del Seguro Social.</p>
+
+<p>Al licenciado Juan Pablo de Botton Falc&oacute;n, subsecretario de Egresos de la Secretar&iacute;a de Hacienda y Cr&eacute;dito P&uacute;blico.</p>
+
+<p>A la doctora Gisela&nbsp;Lara Salda&ntilde;a, doctora, directora general de Servicios de Salud del IMSS-Bienestar.</p>
+
+<p>Tambi&eacute;n al maestro Juan Antonio Ferrer Aguilar, director general Insabi.&nbsp;</p>
+
+<p>Y por supuesto que tambi&eacute;n con mucho gusto saludamos a la doctora Silvia Ch&aacute;vez, directora del Hospital de Especialidades IMSS-Bienestar Infantil Morelia, es decir, nuestro hospital &lsquo;Eva S&aacute;mano&rsquo;. Gracias, doctora.</p>
+
+<p>Presidente Andr&eacute;s Manuel L&oacute;pez Obrador, sea usted bienvenido nuevamente al estado de Michoac&aacute;n de Ocampo, tierra de mujeres y hombres libres que a lo largo de las generaciones han luchado por la patria, por la justicia, por la libertad y por la dignidad.</p>
+
+<p>Aqu&iacute; en Michoac&aacute;n, con el respaldo decidido, franco y abierto del gobierno que usted encabeza, estamos haciendo realidad el proyecto de la Cuarta Transformaci&oacute;n y estamos recuperando Michoac&aacute;n.</p>
+
+<p>Nos sentimos muy orgullosos de formar parte de este momento estelar en la historia mexicana. A nombre del pueblo de Michoac&aacute;n le expreso, presidente, nuestro reconocimiento por su compromiso para atender los problemas m&aacute;s urgentes y necesarios de la entidad.</p>
+
+<p>Con su apoyo, de verdad, que estamos recuperando Michoac&aacute;n, en seguridad y en muchos temas, pero, hay que decirlo, Michoac&aacute;n ven&iacute;a de a&ntilde;os dif&iacute;ciles, de a&ntilde;os de corrupci&oacute;n, de a&ntilde;os de abandono, de a&ntilde;os terribles para el pueblo.</p>
+
+<p>En un a&ntilde;o que estamos en el gobierno se nota la transformaci&oacute;n, el cambio, poco a poco, con mucho esfuerzo, con honestidad, con transparencia, sin corrupci&oacute;n. F&iacute;jense, quiero nada m&aacute;s se&ntilde;alar algunos datos y referirme que en materia, por ejemplo, de seguridad, hemos pasado de enero del 2022 a enero del 2023 una reducci&oacute;n de 32 por ciento en el tema de los homicidios.</p>
+
+<p>En el tema de bienestar, hay que decirlo, Michoac&aacute;n es uno de los 14 estados que de manera decidida y a pesar de c&oacute;mo encontramos las finanzas del estado hace m&aacute;s de un a&ntilde;o, siempre le dijimos que s&iacute; al presidente de la Rep&uacute;blica para implementar en Michoac&aacute;n el Programa Universal de Pensi&oacute;n para Personas con Discapacidad, personas de 30 a 64 a&ntilde;os, que ya en Michoac&aacute;n tienen pensi&oacute;n por ser personas con discapacidad. Ah&iacute; todas y todos hemos puesto de nuestra parte.</p>
+
+<p>Pero hay otros datos muy relevantes. La semana pasada estuve reunido con Zo&eacute; Robledo, director del IMSS, y quiero informarle, presidente, que estamos pagando la deuda que ten&iacute;amos con el Instituto Mexicano del Seguro Social.</p>
+
+<p>Cuando llegu&eacute; al gobierno en octubre de 2021, le ped&iacute;a el gobierno de Michoac&aacute;n al IMSS dos mil 570 millones de pesos, esa era nuestra deuda con el IMSS. Comenzamos a pagar, en 2021 de inmediato 198 millones de pesos, luego pagamos 984 millones y en el enero de este a&ntilde;o, este mes, el d&iacute;a 13 de enero pagamos otros 865. Es decir, hemos pagado en un a&ntilde;o dos mil 47 millones de pesos al IMSS.</p>
+
+<p>Ya nos falta poco, como 400 millones, 427, pero ya hicimos un plan de pagos con Zo&eacute;, con su equipo y este a&ntilde;o terminamos de pagarle el 100 por ciento a la deuda que ten&iacute;amos con el IMSS, esto en beneficio de algo que es fundamental: de los derechohabientes del IMSS, de todas las personas que son atendidas en el IMSS, de todos los derechos sociales y de la salud de las michoacanas y los michoacanos.</p>
+
+<p>Por eso estamos pagando, en primer lugar, este tipo de deudas con el Issste, con el IMSS, con pensiones civiles del estado, porque tenemos que pensar primero en las trabajadoras, trabajadores y en la salud de las michoacanas y los michoacanos.</p>
+
+<p>Tambi&eacute;n me permito informar que en pr&oacute;ximos d&iacute;as, seguramente en los pr&oacute;ximos dos o tres meses, ya se est&aacute;n llevando a cabo las obras, pero ya este a&ntilde;o en el primer semestre, seguramente en marzo, abril, estaremos recibiendo las primeras oficinas nacionales del Instituto Mexicano del Seguro Social en Michoac&aacute;n con el traslado de 450 trabajadores administrativos de la Ciudad de M&eacute;xico a Morelia, aqu&iacute; en Tres Mar&iacute;as, en el edificio que se le fue donado por parte del gobierno del estado al Seguro Social. Muchas gracias, Zo&eacute;, a ti y a todo tu equipo por esta decisi&oacute;n.</p>
+
+<p>Ah&iacute; s&oacute;lo comentar, se&ntilde;or presidente, que el a&ntilde;o pasado le pedimos al Congreso del estado de Michoac&aacute;n desincorporar un terreno, cuatro hect&aacute;reas, en la mejor ubicaci&oacute;n de la ciudad para que ah&iacute; se puedan construir las oficinas nacionales del Seguro Social. Es el mejor terreno del gobierno del estado para una de las mejores instituciones de este pa&iacute;s, el Instituto Mexicano del Seguro Social.</p>
+
+<p>En salud tambi&eacute;n estamos garantizando los derechos de todas y de todos. Hay que se&ntilde;alarlo, cuando llegamos al gobierno la prioridad fue atender la salud de&nbsp;las ni&ntilde;as y los ni&ntilde;os, de las mujeres, y hoy estamos y tenemos en Michoac&aacute;n un programa del Bienestar muy sentido, muy especial: las ni&ntilde;as, con ni&ntilde;os con c&aacute;ncer, con este padecimiento, y las mujeres con c&aacute;ncer de mama y cervicouterino reciben un apoyo mensual de cuatro mil pesos mensuales para atender su enfermedad y que no dejen de venir al hospital con los m&eacute;dicos, con las m&eacute;dicas para su atenci&oacute;n.</p>
+
+<p>Y, bueno, no quiero alargarme m&aacute;s, pero s&iacute; quiero agradecerle hoy al presidente de la Rep&uacute;blica porque este a&ntilde;o Michoac&aacute;n ya ingresa al Programa de Fertilizantes Gratuitos, van a ser 40 mil toneladas, m&aacute;s de 70 mil productores, peque&ntilde;os productores de ma&iacute;z y de frijol que van a recibir su fertilizante gratuito con una inversi&oacute;n de m&aacute;s de 650 millones de pesos.</p>
+
+<p>Al igual que hace meses me invit&oacute; el presidente a L&aacute;zaro C&aacute;rdenas a visitar la planta de&nbsp;Fertinal, donde se producen los fertilizantes, en esta planta de la naci&oacute;n, una planta de Pemex, ah&iacute; se producen los fertilizantes que ahora los van a llegar a Michoac&aacute;n y a todo el pa&iacute;s. Ah&iacute; se est&aacute; modernizando esa planta con 220 millones de d&oacute;lares para que no nos falten fertilizantes para nuestros campesinos, para la producci&oacute;n de alimentos.</p>
+
+<p>Y, bueno, hace meses el presidente me encarg&oacute; algo, y lo estamos haciendo, y tiene que ver con el apoyo a los maestros y a las maestras de Michoac&aacute;n. Cuando llegamos al gobierno, hay que recordarlo, a los maestros se les deb&iacute;an tres meses de salario, se les deb&iacute;an sus bonos, sus prestaciones; hoy se les paga a tiempo y puntual, ya no se desv&iacute;a el recurso a otras cosas, se les paga a los maestros en tiempo y forma. Y&nbsp;los maestros y maestras&nbsp;de Michoac&aacute;n est&aacute;n respondiendo, est&aacute;n en el aula, est&aacute;n dando clases.</p>
+
+<p>Pero, m&aacute;s a&uacute;n, se&nbsp;acostumbraba&nbsp;pagar en efectivo, pagar en cheque, y me dijo el presidente Andr&eacute;s Manuel L&oacute;pez Obrador: &lsquo;A ver, Alfredo, hay que hacer eso sin corrupci&oacute;n&rsquo;, y en eso estamos. Cuando llegamos al gobierno el 60 por ciento de los maestros cobraba con tarjeta, y hoy, un a&ntilde;o despu&eacute;s, estamos avanzando, hoy est&aacute;n&nbsp;tarjetizados&nbsp;el 85 por ciento de&nbsp;los maestros y maestras&nbsp;de Michoac&aacute;n; es decir, m&aacute;s de 14 mil maestros en un a&ntilde;o se han sumado a la tarjeta para pagarles ah&iacute; su salario y no haya moches, no haya desv&iacute;o de recursos. El objetivo, presidente, es que el 100 por ciento de&nbsp;las maestras y maestroseste a&ntilde;o cobren por tarjeta.&nbsp;Cero corrupci&oacute;n&nbsp;en Michoac&aacute;n.</p>
+
+<p>Amigas y amigos:</p>
+
+<p>Concluyo con nuestro gran benepl&aacute;cito, nuestra gran satisfacci&oacute;n de que el IMSS, el Instituto Mexicano del Seguro Social, esta instituci&oacute;n que es un ejemplo a nivel mundial, que es para todos nosotros &mdash;yo nac&iacute; en un hospital del Seguro Social, aqu&iacute; en avenida Nocup&eacute;taro, precisamente lo repusieron, es el nuevo, porque lo tuvieron que tumbar, ya no existe, pero ah&iacute; nac&iacute; en 1976 en el IMSS, en Nocup&eacute;taro, en Morelia&mdash; esta instituci&oacute;n tan ejemplar, tan fuerte, que ha tenido Zo&eacute; Robledo un nuevo renacer, ahora se har&aacute; cargo, eso es muy importante se&ntilde;alarlo, con todos sus equipos, sus m&eacute;todos, la profesionalizaci&oacute;n, m&aacute;s enfermeras, m&aacute;s doctoras, m&aacute;s doctores, m&aacute;s especialistas, ahora el IMSS-Bienestar &mdash;por eso estamos hoy aqu&iacute; con mucho gusto&mdash; el IMSS-Bienestar se har&aacute; cargo de los servicios de salud en Michoac&aacute;n a la poblaci&oacute;n en general. Esa es muy, muy, pero muy buena noticia para todos los habitantes de Michoac&aacute;n, para todo el pueblo michoacano, que vamos a estar en salud&nbsp;en las mejores manos, en las manos del Instituto Mexicano del Seguro Social.</p>
+
+<p>Much&iacute;simas gracias a todos.</p>
+
+<p>Buen d&iacute;a.</p>
+
+<p>MODERADOR:&nbsp;Procedemos con la proyecci&oacute;n del video&nbsp;Avances del programa IMSS-Bienestar en Michoac&aacute;n.</p>
+
+<p>(INICIA VIDEO)</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Hemos echado andar el IMSS-Bienestar, el nuevo sistema de salud de calidad, gratuito y universal.</p>
+
+<p>VOZ MUJER:&nbsp;El 21 de junio de 2022 inici&oacute; la transformaci&oacute;n de los servicios estatales de salud en Michoac&aacute;n con la firma del acuerdo marco para implementar IMSS-Bienestar. En colaboraci&oacute;n con la Secretar&iacute;a de Salud de Michoac&aacute;n, 390 unidades de salud ser&aacute;n transferidas al &oacute;rgano p&uacute;blico descentralizado IMSS-Bienestar, con un prop&oacute;sito: brindar atenci&oacute;n m&eacute;dica y medicamentos gratuitos a la poblaci&oacute;n sin seguridad social.</p>
+
+<p>Ciento cinco personas participaron en el levantamiento diagn&oacute;stico de campo.</p>
+
+<p>El personal con contrataci&oacute;n definitiva en los servicios de salud del estado conservar&aacute; sus derechos y condiciones laborales, no ser&aacute;n afectados sus sueldos ni prestaciones, no ser&aacute; liquidados ni removidos.</p>
+
+<p>En Michoac&aacute;n se han destinado 127.95 millones de pesos para acciones de conservaci&oacute;n, limpieza, pintado, se&ntilde;al&eacute;tica, reparaciones, adem&aacute;s de mantenimiento de equipo m&eacute;dico y electromec&aacute;nico.</p>
+
+<p>En equipamiento m&eacute;dico se ha realizado una inversi&oacute;n de 465.85 millones de pesos, y durante todo el proceso se planea invertir un total de mil 14 millones de pesos en equipamiento.</p>
+
+<p>Junto con el gobierno del estado hemos trabajado arduamente para informar a los cuerpos de gobierno el nuevo modelo de atenci&oacute;n m&eacute;dica, mejorar la conservaci&oacute;n e infraestructura en cada hospital en farmacia, almac&eacute;n, consultorios, quir&oacute;fanos y salas de urgencias.</p>
+
+<p>La transformaci&oacute;n es posible porque la hacemos juntos, como un solo sistema de salud, como un solo pueblo de M&eacute;xico.</p>
+
+<p>Con el IMSS-Bienestar la salud es un derecho.&nbsp;</p>
+
+<p>(FINALIZA VIDEO)</p>
+
+<p>MODERADOR:&nbsp;A continuaci&oacute;n, hace uso de la palabra la directora del Hospital IMSS-Bienestar &lsquo;Eva S&aacute;mano&rsquo;, la doctora Silvia Ch&aacute;vez Gallegos.</p>
+
+<p>SILVIA CH&Aacute;VEZ GALLEGOS, DIRECTORA DEL HOSPITAL IMSS-BIENESTAR &lsquo;EVA S&Aacute;MANO&rsquo;:&nbsp;Licenciado Andr&eacute;s Manuel L&oacute;pez Obrador, presidente constitucional de los Estados Unidos Mexicanos:</p>
+
+<p>Es un honor tenerlo en casa, siendo la primera vez en la historia de este hospital en recibir a un presidente de la Rep&uacute;blica.</p>
+
+<p>Honorable pres&iacute;dium, invitados distinguidos que nos acompa&ntilde;an, compa&ntilde;eras y compa&ntilde;eros de este hospital:</p>
+
+<p>Les doy la m&aacute;s cordial y c&aacute;lida bienvenida a esta hermosa ciudad de Morelia, ciudad de la cantera rosa y al nuevo Hospital Infantil IMSS-Bienestar de Morelia &lsquo;Eva S&aacute;mano&rsquo;.&nbsp;</p>
+
+<p>Soy la doctora Silvia Ch&aacute;vez Gallegos, michoacana y orgullosamente&nbsp;zacapense. Gracias a mis padres, tuve el privilegio y la oportunidad de estudiar la carrera de Medicina, despu&eacute;s hacer la especialidad de Pediatr&iacute;a en este hermoso estado y la subespecialidad de Oncolog&iacute;a Pedi&aacute;trica en el Hospital Infantil de M&eacute;xico, regresando a mi tierra como onc&oacute;loga pediatr&iacute;a, la primera mujer onc&oacute;loga pediatra y la segunda onc&oacute;loga en el estado.</p>
+
+<p>Desde hace 20 a&ntilde;os he sido&nbsp;testiga&nbsp;de todos los cambios que ha tenido el hospital infantil, el cual inici&oacute; con una plantilla de 38 personas; actualmente, somos mil 35 trabajadores, 25 subespecialidades, 45 servicios gratuitos, entre los que destacan ortodoncia, maxilofacial, oncolog&iacute;a y una sala de hemodi&aacute;lisis exclusiva para los ni&ntilde;os. Adem&aacute;s, se&ntilde;or presidente, es sede formadora de nuevas generaciones de especialistas como pediatras, neonat&oacute;logos, cirujanos pediatras, onc&oacute;logos e intensivistas pediatras para Michoac&aacute;n.&nbsp;</p>
+
+<p>Este hospital a lo largo de la historia ha tenido 19 directores; con orgullo, puedo decir que soy la tercera mujer directora del hospital.</p>
+
+<p>Agradezco el apoyo al se&ntilde;or gobernador, maestro Alfredo Ram&iacute;rez Bedolla; al secretario de Salud, al doctor El&iacute;as Ibarra Torres; a la se&ntilde;ora Gris, que tambi&eacute;n nos acompa&ntilde;a el d&iacute;a de hoy, y ahora a IMSS-Bienestar por confiarme la salud de la poblaci&oacute;n infantil de Michoac&aacute;n.</p>
+
+<p>Con gusto y orgullo le comento, se&ntilde;or presidente, que, de la mano de un gran equipo, &iacute;ntegro, comprometido, sensible y entusiasta, hemos podido, en muchas ocasiones, transformar las l&aacute;grimas de las madres en esperanza, el dolor de los ni&ntilde;os por sonrisas, y eso constituye la mejor recompensa a nuestra labor.</p>
+
+<p>En este 2023, el Hospital Infantil IMSS-Bienestar de Morelia &lsquo;Eva S&aacute;mano&rsquo; cumple 59 a&ntilde;os de vida, y hace dos a&ntilde;os estrenamos estas nuevas instalaciones que han permitido la dignificaci&oacute;n de la atenci&oacute;n de los ni&ntilde;os en Michoac&aacute;n.</p>
+
+<p>Se&ntilde;or presidente:</p>
+
+<p>Hoy es un d&iacute;a hist&oacute;rico para todos los trabajadores de la salud en Michoac&aacute;n porque de su mano emprenderemos un cambio transformador en la atenci&oacute;n de la salud, ya que sumamos el esfuerzo que venimos haciendo con Secretar&iacute;a de Salud a la experiencia y las fortalezas del Modelo de Atenci&oacute;n de la Salud de IMSS-Bienestar que conjunta la atenci&oacute;n m&eacute;dica y la acci&oacute;n comunitaria, todo esto para la prevenci&oacute;n y el diagn&oacute;stico oportuno de las enfermedades de los ni&ntilde;os de Michoac&aacute;n.</p>
+
+<p>Adem&aacute;s, vamos a mejorar el abasto. Por ejemplo, uno de los medicamentos indispensables para los ni&ntilde;os con problemas de coagulaci&oacute;n que nos llegaba de forma irregular, ahora lo tenemos incluido permanentemente. Asimismo, contaremos con mayor equipamiento, instalaciones dignas, fortalecimiento de la plantilla laboral, y todo esto hace realidad tener medicina de primer mundo.</p>
+
+<p>Es una bendici&oacute;n vivir y realizar lo que me gusta, rodeada de gente extraordinaria a la que tengo el orgullo de conducir, de mi esposo y mis hijas que me apoyan y toleran mis ausencias a trav&eacute;s de amor y confianza. Muchas gracias.</p>
+
+<p>Agradezco a mis padres, profesores de primaria, por inculcarme la honestidad y el trabajo, caracter&iacute;sticas de este gobierno, llev&aacute;ndolo en mi mente y coraz&oacute;n.</p>
+
+<p>Se&ntilde;or presidente:</p>
+
+<p>Tenga la seguridad que su trabajo por tener un M&eacute;xico diferente y en progresi&oacute;n se cumplen en Michoac&aacute;n, es un orgullo dirigirme a usted en esta ocasi&oacute;n.</p>
+
+<p>Alg&uacute;n d&iacute;a pens&eacute;: Me gustar&iacute;a conocer al presidente de M&eacute;xico, verlo directo a la cara y a los ojos, porque es ah&iacute; donde se ven las buenas intenciones de los seres humanos, y hoy lo puedo hacer y me siento muy afortunada.</p>
+
+<p>Vamos por el nuevo modelo de atenci&oacute;n IMSS-Bienestar en beneficio de los ni&ntilde;os de Michoac&aacute;n.</p>
+
+<p>Muchas gracias.&nbsp;</p>
+
+<p>MODERADOR:&nbsp;Procedemos con la intervenci&oacute;n del director general del Instituto Mexicano del Seguro Social, maestro Zo&eacute; Robledo.</p>
+
+<p>ZO&Eacute; ROBLEDO ABURTO, DIRECTOR GENERAL DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL:&nbsp;Muchas gracias, y muy buenos d&iacute;as tengan todas y todos. Con su permiso, se&ntilde;or presidente, gobernador Ram&iacute;rez Bedolla, secretario Alcocer, doctora Gisela.</p>
+
+<p>Doctora Silvia, muchas felicidades por sus emotivas palabras.</p>
+
+<p>Maestro Ferrer, Juan Pablo, a todas y a todos que hoy nos hemos reunido en esta ocasi&oacute;n tan especial.</p>
+
+<p>Para presentar el plan de salud del IMSS-Bienestar y para hacerlo y hacerlo muy breve, creo que vale la pena hacernos tres preguntas fundamentales: &iquest;de d&oacute;nde ven&iacute;amos?, &iquest;a d&oacute;nde vamos? &iquest;y c&oacute;mo vamos?</p>
+
+<p>&iquest;De d&oacute;nde ven&iacute;a el sistema de salud en nuestro pa&iacute;s en todo ese periodo neoliberal con un sistema que ten&iacute;a cuatro caracter&iacute;sticas? Eran sus cuatro jinetes en los que estaban montados y con lo que promet&iacute;an mejorar la salud de los mexicanos:</p>
+
+<p>Un sistema, primero, fragmentado por completo. &iquest;Qu&eacute; significa fragmentado?, que el Seguro Popular no era una instituci&oacute;n de atenci&oacute;n m&eacute;dica, era una instituci&oacute;n que financiaba a 32 sistemas estatales en 32 estados del pa&iacute;s con diferentes criterios.&nbsp;</p>
+
+<p>Era un modelo tendiente a la privatizaci&oacute;n, y ese era el segundo elemento de ese modelo neoliberal: la privatizaci&oacute;n de los servicios de salud. Cada vez m&aacute;s los apoyos que ya la iniciativa privada, los hospitales privados iban ganando espacio para hasta el final convertir la atenci&oacute;n m&eacute;dica en un negocio de empresas privadas y no la responsabilidad del Estado mexicano en la atenci&oacute;n m&eacute;dica de la poblaci&oacute;n que no tiene seguridad social.</p>
+
+<p>En tercer lugar, un modelo con una cobertura limitada. El Seguro Popular ten&iacute;a un cat&aacute;logo de enfermedades y servicios, y si alguien se sal&iacute;a de ese cat&aacute;logo, si ten&iacute;a un padecimiento que no estaba incluido o hab&iacute;a un servicio que no se le otorgaba, ten&iacute;a que pagar, no se le rechazaba, ten&iacute;a que pagar, ten&iacute;a que pagar la gente que no tiene para pagar.</p>
+
+<p>Entonces, ese modelo ten&iacute;a un cuarto elemento terrible: la poca prevenci&oacute;n en la salud, un modelo 100 por ciento curativo, un modelo de espera de la enfermedad y no de atenci&oacute;n a la salud, a la promoci&oacute;n de la salud, a la procuraci&oacute;n del paciente sano.</p>
+
+<p>Y esto, &iquest;qu&eacute; nos hered&oacute;?, que en ese periodo es el momento en cuando empiezan a subir en nuestro pa&iacute;s las enfermedades cr&oacute;nico-degenerativas como nunca en la historia de M&eacute;xico: obesidad, dislipidemia, diabetes, enfermedad renal, insuficiencia renal.</p>
+
+<p>Eso es la herencia del modelo neoliberal de salud. Ah&iacute; es que entra el presidente Andr&eacute;s Manuel L&oacute;pez Obrador, y nos dimos a la tarea, lo acompa&ntilde;amos en un recorrido por todo el pa&iacute;s para visitar las unidades del programa IMSS-Bienestar, este programa que naci&oacute; como Coplamar y que exist&iacute;a desde hac&iacute;a m&aacute;s de 40 a&ntilde;os.</p>
+
+<p>Y estuvimos aqu&iacute; en Michoac&aacute;n en siete hospitales: en Coalcom&aacute;n, en Buenavista, en Villamar, en Paracho, en Ario de Rosales, en Tuxpan, en Huetamo, la tierra, por cierto, del doctor El&iacute;as, el secretario de Salud, que es de mero all&aacute; de Huetamo.</p>
+
+<p>&iquest;Y qu&eacute; es lo que se plante&oacute; ah&iacute;? Felicidades, doctor. Adem&aacute;s, extraordinario pediatra.</p>
+
+<p>Desde entonces el encargo del presidente era muy claro: detener ese modelo neoliberal y plantear un nuevo modelo de atenci&oacute;n, uno como el que hoy venimos a presentar.</p>
+
+<p>Sin duda, la pandemia nos oblig&oacute; a todos a dedicarnos a la atenci&oacute;n de esa enfermedad. Hab&iacute;a que salvar vidas, hab&iacute;a que reconvertir hospitales, este mismo hospital tuvo &aacute;reas de atenci&oacute;n para ni&ntilde;os por COVID-19.</p>
+
+<p>S&oacute;lo para darles una idea de lo que signific&oacute; la atenci&oacute;n de la pandemia, en Michoac&aacute;n el Seguro Social, el r&eacute;gimen ordinario del Seguro Social tiene 956 camas; reconvertimos 531 para la atenci&oacute;n de COVID. Es decir, m&aacute;s de la mitad de la capacidad se puso a disposici&oacute;n de una sola enfermedad, &iquest;por qu&eacute;?, porque atend&iacute;amos lo mismo derechohabientes que no derechohabientes tambi&eacute;n, m&aacute;s de mil hospitalizados sin seguridad social que por instrucciones del presidente L&oacute;pez Obrador el Seguro les abri&oacute; las puertas.</p>
+
+<p>Pero esa lecci&oacute;n de la pandemia, haber enfrentado una pandemia con un sistema fragmentado, tuvo algo positivo: nos uni&oacute;, nos oblig&oacute; a identificarnos entre todas las instituciones, el Issste, el IMSS, los servicios estatales de salud, como un solo sistema de salud comandado por el doctor Jorge Alcocer, y de ah&iacute; es que ha surgido este nuevo modelo con cuatro caracter&iacute;sticas tambi&eacute;n:</p>
+
+<p>Primero, unificado, con planeaci&oacute;n central y una operaci&oacute;n desde el gobierno federal, es decir, desde el gobierno de la Rep&uacute;blica.</p>
+
+<p>Segundo, p&uacute;blico 100 por ciento, de tener esa idea de empezar cada vez a otorgar m&aacute;s a los privados y empezar a hacer todo desde lo p&uacute;blico.</p>
+
+<p>Y, en tercer lugar, universal y 100 por ciento gratuito. Se atiende a todos y se atiende todo, no m&aacute;s cajas de cobro del Seguro Popular, no m&aacute;s servicios que se tienen que mandar a otros lugares con cobro a las personas, y en este hospital ya empieza a ocurrir. La endoscopia, me dec&iacute;a la doctora, antes le costaba seis mil pesos a un paciente que ten&iacute;a que &iacute;rsela a hacer; ya la hacen aqu&iacute; y la hacen de manera gratuita.</p>
+
+<p>Y lo m&aacute;s importante, un modelo preventivo, realmente preventivo, que se enfoque en el cuidado de la salud de las personas y evitemos las enfermedades que se pueden evitar. &iquest;C&oacute;mo? Con un involucramiento mayor por parte de la poblaci&oacute;n.</p>
+
+<p>Y como se ha dicho aqu&iacute; y se vio en el video, ya empezamos en Michoac&aacute;n, hicimos el levantamiento diagn&oacute;stico en 22 hospitales, en 368 unidades de primer nivel para tener un plan de acci&oacute;n con el que iniciamos el a&ntilde;o pasado.</p>
+
+<p>Con la firma con el gobernador de los primeros convenios, atendimos los temas de infraestructura, sobre todo en los 22 hospitales generales y los b&aacute;sicos comunitarios; temas de impermeabilizaci&oacute;n, cambiar ba&ntilde;os, cambiar pisos, paflones, puertas, rehabilitaci&oacute;n de instalaciones el&eacute;ctricas, hidr&aacute;ulicas, sanitarias, cosas muy elementales, pero fundamentales para la operaci&oacute;n plena de un hospital o de una unidad de primer nivel.</p>
+
+<p>Tambi&eacute;n, con la rehabilitaci&oacute;n y la sustituci&oacute;n de equipamiento. Fueron s&oacute;lo en el 2022, en el &uacute;ltimo semestre, 465 millones de pesos con compras tanto del Insabi como del IMSS-Bienestar para camillas,&nbsp;carros rojos, mesas quir&uacute;rgicas, monitores, ventiladores, reanimadoras pedi&aacute;tricos, en fin, tres mil 383 bienes diferentes para la atenci&oacute;n.</p>
+
+<p>Y el tema del personal, que eso es clave. Identificamos brechas, y como se ha dicho y nos interesa manifestar, es un proceso en el que se respeta a todos los trabajadores en sus prestaciones, en sus salarios, y empezaremos pronto ya a la&nbsp;basificaci&oacute;n&nbsp;de aquellos que han tenido durante muchos a&ntilde;os contratos eventuales, estos contratos que deber&iacute;an de ser, como su nombre lo dice, por un tiempo hasta que se lograr la&nbsp;basificaci&oacute;n, pero que de repente pueden tener a&ntilde;os y a&ntilde;os. Y esa&nbsp;basificaci&oacute;n&nbsp;la empezaremos de manera ordenada, empezando por el personal sanitario, m&eacute;dicos, m&eacute;dicas, enfermeras, enfermeros, para pasar a param&eacute;dicos, respetando siempre la antig&uuml;edad.</p>
+
+<p>Desde luego, para cubrir eso tambi&eacute;n hemos echado mano de otras estrategias, como los m&eacute;dicos cubanos que est&aacute;n ya en diferentes lugares de Michoac&aacute;n, 14, m&aacute;s 15 que llegar&aacute;n la pr&oacute;xima semana, que est&aacute;n en Zit&aacute;cuaro, en Zamora, en Uruapan, en Hidalgo y tambi&eacute;n en La Piedad.</p>
+
+<p>Y el abasto, abastos emergentes que, sobre todo en los hospitales de segundo nivel, hemos logrado llevarlo del 80 por ciento al 97 por ciento de recetas surtidas. Por eso es que hoy podemos estar con mucho gusto planteando ya avances y sobre lo que viene, el presidente ha dispuesto mil 568 millones de pesos para continuar esas obras de rehabilitaci&oacute;n y de equipamiento, y desde luego para crecer las plantillas de personal.</p>
+
+<p>Finalmente, se&ntilde;or presidente, quisiera que me d&eacute; autorizaci&oacute;n para hacerle un reconocimiento, de verdad, al gobernador, por tres elementos fundamentales que han sido verdaderamente excepcionales:</p>
+
+<p>Primero, porque este hospital &lsquo;Eva S&aacute;mano&rsquo;, que, como todos seguramente recuerdan, su construcci&oacute;n empez&oacute; en 2013. Cuando lleg&oacute; la Cuarta Transformaci&oacute;n en 2018, el hospital ten&iacute;a un 35 por ciento de avance de la obra. Ah&iacute; es donde entr&oacute; el gobierno federal, la Secretar&iacute;a de Salud y el Insabi en particular e invirti&oacute; mil 62 millones de pesos de dinero del gobierno federal para concluirlo. Por eso fue&nbsp;que&nbsp;se pudo inaugurar a finales del 2020, en octubre del 2020 que se hizo la migraci&oacute;n ya plena del hospital que ya en el Bosque Cuauht&eacute;moc.</p>
+
+<p>Y la verdad, que es un hospital con muy buenos equipos, con muy buen personal, con especialistas comprometidos, hospital formador de m&eacute;dicos especialistas, trabajadores de primera.</p>
+
+<p>Y en muchos casos se piensa que IMSS-Bienestar se limita solamente hasta el segundo nivel de atenci&oacute;n, hospitales generales rurales integrales, pero por primera vez vamos a demostrar juntos que tambi&eacute;n IMSS-Bienestar es tercer nivel de atenci&oacute;n. En este hospital, el civil y el materno tambi&eacute;n, porque son los tres primeros aqu&iacute; en Michoac&aacute;n que, adem&aacute;s de los 22 que ya hemos estado trabajando, se incorporan al programa.</p>
+
+<p>Tambi&eacute;n decir que es una forma de integrar el sistema, toda esta regi&oacute;n donde est&aacute; el hospital de especialidad del Issste, donde esta nuestro hospital del IMSS, el de Charo.</p>
+
+<p>Por cierto, se&ntilde;or presidente, en Charo ya est&aacute; operando la sala de hemodinamia que se gan&oacute; con la rifa del avi&oacute;n presidencial, ganamos uno de esos billetes y lo destinamos a la sala de hemodinamia. Hoy las michoacanas, michoacanos derechohabientes del IMSS ya no tienen que trasladarse a Jalisco para una intervenci&oacute;n de cateterismo.</p>
+
+<p>El segundo tema es esa integraci&oacute;n que vamos a lograr con todo el sistema. S&oacute;lo poner un ejemplo, el albergue todos los necesitamos; creemos que podemos tener un planteamiento integrado para un albergue como el que ya se tiene de todo el sistema, incluido el IMSS y el Issste.</p>
+
+<p>Y, desde luego, los otros dos reconocimientos son por este pago tan importante que ha hecho el Seguro Social.</p>
+
+<p>El IMSS atiende en algunos casos hist&oacute;ricamente a trabajadores al Servicio del Estado, ya sea de gobiernos, municipios o universidades. Y muchas veces uno puede pensar: &lsquo;Bueno, es una deuda que no gener&oacute; esta administraci&oacute;n&rsquo;, pero se hace cargo porque las cuotas que pusieron los trabajadores exist&iacute;an, no se enteraron al IMSS, pero s&iacute; les descontaron a los trabajadores esas cuotas, y el gobernador ha hecho un acto de enorme responsabilidad con el convenio que firmamos y con los pagos que ya nos ha hecho.</p>
+
+<p>De verdad que eso se reconoce, porque no es pensar en lo inmediato, es pensar en el futuro de la viabilidad de un gobierno estatal.</p>
+
+<p>Y, desde luego, por los trabajos que hemos hecho para la descentralizaci&oacute;n, una descentralizaci&oacute;n grande de m&aacute;s de 10 mil trabajadores que tiene que ir en estas etapas y en este lugar, en Tres Mar&iacute;as, en el edificio que nos don&oacute; el gobierno del estado, en donde van a convivir con &aacute;reas similares de otras grandes organizaciones.</p>
+
+<p>Por eso nos complace anunciar que el primer grupo empieza el 13 de febrero, el grupo de la central de contacto del Seguro Social, la central de llamadas, con lo que atendemos quejas, preguntas, dudas, procesos, van a estar aqu&iacute; en Michoac&aacute;n, junto con personal que se ir&aacute; integrando de &aacute;reas de finanzas y de desarrollo tecnol&oacute;gico.</p>
+
+<p>Entonces, pues mucho tenemos que, de verdad, celebrar en esta nueva etapa con el estado de Michoac&aacute;n porque estamos en esos 80 a&ntilde;os, en los 80 a&ntilde;os en los que queremos demostrar que el Instituto Mexicano del Seguro Social despu&eacute;s de &eacute;pocas de crisis econ&oacute;micas, de intentos de privatizaci&oacute;n, de pandemias, sigue de pie, fuerte, para ahora atender a la poblaci&oacute;n que lo m&aacute;s necesita, la poblaci&oacute;n sin seguridad social, y eso lo haremos en equipo, juntas y juntos haciendo historia.</p>
+
+<p>Muchas gracias, y muy buenas tardes.</p>
+
+<p>MODERADOR:&nbsp;A continuaci&oacute;n, solicitamos la palabra al secretario de Salud, Jorge Alcocer Varela.</p>
+
+<p>JORGE ALCOCER VARELA, SECRETARIO DE SALUD:&nbsp;Muy buenas tardes a todas y todos ustedes. Con su permiso, se&ntilde;or presidente.</p>
+
+<p>Apreciado maestro Alfredo Ram&iacute;rez Bedolla, gobernador constitucional del estado de Michoac&aacute;n.</p>
+
+<p>Compa&ntilde;eros del pres&iacute;dium.</p>
+
+<p>Hoy les informo en forma muy concreta que el sector salud tiene un encargo del se&ntilde;or presidente, que es el contar con un Sistema Nacional de Salud universal, gratuita y completamente a disposici&oacute;n de toda la poblaci&oacute;n mexicana a trav&eacute;s de la consolidaci&oacute;n, de la prevenci&oacute;n, la atenci&oacute;n y la rehabilitaci&oacute;n de las enfermedades, adem&aacute;s de la prestaci&oacute;n de los servicios basados en la atenci&oacute;n primaria de la salud.</p>
+
+<p>Estas acciones est&aacute;n en marcha mediante el proceso de federalizaci&oacute;n, con la firma de convenios con los servicios de salud estatales, siempre voluntarios, para transferir los servicios otorgados en los centros de salud y hospitales al IMSS-Bienestar, como ya ha sido mencionado.</p>
+
+<p>Esta estrategia, perm&iacute;tanme se&ntilde;alarles, implementa un modelo de atenci&oacute;n integral, lo estamos viendo aqu&iacute;, integral, muchas especialidades, no necesidades, de contar con unas cuentas, basado en coordinar la atenci&oacute;n m&eacute;dica, esa necesidad de todos para unos y unos para todos, y la participaci&oacute;n de la acci&oacute;n comunitaria indispensable para desde ah&iacute; arrancar.</p>
+
+<p>Esta transformaci&oacute;n de los servicios hacia el sistema IMSS-Bienestar se basa en la mejora de infraestructura, como ya se ha visto, como en la modernizaci&oacute;n de las existentes, la rehabilitaci&oacute;n, muy importante, el cuidado, la prevenci&oacute;n del desgaste, as&iacute; como el equipamiento de unidades y establecimientos para la atenci&oacute;n de la salud.</p>
+
+<p>Aumentar el personal humano calificado con contrataciones y&nbsp;basificaci&oacute;n, palabra que no se o&iacute;a desde hace mucho tiempo en la salud, para ampliar y consolidar una plantilla laboral con mejores condiciones de trabajo, as&iacute; como de asegurar el abasto de medicamentos que tambi&eacute;n tradicionalmente siempre han sido deficitarios, del material de curaci&oacute;n que es igual de importante, entre otros insumos para la salud.</p>
+
+<p>Y desde luego, en un espacio especial muy importante tambi&eacute;n contar con los m&eacute;dicos generales, con las enfermeras y los especialistas que se requieran para la atenci&oacute;n de los tres turnos y de todos los d&iacute;as del a&ntilde;o, reitero, universal y gratuito.</p>
+
+<p>El IMSS-Bienestar ha dejado de ser un programa, como ya se&ntilde;al&oacute; el maestro Zo&eacute;, y hoy es un &oacute;rgano p&uacute;blico descentralizado que opera en 24 estados; pas&oacute; de 80 a 331 hospitales y de cuatro mil unidades de primer nivel a siete mil 662 hasta el a&ntilde;o pasado.</p>
+
+<p>Hoy acompa&ntilde;amos al se&ntilde;or presidente de los mexicanos a la capital michoacana, bella e hist&oacute;rica tierra, como siempre, en seguimiento de su incorporaci&oacute;n a esta importante herramienta de la transformaci&oacute;n del sistema de salud.</p>
+
+<p>As&iacute;, para el a&ntilde;o pr&oacute;ximo el IMSS ser&aacute; eje central de un sistema que garantice el acceso a los servicios de salud a toda la poblaci&oacute;n. El programa IMSS-Bienestar tendr&aacute; una participaci&oacute;n relevante para que en materia de protecci&oacute;n a la salud se logre hacer realidad el art&iacute;culo 4&ordm; constitucional, derecho que no se condicionar&aacute; por ning&uacute;n motivo, y el IMSS velar&aacute; por las necesidades de los grupos hist&oacute;ricamente discriminados.</p>
+
+<p>Hoy estamos en la capital, reitero, de este bello estado de Michoac&aacute;n, informando a cerca de cinco millones de habitantes sobre este importante programa. Perd&oacute;n, IMSS-Bienestar ya no es programa.</p>
+
+<p>Actualmente en el estado s&oacute;lo tres de cada 10 habitantes cuentan con seguridad social en salud, pero en el futuro inmediato, se estima, se podr&aacute;n incorporar tres millones 200 mil habitantes de Michoac&aacute;n.</p>
+
+<p>Tambi&eacute;n les informamos que,&nbsp;de acuerdo al&nbsp;censo realizado, podr&aacute;n ser incorporadas 390 unidades de salud a lo largo de los 113 municipios que conforman el estado, 368 de primer nivel y 22 de segundo nivel, y aqu&iacute; empiezan algunas de las clasificaciones o de la nomenclatura que me voy a referir al final.</p>
+
+<p>Uno de estos es el hospital infantil que hoy visitamos, es muy singular, rompe con muchos paradigmas pues cuenta con 183 camas de esa nomenclatura mitad ellas llamadas censables y otra mita no censable. Bueno, ni yo le entiendo. Esta &uacute;ltima de corte&hellip; &iquest;Saben por qu&eacute;?, porque esto no censable, no censable es para corta estancia, s&iacute;, para resolver urgencias, que m&aacute;s importante en una salud afectada, llegar a diagn&oacute;sticos, implementar tratamientos y dirigir lo que siga, eso es muy importante, y no est&aacute; censable, bueno.</p>
+
+<p>Tiene 37 especialidades &mdash;nuevamente los n&uacute;meros que no dicen todo, pero en este caso mucho&mdash; s&oacute;lo le faltan 90 profesionistas. &iexcl;Oh, los especialistas! No, son 88 enfermeras y dos param&eacute;dicos, todo lo dem&aacute;s ya est&aacute; cubierto debido a la existencia de 150 especialistas ECD de cursos de posgrado en cirug&iacute;a pedi&aacute;trica.</p>
+
+<p>Segundo paradigma que se rompe, &iquest;en d&oacute;nde a este nivel, o como le llamemos, hay posgrado? Aqu&iacute; lo hay y cada vez debe ser y va a ser de mejor calidad, y desde luego de mayor responsabilidad.</p>
+
+<p>La doctora ya mencion&oacute;, hay cirug&iacute;a pedi&aacute;trica, ella misma encabeza la necesidad de atender a los pacientes con neoplasias, a los ni&ntilde;os, pero hay m&aacute;s: medicina cr&iacute;tica, neonatolog&iacute;a, la cirug&iacute;a, que ya menciono. Que se dice f&aacute;cil, tener estos especialistas, cr&eacute;anmelo, es f&aacute;cil decirlo, pero sepan que cuesta mucho trabajo y es uno de los principales problemas que todav&iacute;a tenemos los que conducimos este cargo, tener especialistas.</p>
+
+<p>Hay fallos, por lo tanto, en la nomenclatura. &iquest;C&oacute;mo llamar&iacute;amos a este hospital, de especialidades? &iquest;De tercero o de cuarto nivel? Yo pienso que mejor &lsquo;hospital fant&aacute;stico&rsquo;.&nbsp;</p>
+
+<p>Es muy gratificante el recorrido que hoy hemos realizado en este hospital, tanto el se&ntilde;or gobernador como desde luego nuestro se&ntilde;or presidente, donde constatamos el buen camino de la atenci&oacute;n a la salud en Michoac&aacute;n y el fortalecimiento a trav&eacute;s de los programas sociales, son los programas sociales impulsados por el gobierno de la Cuarta Transformaci&oacute;n.</p>
+
+<p>Muchas gracias, y enhorabuena.</p>
+
+<p>MODERADOR:&nbsp;Estimado p&uacute;blico, escuchemos el mensaje que nos dirige el presidente constitucional de los Estados Unidos Mexicanos, licenciado Andr&eacute;s Manuel L&oacute;pez Obrador.&nbsp;</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Amigas, amigos de Morelia y de Michoac&aacute;n:</p>
+
+<p>Me da mucho gusto estar con ustedes. Acabamos de tener una reuni&oacute;n con promotores, con servidores p&uacute;blicos de todas las dependencias federales que atienden los programas de bienestar y quedamos satisfechos porque, del mill&oacute;n 200 mil familias que tiene Michoac&aacute;n, un mill&oacute;n 200 mil, ya en un mill&oacute;n se est&aacute;n recibiendo apoyos, es decir, ya el 85 por ciento de los hogares de Michoac&aacute;n recibe cuando menos un apoyo del presupuesto p&uacute;blico, que es dinero de todo el pueblo.</p>
+
+<p>Son los programas de Bienestar, lo que ustedes ya saben. Es la pensi&oacute;n a los adultos mayores, a todos los adultos mayores de Michoac&aacute;n de 65 a&ntilde;os que reciben este apoyo. Se acaba de aumentar 25 por ciento la pensi&oacute;n y en enero del a&ntilde;o pr&oacute;ximo, antes de que yo concluya, vamos a aumentar 25 por ciento m&aacute;s la pensi&oacute;n a los adultos mayores, esto va a significar que ya una pareja de adultos mayores, de ancianos respetables, van a poder tener ingresos para lo b&aacute;sico, para su alimentaci&oacute;n, y vamos a estar apoyando a 12 millones de adultos mayores del pa&iacute;s.</p>
+
+<p>Lo mismo con el programa de la pensi&oacute;n para discapacitados, empezamos con ni&ntilde;as, ni&ntilde;os, y ahora se hizo un acuerdo con Alfredo, porque se apoyaba hasta los 29 a&ntilde;os, y ahora el gobierno del estado va a aportar 50 por ciento, el gobierno federal 50 por ciento, y ya se hace universal porque tambi&eacute;n se le va a entregar la pensi&oacute;n de 30 a 64 a&ntilde;os a personas con discapacidad.</p>
+
+<p>Y tambi&eacute;n est&aacute; creciendo. Nada m&aacute;s, miren, hay seis mil 764 j&oacute;venes que est&aacute;n trabajando como aprendices en Michoac&aacute;n, seis mil 764 j&oacute;venes. A los que ya no tienen posibilidades de estudiar o no tienen trabajo, se les contrata como aprendices. Est&aacute;n form&aacute;ndose, capacit&aacute;ndose en peque&ntilde;as empresas, en talleres, en comercio.&nbsp;</p>
+
+<p>El prop&oacute;sito es que no sean enganchados por la delincuencia, estamos enfrent&aacute;ndonos as&iacute; con la delincuencia, que no tengan semilleros los que se dedican al crimen organizado, que no se lleven a los j&oacute;venes.&nbsp;</p>
+
+<p>Entonces, este programa es muy bueno. Cada vez m&aacute;s j&oacute;venes est&aacute;n trabajando, reciben salario m&iacute;nimo, y pues ya son 176 pesos diarios; cuando llegamos al gobierno eran 85 pesos diarios. Ha&nbsp;aumentado el salario m&iacute;nimo, en el tiempo que llevamos, 90 por ciento en t&eacute;rminos reales, 90 por ciento, esto no suced&iacute;a desde hac&iacute;a tres, cuatro d&eacute;cadas. Y ya en la frontera, tambi&eacute;n decirles, es el doble el salario m&iacute;nimo.</p>
+
+<p>Entonces, ya es un ingreso para que el joven tenga esa opci&oacute;n y no se vea obligado a tomar el camino de las conductas antisociales.&nbsp;</p>
+
+<p>Ustedes saben que no somos los seres humanos malos por naturaleza, no nacimos malos, son las circunstancias las que llevan a algunos a tomar el camino de la delincuencia. Por eso nosotros sostenemos que la paz y la tranquilidad son frutos de la justicia.&nbsp;</p>
+
+<p>Si se atiende a los j&oacute;venes, si se garantiza que haya empleos, que sean buenos los salarios, pues as&iacute; vamos a ir serenando a nuestro pa&iacute;s. Esa es nuestra filosof&iacute;a, esa es nuestra concepci&oacute;n principal.</p>
+
+<p>Antes no se atend&iacute;a a los j&oacute;venes, se les llamaba &lsquo;ninis&rsquo;, se les llamaba de manera despectiva &lsquo;ninis&rsquo;, que ni estudian, ni trabajan; ahora no, ahora hay dos millones 400 mil j&oacute;venes en este programa de J&oacute;venes Construyendo el Futuro.</p>
+
+<p>Y tambi&eacute;n aqu&iacute; en Michoac&aacute;n hay 13 mil 846 j&oacute;venes que estudian en el nivel universitario que reciben una beca bimestral de cinco mil 150 pesos, 13 mil 846 estudiantes de nivel superior.</p>
+
+<p>Y 128 mil 534 estudiantes de nivel medio superior, lo que es la preparatoria, el bachillerato, tambi&eacute;n, todos los que estudian en escuelas p&uacute;blicas de nivel medio superior tienen becas.</p>
+
+<p>Y los que est&aacute;n estudiando el nivel b&aacute;sico, preescolar, primaria, secundaria, son 139 mil con becas.&nbsp;</p>
+
+<p>Para que tengan una idea, en todo el pa&iacute;s, as&iacute; como hay 12 millones de adultos mayores que tienen una pensi&oacute;n, estamos otorgando 11 millones de becas a estudiantes de familias humildes, de familias pobres. Esto es muy importante. Muchos de los que est&aacute;n aqu&iacute; pudieron estudiar por una beca o porque recibieron un apoyo. Entonces, es fundamental el seguir apoyando la educaci&oacute;n p&uacute;blica.</p>
+
+<p>Tambi&eacute;n estamos aqu&iacute; en Michoac&aacute;n ya con seis nuevas universidades p&uacute;blicas regionales, desde luego universidades p&uacute;blicas del sistema &lsquo;Benito Ju&aacute;rez&rsquo;, que son gratuitas.</p>
+
+<p>Michoac&aacute;n tiene nueve mil 428 escuelas de nivel b&aacute;sico, nueve mil 428, y ya casi en cinco mil, cuatro mil 981, que es el 53 por ciento, ya han recibido de manera directa su presupuesto para el mantenimiento de sus planteles escolares, y este a&ntilde;o vamos a llegar a todas las escuelas. Se entrega a las sociedades de madres, de padres de familia una cantidad para que ellos administren los recursos y les den mantenimiento a las escuelas.</p>
+
+<p>Y as&iacute; estamos apoyando en Michoac&aacute;n con muchos programas de Bienestar. Hoy se dio a conocer que vamos a entregar de manera gratuita a los productores el fertilizante. Como en el estado de Guerrero, todos los peque&ntilde;os productores van a tener de manera gratuita fertilizante para sembrar y obtener sus alimentos. Que coman los que nos dan de comer.</p>
+
+<p>Y quiero, antes de entrar a la materia de salud, pues quiero tambi&eacute;n hacer aqu&iacute; el compromiso con Alfredo de que vamos a seguir ayudando. Es el &uacute;nico estado donde la federaci&oacute;n, adem&aacute;s del presupuesto que les corresponde, le destina tres mil millones de pesos para que los maestros puedan cobrar a tiempo.&nbsp;</p>
+
+<p>Se est&aacute; federalizando todo el sistema educativo, porque antes se enviaba el recurso, pero se usaba en otras cosas; ahora el prop&oacute;sito es que con estas tarjetas todos los maestros reciban lo que por derecho les corresponde y que no haya demora el pago de sus salarios y de sus prestaciones.</p>
+
+<p>Y tambi&eacute;n&nbsp;me ha hecho la petici&oacute;n Alfredo, y voy a contestarle aqu&iacute; p&uacute;blicamente, de que se d&eacute; la autorizaci&oacute;n de Hacienda &mdash;aqu&iacute; est&aacute; el subsecretario&mdash; para que se ampl&iacute;e la carretera que va a L&aacute;zaro C&aacute;rdenas desde Uruapan &mdash;ese es el compromiso&mdash; a cuatro carriles, de Uruapan a L&aacute;zaro C&aacute;rdenas. Que se vea con el concesionario y a ver si la podemos terminar antes de septiembre del a&ntilde;o pr&oacute;ximo, que ya termina mi mandato. Entonces, toma nota, y los compromisos se cumplen.</p>
+
+<p>Bueno, ya entrando en materia, decirles que nos da mucho gusto que se est&aacute; fortaleciendo el sistema de salud. Son cuatro aspectos fundamentales:</p>
+
+<p>Primero, pues la infraestructura b&aacute;sica, que est&eacute;n bien los centros de salud, las unidades m&eacute;dicas, los hospitales, que est&eacute; bien la construcci&oacute;n de hospitales. Encontramos muchos hospitales en proceso, inconclusos y los estamos terminando, hemos avanzado bastante, y se est&aacute;n equipando los hospitales y tambi&eacute;n los centros de salud. Eso es lo primero.</p>
+
+<p>Lo segundo es que no falten los m&eacute;dicos, las enfermeras. Eso no es un asunto sencillo, ya lo sabemos. La pol&iacute;tica neoliberal nos llev&oacute; a que tengamos un d&eacute;ficit de m&eacute;dicos en nuestro pa&iacute;s, es decir, no tenemos los m&eacute;dicos y menos los especialistas que requerimos porque, en el af&aacute;n de privatizar la educaci&oacute;n, los que quer&iacute;an estudiar medicina o cualquier&nbsp;otra carrera se les rechazaba con la mentira, con el pretexto de que no pasaban el examen de admisi&oacute;n, cuando esto no es cierto.</p>
+
+<p>Se inscrib&iacute;an 10 mil para ingresar a la UNAM y se aceptaban mil. Cuando yo ingres&eacute; a la UNAM era al rev&eacute;s, si present&aacute;bamos examen de admisi&oacute;n 10, rechazaban a uno. En los &uacute;ltimos tiempos, de cada 10, rechazaban nueve, es decir, ingresaba uno. Y no es que no pasaran el examen, es que, si aplicaban 125 preguntas en el examen, se dec&iacute;a: &lsquo;Bueno, nada m&aacute;s tenemos mil espacios, de modo que nueve mil tienen que quedar afuera. &iquest;C&oacute;mo los eliminamos? Pues vamos a aceptar al que conteste bien 123 preguntas de las 125, el que falle dos ya no, ya reprob&oacute;&rsquo;. Ese era el m&eacute;todo y se dejaba afuera a quienes quer&iacute;an ingresar a estudiar licenciatura en medicina o en cualquier otra carrera, y lo mismo en las especialidades.</p>
+
+<p>&iquest;A qu&eacute; nos llev&oacute; esto?</p>
+
+<p>A que nos faltan los m&eacute;dicos, nos faltan especialistas, porque se pensaba que, si se privatizaba la educaci&oacute;n, iba a crecer la matr&iacute;cula de universidades privadas. Pues s&iacute;, creci&oacute; unos a&ntilde;os, pero luego ya no, sigui&oacute; creciendo la escuela privada, porque &iquest;con qu&eacute; pagan la mayor&iacute;a de los mexicanos colegiaturas, aunque sean cantidades menores, los hijos de campesinos, los hijos de obreros?, &iquest;c&oacute;mo van a pagar colegiaturas?</p>
+
+<p>Pues solo esta realidad hizo que ya no siguieran creciendo las matr&iacute;culas de escuelas privadas y se cerr&oacute; por completo la posibilidad de estudiar en&nbsp;escuelas p&uacute;blicas y por eso no tenemos los m&eacute;dicos generales, no tenemos especialistas.</p>
+
+<p>Como aqu&iacute; lo mencion&oacute; Zo&eacute;, yo tra&iacute;a la preocupaci&oacute;n desde el principio, bueno, de que mejor&aacute;ramos el sistema de salud.</p>
+
+<p>A m&iacute; me toc&oacute; iniciar el programa IMSS-Coplamar cuando fui director del Instituto Nacional Indigenista en Tabasco, hace m&aacute;s de 40 a&ntilde;os, empez&oacute; ese sistema desde los a&ntilde;os 80 del siglo pasado, y me consta que funcionaba bien, y fue lo &uacute;nico que no se descentraliz&oacute; en todo el periodo neoliberal, quedaron los hospitales, que primero eran IMSS-Coplamar, luego IMSS-Solidaridad, IMSS-Oportunidades, IMSS-Progresa y ahora IMSS-Bienestar.</p>
+
+<p>Pero ese modelo quer&iacute;amos replicarlo para atender a la poblaci&oacute;n que no tiene seguridad social, es decir, los que no tienen Seguro, no tienen Issste, la poblaci&oacute;n abierta, y empezamos a hacer un recorrido por los 80 hospitales que hab&iacute;a del IMSS-Bienestar, los visitamos todos en el 2019.</p>
+
+<p>Se nos viene la pandemia y paramos todo porque ten&iacute;amos que salvar vidas, conseguir las vacunas, lo que ya ustedes saben que se tuvo que hacer en esta emergencia que nos toc&oacute; enfrentar; pero ya pasando los efectos m&aacute;s nocivos, da&ntilde;inos de la pandemia, ya&nbsp;hemos retomado de nuevo el echar a andar, el poner de pie, el mejorar el sistema de salud p&uacute;blica para garantizar lo que establece el art&iacute;culo 4&ordm; de la Constituci&oacute;n: el derecho del pueblo a la salud. La salud no es un privilegio, es un derecho de todos los mexicanos que estamos obligados nosotros a cumplir.</p>
+
+<p>Entonces, por eso hemos iniciado ya con el fortalecimiento del sistema de salud p&uacute;blica universal y gratuita, ya comenzamos, el primer estado fue Nayarit, llevamos nueve estados y hoy dejamos ya abierto el proceso de mejoramiento del sistema IMSS-Bienestar en Michoac&aacute;n, es el d&eacute;cimo estado.</p>
+
+<p>Estamos consiguiendo los m&eacute;dicos, estamos consiguiendo los m&eacute;dicos generales, las enfermeras, que son important&iacute;simas, b&aacute;sicas, todo el personal de salud y los especialistas.</p>
+
+<p>Aqu&iacute; nos faltan en Michoac&aacute;n 400 especialistas en el estado. Se han hecho convocatorias, tenemos las plazas, pero no tenemos todav&iacute;a todos los especialistas.</p>
+
+<p>Cuando inici&eacute; el recorrido, les comentaba, por los 80 hospitales, me acuerdo de que fuimos a Yucat&aacute;n, hay tres hospitales del IMSS-Bienestar, y en ninguno de los tres hab&iacute;a pediatras. Pero tambi&eacute;n me toc&oacute; estar aqu&iacute; visitando los siete hospitales de Michoac&aacute;n y me toc&oacute; ir a Buenavista, y ah&iacute; el problema estaba todav&iacute;a m&aacute;s complicado, creo que sigue estando m&aacute;s complicado, porque para que vaya a trabajar un especialista a Buenavista hay que convencerlo bien y tratarlo, pero mucho, mucho muy bien, requetebi&eacute;n.</p>
+
+<p>Entonces, en eso estamos, en eso estamos, que tengamos buenos hospitales con el equipamiento necesario. Las enfermeras, los m&eacute;dicos generales, los especialistas, ya se est&aacute;n formando.&nbsp;</p>
+
+<p>Se est&aacute;n incrementando el n&uacute;mero de becas para especialistas, ya tenemos el doble de especialistas estudiando, como 20 mil, s&iacute;, y ya van a salir una generaci&oacute;n, De modo que ah&iacute; vamos a tener posibilidad de resolver lo del d&eacute;ficit. Ojal&aacute; y todos los especialistas sean como esta especialista.</p>
+
+<p>De por s&iacute; su especialidad es en donde hay menos m&eacute;dicos, m&eacute;dicas, debe de haber como 25, 30 en todo el pa&iacute;s.</p>
+
+<p>SILVIA CH&Aacute;VEZ GALLEGOS:&nbsp;Un poco m&aacute;s.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Un poco m&aacute;s, s&iacute;.</p>
+
+<p>SILVIA CH&Aacute;VEZ GALLEGOS:&nbsp;Como 200 m&aacute;s o menos.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Como 200 en todo el pa&iacute;s. Entonces s&iacute; necesitamos especialistas.</p>
+
+<p>Lo tercero, son los medicamentos, el abasto de medicamentos. Aqu&iacute; me dio gusto que ya nos informaron que tienen el 97 por ciento de medicamentos del abasto, porque necesitamos resolverlo.</p>
+
+<p>Nos cost&oacute; much&iacute;simo porque era un negocio muy jugoso, muy lucrativo. El gobierno compraba como 100 mil millones de pesos en medicinas a 10 distribuidoras, 100 mil millones de pesos a 10 distribuidoras que ni siquiera ten&iacute;an laboratorios, nada. Y de estas 10 distribuidoras, tres se llevaban 60 mil millones de pesos, vinculados a pol&iacute;ticos corruptos, a medios de comunicaci&oacute;n, y con buenas&nbsp;agarraderas, porque no pod&iacute;amos comprar medicamentos en el extranjero, las leyes no nos lo permit&iacute;an. Nos cost&oacute; cambiar las leyes para poder comprar medicamentos en la India, en Francia, en Estados Unidos, en Corea, en otras partes.</p>
+
+<p>&iquest;Qu&eacute; les puedo decir?</p>
+
+<p>Recibimos y resistimos campa&ntilde;as de estos grupos de intereses creados, resistimos y ya se resolvi&oacute;. Nos pusimos de acuerdo con la ONU para hacer compras consolidadas de medicamentos en todo el mundo, y ya tenemos comprados los medicamentos de este a&ntilde;o y del 2024, ya no nos van a faltar los medicamentos, y desde luego con ahorros considerables.&nbsp;</p>
+
+<p>Ya les puedo decir que con un poco m&aacute;s del presupuesto que antes se ejerc&iacute;a&nbsp;vamos a tener todos los medicamentos para entregarlos de manera gratuita. Ya estamos quitando las cajas registradoras en los hospitales, ya no hay caja, ya no se cobra por la atenci&oacute;n m&eacute;dica ni por los medicamentos, esto es muy importante. Hemos avanzado y vamos a seguir avanzando.</p>
+
+<p>Y luego lo fundamental, lo que es el alma de un hospital: su personal, es decir, los trabajadores de la salud, enfermeras, enfermeros, camilleros, todos los que trabajan, m&eacute;dico, especialistas, eso es fundamental.</p>
+
+<p>Hab&iacute;a el temor de que con este cambio&hellip; Porque se va a federalizar la salud, vamos a hacernos cargo, no va a haber l&iacute;mite de presupuesto, es lo que se necesite para tener un sistema de salud de primera.</p>
+
+<p>Nuestros adversarios dicen que no va a ser como yo planteo, se burlan, dicen que dije que va a ser un sistema de salud como el de Dinamarca. No, ya ahora lo estoy pensando mejor y no va a ser como el de Dinamarca, va a ser mejor que el de Dinamarca, porque ya hicimos ese compromiso y vamos a tener todos los medicamentos, los m&eacute;dicos, las instalaciones y vamos a basificar a todos los trabajadores que trabajan por contrato.</p>
+
+<p>Y aqu&iacute; quiero agradecer a los dirigentes sindicales porque nos han ayudado. Al principio hab&iacute;a temor, hab&iacute;a desinformaci&oacute;n, de que &lsquo;&iexcl;c&oacute;mo vas a pasar del sistema de salud al IMSS-Bienestar! &iquest;Y tu tiempo trabajado, tu antig&uuml;edad? Vas a perder todo, te van a quitar hasta el salario&rsquo;. No, van a mejorar todos los trabajadores.</p>
+
+<p>Y muchas gracias por la confianza, y nosotros vamos a estar a la altura de este compromiso, de estas circunstancias. Much&iacute;simas gracias.</p>
+
+<p>Yo voy a seguir visitando Michoac&aacute;n. &iexcl;C&oacute;mo creen que no voy a venir a Michoac&aacute;n, si aqu&iacute; est&aacute; el ejemplo de lo que tenemos que llevar a la pr&aacute;ctica, que yo llamo Humanismo Mexicano!&nbsp;</p>
+
+<p>Aqu&iacute; nos dej&oacute; el ejemplo Morelos, que dec&iacute;a que hab&iacute;a que luchar por la igualdad, que se moderara la indigencia y la opulencia, dec&iacute;a Morelos. Dec&iacute;a Morelos: &lsquo;Que se eleve el salario del pe&oacute;n&rsquo;. Dec&iacute;a Morelos: &lsquo;Que se eduque al hijo del campesino y al hijo del barretero igual que al hijo del m&aacute;s rico hacendado&rsquo;. Dec&iacute;a Morelos: &lsquo;Que haya tribunales que protejan al d&eacute;bil de los abusos que comete el fuerte&rsquo;. De aqu&iacute; era Morelos, de Michoac&aacute;n, un estadista.</p>
+
+<p>De aqu&iacute; era Melchor Ocampo, el principal asesor del mejor presidente que ha habido en la historia de nuestro pa&iacute;s, Benito Ju&aacute;rez Garc&iacute;a. Melchor Ocampo era su asesor. &iquest;Saben qu&eacute; dec&iacute;a Melchor Ocampo? Era un hombre de principios. Dec&iacute;a: &lsquo;Me quiebro, pero no me doblo&rsquo;.</p>
+
+<p>De aqu&iacute;, de Michoac&aacute;n, el mejor presidente del siglo XX, presidente popular, patriota: el general L&aacute;zaro C&aacute;rdenas del R&iacute;o.</p>
+
+<p>Y un michoacano que yo respeto, admiro, y se conoce poco sobre su vida p&uacute;blica: el general Francisco J. M&uacute;gica, tambi&eacute;n michoacano.</p>
+
+<p>No se podr&iacute;a escribir la historia de M&eacute;xico sin el pueblo y los dirigentes de este gran estado de Michoac&aacute;n.</p>
+
+<p>&iexcl;Que viva Michoac&aacute;n!</p>
+
+<p>&iexcl;Que viva M&eacute;xico!</p>
+
+<p>&iexcl;Viva M&eacute;xico!</p>
+
+<p>&iexcl;Viva M&eacute;xico!&nbsp;</p>
+
+<p>---</p>
+</div>
+      </div>
+
+      <div class="col-md-4 col-xs-12 pull-right">
+
+
+
+
+          <div id="survey" class="survey-popup small-top-buffer">
+	<div class="row">
+  <a class="fire">
+    <span class="title">Contesta nuestra encuesta de satisfacción.</span>
+		<i style="color: white" class="fas fa-poll"></i>
+  </a>
+  <hr>
+  
+  <div class="survey col-sm-12 clearfix">
+	<form id="survey-form">
+	  <div class="survey-form">
+	  <fieldset id="query_1">
+		<legend>¿Cómo fue tu experiencia en gob.mx?</legend>
+		<div id="Q_A" class="btn-group row">
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncGood" class="ga-survey" value="Feliz" title="Satisactorio">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-good.svg" alt="">
+		  	</button>
+		  </div>
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncReg" class="ga-survey" value="Neutral" title="Neutral">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-neutral.svg" alt="">
+		  	</button>
+		  </div>
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncBad" class="ga-survey" value="Triste" title="No satisactorio">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-bad.svg" alt="">
+		  	</button>
+		  </div>
+		</div>
+	  </fieldset>
+	  <fieldset id="query_1_a" class="hidden">
+	  	<legend>¿Fue fácil encontrar lo que buscabas?</legend>
+	  	<div id="Q_B" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R1" value="1">
+	  		<label for="A_R">Muy Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R2" value="2">
+	  		<label for="A_R">Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R3" value="3">
+	  		<label for="A_R">Difícil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R4" value="4">
+	  		<label for="A_R">Muy Difícil</label>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_s" class="hidden">
+	  	<legend>¿De qué estado de la República nos visitas?</legend>	  	
+	  	<div class="col-md-12">
+  	  		<div class="form-group" style="margin-bottom: 114px;">
+  	  			<select id="estados" class="form-control"></select>
+  	  		</div>
+  	  		<div class="form-group">
+  	  			<button type="button" class="Q_S_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  		</div>
+  	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_alt" class="hidden">
+		<legend>¿Qué buscabas?</legend>
+	  	<div id="Q_I" class="clearfix">
+	  	  <div class="col-sm-12">
+	  		<textarea id="txtA" class="form-control" rows="6" maxlength="250" style="font-size: 14px; width: 100%;"></textarea>
+	  		<span class="small">Máximo 250 caracteres</span>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+  	  	  <button type="button" class="Q_I_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_b" class="hidden">
+	  	<legend>¿Qué te gustó más?</legend>
+	  	<p class="small">Puedes seleccionar más de uno.</p>
+	  	<div id="Q_C" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R1" type="checkbox" name="A_R" value="1">
+	  		<label for="A_R">La información es clara y precisa</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R2" type="checkbox" name="A_R" value="2">
+	  		<label for="A_R">El diseño es agradable</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R3" type="checkbox" name="A_R" value="3">
+	  		<label for="A_R">Está bien organizado</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R4" type="checkbox" name="A_R" value="4">
+	  		<label for="A_R">Es sencillo navegar</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R5" type="checkbox" name="A_R" value="5">
+	  		<label for="A_R">El lenguaje es amigable</label>
+	  	  </div>
+	  	  <div class="clearfix">
+	  	  	<button type="button" class="Q_C_btn btn btn-primary btn-small pull-right">Siguiente</button>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_c" class="hidden">
+	  	<legend>¿Recomendarías nuestro portal a un amigo o familiar?</legend>
+	  	<div id="Q_D" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="radEncC_R1" type="radio" name="A_R" value="4">
+	  		<label for="A_R">Si</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncC_R2" type="radio" name="A_R" value="1">
+	  		<label for="A_R">No</label>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+        <button type="button" class="btn-finalizar btn btn-primary btn-small pull-right" style="margin-left: 8px; margin-top: 2px;" disabled>Finalizar</button>
+        <img src="https://framework-gb.cdn.gob.mx/assets/images/oval-white.svg" class="pull-right hidden loading">
+      </div>
+	  </fieldset>
+
+	  <fieldset id="query_2" class="hidden">
+		<legend>¿Fue fácil encontrar lo que buscabas?</legend>
+	  	<div id="Q_F" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R1" type="radio" name="A_R" value="1">
+	  		<label for="A_R">Muy Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R2" type="radio" name="A_R" value="2">
+	  		<label for="A_R">Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R3" type="radio" name="A_R" value="3">
+	  		<label for="A_R">Difícil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R4" type="radio" name="A_R" value="4">
+	  		<label for="A_R">Muy Difícil</label>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_2_b" class="hidden">
+	  	<legend>¿Qué mejorarías?</legend>
+	  	<p class="small">Puedes seleccionar más de una opción.</p>
+	  	<div id="Q_G" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A1" type="checkbox" name="A_R" value="1">
+	  		<label for="A_R">Diseño</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A2" type="checkbox" name="A_R" value="2">
+	  		<label for="A_R">Navegación dentro del sitio</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A3" type="checkbox" name="A_R" value="3">
+	  		<label class="too-long" for="A_R">Claridad y precisión de la información</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A4" type="checkbox" name="A_R" value="4">
+	  		<label for="A_R">Organización de los contenidos</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A5" type="checkbox" name="A_R" value="5">
+	  		<label for="A_R">Lenguaje utilizado</label>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">	  	  
+	  	  <button type="button" class="btn-finalizar btn btn-primary btn-small pull-right" style="margin-left: 8px; margin-top: 2px;" disabled>Finalizar</button>
+	  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/oval-white.svg" class="hidden pull-right loading">
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_2_alt" class="hidden">
+		<legend>¿Qué buscabas?</legend>
+	  	<div id="Q_H" class="clearfix">
+	  	  <div class="col-sm-12">
+	  		<textarea id="txtA1" class="form-control" rows="6" maxlength="250" style="font-size: 14px; width: 100%;"></textarea>
+	  		<span class="small">Máximo 250 caracteres</span>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+  	  	  <button type="button" class="Q_H_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  	</div>
+	  </fieldset>
+
+	</div>
+	<p class="hidden survey-thanks" style="text-align: center; color: white; font-weight: 700;">Gracias por tu opinión.</p>
+	</form>
+
+  </div>
+</div>
+</div>
+
+<script type="text/javascript">
+$(function() {
+  var c = 0;
+  var fin = 0;
+  var tipo_cara = "";
+  var page_type = "Articulos";
+  var triggered = false;
+  var answers = {};
+  var properties = {};
+  var organization = "presidencia";
+  var section = "Blog";
+  var lang = "es";
+  properties.published_on = "2023-01-27 13:54:00 -0600";
+  properties.title = "Versión estenográfica. Plan de Salud IMSS-Bienestar Michoacán";
+  properties.path = "/presidencia/es/articulos/version-estenografica-plan-de-salud-imss-bienestar-michoacan";
+  properties.referer = "";
+  properties.viewfinder = navigator.userAgent.toLowerCase();
+  properties.screens = screen.width;
+  properties.device = screen.width;
+
+  $.getJSON('https://www.gob.mx/vun/estados?filter[order]=nombre%20ASC', function (selectOptions) {
+    for( var i = 0; i < selectOptions.length; i ++) {
+      var selectOptionsJSON = selectOptions[i];
+      $('#estados').append('<option value="'+ selectOptionsJSON.nombre +'">'+ selectOptionsJSON.nombre +'</option>');
+    }
+    $('#estados').append('<option value="Otro">Otro</option>')
+  });
+
+  $('.fire').click(function(event) {
+    $('.survey-popup').css({'height':'440px'});
+  });
+
+  $('#Q_A').find('button').click(function(event) {
+  	$('#query_s').removeClass('hidden');
+  	$("#query_1").addClass('hidden');
+  	answers.q1 = $(this).attr('id');
+  });
+
+  $(".ga-survey").click(function () {
+    tipo_cara = $(this).val();
+    var interval_time = [30];
+    (function timer () {
+      if (c < 1) {
+        setTimeout(function () {
+           if(fin < 1) {
+             set_ga("Inconclusa");
+             timer();
+           }
+        }, interval_time[c] * 1000);
+      }
+      c++;
+    })();
+  });
+
+  $('.Q_S_btn').click(function(event) {
+    if( answers.q1 === "radEncGood") {
+      $("#query_s").addClass('hidden');
+      $("#query_1_a").removeClass('hidden');
+    } else if(answers.q1 === "radEncReg" || answers.q1 === "radEncBad") {
+      $("#query_s").addClass('hidden');
+      $("#query_2").removeClass('hidden');
+    } else { }
+    // answers.q1 = $('#Q_A').find('button').attr('id');
+  });
+
+  $('#Q_B').find('input').click(function(event) {
+  	if( $(this).attr('id') === 'radEncA_R3' || $(this).attr('id') === 'radEncA_R4' )  {
+  	  $("#query_1_a").addClass('hidden');
+	  $("#query_1_alt").removeClass('hidden');
+  	} else {
+  	  $("#query_1_a").addClass('hidden');
+	  $("#query_1_b").removeClass('hidden');	
+  	}	
+	answers.q2 = $(this).attr('id');
+  });
+
+  $('.Q_I_btn').click(function(event) {
+  	event.preventDefault();
+  	$("#query_1_alt").addClass('hidden');
+	$("#query_1_b").removeClass('hidden');
+	answers.q5 = $('#txtA').val().substring(0, 250);
+  });
+
+  $('#Q_C').find('button').click(function(event) {
+	$("#query_1_b").addClass('hidden');
+	$("#query_1_c").removeClass('hidden');
+	var q3_array = [];
+	$('#Q_C').find('input:checked').each(function(index, el) {
+	  q3_array.push($(el).attr('id'));
+	});
+	answers.q3 = q3_array;
+  });
+
+  $('#Q_D').find('input').change(function(event) {
+  	answers.q4 = $(this).attr('id');
+  	$('.btn-finalizar').attr('disabled', false);
+  });
+
+  $('#Q_F').find('input').click(function(event) {
+	
+	answers.q2 = $(this).attr('id');
+
+	if( $(this).attr('id') === 'rdEncA_R3' || $(this).attr('id') === 'rdEncA_R4' ) {
+	  $("#query_2").addClass('hidden');
+	  $("#query_2_alt").removeClass('hidden');
+	} else {
+	  $("#query_2").addClass('hidden');
+	  $("#query_2_b").removeClass('hidden');
+	}
+  });
+
+  $('#Q_G').find('input').change(function(event) {
+  	if($('#Q_G').find('input:checked').length > 0) {
+	  $('.btn-finalizar').attr('disabled', false);
+    }
+    var q2_array = [];
+    $('#Q_G').find('input:checked').each(function(index, el) {
+	  q2_array.push($(el).attr('id'));
+	});
+	answers.q3 = q2_array;
+  });
+
+  $('.Q_H_btn').click(function(event) {
+  	event.preventDefault();
+  	$("#query_2_alt").addClass('hidden');
+	$("#query_2_b").removeClass('hidden');
+	answers.q5 = $('#txtA1').val().substring(0, 250);
+  });
+
+  $('.btn-finalizar').click(function (event) {
+    fin++;
+    $.ajax({
+      url: '/encuesta-satisfaccion',
+      type: 'post',
+      dataType: 'json',
+      data: { section: section, lang: lang, properties: properties, answers: answers },
+      beforeSend: function() {
+        $('.loading').removeClass('hidden');
+      },
+      success: function(data) {
+        set_ga("Finalizada");
+
+        $('.survey').hide();
+        $('.survey-popup').css({'height':'60px','background-color':'#dff0d8','border':'1px solid #d6e9c6'});
+        $('.survey-popup .title').text('Gracias por tu participación.').css({'color':'#3c763d'});
+        $('#icon-survey').removeClass('fa-file-text-o').addClass('fa-check-circle').css({'color':'#3c763d'});
+        setTimeout(function() {
+          $('.survey-popup').fadeOut('800');
+        }, 1600);
+      }
+    });
+  });
+
+  function set_ga(estatus) {
+    var pages_group = "Gobierno";
+    var organization_name = "presidencia";
+
+    console.log("Entro a apartado de encuesta de satisfacción. Estatus: "+ estatus);
+    console.log("Pages group: "+pages_group);
+    console.log("Sub group: "+organization_name);
+    console.log("Page type: "+page_type);
+    console.log("Face: "+tipo_cara);
+
+      console.log("Rails.env.production");
+      //Código GA para encuesta de satisfacción.
+		gtag('set', 'dimension14', pages_group);
+		gtag('set', 'dimension15', organization_name);
+		gtag('set', 'dimension16', page_type);
+		gtag('send', 'event', 'Encuesta de satisfacción', tipo_cara ,estatus);
+		gtag('set', 'dimension14', null);
+		gtag('set', 'dimension15', null);
+		gtag('set', 'dimension16', null);
+  }
+
+  $('#subscribe-survey').click(function(event) {
+	event.preventDefault();
+    var email = $("#email-survey").val();
+    var state = $('#estados').val();
+
+    if (email !== '' || email !== undefined) {
+	    try {
+	      $.ajax({
+	        url: "/subscribe",
+	        type: 'post',
+	        dataType: 'json',
+	        data : { email: {address: email} },
+	        success: function (data) {
+	            $('#responseSignup').html(data.message);
+	        },
+	        error: function (data) {
+	            $('#responseSignup').html(data.message);
+	        }
+	      });
+	    }catch(e){
+	      $("#responseEmail").innerText(e);
+	    }
+
+	    $.ajax({
+	    	url: '/signups',
+	    	type: 'POST',
+	    	dataType: 'json',
+	    	data: { section: section, lang: lang, properties: properties },
+	    	success: function() {
+	    		//console.log('exito');
+	    	}
+	    });
+	} else {
+		$('#responseSignup').html('Por favor llena todos los campos.');
+	}
+  });
+
+  $('#survey-form').submit(function(event) {
+    event.preventDefault();
+  });
+});
+</script>
+
+      </div>
+      <div class="col-sm-7 pull-left">
+        <div class="share-buttons clearfix vertical-buffer">
+  <div class="col-md-2"> <a class="twitter-share-button" data-url="https://www.gob.mx/presidencia/articulos/version-estenografica-plan-de-salud-imss-bienestar-michoacan" data-text="Versión estenográfica. Plan de Salud IMSS-Bienestar Michoacán"></a></div>
+  <div class="col-md-2">
+    <div class="fb-share-button" data-href="https://www.gob.mx/presidencia/articulos/version-estenografica-plan-de-salud-imss-bienestar-michoacan" data-layout="button_count" data-size="small" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://www.gob.mx/presidencia/articulos/version-estenografica-plan-de-salud-imss-bienestar-michoacan&amp;src=sdkpreparse">Compartir</a></div>
+  </div>
+</div>
+
+  <script type="text/javascript">
+    (function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v2.7";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+    
+    var pages_group = "Gobierno";
+    var page_type = "Artículos";
+    var organization_name = "presidencia";
+    var title_content = "Versión estenográfica. Plan de Salud IMSS-Bienestar Michoacán";
+
+     window.twttr = (function (d,s,id) {
+       var t, js, fjs = d.getElementsByTagName(s)[0];
+       if (d.getElementById(id)) return; js=d.createElement(s); js.id=id;
+       js.src="//platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs);
+       return window.twttr || (t = { _e: [], ready: function(f){ t._e.push(f) } });
+     }(document, "script", "twitter-wjs"));
+
+     function trackTwitter(intent_event) {
+       if (intent_event) {
+         if (intent_event.target && intent_event.target.nodeName == 'IFRAME') {
+           console.log("Metrica Compartir Twitter - "+title_content);
+           console.log("Organization: "+organization_name);
+           console.log("Page type: "+page_type);
+           console.log("Title content: "+title_content);
+           ga('set', 'dimension14', pages_group);
+           ga('set', 'dimension15', organization_name);
+           ga('set', 'dimension16', page_type);
+           ga('send', 'event', 'Compartir en redes sociales', 'Twitter', title_content);
+           ga('set', 'dimension14', null);
+           ga('set', 'dimension15', null);
+           ga('set', 'dimension16', null);
+         }
+       }
+     }
+  </script>
+  <script type="text/javascript">
+     twttr.ready(function (twttr) {
+       twttr.events.bind('tweet', trackTwitter);
+     });
+  </script>
+
+
+      </div>
+    </div>
+    <div class="row top-buffer">
+  <div class="col-md-8">
+    <hr>
+    <div class="print col-ms-12 col-md-12 col-xs-12">
+      <span class="icon-printing"></span>
+      <a href="#">Imprime la página completa</a>
+        <p class="small" style="font-size: 14px; line-height: 1.6em;">
+          La legalidad, veracidad y la calidad de la información es estricta responsabilidad de la dependencia, entidad o empresa productiva del Estado que la proporcionó en virtud de sus atribuciones y/o facultades normativas.
+        </p>
+    </div>
+  </div>
+</div>
+
+  </div>
+  <input type="hidden" id="page_type" name="page_type" value="Articulos">
+  <input type="hidden" id="organization_name" name="organization_name" value="presidencia">
+</main>
+<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+
+<footer class="main-footer">
+  <div class="list-info">
+    <div class="container">
+
+      <div class="col-sm-3">
+        <img  src="https://framework-gb.cdn.gob.mx/landing/img/logoheader.svg"  href="/" alt="logo gobierno de méxico" class="logo_footer" style="max-width: 90%; margin-left: -27px;   margin-top: 12px;">
+      </div>
+      <div class="col-sm-3">
+        <h2>Enlaces</h2>
+        <ul>
+         <!-- <li><a  href="http://www.participa.gob.mx">Participa</a></li> -->
+          <li><a  href="https://datos.gob.mx/">Datos</a></li>
+          <li><a href="https://www.gob.mx/publicaciones" target="_blank" rel="noopener" title="Enlace abre en ventana nueva">Publicaciones </a></li>
+
+                  <li><a class="footer" href="https://consultapublicamx.plataformadetransparencia.org.mx/vut-web/faces/view/consultaPublica.xhtml?idEntidad=MzM=&amp;idSujetoObligado=MTAwMDE=#inicio" id="Transparencia" target="blank" title="Enlace abre en ventana nueva">Portal de Obligaciones de Transparencia</a></li>
+
+                  <li><a class="footer" href="https://www.infomex.org.mx/gobiernofederal/home.action" id="PNT" target="blank" title="Enlace abre PNT en ventana nueva">PNT</a></li>
+
+                  <li><a class="footer" href="http://www.inai.org.mx/" id="INAI" target="blank" title="Enlace abre sitio INAI en ventana nueva">INAI</a></li>
+
+          <li><a class="footer" id="INAI" href="http://alertadores.funcionpublica.gob.mx/" target="_blank" rel="alertadores">Alerta</a></li>
+          <li><a class="footer" id="SIDEC" href="http://sidec.funcionpublica.gob.mx/" target="_blank" rel="sidec">Denuncia</a></li>
+           </ul>
+      </div>
+      <div class="col-sm-3">
+        <h2>¿Qué es gob.mx?</h2>
+        <p>Es el portal único de trámites, información y participación ciudadana.  <a href="/que-es-gobmx" style="text-decoration: none;">Leer más </a></p>
+        <ul>
+
+        
+            <li><a href='http://www.gob.mx/epn'> Administraciones anteriores  </a></li>
+          <li><a href="/accesibilidad">Declaración de Accesibilidad</a></li>
+          <li><a href="/privacidadintegral">Aviso de privacidad</a></li>
+          <li><a href="/privacidadsimplificado">Aviso de privacidad simplificado</a></li>
+          <li><a href="/terminos">Términos y Condiciones </a></li>
+          <li><a href="/terminos#medidas-seguridad-informacion">Política de seguridad</a></li>
+          <li><a class="footer" id="Marco Juridico" href="http://www.ordenjuridico.gob.mx" target="_blank" rel="noopener" title="Enlace abre en ventana nueva">Marco jurídico</a></li>
+          <li><a href="/sitemap">Mapa de sitio</a></li>
+        </ul>
+      </div>
+      <div class="col-sm-3">
+        </p>
+        <h2>Síguenos en </h2>
+        <ul class="list-inline">
+          <li>
+            <a id="Facebook" href="https://www.facebook.com/gobmexico" target="_blank" rel="noopener" class="sendEst share-info footer" title="enlace a facebook abre en una nueva ventana">
+              <img alt="Facebook" src="https://framework-gb.cdn.gob.mx/landing/img/facebook.png" />
+            </a>
+          </li>
+          <li>
+            <a id="Twitter" href="https://twitter.com/GobiernoMX" target="_blank" rel="noopener" class="sendEst share-info footer" title="Enlace a twitter abre en una nueva ventana">
+              <img alt="Twitter" src="https://framework-gb.cdn.gob.mx/landing/img/twitter.png" />
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+  </div>
+  </div>
+
+  <div class="container-fluid footer-pleca">
+    <div class="row">
+      <div class="col">
+        <br><br>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script type="text/javascript">
+      $("a.footer").click(function () {
+          var pagina_sitio = window.location.pathname;
+          var outbound_link = $(this).attr("id");
+          var subgrupo_paginas = "presidencia";
+          var page_type = "Home";
+          var pages_group = "Gobierno";
+          if($("#page_type").length > 0){ page_type = $("#page_type").val(); }
+
+          console.log("Metrica links externos footer - "+outbound_link);
+          gtag('set', 'dimension14', pages_group);
+          gtag('set', 'dimension15', subgrupo_paginas);
+          gtag('set', 'dimension16', page_type);
+          gtag('send', 'event', 'Outbound link - Footer', outbound_link, pagina_sitio);
+          gtag('set', 'dimension14', null);
+          gtag('set, ‘dimension15', null);
+      })
+  </script>
+
+<input class="hidden" id="route" value="/presidencia/es/articulos/version-estenografica-plan-de-salud-imss-bienestar-michoacan" type="hidden" >
+<!-- div id="fb-root"></div -->
+
+
+
+
+
+  <!-- Begin comScore Tag -->
+  <script>
+      var _comscore = _comscore || [];
+      _comscore.push({ c1: "2", c2: "17183199" });
+      (function() {
+          var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+          s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+          el.parentNode.insertBefore(s, el);
+      })();
+  </script>
+  <noscript>
+    <img src="https://sb.scorecardresearch.com/p?c1=2&c2=17183199&cv=2.0&cj=1" />
+  </noscript>
+  <!-- End comScore Tag -->
+
+  <script src="https://sb.scorecardresearch.com/c2/17183199/ct.js"></script>
+
+
+  <script type="text/javascript">
+
+      var _sf_startpt=(new Date()).getTime();
+      var _sf_async_config = { uid: 43659, domain: 'www.gob.mx', useCanonical: true } ;
+      (function() {
+          function loadChartbeat() { window._sf_endpt = (new Date()).getTime(); var e = document.createElement('script'); e.setAttribute('language', 'javascript'); e.setAttribute('type', 'text/javascript'); e.setAttribute('src','//static.chartbeat.com/js/chartbeat.js'); document.body.appendChild(e); };
+          var oldonload = window.onload;
+          window.onload = (typeof window.onload != 'function') ?
+              loadChartbeat : function()
+              { oldonload(); loadChartbeat(); };
+      })();
+      var ele = "/presidencia/es/articulos/version-estenografica-plan-de-salud-imss-bienestar-michoacan";
+      if( "#{(@organization_site.present? ? @organization_site.category : 'gobmx')}" == "Campaña") {
+          var siteEls = 'campaign';
+      } else {
+          var siteEls = 'gobierno';
+      }
+
+      for( var i = 1; i < ele.split('/').length; i++ ) {
+          siteEls = siteEls + '.' + ele.split('/')[i];
+      }
+
+      function udm_(e){var t="comScore=",n=document,r=n.cookie,i="",s="indexOf",o="substring",u="length",a=2048,f,l="&ns_",c="&",h,p,d,v,m=window,g=m.encodeURIComponent||escape;if(r[s](t)+1)for(d=0,p=r.split(";"),v=p[u];d<v;d++)h=p[d][s](t),h+1&&(i=c+unescape(p[d][o](h+t[u])));e+=l+"_t="+ +(new Date)+l+"c="+(n.characterSet||n.defaultCharset||"")+"&c8="+g(n.title)+i+"&c7="+g(n.URL)+"&c9="+g(n.referrer),e[u]>a&&e[s](c)>0&&(f=e[o](0,a-8).lastIndexOf(c),e=(e[o](0,f)+l+"cut="+g(e[o](f+1)))[o](0,a)),n.images?(h=new Image,m.ns_p||(ns_p=h),h.src=e):n.write("<","p","><",'img src="',e,'" height="1" width="1" alt="*"',"><","/p",">")};
+      function uid_call(a, b){
+          ui_c2 = 17183199; // your corporate c2 client value
+          ui_ns_site = 'gobmx'; // your sites identifier
+          window.b_ui_event = window.c_ui_event != null ? window.c_ui_event:"",window.c_ui_event = a;
+          var ui_pixel_url = 'https://sb.scorecardresearch.com/p?c1=2&c2='+ui_c2+'&ns_site='+ui_ns_site+'&name='+a+'&ns_type=hidden&type=hidden&ns_ui_type='+b;
+          var b="comScore=",c=document,d=c.cookie,e="",f="indexOf",g="substring",h="length",i=2048,j,k="&ns_",l="&",m,n,o,p,q=window,r=q.encodeURIComponent||escape;if(d[f](b)+1)for(o=0,n=d.split(";"),p=n[h];o<p;o++)m=n[o][f](b),m+1&&(e=l+unescape(n[o][g](m+b[h])));ui_pixel_url+=k+"_t="+ +(new Date)+k+"c="+(c.characterSet||c.defaultCharset||"")+"&c8="+r(c.title)+e+"&c7="+r(c.URL)+"&c9="+r(c.referrer)+"&b_ui_event="+b_ui_event+"&c_ui_event="+c_ui_event,ui_pixel_url[h]>i&&ui_pixel_url[f](l)>0&&(j=ui_pixel_url[g](0,i-8).lastIndexOf(l),ui_pixel_url=(ui_pixel_url[g](0,j)+k+"cut="+r(ui_pixel_url[g](j+1)))[g](0,i)),c.images?(m=new Image,q.ns_p||(ns_p=m),m.src=ui_pixel_url):c.write("<p><img src='",ui_pixel_url,"' height='1' width='1' alt='*'></p>");
+      }
+      udm_('https://sb.scorecardresearch.com/b?c1=2&c2=17183199&ns_site=gobmx&name='+siteEls);
+  </script>
+
+  <noscript>
+    <img src="https://sb.scorecardresearch.com/p?c1=2&amp;c2=17183199&amp;ns_site=gobmx&amp;name=gobierno.presidencia.es.articulos.version-estenografica-plan-de-salud-imss-bienestar-michoacan" height="1" width="1" alt="*" />
+  </noscript>
+<script>
+    let key = '';
+    $(function () {
+
+        $.getJSON("https://framework-gb.cdn.gob.mx/applications/cms/configGobmx.json", function(json) {
+            console.log(json.keyAnalytics); // this will show the info it in firebug console
+            key = json.keyAnalytics;
+            ga('create', key , 'auto', 'GobTracker');
+            ga('GobTracker.require', 'linker');
+            ga('GobTracker.linker:autoLink', ['www.gob.mx']);
+            ga('GobTracker.set', 'contentGroup1', 'Gobierno');
+            ga('GobTracker.set', 'contentGroup2', SubGroup);
+            ga('GobTracker.set', 'contentGroup3', PageType);
+            ga('GobTracker.set', 'dimension14', 'Gobierno');
+            ga('GobTracker.set', 'dimension15', SubGroup);
+            ga('GobTracker.set', 'dimension16', PageType);
+            ga('GobTracker.set', 'dimension13', 'No Registrado');
+            ga('GobTracker.send', 'pageview');
+            ga('GobTracker.set', 'contentGroup1', null);
+            ga('GobTracker.set', 'contentGroup2', null);
+            ga('GobTracker.set', 'contentGroup3', null);
+            ga('GobTracker.set', 'dimension14', null);
+            ga('GobTracker.set', 'dimension15', null);
+            ga('GobTracker.set', 'dimension16', null);
+            ga('GobTracker.set', 'dimension13', null);
+        });
+    });
+</script>
+
+<script src="https://framework-gb.cdn.gob.mx/applications/cms/modal_global_cms.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/gm/accesibilidad/js/gobmx-accesibilidad.min.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick.min.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick-lightbox.js"></script>
+<link rel="stylesheet" href="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick-lightbox.css">
+
+
+<script src="https://framework-gb.cdn.gob.mx/applications/cms/config_dependency.js"></script>
+<script type="text/javascript"  src="/0RVTuHxj0/t/mhEICJIQ/YiOkthVkYSfw/PRc4N0sKYQk/PwhFVTt/GPxQB"></script></body>
+
+</html>
+

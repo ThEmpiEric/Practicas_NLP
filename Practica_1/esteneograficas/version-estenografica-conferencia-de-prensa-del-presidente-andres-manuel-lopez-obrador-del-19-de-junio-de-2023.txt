@@ -1,0 +1,1821 @@
+<!DOCTYPE html>
+<html class='no-js' lang='es'>
+<head>
+    <title>
+  Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 19 de junio de 2023 | Presidencia de la República  | Gobierno | gob.mx
+</title>
+
+  <meta charset='UTF-8'>
+  <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#393C3E">
+
+  
+  <meta name="keywords" content="">
+  <meta name="description" content="Acto encabezado por el presidente Andrés Manuel López Obrador desde Palacio Nacional">
+  <meta name="author" content="Presidencia de la República ">
+
+  <meta content="Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 19 de junio de 2023" property="og:title" />
+  <meta content="https://www.gob.mxhttps://www.gob.mx/cms/uploads/article/main_image/134231/Conferencia.jpeg" property="og:image" />
+  <meta content="gob.mx" property="og:site_name" />
+  <meta content="Acto encabezado por el presidente Andrés Manuel López Obrador desde Palacio Nacional" property="og:description" />
+  <meta content="http://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-19-de-junio-de-2023?idiom=es" property="og:url" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@gobmx" />
+  <meta name="twitter:title" content="Versión estenográfica. Conferencia de prensa del presidente Andrés..." />
+  <meta name="twitter:description" content="Acto encabezado por el presidente Andrés Manuel López Obrador desde Palacio Nacional" />
+  <meta name="twitter:image" content="https://www.gob.mxhttps://www.gob.mx/cms/uploads/article/main_image/134231/Conferencia.jpeg" />
+
+
+  <meta content="authenticity_token" name="csrf-param" />
+<meta content="0AbNdON8+Ycwj9Ntn5GQiIGt+QZK3stM2a0CxNdnvK0=" name="csrf-token" />
+
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700,600,300' rel='stylesheet' type='text/css'>
+  <link href='https://framework-gb.cdn.gob.mx/applications/cms/favicon.png' rel='shortcut icon'>
+  <link data-turbolinks-track="true" href="/cms/assets/application.css" media="all" rel="stylesheet" />
+  <link data-turbolinks-track="true" href="https://framework-gb.cdn.gob.mx/gm/accesibilidad/css/gobmx-accesibilidad.min.css" media="all" rel="stylesheet" />
+  
+
+  <!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+  <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+
+ <![endif]-->
+  <script async src="https://www.googletagmanager.com/gtag/js?id="></script>
+  <script src="https://framework-gb.cdn.gob.mx/applications/cms/carrusel/swiper-bundle.min.js"></script>
+
+  <link rel="stylesheet" href="https://framework-gb.cdn.gob.mx/applications/cms/carrusel/swiper-bundle.min.css">
+
+    <script type="text/javascript">
+
+        var SubGroup = '';
+        if(false || false){
+            SubGroup = 'Temas';
+        }else{
+            SubGroup = 'presidencia';
+        }
+        var PageType = '';
+        if(false){
+            PageType = 'Home'
+        }else{
+            if(false){
+                PageType = '';
+            }else {
+                var site = window.location.pathname;
+                var arrayPageType = ["articulos", "prensa", "agenda", "documentos", "multimedia", "galerias", "videos",
+                    "acciones_y_programas", "acciones-y-programas", "mi-foto-con-el-presidente",
+                    "estructuras", "descargables", "que-hacemos", "finanzas", "infografias"];
+
+                if (site.search("archivo") != -1) {
+                    PageType = "archivo_";
+                }
+                for (var i = 0; i < arrayPageType.length; i++) {
+                    if (site.search(arrayPageType[i]) != -1) {
+                        PageType += arrayPageType[i];
+                        break;
+                    }
+                }
+            }
+        }
+
+
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', '');
+
+        gtag('require', 'linker');
+        gtag('linker:autoLink', ['www.gob.mx']);
+        gtag('set', 'contentGroup1', 'Gobierno');
+        gtag('set', 'contentGroup2', SubGroup);
+        gtag('set', 'contentGroup3', PageType);
+        gtag('set', 'dimension14', 'Gobierno');
+        gtag('set', 'dimension15', SubGroup);
+        gtag('set', 'dimension16', PageType);
+        gtag('set', 'dimension13', 'No Registrado');
+        gtag('send', 'pageview');
+        gtag('set', 'contentGroup1', null);
+        gtag('set', 'contentGroup2', null);
+        gtag('set', 'contentGroup3', null);
+        gtag('set', 'dimension14', null);
+        gtag('set', 'dimension15', null);
+        gtag('set', 'dimension16', null);
+        gtag('set', 'dimension13', null);
+
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-144356475-1', 'auto', {'allowLinker':true});
+        ga('require', 'linker');
+        ga('linker:autoLink', ['www.gob.mx']);
+        ga('set', 'contentGroup1', 'Gobierno');
+        ga('set', 'contentGroup2', SubGroup);
+        ga('set', 'contentGroup3', PageType);
+        ga('set', 'dimension14', 'Gobierno');
+        ga('set', 'dimension15', SubGroup);
+        ga('set', 'dimension16', PageType);
+        ga('set', 'dimension13', 'No Registrado');
+        ga('send', 'pageview');
+        ga('set', 'contentGroup1', null);
+        ga('set', 'contentGroup2', null);
+        ga('set', 'contentGroup3', null);
+        ga('set', 'dimension14', null);
+        ga('set', 'dimension15', null);
+        ga('set', 'dimension16', null);
+        ga('set', 'dimension13', null);
+    </script>
+
+
+  <script type = "text/javascript"> console.log(true);
+  var rails_env_prod = true; </script>
+  <script src="/cms/assets/application.js"></script>
+  <script src="/cms/assets/imageReplace.js"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.js"></script>
+
+                              <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("True"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="N3JQ2-2RVHB-WJQMN-CEYEM-ATMWX",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"N3JQ2-2RVHB-WJQMN-CEYEM-ATMWX",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="xxqo3jv567lbazxpkiva-f-2cd75b778-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"37","ak.cp":"413578","ak.ai":parseInt("270161",10),"ak.ol":"0","ak.cr":12,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"20c99063","ak.r":49405,"ak.a2":e,"ak.m":"b","ak.n":"essl","ak.bpcip":"189.224.237.0","ak.cport":64596,"ak.gh":"189.247.214.15","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"reno","ak.t":"1726960170","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==6TEfSZ7yxcTlAGTum6HAk4SQbbzilHVN/3V5oPceXpGT8Ogzei7fy6MDNolAGbXx7AVe9TDfN4Dui10JyFO4ckcx8At1JxHRoWJ6KDzNBs1IEvNwpLDFiOq/AS6bHloiicmU3YonuVxAT1yWOB3ZVp6k+qeTaoB+FkzLmG8Q7PzFh/OlTO7iR7BjyCHvhatPQDK+nX2ulAefXyJWX/jW3XqAKpPjffVVMj3u+lYm1KzFZ7LAx8iDrPrcmEd+pzQTsdMN/wU5GjltKbLsQhp7XMuazDc9ZcGSVyPnS3j/hM/YQ33fM36KrpKZge0Jg8iUlxt6o3psVSdiIkDN956K9I6mvD9V0eRMHlDr0FmmT8l5Ft+4YUI9/3UaBPAhr81O58kumHuCc81dEguugMn4XRwKXvvThLkG5i5xdx47bLk=","ak.pv":"113","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+<body>
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v13.0" nonce="MZ2GPb2d"></script><!-- a href="#principal" class="skip">Saltar al contenido principal</a -->
+  <header class=" navbar navbar-inverse">
+    <nav class="navbar navbar-inverse  navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-target="#navbarMainCollapse" data-toggle="collapse">
+            <span class="sr-only">Interruptor de Navegación</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a href="/" style="padding: 1px 3px 3px 3px;" class="navbar-brand " title="Ir a la página inicial">
+
+            <div class="logo-main"></div>
+          </a>
+        </div>
+        <div id="navbarMainCollapse" class="collapse navbar-collapse">
+          <ul class="nav navbar-nav navbar-right">
+           <li><a href="/tramites" title="Trámites">Trámites </a></li>
+            <li><a href="/gobierno" title="Gobierno">Gobierno</a></li>
+                  <li><a href="/presidencia/en" title="Versión en inglés del sitio web">English</a>
+                  </li>
+                </li>
+
+
+            <li>
+              <form accept-charset="UTF-8" action="/busqueda" method="get"><div style="display:none"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+                <input type="hidden" name="site" value="presidencia">
+                <button data-v-6394873e="" id="botonbuscar" type="button" class="btn btn-search"><a data-v-6394873e="" href="https://www.gob.mx/busqueda?utf8=✓" target="_blank" id="botbusca"><img data-v-6394873e="" alt="Buscar" src="https://framework-gb.cdn.gob.mx/landing/img/lupa.png"></a></button>
+</form>            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    
+
+
+        <script src="/cms/assets/level_jump.js"></script><section>
+<!-- Subnavegacion -->
+<nav class=" navbar-inverse sub-navbar fixed-top"
+     >
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#subenlaces">
+        <span class="sr-only">Interruptor de Navegación</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="link-name" href="?tab="></a>
+    </div>
+    <div class="collapse navbar-collapse" id="subenlaces">
+      <ul class="nav subnav navbar-nav navbar-right">
+              <li class="landing-btn">
+                    <a href='/presidencia/es/archivo/prensa'>
+                Comunicados            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='/presidencia/es/#5173'>
+                Directorio            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='https://transparencia.presidencia.gob.mx/presidencia/transparencia/politicas-de-tratamiento-de-datos-personales-de-la-oficina-de-la-presidencia-de-la-republica/'>
+                Protección de Datos Personales            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='https://www.gob.mx/presidencia/transparencia/'>
+                Transparencia            </a>
+            </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+<style>
+  .flag-banner {
+  top: 45px  !important;
+  }
+</style>
+<!-- div class="warning-nav" style="margin-top: 0px;">
+  <div class="container">
+    <div class="row clearfix">
+  <div class="col-xs-12 col-sm-12 col-md-12">Este contenido será modificado temporalmente en atención a las disposiciones legales y normativas en materia electoral, con motivo del inicio de periodo de campaña</div>
+  </div>
+  </div>
+</div -->
+</section>
+
+
+  </header>
+
+
+
+
+
+<main class="inner-page interior ficha">
+  <div class="container">
+  	<ol class="breadcrumb">
+  <li><a href="http://www.gob.mx"><span class="icon icon-home"></span><span class="sr-only">Inicio</span></a></li>
+  <li><a href="/presidencia">Presidencia de la República </a></li>
+  <li class="active">Blog</li>
+</ol>
+  	<div class="">
+      <div aria-hidden="true" class="hidden-xs font-changer internal print" tabindex="-1">
+  <button class="inc-font font-modifier">Aa+</button>
+  <button class="dec-font font-modifier">Aa-</button>
+</div>
+      <div class="marquee-padding">
+      <div class='post-list main-post-list'>
+<div class='marque-float-left'>
+<div class='right_arrow'></div>
+<div class='titulo-pub'>
+<small>Publicaciones Recientes</small>
+</div>
+</div>
+<div>
+<div class='container-marque'>
+<div id='headlines'>
+<div class='marquee'>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-19 13:44:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-19-de-septiembre-de-2024' title='Versió'>
+Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 19 de septiembre de 2024
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-18 12:36:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-18-de-septiembre-de-2024' title='Versió'>
+Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 18 de septiembre de 2024
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-17 13:51:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-entrega-de-estimulos-a-delegaciones-mexicanas-participantes-en-juegos-olimpicos-y-paralimpicos-paris-2024' title='Versió'>
+Versión estenográfica. Entrega de estímulos a delegaciones mexicanas participantes en Juegos Olímpicos y Paralímpicos París 2024
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-17 12:21:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-17-de-septiembre-de-2024' title='Versió'>
+Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 17 de septiembre de 2024
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-16 13:56:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-desfile-civico-militar' title='Versió'>
+Versión estenográfica. Desfile Cívico Militar
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+      </div>
+  	  <div class="col-md-7 col-xs-12 col-sm-12 pull-left" tabindex="0">
+  	  	<h1 class="bottom-buffer">Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 19 de junio de 2023</h1>
+  	  	<h2>Acto encabezado por el presidente Andrés Manuel López Obrador desde Palacio Nacional</h2>
+        <section class="">
+          <p>Presidencia de la República  | 19 de junio de 2023</p>
+        </section>
+  	  <div class="imagen-principal">
+  	      <img alt="Conferencia de prensa del presidente Andrés Manuel López Obrador" class="img-responsive img_curve" src="https://www.gob.mx/cms/uploads/article/main_image/134231/Conferencia.jpeg" />
+  	      <span class="small">Conferencia de prensa del presidente Andrés Manuel López Obrador</span>
+      </div>
+      <div class="article-body"><p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Buenos d&iacute;as. &Aacute;nimo.</p>
+
+<p>Vamos a informar sobre el avance en el Tren Maya, lo que tiene que ver con los tramos 5, 6 y 7, que comprenden de Canc&uacute;n hasta Esc&aacute;rcega, todo lo que es el Caribe: Canc&uacute;n, Tulum, Chetumal, Esc&aacute;rcega. Caribe y los l&iacute;mites con Guatemala y Belice, Belice y Guatemala.</p>
+
+<p>Tambi&eacute;n, como todos los lunes, nos va a informar sobre los precios el doctor&nbsp;Sheffiled.</p>
+
+<p>Y luego, abrimos para preguntas y respuestas. Adelante.</p>
+
+<p>RICARDO SHEFFIELD PADILLA, PROCURADOR FEDERAL DEL CONSUMIDOR:&nbsp;Buenos d&iacute;as, se&ntilde;or presidente; muy buenos d&iacute;as a todas y a todos ustedes.</p>
+
+<p>Qui&eacute;n es qui&eacute;n en el precio de los combustibles. La semana pasada la gasolina regular estuvo en promedio en el pa&iacute;s en 22 pesos con 30 centavos, la Premium en 24 pesos con 43 centavos y el di&eacute;sel en 23 pesos con 66 centavos. Ya lleva m&aacute;s de un a&ntilde;o, ustedes lo han visto, c&oacute;mo est&aacute; unos cu&aacute;ntos centavos arriba de los 22 pesos la regular, 23 pesos el di&eacute;sel y 24 pesos la Premium, y eso tambi&eacute;n porque se ha logrado cierta estabilidad en los precios internacionales del petr&oacute;leo; con corte el 15 de junio, la mezcla mexicana de petr&oacute;leo, 64 d&oacute;lares con 90 centavos de d&oacute;lar el barril, ustedes pueden ver c&oacute;mo lleva muchos meses rondando afortunadamente entre los 52 y los 72 d&oacute;lares el barril.</p>
+
+<p>Y eso genera estabilidad. Por tanto, el incentivo fiscal no lo hay para la Premium ni el di&eacute;sel y para la gasolina regular es el 22.4 por ciento.</p>
+
+<p>Las tres marcas m&aacute;s careras la semana pasada fueron&nbsp;Chevron,&nbsp;Redco&nbsp;y Arco, mientras que las tres aliadas de los consumidores la semana pasada fue Total, BP y Exxon&nbsp;Mobil, Exxon&nbsp;Mobil&nbsp;con precios muy competitivos, incluso han estado bajando en el centro del pa&iacute;s, sobre todo la regular, donde ha tenido un promedio por debajo de los 20 pesos el litro en el centro del pa&iacute;s por esta competencia de precios, &iexcl;qu&eacute; bueno!, de eso trata el mercado.</p>
+
+<p>Y vamos a ver ahora cu&aacute;les son los que tienen el margen m&aacute;s alto, con el precio m&aacute;s alto. Es una franquicia de Pemex para la gasolina regular en Monterrey, Nuevo Le&oacute;n, con un precio al p&uacute;blico de 24 pesos con 99 centavos, muy, muy caro, porque tienen un margen de dos pesos con 96 centavos, comparado con los 16 centavos de margen tambi&eacute;n de franquicia Pemex, pero el Altamira, Tamaulipas, en consecuencia, un precio m&aacute;s bajo al p&uacute;blico, 20 pesos con 75 centavos.</p>
+
+<p>Y para la gasolina Premium, la m&aacute;s cara con el margen m&aacute;s alto, la encontramos Canc&uacute;n, Quintana Roo, es de&nbsp;CorpoGas, 25 pesos con 23 centavos el litro, un margen de dos pesos con 63 centavos; mientras que, en Tampico, Tamaulipas, tambi&eacute;n de franquicia Pemex, 22 pesos con 88 centavos el litro precio al p&uacute;blico, un margen mucho m&aacute;s bajo, 17 centavos.</p>
+
+<p>Y en el di&eacute;sel el precio m&aacute;s alto es de Arco en Magdalena, Sonora, un precio al p&uacute;blico de 25 pesos con 49 centavos, porque estos angelitos tienen un margen de tres pesos con 37 centavos el litro, muy, muy alto, comparado con los 16 centavos de margen de franquicia Pemex en L&aacute;zaro C&aacute;rdenas, Michoac&aacute;n, que tiene un precio al p&uacute;blico de 23 pesos con 44 centavos para el di&eacute;sel.</p>
+
+<p>Atendimos a trav&eacute;s de la&nbsp;app&nbsp;Litro por Litro 192 denuncias o quejas a trav&eacute;s de 289 visitas o constataciones. Tenemos una gasolinera que se neg&oacute; a colocar los sellos de inmovilizaci&oacute;n, encontramos irregularidades, no permitieron colocar los sellos en Durango, Durango, S&uacute;per Servicio Don Alfonso, o sea, que don Alfonso ya lo tendremos que visitar de nueva cuenta, pero con el apoyo de Guardia Nacional y de la CRE.</p>
+
+<p>Y tambi&eacute;n seguimos revisando los servicios sanitarios para que est&eacute;n limpios, en buen estado de mantenimiento y de preferencia que no los cobren.</p>
+
+<p>Y en el gas LP, hacemos un corte el 14 de junio y convirtiendo a pesos y a kilos el precio internacional del gas, tenemos que fue de 18 pesos con 75 centavos el kilo, mientras que el promedio de las 220 regiones en M&eacute;xico la semana pasada fue de 16 pesos con 51 centavos, ha estado normalmente dos pesos por kilo abajo del precio internacional, y el mismo 14 de junio 10 pesos con 19 centavos el precio internacional por litro y en M&eacute;xico. Y el promedio de las 220 regiones ocho pesos con 92 centavos, un peso por abajo del precio internacional.&nbsp;</p>
+
+<p>Y tenemos ejemplos todav&iacute;a de aliados de los consumidores que siguen dando por abajo &mdash;y se los agradecemos&mdash; del precio m&aacute;ximo, tenemos ejemplos en el Estado de M&eacute;xico, en Nuevo Le&oacute;n, en Michoac&aacute;n, en Coahuila, en Oaxaca. Un claro ejemplo de ello es Gas Narvarte, en San Sim&oacute;n de Guerrero, en el Estado de M&eacute;xico, ocho pesos con 80 centavos el litro, cuando el precio m&aacute;ximo de la regi&oacute;n es de nueve pesos con 38 centavos, casi un peso por abajo del precio m&aacute;ximo.</p>
+
+<p>Y tambi&eacute;n tenemos ejemplos para cilindros de gas, que es de consumo m&aacute;s de las familias, es en&nbsp;Zumpahuac&aacute;n, Estado de M&eacute;xico, tambi&eacute;n, 16 pesos con 29 centavos el kilo, el precio m&aacute;ximo de 16 pesos con 86 centavos, casi 50 centavos por abajo del precio m&aacute;ximo. Y hay ejemplos en Zacatecas, en Jalisco, en el Estado de M&eacute;xico, en Guerrero y en Guanajuato.</p>
+
+<p>Realizamos 899 verificaciones y encontramos que se estaba respetando el precio m&aacute;ximo y que, adem&aacute;s, no encontramos irregularidades esta semana en el tema de Gas L.P.</p>
+
+<p>Vamos a ver la canasta b&aacute;sica, estos 24 productos que m&aacute;s consumen las familias mexicanas, el &Iacute;ndice Nacional de Precios al Consumidor para Bebidas y Alimentos en Estabilidad. De hecho, en muchos alimentos que monitoreamos desde hace a&ntilde;os estamos viendo una clara tendencia a la baja, afortunadamente, como hay una tendencia a la baja en los precios altos y bajos de esta canasta.</p>
+
+<p>Vamos a verlo ahora por distribuidores y en cada una de las zonas del pa&iacute;s. Tenemos que Walmart es el precio m&aacute;s alto, all&aacute; con mis paisanos &lsquo;panzas verdes&rsquo;, en Le&oacute;n, Guanajuato, tienen el paquete de los 24 productos para una semana en mil 23 pesos con 80 centavos,&nbsp;a&uacute;n&nbsp;as&iacute; no es tan alto, lo pueden ustedes ver, tres pesos incluso abajo del m&aacute;s alto para esta zona, la semana pasada; y Chedraui tiene el precio m&aacute;s bajo en Cuernavaca, Morelos, 832 pesos con 80 centavos.</p>
+
+<p>En la zona centro norte el precio m&aacute;s alto es de Walmart en Guadalajara, Jalisco, mil 22 pesos con 40 centavos, mientras que el m&aacute;s bajo lo encontramos en Chedraui, otra vez, de San Luis Potos&iacute;, San Luis Potos&iacute;, 850 pesos con 50 centavos.&nbsp;</p>
+
+<p>En la zona norte, el precio m&aacute;s alto es de la Central de Abastos de Monterrey, en Monterrey, Nuevo Le&oacute;n, mil 42 pesos con 39 centavos. Y Chedraui otra vez tiene el m&aacute;s bajo, en Tampico, Tamaulipas, 831 pesos con 80 centavos, as&iacute; tenemos un referente qu&eacute; es lo caro y qu&eacute; es lo barato en esta canasta de 24 productos.</p>
+
+<p>Donde, por &uacute;ltimo, en la zona sur sureste Walmart Express en Centro, Tabasco, lo tiene en 995 pesos con 30 centavos, qu&eacute; bueno que la Central de Abastos de M&eacute;rida ya le baj&oacute; poquito, sigue en los altos, pero no es el m&aacute;s alto afortunadamente.</p>
+
+<p>Y el que fue el campe&oacute;n de los precios bajos esta semana fue Chedraui, realmente aliados de los consumidores en todo el pa&iacute;s, fueron el precio m&aacute;s bajo en las cuatro regiones, Chedraui en Oaxaca, Oaxaca, 855 pesos con 10 centavos. Gracias a Chedraui por ser aliados de los consumidores en todo M&eacute;xico.</p>
+
+<p>JAVIER MAY RODR&Iacute;GUEZ, DIRECTOR GENERAL DEL FONDO NACIONAL DE FOMENTO AL TURISMO (FONATUR):&nbsp;Muy buenos d&iacute;as a todas, a todos. Con su permiso, se&ntilde;or presidente.</p>
+
+<p>Informamos hoy sobre los tramos 5, 6 y 7 del Tren Maya, que en conjunto suman 621.3 kil&oacute;metros de v&iacute;a y pasan por los estados de Quintana Roo y Campeche. El tramo 5 va de Canc&uacute;n y a Tulum con 111 kil&oacute;metros de longitud, el tramo 6 comprende 255.8 kil&oacute;metros de Tulum a Chetumal y el tramo 7 se extiende de 254.5 kil&oacute;metros de Chetumal a Esc&aacute;rcega. En estos tres tramos habr&aacute; ocho estaciones y cuatro paraderos, as&iacute; como bases de mantenimiento, dos cocheras y un taller para el tren.</p>
+
+<p>Destaca la construcci&oacute;n del nuevo aeropuerto de Tulum y la modernizaci&oacute;n del aeropuerto de Chetumal.</p>
+
+<p>Tambi&eacute;n, se mejoran nueve zonas arqueol&oacute;gicas y se prepara la apertura de nuevos sitios arqueol&oacute;gicos como&nbsp;Paamul&nbsp;II.</p>
+
+<p>Cerca de las zonas arqueol&oacute;gicas de Tulum y Calakmul se construyen hoteles Tren Maya, y en los tramos 5, 6 y 7 se construyen 800 obras complementarias entre puentes, obras de drenaje, el&eacute;ctricas, adem&aacute;s de pasos peatonales, vehiculares y de fauna.</p>
+
+<p>Est&aacute; en marcha el suministro de cuatro millones de metros de c&uacute;bicos de balasto, un mill&oacute;n 800 mil piezas de durmientes y 121 mil toneladas de riel.</p>
+
+<p>Hasta ahora, en estos tres tramos se han generado 20 mil empleos.</p>
+
+<p>Es importante recalcar que el Tren Maya es sumamente responsable con el medio ambiente. Por ello, en el tramo 5, que va de Canc&uacute;n a Tulum, el 70 por ciento de la v&iacute;a es viaducto, es segundo piso elevado, para proteger cenotes, cavernas y r&iacute;os subterr&aacute;neos. Estos viaductos se construyen con lo mejor de la ingenier&iacute;a y con la absoluta sensibilidad ambiental y, sin duda, el Tren Maya escribir&aacute; una nueva etapa para el bien del medio ambiente en el sureste mexicano.</p>
+
+<p>En los tramos 5, 6 y 7 los pasajeros del Tren Maya podr&aacute;n conocer y disfrutar de destinos importantes, como Puerto Morelos, Playa del Carmen, Mahahual o Bacalar, adem&aacute;s de cenotes o importantes zonas arqueol&oacute;gicas, como Calakmul.</p>
+
+<p>Los trabajos contin&uacute;an para cumplir el compromiso de la llegada del primer tren al taller y cochera de Canc&uacute;n, y el pr&oacute;ximo 8 de julio llega el primer tren a Canc&uacute;n, a las cocheras de Canc&uacute;n y la inauguraci&oacute;n del Tren Maya es diciembre del 2023.</p>
+
+<p>Es cuanto, presidente.</p>
+
+<p>JOAO PEDRO PARREIRA, PRESIDENTE Y DIRECTOR EJECUTIVO DE MOTA-ENGIL LATINOAM&Eacute;RICA:&nbsp;Con permiso, se&ntilde;or presidente.&nbsp;</p>
+
+<p>Vamos a reportar hoy los avances del tramo 5. Como ustedes saben, se divide en tres tramos, nosotros tenemos la responsabilidad de ejecutar el tramo de 27 kil&oacute;metros de longitud y para eso tenemos un peque&ntilde;o video donde vamos a hacer ese mismo reporte.</p>
+
+<p>Es una obra donde el compromiso de la gente sigue bastante&nbsp;concentrada&nbsp;en los trabajos. Aqu&iacute; verificamos los trabajos que se ejecutan 24 por siete en todo el tramo 5, los trabajos nocturnos.</p>
+
+<p>La calidad de la seguridad de estas obras, donde no est&aacute; ocurriendo ning&uacute;n accidente. Para nosotros es un frente de orgullo muy importante para garantizar que la obra se ejecuta 24/7 de manera astutamente irreprensible en el sentido de su seguridad de sus trabajadores.</p>
+
+<p>El segundo piso que tenemos aqu&iacute;, en esta imagen, lo vamos a ver en la pr&oacute;xima l&aacute;mina, que es un poco el resumen de ejecuci&oacute;n de esta grande obra de ingenier&iacute;a. El segundo piso es compuesto por, en nuestro caso, de m&aacute;s de tres mil 858 pilas, tenemos m&aacute;s de mil 286 cabezales, tenemos m&aacute;s de siete mil 716 trabes, 51 mil 440 prelosas, como mil 286 diafragmas.</p>
+
+<p>El segundo piso del Tren Maya garantiza que la permeabilidad quiere la fauna, quiere la permeabilidad ambiental, se garantiza en todo el trayecto del tramo 5. Este segundo piso, si sumamos todos los tramos, va a tener una longitud m&aacute;s de 80 kil&oacute;metros. Es una obra, por su dimensi&oacute;n, por su longitud, por su complejidad, que nos va a quedar seguramente en la memoria de todos los trabajadores, de todos los colaboradores del proyecto del Tren Maya.</p>
+
+<p>Con su permiso.</p>
+
+<p>MANUEL MU&Ntilde;OZCANO CASTRO, DIRECTOR GENERAL DE AZVINDI FERROVIARIO:&nbsp;Muy buenos d&iacute;as a todos y a todas.</p>
+
+<p>De igual manera, la empresa que est&aacute; encargada del tramo 5, que va de Puerto Aventura a Akumal es Grupo&nbsp;Indi, es una longitud de 20.7 kil&oacute;metros. Incluye un puente atirantado de m&aacute;s de 300 metros de longitud.</p>
+
+<p>Actualmente, como lo explicaba mi colega Joao, estamos trabajando 24/7 sin parar y sin descanso. Es una gran obra de gran magnitud. Actualmente, la maquinaria que se encuentra en sitio en este tramo son 14 perforadoras, 22 tractores, 32 excavadoras, 17&nbsp;motoconformadoras, 12&nbsp;vibrocompactadores, se tienen trabajando cinco plantas de concreto 24/7 con 36 ollas de concretos, cuatro gomas de concreto, hay 52 ingenieros espec&iacute;ficamente en este tramo y actualmente se tienen dos mil 111 trabajadores de la construcci&oacute;n.</p>
+
+<p>En el viaducto elevado segundo piso actualmente ya se tienen coladas 710 pilas, ya se tienen colocadas 423 columnas, 77 cabezales y hay 225 trabes ya montadas en este tramo.</p>
+
+<p>En la cuesti&oacute;n del terrapl&eacute;n, se est&aacute; construyendo un terrapl&eacute;n sobre una losa para precisamente proteger toda la superficie y todas las cavernas que se puedan encontrar y no haya ning&uacute;n da&ntilde;o ambiental. Actualmente, ya se tienen los ocho kil&oacute;metros completos de la conformaci&oacute;n del terreno natural, y ya se tienen cuatro kil&oacute;metros de losa concreto, el terrapl&eacute;n sobre losa ya va en 3.5 kil&oacute;metros, al igual que todos los pasos de fauna ya est&aacute;n completamente terminados.</p>
+
+<p>En la planta de prefabricados que est&aacute; ubicada en&nbsp;Xpu-Ha, ya se tienen fabricadas y almacenadas m&aacute;s 14 mil piezas de durmiente, mil 650 piezas de trabes prefabricadas, m&aacute;s de cuatro mil tabletas prefabricadas, as&iacute; como 50 cabezales precolados y tambi&eacute;n se est&aacute; siguiendo un procedimiento de colado en sitio y prefabricaci&oacute;n de cabezales para poder avanzar mucho m&aacute;s r&aacute;pido.</p>
+
+<p>De igual manera,&nbsp;informar&nbsp;que el puente atirantado Garra de Jaguar ya lleva un 30 por ciento de avance, el cual se est&aacute; fabricando en Guadalajara.&nbsp;</p>
+
+<p>Es cuanto, se&ntilde;or.&nbsp;</p>
+
+<p>GUADALUPE PHILLIPS MARGAIN, DIRECTORA GENERAL DE EMPRESAS&nbsp;ICA:&nbsp;Buenos d&iacute;as a todos.</p>
+
+<p>Tenemos un reporte muy breve del tramo 5 sur, subtramo 3, este es el tramo que conecta Playa del Carmen con Puerto Aventuras. El tramo en general tiene un avance de 20.3 por ciento. Est&aacute; dividido, en el 40 por ciento son terraplenes, que tienen un avance de 65 por ciento; la vialidad elevada es el 60 por ciento, tiene un avance de 13.4 por ciento y la estaci&oacute;n de Playa del Carmen, que tiene un avance de 36 por ciento.</p>
+
+<p>Aqu&iacute; les mostramos unas fotos del avance de algunos terraplenes y del viaducto. Esta es simplemente una imagen de c&oacute;mo va a venir ese segundo piso y c&oacute;mo est&aacute; compuesto, como lo explico mi colega Joao, de Mota-Engil. Esta es nada m&aacute;s una visi&oacute;n de c&oacute;mo va la estaci&oacute;n de Playa del Carmen y un&nbsp;render&nbsp;de c&oacute;mo va a quedar.</p>
+
+<p>Y la siguiente imagen es la misma visi&oacute;n, pero vista desde los andenes y c&oacute;mo va a funcionar la estaci&oacute;n de Playa del Carmen.&nbsp;</p>
+
+<p>Muchas gracias. Buenos d&iacute;as.&nbsp;</p>
+
+<p>GUSTAVO RICARDO VALLEJO SU&Aacute;REZ, INGENIERO RESIDENTE GENERAL Y COMANDANTE DEL AGRUPAMIENTO DE INGENIEROS &lsquo;FELIPE &Aacute;NGELES&rsquo;. SECRETAR&Iacute;A DE LA DEFENSA NACIONAL (SEDENA):&nbsp;Con permiso, se&ntilde;or presidente.</p>
+
+<p>Muy buenos d&iacute;as a todos.&nbsp;</p>
+
+<p>La Secretar&iacute;a de la Defensa Nacional participa en el esfuerzo de construcci&oacute;n del Tren Maya en los tramos 5 norte, 6 y 7, y tambi&eacute;n en la construcci&oacute;n del Aeropuerto Internacional &lsquo;Felipe Carrillo Puerto&rsquo;, en Tulum, Quintana Roo.</p>
+
+<p>La responsabilidad de construcci&oacute;n de la Secretar&iacute;a de la Defensa Nacional est&aacute; en una longitud de 553.6 kil&oacute;metros. En ellos se va a atender, se est&aacute; atendiendo v&iacute;a f&eacute;rrea por 870 kil&oacute;metros entre v&iacute;a sencilla, v&iacute;a doble electrificada y laderos; de estos, 43 kil&oacute;metros ir&aacute;n en viaducto elevado, como ya lo mencionaron mis colegas constructores para salvar zonas c&aacute;rsticas, para hacer cruces de r&iacute;os, para cruzar, inclusive, zonas arqueol&oacute;gicas y tambi&eacute;n para salvar donde tenemos ca&iacute;das de cotas del terreno.</p>
+
+<p>Los trabajos iniciaron en el 2022 y terminar&aacute;n en diciembre de 2023.</p>
+
+<p>Hemos empleado&hellip; hemos generado 42 mil 158 empleos, de los cuales hoy se encuentran activos los 20 mil que refiri&oacute; el director general May, y tambi&eacute;n los cinco mil m&aacute;s que tenemos en el aeropuerto &lsquo;Felipe Carrillo Puerto&rsquo; para un total de 25 mil empleos activos con un total de cinco mil 700 unidades de maquinaria pesada y veh&iacute;culos en todos nuestros tramos.</p>
+
+<p>Si pasamos al tramo 5 Norte, que va de Canc&uacute;n a Playa del Carmen, aqu&iacute; tenemos 43.3 kil&oacute;metros de v&iacute;a doble electrificada que va tanto en viaducto como en terrapl&eacute;n. Llevamos un avance real del 20 por ciento. Estamos organizados en tres frentes de construcci&oacute;n.</p>
+
+<p>Tenemos una diversidad de trabajos que van desde estar perforando las pilas de cimentaci&oacute;n, colando en sito con concreto estas pilas y columnas, con todas las t&eacute;cnicas de preservaci&oacute;n ambiental que se&nbsp;nos han instruido, simult&aacute;neamente prefabricando y montando cabezales, vigas y tableros en estos viaductos que ya les mencionaron.</p>
+
+<p>Tambi&eacute;n estamos, tenemos toda la cadena log&iacute;stica integral de suministros, desde la explotaci&oacute;n con base en las normas ambientales de los bancos de pr&eacute;stamo que est&aacute;n en terrenos nacionales, su acarreo a la formaci&oacute;n de terraplenes.</p>
+
+<p>Aqu&iacute; tenemos la construcci&oacute;n de una estaci&oacute;n, la estaci&oacute;n Puerto Morelos, que tiene la peculiaridad que ser&aacute; una estaci&oacute;n elevada. Tambi&eacute;n, estamos construyendo simult&aacute;neamente, por el tiempo que tenemos, las estructuras met&aacute;licas para las catenarias que electrificar&aacute;n la v&iacute;a del tren y estamos construyendo tambi&eacute;n las estructuras de concreto para los pasos de fauna y las obras de drenaje transversal.</p>
+
+<p>Independientemente de ello, llevamos una cadena log&iacute;stica de suministros donde estamos acopiando desde el balasto, los durmientes, los rieles, los cables de catenaria y hasta los aparatos de v&iacute;a. Tenemos una fuerza de trabajo tan s&oacute;lo en estos 43 kil&oacute;metros de casi mil veh&iacute;culos y maquinaria pesada y cuatro mil trabajadores.</p>
+
+<p>Por lo que se refiere al tramo 6, aqu&iacute; hablamos de 255.8 kil&oacute;metros de v&iacute;a doble electrificada, tanto en terrapl&eacute;n, y ocho kil&oacute;metros en viaducto por las mismas circunstancias que les mencion&eacute;. Tenemos un avance cercano al 24 por ciento. Estamos organizados en ocho frentes de construcci&oacute;n que avanzan simult&aacute;neamente.</p>
+
+<p>Aqu&iacute; se realizan trabajos que van desde la explotaci&oacute;n de bancos de materiales, la conformaci&oacute;n de terraplenes, la construcci&oacute;n de cinco estaciones y paraderos a lo largo de la ruta, construcci&oacute;n de puentes y viaductos elevados, igualmente fabricaci&oacute;n de estructuras met&aacute;licas para catenarias, y las instalaciones para las obras de drenaje transversal, y sobre todo una gran cantidad de pasos de fauna.</p>
+
+<p>Igualmente, se inicia el abastecimiento y acopio de los suministros estrat&eacute;gicos que van desde balasto, nuevamente durmiente, riel, cables de catenaria, etc&eacute;tera.&nbsp;</p>
+
+<p>Aqu&iacute; tenemos m&aacute;s de mil 665 veh&iacute;culos y maquinaria pesada con m&aacute;s de siete mil trabajadores activos.</p>
+
+<p>Y despu&eacute;s, pasamos al tramo 7. Este tramo 7 corre de Chetumal a Esc&aacute;rcega, se trata de 254.5 kil&oacute;metros de v&iacute;a sencilla, va normalmente entre terraplenes y muchas zonas de corte en elevaciones; lleva un avance f&iacute;sico del 25 por ciento y estamos organizados en siete frentes de construcci&oacute;n.</p>
+
+<p>Los trabajos en curso es la explotaci&oacute;n de los bancos de materiales, estamos conformando altos vol&uacute;menes de terrapl&eacute;n y de corte de elevaciones.&nbsp;</p>
+
+<p>Aqu&iacute; tenemos la construcci&oacute;n de tres estaciones y paraderos; igualmente, construimos estructuras para los pasos de fauna y los cruces de agua.</p>
+
+<p>Tenemos una fuerza de trabajo de ocho mil 441 trabajadores. Y en este tramo, por la gran cantidad de movimiento de tierras, tenemos m&aacute;s de dos mil 236 unidades de maquinaria pesada y veh&iacute;culos.</p>
+
+<p>Por lo que se refiere al Aeropuerto Internacional de Tulum &lsquo;Felipe Carrillo Puerto&rsquo;, estamos alcanzando ya pr&oacute;ximamente un avance real del 50 por ciento.</p>
+
+<p>Aqu&iacute; la secretar&iacute;a ha organizado 10 frentes de construcci&oacute;n activos que realizan trabajos principalmente de, en estos momentos, tendido de concreto de alta resistencia en todo lo que son pistas, plataformas, calles de rodaje y vialidades, y tambi&eacute;n estamos nivelando el terreno en lo que es la zona del campo a&eacute;reo, un respeto total a la vegetaci&oacute;n, reduciendo el m&iacute;nimo impacto a esta zona de selva.</p>
+
+<p>Estamos montando la estructura met&aacute;lica del edificio terminal de pasajeros y ya llevamos un gran avance. Asimismo, estamos haciendo estructuras met&aacute;licas en hangares y en los tanques verticales de la terminal de combustibles, estamos construyendo una estructura de 50 metros de altura que ser&aacute; el fuste de la torre de control de tr&aacute;fico a&eacute;reo.</p>
+
+<p>Se realizan en todo el complejo trabajos de estructuras, alba&ntilde;iler&iacute;as, instalaciones y adem&aacute;s tenemos un esfuerzo grande de alrededor de 50 kil&oacute;metros de l&iacute;neas el&eacute;ctricas en alta y media tensi&oacute;n para conectar este complejo aeroportuario con la red el&eacute;ctrica nacional.</p>
+
+<p>Tenemos una fuerza laboral de 890 veh&iacute;culos y maquinaria pesada y m&aacute;s de cinco mil trabajadores directos.</p>
+
+<p>De esta manera, la Sedena mantiene su compromiso de concluir en tiempo y forma con los trabajos de construcci&oacute;n, realizar acciones concretas para cuidar el medio ambiente y preservan nuestra flora y fauna local, y trabajar conjuntamente en salvaguardar el vasto patrimonio hist&oacute;rico y cultural durante los trabajos que estamos realizando.</p>
+
+<p>Es cuanto por nosotros.</p>
+
+<p>DIEGO PRIETO HERN&Aacute;NDEZ, DIRECTOR GENERAL DEL INSTITUTO NACIONAL DE ANTROPOLOG&Iacute;A E HISTORIA (INAH):&nbsp;Muy buenos d&iacute;as. Muy buenos d&iacute;as, presidente, gobernadora, compa&ntilde;eras y compa&ntilde;eros de este gran equipo de trabajo,&nbsp;amigas y amigos&nbsp;de los medios.</p>
+
+<p>Como ven ustedes, el Tren Maya incorpora la m&aacute;s avanzada tecnolog&iacute;a, una compleja organizaci&oacute;n y tambi&eacute;n la aplicaci&oacute;n de las ciencias que se ocupan, de la investigaci&oacute;n, el cuidado y la defensa de nuestro patrimonio cultural y natural, y especialmente por supuesto del patrimonio arqueol&oacute;gico que representa la memoria de las grandes civilizaciones y culturas que han florecido en el territorio de nuestro pa&iacute;s, y en este caso particular en el territorio de la gran naci&oacute;n maya mesoamericana.</p>
+
+<p>Quisiera repasar con ustedes c&oacute;mo se comporta el trabajo de recuperaci&oacute;n y salvamento de materiales e informaci&oacute;n muy valiosa para el estudio, precisamente de este gran tronco civilizatorio maya en el territorio de la selva y la pen&iacute;nsula de Yucat&aacute;n.</p>
+
+<p>En estos tres tramos es de observarse c&oacute;mo de 33 mil 622 estructuras de car&aacute;cter inmueble, albarradas, zonas residenciales, plataformas, caminos o&nbsp;sacb&eacute;s, edificios de diferente car&aacute;cter, la gran mayor&iacute;a de los 33 mil 622 bienes inmuebles recuperados se concentran en el tramo 7, que representa las dos terceras partes de estos tres tramos, y alrededor del 40 por ciento de todos los bienes inmuebles que se han podido registrar, estudiar, recuperar en todo el tramo del Tren Maya.</p>
+
+<p>Esto sobre todo de lo que nos habla es de la gran densidad de poblaci&oacute;n que lleg&oacute; a haber aqu&iacute; gracias a una excelente organizaci&oacute;n social, a la eficacia de la milpa maya y a un sistema urbano que conectaba distintas poblaciones y ciudades estado que comerciaban entre s&iacute; y representaron poblaciones de cientos de miles de habitantes en este territorio.</p>
+
+<p>En cuanto a bienes muebles, tenemos 501 bienes relativamente &iacute;ntegros que se han recuperado, vasijas, figurillas, metates y otros elementos de trabajo como herramientas de l&iacute;tica. Y al final les voy a presentar un ejemplo de estos bienes muebles que d&iacute;a con d&iacute;a vamos recuperando, vamos encontrando gracias a la excavaci&oacute;n arqueol&oacute;gica; 163 mil fragmentos de cer&aacute;mica que est&aacute;n siendo analizados por los profesionistas, 68 entierros y mil 26 rasgos naturales asociados al paisaje, asociados a la presencia de grupos humanos.&nbsp;</p>
+
+<p>Aqu&iacute; es de observarse c&oacute;mo en este rubro predomina el tramo 5, con 778 rasgos naturales consistentes en cavernas, cuevas, grutas,&nbsp;semiinundadas&nbsp;y cenotes donde, por supuesto, encontramos importante material resultado de la presencia de grupos humanos, incluso desde antes de la ubicaci&oacute;n de asentamientos agr&iacute;colas, desde hace 12 mil, 14 mil a&ntilde;os, algunos grupos semin&oacute;madas ocuparon estos territorios.</p>
+
+<p>Este es el resultado del trabajo que particularmente en el tramo 7 implic&oacute; una gran campa&ntilde;a ordenada por el presidente entre los meses de marzo, abril, principios de mayo, que nos permiti&oacute; acercarnos este material tan valioso gracias al esfuerzo de m&aacute;s de 350 profesionistas, fundamentalmente arque&oacute;logos procedentes de 11 instituciones que, gracias a la instrucci&oacute;n que nos ha dado el presidente, seguir&aacute;n trabajando y paulatinamente se ir&aacute;n a atender los sitios y zonas arqueol&oacute;gicas incorporadas en el Programa de Mejoramiento de Zonas Arqueol&oacute;gicas.</p>
+
+<p>Vamos a repasar algunas de las zonas que est&aacute;n siendo objeto de investigaci&oacute;n y mejoramiento. En primer lugar, tenemos Tulum, que est&aacute; entre las tres zonas arqueol&oacute;gicas m&aacute;s visitadas en nuestro pa&iacute;s. En Tulum vamos a abrir &aacute;reas que no estaban todav&iacute;a dispuestas a la visita del p&uacute;blico y vamos a trabajar muy de la mano con la Comisi&oacute;n Nacional de &Aacute;reas Naturales Protegidas y con la Secretar&iacute;a de la Defensa Nacional para articularnos en este gran Parque Nacional del Jaguar, Parque Nacional Tulum, en donde se va a instalar un gran Centro de Atenci&oacute;n a Visitantes que est&aacute; construyendo la Sedatu.</p>
+
+<p>Muyil&nbsp;es una zona de enorme atractivo que se encontrar&aacute; muy cerca de lo que es el aeropuerto &lsquo;Felipe Carrillo Puerto&rsquo; Tulum, y que es una zona de enorme inter&eacute;s en donde ya estamos trabajando en la investigaci&oacute;n, conservaci&oacute;n e infraestructura.</p>
+
+<p>Todav&iacute;a en el tramo 5 vamos a atender la zona de El Meco, que ya presentamos en un video que ha sido muy gustado. El corredor&nbsp;ecoarqueol&oacute;gico&nbsp;de&nbsp;Paamul&nbsp;y una intervenci&oacute;n menor para mejorar y atender tareas de conservaci&oacute;n en la zona&nbsp;Xel-H&aacute;.</p>
+
+<p>Pasando al tramo 6, en este tramo vamos a intervenir cuatro zonas arqueol&oacute;gicas:&nbsp;Oxtank&aacute;h&nbsp;Dzibanche-Kinichna&nbsp;y&nbsp;Chacchob&eacute;n. Y como lo ha dicho el director May, vamos a abrir por primera vez al p&uacute;blico en el a&ntilde;o 2024&nbsp;Ichkabal, esta gran ciudad maya antigua que se ubica en el estado de Quintana Roo.</p>
+
+<p>Siguiendo con el tramo 7 ahora, vamos a atender tambi&eacute;n Kohunlich, una zona en donde, adem&aacute;s de que ya hemos iniciado los trabajos de investigaci&oacute;n, vamos a mejorar la unidad de servicios.</p>
+
+<p>Y para concluir, les presento el trabajo tan importante que vamos a desarrollar en la zona arqueol&oacute;gica de Calakmul, que forma parte de la reserva de la biosfera de Calakmul, patrimonio cultural y natural de la humanidad.</p>
+
+<p>En esta zona ya estamos trabajando en la investigaci&oacute;n en diversas estructuras, la conservaci&oacute;n de decoraciones arquitect&oacute;nicas; entre otras, el Gran Friso que ha sido enormemente difundido a nivel internacional.</p>
+
+<p>Vamos avanzando con el museo de sitio y con la se&ntilde;al&eacute;tica. Y tambi&eacute;n en esta zona gracias al trabajo de la Secretar&iacute;a de la Defensa Nacional, vamos a instalar un Centro de Atenci&oacute;n a Visitantes en un &aacute;rea previamente impactada, que vamos a trabajar junto con nuestros compa&ntilde;eros de la&nbsp;Semarnat&nbsp;y la&nbsp;Conanp.</p>
+
+<p>Finalmente, y como un ejemplo, les dec&iacute;a, de los bienes que van a apareciendo d&iacute;a con d&iacute;a en los trabajos de excavaci&oacute;n arqueol&oacute;gica. El viernes pasado en el frente 3 del tramo 7 recuperamos esta&nbsp;escultura en piedra que representa, seg&uacute;n nos dicen los especialistas, una deidad de la muerte. Es una figura impresionante precisamente porque apela a estos rasgos mortuorios que la figura evidencia. Y esa figura estaba acompa&ntilde;ada de algunos elementos a manera de ofrenda, como este tiesto, este fragmento de vasija pol&iacute;croma que nos permite entender en el contexto a figura que pudimos descubrir.</p>
+
+<p>Muchas gracias.</p>
+
+<p>MAR&Iacute;A LUISA ALBORES GONZ&Aacute;LEZ, SECRETARIA DE MEDIO AMBIENTE Y RECURSOS NATURALES:&nbsp;Buenos d&iacute;as a todas, a todos. Con su permiso, presidente.&nbsp;</p>
+
+<p>Compartimos los avances ambientales del Tren Maya. La primera, por favor. Y compartir que el transporte ser&aacute; el menos contaminante, ya que el Tren Maya trasladar&aacute; pasajeros y carga de una manera m&aacute;s sustentable, al sustituir veh&iacute;culos de combusti&oacute;n interna en sus mil 554 kil&oacute;metros. Vemos que el 46 por ciento, 690 kil&oacute;metros ser&aacute;n recorridos por trenes el&eacute;ctricos y el 54 por ciento, que son 864 kil&oacute;metros, ser&aacute;n h&iacute;bridos, entre el&eacute;ctrico y di&eacute;sel; utilizar&aacute; Pemex Di&eacute;sel Ecol&oacute;gico una mejora ambiental respecto al di&eacute;sel tradicional. Me gustar&iacute;a &mdash;la siguiente, por favor&mdash; compartir cu&aacute;les son las caracter&iacute;sticas de este di&eacute;sel ecol&oacute;gico.</p>
+
+<p>Primero, las m&aacute;quinas del tren requieren un di&eacute;sel ultrabajo en azufre, de alta calidad y ecol&oacute;gicamente responsable, y se pondr&aacute; a disposici&oacute;n, el cual ya est&aacute; en M&eacute;rida y en Progreso. Adem&aacute;s de cumplir con los elementos que existe la norma 016 de la Comisi&oacute;n Reguladora de Energ&iacute;a, contendr&aacute; m&aacute;ximo 10 partes por mill&oacute;n de azufre, un tercio menos de las 15 partes por mill&oacute;n que exige la norma actual, es el combustible m&aacute;s limpio que se ha utilizado en M&eacute;xico para veh&iacute;culos de di&eacute;sel.&nbsp;</p>
+
+<p>La siguiente, por favor. Esta disponibilidad a trav&eacute;s de Pemex, este di&eacute;sel ecol&oacute;gico, Pemex cuenta ya con&hellip; y es necesario para que el Tren Maya pueda iniciar pruebas. Compartirles que el primer buque tanque descarg&oacute; el 28 de mayo, para cumplir el suministro del Tren Maya y ser&aacute; producido en la refiner&iacute;a&nbsp;DeerPark, y no subir&aacute; el precio al p&uacute;blico del actual di&eacute;sel. Ya comenz&oacute; la distribuci&oacute;n de este di&eacute;sel en algunas zonas, como M&eacute;rida y Progreso.&nbsp;</p>
+
+<p>La siguiente. En mitigaci&oacute;n del cambio clim&aacute;tico, como se ha compartido, este potencial de mitigaci&oacute;n por la electrificaci&oacute;n y uso de di&eacute;sel ecol&oacute;gico va en una sumatoria entre lo el&eacute;ctrico y el di&eacute;sel ecol&oacute;gico de 2.84 millones de toneladas de bi&oacute;xido de carbono de 2024 a 2030. El Tren Maya sustituir&aacute; el uso de veh&iacute;culos de combusti&oacute;n interna para el traslado de pasajeros y de carga.&nbsp;</p>
+
+<p>Compartirles tambi&eacute;n que Pemex Di&eacute;sel Ecol&oacute;gico beneficiar&aacute; no s&oacute;lo al Tren Maya, tambi&eacute;n podr&aacute; coadyuvar en que se&nbsp;pueda&nbsp;ocupar este di&eacute;sel en toda la pen&iacute;nsula con 322 mil 611 veh&iacute;culos.&nbsp;Con esto, el gobierno de la Rep&uacute;blica cumple su compromiso de contribuir al cuidado ambiental.</p>
+
+<p>Es&nbsp;cuanto.</p>
+
+<p>MAR&Iacute;A ELENA LEZAMA ESPINOSA, GOBERNADORA DE QUINTANA ROO:&nbsp;Muchas gracias.</p>
+
+<p>Les presumo el vestido, ahora de Tulum, de&nbsp;Chanch&eacute;n&nbsp;Primero.&nbsp;</p>
+
+<p>Buenos d&iacute;as, se&ntilde;or presidente. Muy buenos d&iacute;as a todas a todos. Y felicito a los padres, que el d&iacute;a de ayer espero que los hayan apapachado mucho, mucho.</p>
+
+<p>A trav&eacute;s de estas conferencias hemos podido explicar los beneficios del Tren Maya para nuestro estado y c&oacute;mo nosotros vamos acoplando pol&iacute;ticas p&uacute;blicas y decisiones de gobierno a este extraordinario proyecto federal.</p>
+
+<p>El Tren Maya supone para Quintana Roo una oportunidad hist&oacute;rica por el enorme potencial de desarrollo econ&oacute;mico que hay a su alrededor, pero tambi&eacute;n es un reto hist&oacute;rico que nos obliga esta vez a sumar a toda la sociedad a este entorno de crecimiento y prosperidad porque, quiero decirles, no siempre ha sido as&iacute;.</p>
+
+<p>Tenemos parte de nuestra econom&iacute;a, fundamentalmente la vinculada a la pujante industria tur&iacute;stica que va a absorber y potenciar todo lo que el Tren Maya le ofrezca y lo va a convertir literalmente en oro, y esa es la parte del &eacute;xito de Quintana Roo que es reconocido en el mundo y del cual nos sentimos profundamente orgullosos.</p>
+
+<p>Pero el d&iacute;a de hoy les tengo que contar que estamos obligados tambi&eacute;n a contarles esa otra cara de la moneda de esta historia, que dice que este &eacute;xito no lleg&oacute; a todos los rincones del estado, los beneficios no fueron equitativos y, entonces, a la par de un crecimiento econ&oacute;mico desbordante en un sector de nuestra sociedad, en otros sectores se fueron acumulando deudas sociales que hoy se muestran con el rostro de la desigualdad, de la pobreza, del deterioro ambiental, de la violencia, de la delincuencia.</p>
+
+<p>Por eso, desde que asum&iacute; el gobierno hace apenas ocho meses planteamos un nuevo acuerdo por el bienestar y desarrollo de Quintana Roo, que se puso como objetivo innegociable la prosperidad compartida para que todas y todos los&nbsp;quintarroenses&nbsp;tengan acceso al beneficio del &eacute;xito tur&iacute;stico.</p>
+
+<p>Y en ese contexto asumimos la obligaci&oacute;n de recuperar el papel del estado como orientador del desarrollo y utilizar todas nuestras capacidades institucionales y pol&iacute;ticas para vincular a sectores hist&oacute;ricamente marginados, a la prosperidad que va a traer justamente el Tren Maya.&nbsp;</p>
+
+<p>Y esto es muy importante porque hay que vincularlos desde la producci&oacute;n, el trabajo, la proyecci&oacute;n de crecimiento, sea d&aacute;ndoles un contexto sobre el cual proyectar una vida y no una participaci&oacute;n secundaria o dadivosa para acallar las consciencias de algunos.</p>
+
+<p>Por eso, hoy quiero compartirles lo que significa el Instituto de Econom&iacute;a Social y Solidaria de Quintana Roo, que se genera a trav&eacute;s del Tren Maya, un proyecto dise&ntilde;ado para adentrarse en esos sectores sociales que nunca pudieron conectarse al caudal de la econom&iacute;a del estado. Es un proyecto basado en elementos como la solidaridad, la cooperaci&oacute;n, la prosperidad colectiva, la distribuci&oacute;n equitativa de beneficios y la sostenibilidad ambiental y vinculado directamente a los ejidos, a esas comunidades, a esas organizaciones de trabajadores, a las sociedades cooperativas, a las empresas que pertenezcan en su mayor&iacute;a o exclusivamente a trabajadores y a cualquier forma de organizaci&oacute;n social. O sea, vamos ah&iacute;, al n&uacute;cleo en donde tenemos incrustada la desigualdad.</p>
+
+<p>Y les voy a dejar ejemplos concretos de c&oacute;mo estamos reactivando esos sectores sociales. Hemos creado ya las dos primeras sociedades cooperativas de ahorro y pr&eacute;stamo de mujeres en el estado de Quintana Roo: la primera&nbsp;Maya Sur, ubicada en Oth&oacute;n P. Blanco, en donde est&aacute; la capital de nuestro bello estado Chetumal; y la segunda&nbsp;Koinon&iacute;a, en Canc&uacute;n, para atender la inclusi&oacute;n financiera de las mujeres ubicadas en las colonias de alta marginaci&oacute;n. Actualmente, estas atienden a m&aacute;s de 186 mujeres, como ella, ahorradoras. Es la primera vez en toda la historia en la banca social que se abra al p&uacute;blico en nuestro estado, en Quintana Roo.&nbsp;</p>
+
+<p>Y tambi&eacute;n vamos a abrir dos sucursales en la zona maya, una en la comunidad de Felipe Carrillo Puerto y otra en la zona maya de Tulum para beneficiar adicionalmente, que esto es fundamental porque son las zonas m&aacute;s marginadas a cientos de&nbsp;microemprendedoras, y para este proyecto estamos invirtiendo m&aacute;s de cinco millones 700 mil pesos en el programa de esta banca social de bienestar del Instituto de Econom&iacute;a Social y Solidaria, los cuales ser&aacute;n destinados a capital semilla, a infraestructura y a capacitaci&oacute;n.&nbsp;</p>
+
+<p>Y adicionalmente, como plan de acci&oacute;n de justicia ind&iacute;gena, est&aacute;n en proceso dos programas sociales que tienen como objetivo abatir la desigualdad, dar seguridad alimentaria a la familia y generar un ingreso con la venta del excedente de la producci&oacute;n:</p>
+
+<p>Se trata de los Huertos del Bienestar, en donde se invierten 12 millones y medio de pesos para beneficiar a mil 800 familias.</p>
+
+<p>Y, por supuesto, el programa Artesanas del Bienestar, en donde se invierten m&aacute;s de 18 millones de pesos para producir para comercializar los productos de m&aacute;s de cuatro mil 800 mujeres, para un total de 26 mil apoyos. Mujeres que bordan, por ejemplo, este vestido, que, bordado por Francisca, por Hilario, en Chanchen Primero, en una comunidad ah&iacute; en Tulum, de eso se trata generar bienestar.</p>
+
+<p>&iquest;Y a qu&eacute; apuntamos?</p>
+
+<p>A crear empresas sociales, econom&iacute;as regionales en zonas que hab&iacute;an quedado hasta geogr&aacute;ficamente marginadas de las rutas tur&iacute;sticas en donde se generan recursos, pero que hoy alrededor de las ocho estaciones y los cuatro paraderos del Tren Maya en Quintana Roo, adem&aacute;s de sus cocheras, talleres y bases de mantenimiento que han sido perfectamente explicados, van a quedar incluidas en el radio de influencia de este fabuloso proyecto.</p>
+
+<p>Se&ntilde;or presidente, compa&ntilde;eros y compa&ntilde;eras, como dije en otras ocasiones, el Tren Maya a la par de una gran obra de infraestructura, es un elemento de justicia social, pero est&aacute; en nosotras, est&aacute; en nosotros, en quienes tenemos responsabilidad de gobierno saber aplicar las pol&iacute;ticas p&uacute;blicas necesarias para poder cumplir el sue&ntilde;o de la prosperidad compartida, y as&iacute; acortar las brechas de desigualdad.</p>
+
+<p>En Quintana Roo entendemos que una obra de esta infraestructura, de la envergadura del Tren Maya, ser&aacute; un fabuloso multiplicador del turismo, que nos propone un potencial desarrollo incalculable, pero esta vez nuestra obligaci&oacute;n, repito, es que la prosperidad que se genere se disperse para toda nuestra geograf&iacute;a y alcance a toda nuestra gente.</p>
+
+<p>No podemos de ninguna manera cometer los errores del pasado. Asumimos la responsabilidad hist&oacute;rica de que esta vez los beneficios del desarrollo y la prosperidad sean para todas y sean para todos, y nos comprometemos a&nbsp;que&nbsp;en esta ocasi&oacute;n, el tren de la historia incluya a las y los quintanarroenses en su conjunto.</p>
+
+<p>Por eso decimos: con el Tren Maya, progreso con justicia social y crecimiento con bienestar.</p>
+
+<p>Muchas gracias y muchas gracias, se&ntilde;or presidente.</p>
+
+<p>Y le mandan un abrazo desde Chanchen Primero.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Bueno, vamos a la secci&oacute;n de preguntas. Quedaron pendientes Elideth Fern&aacute;ndez, Z&oacute;simo Camacho y Eduardo Esquivel, nada m&aacute;s. Adelante.</p>
+
+<p>PREGUNTA:&nbsp;Buenos d&iacute;as, se&ntilde;or presidente; buenos d&iacute;as a todos los presentes.</p>
+
+<p>Elideth Fern&aacute;ndez, de&nbsp;Noticias del Movimiento&nbsp;Conciencia&nbsp;y colaboradora del programa radiof&oacute;nico&nbsp;Iztacc&iacute;huatl en el Sendero de la Luna.</p>
+
+<p>Hoy traigo una &uacute;nica e importante pregunta, pero se necesita darle contexto. Se&ntilde;or presidente, como lo expres&eacute; en mi &uacute;ltima intervenci&oacute;n en este espacio del 2 de mayo, somos muchos a los que m&aacute;s all&aacute; de nuestras diferencias nos mueve el deseo de hacer un mundo m&aacute;s justo. Otra muestra de ello fue la&nbsp;indignaci&oacute;n que cimbro a una sociedad por los terribles hechos que se conocieron en torno al perro llamado&nbsp;Scooby, la inocente v&iacute;ctima de Tec&aacute;mac.</p>
+
+<p>El Movimiento Consciencia, de la mano de una ciudadan&iacute;a sensible y consciente, nos manifestaremos el domingo 25 de junio en una marcha que partir&aacute; del &Aacute;ngel a las 11:00 horas hacia el Z&oacute;calo, con el fin de exhortar a la empat&iacute;a y a la compasi&oacute;n para exigir derechos para los animales y avanzar firmes contra la violencia.</p>
+
+<p>Se est&aacute; sumando un c&uacute;mulo importante de personas de distintos gremios motivados a tomar acciones en conjunto porque, aunque nos mueven luchas que aparentemente no son iguales la causa es la misma: la justicia.</p>
+
+<p>En la actualidad activistas, artistas, acad&eacute;micos, intelectuales, reconocen que el movimiento por los derechos de los animales no es ajeno a otras luchas sociales y que este es fundamental para la educaci&oacute;n y construcci&oacute;n de paz.</p>
+
+<p>En ese sentido, el Movimiento Consciencia representa la suprema expresi&oacute;n del pacifismo. Quienes asumen la violencia como un principio aceptable para defender a los animales pierde toda posibilidad moral para condenarla.</p>
+
+<p>El indescriptible martirio del que fue objeto&nbsp;Scooby&nbsp;despabil&oacute; a muchos de su letargo ante la brutal violencia que se ejerce frente a los m&aacute;s vulnerables, frente a los m&aacute;s d&eacute;biles, ya sean animales o personas y despert&oacute; consciencias, como lo se&ntilde;ala la escritora Elena Poniatowska en su art&iacute;culo en&nbsp;La Jornada&nbsp;del domingo 4 de junio.</p>
+
+<p>Como&nbsp;fotodocumentalista&nbsp;he registrado&nbsp;in situ&nbsp;la terrible y dolorosa agon&iacute;a del toro durante las corridas, llegando a su m&aacute;xima revelaci&oacute;n de la barbarie cuando no lo matan bien, he sido testigo cuando no aturden al animal en los rastros&nbsp;de acuerdo a&nbsp;la norma oficial porque lo consideran una cosa y reiteradamente los escaldan en carne viva, es decir, los echan aun vivientes en las tinajas de agua hirviendo. Y as&iacute; podr&iacute;a dar testimonio de un largo etc&eacute;tera de atrocidades inimaginables y cotidianas.&nbsp;</p>
+
+<p>Se&ntilde;or presidente, yo, que he buscado captar con mi lente el suplicio, el miedo y la zozobra en la mirada de un animal que est&aacute; siendo torturado para contarle al mundo, no he podido ver el video que circul&oacute; en redes del asesinato de&nbsp;Scooby, el mismo que dejaron como un regalo. Hoy, todos sabemos que ese regalo consisti&oacute; en echar al&nbsp;cazo&nbsp;de aceite hirviendo un cachorro de escasos meses de vida.&nbsp;Por las fechas, probablemente &eacute;ste a su vez fue un regalo de Navidad que fue desechado a la calle como regalo objeto, como cualquier objeto que con el tiempo ha dejado de interesarnos.</p>
+
+<p>Al caso de Tec&aacute;mac se suma una larga lista de distintos sucesos de extrema crueldad que han sido visibilizados &uacute;ltimamente por azar, pero que es una persistente norma, como, por ejemplo, en los centros de exterminio llamados antirr&aacute;bicos, los cuales permanecen herm&eacute;ticos porque si tuvieran paredes de cristal ver&iacute;amos reflejadas en ellos nuestras miserias como sociedad.</p>
+
+<p>Nos dar&iacute;amos cuenta de que, aunque con diferentes m&eacute;todos seg&uacute;n testimonios, tambi&eacute;n llegar a quemar vivos a miles de perros y gatos a trav&eacute;s de la electrocuci&oacute;n o a masacrarlos brutalmente a palos y hachazos, como se supo recientemente en la ciudad de Monclova, Coahuila, por los otrora admirados bomberos de esa localidad.</p>
+
+<p>Somos una sociedad activamente c&oacute;mplice de esa violencia, de la que todos hemos sido testigos y ahora nos lamentamos al comprar, vender, reproducir, abandonar animales que por siglos nos han acompa&ntilde;ado, y de otros que hemos arrancado sin compasi&oacute;n a su h&aacute;bitat junto con una autoridad ap&aacute;tica y corrupta que permite e incluso promueve su venta y/o tr&aacute;fico indiscriminado.</p>
+
+<p>Se&ntilde;or presidente, se vot&oacute; a favor en la C&aacute;mara de Diputados la modificaci&oacute;n al art&iacute;culo 73 por mayor&iacute;a absoluta, ahora la minuta se encuentra en el Senado para su an&aacute;lisis y anuencia en el siguiente periodo legislativo, y as&iacute; poder expedir la primera Ley General de Protecci&oacute;n Animal antes de que termine su mandato. Sin embargo, es fundamental, reitero, la reforma constitucional al art&iacute;culo 4&ordm; para que los animales sean considerados sujetos de derecho por tratarse de seres sintientes; entre tanto, los seguiremos considerando objetos de nuestra propiedad que podemos masacrar y torturar impunemente.</p>
+
+<p>Las consecuencias de desastrosas de semejante consideraci&oacute;n es el nuevo caso que se viraliz&oacute; este fin de semana en Puebla de una joven que se apropi&oacute; del perro llamado Huellitas, al cual, as&iacute; lo confes&oacute;, s&oacute;lo quer&iacute;a para torturarlo lentamente por diversi&oacute;n. La ausencia de valores jur&iacute;dicos, culturales y morales nos forma para cosificar a los animales y nos transforma en monstros.</p>
+
+<p>Por otro lado, una noticia esperanzadora de&nbsp;La Jornada&nbsp;con fecha del 10 de&nbsp;junio,&nbsp;dio a conocer que representantes mayas de Hopelch&eacute;n, apelando a su derecho como pueblo originario, presentaron un juicio de amparo ante juzgados federales por el uso excesivo de agrot&oacute;xicos y se admiti&oacute; la demanda. Lo m&aacute;s importante es que por primera vez en M&eacute;xico se abre la posibilidad con este juicio que se reconozca a las abejas como sujetos de derechos como &uacute;nica forma de protegerlas.</p>
+
+<p>S&oacute;lo con un cambio de consciencia, fruto de las iniciativas, acciones y estrategias correspondientes se podr&aacute; evitar el aniquilamiento sistem&aacute;tico de millones de abejas o que se vuelva arrojar un cachorro vivo como un regalo objeto a un&nbsp;cazo&nbsp;de aceite hirviendo.</p>
+
+<p>Se&ntilde;or presidente, usted coment&oacute; en este espacio el 19 de mayo de 2022 que, una vez revisado el proyecto del Movimiento Consciencia contra la Crueldad Animal, el propio Ejecutivo podr&iacute;a enviarlo como iniciativa de ley.</p>
+
+<p>La pregunta es: &iquest;contemplar&iacute;a la posibilidad de presentar usted mismo esta reforma constitucional al art&iacute;culo 4&ordm;? Supuestamente ya se cuenta con el aval de todos los grupos parlamentarios, porque evidentemente no se trata s&oacute;lo de animales.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Muy bien.</p>
+
+<p>Pues s&iacute;, estamos de acuerdo, hay que continuar con el proceso en el Congreso para que se apruebe en el Senado la reforma legal y s&iacute; vamos nosotros a presentar una iniciativa para la reforma al art&iacute;culo 4&ordm;, lo puedo asegurar.</p>
+
+<p>Vamos a esperar el nuevo periodo de sesiones, pero ya vamos a empezar a trabajar porque el art&iacute;culo 4&ordm; tambi&eacute;n debe modificarse en lo que tiene que ver con pensiones, porque se estableci&oacute; en la reforma que la pensi&oacute;n a los adultos mayores se entregaba a partir de los 68 a&ntilde;os, as&iacute; est&aacute; en el art&iacute;culo 4&ordm;, y a partir de los 65 a&ntilde;os a comunidades ind&iacute;genas y afromexicanas, Pero ya se est&aacute; entregando a partir de los 65 a&ntilde;os de manera universal; sin embargo, en la constituci&oacute;n qued&oacute; establecido a los 68 a&ntilde;os.&nbsp;</p>
+
+<p>Entonces, vamos a corregir eso, tambi&eacute;n lo de la discapacidad, que va a ser universal, y esto que tiene que ver con el trato humano respecto a los animales, entre otras cosas, para la reforma al art&iacute;culo 4&ordm; de la Constituci&oacute;n.</p>
+
+<p>Es un paquete de iniciativas que voy a enviar a partir de septiembre de cuando inicie el nuevo periodo, reformas constitucionales, eso es lo que puedo comentar.</p>
+
+<p>Y tambi&eacute;n lo que hac&iacute;as referencia, sobre lo que est&aacute; pasando en la pen&iacute;nsula, la protecci&oacute;n a quienes producen miel y tienen un maltrato, abejas que no tienen ya su alimento porque hay abuso en desmonte, en tala, en uso de agroqu&iacute;micos, eso lo estamos atendiendo.&nbsp;</p>
+
+<p>Ayer precisamente habl&eacute; con Mar&iacute;a Luisa sobre este asunto. Ser&iacute;a bueno que lo comentaras, la pl&aacute;tica de ayer, sobre la comunidad menonita. Porque son bienvenidos los menonitas, siempre se les ha respetado en M&eacute;xico, como a todos los migrantes, a todos los que han hecho de M&eacute;xico su hogar; sin embargo, a veces por sus actividades productivas no se respeta la naturaleza, y usan agroqu&iacute;micos y transg&eacute;nicos, y no se cumple con el marco legal.</p>
+
+<p>Entonces, aprovecho para hacerles un llamado porque no queremos la confrontaci&oacute;n legal, el que la Procuradur&iacute;a de Medio Ambiente sancione, no, hay que todos ayudar a que se cumpla con la legalidad y se cuide el territorio, la naturaleza.</p>
+
+<p>Entonces, si puedes explicarlo, y tambi&eacute;n lo del&nbsp;fracking, la instrucci&oacute;n.&nbsp;</p>
+
+<p>MAR&Iacute;A LUISA ALBORES GONZ&Aacute;LEZ:&nbsp;S&iacute;, gracias. S&iacute;, compartir que gracias al decreto que saca el presidente el 31 de diciembre del 2020, que es un decreto que precisa dos cosas:</p>
+
+<p>Una, que no se permita el uso del glifosato como una sustancia que es de herbicida. Normalmente el glifosato va ligado a&nbsp;OGM.</p>
+
+<p>Entonces, en ese sentido compartirles que por &uacute;nica ocasi&oacute;n e hist&oacute;ricamente en este pa&iacute;s en agosto del 2021, no del 22, del 2021, logramos reunir 12 gobernadores menonitas, esto en el estado de Campeche. Y en esa reuni&oacute;n hicimos un acuerdo, un acuerdo. Por instrucci&oacute;n del presidente, siempre vamos al di&aacute;logo y a la pl&aacute;tica. Y en ese acuerdo el planteamiento fue el que la forma en que ellos ocupan el territorio es diferente a la forma en que se ocupa por parte de quienes han estado ah&iacute;.&nbsp;</p>
+
+<p>Compartirles que normalmente, en el caso de los menonitas, lo que siembran es soya, pero es soya OGM, o sea, soya transg&eacute;nica. Cuando se siembra un paquete que es OGM normalmente lleva un paquete de muchos agrot&oacute;xicos, dentro de esos agrot&oacute;xicos viene el glifosato como una parte de lo que se ocupa. Ese glifosato, que es una sustancia qu&iacute;mica que se ocupa en vez del machete, desde hacerlo manual, sino como la parte de herbicida.</p>
+
+<p>En ese sentido, empezamos a avanzar para el caso Campeche y ayer justo le compart&iacute;a, le comentaba al presidente, que seguimos teniendo a diferentes grupos menonitas en diferentes lugares, pero esa presi&oacute;n ya la tenemos en nuestras &aacute;reas naturales protegidas.</p>
+
+<p>Recordar a todas las mexicanas y los mexicanos que nuestras &aacute;reas naturales protegidas, su objeto es la conservaci&oacute;n, el cuidado de determinada flora y fauna del espacio y del lugar.</p>
+
+<p>En este sentido, el planteamiento e instrucci&oacute;n del presidente es que nosotros hagamos una revisi&oacute;n directamente con la Comisi&oacute;n Nacional de &Aacute;reas Naturales Protegidas, ver el marco legal que tenemos.&nbsp;</p>
+
+<p>Y compartirles que ah&iacute; justo en estos espacios hay una prohibici&oacute;n de uso tambi&eacute;n de agrot&oacute;xicos, pero s&iacute; me gustar&iacute;a hacer hincapi&eacute; que toda la pen&iacute;nsula de Yucat&aacute;n tiene, ha sido preponderantemente de un uso de apicultura, esto ya tiene much&iacute;simos a&ntilde;os, y que tambi&eacute;n dentro de la parte de la apicultura tambi&eacute;n se hace la&nbsp;melipolnicultura, la&nbsp;melipolniculturaque es a partir de lo que trabajaban los mayas a trav&eacute;s de una abejita, que es una abeja nativa mexicana sin aguij&oacute;n.</p>
+
+<p>Entonces, tenemos relictos en toda la pen&iacute;nsula donde las y los mayas cultivaban, trabajaban desde la milpa maya, que siempre se refiere en este caso el arque&oacute;logo Diego Prieto, pero tambi&eacute;n siempre combinado, y esa combinaci&oacute;n viene siendo en este caso con las abejas.</p>
+
+<p>Entonces, el planteamiento es que podamos seguir trabajando, dialogando, pero que hagamos valer lo que ya est&aacute; en la Constituci&oacute;n. Y compartir que los espacios que son &aacute;reas naturales protegidas es por instrucci&oacute;n que tenemos nosotros que cuidar y tambi&eacute;n actuar.</p>
+
+<p>En el caso del&nbsp;fracking,&nbsp;tambi&eacute;n es instrucci&oacute;n por parte de nuestro presidente que no haya&nbsp;fracking&nbsp;y entonces la instrucci&oacute;n es que no haya&nbsp;fracking&nbsp;ni para exploraci&oacute;n.</p>
+
+<p>Es cuanto, presidente.</p>
+
+<p>INTERLOCUTORA:&nbsp;Es todo, se&ntilde;or presidente, muchas gracias.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;De acuerdo, muy bien. Bueno, pues vamos con Z&oacute;simo.</p>
+
+<p>PREGUNTA:&nbsp;Buenos d&iacute;as, se&ntilde;or presidente; buenos d&iacute;as, servidoras y servidores p&uacute;blicos; buenos d&iacute;as a todas y a todos.</p>
+
+<p>Z&oacute;simo Camacho, de la revista&nbsp;Contral&iacute;nea.</p>
+
+<p>Se&ntilde;or presidente, pues comentarle que af&iacute;nales del sexenio pasado la Procuradur&iacute;a General de la Rep&uacute;blica cerr&oacute; un expediente de dos denuncias penales que hab&iacute;a presentado la Unidad de Inteligencia Financiera sobre una red precisamente financiera de empresas constructoras que hab&iacute;an sido beneficiadas con concesiones y permisos para las construcciones de obras viales en las entonces alcald&iacute;as de la Magdalena Contreras y &Aacute;lvaro Obreg&oacute;n, y tambi&eacute;n hab&iacute;an sido beneficiadas para el desarrollo inmobiliario en la zona residencial de Santa Fe.</p>
+
+<p>transferencias internacionales a Suiza, Francia, Estados Unidos y Canad&aacute;.</p>
+
+<p>Luego, en la integraci&oacute;n de las averiguaciones previas, que dur&oacute; dos a&ntilde;os y medio, la procuradur&iacute;a solicit&oacute; informaci&oacute;n financiera a Suiza y a Francia; pero antes de terminar el gobierno de Enrique Pe&ntilde;a Nieto, sospechosamente esta PGR, que entonces encabezaba Murillo Karam y Alberto El&iacute;as Beltr&aacute;n, determin&oacute; el no ejercicio de la acci&oacute;n penal y toda la informaci&oacute;n reunida se envi&oacute; al archivo muerto.</p>
+
+<p>En&nbsp;Contral&iacute;nea&nbsp;hemos publicado un reportaje de este hecho que involucra de manera directa al exsecretario de Relaciones Exteriores, Marcelo Ebrard cuando fue jefe de&nbsp;Gobierno en la capital, porque &eacute;l otorg&oacute; los permisos y concesiones a las empresas constructoras y&nbsp;&eacute;stas, a cambio, presuntamente, y es lo que dice el expediente de la UIF, entreg&oacute; departamentos de lujo en Santa Fe a los hermanos y a las exesposas de Ebrard y a otras personas cercanas.</p>
+
+<p>Nosotros, antes de publicar, buscamos al exsecretario Marcelo Ebrard y nos recibi&oacute; en su oficina de la Secretar&iacute;a de Relaciones Exteriores, pero se neg&oacute; a explicar por qu&eacute; su familia fue beneficiada, como dice este expediente, con esas propiedades.</p>
+
+<p>Las preguntas, se&ntilde;or presidente, son: primero, si usted ten&iacute;a conocimiento de este expediente que integr&oacute; la Unidad de Inteligencia Financiera y tambi&eacute;n si usted considera&nbsp;que&nbsp;si alguien busca sustituirlo en la Presidencia de la Rep&uacute;blica, sea quien sea, pues deber&iacute;a enfrentar, dar la cara y explicar cu&aacute;l fue su participaci&oacute;n en hechos tan delicados como este.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Pues lo m&aacute;s conveniente ser&iacute;a que yo no hablara, pero como ya se dio a conocer aqu&iacute; y s&iacute; pienso que perjudica a Marcelo Ebrard, tengo que defender a Marcelo.&nbsp;</p>
+
+<p>No conoc&iacute;a de este expediente, pero &iquest;pero por qu&eacute; lo defiendo?No es por estar tomando partido, yo nada m&aacute;s voy a esperar lo que opine la gente. &iquest;Para d&oacute;nde va Vicente?&nbsp;Para donde va la gente. Voy a ir hacia lo que gente diga.</p>
+
+<p>No hay, no ha habido&nbsp;tapado,&nbsp;destapado,&nbsp;dedazo,&nbsp;cargada. El presidente no va a imponer a su sucesor como era antes, no somos iguales, y tengo que buscar que haya equidad.</p>
+
+<p>No sab&iacute;a esto, pero s&iacute; sab&iacute;a que Marcelo fue objeto de una persecuci&oacute;n en ese tiempo. Por eso es extra&ntilde;o que se haya cancelado un proceso en su contra, porque Marcelo era mal visto por el gobierno anterior, me consta. Tuvo incluso que irse a una especie de exilio voluntario, porque hab&iacute;a una lanzada en contra de &eacute;l, se le acos&oacute;, porque le echaban la culpa de que &eacute;l hab&iacute;a entregado los documentos del Registro P&uacute;blico de la Propiedad sobre la famosa casa blanca y a partir de ah&iacute; lo empezaron a hostigar.</p>
+
+<p>Entonces, hay que tener estos elementos. Lo mismo, no puede haber texto sin contexto, no puede haber una denuncia sin tener todos estos alimentos, y m&aacute;s en esta temporada en que se est&aacute; decidiendo o se va a decidir sobre qui&eacute;n a ser coordinador o coordinadora de la defensa de la transformaci&oacute;n.</p>
+
+<p>Eso es lo que puedo comentar, y que se siga investigando.&nbsp;</p>
+
+<p>Les pedir&iacute;a de manera muy respetuosa, afectuosa, que no se traten estos temas o que me lleven a tratar estos asuntos porque, voy a contestar, &iquest;eh? Y&nbsp;ustedes son libres, pero s&iacute; no quiero participar y que se sienta que estoy a favor o en contra. Tengo que mantener el equilibrio, estoy obligado a eso, en este caso y tambi&eacute;n en la elecci&oacute;n constitucional.</p>
+
+<p>Ya no hay se&ntilde;al, no hay l&iacute;nea. Como se dijo en un tiempo, nada m&aacute;s que no se cumpli&oacute;, la l&iacute;nea es que no hay l&iacute;nea, y ya.</p>
+
+<p>INTERLOCUTOR:&nbsp;Le agradezco mucho su respuesta, se&ntilde;or presidente. Y tambi&eacute;n le comento que, por supuesto, son sujetos de investigaci&oacute;n todos los precandidatos, independientemente del partido en el que se encuentren. Hemos dado cuenta incluso aqu&iacute; tambi&eacute;n de aquellos que son de la alianza Va por M&eacute;xico y a todos aquellos, como cada sexenio, precisamente lo hacemos en&nbsp;Contral&iacute;nea.&nbsp;</p>
+
+<p>Y tambi&eacute;n, se&ntilde;or presidente,&nbsp;comentarle&nbsp;que precisamente en la revista estamos haciendo una investigaci&oacute;n acerca de las asociaciones civiles y fundaciones, y hemos encontrado diversas irregularidades, como, por ejemplo, que pagan sueldos exorbitantes a sus integrantes, hacen transferencias multimillonarias a para&iacute;sos fiscales y cuentan con guardaditos millonarios; adem&aacute;s, incurren en especulaci&oacute;n en mercados financieros, cuando se supone que son estas organizaciones sin fines de lucro.</p>
+
+<p>Hemos ya documentado varios ejemplos, algunos de ellos son la organizaci&oacute;n Vamos M&eacute;xico, de Martha Sahag&uacute;n; Centro Fox, de Vicente Fox Quesada; Libertad y Responsabilidad Democr&aacute;tica, de Margarita Zavala; Mexicanos contra la Corrupci&oacute;n y la Impunidad, de Claudio X. Gonz&aacute;lez; Fundaci&oacute;n&nbsp;Kaluz, de Antonio del Valle Perochena; Fundaci&oacute;n&nbsp;Maelva, de Valent&iacute;n Diez&nbsp;Morodo; e incluso la Fundaci&oacute;n Conde Valenciana, que preside el actual rector de la Universidad Nacional Aut&oacute;noma de M&eacute;xico, Enrique&nbsp;Graue.</p>
+
+<p>De esta &uacute;ltima, baste revisar sus archivos financieros para darse cuenta&nbsp;que&nbsp;en realidad se trata de un negocio porque&hellip; Y no de una asociaci&oacute;n altruista, presidente. En 2022 tuvo ingresos superiores a los 604 millones de pesos, de los cuales 350 millones le fueron reportados precisamente por las consultas y 207 millones por operaciones oftalmol&oacute;gicas.</p>
+
+<p>El a&ntilde;o pasado esta fundaci&oacute;n especul&oacute; con 115 millones y al doctor Enrique&nbsp;Graue&nbsp;le transfiri&oacute; 103 mil pesos, esto revelan sus propios archivos contables; y s&oacute;lo atendi&oacute; a 75 personas de forma gratuita, pero el costo de sus procedimientos fue pagado con los donativos que recibe, es decir, la fundaci&oacute;n&nbsp;jam&aacute;s,&nbsp;jam&aacute;s perdi&oacute;.</p>
+
+<p>Presidente, la pregunta es si los titulares del SAT, Antonio Mart&iacute;nez; de la UIF, Pablo G&oacute;mez, ya est&aacute;n revisando que est&aacute; pasando con este fraude a la hacienda p&uacute;blica, porque quiz&aacute; la gente no lo sabe, pero las grandes empresas crean fundaciones pues para no pagar impuestos, es decir, para evadir al fisco. Y otras fundaciones que no nacen de grandes contribuyentes tambi&eacute;n son utilizadas para lo mismo, le donan dinero deducible al ciento por ciento de los impuestos, es decir, es dinero que nunca entra al erario.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;S&iacute;, constantemente tanto la oficina de Inteligencia Financiera de Hacienda, como el SAT, est&aacute;n haciendo revisiones sobre c&oacute;mo operan estas fundaciones, si realmente ayudan a la gente o son mecanismos creados para evadir el pago de impuestos o para lavar dinero. Entonces, s&iacute; se hace constantemente una investigaci&oacute;n.</p>
+
+<p>Si se encuentra algo, ya todos los servidores p&uacute;blicos tienen la instrucci&oacute;n de proceder. Si hay algo irregular se tiene que presentar una denuncia, ya sea que lo atienda el SAT, que lo atienda la Procuradur&iacute;a Fiscal o la&nbsp;Fiscal&iacute;a General&nbsp;de la Rep&uacute;blica, porque nosotros, lo dije desde el principio, no vamos a perseguir a nadie, no vamos a fabricar delitos, no es mi fuerte la venganza; sin embargo, no queremos ser c&oacute;mplices, encubridores.</p>
+
+<p>Si el presidente o cualquier funcionario se entera de un presunto il&iacute;cito, tiene que denunciarlo, incluso cualquier ciudadano, todos tenemos que hacerlo, y esa s&iacute; es una pr&aacute;ctica que se aplica desde que llegamos al gobierno.</p>
+
+<p>Entonces, acerca de lo que est&aacute;s mencionando, es muy probable que Pablo G&oacute;mez con el SAT y Hacienda atiendan este asunto.</p>
+
+<p>INTERLOCUTOR:&nbsp;&iquest;Cree que pudi&eacute;ramos tener alg&uacute;n informe, presidente, aqu&iacute; en la conferencia de prensa sobre estos funcionarios, incluido tambi&eacute;n el propio procurador fiscal, sobre este tema?</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Si tenemos informaci&oacute;n, s&iacute;, si hay elementos; si no, nada. O sea, si no hay nada ilegal, no informamos, o sea, les decimos: no se encontraron elementos; y si hay, tampoco es para hacer un juicio sumario, sino para presentar ante la autoridad competente la denuncia, que puede ser el SAT si se trata de una evasi&oacute;n en los impuestos, la falta de actualizaci&oacute;n en el pago de impuestos; o si es un delito, un presunto delito de lavado de dinero a la Fiscal&iacute;a de la Rep&uacute;blica y luego a los jueces.&nbsp;</p>
+
+<p>O sea, as&iacute; es, sin consigna de perjudicar a nadie, pero s&iacute; es importante tambi&eacute;n que no haya tolerancia frente a la corrupci&oacute;n,&nbsp;cero corrupci&oacute;n, que desterremos la corrupci&oacute;n de nuestro pa&iacute;s y que se estigmatice el corrupto, porque nada ha da&ntilde;ado m&aacute;s a M&eacute;xico que la corrupci&oacute;n pol&iacute;tica.</p>
+
+<p>Ya lo he dicho muchas veces: eso no es una pandemia, es una peste, es peor que una pandemia, y tenemos que acabarla por completo porque de eso depende la vida, el bienestar, la felicidad de nuestro pueblo; de eso depende que no haya una monstruosa desigualdad econ&oacute;mica y social, que unos cuantos vivan colmados de atenciones y de privilegios, mientras la mayor&iacute;a carece hasta de lo m&aacute;s indispensable.</p>
+
+<p>Y en M&eacute;xico el problema principal era la corrupci&oacute;n., No quiere decir que ya se termin&oacute;, porque estaba bastante arraigada, pero s&iacute; la hemos estado arrancando de ra&iacute;z, y no nos vamos a cansar en acabar con la corrupci&oacute;n porque da&ntilde;a much&iacute;simo, es una peste, un c&aacute;ncer.&nbsp;</p>
+
+<p>Y lo peor era que los corruptos antes ni siquiera perd&iacute;an su respetabilidad, robaban y hasta les aplaud&iacute;an, eran como modelos a seguir: &lsquo;A m&iacute; no me des, ponme donde hay&rsquo;, &lsquo;el que no transa no avanza&rsquo; &lsquo;y la moral es un &aacute;rbol que da moras y que sirve para una&hellip; para nada&rsquo;, &lsquo;y hay que triunfar a toda costa, sin escr&uacute;pulos morales de ninguna &iacute;ndole&rsquo;, &lsquo;y como te ven te tratan&rsquo;, &lsquo;y qu&eacute; bueno que ya est&aacute;s progresando&rsquo;, &lsquo;y estudia para que cuando seas grande sea como don Fulano, don Mengano, don Perengano, un reverendo ladr&oacute;n&rsquo;, se pon&iacute;a de ejemplo a esa gente.</p>
+
+<p>Nada m&aacute;s que tenemos una herencia cultural tan profunda, grandiosa, extraordinaria, &uacute;nica, que nos protegi&oacute; y no pudieron, no pudieron acabar con la principal riqueza de M&eacute;xico, la honestidad de su pueblo, los corruptos, porque tambi&eacute;n eso es muy importante. La corrupci&oacute;n no se origina, ni se fomenta de abajo hacia arriba, es de arriba para abajo.</p>
+
+<p>Abajo est&aacute;n los valores, una gran reserva de va lores culturales, morales, espirituales, en las familias, en los pueblos, por eso fue un desprop&oacute;sito el decir que la corrupci&oacute;n era parte de la cultura del pueblo de M&eacute;xico, imag&iacute;nense. Pero no hay mala intenci&oacute;n, no hay mala fe en decir eso, y hay muchos que opinan as&iacute;, millones, es un pensamiento individualista, conservador, clasista, racista, discriminatorio que fue creciendo como una mancha negra; afortunadamente no pudo eclipsar todo, y por eso M&eacute;xico siempre sale adelante por sus culturas, es lo que nos ha salvado.</p>
+
+<p>Ahora, esa es su fortaleza. Por eso est&aacute; Diego aqu&iacute; cada semana, porque queremos fortalecer&nbsp;nuestra identidad, nuestra idiosincrasia, que es lo fundamental, ese es el alma de M&eacute;xico, las culturas de nuestro pueblo.</p>
+
+<p>Cuando le explico a un gobernante extranjero c&oacute;mo es M&eacute;xico culturalmente, que es un mosaico cultural, y su potencial, recuerdo la caricatura de Abel Quezada, que yo la interpreto de otra manera, pero&hellip; Una vez hizo un cart&oacute;n Abel Quezada, gran caricaturista de&nbsp;Exc&eacute;lsior, pintor extraordinario, de los que sali&oacute; con don Julio cuando los expulsaron de&nbsp;Exc&eacute;lsior, y seg&uacute;n Abel, cuando Dios nuestro creador reparti&oacute; los bienes a todos los pa&iacute;ses del mundo, iba por los cielos y al llegar a Brasil: &lsquo;Aqu&iacute; hay que darles mucha agua, selvas, un poco de petr&oacute;leo, un poco de miner&iacute;a&rsquo;, y luego as&iacute; en Guatemala, Honduras, El Salvador, selva tropical, agua, pero no petr&oacute;leo.</p>
+
+<p>Y ya cuando van sobre M&eacute;xico le dice el Creador al ayudante: &lsquo;Aqu&iacute; hay que darles selvas, agua, petr&oacute;leo, gas, oro, plata, cobre&rsquo;, y le dice el ayudante: &lsquo;Se&ntilde;or, se le est&aacute; pasando la mano, le est&aacute; dando mucho a M&eacute;xico&rsquo;.</p>
+
+<p>&lsquo;No, no, tambi&eacute;n dale &mdash;no, quita eso, porque yo lo compongo&mdash;&nbsp;dale&nbsp;a los pol&iacute;ticos corruptos &mdash;no voy a decirles cu&aacute;les, pero&hellip;&mdash;y esos se van a hacer cargo o dales la corrupci&oacute;n y eso les va a impedir la utilizaci&oacute;n de sus riquezas&rsquo;.&nbsp;</p>
+
+<p>Entonces, la clave estar en acabar con ese mal y M&eacute;xico renace.</p>
+
+<p>&iquest;Qu&eacute; es lo que est&aacute; sucediendo?</p>
+
+<p>Aunque no les guste a nuestros adversarios, pero las cuentas, los datos de la econom&iacute;a en M&eacute;xico, del bienestar en M&eacute;xico, todos los datos, incluido lo que tiene que ver con la seguridad, ponen a M&eacute;xico como un gran pa&iacute;s, lo que es, lo que ha sido siempre.</p>
+
+<p>Entonces, por eso hay que seguirle pegando a la corrupci&oacute;n y a la impunidad, aunque se enojen. Y tambi&eacute;n convenciendo, persuadiendo que el estilo de vida orientado a lo material no produce felicidad, y que s&oacute;lo siendo buenos podemos ser felices, y que no s&oacute;lo hay que buscar el bienestar material, sino el bienestar del alma, y hay que poner en pr&aacute;ctica el principio universal del amor al pr&oacute;jimo.</p>
+
+<p>Pero, por eso, t&uacute; preguntas. Todo lo que tiene que ver con corrupci&oacute;n hay que denunciarlo, sea quien sea. Desde luego, no fabricar delitos, no perseguir a nadie, no utilizarlo como propaganda en contra de adversarios, pero no quedarnos callados.</p>
+
+<p>Y el trabajo que ustedes hacen de investigaci&oacute;n es muy bueno, mucho muy bueno.&nbsp;</p>
+
+<p>Lamento mucho lo de la decisi&oacute;n del&nbsp;Proceso, que ya no se va a publicar cada semana, sino cada mes, porque fue una gran revista. Y don Julio&nbsp;Scherer, bueno, dicho por Carlos Fuentes, que julio&nbsp;Scherer&nbsp;era el Francisco Zarco del siglo XX.&nbsp;Entonces, por eso es muy lamentable que ahora van a publicar el impreso cada mes, no cada semana.</p>
+
+<p>Sin embargo, tambi&eacute;n hay que tomar en cuenta que las cosas han cambiado, ahora ya no se usa mucho el papel, ya los j&oacute;venes no andan buscando el peri&oacute;dico, la revista, las revistas en los puestos donde se venden los peri&oacute;dicos, las revistas, ya todo es electr&oacute;nico.&nbsp;</p>
+
+<p>Y se puede tener un peri&oacute;dico, una revista, en una plataforma de internet, y es irse acomodando a las nuevas circunstancias, independientemente tambi&eacute;n de la l&iacute;nea editorial, que eso muchos no han querido revisarla y por eso tambi&eacute;n no les ha ido bien, porque en M&eacute;xico est&aacute; muy sesgado todo lo informativo. Por eso hablo de que no hay medios de informaci&oacute;n, sino de manipulaci&oacute;n. Para leer mentiras e insultos, y calumnias, pues con el&nbsp;Reforma&nbsp;basta, para qu&eacute; m&aacute;s. Pero hay much&iacute;simos as&iacute;, o sea, ese modelo de periodismo.</p>
+
+<p>Ya son muy pocos los que tienen una pol&iacute;tica editorial verdaderamente independiente, profesional, plural. Vean al&nbsp;Reforma,&nbsp;no hay un solo articulista, uno medianamente plural, todos son escritores por consigna, todos. Eso pues cuenta mucho, porque la gente est&aacute; muy consciente, muy politizada.</p>
+
+<p>Y como siempre digo, no se puede poner vino nuevo en botellas viejas, entonces s&iacute; hay que hacer un ejercicio para encontrar, como dicen los f&iacute;sicos o los que hablan f&iacute;sico, los nuevos nichos, hay que ver qu&eacute; quiere saber la gente, qu&eacute; le importa.</p>
+
+<p>Y tambi&eacute;n una condici&oacute;n&nbsp;sine qua non, hablando f&iacute;sico: tomar en cuenta al pueblo, el pueblo existe, respetar al pueblo, no ningunearlo, como era antes y sigue siendo, que est&aacute;n pensando nada m&aacute;s en el &lsquo;c&iacute;rculo rojo&rsquo;, la llamada sociedad pol&iacute;tica, la llamada clase pol&iacute;tica, pues por eso no avanzan.</p>
+
+<p>Y despojarse de odios entender los procesos econ&oacute;micos, sociales, comprenderlos, no aferrarse, no caer en la autocomplacencia, es de sabios cambiar de opini&oacute;n.</p>
+
+<p>Pero, bueno, eso es.</p>
+
+<p>INTERLOCUTOR:&nbsp;Le agradezco, se&ntilde;or presidente.</p>
+
+<p>Y precisamente en estos asuntos de corrupci&oacute;n y que adem&aacute;s involucra a la universidad, estos espacios, a veces donde no se arroja todav&iacute;a luz, que est&aacute;n en la administraci&oacute;n p&uacute;blica porque es parte incluso de la propia administraci&oacute;n p&uacute;blica y que indignan mucho, tuvimos acceso a una serie de auditor&iacute;as internas y procedimientos de responsabilidad administrativa que dan cuenta de desfalcos por m&aacute;s de 20 millones de pesos en la UNAM, en espec&iacute;fico en la Direcci&oacute;n General de Divulgaci&oacute;n de la Ciencia. Los documentos, de los cuales tenemos copia, dan cuenta de un desaseo generalizado en la ejecuci&oacute;n de recursos p&uacute;blicos.</p>
+
+<p>&iquest;De qu&eacute; estamos hablando?</p>
+
+<p>De contratos asignados irregularmente, pagos por bienes que nunca se entregaron y tambi&eacute;n pagos por servicios que nunca se hicieron y, entre otros hallazgos, compras con sobreprecios. Se trat&oacute; de un&nbsp;modus operandi&nbsp;que se vivi&oacute; ah&iacute; en esta Direcci&oacute;n General de Divulgaci&oacute;n de la Ciencia entre 2017 y 2021.</p>
+
+<p>Esta dependencia a&uacute;n es encabezada por C&eacute;sar Augusto Dom&iacute;nguez P&eacute;rez Tejada. Y por estos hechos fue destituido e inhabilitado hasta este momento por 44 a&ntilde;os para ocupar alg&uacute;n puesto en la UNAM, quien fuera titular de la unidad administrativa Daniel Zamora Fabila; todav&iacute;a un proceso est&aacute; abierto y se encamina a imponer m&aacute;s sanciones en este &uacute;nico exfuncionario.</p>
+
+<p>Sin embargo, los recursos no se recuperan, las investigaciones son concluidas por la UNAM sin informar a la sociedad, ni dar vista a las autoridades y sin que las indagatorias tiendan a desarticular la red de corrupci&oacute;n que hace posible este tipo de desfalcos.</p>
+
+<p>La pregunta es, se&ntilde;or presidente, si su administraci&oacute;n no est&aacute; considerando una reforma que devuelva a la UNAM al pueblo de M&eacute;xico y que, con el respeto a su autonom&iacute;a y libertad de c&aacute;tedra, obligue a que rinda cuentas de los recursos que ejerce.</p>
+
+<p>Este tipo de auditor&iacute;as pr&aacute;cticamente no est&aacute;n, nunca se dan a conocer y la UNAM cierra todo y sanciona, dice que sanciona al interior sin siquiera informar a las autoridades y sin que los recursos se recuperen.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Es un tema que ya lo hemos planteado en otras ocasiones, debe de respetarse la autonom&iacute;a universitaria y, si hay irregularidades, esto corresponde resolverlo a los propios universitarios, a los alumnos, a los trabajadores, a los acad&eacute;micos, ellos son los que tienen que atender esta situaci&oacute;n. Lo mismo en el caso del Poder Judicial, que es un poder independiente.&nbsp;</p>
+
+<p>Desde luego, s&iacute; se trata de una afectaci&oacute;n a la sociedad en su conjunto, una afectaci&oacute;n grave, porque nos metemos a veces a se&ntilde;alar el comportamiento de jueces, porque se trata de asuntos delicad&iacute;simos en donde liberan a presuntos homicidas que ya tienen antecedentes penales y que van a salir a seguir cometiendo il&iacute;citos.</p>
+
+<p>Bueno, imag&iacute;nense el riesgo que corren polic&iacute;as, integrantes de la Guardia Nacional, de Marina, del Ej&eacute;rcito en la detenci&oacute;n de bandas de delincuentes, los que se dedican al robo de combustibles, al huachicol, para que un juez deje en libertad a los jefes, las represalias despu&eacute;s. Eso es muy delicado.</p>
+
+<p>Entonces, por eso, s&iacute; son poderes independientes, pero cuando menos se&ntilde;alar. Nosotros no vamos a destituir al juez, eso le corresponde hacerlo al Poder Judicial; de manera concreta, espec&iacute;fica, al Consejo de la Judicatura. Se puede presentar la denuncia, pero ellos son los que tienen que decidir, pero s&iacute; es importante respetar la autonom&iacute;a.</p>
+
+<p>INTERLOCUTOR:&nbsp;El problema, se&ntilde;or presidente, es que la comunidad universitaria pues es muy diversa, plural pol&iacute;ticamente, muy pujante, vibrante, tiene una vida pol&iacute;tica muy intensa, pero esta comunidad universitaria pr&aacute;cticamente no est&aacute; representada, es una c&uacute;pula universitaria conocida popularmente como la burocracia dorada quien pr&aacute;cticamente tiene el control de los &oacute;rganos de gobierno de la UNAM, y en este sentido no hay una posibilidad de una democratizaci&oacute;n o por lo menos de apertura para rendici&oacute;n de cuentas en la UNAM.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Pero se est&aacute;n cambiando las cosas en todos lados, ya no es lo mismo. Bueno, el hecho de que t&uacute; lo est&eacute;s denunciando, &iquest;cu&aacute;ndo se hac&iacute;a una denuncia as&iacute; desde Palacio Nacional, en esta conferencia? Y la gente est&aacute; tomando consciencia y los maestros, y los investigadores, y los trabajadores, y todos ah&iacute; pendientes.</p>
+
+<p>Yo les comentaba que el d&iacute;a 1&ordm; de mayo, el D&iacute;a del Trabajo, me reun&iacute; con todos los dirigentes y uno me dec&iacute;a: &lsquo;No crea, no la tenemos f&aacute;cil&rsquo;, dec&iacute;an los dirigentes, porque constantemente los trabajadores nos est&aacute;n diciendo que votemos en libertad, voto secreto, democracia sindical y que le ayudemos. O sea, yo les pido a ellos siempre que me ayuden y le pido a todos los ciudadanos, porque esto no es labor de un solo hombre, labor de una mujer o de un grupo de hombres y mujeres, no s&oacute;lo es asunto de una &eacute;lite de gobernantes, es asunto de todos. Entonces, cada vez los corruptos la tienen m&aacute;s dif&iacute;cil, m&aacute;s complicada, tambi&eacute;n los delincuentes, el crimen y los delincuentes de cuello blanco.</p>
+
+<p>&iquest;En qu&eacute; la tienen complicada los delincuentes del crimen, por ejemplo? &iquest;En qu&eacute;?</p>
+
+<p>Bueno, que ya no pueden enganchar con facilidad a los j&oacute;venes para llev&aacute;rselos porque ahora est&aacute;n los programas de atenci&oacute;n a los j&oacute;venes, garantizando el derecho al estudio, derecho al trabajo.</p>
+
+<p>&iquest;En qu&eacute; la tienen dif&iacute;cil los corruptos?</p>
+
+<p>En que antes, dec&iacute;a yo, no perd&iacute;an ni siquiera su respetabilidad, se iban cargados de dinero, no se sab&iacute;a qui&eacute;nes eran, en qu&eacute; hab&iacute;an trabajado, supuestamente encargos menores, pero decisivos, eran los que repart&iacute;an el dinero, y hay muchos casos as&iacute;.</p>
+
+<p>Antes hab&iacute;a una olimpiada, un campeonato de futbol, y ah&iacute; iban, los invitaban los contratistas, no los que est&aacute;n aqu&iacute;, los invitaban a los funcionarios todo pagado; ahora no. Antes era muy com&uacute;n, si en una colonia viv&iacute;a un pol&iacute;tico, sobre todo un nuevo rico, fiestas, &iquest;no?, nadie dec&iacute;a nada; ahora imag&iacute;nense que un servidor p&uacute;blico de la 4T haga sus fiestas, invite a artistas y derroche, y cierre las calles.</p>
+
+<p>Yo me acuerdo&nbsp;que&nbsp;en el gobierno anterior, o no s&eacute; si el otro, agarraron el Z&oacute;calo de estacionamiento porque hab&iacute;a un informe aqu&iacute;, o sea, todo el Z&oacute;calo estacionamiento, y pues hab&iacute;a mucha prepotencia.&nbsp;</p>
+
+<p>Entonces, hay que seguir denunciando la corrupci&oacute;n y que en este caso sea los universitarios los que tengan la &uacute;ltima palabra, y todo de manera ordenada, desde luego, sin confrontaci&oacute;n, sin violencia.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Bueno, vamos&hellip;</p>
+
+<p>PREGUNTA:&nbsp;(inaudible) una emergencia, de tres minutos.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;S&iacute;, pero vamos, primero, con Eduardo Esquivel, s&iacute;.</p>
+
+<p>PREGUNTA:&nbsp;Buenos d&iacute;as, se&ntilde;or presidente; buenos d&iacute;as, miembros del gabinete; buenos d&iacute;as, gobernadora.&nbsp;</p>
+
+<p>Eduardo Esquivel Ancona,&nbsp;SDP Noticias.</p>
+
+<p>Se&ntilde;or presidente, tengo dos preguntas y un comentario. Mi primera pregunta tiene que ver con el ma&iacute;z, tiene varias aristas. Ahorita estamos&hellip; El gobierno de los Estados Unidos hace unos meses se acogi&oacute; al cap&iacute;tulo 9&ordm; del Tratado M&eacute;xico-Estados Unidos-Canad&aacute; para ver consultas sobre el ma&iacute;z que ya no queremos aceptar aqu&iacute; en M&eacute;xico, del ma&iacute;z transg&eacute;nico, del ma&iacute;z amarillo transg&eacute;nico y ya no adquirirlo este en el 2025 y ahorita solamente para forraje, para alimento de los animales. Entonces, al no haber&nbsp;resultados, el gobierno de los Estados Unidos se acogi&oacute; al cap&iacute;tulo 31 de este tratado para ense&ntilde;ar m&aacute;s m&uacute;sculo y se uni&oacute; a esta demanda el gobierno de Canad&aacute;.</p>
+
+<p>Y, por otro lado, M&eacute;xico tendr&iacute;a que&hellip; Lo que dicen, que no hay de parte de M&eacute;xico una acci&oacute;n cient&iacute;fica que compruebe que s&iacute; hace da&ntilde;o cuando es evidente que s&iacute; hace da&ntilde;o e inclusive hay analistas que dicen: &lsquo;Bueno, pues si hace 20 a&ntilde;os se est&aacute; comprando y no ha pasado nada&hellip;&rsquo; S&iacute; han pasado cosas y no s&oacute;lo tiene por el glifosato, tiene problemas.</p>
+
+<p>En&nbsp;SDP&nbsp;hemos estado analizando lo que&hellip; Como tiene mucha producci&oacute;n, una sobreproducci&oacute;n de ma&iacute;z amarillo en los Estados Unidos, lo tienen mucho tiempo almacenados y entonces esto provoca que haya hongos y aflatoxinas que tambi&eacute;n hacen mucho da&ntilde;o al cuerpo y no s&eacute;&hellip;&nbsp;</p>
+
+<p>Por otro lado, tenemos un bajo precio del ma&iacute;z blanco en M&eacute;xico porque tenemos de referencia a la bolsa de granos de Chicago, ah&iacute; nom&aacute;s ponen de referencie el ma&iacute;z amarrillo, y aqu&iacute; en M&eacute;xico tomamos de referencia para el ma&iacute;z blanco; entonces, ahorita como hay sobreproducci&oacute;n, y esto es un mercado de oferta y demanda, el precio est&aacute; baj&iacute;simo y entonces est&aacute;n sufri&eacute;ndolo.</p>
+
+<p>Entonces, mi pregunta ser&iacute;a: &iquest;qu&eacute; est&aacute; haciendo el Gobierno de M&eacute;xico para que no se llegue a un panel?, porque esto, como dicen los abogados, m&aacute;s vale un mal acuerdo que un buen pleito, y un panel ser&iacute;a: todo mundo pierde.&nbsp;</p>
+
+<p>Y buscar alternativas tambi&eacute;n para ya no importar tanto ma&iacute;z amarillo para el forraje. Ahora que tuve la oportunidad de ir a cubrir a unos empresarios por el Tren Maya a Yucat&aacute;n; hab&iacute;a uno de los empresarios que tiene en cautiverio venado de cola blanca, o sea, tiene para cr&iacute;a de venado de cola blanca, y no les da ese tipo de forraje, sino &eacute;l siembra una cosa que se llama bot&iacute;n de oro y mandinga, es una planta que utiliza mucho menos agua que la alfalfa, y es un buen alimento forrajero para estos animales que son delicados, y esta planta se da en el sureste.</p>
+
+<p>&iquest;Y qu&eacute; posibilidades hay que se haga una sustituci&oacute;n de este forraje de ma&iacute;z amarillo por estas plantas que har&iacute;an mucho bien?</p>
+
+<p>Y, por otro lado, si se pudiera hacer una bolsa de granos en M&eacute;xico, no depender de Chicago para que si haya esta diferencia entre ma&iacute;z amarillo y ma&iacute;z blanco. Que el ma&iacute;z blanco es de costo mucho m&aacute;s alto, valor nutricional no se diga; el otro, ni se puede para&hellip; Hace da&ntilde;o, y m&aacute;s si es transg&eacute;nico.</p>
+
+<p>Entonces, &iquest;qu&eacute; est&aacute; haciendo M&eacute;xico?, &iquest;y qu&eacute; va a hacer para no llegar al panel?</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;S&iacute;, estamos atendiendo el asunto. Es muy bueno tu planteamiento. Bueno, primero, nosotros no permitimos el uso de ma&iacute;z transg&eacute;nico para consumo humano, fue un compromiso que hicimos desde la campa&ntilde;a y se est&aacute; cumpliendo.</p>
+
+<p>Esto que les coment&oacute; Mar&iacute;a Luisa Albores sobre el&nbsp;fracking, dijimos: no al fracking, y es una solicitud nada menos que de Pemex. Y ayer mismo le dijimos al director de Pemex: No,&nbsp;fracking&nbsp;no. Y lo mismo en este caso del transg&eacute;nico.&nbsp;</p>
+
+<p>S&iacute; hay esta consulta. Estamos trabajando con ellos, con el gobierno de Estados Unidos, explic&aacute;ndoles cu&aacute;l es nuestra postura, les hemos dado ya opciones:</p>
+
+<p>Se ampli&oacute; el plazo para el uso de ma&iacute;z transg&eacute;nico, aunque les molesta mucho que se diga transg&eacute;nico, uno de los reclamos que nos hacen es que yo aqu&iacute; en la ma&ntilde;anera &mdash;porque no es para presumir, pero la ma&ntilde;anera llega lejos, se escucha en varias partes&mdash; no les gusta que yo hable aqu&iacute; de transg&eacute;nicos.</p>
+
+<p>Pero, bueno, el ma&iacute;z amarillo s&oacute;lo para alimento de cerdos, de pollos, para forraje, y el ma&iacute;z blanco para la masa, la tortilla, para alimento humano. Eso ya est&aacute; definido. Se ampli&oacute; el plazo para el uso del ma&iacute;z amarillo en forraje, as&iacute; es, porque ya se venc&iacute;a el plazo.</p>
+
+<p>Nos plantearon que ya hab&iacute;an definido sus procesos de producci&oacute;n, sus cosechas; dijimos: adelante, dos a&ntilde;os para que no haya problemas, dos a&ntilde;os. Sin embargo, siguen insistiendo en que se pueda utilizar el ma&iacute;z amarillo en consumo humano, y no lo vamos a permitir. Por eso es esta consulta, y puede ser que nos lleve a un panel, pero es un asunto de salud p&uacute;blica.</p>
+
+<p>Nosotros lo que les hemos dicho y hemos tratado de convencerlos &mdash;lo que pasa es que son muchos intereses los que est&aacute;n de por medio&mdash; es que hagamos conjuntamente un estudio para saber a ciencia cierta si es transg&eacute;nico o no, y qu&eacute; da&ntilde;os ocasiona a la salud, y que esto es bueno para nosotros y es bueno para ellos, para los consumidores mexicanos y para los consumidores de Estados Unidos.</p>
+
+<p>No han querido aceptar, no han querido aceptar, porque supuestamente tienen dict&aacute;menes de premios Nobel de Biolog&iacute;a, y hay mucho apoyo a centros de investigaci&oacute;n y dem&aacute;s. Entonces, es sencillo: vamos a ponernos de acuerdo nuestras agencias de salud, vamos a trabajar conjuntamente en una investigaci&oacute;n, y ya sabemos si es da&ntilde;ino, no es da&ntilde;ino, y no especulamos.</p>
+
+<p>INTERLOCUTOR:&nbsp;Jap&oacute;n no acepta, Jap&oacute;n, la Uni&oacute;n Europea, no aceptan transg&eacute;nicos.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;S&iacute;, hay muchos pa&iacute;ses que no aceptan. Entonces, en eso estamos.&nbsp;</p>
+
+<p>Y esto se relaciona con un acuerdo que estoy por firmar en esta semana para que en las tortiller&iacute;as s&oacute;lo se use ma&iacute;z blanco y no transg&eacute;nico. Esto va a ir acompa&ntilde;ado del establecimiento de aranceles para que no se importe ma&iacute;z blanco y se compre a los productores nacionales el ma&iacute;z blanco. Porque tambi&eacute;n se dice: &lsquo;Se importa ma&iacute;z blanco m&aacute;s barato&rsquo;; s&iacute;, pero resulta que ese ma&iacute;z blanco tambi&eacute;n es transg&eacute;nico, y tenemos las pruebas.</p>
+
+<p>Entonces, estamos poniendo orden. Y no hay que tenerles miedo a las controversias, porque s&iacute; queremos fortalecer nuestras relaciones econ&oacute;micas, comerciales, M&eacute;xico es el principal socio econ&oacute;mico-comercial de Estados Unidos y nos complementamos y estamos dispuestos a fortalecer la integraci&oacute;n, en los hechos se est&aacute; dando, hay una fiebre de inversi&oacute;n extranjera hacia M&eacute;xico y est&aacute; creciendo mucho el comercio con el Estados Unidos, o sea, estamos bien, y necesitamos fortalecer Am&eacute;rica del Norte, la regi&oacute;n, y s&iacute; vamos a seguir manteniendo relaciones con todos los pa&iacute;ses del mundo, con otras regiones del mundo, pero para nosotros por geopol&iacute;tica, por vecindad, tambi&eacute;n por amistad y por ventajas econ&oacute;micas, por relaciones de nuestros pueblos.</p>
+
+<p>No olvidemos que hay 40 millones de mexicanos en Estados Unidos, quiz&aacute; es ya un hecho la integraci&oacute;n, nada m&aacute;s hay que cuidar que sea una integraci&oacute;n en beneficio de los pueblos con respeto a las soberan&iacute;as y en donde nos podamos fortalecer sin afectar la naturaleza, sin afectar la salud y con bienestar, porque progreso sin justicia es retroceso. Entonces, todo esto lo estamos viendo y se est&aacute; trabajando bastante bien.&nbsp;</p>
+
+<p>INTERLOCUTOR:&nbsp;Y con respecto a la bolsa de granos, que si pudiera ser&hellip;</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Lo tendr&iacute;amos que analizar. La medida que se est&aacute; tomando ahora es comprar un mill&oacute;n 500 mil toneladas s&oacute;lo a los productores de Sinaloa y productores, vamos a decir, peque&ntilde;os y medianos.</p>
+
+<p>Las protestas que hubo, y que posiblemente siga habiendo, pues est&aacute;n impulsadas por los que antes se quedaban con los subsidios, no le llegaba nada a los de abajo y estas asociaciones de grandes agricultores eran los que recib&iacute;an todos los apoyos, y ahora es al rev&eacute;s o es de otra forma, primero los de abajo.</p>
+
+<p>No es el sofisma, la mentira, de que, si llueve fuerte, arriba gotea abajo y que si le arreglas los problemas a los de arriba vas a tener tranquilo todo, porque ellos son ya los que manejan. En el caso del campo no s&oacute;lo tienen grandes extensiones, sino ya han comprado ejidos, rentan ejidos completos y tienen a muchos campesinos que antes eran ejidatarios, como jornaleros, pero no, eso fue una gran injusticia del periodo neoliberal desde que Salinas reform&oacute; el art&iacute;culo 27 de la Constituci&oacute;n y puso al mercado las tierras ejidales, y se cometieron despojos, y nosotros no vamos a seguir con ese modelo, o sea, de seguir siempre apoyando al de arriba. &iquest;Qu&eacute;, no saben los de arriba hacer dinero?, si esa es su especialidad.</p>
+
+<p>&iquest;A qui&eacute;n hay que asesorar? &iquest;A qui&eacute;n hay que apoyar? &iquest;A qui&eacute;n hay que ayudar?</p>
+
+<p>Pues al m&aacute;s necesitado. Y, adem&aacute;s, est&aacute; comprobado, sin que se considere un desaf&iacute;o, un reto, que me digan si funcion&oacute; ese modelo de darle a los de arriba, &lsquo;que se llene la copa porque va a derramar&rsquo;; no, todav&iacute;a no se llenaba y ya ten&iacute;an la otra copa, y no se derramaba nada, no ca&iacute;a nada, s&oacute;lo en los tiempos de elecci&oacute;n, cuando estaban los votos, ah&iacute; empezaba la repartidera de despensas, el frijol con gorgojo, los materiales de construcci&oacute;n, los chivos, los borregos, los puercos, cochinos, marranos, cerdos.</p>
+
+<p>Me burla, me arremeda Jes&uacute;s desde chiquito, porque iba a los m&iacute;tines y para que la gente lo entendiera bien, se re&iacute;a todo mundo cada vez que hablaba yo de eso, y me lo recuerdan, pero es as&iacute;, ellos se quedaban con las tajadas m&aacute;s grandes y repart&iacute;an migajas.</p>
+
+<p>Es como las famosas organizaciones sociales de la sociedad civil, ten&iacute;an tomada la Secretar&iacute;a de Agricultura, se lo llevaban todo.&nbsp;El famoso Procampo no les llegaba a los ind&iacute;genas, a los campesinos ind&iacute;genas, no, era para los grandes productores, pol&iacute;ticos y estos &lsquo;l&iacute;deres nailon&rsquo; de sombrero y de cinto piteado. Ya no.</p>
+
+<p>Entonces, s&iacute; estamos ayudando, no va a haber problema. Para peque&ntilde;os, medianos productores, Precio de Garant&iacute;a, ning&uacute;n problema.</p>
+
+<p>Y, tambi&eacute;n, a los grandes se les va a ayudar, porque vamos a tomar medidas arancelarias con pa&iacute;ses que no tenemos tratados, tratados comerciales.</p>
+
+<p>INTERLOCUTOR:&nbsp;Con Estados Unidos, no.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Ah&iacute; no, pero vamos a resolver el problema.</p>
+
+<p>Y lo bueno es que ha crecido mucho la producci&oacute;n de ma&iacute;z blanco en los &uacute;ltimos tiempos, precisamente porque se le est&aacute; dando apoyo a los peque&ntilde;os productores. Lo que era el Procampo ya les llega con Producci&oacute;n para el Bienestar A ellos les ayuda el Precio de Garant&iacute;a, porque sus excedentes pueden venderlos a mejor precio, a ellos va dirigido el fertilizante gratuito.&nbsp;</p>
+
+<p>Les pongo el caso, y eso lo pueden constatar en Guerrero, se produc&iacute;a b&aacute;sicamente para la autosuficiencia, para el autoconsumo.</p>
+
+<p>Empezamos a entregar a todos, porque s&iacute; hab&iacute;a un programa de fertilizantes que se entregaba a los gobiernos municipales, pero no llegaba y hab&iacute;a un gran trafique.</p>
+
+<p>Lo mismo, vend&iacute;an el fertilizante a los que ten&iacute;an m&aacute;s extensi&oacute;n, m&aacute;s tierras; ahora no, ahora es general.</p>
+
+<p>&iquest;Qu&eacute; pasa ahora en Guerrero?</p>
+
+<p>Que tienen para su autoconsumo, para no comprar el ma&iacute;z, y tienen tambi&eacute;n excedentes, por esos programas. Eso no suced&iacute;a. Y yo estoy pues muy contento con eso, porque sin ma&iacute;z no hay pa&iacute;s.</p>
+
+<p>INTERVENCI&Oacute;N:&nbsp;(inaudible)&nbsp;</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Lo estamos analizando. No est&aacute; produciendo ma&iacute;z blanco que no sea transg&eacute;nico ning&uacute;n pa&iacute;s, o sea, son pocos los pa&iacute;ses.&nbsp;</p>
+
+<p>M&eacute;xico s&iacute; tiene ma&iacute;z que es de semillas criollas sin transg&eacute;nico. Y somos autosuficientes, o sea, todo lo que requerimos para nuestro consumo se produce ya; donde tenemos d&eacute;ficit es en el ma&iacute;z amarillo para forraje, que es el que se produce m&aacute;s en Estados Unidos y en otras partes.</p>
+
+<p>Incluso estaban importando ma&iacute;z de Sud&aacute;frica, ma&iacute;z blanco, supuestamente no transg&eacute;nico. Hicimos el estudio y encontramos que s&iacute; es transg&eacute;nico. Se enojan mucho, pero ah&iacute; se les va a ir pasando.</p>
+
+<p>INTERLOCUTOR:&nbsp;En una segunda pregunta, se&ntilde;or presidente, hace unos d&iacute;as el Coneval public&oacute; unos datos: la tasa de pobreza laboral en M&eacute;xico baj&oacute; en tres por ciento, 3.9 millones menos de personas en pobreza laboral, es decir, aquellos que no pueden comprar una canasta alimenticia con sus ingresos laborales.</p>
+
+<p>Esto pues est&aacute; muy bien, es para felicitar; lo que preocupa es que la tasa de empleo informal no baja, sigue siendo de m&aacute;s del 50 por ciento. Y su gobierno ha hecho esfuerzos como el&nbsp;Resico, pero no se han dado&hellip; &iquest;No habr&aacute; otra alternativa para&hellip;?&nbsp;</p>
+
+<p>Esta es una herencia de los neoliberales, porque en los a&ntilde;os 70 s&oacute;lo el 10 por ciento de la poblaci&oacute;n econ&oacute;micamente activa estaba en la informalidad, ahora es m&aacute;s del 50 por ciento.</p>
+
+<p>Entonces, &iquest;qu&eacute; puede hacer su gobierno para bajar esta tasa y tener menos presupuesto para el IMSS-Bienestar?, porque si est&aacute;n en la formalidad pues no va a ser necesario que vayan al IMSS-Bienestar. Esa ser&iacute;a mi segunda pregunta.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Pues estamos avanzando. En efecto, es mucho el porcentaje de la poblaci&oacute;n econ&oacute;micamente activa que est&aacute; en la econom&iacute;a informal. Y s&iacute; ha habido una disminuci&oacute;n, pero m&iacute;nima, y ha crecido la econom&iacute;a formal, pero no lo suficiente.</p>
+
+<p>Tenemos que seguir impulsando la creaci&oacute;n de empleos en la econom&iacute;a formal, el que haya buenos sueldos, eso es lo que va a permitir avanzar en la formalidad e ir atemperando el crecimiento de la econom&iacute;a informal, que surge como una opci&oacute;n cuando no hab&iacute;a alternativas de empleo, de trabajo, o el salario estaba por los suelos.</p>
+
+<p>As&iacute; es como surge la econom&iacute;a informal en el periodo neoliberal, en efecto. Aunque no les guste que recordemos esto, pero no podemos olvidar el pasado, la historia. Lo he dicho en otras ocasiones, estoy totalmente convencido: si no hubiese sido por la econom&iacute;a informal, por los que se buscan la vida como pueden en la calle y con peque&ntilde;os negocios, los que se buscan la vida honradamente, si no hubiese sido por ellos, y por los migrantes, hubiese habido no solo una crisis como la que se padeci&oacute; y se sigue padeciendo, una decadencia que se fue creando, un proceso de degradaci&oacute;n; pero no solo eso, hubiese habido un estallido.</p>
+
+<p>Las dos v&aacute;lvulas que sirvieron para quitarle presi&oacute;n al pa&iacute;s con la actitud irresponsable de estos corruptos neoliberales fue la econom&iacute;a informal y la migraci&oacute;n.</p>
+
+<p>Tambi&eacute;n por eso, aunque en menor medida y gracias a nuestras culturas, en esas circunstancias algunos tomaron el camino de las conductas antisociales. J&oacute;venes que se quedaron en el desamparo, que no fueron atendidos y fueron enganchados y, crecieron las bandas por lo mismo.</p>
+
+<p>Pero, bueno, hay que seguir trabajando para crear empleos, mejorar los salarios.</p>
+
+<p>Hay ahora en estos tiempos y aqu&iacute; hay tres constructoras importantes, hay escasez de mano de obra. &iquest;No es as&iacute;?</p>
+
+<p>INTERVENCI&Oacute;N:&nbsp;S&iacute;.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;&iquest;Por qu&eacute; no pones una foto de unos trabajadores, que yo admiro mucho?Porque desde que construimos el segundo piso, que dec&iacute;an los del&nbsp;Reforma&nbsp;y Salinas de Gortari que se iba a caer, porque yo no odio, pero no olvido.</p>
+
+<p>Y creo que Manuel present&oacute; una estructura de acero para colado, una cimbra de acero y luego creo que Guadalupe present&oacute; algo en el video donde est&aacute;n, donde est&aacute;n&hellip;&nbsp;</p>
+
+<p>Esto, este trabajo,&nbsp;v&eacute;anlo, d&iacute;ganme si no es arte. Nada&nbsp;m&aacute;s&nbsp;es cosa de poner la firma, &iquest;no?, de un&nbsp;famoso y cu&aacute;nto valdr&iacute;a. As&iacute; le hacen.</p>
+
+<p>Bueno, esto es hecho por estos se&ntilde;ores, estos obreros, con sus manos. A estos especialistas de la construcci&oacute;n se les conoce como fierreros. Pues no tenemos suficientes fierreros porque tambi&eacute;n nos los est&aacute;n&nbsp;pirateando.</p>
+
+<p>INTERVENCI&Oacute;N:&nbsp;Siete mil a la semana.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Siete mil a la semana</p>
+
+<p>Pero esto es lo que est&aacute; sucediendo. A ver si donde est&aacute;n arriba, el video, creo es Guadalupe. Nos lleva tiempo esto, pero es importante, porque esto es un homenaje a esta gente. Se hacen las grandes obras, ya despu&eacute;s ya nada m&aacute;s utilizamos el transporte.</p>
+
+<p>Hay una parte&hellip; A ver si lo puedes parar. Esto. A ver, dale. Es este trabajo, miren. Por eso, en Estados Unidos son los m&aacute;s contratados, buscados los trabajadores mexicanos.&nbsp;</p>
+
+<p>Y esto es otro mito del conservadurismo: &lsquo;el mexicano es flojo, si est&aacute; en la pobreza es porque no trabaja&rsquo;. Miren esto.</p>
+
+<p>JES&Uacute;S RAM&Iacute;REZ CUEVAS:&nbsp;A 40 grados.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;A 40 grados. Esta, &iquest;cu&aacute;ndo la tomaron?</p>
+
+<p>PREGUNTA:&nbsp;(inaudible)</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;S&iacute;, s&iacute;.&nbsp;</p>
+
+<p>Entonces, vamos avanzando, pero esto es en la medida que haya m&aacute;s inversi&oacute;n p&uacute;blica. Tambi&eacute;n ese es otro asunto, antes se despreciaba la inversi&oacute;n p&uacute;blica, no hab&iacute;a inversi&oacute;n p&uacute;blica pr&aacute;cticamente.</p>
+
+<p>&iquest;Qu&eacute; era el gobierno?&nbsp;</p>
+
+<p>Era una oficina para entregar concesiones, esto es inversi&oacute;n p&uacute;blica y ayuda mucho para que no siga creciendo la econom&iacute;a informal.</p>
+
+<p>INTERLOCUTOR:&nbsp;Ya nom&aacute;s, por &uacute;ltimo, se&ntilde;or presidente, tengo un comentario: la semana pasada tuve la fortuna de ir a cubrir unos eventos sobre el Tren Maya de unos empresarios ah&iacute; en Yucat&aacute;n, y me encontr&eacute; con una persona que dice que lo conoce y lo admira mucho, que se llama Janitzio Dur&aacute;n Castillo. &Eacute;l tiene el proyecto de hacer la Universidad del Mundo Maya en Tixkokob, ya lo tiene muy adelantado, inclusive me dio el proyecto y est&aacute; firmado por usted hace como 10 a&ntilde;os o 12 a&ntilde;os, porque s&iacute; me dijo que lo admiraba mucho.</p>
+
+<p>Ellos ya tienen adelantos, el Tren Maya les vino a dar un impulso. Primero los detuvo porque en medio de donde iban a hacer la alberca iba a pasar el Tren Maya, entonces tuvieron que recorrer.</p>
+
+<p>Y tienen tambi&eacute;n un cenote, que se llama&nbsp;Yaax-Ha, ah&iacute; en Tixkokob. Lo que quieren ellos es: est&aacute;n pidiendo que se conozca, y el objetivo de esta universidad no es dar licenciaturas o doctorados, sino que se aprendan c&oacute;mo era la cultura maya, rescatar el maya, porque dice que se ha perdido mucho. Rescatar el idioma maya, ver c&oacute;mo era.</p>
+
+<p>Aqu&iacute; acaba de hablar Diego Prieto sobre la milpa de los mayas. Ellos quieren ver c&oacute;mo era esa&hellip; c&oacute;mo viv&iacute;an, c&oacute;mo hac&iacute;an los caminos los&nbsp;Sacb&eacute;&nbsp;que tiene&hellip; El&nbsp;Sacb&eacute;&nbsp;que va de ruinas de Ak&eacute; a la zona arqueol&oacute;gica de Izamal, tienen m&aacute;s de mil a&ntilde;os ese&nbsp;Sacb&eacute;. Entonces lo quieren recuperar, lo quieren hacer paraderos.&nbsp;</p>
+
+<p>Tienen grandes proyectos y todo esto impulsado por el Tren Maya, porque en Tixkokob va a haber un paradero y a m&iacute; me sorprendi&oacute; mucho&nbsp;que&nbsp;en M&eacute;rida, por ejemplo, no saben d&oacute;nde est&aacute; ruinas de Ak&eacute;, ni lo conocen, y es una gran zona arqueol&oacute;gica muy, muy, muy bonita.</p>
+
+<p>Entonces, le voy a dejar con Jes&uacute;s el proyecto que tiene. Ah&iacute; viene su firma, bueno, fotocopia de su firma. Y est&aacute;n muy agradecidos.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;S&iacute;, con Raquel Sosa, &iquest;no?, para verlo.</p>
+
+<p>Y esa es una estaci&oacute;n, &iquest;no?, del tramo, de ustedes, Tixkokob., s&iacute;, eso en los l&iacute;mites de Campeche con Yucat&aacute;n.</p>
+
+<p>Bueno, v&aacute;monos con la compa&ntilde;era que viene de Nuevo Le&oacute;n.</p>
+
+<p>PREGUNTA:&nbsp;Explicarle la emergencia, es una urgencia, una emergencia por la que vengo.</p>
+
+<p>Antes quiero decirle: soy Guadalupe Herrera R&aacute;bago, del peri&oacute;dico&nbsp;La &Uacute;ltima Palabra, de Cadereyta y Ju&aacute;rez, Nuevo Le&oacute;n.</p>
+
+<p>Antes agradecerle enormemente su intervenci&oacute;n para resolver la situaci&oacute;n del hospital de Cadereyta de Pemex, la oportuna intervenci&oacute;n y atinada intervenci&oacute;n del doctor, Rodolfo&nbsp;Lehmmanpara resolver la problem&aacute;tica de la direcci&oacute;n del hospital. &Eacute;l debe de saber, fue maravillosa la intervenci&oacute;n.</p>
+
+<p>Muchos&nbsp;e-mails&nbsp;a usted, cartas, a trav&eacute;s de Waldo Fern&aacute;ndez y de otros. Muchas gracias, se&ntilde;or presidente.</p>
+
+<p>En este caso le vengo a hablar de una verdadera emergencia que se vive en el ejido Santa Isabel y Dolores, el ejido San Juan Nuevo Le&oacute;n. Usted debe de conocer la cuna del b&eacute;isbol en M&eacute;xico, San Juan Nuevo Le&oacute;n. Ah&iacute; en esa &aacute;rea en Cadereyta es uno de los 78 pueblos de Cadereyta, este ejido se fund&oacute; hace 88 a&ntilde;os y es uno de los m&aacute;s poblados del municipio.</p>
+
+<p>La principal actividad del poblado es la agricultura, ellos siembran c&iacute;tricos y algunas cosas como trigo, aguacate y hortalizas.</p>
+
+<p>Las &aacute;reas de siembra son m&aacute;s de dos mil hect&aacute;reas y en la actividad de siembra y cosecha participan pobladores del mismo ejido y de Monte Morelos, de Linares, de los alrededores&nbsp;que van en tiempos de siembra y en tiempos de cosecha.</p>
+
+<p>Quiero decirle que de este espacio viven m&aacute;s de 500 familias, se&ntilde;or presidente, viven de eso, y cuyas cabezas de familia pues son campesinos que est&aacute;n a punto de perder su fuente de empleo, y los ejidatarios pues tambi&eacute;n de quedarse afectados, los peque&ntilde;os propietarios tambi&eacute;n, impidiendo su actividad.</p>
+
+<p>Le platico, la toma de riego para sus ejidos y que beneficia tambi&eacute;n a otros ejidos en el mismo municipio data de hace m&aacute;s de 400 a&ntilde;os en que se habilit&oacute; una acequia para poder regar sus tierras, pero sucede, se&ntilde;or presidente, que hace algunos a&ntilde;os, alrededor del 2010, estuvimos investigando, la Conagua dio permiso para que Pemex desviara el r&iacute;o San Juan, que pasa por este y varios poblados. Con ese permiso se dio con la finalidad de realizar acciones para proteger los ductos que vienen de Madero Cadereyta. Estos tubos pasaban por el r&iacute;o o por arriba se da&ntilde;aban con el movimiento del r&iacute;o.</p>
+
+<p>&iquest;Qu&eacute; decidieron?</p>
+
+<p>Dieron permiso, la Conagua, se desv&iacute;a el r&iacute;o que corre, paralelo a la acequia, &iquest;verdad?, se desv&iacute;a, hacen un terrapl&eacute;n ah&iacute; enorme, grande, se desv&iacute;a ah&iacute; en Herradura y luego sigue, pero queda cerca de la acequia y se est&aacute; erosionando, ya son s&oacute;lo 50 metros. &iquest;Se imagina usted si el r&iacute;o en una lluvia at&iacute;pica llega a la acequia? Pues echa a perder todo, ah&iacute; en la toma de riego que ellos tienen muchos a&ntilde;os.</p>
+
+<p>Ellos han acudido a infinidad de partes. Yo no quiero traerle esta informaci&oacute;n, ni ellos tampoco, porque son gentes bien, muy buena. Ellos han acudido con autoridades, pero pues las autoridades no les resuelven, se&ntilde;or presidente.</p>
+
+<p>Pemex cumpli&oacute; su objetivo, pero no consider&oacute; necesario regresar el r&iacute;o a su cauce, la Conagua tampoco. Al paso del tiempo el r&iacute;o ha avanzado hacia la acequia y, como le digo, se va erosionando. Le hablo tal vez&nbsp;que&nbsp;sean unas semanas, en lo que usted y yo estamos hablando, se sigue erosionando hasta llegar a la acequia en breve plazo. Se va a da&ntilde;ar much&iacute;simo eso.</p>
+
+<p>Aqu&iacute; le traigo un video y fotograf&iacute;as, una es un video a&eacute;reo. Se pusieron de acuerdo todos, son 80, me fueron a ver ah&iacute; al peri&oacute;dico y &lsquo;ayude, se lo suplico, d&iacute;gale al presidente, porque nadie nos resuelve&rsquo;.</p>
+
+<p>Yo estoy aqu&iacute; a nombre de todos ellos, ejidatarios, son 80 y 20peque&ntilde;os propietarios de toda esa regi&oacute;n, podr&iacute;an nombr&aacute;rselos a todos: Panchito, Lim&oacute;n,&nbsp;Nufo&nbsp;Gonz&aacute;lez, Lupito Salazar, don Abel. Todos ellos est&aacute;n muy preocupados, ellos han construido una como presita chiquita para poder tener m&aacute;s flujo en la&hellip; Han metido mucha &lsquo;lana&rsquo; de ellos, quisieron meter sus&nbsp;bulkdozer&nbsp;para rentarlos, para poder corregir, y la Conagua les dijo: &lsquo;T&uacute; mueve un cent&iacute;metro de eso y van al bote todos&rsquo;.</p>
+
+<p>Entonces, por eso estoy aqu&iacute;, se&ntilde;or presidente.</p>
+
+<p>De una vez le comento los dem&aacute;s asuntos, muy r&aacute;pido. Ellos esperan que&hellip; Pues no s&eacute; si la Conagua, Pemex, aqu&iacute; no se trata de buscar culpables, eso ya pas&oacute; hace 13, 14 a&ntilde;os, sino de darles una soluci&oacute;n. Est&aacute;n desesperados.</p>
+
+<p>Hoy hace un a&ntilde;o estuve aqu&iacute; y usted autoriz&oacute; un proyecto de drenaje sanitaria pluvial y pavimentaci&oacute;n, &iquest;se acuerda?, para Cadereyta. Se empez&oacute;, se est&aacute; haciendo la obra.</p>
+
+<p>Y yo le traigo un proyecto que manda toda la gente de Cadereyta, me lo entreg&oacute; el se&ntilde;or alcalde, Cosme Juli&aacute;n Leal Cant&uacute;, para que se lo entregara a ver si el se&ntilde;or Germ&aacute;n Mart&iacute;nez lo quiere recibir porque a ver de qu&eacute; le sirve para el proyecto este que usted autoriz&oacute;.</p>
+
+<p>Tambi&eacute;n le traigo aqu&iacute; una invitaci&oacute;n del grupo de beisbolistas todos, desde biberones hasta veteranos, porque se va a inaugurar el d&iacute;a 4 de julio, se&ntilde;or presidente, reinaugurar ese campo de b&eacute;isbol que fue el primero en el pa&iacute;s donde se jug&oacute; el primer juego de b&eacute;isbol, es una visita que usted no puede eludir, no s&eacute; si este 4 de julio, pero cuando tenga oportunidad, los&nbsp;jimenenses&nbsp;se lo van a agradecer.</p>
+
+<p>Y los campesinos pues est&aacute;n en espera de una respuesta. Ay&uacute;delos, se lo suplico, est&aacute;n bien preocupados.&nbsp;</p>
+
+<p>Muchas gracias, se&ntilde;or presidente.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Est&aacute; bien, s&iacute;, bueno, los va a ir a ver Germ&aacute;n Mart&iacute;nez, se va a reunir con ellos, y a ver con Jes&uacute;s si se ponen de acuerdo para que t&uacute; los acompa&ntilde;es sobre esto del sistema de riego, sobre la presa. Y tambi&eacute;n que se aproveche para ver lo del drenaje de Cadereyta.</p>
+
+<p>INTERLOCUTORA:&nbsp;Ah&iacute; est&aacute; el proyecto tambi&eacute;n del drenaje pluvial, estaba incompleto&hellip;</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Bueno, va a ir &eacute;l.</p>
+
+<p>INTERLOCUTORA:&nbsp;Yo quiero nada m&aacute;s mencionarle: es bien dif&iacute;cil, se&ntilde;or presidente, en un estado en donde hay naranja, en el estado azul, en el municipio, verde, morado, todo, por todos lados, en situaciones de responsabilidad, es bien dif&iacute;cil, pero hay buena voluntad del diputado, tambi&eacute;n, de Ricardo Rodr&iacute;guez. Hay voluntad. Yo quisiera que usted tomara esa voluntad y la hiciera sinergia con&hellip;</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;S&iacute;, s&iacute;.</p>
+
+<p>Y el prop&oacute;sito es ayudar y, s&iacute; va a estar Germ&aacute;n all&aacute;, s&iacute;.</p>
+
+<p>Y lo del b&eacute;isbol me gustar&iacute;a mucho. Ayer hubo Juego de Estrellas. &iquest;Qui&eacute;n gan&oacute;?</p>
+
+<p>INTERLOCUTORA:&nbsp;Le&nbsp;voy&nbsp;mandar a decir al gobernador que lo comprometa. Es que se rehabilit&oacute; ese campo, esta precioso, de verdad. Y le digo, est&aacute;n desde los biberones hasta los veteranos, todos.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;S&iacute;,&nbsp;s&iacute;. Por ah&iacute;, bueno, cerca de Monterrey, s&iacute;, y, tambi&eacute;n, hay una academia de la Liga Mexicana en donde van los j&oacute;venes a formarse.</p>
+
+<p>Ayer hubo Juego de Estrellas norte-sur de la Liga Mexicana. &iquest;Qui&eacute;n gan&oacute;?, porque fue en Villahermosa, vi nada m&aacute;s unas dos entradas, s&iacute;, para saber.</p>
+
+<p>INTERLOCUTOR&nbsp;Presidente, nada m&aacute;s una precisi&oacute;n. En el tema del proyecto de&nbsp;fracking&nbsp;que propon&iacute;a Pemex &iquest;en qu&eacute; proyecto, en qu&eacute; lugar es?</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Gan&oacute; el sur, s&iacute;, es que el sur tambi&eacute;n existe, dir&iacute;a Serrat.</p>
+
+<p>Claudia te va a decir&hellip; Mar&iacute;a Luisa. Me pregunta en qu&eacute; campo petrolero est&aacute;n solicitando lo del&nbsp;fracking.</p>
+
+<p>MAR&Iacute;A LUISA ALBORES GONZ&Aacute;LEZ:&nbsp;En el de exploraci&oacute;n es en Veracruz, en la parte de Poza Rica, pero te puedo dar los datos.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Pero mejor que te den los datos.</p>
+
+<p>Muy bien. Se quedan ustedes tres.</p>
+
+<p>INTERVENCI&Oacute;N:&nbsp;No, de una vez.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;No protesten porque, si no, se van a quedar estos otros tres tambi&eacute;n.</p>
+
+<p>No, tres, es que... Por su suerte, pues, porque s&iacute; es un sorteo, &iquest;verdad? Bueno.</p>
+
+<p>Y nada m&aacute;s yo les voy, a todas las dem&aacute;s compa&ntilde;eras y compa&ntilde;eros, les voy a dar informaci&oacute;n, s&iacute;, para compensar, les voy a dar a conocer, y desde luego al pueblo de M&eacute;xico, que he tomado la decisi&oacute;n de nombrar, de acuerdo a mis facultades, como secretaria de Gobernaci&oacute;n a Luisa Mar&iacute;a&nbsp;Alcalde, actual secretaria del Trabajo, ella va a ser la secretaria de Gobernaci&oacute;n en sustituci&oacute;n de Ad&aacute;n L&oacute;pez Hern&aacute;ndez, que est&aacute; en un asunto todav&iacute;a.</p>
+
+<p>O sea, una informaci&oacute;n que quer&iacute;a transmitirles.</p>
+
+<p>PREGUNTA:&nbsp;&iquest;Cu&aacute;nto rinde?</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Pienso que a mediados de semana ya a va a empezar a ponerse de acuerdo con Alejandro Encinas, que es el encargado de despacho.&nbsp;</p>
+
+<p>Luisa Mar&iacute;a&nbsp;Alcalde&nbsp;Luj&aacute;n. Es joven, es muy importante pensar en el relevo generacional, darles oportunidad a los j&oacute;venes. Adem&aacute;s, Luisa Mar&iacute;a es abogada, ya fue legisladora.</p>
+
+<p>Muy buen trabajo en la Secretar&iacute;a del Trabajo, con ella se concili&oacute; para que aumentaran los salarios, los salarios m&iacute;nimos. Ha habido cuatro aumentos del salario m&iacute;nimo que han sido hist&oacute;ricos porque no aumentaba el salario m&iacute;nimo en 50 a&ntilde;os como ha aumentado en estos cuatro a&ntilde;os y s&oacute;lo, de las cuatro veces &mdash;es que estoy pensando que son cinco veces&mdash; s&oacute;lo en una ocasi&oacute;n no hubo consenso, porque la Comisi&oacute;n de Salarios M&iacute;nimos est&aacute; integrada por el sector obrero, por el sector empresarial y por el gobierno, y s&oacute;lo en un a&ntilde;o no estuvo de acuerdo el sector empresarial en los tres o cuatro a&ntilde;os fue un&aacute;nime, es decir, un acuerdo, un consenso, y esto se debi&oacute; en mucho al buen desempe&ntilde;o de Luisa Mar&iacute;a, y otras cosas tambi&eacute;n.</p>
+
+<p>Entonces, ella va a ser la secretaria de Gobernaci&oacute;n. Ya nos emparejamos, yo creo que ya hay m&aacute;s mujeres que hombres en el gabinete, pero son mujeres con convicci&oacute;n, con principios, con ideales, y eso ayuda mucho.</p>
+
+<p>Y lo otro que quiero comentarles&hellip;</p>
+
+<p>PREGUNTA:&nbsp;(inaudible)</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Ya, ya en estos d&iacute;as se resuelve.</p>
+
+<p>Pero, bueno, ya est&aacute; la secretaria de Gobernaci&oacute;n.</p>
+
+<p>Otro asunto que quiero tratar, y no es con af&aacute;n propagand&iacute;stico, sino porque no quiero que se agreda a nadie: ustedes saben que, as&iacute; como hay gente que no me quiere, hay gente que me quiere mucho, entonces cuando me faltan al respeto la gente se molesta. As&iacute; son estas cosas, y m&aacute;s cuando se est&aacute; llevando a cabo un proceso de transformaci&oacute;n. Entonces un cantante,&nbsp;C&eacute;spedes, ayer o antier dio a conocer de que no estaba de acuerdo conmigo y me dese&oacute; que me fuera mal. Ser&iacute;a bueno incluso, si lo tienes, que lo pongas el video. O sea, vamos a ver este video. Y yo lo que quiero decir es de que no debemos desearle mal a nadie y que yo no siento ning&uacute;n agravio de su parte.</p>
+
+<p>Y les pido a todos de que se respete su punto de vista, aun cuando sea extremo. Ya lo he dicho muchas veces, yo no soy partidario de la ley del tali&oacute;n; entre otras cosas, porque si es ojo por ojo y diente por diente, no quedar&iacute;amos tuertos o chimuelos todos. Entonces no. Yo estoy m&aacute;s a favor de lo que se escribi&oacute; desde antes y, tambi&eacute;n en el&nbsp;Nuevo Testamento&nbsp;de no responder a la violencia con la violencia.</p>
+
+<p>Y entender de que andan de mal humor los de la derecha en M&eacute;xico y en todo el mundo. La derecha anda corajuda. Nosotros andamos felices, feliz, feliz, feliz.</p>
+
+<p>Entonces entender esa circunstancia. Es que no se puede ser feliz s&oacute;lo pensando en lo material, la felicidad es estar bien con uno mismo, estar bien con nuestra consciencia y estar bien con el pr&oacute;jimo, esa es la verdadera felicidad. Dec&iacute;a Jos&eacute; Mart&iacute; que hab&iacute;a que buscar el bienestar material y el bienestar del alma.</p>
+
+<p>Entonces, entender esa circunstancia. Les dec&iacute;a yo que a veces la consigna es ni perd&oacute;n ni olvido; yo digo: olvido no, perd&oacute;n s&iacute;. Y no nos metamos y sobre todo debemos de entender las circunstancias, lo que yo siempre digo y, bueno, los fil&oacute;sofos lo han sostenido de esa manera, Ortega y Gasset: soy yo y mis circunstancias. Y si cambian las circunstancias, cambio yo. Entender eso siempre.</p>
+
+<p>O que no hay palabra, no hay discurso, no hay texto sin contexto. Estamos en una confrontaci&oacute;n pol&iacute;tica, en un debate, y hay posturas diferentes.</p>
+
+<p>Hay una canci&oacute;n que me gusta mucho, porque tiene que ver con esto, estar consciente del porqu&eacute; del odio. Es una canci&oacute;n de Silvio Rodr&iacute;guez, que con esa quiero terminar la conferencia, pero, primero, vamos a ver lo que dice Francisco&nbsp;C&eacute;spedes.</p>
+
+<p>(INICIA VIDEO)</p>
+
+<p>FRANCISCO C&Eacute;SPEDES, CANTAUTOR:&nbsp;Cuando uno viene de un pa&iacute;s que tienen mucha necesidad, donde hay un presidente que invita el 15 de septiembre a un dictador cubano y lo pone por encima de los&hellip; No sea, o sea, usted puede invitar a cualquier presidente, pero no ponerlo como el m&aacute;ximo. Porque entonces por eso me cae muy mal ese tipo, y ojal&aacute; y se muera.</p>
+
+<p>Hay mucha gente que adoran a los presidentes, los quieren, los convierten en Jesucristo, qu&eacute; tal</p>
+
+<p>VOZ MUJER:&nbsp;Y el pr&oacute;ximo a&ntilde;o son elecciones&hellip;</p>
+
+<p>FRANCISCO C&Eacute;SPEDES:&nbsp;&hellip;. Se muere por eso, se pelean con &eacute;l, amigo.</p>
+
+<p>(FINALIZA VIDEO)</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:Entonces, para que ya, hasta ah&iacute;, se le deje. Nada m&aacute;s la canci&oacute;n de Silvio, y ojal&aacute; podamos tambi&eacute;n ver la letra, a ver, y ya con eso terminamos, &iquest;no? Para los j&oacute;venes.</p>
+
+<p>(VIDEO MUSICAL, SILVIO RODR&Iacute;GUEZ:&nbsp;NUNCA HE CRE&Iacute;DO QUE ALGUIEN ME ODIA)</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Bueno, nos vemos.</p>
+
+<p>---</p>
+</div>
+      </div>
+
+      <div class="col-md-4 col-xs-12 pull-right">
+
+
+
+
+          <div id="survey" class="survey-popup small-top-buffer">
+	<div class="row">
+  <a class="fire">
+    <span class="title">Contesta nuestra encuesta de satisfacción.</span>
+		<i style="color: white" class="fas fa-poll"></i>
+  </a>
+  <hr>
+  
+  <div class="survey col-sm-12 clearfix">
+	<form id="survey-form">
+	  <div class="survey-form">
+	  <fieldset id="query_1">
+		<legend>¿Cómo fue tu experiencia en gob.mx?</legend>
+		<div id="Q_A" class="btn-group row">
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncGood" class="ga-survey" value="Feliz" title="Satisactorio">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-good.svg" alt="">
+		  	</button>
+		  </div>
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncReg" class="ga-survey" value="Neutral" title="Neutral">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-neutral.svg" alt="">
+		  	</button>
+		  </div>
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncBad" class="ga-survey" value="Triste" title="No satisactorio">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-bad.svg" alt="">
+		  	</button>
+		  </div>
+		</div>
+	  </fieldset>
+	  <fieldset id="query_1_a" class="hidden">
+	  	<legend>¿Fue fácil encontrar lo que buscabas?</legend>
+	  	<div id="Q_B" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R1" value="1">
+	  		<label for="A_R">Muy Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R2" value="2">
+	  		<label for="A_R">Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R3" value="3">
+	  		<label for="A_R">Difícil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R4" value="4">
+	  		<label for="A_R">Muy Difícil</label>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_s" class="hidden">
+	  	<legend>¿De qué estado de la República nos visitas?</legend>	  	
+	  	<div class="col-md-12">
+  	  		<div class="form-group" style="margin-bottom: 114px;">
+  	  			<select id="estados" class="form-control"></select>
+  	  		</div>
+  	  		<div class="form-group">
+  	  			<button type="button" class="Q_S_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  		</div>
+  	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_alt" class="hidden">
+		<legend>¿Qué buscabas?</legend>
+	  	<div id="Q_I" class="clearfix">
+	  	  <div class="col-sm-12">
+	  		<textarea id="txtA" class="form-control" rows="6" maxlength="250" style="font-size: 14px; width: 100%;"></textarea>
+	  		<span class="small">Máximo 250 caracteres</span>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+  	  	  <button type="button" class="Q_I_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_b" class="hidden">
+	  	<legend>¿Qué te gustó más?</legend>
+	  	<p class="small">Puedes seleccionar más de uno.</p>
+	  	<div id="Q_C" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R1" type="checkbox" name="A_R" value="1">
+	  		<label for="A_R">La información es clara y precisa</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R2" type="checkbox" name="A_R" value="2">
+	  		<label for="A_R">El diseño es agradable</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R3" type="checkbox" name="A_R" value="3">
+	  		<label for="A_R">Está bien organizado</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R4" type="checkbox" name="A_R" value="4">
+	  		<label for="A_R">Es sencillo navegar</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R5" type="checkbox" name="A_R" value="5">
+	  		<label for="A_R">El lenguaje es amigable</label>
+	  	  </div>
+	  	  <div class="clearfix">
+	  	  	<button type="button" class="Q_C_btn btn btn-primary btn-small pull-right">Siguiente</button>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_c" class="hidden">
+	  	<legend>¿Recomendarías nuestro portal a un amigo o familiar?</legend>
+	  	<div id="Q_D" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="radEncC_R1" type="radio" name="A_R" value="4">
+	  		<label for="A_R">Si</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncC_R2" type="radio" name="A_R" value="1">
+	  		<label for="A_R">No</label>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+        <button type="button" class="btn-finalizar btn btn-primary btn-small pull-right" style="margin-left: 8px; margin-top: 2px;" disabled>Finalizar</button>
+        <img src="https://framework-gb.cdn.gob.mx/assets/images/oval-white.svg" class="pull-right hidden loading">
+      </div>
+	  </fieldset>
+
+	  <fieldset id="query_2" class="hidden">
+		<legend>¿Fue fácil encontrar lo que buscabas?</legend>
+	  	<div id="Q_F" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R1" type="radio" name="A_R" value="1">
+	  		<label for="A_R">Muy Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R2" type="radio" name="A_R" value="2">
+	  		<label for="A_R">Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R3" type="radio" name="A_R" value="3">
+	  		<label for="A_R">Difícil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R4" type="radio" name="A_R" value="4">
+	  		<label for="A_R">Muy Difícil</label>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_2_b" class="hidden">
+	  	<legend>¿Qué mejorarías?</legend>
+	  	<p class="small">Puedes seleccionar más de una opción.</p>
+	  	<div id="Q_G" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A1" type="checkbox" name="A_R" value="1">
+	  		<label for="A_R">Diseño</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A2" type="checkbox" name="A_R" value="2">
+	  		<label for="A_R">Navegación dentro del sitio</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A3" type="checkbox" name="A_R" value="3">
+	  		<label class="too-long" for="A_R">Claridad y precisión de la información</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A4" type="checkbox" name="A_R" value="4">
+	  		<label for="A_R">Organización de los contenidos</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A5" type="checkbox" name="A_R" value="5">
+	  		<label for="A_R">Lenguaje utilizado</label>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">	  	  
+	  	  <button type="button" class="btn-finalizar btn btn-primary btn-small pull-right" style="margin-left: 8px; margin-top: 2px;" disabled>Finalizar</button>
+	  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/oval-white.svg" class="hidden pull-right loading">
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_2_alt" class="hidden">
+		<legend>¿Qué buscabas?</legend>
+	  	<div id="Q_H" class="clearfix">
+	  	  <div class="col-sm-12">
+	  		<textarea id="txtA1" class="form-control" rows="6" maxlength="250" style="font-size: 14px; width: 100%;"></textarea>
+	  		<span class="small">Máximo 250 caracteres</span>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+  	  	  <button type="button" class="Q_H_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  	</div>
+	  </fieldset>
+
+	</div>
+	<p class="hidden survey-thanks" style="text-align: center; color: white; font-weight: 700;">Gracias por tu opinión.</p>
+	</form>
+
+  </div>
+</div>
+</div>
+
+<script type="text/javascript">
+$(function() {
+  var c = 0;
+  var fin = 0;
+  var tipo_cara = "";
+  var page_type = "Articulos";
+  var triggered = false;
+  var answers = {};
+  var properties = {};
+  var organization = "presidencia";
+  var section = "Blog";
+  var lang = "es";
+  properties.published_on = "2023-06-19 09:06:00 -0600";
+  properties.title = "Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 19 de junio de 2023";
+  properties.path = "/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-19-de-junio-de-2023";
+  properties.referer = "";
+  properties.viewfinder = navigator.userAgent.toLowerCase();
+  properties.screens = screen.width;
+  properties.device = screen.width;
+
+  $.getJSON('https://www.gob.mx/vun/estados?filter[order]=nombre%20ASC', function (selectOptions) {
+    for( var i = 0; i < selectOptions.length; i ++) {
+      var selectOptionsJSON = selectOptions[i];
+      $('#estados').append('<option value="'+ selectOptionsJSON.nombre +'">'+ selectOptionsJSON.nombre +'</option>');
+    }
+    $('#estados').append('<option value="Otro">Otro</option>')
+  });
+
+  $('.fire').click(function(event) {
+    $('.survey-popup').css({'height':'440px'});
+  });
+
+  $('#Q_A').find('button').click(function(event) {
+  	$('#query_s').removeClass('hidden');
+  	$("#query_1").addClass('hidden');
+  	answers.q1 = $(this).attr('id');
+  });
+
+  $(".ga-survey").click(function () {
+    tipo_cara = $(this).val();
+    var interval_time = [30];
+    (function timer () {
+      if (c < 1) {
+        setTimeout(function () {
+           if(fin < 1) {
+             set_ga("Inconclusa");
+             timer();
+           }
+        }, interval_time[c] * 1000);
+      }
+      c++;
+    })();
+  });
+
+  $('.Q_S_btn').click(function(event) {
+    if( answers.q1 === "radEncGood") {
+      $("#query_s").addClass('hidden');
+      $("#query_1_a").removeClass('hidden');
+    } else if(answers.q1 === "radEncReg" || answers.q1 === "radEncBad") {
+      $("#query_s").addClass('hidden');
+      $("#query_2").removeClass('hidden');
+    } else { }
+    // answers.q1 = $('#Q_A').find('button').attr('id');
+  });
+
+  $('#Q_B').find('input').click(function(event) {
+  	if( $(this).attr('id') === 'radEncA_R3' || $(this).attr('id') === 'radEncA_R4' )  {
+  	  $("#query_1_a").addClass('hidden');
+	  $("#query_1_alt").removeClass('hidden');
+  	} else {
+  	  $("#query_1_a").addClass('hidden');
+	  $("#query_1_b").removeClass('hidden');	
+  	}	
+	answers.q2 = $(this).attr('id');
+  });
+
+  $('.Q_I_btn').click(function(event) {
+  	event.preventDefault();
+  	$("#query_1_alt").addClass('hidden');
+	$("#query_1_b").removeClass('hidden');
+	answers.q5 = $('#txtA').val().substring(0, 250);
+  });
+
+  $('#Q_C').find('button').click(function(event) {
+	$("#query_1_b").addClass('hidden');
+	$("#query_1_c").removeClass('hidden');
+	var q3_array = [];
+	$('#Q_C').find('input:checked').each(function(index, el) {
+	  q3_array.push($(el).attr('id'));
+	});
+	answers.q3 = q3_array;
+  });
+
+  $('#Q_D').find('input').change(function(event) {
+  	answers.q4 = $(this).attr('id');
+  	$('.btn-finalizar').attr('disabled', false);
+  });
+
+  $('#Q_F').find('input').click(function(event) {
+	
+	answers.q2 = $(this).attr('id');
+
+	if( $(this).attr('id') === 'rdEncA_R3' || $(this).attr('id') === 'rdEncA_R4' ) {
+	  $("#query_2").addClass('hidden');
+	  $("#query_2_alt").removeClass('hidden');
+	} else {
+	  $("#query_2").addClass('hidden');
+	  $("#query_2_b").removeClass('hidden');
+	}
+  });
+
+  $('#Q_G').find('input').change(function(event) {
+  	if($('#Q_G').find('input:checked').length > 0) {
+	  $('.btn-finalizar').attr('disabled', false);
+    }
+    var q2_array = [];
+    $('#Q_G').find('input:checked').each(function(index, el) {
+	  q2_array.push($(el).attr('id'));
+	});
+	answers.q3 = q2_array;
+  });
+
+  $('.Q_H_btn').click(function(event) {
+  	event.preventDefault();
+  	$("#query_2_alt").addClass('hidden');
+	$("#query_2_b").removeClass('hidden');
+	answers.q5 = $('#txtA1').val().substring(0, 250);
+  });
+
+  $('.btn-finalizar').click(function (event) {
+    fin++;
+    $.ajax({
+      url: '/encuesta-satisfaccion',
+      type: 'post',
+      dataType: 'json',
+      data: { section: section, lang: lang, properties: properties, answers: answers },
+      beforeSend: function() {
+        $('.loading').removeClass('hidden');
+      },
+      success: function(data) {
+        set_ga("Finalizada");
+
+        $('.survey').hide();
+        $('.survey-popup').css({'height':'60px','background-color':'#dff0d8','border':'1px solid #d6e9c6'});
+        $('.survey-popup .title').text('Gracias por tu participación.').css({'color':'#3c763d'});
+        $('#icon-survey').removeClass('fa-file-text-o').addClass('fa-check-circle').css({'color':'#3c763d'});
+        setTimeout(function() {
+          $('.survey-popup').fadeOut('800');
+        }, 1600);
+      }
+    });
+  });
+
+  function set_ga(estatus) {
+    var pages_group = "Gobierno";
+    var organization_name = "presidencia";
+
+    console.log("Entro a apartado de encuesta de satisfacción. Estatus: "+ estatus);
+    console.log("Pages group: "+pages_group);
+    console.log("Sub group: "+organization_name);
+    console.log("Page type: "+page_type);
+    console.log("Face: "+tipo_cara);
+
+      console.log("Rails.env.production");
+      //Código GA para encuesta de satisfacción.
+		gtag('set', 'dimension14', pages_group);
+		gtag('set', 'dimension15', organization_name);
+		gtag('set', 'dimension16', page_type);
+		gtag('send', 'event', 'Encuesta de satisfacción', tipo_cara ,estatus);
+		gtag('set', 'dimension14', null);
+		gtag('set', 'dimension15', null);
+		gtag('set', 'dimension16', null);
+  }
+
+  $('#subscribe-survey').click(function(event) {
+	event.preventDefault();
+    var email = $("#email-survey").val();
+    var state = $('#estados').val();
+
+    if (email !== '' || email !== undefined) {
+	    try {
+	      $.ajax({
+	        url: "/subscribe",
+	        type: 'post',
+	        dataType: 'json',
+	        data : { email: {address: email} },
+	        success: function (data) {
+	            $('#responseSignup').html(data.message);
+	        },
+	        error: function (data) {
+	            $('#responseSignup').html(data.message);
+	        }
+	      });
+	    }catch(e){
+	      $("#responseEmail").innerText(e);
+	    }
+
+	    $.ajax({
+	    	url: '/signups',
+	    	type: 'POST',
+	    	dataType: 'json',
+	    	data: { section: section, lang: lang, properties: properties },
+	    	success: function() {
+	    		//console.log('exito');
+	    	}
+	    });
+	} else {
+		$('#responseSignup').html('Por favor llena todos los campos.');
+	}
+  });
+
+  $('#survey-form').submit(function(event) {
+    event.preventDefault();
+  });
+});
+</script>
+
+      </div>
+      <div class="col-sm-7 pull-left">
+        <div class="share-buttons clearfix vertical-buffer">
+  <div class="col-md-2"> <a class="twitter-share-button" data-url="https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-19-de-junio-de-2023" data-text="Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 19 de junio de 2023"></a></div>
+  <div class="col-md-2">
+    <div class="fb-share-button" data-href="https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-19-de-junio-de-2023" data-layout="button_count" data-size="small" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-19-de-junio-de-2023&amp;src=sdkpreparse">Compartir</a></div>
+  </div>
+</div>
+
+  <script type="text/javascript">
+    (function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v2.7";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+    
+    var pages_group = "Gobierno";
+    var page_type = "Artículos";
+    var organization_name = "presidencia";
+    var title_content = "Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 19 de junio de 2023";
+
+     window.twttr = (function (d,s,id) {
+       var t, js, fjs = d.getElementsByTagName(s)[0];
+       if (d.getElementById(id)) return; js=d.createElement(s); js.id=id;
+       js.src="//platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs);
+       return window.twttr || (t = { _e: [], ready: function(f){ t._e.push(f) } });
+     }(document, "script", "twitter-wjs"));
+
+     function trackTwitter(intent_event) {
+       if (intent_event) {
+         if (intent_event.target && intent_event.target.nodeName == 'IFRAME') {
+           console.log("Metrica Compartir Twitter - "+title_content);
+           console.log("Organization: "+organization_name);
+           console.log("Page type: "+page_type);
+           console.log("Title content: "+title_content);
+           ga('set', 'dimension14', pages_group);
+           ga('set', 'dimension15', organization_name);
+           ga('set', 'dimension16', page_type);
+           ga('send', 'event', 'Compartir en redes sociales', 'Twitter', title_content);
+           ga('set', 'dimension14', null);
+           ga('set', 'dimension15', null);
+           ga('set', 'dimension16', null);
+         }
+       }
+     }
+  </script>
+  <script type="text/javascript">
+     twttr.ready(function (twttr) {
+       twttr.events.bind('tweet', trackTwitter);
+     });
+  </script>
+
+
+      </div>
+    </div>
+    <div class="row top-buffer">
+  <div class="col-md-8">
+    <hr>
+    <div class="print col-ms-12 col-md-12 col-xs-12">
+      <span class="icon-printing"></span>
+      <a href="#">Imprime la página completa</a>
+        <p class="small" style="font-size: 14px; line-height: 1.6em;">
+          La legalidad, veracidad y la calidad de la información es estricta responsabilidad de la dependencia, entidad o empresa productiva del Estado que la proporcionó en virtud de sus atribuciones y/o facultades normativas.
+        </p>
+    </div>
+  </div>
+</div>
+
+  </div>
+  <input type="hidden" id="page_type" name="page_type" value="Articulos">
+  <input type="hidden" id="organization_name" name="organization_name" value="presidencia">
+</main>
+<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+
+<footer class="main-footer">
+  <div class="list-info">
+    <div class="container">
+
+      <div class="col-sm-3">
+        <img  src="https://framework-gb.cdn.gob.mx/landing/img/logoheader.svg"  href="/" alt="logo gobierno de méxico" class="logo_footer" style="max-width: 90%; margin-left: -27px;   margin-top: 12px;">
+      </div>
+      <div class="col-sm-3">
+        <h2>Enlaces</h2>
+        <ul>
+         <!-- <li><a  href="http://www.participa.gob.mx">Participa</a></li> -->
+          <li><a  href="https://datos.gob.mx/">Datos</a></li>
+          <li><a href="https://www.gob.mx/publicaciones" target="_blank" rel="noopener" title="Enlace abre en ventana nueva">Publicaciones </a></li>
+
+                  <li><a class="footer" href="https://consultapublicamx.plataformadetransparencia.org.mx/vut-web/faces/view/consultaPublica.xhtml?idEntidad=MzM=&amp;idSujetoObligado=MTAwMDE=#inicio" id="Transparencia" target="blank" title="Enlace abre en ventana nueva">Portal de Obligaciones de Transparencia</a></li>
+
+                  <li><a class="footer" href="https://www.infomex.org.mx/gobiernofederal/home.action" id="PNT" target="blank" title="Enlace abre PNT en ventana nueva">PNT</a></li>
+
+                  <li><a class="footer" href="http://www.inai.org.mx/" id="INAI" target="blank" title="Enlace abre sitio INAI en ventana nueva">INAI</a></li>
+
+          <li><a class="footer" id="INAI" href="http://alertadores.funcionpublica.gob.mx/" target="_blank" rel="alertadores">Alerta</a></li>
+          <li><a class="footer" id="SIDEC" href="http://sidec.funcionpublica.gob.mx/" target="_blank" rel="sidec">Denuncia</a></li>
+           </ul>
+      </div>
+      <div class="col-sm-3">
+        <h2>¿Qué es gob.mx?</h2>
+        <p>Es el portal único de trámites, información y participación ciudadana.  <a href="/que-es-gobmx" style="text-decoration: none;">Leer más </a></p>
+        <ul>
+
+        
+            <li><a href='http://www.gob.mx/epn'> Administraciones anteriores  </a></li>
+          <li><a href="/accesibilidad">Declaración de Accesibilidad</a></li>
+          <li><a href="/privacidadintegral">Aviso de privacidad</a></li>
+          <li><a href="/privacidadsimplificado">Aviso de privacidad simplificado</a></li>
+          <li><a href="/terminos">Términos y Condiciones </a></li>
+          <li><a href="/terminos#medidas-seguridad-informacion">Política de seguridad</a></li>
+          <li><a class="footer" id="Marco Juridico" href="http://www.ordenjuridico.gob.mx" target="_blank" rel="noopener" title="Enlace abre en ventana nueva">Marco jurídico</a></li>
+          <li><a href="/sitemap">Mapa de sitio</a></li>
+        </ul>
+      </div>
+      <div class="col-sm-3">
+        </p>
+        <h2>Síguenos en </h2>
+        <ul class="list-inline">
+          <li>
+            <a id="Facebook" href="https://www.facebook.com/gobmexico" target="_blank" rel="noopener" class="sendEst share-info footer" title="enlace a facebook abre en una nueva ventana">
+              <img alt="Facebook" src="https://framework-gb.cdn.gob.mx/landing/img/facebook.png" />
+            </a>
+          </li>
+          <li>
+            <a id="Twitter" href="https://twitter.com/GobiernoMX" target="_blank" rel="noopener" class="sendEst share-info footer" title="Enlace a twitter abre en una nueva ventana">
+              <img alt="Twitter" src="https://framework-gb.cdn.gob.mx/landing/img/twitter.png" />
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+  </div>
+  </div>
+
+  <div class="container-fluid footer-pleca">
+    <div class="row">
+      <div class="col">
+        <br><br>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script type="text/javascript">
+      $("a.footer").click(function () {
+          var pagina_sitio = window.location.pathname;
+          var outbound_link = $(this).attr("id");
+          var subgrupo_paginas = "presidencia";
+          var page_type = "Home";
+          var pages_group = "Gobierno";
+          if($("#page_type").length > 0){ page_type = $("#page_type").val(); }
+
+          console.log("Metrica links externos footer - "+outbound_link);
+          gtag('set', 'dimension14', pages_group);
+          gtag('set', 'dimension15', subgrupo_paginas);
+          gtag('set', 'dimension16', page_type);
+          gtag('send', 'event', 'Outbound link - Footer', outbound_link, pagina_sitio);
+          gtag('set', 'dimension14', null);
+          gtag('set, ‘dimension15', null);
+      })
+  </script>
+
+<input class="hidden" id="route" value="/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-19-de-junio-de-2023" type="hidden" >
+<!-- div id="fb-root"></div -->
+
+
+
+
+
+  <!-- Begin comScore Tag -->
+  <script>
+      var _comscore = _comscore || [];
+      _comscore.push({ c1: "2", c2: "17183199" });
+      (function() {
+          var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+          s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+          el.parentNode.insertBefore(s, el);
+      })();
+  </script>
+  <noscript>
+    <img src="https://sb.scorecardresearch.com/p?c1=2&c2=17183199&cv=2.0&cj=1" />
+  </noscript>
+  <!-- End comScore Tag -->
+
+  <script src="https://sb.scorecardresearch.com/c2/17183199/ct.js"></script>
+
+
+  <script type="text/javascript">
+
+      var _sf_startpt=(new Date()).getTime();
+      var _sf_async_config = { uid: 43659, domain: 'www.gob.mx', useCanonical: true } ;
+      (function() {
+          function loadChartbeat() { window._sf_endpt = (new Date()).getTime(); var e = document.createElement('script'); e.setAttribute('language', 'javascript'); e.setAttribute('type', 'text/javascript'); e.setAttribute('src','//static.chartbeat.com/js/chartbeat.js'); document.body.appendChild(e); };
+          var oldonload = window.onload;
+          window.onload = (typeof window.onload != 'function') ?
+              loadChartbeat : function()
+              { oldonload(); loadChartbeat(); };
+      })();
+      var ele = "/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-19-de-junio-de-2023";
+      if( "#{(@organization_site.present? ? @organization_site.category : 'gobmx')}" == "Campaña") {
+          var siteEls = 'campaign';
+      } else {
+          var siteEls = 'gobierno';
+      }
+
+      for( var i = 1; i < ele.split('/').length; i++ ) {
+          siteEls = siteEls + '.' + ele.split('/')[i];
+      }
+
+      function udm_(e){var t="comScore=",n=document,r=n.cookie,i="",s="indexOf",o="substring",u="length",a=2048,f,l="&ns_",c="&",h,p,d,v,m=window,g=m.encodeURIComponent||escape;if(r[s](t)+1)for(d=0,p=r.split(";"),v=p[u];d<v;d++)h=p[d][s](t),h+1&&(i=c+unescape(p[d][o](h+t[u])));e+=l+"_t="+ +(new Date)+l+"c="+(n.characterSet||n.defaultCharset||"")+"&c8="+g(n.title)+i+"&c7="+g(n.URL)+"&c9="+g(n.referrer),e[u]>a&&e[s](c)>0&&(f=e[o](0,a-8).lastIndexOf(c),e=(e[o](0,f)+l+"cut="+g(e[o](f+1)))[o](0,a)),n.images?(h=new Image,m.ns_p||(ns_p=h),h.src=e):n.write("<","p","><",'img src="',e,'" height="1" width="1" alt="*"',"><","/p",">")};
+      function uid_call(a, b){
+          ui_c2 = 17183199; // your corporate c2 client value
+          ui_ns_site = 'gobmx'; // your sites identifier
+          window.b_ui_event = window.c_ui_event != null ? window.c_ui_event:"",window.c_ui_event = a;
+          var ui_pixel_url = 'https://sb.scorecardresearch.com/p?c1=2&c2='+ui_c2+'&ns_site='+ui_ns_site+'&name='+a+'&ns_type=hidden&type=hidden&ns_ui_type='+b;
+          var b="comScore=",c=document,d=c.cookie,e="",f="indexOf",g="substring",h="length",i=2048,j,k="&ns_",l="&",m,n,o,p,q=window,r=q.encodeURIComponent||escape;if(d[f](b)+1)for(o=0,n=d.split(";"),p=n[h];o<p;o++)m=n[o][f](b),m+1&&(e=l+unescape(n[o][g](m+b[h])));ui_pixel_url+=k+"_t="+ +(new Date)+k+"c="+(c.characterSet||c.defaultCharset||"")+"&c8="+r(c.title)+e+"&c7="+r(c.URL)+"&c9="+r(c.referrer)+"&b_ui_event="+b_ui_event+"&c_ui_event="+c_ui_event,ui_pixel_url[h]>i&&ui_pixel_url[f](l)>0&&(j=ui_pixel_url[g](0,i-8).lastIndexOf(l),ui_pixel_url=(ui_pixel_url[g](0,j)+k+"cut="+r(ui_pixel_url[g](j+1)))[g](0,i)),c.images?(m=new Image,q.ns_p||(ns_p=m),m.src=ui_pixel_url):c.write("<p><img src='",ui_pixel_url,"' height='1' width='1' alt='*'></p>");
+      }
+      udm_('https://sb.scorecardresearch.com/b?c1=2&c2=17183199&ns_site=gobmx&name='+siteEls);
+  </script>
+
+  <noscript>
+    <img src="https://sb.scorecardresearch.com/p?c1=2&amp;c2=17183199&amp;ns_site=gobmx&amp;name=gobierno.presidencia.es.articulos.version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-19-de-junio-de-2023" height="1" width="1" alt="*" />
+  </noscript>
+<script>
+    let key = '';
+    $(function () {
+
+        $.getJSON("https://framework-gb.cdn.gob.mx/applications/cms/configGobmx.json", function(json) {
+            console.log(json.keyAnalytics); // this will show the info it in firebug console
+            key = json.keyAnalytics;
+            ga('create', key , 'auto', 'GobTracker');
+            ga('GobTracker.require', 'linker');
+            ga('GobTracker.linker:autoLink', ['www.gob.mx']);
+            ga('GobTracker.set', 'contentGroup1', 'Gobierno');
+            ga('GobTracker.set', 'contentGroup2', SubGroup);
+            ga('GobTracker.set', 'contentGroup3', PageType);
+            ga('GobTracker.set', 'dimension14', 'Gobierno');
+            ga('GobTracker.set', 'dimension15', SubGroup);
+            ga('GobTracker.set', 'dimension16', PageType);
+            ga('GobTracker.set', 'dimension13', 'No Registrado');
+            ga('GobTracker.send', 'pageview');
+            ga('GobTracker.set', 'contentGroup1', null);
+            ga('GobTracker.set', 'contentGroup2', null);
+            ga('GobTracker.set', 'contentGroup3', null);
+            ga('GobTracker.set', 'dimension14', null);
+            ga('GobTracker.set', 'dimension15', null);
+            ga('GobTracker.set', 'dimension16', null);
+            ga('GobTracker.set', 'dimension13', null);
+        });
+    });
+</script>
+
+<script src="https://framework-gb.cdn.gob.mx/applications/cms/modal_global_cms.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/gm/accesibilidad/js/gobmx-accesibilidad.min.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick.min.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick-lightbox.js"></script>
+<link rel="stylesheet" href="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick-lightbox.css">
+
+
+<script src="https://framework-gb.cdn.gob.mx/applications/cms/config_dependency.js"></script>
+<script type="text/javascript"  src="/0RVTuHxj0/t/mhEICJIQ/YiOkthVkYSfw/PRc4N0sKYQk/PwhFVTt/GPxQB"></script></body>
+
+</html>
+

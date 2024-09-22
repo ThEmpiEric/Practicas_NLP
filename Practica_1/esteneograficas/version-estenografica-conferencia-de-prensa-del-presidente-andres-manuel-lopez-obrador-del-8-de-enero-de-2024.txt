@@ -1,0 +1,1937 @@
+<!DOCTYPE html>
+<html class='no-js' lang='es'>
+<head>
+    <title>
+  Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 8 de enero de 2024 | Presidencia de la República  | Gobierno | gob.mx
+</title>
+
+  <meta charset='UTF-8'>
+  <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#393C3E">
+
+  
+  <meta name="keywords" content="">
+  <meta name="description" content="Acto encabezado por el presidente Andrés Manuel López Obrador, desde Palacio Nacional">
+  <meta name="author" content="Presidencia de la República ">
+
+  <meta content="Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 8 de enero de 2024" property="og:title" />
+  <meta content="https://www.gob.mxhttps://www.gob.mx/cms/uploads/article/main_image/141150/Coferencia_presidente_7.46.58_AM.jpeg" property="og:image" />
+  <meta content="gob.mx" property="og:site_name" />
+  <meta content="Acto encabezado por el presidente Andrés Manuel López Obrador, desde Palacio Nacional" property="og:description" />
+  <meta content="http://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-8-de-enero-de-2024?idiom=es" property="og:url" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@gobmx" />
+  <meta name="twitter:title" content="Versión estenográfica. Conferencia de prensa del presidente Andrés..." />
+  <meta name="twitter:description" content="Acto encabezado por el presidente Andrés Manuel López Obrador, desde Palacio Nacional" />
+  <meta name="twitter:image" content="https://www.gob.mxhttps://www.gob.mx/cms/uploads/article/main_image/141150/Coferencia_presidente_7.46.58_AM.jpeg" />
+
+
+  <meta content="authenticity_token" name="csrf-param" />
+<meta content="SjFYdq2jsgy3kgc3Z93699Dj4IOKxeeoWrOyKTGOgxI=" name="csrf-token" />
+
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700,600,300' rel='stylesheet' type='text/css'>
+  <link href='https://framework-gb.cdn.gob.mx/applications/cms/favicon.png' rel='shortcut icon'>
+  <link data-turbolinks-track="true" href="/cms/assets/application.css" media="all" rel="stylesheet" />
+  <link data-turbolinks-track="true" href="https://framework-gb.cdn.gob.mx/gm/accesibilidad/css/gobmx-accesibilidad.min.css" media="all" rel="stylesheet" />
+  
+
+  <!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+  <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+
+ <![endif]-->
+  <script async src="https://www.googletagmanager.com/gtag/js?id="></script>
+  <script src="https://framework-gb.cdn.gob.mx/applications/cms/carrusel/swiper-bundle.min.js"></script>
+
+  <link rel="stylesheet" href="https://framework-gb.cdn.gob.mx/applications/cms/carrusel/swiper-bundle.min.css">
+
+    <script type="text/javascript">
+
+        var SubGroup = '';
+        if(false || false){
+            SubGroup = 'Temas';
+        }else{
+            SubGroup = 'presidencia';
+        }
+        var PageType = '';
+        if(false){
+            PageType = 'Home'
+        }else{
+            if(false){
+                PageType = '';
+            }else {
+                var site = window.location.pathname;
+                var arrayPageType = ["articulos", "prensa", "agenda", "documentos", "multimedia", "galerias", "videos",
+                    "acciones_y_programas", "acciones-y-programas", "mi-foto-con-el-presidente",
+                    "estructuras", "descargables", "que-hacemos", "finanzas", "infografias"];
+
+                if (site.search("archivo") != -1) {
+                    PageType = "archivo_";
+                }
+                for (var i = 0; i < arrayPageType.length; i++) {
+                    if (site.search(arrayPageType[i]) != -1) {
+                        PageType += arrayPageType[i];
+                        break;
+                    }
+                }
+            }
+        }
+
+
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', '');
+
+        gtag('require', 'linker');
+        gtag('linker:autoLink', ['www.gob.mx']);
+        gtag('set', 'contentGroup1', 'Gobierno');
+        gtag('set', 'contentGroup2', SubGroup);
+        gtag('set', 'contentGroup3', PageType);
+        gtag('set', 'dimension14', 'Gobierno');
+        gtag('set', 'dimension15', SubGroup);
+        gtag('set', 'dimension16', PageType);
+        gtag('set', 'dimension13', 'No Registrado');
+        gtag('send', 'pageview');
+        gtag('set', 'contentGroup1', null);
+        gtag('set', 'contentGroup2', null);
+        gtag('set', 'contentGroup3', null);
+        gtag('set', 'dimension14', null);
+        gtag('set', 'dimension15', null);
+        gtag('set', 'dimension16', null);
+        gtag('set', 'dimension13', null);
+
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-144356475-1', 'auto', {'allowLinker':true});
+        ga('require', 'linker');
+        ga('linker:autoLink', ['www.gob.mx']);
+        ga('set', 'contentGroup1', 'Gobierno');
+        ga('set', 'contentGroup2', SubGroup);
+        ga('set', 'contentGroup3', PageType);
+        ga('set', 'dimension14', 'Gobierno');
+        ga('set', 'dimension15', SubGroup);
+        ga('set', 'dimension16', PageType);
+        ga('set', 'dimension13', 'No Registrado');
+        ga('send', 'pageview');
+        ga('set', 'contentGroup1', null);
+        ga('set', 'contentGroup2', null);
+        ga('set', 'contentGroup3', null);
+        ga('set', 'dimension14', null);
+        ga('set', 'dimension15', null);
+        ga('set', 'dimension16', null);
+        ga('set', 'dimension13', null);
+    </script>
+
+
+  <script type = "text/javascript"> console.log(true);
+  var rails_env_prod = true; </script>
+  <script src="/cms/assets/application.js"></script>
+  <script src="/cms/assets/imageReplace.js"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.js"></script>
+
+                              <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("True"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="N3JQ2-2RVHB-WJQMN-CEYEM-ATMWX",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"N3JQ2-2RVHB-WJQMN-CEYEM-ATMWX",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="xxqo3jv567lbgzxpkgxq-f-bfd412576-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"37","ak.cp":"413578","ak.ai":parseInt("270161",10),"ak.ol":"0","ak.cr":13,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"20b98377","ak.r":49405,"ak.a2":e,"ak.m":"b","ak.n":"essl","ak.bpcip":"189.224.237.0","ak.cport":64360,"ak.gh":"189.247.214.15","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"reno","ak.t":"1726960047","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==UrrYpbpzW0XmH5Bms3eAkCtR7BMXt4VtX5KSakfuSBXL2FnE8Ky8AkilQBwhJVFg5Dqd2IF8GOfBvUyGnCTyqkSkHYi6roXB+QTNOTlhHVUIfPP/hltYWcUQuXSLaf9dtQcEEXC/7wWl5qn6Gbp2Y7G1efEdInyqiC6Y6HXtagCb6ZIXapTumFTw4rcgTpNXY9B2HX0kHhEM8uggaQs9uc3xXEfxgzUorB3Ye8kmbYV/WQ7quDV9RT58Eg0iAzp5U/lGaSZE1JkEjGcikUf462lXB2VbgnXFS452tMtuN0XSzwmNY2weWpEntPF959H/mTcpZu+aYqzFexZzHRf4l3/gAXcoA+PPKnEZxi3qUcN2Al5b4kpAHeNriRSjLPtokRAys6OCI2LtYn0XeQGUsWF0k70VrPzk6ajNK/mzJlA=","ak.pv":"113","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+<body>
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v13.0" nonce="MZ2GPb2d"></script><!-- a href="#principal" class="skip">Saltar al contenido principal</a -->
+  <header class=" navbar navbar-inverse">
+    <nav class="navbar navbar-inverse  navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-target="#navbarMainCollapse" data-toggle="collapse">
+            <span class="sr-only">Interruptor de Navegación</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a href="/" style="padding: 1px 3px 3px 3px;" class="navbar-brand " title="Ir a la página inicial">
+
+            <div class="logo-main"></div>
+          </a>
+        </div>
+        <div id="navbarMainCollapse" class="collapse navbar-collapse">
+          <ul class="nav navbar-nav navbar-right">
+           <li><a href="/tramites" title="Trámites">Trámites </a></li>
+            <li><a href="/gobierno" title="Gobierno">Gobierno</a></li>
+                  <li><a href="/presidencia/en" title="Versión en inglés del sitio web">English</a>
+                  </li>
+                </li>
+
+
+            <li>
+              <form accept-charset="UTF-8" action="/busqueda" method="get"><div style="display:none"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+                <input type="hidden" name="site" value="presidencia">
+                <button data-v-6394873e="" id="botonbuscar" type="button" class="btn btn-search"><a data-v-6394873e="" href="https://www.gob.mx/busqueda?utf8=✓" target="_blank" id="botbusca"><img data-v-6394873e="" alt="Buscar" src="https://framework-gb.cdn.gob.mx/landing/img/lupa.png"></a></button>
+</form>            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    
+
+
+        <script src="/cms/assets/level_jump.js"></script><section>
+<!-- Subnavegacion -->
+<nav class=" navbar-inverse sub-navbar fixed-top"
+     >
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#subenlaces">
+        <span class="sr-only">Interruptor de Navegación</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="link-name" href="?tab="></a>
+    </div>
+    <div class="collapse navbar-collapse" id="subenlaces">
+      <ul class="nav subnav navbar-nav navbar-right">
+              <li class="landing-btn">
+                    <a href='/presidencia/es/archivo/prensa'>
+                Comunicados            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='/presidencia/es/#5173'>
+                Directorio            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='https://transparencia.presidencia.gob.mx/presidencia/transparencia/politicas-de-tratamiento-de-datos-personales-de-la-oficina-de-la-presidencia-de-la-republica/'>
+                Protección de Datos Personales            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='https://www.gob.mx/presidencia/transparencia/'>
+                Transparencia            </a>
+            </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+<style>
+  .flag-banner {
+  top: 45px  !important;
+  }
+</style>
+<!-- div class="warning-nav" style="margin-top: 0px;">
+  <div class="container">
+    <div class="row clearfix">
+  <div class="col-xs-12 col-sm-12 col-md-12">Este contenido será modificado temporalmente en atención a las disposiciones legales y normativas en materia electoral, con motivo del inicio de periodo de campaña</div>
+  </div>
+  </div>
+</div -->
+</section>
+
+
+  </header>
+
+
+
+
+
+<main class="inner-page interior ficha">
+  <div class="container">
+  	<ol class="breadcrumb">
+  <li><a href="http://www.gob.mx"><span class="icon icon-home"></span><span class="sr-only">Inicio</span></a></li>
+  <li><a href="/presidencia">Presidencia de la República </a></li>
+  <li class="active">Blog</li>
+</ol>
+  	<div class="">
+      <div aria-hidden="true" class="hidden-xs font-changer internal print" tabindex="-1">
+  <button class="inc-font font-modifier">Aa+</button>
+  <button class="dec-font font-modifier">Aa-</button>
+</div>
+      <div class="marquee-padding">
+      <div class='post-list main-post-list'>
+<div class='marque-float-left'>
+<div class='right_arrow'></div>
+<div class='titulo-pub'>
+<small>Publicaciones Recientes</small>
+</div>
+</div>
+<div>
+<div class='container-marque'>
+<div id='headlines'>
+<div class='marquee'>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-19 13:44:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-19-de-septiembre-de-2024' title='Versió'>
+Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 19 de septiembre de 2024
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-18 12:36:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-18-de-septiembre-de-2024' title='Versió'>
+Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 18 de septiembre de 2024
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-17 13:51:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-entrega-de-estimulos-a-delegaciones-mexicanas-participantes-en-juegos-olimpicos-y-paralimpicos-paris-2024' title='Versió'>
+Versión estenográfica. Entrega de estímulos a delegaciones mexicanas participantes en Juegos Olímpicos y Paralímpicos París 2024
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-17 12:21:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-17-de-septiembre-de-2024' title='Versió'>
+Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 17 de septiembre de 2024
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-16 13:56:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-desfile-civico-militar' title='Versió'>
+Versión estenográfica. Desfile Cívico Militar
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+      </div>
+  	  <div class="col-md-7 col-xs-12 col-sm-12 pull-left" tabindex="0">
+  	  	<h1 class="bottom-buffer">Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 8 de enero de 2024</h1>
+  	  	<h2>Acto encabezado por el presidente Andrés Manuel López Obrador, desde Palacio Nacional</h2>
+        <section class="">
+          <p>Presidencia de la República  | 08 de enero de 2024</p>
+        </section>
+  	  <div class="imagen-principal">
+  	      <img alt="Conferencia de prensa del presidente Andrés Manuel López Obrador" class="img-responsive img_curve" src="https://www.gob.mx/cms/uploads/article/main_image/141150/Coferencia_presidente_7.46.58_AM.jpeg" />
+  	      <span class="small">Conferencia de prensa del presidente Andrés Manuel López Obrador</span>
+      </div>
+      <div class="article-body"><p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Terminando de hacer las roscas para que quedaran bien.</p>
+
+<p>Muy bien, vamos a informar hoy lunes. Como siempre, vamos a informar sobre qui&eacute;n es qui&eacute;n en los precios de los combustibles. Es muy importante esta informaci&oacute;n porque al inicio del mes desataron toda una campa&ntilde;a los adversarios, los conservadores, para hacer creer que se hab&iacute;a decretado un gasolinazo y se involucraron personalidades famosas del bloque conservador y hablaron que la gasolina costaba 30 pesos el litro, 28 o 30 pesos el litro, y en todos los medios de manipulaci&oacute;n, que no de informaci&oacute;n; con honrosas excepciones, para que no se sientan ofendidos, porque hay afortunadamente una presa honesta en el pa&iacute;s, minoritaria, pero excepcional, de primer orden.</p>
+
+<p>Entonces, toda una campa&ntilde;a sobre el precio de las gasolinas, y luego otras, y otras, y otras. Est&aacute;n muy enojados, por algo ser&aacute;. Vamos a informar c&oacute;mo est&aacute;n los precios de los combustibles, y luego vamos a informar tambi&eacute;n sobre el avance en el Tren Maya, y luego abrimos para preguntas y respuestas.</p>
+
+<p>Y al final las roscas, nos vamos a <em>rayar</em> con las roscas. Y a ver si se consigue caf&eacute; o chocolate o algo, &iquest;no? Por un buen chocolate vale la pena ir a cualquier parte, a cualquier lugar.</p>
+
+<p>Bueno, muy bien, pues procurador&hellip;</p>
+
+<p><strong>DAVID AGUILAR ROMERO, PROCURADOR FEDERAL DEL CONSUMIDOR: </strong>Muy buenos d&iacute;as a todas y a todos, se&ntilde;or presidente. De parte de todas mis compa&ntilde;eras y compa&ntilde;eros de Profeco, deseamos que este 2024 seamos mejores, se cumplan los prop&oacute;sitos y que siga la transformaci&oacute;n.</p>
+
+<p>Y arrancamos muy bien la segunda semana de este a&ntilde;o en cuanto al qui&eacute;n es qui&eacute;n en los precios de las gasolinas, pues a pesar de aquellas voces que intentaron distraer y confundir en d&iacute;as pasados, como ya lo mencion&oacute;, los datos duros aqu&iacute; est&aacute;n, como cada semana, para demostrar con contundencia la realidad: una semana m&aacute;s sin incentivos fiscales y una semana m&aacute;s en la que los precios promedio se mantienen, la gasolina regular en 22.47 pesos, la Premium en 24.40 y el di&eacute;sel en 24.06 pesos promedio.</p>
+
+<p>Tambi&eacute;n, la mezcla mexicana, el 4 de enero, con un precio de 67.76 d&oacute;lares por barril en el mercado internacional.</p>
+
+<p>Notamos algunos movimientos entre las marcas en cuanto a los indicadores de ganancia, todo dentro de lo normal y seguimos viendo sana competencia entre las mismas. En esta ocasi&oacute;n tenemos a Chevron, Redco y Oxxo Gas como aquellas que est&aacute;n arriba; y por el contrario, Valero, Total y G500 como aquellas que siguen estando como aquellas de las consumidoras y los consumidores.</p>
+
+<p>Considerando el periodo del 25 al 31 de diciembre, tenemos que, respecto a la gasolina regular, Pemex en Tec&aacute;mac, Estado de M&eacute;xico, ofreci&oacute; este producto en 25 pesos con 99 centavos, embols&aacute;ndose de ah&iacute; cuatro pesos con 30 centavos de ganancia, algo bastante abusivo, al igual que lo hicieron en Monterrey, donde Mobil le gan&oacute; a cada litro cuatro pesos con 12 centavos, por ejemplo.</p>
+
+<p>Por el contrario, en Tuxtla Guti&eacute;rrez, Chiapas, Gasolinera Bonampak, de Pemex tambi&eacute;n, dio la regular en 21 pesos con 17 centavos por litro, con &uacute;nicamente 17 centavos de ganancia.</p>
+
+<p>(Inaudible) haciendo un esfuerzo importante, por ejemplo, tambi&eacute;n, en Chihuahua, gan&oacute; solamente 21 centavos por litro, dando esta gasolina en 21 pesos con 79 centavos.</p>
+
+<p>Para el caso de la gasolina Premium, Operadora de Estaciones Combuserv, de Pemex, 25 pesos con 99 centavos el litro all&aacute; en Atitalaquia, Hidalgo, de los cuales cuatro pesos con 81 centavos fueron de ganancia. Y muy interesantes los siguientes casos en cuanto a la gasolina Premium, pues vale la pena se&ntilde;alar y subrayar que franquicia Pemex en la capital del estado de Puebla dio el litro en solamente 21 pesos con 38 centavos y &uacute;nicamente 16 centavos de ganancia.</p>
+
+<p>Tenemos casos, como lo podemos ver en la tabla, por ejemplo, en Comond&uacute;, Baja California Sur, que Pemex tuvo este mismo combustible en 21.94; en Salamanca, Guanajuato, Valero, en 21.89; Costco, en Chihuahua, 22.29; Orsan, en Veracruz, 21.64, esto es con la Premium; BP, en Nuevo Le&oacute;n, 21.55; y Corpogas, en Quintana Roo, en 22.89. De norte a sur, en algunos lugares la gasolina Premium en mucho menos de 23 pesos.</p>
+
+<p>Y siguiendo con las mismas tendencias y comportamientos en el mercado de los combustibles, tenemos Mobil ofreciendo el litro de di&eacute;sel en 24 pesos con 99 centavos en Monclova, Coahuila, con tres pesos con 66 centavos de ganancia. Frente a este caso, tenemos a franquicia Pemex, Servicio &Aacute;guilas, en Cuauht&eacute;moc, Chihuahua, quien ofreci&oacute; el di&eacute;sel en &uacute;nicamente 23 pesos con 79 centavos por litro y gan&aacute;ndole &uacute;nicamente 15 centavos, una estaci&oacute;n a la que hay que hacer notar.</p>
+
+<p>Y tambi&eacute;n vemos que, en el caso del di&eacute;sel, a lo largo y ancho del pa&iacute;s, tuvimos precios como de 23.83 en Zacatecas, 23.29 en Yucat&aacute;n, 23.10 en Veracruz, 23.49 en Chiapas, 23.05 en Nuevo Le&oacute;n, 22.62 en Puebla.</p>
+
+<p>Y estos son, quiero reafirmarlo, datos reales y todos ellos, todos los que se presentan aqu&iacute; est&aacute;n verificados presencialmente en campo por personal de Profeco semana tras semana. Y as&iacute; es como estamos arrancando el a&ntilde;o, se&ntilde;or presidente.</p>
+
+<p>Y ahora, pasando al tema de verificaciones, se atendieron del 29 de diciembre al 4 de enero 443 denuncias, se realizaron 268 visitas. Una gasolinera se neg&oacute; a ser verificada en Ecatepec, otra gasolinera present&oacute; irregularidades el dar litros completos, esto en Atizap&aacute;n, tambi&eacute;n en el Estado de M&eacute;xico.</p>
+
+<p>Y, como siempre, continuamos revisando los servicios sanitarios en todas y cada una de las visitas que realizamos.</p>
+
+<p>Pasamos ahora al &lsquo;Qui&eacute;n es qui&eacute;n en los precios del gas LP&rsquo;, tenemos tambi&eacute;n buenas noticias, pues recordando que estamos en temporada invernal los precios se mantienen dentro y fuera de nuestro pa&iacute;s. Por litro, a nivel internacional el gas LP estuvo en 10 pesos con 97 centavos; en cambio, en M&eacute;xico en promedio en solamente nueve pesos con 65 centavos.</p>
+
+<p>El gas por kilogramo a nivel internacional, por ejemplo, en 20 pesos con 23 centavos y en M&eacute;xico a 17 pesos con 86 centavos, esto entre el 3 y 4 de enero.</p>
+
+<p>Y para garantizar que se cumplan con los precios m&aacute;ximos que la CRE determina en las 220 regiones en las que ha dividido el pa&iacute;s, la Profeco realiz&oacute; 752 visitas y verificaciones en esta ocasi&oacute;n, de las cuales debo decir que todas ellas resultaron correctas, pues se respetaron los precios establecidos.</p>
+
+<p>Por ejemplo, en cuanto al gas estacionario, Gas Especial, en La Piedad, Michoac&aacute;n, dio el litro en nueve pesos con 49 centavos, 36 centavos por debajo del m&aacute;ximo regional; as&iacute; sucedi&oacute; tambi&eacute;n en Zacatecas, Jalisco, Sinaloa y Estado de M&eacute;xico.</p>
+
+<p>En el caso del gas por kilo, Gas Noel lo dio en 17 pesos con 57 centavos, en este caso 70 centavos debajo de su m&aacute;ximo, y esto sucedi&oacute; en Puru&aacute;ndiro, Michoac&aacute;n. Tambi&eacute;n encontramos, como les he mencioando, casos similares en Jalisco, Estado de M&eacute;xico, Guanajuato y Puebla.</p>
+
+<p>Como ya lo mencionaba, esta fue una semana limpia. Del total de verificaciones, no hubo necesidad de inmovilizar ni veh&iacute;culos ni instrumentos de medici&oacute;n, tampoco se levantaron infracciones, esto en el tema del gas LP.</p>
+
+<p>Ahora, en cuanto a la canasta b&aacute;sica, vale la pena adelantarnos y repetir una vez m&aacute;s que la estabilidad en cuanto al precio de esta canasta y con datos duros para que no quede la menor duda, se mantiene al arranque de este a&ntilde;o 2024.</p>
+
+<p>Como podemos ver en la gr&aacute;fica, desde junio de 2022 la canasta b&aacute;sica ha estado siempre por debajo del &Iacute;ndice Nacional de Precios al Consumidor en el rubro de alimentos, y totalmente estable, constante e incluso a la baja desde el mes de junio del a&ntilde;o pasado, y esto tambi&eacute;n a lo largo y ancho de nuestro pa&iacute;s. Ejemplo de ello es en la zona centro de M&eacute;xico, donde nos encontramos que esta canasta de 24 productos cost&oacute; mil 30 pesos con 25 centavos en Chedraui Selecto Universidad, aqu&iacute; en la Ciudad de M&eacute;xico; y por ejemplo, en la capital de Puebla fue Bodega Aurrera, de 11 Sur quien la ofreci&oacute; m&aacute;s barata, en 776 pesos con 20 centavos.</p>
+
+<p>En la zona centro norte, Mercado Soriana ofreci&oacute; esta misma canasta en mil 19 pesos con 45 centavos; Walmart, en La Paz, Baja California Sur, por ejemplo, en 991 pesos con 30 centavos; y tenemos un precio bastante accesible en Bodega Aurrera Arboledas, en Guadalajara, Jalisco, quien dio este paquete en &uacute;nicamente 829 pesos con 50 centavos.</p>
+
+<p>Pasando ahora a la zona norte de nuestro pa&iacute;s nos encontramos la canasta b&aacute;sica en mil 29 pesos con 45 centavos en Casa Ley, en Otay, all&aacute; en Tijuana, Baja California, en contraste con Walmart Fuentes Mares, en la capital de Chihuahua, que en esta ocasi&oacute;n dio la canasta en tan s&oacute;lo 745 pesos.</p>
+
+<p>Y seguimos ahora por la zona sur en esta evaluaci&oacute;n que nos encontramos una vez en la Central de Abastos de M&eacute;rida, en Yucat&aacute;n, donde esta canasta pudo adquirirse en mil 29 pesos, frente a Chedraui Plaza del Carmen, en Solidaridad, Quintana Roo, en donde, tambi&eacute;n haciendo un gran esfuerzo, la dio en 780 pesos.</p>
+
+<p>Agradecemos una vez m&aacute;s a todas las tiendas de autoservicio que han refrendado su participaci&oacute;n en este esfuerzo encabezado por el Gobierno de M&eacute;xico en favor de las familias mexicanas en dar la canasta b&aacute;sica por debajo o muy por debajo del compromiso de los mil 39 pesos.</p>
+
+<p>Muchas gracias y que tengan muy feliz a&ntilde;o.</p>
+
+<p><strong>&Oacute;SCAR DAVID LOZANO &Aacute;GUILA, DIRECTOR GENERAL DEL TREN MAYA:</strong> Con su permiso, se&ntilde;or presidente. Muy buenos d&iacute;as a todas y a todas.</p>
+
+<p>De verdad, es un verdadero placer volverlos a ver despu&eacute;s de alg&uacute;n tiempo. Desearles, tambi&eacute;n, a nombre de la empresa Tren Maya, de los militares, civiles que trabajamos en esa gran empresa, lo mejor en este a&ntilde;o para todos ustedes.</p>
+
+<p>Iniciaremos exponi&eacute;ndoles a ustedes c&oacute;mo vamos con la preapertura del Tren Maya. Como todos ustedes saben, iniciamos operaciones el 16 de diciembre con cuatro servicios comerciales por d&iacute;a, fueron las rutas de Canc&uacute;n a San Francisco de Campeche y de San Francisco de Campeche-Canc&uacute;n. Ambas rutas de 7:00 y 11:00 de la ma&ntilde;ana.</p>
+
+<p>Y a partir del 1&ordm; de enero al d&iacute;a de hoy inclusive estamos circulando tambi&eacute;n con cuatro servicios comerciales por d&iacute;a y ampliando la ruta hasta Palenque, de tal suerte que tenemos de Canc&uacute;n a Palenque 7:00 y 9:00 horas, y de Palenque a Canc&uacute;n en ese mismo horario.</p>
+
+<p>Estamos operando con cuatro trenes di&eacute;sel con una capacidad de 221 pasajeros cada uno, es decir, estamos trasladando diariamente m&aacute;s de 800 pasajeros a diferentes destinos a lo largo de la ruta.</p>
+
+<p>La siguiente, por favor. &iquest;Cu&aacute;ntos pasajeros hemos trasladado? Hemos trasladado un total en 18 d&iacute;as de operaci&oacute;n, hemos realizado 144 viajes, trasladando a 15 mil 579 pasajeros con boleto comprado, ocho mil 632 de ellos son mujeres, seis mil 947 hombres; de ellos, mil 315 ni&ntilde;os, 14 mil 264 adultos. Tambi&eacute;n, llevamos 60 personas que hemos trasladado como servicios a bordo.</p>
+
+<p>En total, se han vendido en taquilla 13 mil 152 boletos, eso nos ha permitido mover precisamente a los pasajeros en estaciones, no destinos, sino en las estaciones intermedias, las 22 que tenemos operando, y hemos vendido solamente dos mil 427 boletos en l&iacute;nea.</p>
+
+<p>Por tipo de boleto, podemos ver aqu&iacute; que hemos tenido adultos mayores, estudiantes, menores de edad y personas de movilidad reducida, mil 986; personas que se transportan localmente, con credencial de elector, como les hab&iacute;a dicho en alguna sesi&oacute;n anterior, cuatro mil 824; turistas nacionales, ha sido lo que m&aacute;s se ha recibido en el tren, son ocho mil 368 y 401 turistas internacionales.</p>
+
+<p>Estas son las rutas con mayor demanda, con boletos vendidos por supuesto. Empezamos en San Francisco de Campeche con Canc&uacute;n aeropuerto, que fueron los d&iacute;as iniciales; tambi&eacute;n de San Francisco de Campeche a M&eacute;rida Teya, es un destino muy procurado; de M&eacute;rida Teya a Campeche, igual, de regreso; de Canc&uacute;n aeropuerto a San Francisco de Campeche, mil 656; de M&eacute;rida Teya a Canc&uacute;n aeropuerto; y tambi&eacute;n aqu&iacute; descubrimos que en Valladolid estamos teniendo tambi&eacute;n movilidades importantes, desde Valladolid hacia Canc&uacute;n y desde M&eacute;rida hacia Valladolid. En general todas las rutas son como se han comportado.</p>
+
+<p>En la siguiente l&aacute;mina vemos los destinos de mayor demanda. En primer&iacute;simo lugar, por supuesto, Canc&uacute;n aeropuerto con cuatro mil 208 pasajeros; despu&eacute;s, de ah&iacute; Campeche, con cuatro 24; M&eacute;rida Teya con tres mil 940 y Valladolid con mil 522. La distribuci&oacute;n ha sido como la ven ah&iacute;, son lugares de destino.</p>
+
+<p>La siguiente, por favor. Los kil&oacute;metros que hemos recorrido. En la primera etapa con nuestros trenes recorrimos 28 mil 600 kil&oacute;metros; hasta el d&iacute;a 5 de enero, 16 mil 335 kil&oacute;metros. Hemos recorrido en total, con los cuatro trenes, 44 mil 936 kil&oacute;metros, lo que representa un promedio por tren de m&aacute;s de 11 mil 500 kil&oacute;metros. Es as&iacute; de importante el esfuerzo que estamos realizando para poder recorrer los casi 900 kil&oacute;metros de v&iacute;a que estamos ahorita operando.</p>
+
+<p>Estamos desplegando veh&iacute;culos Hi-rail con 12 cuadrillas, 18 cuadrillas de trabajo; estamos desplegando 62 personas que operan de manera continua en la revisi&oacute;n y atenci&oacute;n de las necesidades en la v&iacute;a.</p>
+
+<p>Y tambi&eacute;n continuamos trabajando otorgando ventanas de trabajo a los consorcios para continuar haciendo mejoramiento de la infraestructura ferroviaria y concluyendo estaciones e instalaciones complementarias.</p>
+
+<p>A continuaci&oacute;n, les voy a hablar de los tramos 5, 6 y 7 del Tren Maya. En forma muy general ustedes ya saben que son 621 kil&oacute;metros de v&iacute;a que pasan por dos estados y 11 municipios, 367 kil&oacute;metros de v&iacute;a doble electrificada y casi 255 v&iacute;a sencilla.</p>
+
+<p>Los tramos 5, que corre de Canc&uacute;n aeropuerto a Tulum; el 6, que corre de Tulum a Chetumal con 111 y 256 kil&oacute;metros respectivamente, y el tramo 7 de v&iacute;a sencilla que corre de Chetumal aeropuerto-Esc&aacute;rcega con 254 kil&oacute;metros.</p>
+
+<p>La siguiente, por favor. Vemos las instalaciones que se est&aacute;n construyendo: en el tramo 5 son tres estaciones, dos bases de mantenimiento; tramo 6, cinco estaciones, una cochera en Tulum, un taller y cochera en Chetumal y una base de mantenimiento en Carrillo Puerto, y en el tramo 7 son cuatro estaciones y una base de mantenimiento en Xpujil. Esto lo va a explicar m&aacute;s a detalle el se&ntilde;or general Vallejo y los directores generales de los consorcios.</p>
+
+<p>En general, en estos tramos estamos construyendo 840 obras complementarias entre puentes ferroviarios, pasos peatonales, pasos vehiculares, de fauna y obras de drenaje transversal. Estamos movilizando un mill&oacute;n 800 mil durmientes, 123 mil toneladas de rieles, 2.8 millones de metros c&uacute;bicos de balasto y se construyen 14 instalaciones el&eacute;ctricas por la parte de la Comisi&oacute;n Federal de Electricidad.</p>
+
+<p>Se han generado, al momento, m&aacute;s de 50 mil empleos con la suma de los esfuerzos tanto de los consorcios como del agrupamiento de ingenieros de la Secretar&iacute;a de la Defensa Nacional.</p>
+
+<p>Del Programa de Mejoramiento de Zonas Arqueol&oacute;gicas, atendemos en el tramo 5 seis zonas arqueol&oacute;gicas; en el tramo 6, tres; en el tramo 7, tres m&aacute;s. La Secretar&iacute;a de la Defensa Nacional en estos tramos construye dos hoteles, uno en Tulum y otro m&aacute;s en Calakmul.</p>
+
+<p>Estamos listos, se&ntilde;or presidente, vamos a concluir en febrero del 2024 estos tres tramos que nos van a permitir conocer todas las zonas arqueol&oacute;gicas y todos los lugares tur&iacute;sticos que ustedes podr&aacute;n ir descubriendo a trav&eacute;s del Tren Maya.</p>
+
+<p>A continuaci&oacute;n, se&ntilde;or presidente, vamos a poner un peque&ntilde;o video de un minuto 30 segundos acerca de los primeros d&iacute;as de operaci&oacute;n.</p>
+
+<p><strong>(PROYECCI&Oacute;N DE VIDEO)</strong></p>
+
+<p><strong>&Oacute;SCAR DAVID LOZANO &Aacute;GUILA:</strong> Es cuanto, se&ntilde;or presidente.</p>
+
+<p><strong>CARLOS ROLD&Aacute;N MOYA, DIRECTOR DE PRODUCCI&Oacute;N DE MOTA-ENGIL</strong>: Muy buenos d&iacute;as a todos.</p>
+
+<p>Estamos aqu&iacute; para informarles del avance del tramo 5 que realizamos nosotros como Mota-Engil. Bueno, ya podemos informar que el viaducto sur y el viaducto centro, las terracer&iacute;as intermedias, ya est&aacute;n concluidas a nivel de su estructura y que ya estamos realizando la implementaci&oacute;n de la superestructura.</p>
+
+<p>Tenemos, sobre 21 kil&oacute;metros de viaducto, un total de 18 kil&oacute;metros ya ejecutados y terminados, con 712 claros entre las losas.</p>
+
+<p>Tenemos tambi&eacute;n las cantidades principales de insumos que han llevado los trabajos que llevamos hasta el momento, donde destacan b&aacute;sicamente 1.4 millones de toneladas de concreto y 140 mil toneladas de acero.</p>
+
+<p>Avanzando un poquito, vemos tambi&eacute;n c&oacute;mo vamos ya de la parte de superestructura y de electrificaci&oacute;n, con un total de 7.3 kil&oacute;metros de durmientes colocados y 236 postes de catenarias ya completos sobre un total de mil 72, que esto nos da un total de seis kil&oacute;metros de catenaria ya en su sitio. Estamos hablando sobre esta parte del tramo 5 Sur que desarrollamos con Mota-Engil de 27 kil&oacute;metros de longitud.</p>
+
+<p>Por &uacute;ltimo, tambi&eacute;n, un poco c&oacute;mo vamos con nuestro personal. Estamos en este momento ocupando cuatro mil empleos directos, seis mil 800 empleos indirectos. Y hemos logrado dar hasta el momento 275 mil 160 horas de capacitaci&oacute;n.</p>
+
+<p>Muchas gracias por la atenci&oacute;n. Se&ntilde;or presidente, feliz a&ntilde;o. Muchas gracias.</p>
+
+<p><strong>MANUEL MU&Ntilde;OZCANO CASTRO, DIRECTOR GENERAL DE AZVINDI&nbsp;FERROVIARIO:</strong> Muy buenos d&iacute;as a todos y a todas. Con su permiso, se&ntilde;or presidente.</p>
+
+<p>Nosotros, Grupo Indi, estamos a cargo del tramo 5 Sur B, que corre de Puerto Aventuras a Akumal, que consta de 20.3 kil&oacute;metros, de los cuales 12 kil&oacute;metros van sobre viaducto, ocho kil&oacute;metros van sobre losa, sobre terrapl&eacute;n sobre losa, y 300 metros de un puente atirantado.</p>
+
+<p>Al momento llevamos ejecutadas ya m&aacute;s de dos mil pilas coladas ah&iacute; en el tramo, mil 400 columnas ya construidas, 325 cabezales montados y colados, as&iacute; como mil 750 trabes montadas; ya llevamos m&aacute;s de 10 mil 800 tabletas montadas al d&iacute;a de hoy, as&iacute; como 3.5 kil&oacute;metros de losa sobre viaducto al momento de la obra.</p>
+
+<p>En cuanto a terrapl&eacute;n sobre losa, ya se tiene el 100 por ciento de la losa de concreto terminada, que son los ocho kil&oacute;metros el terrapl&eacute;n, se lleva 4.4 kil&oacute;metros; en cuanto a balasto, se lleva cuatro, subalastos se llevan cuatro kil&oacute;metros ya colocados.</p>
+
+<p>En el puente Garra de Jaguar, la estructura ya se encuentra 100 por ciento fabricada, el 80 por ciento de la estructura ya est&aacute; en el tramo 5 Sur B, el otro 20 por ciento ya est&aacute; en Guadalajara y estar&aacute; llegando al 100 por ciento en los pr&oacute;ximos d&iacute;as.</p>
+
+<p>Asimismo, ya se tiene cinco columnas coladas, dos cabezales construidos, ya m&aacute;s de 100 pilas coladas, as&iacute; como cinco zapatas ya coladas.</p>
+
+<p>La siguientes es una imagen de c&oacute;mo se est&aacute; armando los m&oacute;dulos del puente atirantado de estructura met&aacute;lica.</p>
+
+<p>Tambi&eacute;n, informar de los empleos generados, empleos generados indirectos son m&aacute;s de cinco mil 200 empleos, as&iacute; como empleos activos son dos mil 670 empleos activos.</p>
+
+<p>El avance general que tenemos en la obra es de un 60 por ciento y vamos avanzando.</p>
+
+<p>Les vamos a presentar un peque&ntilde;o video de un minuto y medio para que puedan ver el avance de la obra.</p>
+
+<p><strong>(INICIA VIDEO)</strong></p>
+
+<p><strong><em>VOZ MUJER: </em></strong><em>Grupo INDI construye el subtramo 2 del tramo 5 sur del Tren Maya, el cual est&aacute; conformado por 12 kil&oacute;metros de viaducto elevado, ocho kil&oacute;metros de terrapl&eacute;n sobre losa y 300 metros de un puente atirantado. Al d&iacute;a de hoy se tiene un avance de 100 por ciento de la losa de terrapl&eacute;n, permitiendo los trabajos de subrasante, con un avance de 4.4 kil&oacute;metros, as&iacute; como la colocaci&oacute;n de cuatro kil&oacute;metros de subbaslato e instalaci&oacute;n de v&iacute;a.</em></p>
+
+<p><em>En el viaducto elevado se han concluido dos mil 30 pilas perforadas, mil 400 columnas coladas y 323 cabezales, lo que ha permitido la colocaci&oacute;n de mil 750 trabes y 10 mil 780 tabletas prefabricadas. As&iacute;, se ha logrado el colado de 3.4 kil&oacute;metros de losa sobre viaducto.</em></p>
+
+<p><em>En el puente atirantado de Garra de Jaguar se han perforado100 pilas, permitiendo el armado y colado de cinco zapatas, cinco columnas y dos cabezales. A su vez, se trabaja en el ensamblado del m&oacute;dulo de acero del puente atirantado.</em></p>
+
+<p><em>La construcci&oacute;n de, Tren Maya es un compromiso con los pueblos del sureste. Por ello, Grupo INDI trabaja d&iacute;a y noche para que este reto de ingenier&iacute;a se haga realidad.</em></p>
+
+<p><em>&iexcl;S&uacute;bete al tren!</em></p>
+
+<p><strong>(FINALIZA VIDEO)</strong></p>
+
+<p><strong>CARLOS ROLD&Aacute;N MOYA</strong>: Es cuanto, se&ntilde;or presidente. Feliz a&ntilde;o a todos.</p>
+
+<p><strong>GUADALUPE PHILLIPS MARGAIN, DIRECTORA GENERAL DE EMPRESAS ICA:</strong> Hola, buenos d&iacute;as a todos.</p>
+
+<p>Traemos un resumen de c&oacute;mo vamos en el tramo 5 sur, subsecci&oacute;n C. Nos conectamos Playa del Carmen con Puerto Aventuras. El avance general, 71 por ciento; el 100 por ciento de las terracer&iacute;as est&aacute;n concluidas; en la cimentaci&oacute;n del viaducto est&aacute; concluida. Ahora estamos colocando las columnas y los elementos de la losa del viaducto.</p>
+
+<p>Pr&aacute;cticamente m&aacute;s del 80 por ciento de todos los otros elementos est&aacute;n siendo fabricados y falta ya un pedacito ya para terminar.</p>
+
+<p>Hemos generado un poco menos de cinco mil empleos activos.</p>
+
+<p>Utilizamos 250 maquinarias. El 75 por ciento de la estaci&oacute;n est&aacute; ya fabricada. Ahorita ya salimos de la cimentaci&oacute;n, que es lo m&aacute;s complicado, ya est&aacute; levantadas, y estamos ya acabando la estructura.</p>
+
+<p>Y les trajimos un video muy peque&ntilde;o, nada m&aacute;s es un recorrido virtual de este tramo.</p>
+
+<p><strong>(PROYECCION DE VIDEO)</strong></p>
+
+<p><strong>GUADALUPE PHILLIPS MARGAIN:</strong> Muchas gracias. Buen d&iacute;a.</p>
+
+<p><strong>GUSTAVO RICARDO VALLEJO SU&Aacute;REZ, COMANDANTE DEL AGRUPAMIENTO DE INGENIEROS &lsquo;FELIPE &Aacute;NGELES&rsquo;, SECRETAR&Iacute;A DE LA DEFENSA NACIONAL&nbsp;(SEDENA):</strong> Con permiso, se&ntilde;or presidente. Muy buenos d&iacute;as a todos y a todas.</p>
+
+<p>La Secretar&iacute;a de la Defensa Nacional participa activamente en el desarrollo de la infraestructura del pa&iacute;s en la construcci&oacute;n de los tramos 5 Norte, 6 y 7 del Tren Maya, con una longitud total de 553 kil&oacute;metros.</p>
+
+<p>Por lo que se refiere al tramo 5 Norte, este corre de Canc&uacute;n a Playa del Carmen, se trata de 43.3 kil&oacute;metros de v&iacute;a doble electrificada sobre viaducto y terrapl&eacute;n. Tenemos un avance f&iacute;sico del 80 por ciento. Hemos concluido los 30 kil&oacute;metros de viaducto elevado y los 13 kil&oacute;metros de terrapl&eacute;n con material graduado.</p>
+
+<p>Pero continuamos explotando los bancos de materiales para construir los caminos de servicio de la v&iacute;a, el puente sobre la avenida Huayac&aacute;n, que es un alcance adicional realizado con econom&iacute;as del proyecto y el mejoramiento de la zona arqueol&oacute;gica de El Meco.</p>
+
+<p>Estamos tendiendo canalizaciones en el terrapl&eacute;n y en los viaductos para los sistemas ferroviarios de energ&iacute;a el&eacute;ctrica y fibra &oacute;ptica. Estamos tendiendo v&iacute;a f&eacute;rrea, que es balasto, el durmiente y el riel, y a su vez estamos iniciando los trabajos de alineamiento de la v&iacute;a.</p>
+
+<p>Estamos terminando los trabajos de los puentes vehiculares, los pasos de fauna y las obras de drenaje transversal que marca este tramo.</p>
+
+<p>Continuamos con la colocaci&oacute;n de los postes, el tendido de catenaria para electrificar las v&iacute;as; tambi&eacute;n, estamos instalando los herrajes de cambio de v&iacute;a y edificando una estaci&oacute;n y una base de mantenimiento en Puerto Morelos.</p>
+
+<p>Se contin&uacute;a con el suministro de insumos estrat&eacute;gicos, lo que es el balasto, el durmiente, el riel, la catenaria, los herrajes de cambio, que pr&aacute;cticamente est&aacute;n al 10 por ciento ya en la obra.</p>
+
+<p>Estamos realizando, adicionalmente ya, trabajos de limpieza general de la obra, el confinamiento, el derecho de v&iacute;a, con postes de concreto y alambradas.</p>
+
+<p>La fuerza de trabajo, ocho mil trabajadores y mil 200 unidades de maquinaria pesada.</p>
+
+<p>Por lo que se refiere al tramo 6, este va de Tulum a Chetumal, se trata de 255.8 kil&oacute;metros de v&iacute;a doble electrificada; llevamos un avance de 74por ciento.</p>
+
+<p>Igualmente, estamos explotando bancos de materiales; llevamos 75, 80 por ciento del volumen necesario y explotado.</p>
+
+<p>Estamos conformando los terraplenes y los caminos de servicio, tendiendo tambi&eacute;n canalizaciones tanto en terrapl&eacute;n como en los viaductos que tenemos aqu&iacute; para los temas ferroviarios de energ&iacute;a el&eacute;ctrica y fibra &oacute;ptica.</p>
+
+<p>Estamos tendiendo balasto, durmiente, riel de manera simult&aacute;nea en la doble v&iacute;a; estamos instalando herrajes de cambio en los tramos, construyendo todav&iacute;a viaductos elevados, puentes vehiculares, paso de fauna y obras de drenaje; colocando tambi&eacute;n postes y cableado para la catenaria.</p>
+
+<p>En este tramo estamos edificando cinco estaciones de pasajeros y una base de mantenimiento.</p>
+
+<p>Tambi&eacute;n, se contin&uacute;a el acopio de suministros estrat&eacute;gicos, los cuales est&aacute;n ya entre 85 y 90 por ciento.</p>
+
+<p>Estamos desarrollando infraestructura complementaria con econom&iacute;as del proyecto, como una salida para el poblado de Felipe Carrillo Puerto con un camino desde esta poblaci&oacute;n hasta el sitio hist&oacute;rico conocido como Vig&iacute;a Chico, en Bah&iacute;as de la Ascensi&oacute;n, de 55 kil&oacute;metros de longitud.</p>
+
+<p>Tambi&eacute;n, estamos construyendo un camino de la estaci&oacute;n Bacalar a la zona arqueol&oacute;gica de Ichkabal.</p>
+
+<p>En coordinaci&oacute;n con el equipo del INAH estamos mejorando las zonas arqueol&oacute;gicas de Chacchob&eacute;n, Ichkabal y Oxtankah.</p>
+
+<p>Tenemos una fuerza de trabajo comprometida de 14 mil 500 trabajadores y tres mil 200 unidades de maquinaria pesada.</p>
+
+<p>En lo que se refiere al tramo 7, este conecta a Chetumal con Esc&aacute;rcega, se trata aqu&iacute; de 254.5 kil&oacute;metros de v&iacute;a sencilla, que no es electrificada; tenemos un avance cercano al 74 por ciento.</p>
+
+<p>Tambi&eacute;n, continuamos explotando bancos de materiales y llevamos m&aacute;s del 80 por ciento de los vol&uacute;menes necesarios para los terraplenes.</p>
+
+<p>Estamos tendiendo y conformando terraplenes en plataforma de v&iacute;a y caminos de mantenimiento y tendiendo canalizaciones en terraplenes y viaductos, realizando cortes aun elevaciones, llevamos m&aacute;s del 80 por ciento de los cortes necesarios.</p>
+
+<p>Estamos construyendo de manera simult&aacute;nea los viaductos elevados. Aqu&iacute; tenemos cuatro kil&oacute;metros de ellos. Puentes vehiculares, pasos de fauna y obras de drenaje tiene una problem&aacute;tica distinta porque son peque&ntilde;os viaductos en zonas muy agrestes de la selva.</p>
+
+<p>Estamos tendiendo tambi&eacute;n v&iacute;a f&eacute;rrea y construyendo cuatro estaciones y una base de mantenimiento. El acopio de los suministros estrat&eacute;gicos en ese tramo ya est&aacute; tambi&eacute;n pr&aacute;cticamente al 100 por ciento.</p>
+
+<p>Adicionalmente, con econom&iacute;as del proyecto, estamos desarrollando infraestructura complementaria como el camino de Conhu&aacute;s a la zona arqueol&oacute;gica de Calakmul.</p>
+
+<p>Y de la mano de los compa&ntilde;eros arque&oacute;logos del INAH estamos mejorando las zonas arqueol&oacute;gicas de Kohunlich, Dzibanch&eacute; y Calakmul.</p>
+
+<p>Tenemos una fuerza de trabajo comprometida en este tramo de 17 mil 200 trabajadores activos y cinco mil 800 unidades de maquinaria pesada. En suma, la Secretar&iacute;a de la Defensa Nacional est&aacute; contratando m&aacute;s de 40 mil trabajadores activos al d&iacute;a de hoy y m&aacute;s de 10 mil 200 unidades de maquinaria pesada y veh&iacute;culos de volteo.</p>
+
+<p>Es cuanto por los trabajos de Sedena.</p>
+
+<p><strong>MAITE RAMOS G&Oacute;MEZ, DIRECTORA DE ALSTOM&nbsp;M&Eacute;XICO:</strong> Con su permiso, se&ntilde;or. Muy buenos d&iacute;as, se&ntilde;or. Muy buenos d&iacute;as a todos ustedes. Feliz a&ntilde;o para ustedes y para sus familias.</p>
+
+<p>Bueno, adem&aacute;s de las v&iacute;as de donde circula el tren, hay otros rieles que son muy, pero muy importantes para sostener al jaguar rodante. El primero de ellos son los proveedores. El Tren Maya, como ustedes saben, y como hemos estado repitiendo, cuenta con 72 por ciento de contenido nacional, esto es 70 de cada 100, en donde est&aacute; la mano de obra, los productos, los materiales mexicanos representados e involucrados.</p>
+
+<p>Nuestros proveedores est&aacute;n en diversas partes del pa&iacute;s y ha sido parte de este gran reto, el poder desarrollar y ayudarlos a crecer, y ayudarlos tambi&eacute;n a formar parte de un proyecto tan importante. En esta l&aacute;mina vemos c&oacute;mo est&aacute;n distribuidos a todo largo y lo ancho de la rep&uacute;blica, incluso en lugares lejanos al sureste.</p>
+
+<p>Pero cada vez que avanza el Tren Maya tambi&eacute;n avanza el talento, la calidad, de cada una de las personas, de cada una de las empresas que proveen los materiales, los equipos y los sistemas. Hoy podr&iacute;amos decir que el Tren Maya es mucho m&aacute;s grande que un transporte, mucho m&aacute;s grande que un sistema de movilidad integrado, gracias a la diversidad que existe, geogr&aacute;fica, de todos proveedores.</p>
+
+<p>El Tren Maya es un transporte nacional, un tren mexicano, y m&aacute;s que nunca cobra sentido el poder asegurar que es un tren para M&eacute;xico, hecho en M&eacute;xico.</p>
+
+<p>Adem&aacute;s, tenemos la cadena de suministros que les vamos a presentar, en la cual la parte de cadena me parece muy interesante porque es c&oacute;mo se van eslabones, que se van armando para sostener y para transportar a este jaguar rodante, que van desde energ&iacute;a el&eacute;ctrica, sistemas de c&oacute;mputo, equipos de frenado, sistema de comunicaci&oacute;n, la fibra &oacute;ptica de la que tanto hemos hablado, equipos de videovigialancia, todos estos eslabones que requieren forzosa y obligadamente la parte humana, a los hombres, a las mujeres, mexicanos que pueden formar una cadena activa para este jaguar rodante y que hasta hace unos meses, hasta hace unos a&ntilde;os no exist&iacute;a, porque realmente en M&eacute;xico no exist&iacute;a una cadena de suministro para la industria ferroviaria.</p>
+
+<p>Vamos a ver un video de estas empresas y de lo que implica el Tren Maya para cada una de las empresas mexicanas, s&oacute;lo algunas representativas, pero que forman parte del proyecto.</p>
+
+<p><strong>(INICIA VIDEO):</strong></p>
+
+<p><strong><em>ENRIQUE FAR&Iacute;AS:</em></strong><em> Hola, soy Enrique Far&iacute;as, represento a la empresa Far&iacute;as Process. En pocas palabras, le damos la imagen y equilibrio al Tren Maya.</em></p>
+
+<p><strong><em>INTERVENCI&Oacute;N HOMBRE:</em></strong><em> Represento a la empresa que se encarga de la fabricaci&oacute;n de los asientos para el Tren Maya.</em></p>
+
+<p><strong><em>INTERVENCI&Oacute;N HOMBRE:</em></strong><em> Hola, nosotros representamos a la empresa Mankiewicz M&eacute;xico. Somos encargados de suministrar los recubrimientos de todos los vagones del Tren Maya, de la parte estructural, interior y exterior.</em></p>
+
+<p><strong><em>DAVID POZOS: </em></strong><em>Mi nombre es David Pozos, representante de Actia de M&eacute;xico, encargados del sistema para el Tren Maya, as&iacute; tambi&eacute;n los sistemas de videoviglancia para la seguridad del mismo tren.</em></p>
+
+<p><strong><em>ABRAHAM SERRAT: </em></strong><em>Mi nombre es Abraham Serrat, vicepresidente de la empresa (inaudible) Nosotros producimos y fabricamos las cocinas para el Tren Maya, y tambi&eacute;n el carro comedor.</em></p>
+
+<p><strong><em>JOHATHAN VARGAS: </em></strong><em>Hola, me llamo Johathan Vargas y represento a Harting M&eacute;xico, proveedor local para conectores industriales y arneses el&eacute;ctricos para la interconexi&oacute;n de vagones para el Tren Maya.</em></p>
+
+<p><strong><em>INTERVENCI&Oacute;N HOMBRE:</em></strong><em> El Tren Maya ha representado para nuestra empresa el salto que necesit&aacute;bamos para incursionar en nuevas &aacute;reas del negocio, adem&aacute;s de que nos ha tra&iacute;do el uso de nuevas tecnolog&iacute;as y nuevas oportunidades.</em></p>
+
+<p><strong><em>DAVID POZOS:</em></strong><em> Es una oportunidad para que Actia de M&eacute;xico represente su capacidad t&eacute;cnica y de ingenier&iacute;a en M&eacute;xico.</em></p>
+
+<p><strong><em>INTERVENCI&Oacute;N MUJER:</em></strong><em> Representa una gran oportunidad para que nuestro producto destacado mundialmente por su calidad sea conocido por todos los mexicanos.</em></p>
+
+<p><strong><em>ABRAHAM SERRAT:</em></strong><em> El proyecto del Tren Maya para nosotros significa entrar en un mercado y fabricar interiores novedosos, de bajo peso y tambi&eacute;n ecol&oacute;gicos.</em></p>
+
+<p><strong><em>INTERVENCI&Oacute;N HOMBRE:</em></strong><em> Tambi&eacute;n ha representado la oportunidad de crear negocios con proveedores nacionales al localizar la adquisici&oacute;n de componentes en el pa&iacute;s.</em></p>
+
+<p><strong><em>JOHATHAN VARGAS:</em></strong><em> Este proyecto para nosotros es una punta de lanza de todos los proyectos de trenes que tenemos en M&eacute;xico.</em></p>
+
+<p><strong><em>ABRAHAM SERRAT:</em></strong><em> Para nosotros lo m&aacute;s importante es que podemos apoyar a M&eacute;xico a crear un nuevo proyecto que es reconocido a nivel mundial.</em></p>
+
+<p><strong><em>JOHATHAN VARGAS:</em></strong><em> Pr&aacute;cticamente, el valor de inventario se duplic&oacute; con la llegada del Tren Maya.</em></p>
+
+<p><strong><em>INTERVENCI&Oacute;N HOMBRE:</em></strong><em> Ha sido todo un reto que nos ha permitido comprobar las capacidades, fortalezas de nuestra cadena de suministro.</em></p>
+
+<p><strong><em>JOHATHAN VARGAS:</em></strong><em> El impacto m&aacute;s fuerte que nosotros tuvimos durante este proyecto fue la creaci&oacute;n de un almac&eacute;n local en M&eacute;xico.</em></p>
+
+<p><strong><em>ENRIQUE FAR&Iacute;AS:</em></strong><em> Ha sido un crecimiento para la empresa grande, ha sido contrataci&oacute;n de personal.</em></p>
+
+<p><strong><em>INTERVENCI&Oacute;N MUJER:</em></strong><em> Todo el equipo de Isoclima de M&eacute;xico se encuentra profundamente orgulloso de poder aportar un granito de arena en este proyecto hist&oacute;rico para M&eacute;xico.</em></p>
+
+<p><strong><em>JOHATHAN VARGAS:</em></strong><em> No me queda m&aacute;s que decir: gracias por la confianza y espero que sigamos desarrollando proyectos&hellip;</em></p>
+
+<p><strong><em>ENRIQUE FAR&Iacute;AS</em></strong><em> Que sea un gran &eacute;xito. Y tambi&eacute;n agradecer a mi personal, que est&aacute;n aqu&iacute; todos.</em></p>
+
+<p><strong>(FINALIZA VIDEO)</strong></p>
+
+<p><strong>MAITE RAMOS G&Oacute;MEZ:</strong> Ser&iacute;a todo, se&ntilde;or. Muchas gracias.</p>
+
+<p><strong>DIEGO PRIETO HERN&Aacute;DEZ, DIRECTOR GENERAL DEL INSTITUTO NACIONAL DE ANTROPOLOG&Iacute;A E HISTORIA&nbsp;(INAH):</strong> Muy buenos d&iacute;as, presidente. Compa&ntilde;eras y compa&ntilde;eros de trabajo. Amigas y amigos de los medios de comunicaci&oacute;n y quienes nos siguen a trav&eacute;s de las transmisiones en medios audiovisuales y redes.</p>
+
+<p>Al Instituto Nacional de Antropolog&iacute;a e Historia le corresponde, por supuesto, con el apoyo de los consorcios, la Secretar&iacute;a de la Defensa Nacional y la Secretar&iacute;a de Cultura, hacerse cargo del cuidado, el conocimiento, la difusi&oacute;n y el disfrute p&uacute;blico del inmenso patrimonio arqueol&oacute;gico que por supuesto existe siempre en estrecha vinculaci&oacute;n con el patrimonio natural y biocutural de esta importante regi&oacute;n de nuestro pa&iacute;s.</p>
+
+<p>En lo que se refiere a estos tres tramos, el trabajo de salvamento arqueol&oacute;gico nos ha permitido recuperar informaci&oacute;n muy valiosa y un gran n&uacute;mero de materiales que se registran en la gr&aacute;fica que tienen ustedes a la vista, en donde podemos observar que es en el tramo 7 donde hemos podido recuperar la mayor cantidad de estructuras de car&aacute;cter inmueble, estructuras construidas por los grupos y por pueblos pertenecientes al gran tronco civilizatorio maya.</p>
+
+<p>Hemos ah&iacute; tambi&eacute;n recuperado el mayor n&uacute;mero de bienes muebles, de fragmentos de cer&aacute;mica y de enterramientos humanos, como vamos a ver al final de la presentaci&oacute;n; sin embargo, es en el tramo 5 donde hemos tenido que trabajar muy cuidadosamente en la recuperaci&oacute;n de rasgos naturales asociados a la presencia de grupos humanos, sobre todo en lo que se refiere a cenotes, cavernas, grutas inundadas o seminundadas.</p>
+
+<p>Vamos a revisar tambi&eacute;n el trabajo que estamos haciendo de la mano, como he dicho, de los consorcios y de la Secretar&iacute;a de la Defensa Nacional en el Programa de Mejoramiento de Zonas Arqueol&oacute;gicas. En el tramo 5 se trabaja en la zona arqueol&oacute;gica de El Meco, que se encuentra en la colindancia entre del municipio de Isla Mujeres y la ciudad de Canc&uacute;n. Ah&iacute; tenemos trabajos ya avanzados, de investigaci&oacute;n y conservaci&oacute;n, y vamos avanzando con las infraestructuras necesarias para el mejoramiento de la zona.</p>
+
+<p>La que sigue es la zona arqueol&oacute;gica de Tulum, sin duda alguna la zona m&aacute;s destacada, m&aacute;s conocida, en la costa Caribe mexicana, una zona de enorme val&iacute;a por su riqueza arquitect&oacute;nica y por el atractivo que implica la combinaci&oacute;n de una ciudad maya con la costa del Caribe.</p>
+
+<p>En esta zona la investigaci&oacute;n y conservaci&oacute;n va muy avanzada y estamos pr&oacute;ximos a la inauguraci&oacute;n, a la apertura de la nueva unidad de servicios que hemos podido edificar con el apoyo de la Sedatu.</p>
+
+<p>La que sigue ser&iacute;a el Museo de la Costa Oriental, en Tulum, en el Parque Nacional del Jaguar. Habr&aacute; un museo que hablar&aacute; de toda la cultura que se desarrolla en la costa Caribe de la pen&iacute;nsula de Yucat&aacute;n. Ah&iacute; el museo tiene un avance ya casi terminal en su guion museogr&aacute;fico y va avanzando en la estructuraci&oacute;n ya de las instalaciones museogr&aacute;ficas.</p>
+
+<p>La que sigue es Cob&aacute;, una zona en donde estamos por iniciar las tareas de investigaci&oacute;n y avanzar tambi&eacute;n en las infraestructuras que corresponden a este sitio en el que hemos llegado a acuerdos con la comunidad para poder intensificar el trabajo arqueol&oacute;gico y de mejoramiento.</p>
+
+<p>La que sigue es la zona arqueol&oacute;gica de Muyil, una zona que est&aacute; muy cerca al nuevo aeropuerto internacional &lsquo;Felipe Carrillo Puerto&rsquo; de Tulum y en donde tenemos avances muy importantes en la investigaci&oacute;n y conservaci&oacute;n para la apertura de nuevas estructuras a la visita p&uacute;blica.</p>
+
+<p>Tambi&eacute;n, estamos trabajando en la zona arqueol&oacute;gica de Xel-H&aacute;, Quintana Roo, es una zona que es m&aacute;s conocida por el parque natural, pero que tiene riquezas muy importantes que hemos presentado aqu&iacute;, particularmente por su pintura mural y por las estructuras que constituyen esta ciudad maya antigua.</p>
+
+<p>La que sigue tiene que ver con la recuperaci&oacute;n de este corredor ecoarqueol&oacute;gico de Paamul II, en donde estamos haciendo un trabajo combinado de arqueolog&iacute;a subacu&aacute;tica y de recuperaci&oacute;n de materiales arqueol&oacute;gicos para habilitar los senderos para que permitan recorrer la zona arqueol&oacute;gica, en combinaci&oacute;n, tambi&eacute;n con la visita a la Cueva Garra de Jaguar, a la Cueva Manitas y la Cueva de Ocho Balas.</p>
+
+<p>La que sigue es la zona de Dzibanch&eacute;&ndash;Kinichn&aacute;, en donde estamos avanzando tambi&eacute;n en la investigaci&oacute;n y conservaci&oacute;n y en el mejoramiento de las infraestructuras.</p>
+
+<p>La que sigue, tambi&eacute;n en el tramo 6, vinculada a la estaci&oacute;n Limones Chacchob&eacute;n est&aacute; la zona que recibe el mismo nombre, Chacchob&eacute;n, en donde tenemos avances en lo que respecta a la investigaci&oacute;n, conservaci&oacute;n, infraestructura y senderos interpretativos.</p>
+
+<p>La que sigue, es la zona de Oxtankah, en el municipio de Chetumal, una zona peque&ntilde;a, pero de mucha importancia porque adem&aacute;s de evidencia las primeras presencias de los ocupantes espa&ntilde;oles en la pen&iacute;nsula de Yucat&aacute;n.</p>
+
+<p>La que sigue es Ichkabal, una gran ciudad maya antigua, que hasta la fecha no hemos podido abrir al p&uacute;blico, pero que gracias al Programa de Mejoramiento de Zonas Arqueol&oacute;gicas lo haremos este a&ntilde;o, a mediados de este a&ntilde;o, y por eso estamos avanzando muy intensamente, tanto en la investigaci&oacute;n de la zona como en la edificaci&oacute;n de las infraestructuras necesarias para que el p&uacute;blico visitante pueda acceder a esta importante ciudad maya antigua.</p>
+
+<p>La que sigue ser&iacute;a Kohunlich, que destaca por la presencia de estos grandes mascarones y de estructuras que hablan de m&aacute;s de mil 500 a&ntilde;os de ocupaci&oacute;n y que estamos trabajando tambi&eacute;n en lo que respecta a la investigaci&oacute;n, conservaci&oacute;n, infraestructura y senderos interpretativos.</p>
+
+<p>Concluimos con la zona arqueol&oacute;gica de Calakmul, que se encuentra enclavada en esta gran reserva natural que se ha constituido en la reserva natural protegida m&aacute;s grande de nuestro pa&iacute;s, es la segunda en el continente americano, aqu&iacute; siempre de la mano con la Semarnat y la Comisi&oacute;n Nacional de &Aacute;reas Naturales Protegidas. Estamos trabajando en las tareas de investigaci&oacute;n, habilitaci&oacute;n de los senderos interpretativos y las infraestructuras para mejorar la experiencia de visita, lo que incluye el Museo de Sitio de Calakmul, en donde la gente puede apreciar la gran cantidad de materiales que se han venido recuperando en esta investigaci&oacute;n arqueol&oacute;gica de enormes dimensiones.</p>
+
+<p>Finalmente, en esta zona ahora tambi&eacute;n un Centro de Atenci&oacute;n a Visitantes, que ya estamos empezando a construir.</p>
+
+<p>Y como siempre, les presentamos un hallazgo reciente en el contexto de las tareas del salvamento arqueol&oacute;gico que hemos recuperado en el tramo 7 de esta ruta ferroviaria del Tren Maya. Se trata de una urna funeraria que presenta la imagen, una imagen muy interesante del dios del ma&iacute;z que emerge de las hojas de la mazorca, es una olla en barro crudo que, por supuesto, contiene los elementos de una persona, un individuo enterrado y depositado en esta interesante urna.</p>
+
+<p>Muchas gracias.</p>
+
+<p><strong>BLAS ANDR&Eacute;S N&Uacute;&Ntilde;EZ JORD&Aacute;N, JEFE DEL CENTRO COORDINADOR DE OPERACIONES (CCO) DEL TREN MAYA. DIRECCI&Oacute;N GENERAL DE INGENIEROS DE SEDENA:</strong> Con su permiso, se&ntilde;or presidente. Muy buenos d&iacute;as a todos.</p>
+
+<p>Adem&aacute;s de las obras ya mencionadas por el general Vallejo, la Secretar&iacute;a de la Defensa Nacional, a trav&eacute;s de la Direcci&oacute;n General de Ingenieros, contin&uacute;a en el esfuerzo del gran proyecto del Tren Maya en los tramos 5, 6 y 7 con la construcci&oacute;n de dos hoteles y un edificio para la empresa de participaci&oacute;n estatal mayoritaria Tren Maya.</p>
+
+<p>En el Parque del Jaguar se construye el Hotel Tulum, el cual est&aacute; ubicado a una distancia aproximada de un kil&oacute;metro de lo que ser&aacute; la estaci&oacute;n del tren y a tres kil&oacute;metros de la zona arqueol&oacute;gica y la zona de playas. Este hotel, como ya lo hemos mencionado, contar&aacute; con 352 habitaciones, siendo este el hotel m&aacute;s grande de los seis que se construyen en la ruta del tren. Contar&aacute; con &aacute;reas de restaurante, bar, albercas, tambi&eacute;n tendr&aacute; temazcal, &aacute;rea de <em>spa</em>, ba&ntilde;os, cafeter&iacute;as, estacionamiento y las &aacute;reas de servicio para el adecuado funcionamiento del mismo.</p>
+
+<p>Los turistas que visiten el hotel estar&aacute;n conectados a trav&eacute;s de los senderos que se construyen en el parque y que unir&aacute;n la estaci&oacute;n del tren, la zona arqueol&oacute;gica, el Museo de la Costa Oriental, la zona de playas y dem&aacute;s atracciones que se construyen en el Parque del Jaguar.</p>
+
+<p>Actualmente, se trabajan en todos los frentes de trabajo, en las estructuras, alba&ntilde;iler&iacute;as e instalaciones el&eacute;ctricas, hidr&aacute;ulicas y sanitarias, entre otras, as&iacute; como la construcci&oacute;n de los cuartos muestra que servir&aacute;n de referencia para la construcci&oacute;n de los mil 136 cuartos de hotel que componen la totalidad de los seis hoteles. La obra presenta un avance de 41.38 y se han generado m&aacute;s de 580 empleos.</p>
+
+<p>Tambi&eacute;n, en el tramo 7, que va de Chetumal a Esc&aacute;rcega, en el estado de Campeche, y localizado a una distancia de 10 kil&oacute;metros de la zona arqueol&oacute;gica de Calakmul, se construye el Hotel Tren Maya Calakmul, el cual constar&aacute; de 144 habitaciones distribuidas en dos torres de dos niveles.</p>
+
+<p>Los turistas podr&aacute;n disfrutar de la visita a la zona arqueol&oacute;gica, el museo de sitio que se construir&aacute; en el Centro de Atenci&oacute;n a Visitantes, as&iacute; como practicar senderismo de observaci&oacute;n de flora y fauna de la regi&oacute;n.</p>
+
+<p>Se har&aacute;n trabajos de mantenimiento de los 61 kil&oacute;metros de carretera que une la carretera 186, ah&iacute; muy cerca de donde va a estar la estaci&oacute;n del Tren Maya de Conhu&aacute;s con la zona arqueol&oacute;gica, que incluye la construcci&oacute;n de 10 kil&oacute;metros tipo artesanal que va del hotel a la zona arqueol&oacute;gica. La obra presenta un avance del 63.10 y se han generado 450 empleos, en su mayor&iacute;a de pobladores de la regi&oacute;n.</p>
+
+<p>Se ejecutan trabajos en estructura met&aacute;lica para la colocaci&oacute;n de las celdas solares que alimentar&aacute;n el sistema el&eacute;ctrico que har&aacute;n funcionar las instalaciones, as&iacute; como la estructura met&aacute;lica del edificio de entrada al hotel.</p>
+
+<p>Asimismo, y como parte del programa de mitigaci&oacute;n ambiental, se tiene programado un plan de reforestaci&oacute;n con m&aacute;s de cinco mil &aacute;rboles end&eacute;micos.</p>
+
+<p>Por &uacute;ltimo, en la ciudad de Chetumal tambi&eacute;n se construye un edificio para la empresa de participaci&oacute;n estatal mayoritaria Tren Maya, el cual forma parte de la red de instalaciones que operar&aacute; el adecuado funcionamiento del tren. Consta del edificio de zona, estacionamiento, almac&eacute;n y destacamento de seguridad, el cual se encuentra totalmente terminado y listo para ser utilizado.</p>
+
+<p>Es cuanto, se&ntilde;or presidente.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Hemos concluido.</p>
+
+<p>Vamos a concluir con el compromiso de darle la palabra a tres compa&ntilde;eras que quedaron pendientes: Sandra Aguilera, Mar&iacute;a Luisa Estrada y Sandra Aguilar.</p>
+
+<p><strong>PREGUNTA:</strong> Muchas gracias, presidente.</p>
+
+<p>Sandra Aguilera, de <em>Grupo Larsa Comunicaciones.</em></p>
+
+<p>Presidente, esto m&aacute;s que pregunta, es un agradecimiento. Tengo para usted menci&oacute;n de muchas personas que se comunicaron con nosotros para decirle que este 2023 han recibido muchos beneficios de parte de usted las madres de los ni&ntilde;os violentados est&aacute;n agradecidas con usted, han podido avanzar; los padres de las v&iacute;ctimas de los asesinados por m&eacute;dicos esteticistas, tambi&eacute;n de personas enfermas que les han salvado la vida en las diferentes instituciones.</p>
+
+<p>Aprovecho para darle las gracias a la Secretar&iacute;a de Salud y al IMSS a trav&eacute;s de Pati Hern&aacute;ndez y Zo&eacute; Robledo.</p>
+
+<p>Y tambi&eacute;n a Rosa Icela, a trav&eacute;s de su secretaria particular Evangelina, por atender a los damnificados de Acapulco, que estuvieron comunic&aacute;ndose con nosotros por falta de luz, por todo lo que les faltaba.</p>
+
+<p>Y tambi&eacute;n est&aacute;n muy agradecida la gente de Acapulco por todos los enseres dom&eacute;sticos que usted ha enviado, y nos dicen que est&aacute;n todav&iacute;a mejor que antes que llegara el hurac&aacute;n, que no ten&iacute;an todo lo que tienen ahora.</p>
+
+<p>Y hablando de Acapulco, presidente, usted se comprometi&oacute; para darles un certificado de posesi&oacute;n de vivienda a las personas que hab&iacute;an perdido las viviendas; sin embargo, est&aacute;n muy preocupados los due&ntilde;os de esas propiedades, que las tienen escrituradas porque son los propietarios, y dicen que qu&eacute; va a pasar con esos certificados que usted va a dar, cuando ellos tienen la escritura de que son los propietarios y ellos compraron esos lugares.</p>
+
+<p>El escrito se lo mand&eacute; a las personas indicadas de la Secretar&iacute;a del Bienestar. Nos atend&iacute;a Lidia Arce; sin embargo, no hemos tenido ninguna respuesta y quisiera saber si usted tiene algo que decirles a ellos para que no se preocupen. &iquest;Y con qui&eacute;n nos vamos a poder seguir comunicando de la Secretar&iacute;a del Bienestar?</p>
+
+<p>Eso es, por un lado, presidente.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Bueno, en este caso se hizo un censo y la mitad de los habitantes de Acapulco no tienen sus escrituras y por eso se les va a entregar un documento, un certificado, porque ya llevan a&ntilde;os viviendo en estas casas, son sus propiedades, y, en otros casos, donde existen escrituras, pues se va a respetar la propiedad.</p>
+
+<p>Lo est&aacute; viendo Ariadna Montiel, la secretaria de Bienestar, que ellas est&aacute;n atendiendo desde Acapulco. No se han movido de all&aacute;, all&aacute; est&aacute; toda la Secretar&iacute;a de Bienestar y est&aacute;n trabajando servidores de la naci&oacute;n, de todo el pa&iacute;s, desde el primer d&iacute;a de los da&ntilde;os ocasionados por el hurac&aacute;n.</p>
+
+<p>Lamento mucho que este fin de semana perdieron la vida tres servidores de la naci&oacute;n en un accidente de Chilpancingo a Acapulco. Seis salieron afectados, tres lamentablemente perdieron la vida, tres heridos; los seis de Papantla, Veracruz, lo que demuestra c&oacute;mo han llegado a ayudar a Acapulco de todo M&eacute;xico.</p>
+
+<p>Hay como 10 mil servidores p&uacute;blicos en Acapulco, y de la Guardia Nacional, de Marina, de la Secretar&iacute;a de la Defensa, m&aacute;s de 20 mil elementos. Afortunadamente, se est&aacute; avanzando bien, se est&aacute; regresando a la normalidad.</p>
+
+<p>Ma&ntilde;ana por la tarde-noche voy a Acapulco y el mi&eacute;rcoles vamos a reunirnos, y la conferencia de prensa va a ser all&aacute; en Acapulco, vamos a informar de todo el programa de reconstrucci&oacute;n que estamos llevando a cabo.</p>
+
+<p><strong>INTERLOCUTORA:</strong> &iquest;Nos van a invitar?</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> S&iacute;. &iquest;Han ido las anteriores ocasiones?</p>
+
+<p><strong>INTERVENCI&Oacute;N:</strong> S&iacute;.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Ah, bueno, entonces s&iacute;.</p>
+
+<p><strong>INTERLOCUTORA:</strong> Gracias, presidente.</p>
+
+<p>Por otro lado, el 16 de diciembre pasado Carlos Andr&eacute;s, un joven con discapacidad viajaba de AIFA hacia Canc&uacute;n. Sin embargo, no le permitieron abordar el avi&oacute;n en Viva Aerob&uacute;s porque es un joven con discapacidad.</p>
+
+<p>&Eacute;l viajaba solo y como si &eacute;l tuviera alg&uacute;n retraso mental, cuando &eacute;l entiende perfectamente todo. Y dec&iacute;a: &lsquo;&iquest;Por qu&eacute; no puedo viajar solo, si yo entiendo todo completamente?&rsquo; No le dieron la oportunidad de viajar y dijeron que porque eran normas de seguridad de la aerol&iacute;nea.</p>
+
+<p>Entonces, un pasajero dijo que &eacute;l se hac&iacute;a responsable y firmaba una responsiva para que pudieran permitirle el acceso a este joven. Este joven hizo unos videos, a m&iacute; me lo mand&oacute;, lo mand&oacute; a muchos medios de comunicaci&oacute;n, diciendo que no puede ser posible que haya tanta discriminaci&oacute;n para las personas discapacitadas y sobre todo que ellos cuentan con una mente normal, pueden platicar, pueden hablar, pueden entender, porque lo trataban como una persona con alg&uacute;n retraso mental.</p>
+
+<p>Entonces, &eacute;l dec&iacute;a que, bueno, que le pidiera a usted que esto es un gobierno humanista y que usted no permitir&iacute;a esto, porque finalmente hay muchos ni&ntilde;os que viajan solos y la tripulaci&oacute;n se hace cargo de ellos. Y dice &eacute;l que la tripulaci&oacute;n lo hac&iacute;a menos y lo exhib&iacute;a delante de los dem&aacute;s pasajeros.</p>
+
+<p>&Eacute;l est&aacute; muy preocupado porque hay muchos millones de personas con discapacidad que viajan y no puede ser posible que sean tratados de esta manera. &iquest;De qu&eacute; manera puede haber un cambio?</p>
+
+<p>Y, por otro lado, tambi&eacute;n se quejan personas que viajan en Volaris, donde no han respetado el uso de su maleta, que llevan una maleta con ellos y siempre les quieren cobrar algo. Esto lo hab&iacute;a dicho Profeco que no ten&iacute;a que ser.</p>
+
+<p>Ellos le comentaron que Profeco lo hab&iacute;a comentado y dijeron que no, que eso no importa porque eso viene en la ley de aviaci&oacute;n, que los pasajeros pagan menos dinero para poder viajar sin equipaje, que eso era culpa de los pasajeros por no querer pagar m&aacute;s dinero. Quiero saber qu&eacute; es lo que puede suceder o qu&eacute; es lo que va a pasar con estas personas.</p>
+
+<p>Y, sobre todo, presidente, creo que Profeco tiene gran tarea porque tambi&eacute;n tenemos denuncias de Telcel, donde ahora que fueron vacaciones muchas personas quitaron su Telcel por irse a Europa o a otros lugares, y que no les siguieran cobrando o no hubiera el pago de wifi o de datos en el extranjero, que es muy caro; sin embargo, abusando Telcel, les dijo que, si no pagaban sus 40 mil o 50 mil pesos que les hab&iacute;a llegado el recibo, los iban a poner en Bur&oacute; de Cr&eacute;dito, esto se denunci&oacute; a Profeco. Sin embargo, ellos siguen en el mismo papel de querer pagar, eso con la ventaja que ellos tienen sobre los usuarios de meterlos a Bur&oacute; de Cr&eacute;dito. &iquest;Qu&eacute; podemos hacer en este caso, presidente?</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Pues aqu&iacute; est&aacute; el procurador.</p>
+
+<p><strong>DAVID AGUILAR ROMERO:</strong> Gracias. Qu&eacute; tal, muy buenos d&iacute;as.</p>
+
+<p>Vamos tema por tema. En el caso, en el primer caso de la persona con discapacidad que viaj&oacute; por Viva Aerob&uacute;s, ya estamos en pl&aacute;ticas con la empresa de aviaci&oacute;n para reforzar y mejorar, en la medida de lo posible, este tipo de temas, no &uacute;nicamente en cuanto a las personas con discapacidad, tambi&eacute;n hay algunos temas en el caso del viaje de menores sin acompa&ntilde;ante, etc&eacute;tera. Entonces, estamos en pl&aacute;ticas.</p>
+
+<p>Nosotros estamos abiertos para contactar a esta persona y que nos pueda exponer de manera concreta y espec&iacute;fica el caso, no para verlo de manera general, sino para abordar el tema de manera espec&iacute;fica y que no quede como un caso aislado, sino creo que la sensatez y el sentido com&uacute;n nos da cuenta de que no debe quedar as&iacute;, que tiene que generalizarse, y que no es &uacute;nicamente el tema de las personas con discapacidad, adultos mayores, menores sin acompa&ntilde;ante, etc&eacute;tera.</p>
+
+<p>Estamos atendiendo ese tema, pero, si tienes alguna informaci&oacute;n, bienvenida y estoy abierto para que me puedas proporcionar el dato.</p>
+
+<p>En el tema de Volaris, que es una &uacute;nica aerol&iacute;nea, y qu&eacute; bueno que tengo la oportunidad de mencionarlo, tambi&eacute;n hay que reforzar algo: el caso de Viva Aerob&uacute;s, el caso de Aerom&eacute;xico, son aerol&iacute;neas que han respetado, sobre todo Aerom&eacute;xico, el tema de viajar con equipaje de no mayor a 10 kilogramos.</p>
+
+<p>Con Volaris hemos tenido problema, en esta temporada vacacional al arranque del operativo enfatizamos eso y seguimos en este tema, porque de lo contrario vamos a tener que entrar de manera m&aacute;s enf&aacute;tica en materia legal para reforzar el tema del equipaje no mayor a 10 kilogramos.</p>
+
+<p>Ese tema lo estamos tratando, se ha venido dando seguimiento desde el a&ntilde;o pasado, y vamos a tener muy buenas noticias entre febrero y marzo para respetar estos tiempos legales sobre ese tema.</p>
+
+<p>Y el &uacute;ltimo tema era&hellip;</p>
+
+<p><strong>INTERLOCUTORA:</strong> Telcel.</p>
+
+<p><strong>DAVID AGUILAR ROMERO:</strong> Perd&oacute;n, el tema del Telcel. El tema del <em>roaming</em>, los datos cuando sales fuera del pa&iacute;s, en t&eacute;rminos generales Canad&aacute; y Estados Unidos no est&aacute;n incluidos o, m&aacute;s bien, est&aacute; incluido en la mayor&iacute;a de los paquetes. Pero no es algo nuevo, los usuarios y consumidores tambi&eacute;n deben de estar enterados e informados de las cuotas, las tarifas que existen cuando sales del pa&iacute;s.</p>
+
+<p>Sin embargo, tambi&eacute;n hemos platicado con Telcel y con las otras empresas de telefon&iacute;a celular para que difundan y tengamos mayor informaci&oacute;n como consumidores al respecto, sobre todo en temporadas vacacionales.</p>
+
+<p>Este tema en particular que has comentado, efectivamente, nos han llegado quejas, algunas denuncias, sobre todo en redes sociales, por lo que contactamos desde la semana pasada mi&eacute;rcoles, jueves a la empresa.</p>
+
+<p>Esta misma semana tendremos reuniones para abordar ese tema y ver de qu&eacute; manera y en qu&eacute; casos se puede desahogar este tipo de quejas por ahora. Se puede tener cierto margen de negociaci&oacute;n con los consumidores y en qu&eacute; otros casos por tener el tener el tipo de plan que se tiene y las tarifas establecidas, pues, si no hay manera de desahogarlo, ver de qu&eacute; manera se puede llegar a un buen acuerdo y, sobre todo, a una conciliaci&oacute;n.</p>
+
+<p><strong>INTERLOCUTORA:</strong> Muchas gracias.</p>
+
+<p>Presidente, en otro tema, tengo a una chica que se llama Amarande Riojas, quien fue abusada sexualmente por una persona. Es el hijo, son los hijos de personas importantes que usaron el influyentismo para no ser llevados a la c&aacute;rcel porque, pues, bueno, su pap&aacute; era senador. Estamos hablando de personas con poder que las han amenazado.</p>
+
+<p>Este senador Javier Lozano, su hijo Javier Lozano Ponzanelli y Gabriel Casta&ntilde;eda G&oacute;mez-Mont son <em>juniors</em> protegidos por sus padres. Ellas est&aacute;n muy preocupadas y ten&iacute;an mucho miedo de alzar la voz ya que dec&iacute;an que las estaban amenazando.</p>
+
+<p>Sin embargo, se han llevado a cabo con la fiscal&iacute;a este tipo de denuncias, se han llevado las audiencias; sin embargo, estas audiencias han salido a favor de ellos. Aqu&iacute; claramente se ve que el dinero que est&aacute;n entregando porque estos padres que sus hijos sean castigados por algo muy malo que han hecho.</p>
+
+<p>Ellas me dicen que uno de los jueces, que es el que est&aacute; llevando el caso, est&aacute; acusado de violaci&oacute;n, o sea, el mismo juez est&aacute; acusado. Entonces, obviamente hay mucha corrupci&oacute;n, ya usted lo ha dicho tantas veces. Sin embargo, ellas le piden, presidente, que se lleve todo conforme a derecho, que cambien al juez, que se lleve vigilancia, vigilancia en este caso porque ellas son dos que acaban de levantar la voz. Sin embargo, debe de haber m&aacute;s personas que son abusadas por estas personas.</p>
+
+<p>Ellas fueron, levantaron la voz en el 2023, no ha pasado absolutamente nada por influyentismo. Entonces, quieren su apoyo, presidente, si es tan amable.</p>
+
+<p>Y ya, por &uacute;ltimo, presidente, para no abusar tanto, le quiero comentar que tenemos una denuncia de pap&aacute;s y maestros de ni&ntilde;os de Morelia, en Michoac&aacute;n. Hace 45 a&ntilde;os le donaron un predio a una universidad, bueno, a una escuelita, hicieron una escuela de integraci&oacute;n, donde usted sabe que van personas de todas las edades y les dan de todo, todo lo que son las clases.</p>
+
+<p>Ellos, el estado, no paga absolutamente, no paga a los maestros, no pagan nada, lo pagan directamente las personas voluntarias. Sin embargo, el gobernador hizo un nombramiento como rectora a Yarab&iacute; &Aacute;vila Gonz&aacute;lez, como rectora de la m&aacute;xima casa de estudios de la Universidad Michoacana; sin embargo, ella ha demostrado su falta de calidad humana y meti&oacute; un juicio para desalojar a los estudiantes de esta escuela. Los padres de familia, toda la sociedad tuvo que ir para que no los sacaran de esta escuela.</p>
+
+<p>Me contact&oacute; la senadora Pi&ntilde;a, le mand&oacute; una carta que me hizo favor Jes&uacute;s de entregarle, firmada por muchos senadores que est&aacute;n defendiendo la causa. Ella dice que en estas escuelas hace falta en todo Michoac&aacute;n, porque lo que necesitan justamente las personas de Michoac&aacute;n, donde corren tanto peligro de ser contratadas o de ser pues atra&iacute;das por el crimen organizado, es educaci&oacute;n y mantenerse ocupadas, y mantener su vida llena de objetivos y metas.</p>
+
+<p>Pide su apoyo para poder rescatar este centro y ojal&aacute; se pudieran poner m&aacute;s centros.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Muy bien. Mira, en el primer caso le vamos a pedir a Rosa Icela Rodr&iacute;guez que lo atienda y que ella se ponga en comunicaci&oacute;n con las j&oacute;venes.</p>
+
+<p>Tambi&eacute;n, el caso de Michoac&aacute;n, de la educaci&oacute;n, pedirle a Leti Ram&iacute;rez, secretaria de Educaci&oacute;n que lo vea. Creo que es una escuela que lleva el nombre de Felipe Carrillo Puerto, s&iacute;. Le&iacute; la denuncia, que depende tambi&eacute;n de la universidad o tiene alg&uacute;n v&iacute;nculo con la universidad nicola&iacute;ta, &iquest;no?, de Michoac&aacute;n. Lo vamos a ver, s&iacute;, con Leti Ram&iacute;rez.</p>
+
+<p>Muy bien. Mar&iacute;a Luisa.</p>
+
+<p><strong>PREGUNTA: </strong>Gracias, buenos d&iacute;as, se&ntilde;or presidente. Mi nombre es Mar&iacute;a Luisa Estrada, soy del estado de Jalisco, del medio de comunicaci&oacute;n <em>La Grillotina Pol&iacute;tica</em>. Buenos d&iacute;as a todos los presentes.</p>
+
+<p>El primer tema que traigo, &iexcl;h&iacute;jole!, pues es que soy de Jalisco y tengo que tocar esos temas: el tema de desaparecidos en el estado de Jalisco. Yo he estado observando que recientemente dieron informe de la manera en que est&aacute;n manejando el recabar la informaci&oacute;n sobre los desaparecidos de la lista que dej&oacute; Karla Quintana.</p>
+
+<p>Nos dimos a la tarea de investigar este tema, porque hay varios huecos ah&iacute;, referente al informe que se dio por parte de la secretaria de Gobernaci&oacute;n, Luisa Mar&iacute;a Alcalde, y la nueva comisionada. Una de ellas, por ejemplo, mencionaban que Karla Quintana hab&iacute;a dado declaraciones. Ah&iacute; hubo mala informaci&oacute;n, porque Karla Quintana, efectivamente, s&iacute; dio declaraciones, pero no fue a medios de comunicaci&oacute;n, no fue ni con Aguayo, ni Aristegui, ni nada, fue en un seminario sobre violencia y paz en donde ella declara que hab&iacute;a renunciado porque en este gobierno se pretend&iacute;a borrar las listas y disminuir los desaparecidos, sobre todo de este gobierno. Quien saca a la luz esta informaci&oacute;n es el noticiero de Azucena Uresti, en <em>Milenio</em>, y al otro d&iacute;a todo mundo replic&oacute; la nota.</p>
+
+<p>Pero s&iacute; llama la atenci&oacute;n que Karla Quintana en este seminario sobre la violencia y la paz, con un grupo de abogados o estudiantes de Derecho, declarara esta&hellip;. En donde dec&iacute;a que&hellip; De hecho, me parece Jenaro Villamil tiene ese video porque yo lo vi en <em>Canal 14</em>, y de hecho lo traigo tambi&eacute;n para sostener lo que se est&aacute; diciendo, ella mencionaba que quer&iacute;an manipular las cifras porque en este sexenio es donde m&aacute;s desaparecidos se ha dado.</p>
+
+<p>Pero en el tema de materia de desaparecidos es algo que yo he estado investigando desde el 2020, &iquest;por qu&eacute;? Porque tan solo el estado de Jalisco las cifras oficiales referente al gobierno de Enrique Alfaro Ram&iacute;rez arrojan de la &uacute;ltima cifra de 14 mil 956 desaparecidos, esa es la informaci&oacute;n del 21 de agosto de 2023. Pero la realidad es que, hablando con todos los colectivos del estado de Jalisco, est&aacute;n arrojando m&aacute;s de 20 mil desaparecidos, solamente del 1&ordm; de enero del 2019 a la fecha. No ha habido conteo desde el 1&ordm; de agosto del 2023.</p>
+
+<p>Hay investigaciones de la UdeG y catedr&aacute;ticos de la UdeG y de otras universidades de otros estados en donde han sostenido que las cifras en el estado de Jalisco se maquillan, al igual que todos los colectivos del estado de Jalisco.</p>
+
+<p>Otra de las cosas: del 2006 al 2017 se public&oacute; oficialmente que entre esos a&ntilde;os se cremaron m&aacute;s de mil 700 cuerpos. Y en el 2014 se declara que no era legal por el tema de los desaparecidos.</p>
+
+<p>&iquest;Por qu&eacute; menciono esto?</p>
+
+<p>Porque yo hablaba con los colectivos y ellos me mencionaban que la inconformidad que existe, una es que s&iacute; ha habido mala informaci&oacute;n por parte de Emilio &Aacute;lvarez Icaza y tambi&eacute;n por parte, en su momento, de Karla Quintana.</p>
+
+<p>El d&iacute;a que ella renunci&oacute;, los colectivos de hecho salieron en m&uacute;ltiples entrevistas, las Madres Rastreadoras de Sonora, los colectivos del estado de Jalisco, salieron a declarar que no se perd&iacute;a nada con la renuncia de Karla Quintana, incluso publicaron cartas de sus colectivos en donde, pues se&ntilde;alaban desviaci&oacute;n de fondos, fiestas injustificadas, traslados en camionetas de lujo, y en donde incluso hay una entrevista muy interesante en <em>El Financiero Bloomberg TV,</em> en donde varias fundadoras de colectivos de Tamaulipas mencionaban que siempre hab&iacute;a sido simulaci&oacute;n.</p>
+
+<p>Por otra parte, yo entrevist&eacute; a varios colectivos de mi estado; mencionaban que nunca se dieron reuniones de trabajo, que nunca aceptaron la informaci&oacute;n que ellos han ido recabando. Entonces, s&iacute; se ha manejado de una manera muy sesgada, muy sensacionalista el hecho de decir que Karla Quintana nunca declar&oacute;, eso es mentira, s&iacute; lo declar&oacute;, el detalle es que lo replicaron en los medios, y ah&iacute; siento que se hizo el tel&eacute;fono descompuesto.</p>
+
+<p>Pero tambi&eacute;n cabe mencionar que, en este tema, cuando estaba el exgobernador Arist&oacute;teles Sandoval, que en paz descanse &mdash;lo digo con mucho respeto, sobre todo por su familia&mdash; se dio un caso de los dos tr&aacute;ileres que andaban de un lado a otro, con cuatro mil 500 cuerpos, porque hay una ineficiencia en la Semefo, en los servicios periciales en el estado de Jalisco, est&aacute;n rebasados. No se han identificado esos cuerpos porque ni siquiera se les ha hecho pruebas de ADN, est&aacute;n enterrados en un pante&oacute;n donde est&aacute;n alquilando los nichos, por decirlo de alguna manera.</p>
+
+<p>&iquest;A qu&eacute; voy con todo esto?</p>
+
+<p>Que realmente no va a existir una cifra concisa, &iquest;por qu&eacute;? Porque entre los m&aacute;s de mil 700 que cremaron de manera ilegal sin pruebas de ADN, nada, no van a ser identificados.</p>
+
+<p>El otro lado, los cuatro mil 500 cuerpos que no se han ocupado en hacerles pruebas de ADN. El que estaba en ese momento al frente de la Semefo fue destituido, incluso su hija la desaparecieron.</p>
+
+<p>Entonces, no se practican pruebas de ADN, no checan las cifras que manejaba Karla Quintana, &iquest;por qu&eacute;? Porque tan s&oacute;lo en el estado de Jalisco las cifras oficiales dicen que son 14 mil, cerrando los n&uacute;meros son 15 mil, pero estuvimos observando las p&aacute;ginas del estado de Jalisco en donde reportan a los desaparecidos y nos dimos cuenta que pasan hasta 10 d&iacute;as que no suben las fichas.</p>
+
+<p>La otra, no manejan las fichas a nivel nacional, las manejan municipal. Estatal, estatal, perd&oacute;n. &iquest;Y as&iacute; c&oacute;mo se va a tener una cifra real? Porque es totalmente err&oacute;nea la cifra que manej&oacute; Karla Quintana.</p>
+
+<p>Tan s&oacute;lo en el sexenio de Felipe Calder&oacute;n, y eso est&aacute; documentado, gracias a los colectivos &mdash;porque los colectivos emanaron del sexenio de Felipe Calder&oacute;n, as&iacute; como c&aacute;rteles, as&iacute; como fosas clandestinas&mdash; arrojan que son aproximadamente 90 mil desaparecidos, m&aacute;s los 20 mil que arrojan los colectivos del estado de Jalisco, m&aacute;s los cuatro mil 500 que no han sido identificados y m&aacute;s los mil 700 que fueron incinerados, no dan las cifras.</p>
+
+<p>Es absurdo que se maneje que, en este sexenio, y no es por lavarle la cara al sexenio, es que son familias que est&aacute;n buscando a sus desaparecidos. Aqu&iacute; la pregunta es si existe la posibilidad de recibir estado por estado a los colectivos sin intermediarios de los gobiernos estatales, que sea directo el trato con los colectivos, gobierno federal con colectivos, &iquest;por qu&eacute;? Porque lo &uacute;nico que est&aacute;n esperando ellos es ser escuchados.</p>
+
+<p>Y en el estado de Jalisco somos el estado a nivel nacional &mdash;y en Latinoam&eacute;rica&mdash; que encabeza la cifra de desaparecidos. Tan solo el a&ntilde;o pasado en el parque &lsquo;La Primavera&rsquo;, hasta donde se supo la informaci&oacute;n y la Fiscal&iacute;a General del estado de Jalisco dej&oacute; entrever, 144 bolsas con restos humanos que no son identificados. Entonces, realmente no se va a poder tener una cifra exacta con todo esto.</p>
+
+<p>Solamente estoy refiri&eacute;ndome al estado de Jalisco, pero el d&iacute;a que suelte el panel el estado de Guanajuato se va a abrir una cloaca brutal porque tambi&eacute;n ah&iacute; no est&aacute;n identificando cuerpos; a pesar de que Diego Sinhue inaugur&oacute; un centro de inteligencia en todo el tema de identificaci&oacute;n de cuerpos, no est&aacute;n haciendo eso.</p>
+
+<p>Entonces, ese ser&iacute;a el primer planteamiento, el hecho de tal vez manejar por estado desaparecidos y si existe la posibilidad de que reciban, sin intermediarios, directamente gobierno federal y colectivos de cada estado de la Rep&uacute;blica, porque la realidad es que ellos son los que est&aacute;n juntando la informaci&oacute;n, son los que salen a investigar, son los que salen a rascar, son los que salen a enterrar varillas, se les va la vida ah&iacute;.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Pues, mira, en primer lugar, no hay de parte nuestra la intenci&oacute;n, nunca ha habido, de borrar a ning&uacute;n desaparecido; es un asunto de convicciones, de principios, de honestidad, nosotros no nos atrever&iacute;amos a hacer algo as&iacute;. Lo que se est&aacute; llevando a cabo es una revisi&oacute;n y una b&uacute;squeda general, nacional, para aclarar precisamente qu&eacute; es lo que hay en cuanto a los desaparecidos, y se est&aacute; poniendo orden.</p>
+
+<p>Y la Secretar&iacute;a de Gobernaci&oacute;n est&aacute; a cargo de este trabajo con el apoyo de todos, gobiernos estatales y con el apoyo de la Secretar&iacute;a de Seguridad P&uacute;blica, y de todo el gabinete de seguridad. Y vamos a estar informando aqu&iacute;, ya nos comprometimos a eso, cada mes para ir aclarando, porque nuestros adversarios &mdash;que no son nuestros enemigos, pero s&iacute; nuestros adversarios&mdash; tratan, &iquest;no?, de mancharnos, nos difaman un d&iacute;a s&iacute; y el otro tambi&eacute;n. Pero &iquest;qu&eacute; es lo mejor para enfrentarlos? Informar, transparentar todo. Una regla de oro de la democracia es precisamente la transparencia. El que nada debe, nada debe de temer.</p>
+
+<p>Entonces, vamos a estar informando, informando, informando, informando, contrarrestando toda esa campa&ntilde;a de mentiras. Y se ha logrado porque no tiene efecto, toda la guerra sucia de ahora no ha funcionado, porque la gente nos tiene confianza, y les agradecemos mucho el que conf&iacute;en en nosotros, con el principio, con el juramento de no mentir, no robar, no traicionar al pueblo.</p>
+
+<p>Por eso no avanzan en su af&aacute;n de afectar al gobierno de la transformaci&oacute;n, no pueden, y cada vez ense&ntilde;an m&aacute;s cobre. Ayer, antier estaba yo viendo que hasta el expresidente &mdash;bueno, no &lsquo;hasta&rsquo;, &eacute;l siempre ha estado, pero ya en el rid&iacute;culo&mdash; el expresidente Calder&oacute;n mostrando un supuesto abandono, deterioro de la planta de energ&iacute;a el&eacute;ctrica de Laguna Verde, y luego &eacute;l mismo sale a decir que las im&aacute;genes no eran de Laguna Verde; o sea, primero cuestionando la falta de mantenimiento de Laguna Verde: &lsquo;&iexcl;Miren en qu&eacute; situaci&oacute;n est&aacute;!&rsquo; A ver, &iquest;por qu&eacute; no pones&hellip;?</p>
+
+<p>Estoy hablando del que usurp&oacute; la Presidencia de la Rep&uacute;blica, no de cualquier persona. Imag&iacute;nense, Ciro y L&oacute;pez-D&oacute;riga, y Loret de Mola, y etc&eacute;tera, etc&eacute;tera, etc&eacute;tera; <em>El Universal</em> y <em>Radio F&oacute;rmula</em>, <em>Reforma</em>, todos. Si el que usurp&oacute; a Presidencia se lanza con eso, &iquest;qu&eacute; se puede esperar de otros?</p>
+
+<p>Entonces, lo que hay que tener pues es paciencia, no dejarse enga&ntilde;ar, esperar.</p>
+
+<p><em>Radio F&oacute;rmula</em>; entre otros, la Susana&hellip;</p>
+
+<p><strong>INTERVENCI&Oacute;N:</strong> Azucena.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Azucena Ur&eacute;stegui&hellip;</p>
+
+<p><strong>INTERVENCI&Oacute;N:</strong> Uresti.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Ur&eacute;stegui, pero con lo de Guerrero, lo de los 30 fallecidos con drones, todo el fin de semana; tom&aacute;ndole la declaraci&oacute;n a un sacerdote, a un defensor de derechos humanos.</p>
+
+<p>Pero <em>Radio F&oacute;rmula</em> todo el d&iacute;a. Y todav&iacute;a ayer en Orizaba, que fui a la conmemoraci&oacute;n, a recordar a los m&aacute;rtires de R&iacute;o Blanco, el compa&ntilde;ero periodista de <em>Radio F&oacute;rmula</em>, &iquest;no?, con la misma pregunta.</p>
+
+<p>Le digo: No es contigo. No se lo arrebat&eacute;, como dicen, le digo: Pr&eacute;stame. Le agarr&eacute; su micr&oacute;fono.</p>
+
+<p>Son los due&ntilde;os, que est&aacute;n enojados, no es contigo, &iquest;eh?, s&iacute;, porque a ellos los mandan. Pero es magnificar todo lo que tiene que ver con la violencia. Ya no les queda de otra, por algo ser&aacute; que est&aacute;n desesperados.</p>
+
+<p>Igual <em>Proceso</em>, porque es lo mismo, pero me est&aacute; preguntando que si qu&eacute; cosa fue lo que sucedi&oacute;. Ya se dio informaci&oacute;n, hay hasta un comunicado de la fiscal&iacute;a; sin embargo, eso no lo toman en cuenta, eso no se ve.</p>
+
+<p>Es que 30 muertos con drones en una comunidad de Tlacotepec en la sierra de Guerrero, pero el fin de semana, bueno, hasta la rosca de Zacatecas, que la imagen era de hace 10 a&ntilde;os, pero, bueno, miren, ponen estas im&aacute;genes.</p>
+
+<p><strong>JES&Uacute;S RAM&Iacute;REZ CUEVAS, COORDINADOR GENERAL DE COMUNICACI&Oacute;N SOCIAL Y VOCERO DE PRESIDENCIA:</strong> Es un video.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Ah, un video.</p>
+
+<p>Pero miren lo que dice Calder&oacute;n:</p>
+
+<p>&lsquo;Alarmante el estado f&iacute;sico de la central nuclear de Laguna Verde, un riesgo enorme en la salud de los trabajadores. Si este descuido se refleja tambi&eacute;n en el cuidado del reactor, podr&iacute;a haber una cat&aacute;strofe de dimensiones incalculables&rsquo;. Y resulta que las im&aacute;genes&hellip;</p>
+
+<p>Hay otro de &eacute;l, otro, de Calder&oacute;n, s&iacute;, donde dice que&hellip;</p>
+
+<p><strong>JES&Uacute;S RAM&Iacute;REZ CUEVAS:</strong> Ya lo borr&oacute;.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Ah, ya lo borr&oacute;, porque las im&aacute;genes no corresponden.</p>
+
+<p>Laguna Verde tiene un mantenimiento especial, pertenece a una asociaci&oacute;n de t&eacute;cnicos, de profesionales que en el mundo se dedican a procurar la seguridad en las nucleoel&eacute;ctricas, que constantemente est&aacute;n trabajando aqu&iacute; en la Central Nuclear de Laguna Verde. Vienen incluso, acaba de haber hace como un mes un congreso en Francia, es donde tienen m&aacute;s plantas nucleares para la generaci&oacute;n de energ&iacute;a el&eacute;ctrica, estuvo hasta el director de la Comisi&oacute;n Federal de Electricidad, y es algo que se cuida mucho.</p>
+
+<p>Pero esto tiene que ver con la politiquer&iacute;a. Da hasta pena. Pero si as&iacute; est&aacute; Calder&oacute;n, imag&iacute;nense c&oacute;mo est&aacute;n los dem&aacute;s. Tuvo que borrar, no s&eacute; si este u otro.</p>
+
+<p><strong>JES&Uacute;S RAM&Iacute;REZ CUEVAS:</strong> Este lo borr&oacute; y luego dijo&hellip;</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Que no eran im&aacute;genes de Laguna Verde. Eso es lo que est&aacute; sucediendo.</p>
+
+<p>Entonces, en el caso que t&uacute; planteas, aqu&iacute; vamos a estar informando.</p>
+
+<p>&lsquo;Hace unas horas hice un comentario a un <em>post</em> del diputado Valenzuela&rsquo;. Ese debe ser un experto, el diputado Valenzuela.</p>
+
+<p>&lsquo;Me dice alguien experto que es dudoso que esas im&aacute;genes correspondan a Laguna Verde como &eacute;l comenta. Por eso lo retiro, compartiendo con ustedes esta importante precisi&oacute;n. Queda todav&iacute;a &mdash;o sea, porque hay que tener mucho cuidado con este gobierno, &iquest;no?, que es muy irresponsable&mdash; queda por revisar las modificaciones al presupuesto de mantenimiento, que son cruciales.&rsquo;</p>
+
+<p>&iquest;Con qu&eacute; autoridad moral este se&ntilde;or se pone a plantear estas cosas? Pero no s&oacute;lo se mete en esto, se mete en cuestiones de los que perdieron la vida en Guerrero, y en el Estado de M&eacute;xico. Son muy hip&oacute;critas, eso es una caracter&iacute;stica de la derecha, no hay que seguirlo, digo, no hay que dejar de decirlo, hay que seguirlo diciendo.</p>
+
+<p>La doctrina, la &uacute;nica doctrina de la derecha es la hipocres&iacute;a. Son muy hip&oacute;critas, doble discurso, doble moral y muy corruptos, mucho muy ambiciosos, los vuelve locos el dinero, muy corruptos, muy rateros los conservadores, casi todos, &iquest;eh? Y muy autoritarios. Tres cosas: ladrones, fachos, es decir, autoritarios, e hip&oacute;critas.</p>
+
+<p>Siempre recuerdo que cuando and&aacute;bamos en la lucha y enga&ntilde;aban a la gente&hellip; Ahora ya no los enga&ntilde;an; algunos que est&aacute;n enojados todav&iacute;a, y todav&iacute;a no quieren dar su brazo a torcer. Pero nos toc&oacute; estar informando plaza por plaza en todo el pa&iacute;s para que la gente internalizara que el PRI y el PAN eran lo mismo, porque muchos pensaban que eran distintos; ahora ya pues todos lo saben, lo saben, lo saben. Pero hubo un tiempo en que se pensaba que eran distintos, y nosotros dec&iacute;amos: Miren, la &uacute;nica diferencia que puede haber es la que hay entre la Coca-Cola y la Pepsi Cola. Y dec&iacute;amos otras cosas, la diferencia es que los priistas &mdash;y no todos, desde luego&mdash; son corruptos c&iacute;nicos.</p>
+
+<p>Hab&iacute;a quienes dec&iacute;an &mdash;l&iacute;deres sindicales que no voy a mencionar sus nombres, porque adem&aacute;s ya son finados&mdash; dec&iacute;an: &lsquo;Somos charros, o soy charro &iquest;y qu&eacute;?&rsquo;. En cambio, los panistas &mdash;no todos tambi&eacute;n&mdash; se daban ba&ntilde;os de pureza, &iquest;no?, corruptos hip&oacute;critas, unos corruptos c&iacute;nicos y los otros corruptos hip&oacute;critas.</p>
+
+<p>Bien ladrones, rateros, pero eso s&iacute;, a misa todos los domingos, y &lsquo;por mi culpa y por mi culpa y por mi grande culpa&rsquo;, y a confesar para dejar el marcador en cero y comulgar, y volver otra vez a pecar, y el domingo de nuevo a confesar para dejar otra vez en cero el marcador.</p>
+
+<p>Pero es esto que estamos ahora enfrentando. Y ya muchos, muchos, muchos, muchos, ya despertaron, est&aacute;n muy conscientes, muchos, pero hay otros que no; adem&aacute;s, est&aacute;n en su derecho, que sigan su camino y as&iacute; es la democracia, &iquest;no?</p>
+
+<p>Los que quedan, que veo, pues ya son pagados o son gentes muy vinculados al antiguo r&eacute;gimen, pero como antes ya no.</p>
+
+<p>A m&iacute; me gustar&iacute;a que nos dieran a conocer &mdash;porque s&iacute; tenemos derecho, &iquest;no?, por transparencia&mdash; cu&aacute;ntos peri&oacute;dicos vende <em>Reforma, c</em>u&aacute;ntos vend&iacute;a antes y cu&aacute;ntos vende ahora. Ya no es lo mismo.</p>
+
+<p>Por eso, s&iacute; vale la pena el debate sobre este asunto, porque antes era un poder medi&aacute;tico nefasto, porque estaban empoderados. Bueno, llegaban a poner hasta autoridades del m&aacute;s alto nivel con los medios de manipulaci&oacute;n y hac&iacute;an un gran da&ntilde;o al pa&iacute;s.</p>
+
+<p>Imag&iacute;nense lo que podr&iacute;a aportar un reportaje de Ciro G&oacute;mez Leyva sobre toda la informaci&oacute;n que posee, porque lo trat&oacute;, de Garc&iacute;a Luna; o Loret, o L&oacute;pez-D&oacute;riga. L&oacute;pez-D&oacute;riga critic&aacute;ndome porque le di un beso a un se&ntilde;or vestido de mujer. Yo beso a los hombres y me besan, y el hombre tiene sentimientos.</p>
+
+<p>&iquest;Y saben qu&eacute; me sucede con bastante frecuencia? Nada m&aacute;s que eso afortunadamente no sale: sali&oacute; de una dama, de una compa&ntilde;era, que me bes&oacute; la mano, y no me da tiempo, s&iacute;, de devolverle el beso; pero hay hombres que me besan la mano o me dan un beso, y yo les doy tambi&eacute;n un beso.</p>
+
+<p>Ayer bes&eacute; a muchos. &iquest;C&oacute;mo no? Eso es parte de mi manera de ser, son mis sentimientos. &iquest;Por qu&eacute; no voy a abrazar? &iquest;Por qu&eacute; no voy a besar? &iquest;Qu&eacute; tiene que ver la preferencia sexual?</p>
+
+<p>Un beso en la mejilla y el se&ntilde;or L&oacute;pez-D&oacute;riga, &iquest;no?, mach&iacute;n. De veras, est&aacute;n muy atrasados; pero no es que sean atrasados, es su convicci&oacute;n, son muy conservadores. Y antes pod&iacute;an ocultarlo; pero ahora, como estamos en una transformaci&oacute;n, pues son tiempos de definiciones, y ellos est&aacute;n ense&ntilde;ando desesperadamente el cobre.</p>
+
+<p>Cuando aqu&iacute; se dio a conocer lo de los secuestrados migrantes, una ma&ntilde;ana ten&iacute;amos informaci&oacute;n, no completa, ten&iacute;amos que manejar ciertas cosas con sigilo; pues ese d&iacute;a se puso, pero como loco Ciro G&oacute;mez-Leyva. Ojal&aacute; y &eacute;l hiciera la revisi&oacute;n del manejo que hizo de la informaci&oacute;n. Entonces, me acus&oacute; de que yo ya sab&iacute;a que los secuestrados hab&iacute;an pagado y que por eso los hab&iacute;an liberado; que yo ya sab&iacute;a y que estaba mintiendo, y as&iacute;, indignado. Entonces, lo &uacute;nico que quisiera yo, en este caso de Ciro, que me dijera si lo cree o fue una equivocaci&oacute;n, un error de su parte, porque desde luego que ni sab&iacute;a, es hasta despu&eacute;s que me dice Rosa Icela: &lsquo;Algunos ya pagaron&rsquo;. Y ya cuando los hab&iacute;an liberado o se les hab&iacute;a encontrado&hellip;</p>
+
+<p>Pero la acusaci&oacute;n as&iacute;, indignado. Y yo lo que quiero saber es si su indignaci&oacute;n era porque sinceramente pensaba que yo estaba mintiendo, lo cual significa que s&iacute; le preocupa realmente estas cosas y que considera que yo miento, o fue nada m&aacute;s su enojo y es pura actuaci&oacute;n, puro teatro, s&iacute;, una simulaci&oacute;n.</p>
+
+<p>Entonces, as&iacute; son estas cosas.</p>
+
+<p>Y acerca de tu pregunta, que ya se hizo un poco larga la respuesta, vamos a seguir informando, pero hay la intenci&oacute;n, que no quede ninguna duda porque, repito, lo mejor es informar, informar; que a las madres buscadoras, familiares de desaparecidos, est&aacute;n las puertas abiertas, y las atiende a las mam&aacute;s la secretaria de Gobernaci&oacute;n de manera directa.</p>
+
+<p><strong>INTERLOCUTORA:</strong> &iquest;Usted har&iacute;a la convocatoria que se acerquen al gobierno federal?</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> S&iacute;, todas, todos.</p>
+
+<p>Ayer me abordaron mam&aacute;s en R&iacute;o Blanco. Y en el caso de una de ellas, de un hijo que junto con otros fueron contratados para levantar unas encuestas en Chiapas y asesinaron a dos o tres; fueron a un hotel y al parecer la administradora del hotel ten&iacute;a vinculaci&oacute;n con los de una banda, los secuestraron. Se hizo una investigaci&oacute;n, se demostr&oacute; que hab&iacute;an asesinado a estos encuestadores, por cierto, de Morena. Pero uno, el hijo de la se&ntilde;ora de ayer no aparece, aunque ya est&aacute;n detenidos los responsables, y ella, pues como madre, desesperada. Y le dijimos que vamos a seguir en la investigaci&oacute;n, ya Rosa Icela tiene esa instrucci&oacute;n de seguirlo, lo est&aacute; viendo, lo est&aacute; atendiendo.</p>
+
+<p><strong>JES&Uacute;S RAM&Iacute;REZ CUEVAS:</strong> Lo va a atraer la Fiscal&iacute;a General de la Rep&uacute;blica ya.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Entonces que vayan con la secretaria de Gobernaci&oacute;n.</p>
+
+<p><strong>INTERLOCUTORA:</strong> Solamente para que quede claro: &iquest;cu&aacute;l ser&iacute;a la v&iacute;a? Sobre todo los colectivos que est&aacute;n escuchando, &iquest;c&oacute;mo ser&iacute;a la manera en que contactar&iacute;an a la secretaria de Gobernaci&oacute;n?</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> P&oacute;nganse de acuerdo con Jes&uacute;s y que si t&uacute; nos ayudas para que&hellip;</p>
+
+<p><strong>INTERLOCUTORA:</strong> Yo puedo ayudar con el estado de Jalisco.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Nada m&aacute;s Jalisco.</p>
+
+<p><strong>INTERLOCUTORA:</strong> Con eso, &iquest;verdad?</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Y en todos los casos, siempre hay alguna comunicaci&oacute;n, pero que se sepa que nosotros&hellip;</p>
+
+<p><strong>INTERLOCUTORA:</strong> Est&aacute;n en disposici&oacute;n.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> S&iacute;, y no ocultamos nada, no vamos a borrar a los desaparecidos de las listas.</p>
+
+<p><strong>INTERLOCUTORA:</strong> No, yo estoy consciente de eso, se&ntilde;or presidente, pero s&iacute; es necesario hacer estos se&ntilde;alamientos puntuales porque es un tema que desgraciadamente est&aacute;n utilizando de una manera indolente, deleznable. Y la realidad de las cosas es que, como lo dije en una ocasi&oacute;n, hoy lo vuelvo a repetir, resulta repulsivo que salga el expresidente Felipe Calder&oacute;n a hablar sobre la violencia, si tan solo en su sexenio eman&oacute; el c&aacute;rtel de Michoac&aacute;n, de la Familia Michoacana.</p>
+
+<p>Entonces, son actos que tambi&eacute;n uno dice que salgan a manifestarse por el tema de los desaparecidos, si la mayor parte de los desaparecidos que hoy se quieren achacar en este sexenio emanaron de Felipe Calder&oacute;n, y sin contar que no registraba los desaparecidos. Esas cifras se obtienen por los colectivos que emanaron tambi&eacute;n por el sexenio de Felipe Calder&oacute;n.</p>
+
+<p>Y la otra, sin contar con el sexenio de Enrique Pe&ntilde;a Nieto, que los colectivos, y eso se sabe muy bien, por ejemplo, en Veracruz, de desapariciones forzadas. Entonces, todas, todas esas cifras llegan a un punto que no a la cifra que daba Karla Quintana, y no porque no sea en este sexenio, sino porque est&aacute; encubriendo, y lo puedo decir sin temor a equivocarme, sexenios anteriores.</p>
+
+<p>&iquest;Por qu&eacute;?</p>
+
+<p>Porque cabe mencionar solamente, ya para cerrar este tema, que Karla Quintana, Enrique Irazoque, Emilio &Aacute;lvarez Icaza, pues emanan de la OEA; no es un secreto que Emilio &Aacute;lvarez Icaza pertenece a la OEA y trabaj&oacute; ah&iacute;, digo, tan es as&iacute; que tan s&oacute;lo en el tema de los 43 desaparecidos de Ayotzinapa tiene una demanda del 2016, Emilio &Aacute;lvarez Icaza, por desv&iacute;o de fondos, en donde se le acusa &mdash;que de hecho esta demanda est&aacute; en la antes PGR&mdash; en donde se la acusa de un desv&iacute;o de 2.65, no, 2.0 millones de d&oacute;lares y el otro de 1.250 mil millones de d&oacute;lares.</p>
+
+<p>&iquest;Por qu&eacute;?</p>
+
+<p>Porque resulta que la CIDH le da recursos a Emilio &Aacute;lvarez Icaza para que se destinaran al GIEI para que se aclarara el tema de los 43 desaparecidos y resulta que ese dinero no se sabe en d&oacute;nde qued&oacute;, qu&eacute; pas&oacute; con esa denuncia en la antes procuradur&iacute;a, si se sigue la denuncia o no se sigue.</p>
+
+<p>Y la otra, para pasar al siguiente tema, digo eso es como informaci&oacute;n, de hecho, ah&iacute; est&aacute; carpeta, pero la otra es, &iexcl;h&iacute;jole!, ojal&aacute; me sepa explicar: el 15 de julio del 2023, s&aacute;bado 15 de julio del 2023 a las 10 con 20 de la ma&ntilde;ana en la avenida Javier Mina esquina con Rom&aacute;n Morales, esto es la zona centro de Guadalajara iba a bordo de mi camioneta, es una Ford Explorer 98 Sport; iba con mi hija menor de edad.</p>
+
+<p>Yo hab&iacute;a cuidado con mucho sigilo el tema de mi hija, porque yo estoy consciente que el periodismo que yo manejo trae, trae sus ariscas, &iquest;no? Hasta ese momento no se sa b&iacute;a que yo ten&iacute;a una hija. Nos balearon. Tengo identificada la camioneta, el n&uacute;mero de placas.</p>
+
+<p>Gracias a Dios salimos ilesas, pero me enfrent&eacute; a una serie de corrupciones por parte del Mecanismo de Protecci&oacute;n a Periodistas, Activistas y Defensores de Derechos Humanos por parte de la Fiscal&iacute;a General de la Rep&uacute;blica, de las instalaciones que est&aacute;n en 16 de Septiembre, igual, en Guadalajara, Jalisco; porque fueron dos intentos, en el primero fueron dos detonaciones.</p>
+
+<p>Cabe mencionar, para que se entienda bien la situaci&oacute;n porque son muy buenos para cuestionar, yo tengo una peque&ntilde;a capacidad diferente, yo estoy sorda de este lado. El primer intento nos quiso impactar la camioneta de mi lado, y yo escucho dos estruendos, pero no los percibo, porque fue de este lado.</p>
+
+<p>Yo me subo al camell&oacute;n. De hecho, en donde yo me subo es en la mera esquina de Rom&aacute;n Morales. La camioneta se quita el alto de Javier Mina, circula. Es una de las principales arterias del estado de Jalisco. A la hora que se quita el alto, la camioneta se ve obligada a seguir la circulaci&oacute;n. Yo me qued&eacute; con la idea que era una persona que se hab&iacute;a pasado el alto y que se iba a impactar con nosotras.</p>
+
+<p>Y yo pens&eacute; que las llantas del coche o de la camioneta se hab&iacute;an reventado, porque me trep&eacute; al camell&oacute;n y golpe&eacute; con una jardinera. Alcanzamos a tomar las fotograf&iacute;as de la camioneta, es la &uacute;nica imagen que gracias a Dios se pudo tomar y un video peque&ntilde;o de ocho segundos.</p>
+
+<p>Me tranquilic&eacute;. Me ech&eacute; de reversa, me bajo del cami&oacute;n, sigo la circulaci&oacute;n y dos cuadras despu&eacute;s la camioneta nos vuelve a querer impactar, y ah&iacute; es cuando yo entiendo que es un atentado, porque cuando yo volteo yo veo al sicario con la mano extendida y donde me grita; &lsquo;Te voy a matar, culera&rsquo;.</p>
+
+<p>Y yo vi c&oacute;mo salieron las detonaciones. Lo primero que yo hice fue tratar de resguardar a mi hija, le agarr&eacute; su cabecita y la avent&eacute;, se golpe&oacute; contra el tablero; y la &uacute;nica idea que yo tra&iacute;a en la cabeza era impactarme contra un Oxxo que est&aacute; antes de llegar a Belisario Dom&iacute;nguez y Javier Mina. De hecho, en contraesquina hay un Banorte. Cabe mencionar que en esas fechas estaba en obras esa avenida, estaban haciendo se&ntilde;alamientos y poniendo foquitos; ya sabe, justificar presupuesto.</p>
+
+<p>Empiezo a pedir ayuda. Yo iba circulando con la camioneta. El sicario vuelve a hacer el intento, se va del lado derecho e impacta. Yo segu&iacute; manejando; se dan cuenta unos automovilistas, me dejan meterme.</p>
+
+<p>Yo sigo de largo. Antes de llegar a San Juan de Dios hay un paso a desnivel; yo brinco, literal, la camioneta brinc&oacute;. Entr&eacute; al paso a desnivel para salir al centro ya. Yo no me di cuenta en qu&eacute; momento dej&oacute; de perseguirnos la camioneta.</p>
+
+<p>Doy vuelta sobre Degollado, &iquest;por qu&eacute;? Porque mi intenci&oacute;n era llegar al centro que est&aacute; lleno de polic&iacute;as. Alcanzo a bajar a mi hija de la camioneta, le digo que corra. Le doy las gracias a la Escuela de M&uacute;sica de la UdeG porque ah&iacute; resguardaron a mi hija, activaron protocolos para resguardar y cerrar las puertas.</p>
+
+<p>No hab&iacute;a polic&iacute;as en la parte, a espaldas de la catedral. Yo sigo, agarro lo que es Alcalde y contraesquina de la Rotonda de los Hombres Ilustres. Es cuando yo encuentro a tres polic&iacute;as de turismo. Yo, dentro de toda la presi&oacute;n que tra&iacute;a, yo estaba segura que yo me hab&iacute;a bajado de la camioneta, pero las declaraciones de los polic&iacute;as ellos declaran que yo literal abr&iacute; la puerta y me avent&eacute; de la camioneta y la camioneta se sigui&oacute; de largo.</p>
+
+<p>Dos polic&iacute;as, uno de ellos logra jalar la llave y se apaga la camioneta, y el otro sostuvo la camioneta. Ah&iacute; yo me comuniqu&eacute; con la vocer&iacute;a de la licenciada Rosa Icela, a la cual estoy profundamente agradecida, porque si no hubiera sido por su pronta acci&oacute;n no estar&iacute;amos mi hija y yo aqu&iacute;.</p>
+
+<p>Se activ&oacute; un protocolo para resguardarme. Yo me aferr&eacute; que la denuncia se levantara en la Fiscal&iacute;a General de la Rep&uacute;blica, yo confi&eacute; en la Fiscal&iacute;a General de la Rep&uacute;blica. Hubo ah&iacute; un tastarateo entre Fiscal&iacute;a General de la Rep&uacute;blica, m&aacute;s bien entre los oficiales que fueron por nosotras para resguardarnos y elementos de la Fiscal&iacute;a General de Jalisco porque quer&iacute;an que se levantara la denuncia en la Fiscal&iacute;a General de Jalisco.</p>
+
+<p>Total, vamos a dar a la Fiscal&iacute;a General de la Rep&uacute;blica en 16 de Septiembre, las oficinas, en las instalaciones que est&aacute;n ah&iacute; en 16 de Septiembre. Me negaron la atenci&oacute;n, nos sacaron con seguridad privada. Que ah&iacute; sale una pregunta: &iquest;por qu&eacute; hay seguridad privada en edificios que son del gobierno federal, si se conoc&iacute;an que iban a haber seguridad por parte de protecci&oacute;n federal?</p>
+
+<p>Bueno, me dijeron dos MP, que no me iban a levantar ninguna denuncia, que yo no iba a levantar ninguna denuncia en ese lugar porque era un tema del estado de Jalisco y que me fuera a la Fiscal&iacute;a General de Jalisco.</p>
+
+<p>La gente que hab&iacute;a activado el protocolo para resguardarnos y darnos protecci&oacute;n pide o exige que se me d&eacute; la atenci&oacute;n. De todo esto fue testigo auditivo, porque yo lo ten&iacute;a en la l&iacute;nea, el funcionario Julio C&eacute;sar Gallegos Estrada, que es del mecanismo, que es el primero que tuvo contacto conmigo, pero eso fue gracias a la gente de Rosa Icela que se pone en contacto con ellos.</p>
+
+<p>En el segundo intento, de igual forma se negaron a dar&hellip; No se identificaron, pero ya tengo las fotograf&iacute;as de estos dos elementos de la Fiscal&iacute;a General de la Rep&uacute;blica. De ah&iacute; sale una se&ntilde;orita &mdash;nos cerraron las puertas, sacaron a mi hija&mdash; sale una se&ntilde;orita y nos dice que s&iacute; nos van a dar la atenci&oacute;n.</p>
+
+<p>Me atendi&oacute; el fiscal en jefe en turno, V&iacute;ctor Acosta. Y resulta que ah&iacute; se hacen las declaraciones, se hacen las ratificaciones, en fin, fue un proceso que termin&oacute; aproximadamente a las 10:00 de la noche.</p>
+
+<p>A mi hija se la llevaron del estado porque no sab&iacute;amos qu&eacute; iba a pasar, tanto el fiscal en jefe de turno, V&iacute;ctor Acosta como el MP, Fernando Navarro Guill&eacute;n, que es el levanta las declaraciones y todo, me hab&iacute;an dicho que se iba a girar un oficio en donde hasta que se definiera en la fiscal&iacute;a, en la FEAD de aqu&iacute; de la Ciudad de M&eacute;xico cu&aacute;l iba a ser el protocolo que se iba a manejar en mi caso; pues que iba a haber resguardo por parte de los polic&iacute;as estatales de Jalisco, del municipio de Guadalajara.</p>
+
+<p>Me mintieron desde un principio, se negaron en poner en cadena de custodia la camioneta, a pesar de que se le pidi&oacute; en cinco ocasiones antes de que sali&eacute;ramos de ah&iacute; de la fiscal&iacute;a.</p>
+
+<p>El fiscal en jefe en turno, V&iacute;ctor Acosta, le orden&oacute; a un elemento de la polic&iacute;a municipal del &aacute;rea de turismo de Guadalajara que se llevara la camioneta y que la metiera en donde yo normalmente la guardaba, que era una pensi&oacute;n.</p>
+
+<p>Tanto el polic&iacute;a como yo le dijimos: &lsquo;&iquest;C&oacute;mo se la va a llevar? Hay que ponerla en cadena de custodia para hacerle los peritajes necesarios; no quiso. Me dijeron que al otro d&iacute;a iban a enviar un equipo especializado para hacer todas las diligencias; nunca lleg&oacute; ese equipo para el d&iacute;a mi&eacute;rcoles. El d&iacute;a domingo no lleg&oacute; a pesar de que me comuniqu&eacute; a la fiscal&iacute;a, domingo 16, no me mandaron nada; el lunes 17 tampoco.</p>
+
+<p>El mi&eacute;rcoles me hablan de la pensi&oacute;n para que moviera la camioneta porque la hab&iacute;an dejado a la mitad. Me comunico y el MP Fernando Navarro Guill&eacute;n, me dice: &lsquo;No tiene caso, ya mu&eacute;vala, incluso ya hasta la puede usar, &iquest;eh?&rsquo;.</p>
+
+<p>Yo me di cuenta que no iban a hacer nada y que era simulaci&oacute;n por parte de estos elementos. Todos los tengo identificados, tambi&eacute;n los que mandaron que me sacaran y los que me dijeron: &lsquo;Aqu&iacute; no vas a hacer nada y te vas a la Fiscal&iacute;a de Jalisco&rsquo;.</p>
+
+<p>Por parte del mecanismo, el primero que me da la atenci&oacute;n es Julio C&eacute;sar Gallegos Estrada. Cuando ya sabe que estoy compareciendo, &eacute;l me dice: &lsquo;Tengo que salir a una comisi&oacute;n, ma&ntilde;ana nos comunicamos&rsquo;. En la noche se comunica conmigo, el d&iacute;a de mi atentado, Luis Jaramillo Panch&eacute;n, en donde &mdash;dur&oacute; una llamada aproximadamente dos horas&mdash; donde me estuvo haciendo una serie de preguntas, informaci&oacute;n delicada. Y me dijo al otro d&iacute;a: &lsquo;Ma&ntilde;ana, te voy a enviar un correo para que revises todo lo que acabas, la informaci&oacute;n que me acabas de dar, porque te vamos a dar medidas extraordinarias&rsquo;. Nunca lleg&oacute; ese correo.</p>
+
+<p>Al otro d&iacute;a, el domingo 16, se vuelve a comunicar conmigo Julio C&eacute;sar Gallegos Estrada y me dice: &lsquo;Le hablo para seguir con su caso&rsquo;. Me di cuenta que ni siquiera est&aacute;n coordinados. Yo le dije: Es que ya me habl&oacute; Julio C&eacute;sar&hellip; Luis Jaramillo, perd&oacute;n, y ya me le di toda la informaci&oacute;n y estoy esperando a que me env&iacute;e la documentaci&oacute;n.</p>
+
+<p>En la tarde el se&ntilde;or Julio C&eacute;sar Gallegos me manda un mensaje &mdash;todo est&aacute; respaldado, todo lo tengo documentado&mdash; en donde me dice, me pregunta por mi nombre completo, si ese era. Le dije que s&iacute;; 40 minutos despu&eacute;s me dice: &lsquo;Bueno, ya est&aacute; incorporada al mecanismo&rsquo;. Y le dije: &iquest;c&oacute;mo voy a estar incorporada al mecanismo si no he firmado nada, no me han enviado nada, no he revisado nada?</p>
+
+<p>El mi&eacute;rcoles yo me di cuenta que no iba a hacer nada nadie. No es por m&iacute;, se&ntilde;or presidente, es por mi hija, yo soy lo &uacute;nico que ella tiene. Hice lo &uacute;nico que s&eacute; hacer, es periodismo de investigaci&oacute;n, y yo sal&iacute; a recabar las pruebas; tengo grabaciones de los negocios, tengo fotograf&iacute;as de los impactos.</p>
+
+<p>Un amigo que es perito me ayud&oacute; a hacer los peritajes en la camioneta. El d&iacute;a de mi atentado, cuando me bajaron de la ambulancia, un polic&iacute;a municipal de Guadalajara, que tambi&eacute;n ya tengo su fotograf&iacute;a, lo tengo identificado, cuando me bajan de la ambulancia se me acerc&oacute; y me dijo: &lsquo;Mira, si te hubieran querido matar, te matan, esto nada m&aacute;s fue un mensaje para que le bajes. Ya b&aacute;jale mi&rsquo;ja&rsquo;.</p>
+
+<p>Este polic&iacute;a pertenece al &aacute;rea de violencia contra la mujer en perspectiva de g&eacute;nero. Hubo dos testigos, dos polic&iacute;as ciclistas del municipio de Guadalajara que tuvieron que retirarlo.</p>
+
+<p>La Comisi&oacute;n Nacional de Derechos Humanos, a pesar de que ya le envi&eacute; todas pruebas, no ha hecho nada. La Fiscal&iacute;a General de la Rep&uacute;blica, el fiscal en jefe en turno, V&iacute;ctor Acosta no me volvi&oacute; a dar la cara, no siquiera s&eacute; si de verdad es su nombre, pero el que s&iacute; tengo verificado es Fernando Navarro Guill&eacute;n.</p>
+
+<p>Giraron un oficio para que me dieran medidas de protecci&oacute;n, pero aqu&iacute; viene todo lo que empieza a manar de la corrupci&oacute;n, &iquest;por qu&eacute;? Porque no puede ser posible que t&uacute; declaras qu&eacute; elementos de la polic&iacute;a municipal, en mi caso, del estado de Jalisco municipal de Guadalajara te dan el mensaje claro y conciso y te mandan protecci&oacute;n con polic&iacute;as municipales de Guadalajara. Una.</p>
+
+<p>Dos, el primer oficio que enviaron en la fiscal&iacute;a fue por violencia dom&eacute;stica. Yo tuve que hablar con los directores de la polic&iacute;a municipal del cuadrante donde me est&aacute;n dando la protecci&oacute;n y exponer y decir. Esta es la situaci&oacute;n real. Desde ah&iacute; empez&oacute; a mentir la fiscal&iacute;a, desde que se negaron a poner en cadena de custodia la camioneta, que era una prueba fundamental; desde que no fueron a <em>peinar</em> la zona, no fueron a sacar casquillos, no fueron a ver los impactos en las dos &aacute;reas, porque s&iacute; hubo impactos en los negocios. Todo es simulaci&oacute;n.</p>
+
+<p>Por parte del Mecanismo se atrevieron a decir a ONG nacionales e internacionales que yo estaba dentro del mecanismo. Eso es una mentira, yo jam&aacute;s he estado dentro del mecanismo; ser&iacute;a un acto de incongruencia de mi parte porque yo s&eacute; c&oacute;mo est&aacute; el mecanismo, yo fui la periodista que llev&oacute; la investigaci&oacute;n de la corrupci&oacute;n dentro del mecanismo.</p>
+
+<p>Yo quiero darle las gracias a toda la prensa del estado de Jalisco que sin darse cuenta me dieron un escudo, &iquest;por qu&eacute;? Porque ellos levantaron la voz por m&iacute;; a la prensa nacional, a la prensa internacional, a las ONG, nacionales e internacionales, pero por parte del mecanismo vengo a descubrir que se simulan protecciones, vengo a descubrir&hellip; Y tengo c&oacute;mo sustentarlo, todo, todo lo que est&aacute; saliendo ahorita de mi boca, traigo videos, traigo audios, traigo documentos oficiales, traigo fotos de captura porque es la manera en que yo encuentro de defenderme y de mantenerme viva.</p>
+
+<p>Las pruebas que yo logr&eacute; recabar como videos, los impactos, etc&eacute;tera, igual, me vi obligada, porque la Fiscal&iacute;a General de la Rep&uacute;blica no hizo nada. Las medidas que estuvo dando, los rondines bitacorados por parte de la Guardia Nacional fue gracias a la licenciada Rosa Icela.</p>
+
+<p>Esto pas&oacute; el 15 de julio. El 13 de septiembre yo me resguard&eacute; durante un mes, y yo dije: Ya pas&oacute;. El 13 de septiembre, a la hora de ir a dejar a mi hija a la escuela, afuera de su escuela, sobre Enrique D&iacute;az de Le&oacute;n y Vallarta, nos rodearon m&aacute;s de 30 elementos de polic&iacute;as municipales de Guadalajara, del Grupo Gama y el Grupo Lobo, con una falsa orden de aprehensi&oacute;n en mi contra por intento de asesinato.</p>
+
+<p>Quien encabez&oacute; este operativo fue la oficial Ver&oacute;nica del Castillo, del Grupo Gama. Yo iba a dejar a mi hija a la escuela. Hay un Seven Eleven en esa esquina de Enrique D&iacute;az de Le&oacute;n y Vallarta. Mi hija se baja de la camioneta para dirigirse al Seven Eleven comprar algo para desayunar. Y a un costado est&aacute; la escuela.</p>
+
+<p>A mi hija, la oficial Ver&oacute;nica del Castillo la golpe&oacute; dentro del Seven Eleven; es menor de edad. A m&iacute; me golpearon los vidrios elementos del Grupo Lobo con armas largas. Me quisieron doblegar y quebrantar por medio de mi hija. Dos horas y media estuvimos atrincheradas en la camioneta, porque a mi hija ya no la dejaron entrar a la escuela, rodearon la escuela.</p>
+
+<p>La &uacute;nica manera que yo busqu&eacute; para defenderme fue transmitir en vivo, eso est&aacute; documentado tambi&eacute;n, e incluso se ve cuando la oficial me dijo: &lsquo;Entr&eacute;gate y dejamos a tu hija&rsquo;. Ah&iacute; est&aacute; en vivo, encapuchados, sin identificarse.</p>
+
+<p>Bendito Dios, a la gente que estaba viendo la transmisi&oacute;n y otros compa&ntilde;eros que estaban viendo la transmisi&oacute;n se comunicaron con la Guardia Nacional, lleg&oacute; la Guardia Nacional, fue de la base de Tlaquepaque, ellos tienen todo fielmente documentado. El que iba encabezando el 13 de septiembre esa situaci&oacute;n, de hecho, est&aacute; en vivo todo eso, lleg&oacute; y lo primero que hizo, dijo: &lsquo;Quiero ver la orden de aprehensi&oacute;n&rsquo;. Nunca existe una orden de aprehensi&oacute;n, se&ntilde;or presidente, llegaron al grado de decirle al que iba enfrente de ese convoy que me entregaran y que dejaran que la ni&ntilde;a se fuera.</p>
+
+<p>Yo lo &uacute;nico que quiero es que se pare esta persecuci&oacute;n. No s&eacute;, yo no quiero se&ntilde;alar a nadie, porque tampoco soy temeraria, pero s&iacute; decirle desde aqu&iacute; al gobierno del estado de Jalisco cu&aacute;l es la situaci&oacute;n. Yo no he sacado informaci&oacute;n que no se sepa, es dominio p&uacute;blico las desapariciones en el estado de Jalisco, es de dominio p&uacute;blico las fosas clandestinas, es de dominio p&uacute;blico la represi&oacute;n que existe en el estado de Jalisco.</p>
+
+<p>Tan solo el a&ntilde;o pasado, todos los hechos que se dieron, el asesinato de los ocho j&oacute;venes del <em>Call Center</em>, no se ha hecho nada al respecto; los cinco j&oacute;venes de Lagos de Moreno, no se ha hecho nada al respecto; el reciente asesinato del activista ambientalista, Higinio de la Cruz, activista en contra de la miner&iacute;a; el reciente asesinato del cantante famos&iacute;simo Lefty SM, fue asesinado adentro de su casa por el yerno de un magistrado, en donde la misma familia ha salido a declarar que ellos tuvieron que hacerla de peritos, ir a recabar pruebas, pagar para que sacaran los videos; el tema tambi&eacute;n de las recientes bolsas que encontraron, no es un secreto.</p>
+
+<p>Ahora, yo le dir&iacute;a tambi&eacute;n desde aqu&iacute; al fiscal general de la Rep&uacute;blica, Alejandro Gertz Manero: yo lo &uacute;nico que quiero es acceso a mi carpeta, yo confi&eacute; en su fiscal&iacute;a y no han hecho nada.</p>
+
+<p>Al Mecanismo de Protecci&oacute;n a Periodistas, Activistas y Defensores de Derechos Humanos&hellip; Mire, se&ntilde;or presidente, estos son los botones de p&aacute;nico que da RCU Sistemas. No es m&iacute;o, aclaro, pero es necesario hacer esto. Lo estoy apretando. Y traigo el n&uacute;mero, o sea, traigo el celular de la persona que le pertenece esto. Y as&iacute; me voy a quedar hasta que acaba la exposici&oacute;n a ver qu&eacute; hora suena el tel&eacute;fono.</p>
+
+<p>Est&aacute; el caso de la compa&ntilde;era ind&iacute;gena Marcela, &ntilde;om&rsquo;daa. En el 2017, saliendo de la radio comunitaria de Guerrero, le metieron tres balazos en la cara, le destrozaron toda esta &aacute;rea de la cara. La sacaron, la resguardaron, pero sin previo aviso le quitaron el mecanismo. La Feade solt&oacute; su caso del mecanismo le retir&oacute; todo.</p>
+
+<p>La compa&ntilde;era fue al estado de Guerrero porque ella lo que quer&iacute;a era regresar. Se ha habido obligada a separarse de sus hijos. Y le dijeron en el estado de Guerrero que no pod&iacute;a regresar porque representaba un peligro. Ojal&aacute; pudiera ser escuchada.</p>
+
+<p>Yo un d&iacute;a a usted lo escuch&eacute; que aqu&iacute; dec&iacute;a: &lsquo;&iexcl;C&oacute;mo hace falta los periodismos de investigaci&oacute;n!&rsquo; Se&ntilde;or presidente, s&iacute; existimos, somos los reporteros de provincia, porque gracias a nosotros existe la noticia; hay buenos, malos, como todo, pero s&iacute; existimos. Y yo lo vuelvo a repetir: a los que nos est&aacute;n matando, a los que nos est&aacute;n desapareciendo y levantando, somos los periodistas de provincia.</p>
+
+<p>Y la otra, tambi&eacute;n detect&eacute; de parte de RCU los famosos traslados que nunca se llevan a cabo, pero los obligan a firmar a los que est&aacute;n dentro del mecanismo, &iquest;por qu&eacute;? Bajo la amenaza que les van a quitar el mecanismo.</p>
+
+<p>Falsas protecciones, hasta que yo sal&iacute; y di declaraciones y yo dije que el mecanismo pruebe que yo estoy dentro del mismo, que saque los documentos, los enga&ntilde;os que les dan a los compa&ntilde;eros. La nueva funcionaria que entr&oacute; encargada de la valoraci&oacute;n, la jefa de Julio C&eacute;sar y de Luis me lo dijo por tel&eacute;fono el d&iacute;a 13 de septiembre: &lsquo;Querida, tu caso no amerita para m&aacute;s. Que tengas suerte&rsquo;. Y me colg&oacute;. Esa llamada est&aacute; grabada.</p>
+
+<p>Y de ah&iacute; me contactaron varios compa&ntilde;eros que se han dado cuenta que los tienen dentro del mecanismo y no tiene ni siquiera este famoso bot&oacute;n, que lo sigo apretando y no ha sonado el tel&eacute;fono, no sirven.</p>
+
+<p>Y que quede muy claro: yo no quiero al mecanismo, porque s&eacute; la corrupci&oacute;n que emana de ah&iacute; y la manera en que enga&ntilde;an a los compa&ntilde;eros.</p>
+
+<p>A m&iacute; me dijeron: &lsquo;Te vamos a dar medidas extraordinarias&rsquo;. Las medidas extraordinarias no es un bot&oacute;n que no sirve, ni rondines bitacoreados que nunca se llevan a cabo. &iquest;De d&oacute;nde se va ese dinero que ellos ponen?</p>
+
+<p>Ahora, cabe mencionar, Enrique Irazoque, que tambi&eacute;n eman&oacute;, es de la misma l&iacute;nea de Emilio &Aacute;lvarez Icaza, hasta apenas que se fue Alejandro Encinas se va Enroque Irazoque, pero tambi&eacute;n nosotros detectamos un caso de un estadounidense en donde &eacute;l viene peleando su situaci&oacute;n desde el 2013, que fue levantado por polic&iacute;as municipales de Taxco, Guerrero; peleado durante 10 a&ntilde;os.</p>
+
+<p>Tenemos audios en donde Enrique Irazoque se&ntilde;ala, lo se&ntilde;ala a usted directamente diciendo: &lsquo;Son &oacute;rdenes del presidente. Yo no puedo hacer nada&rsquo;.</p>
+
+<p>Y entonces puedo entender por qu&eacute;, por qu&eacute; los compa&ntilde;eros que buscan al gobierno federal terminan resentidos, por la manipulaci&oacute;n de la informaci&oacute;n.</p>
+
+<p>Ahora, el tema de los pagos de reparaciones de da&ntilde;o. A este estadounidense, antes, 15 d&iacute;as antes de que se fuera Enrique Irazoque, lo citaron en la secretar&iacute;a, se reuni&oacute; con Enrique Irazoque y le entreg&oacute; una hoja; hecha en Word, sin membretar ni nada, en donde adentro inclu&iacute;a a un licenciado que es una ONG, pero tambi&eacute;n est&aacute; en derechos humanos, y en donde la reparaci&oacute;n de da&ntilde;os iba a ser por m&aacute;s de tres millones; pero de ese dinero le iba a dar un porcentaje al representante de la ONG.</p>
+
+<p>Empezamos a jalar la madeja y nos dimos cuenta que, por el caso de la guionista de Michoac&aacute;n, Guadalupe Saavedra, igual, la mandaban de un estado a otro: Guanajuato, Tlaxcala, Ciudad de M&eacute;xico, porque sus hijos siguen en manos de una red de trata de blancas.</p>
+
+<p>Y resulta que nos vamos dando cuenta que es una manera de operar, &iquest;por qu&eacute;? Porque tanto Karla Quintana, Enrique Irazoque y el comisionado de Derechos Humanos de Guanajuato estaban en la CEAV en el 2016. &iquest;C&oacute;mo lograron entrar a este gobierno? Lo desconozco. Pero s&iacute;, estos que estaban en el 2016 en la CEAV se salieron y empezaron a encabezar ONG.</p>
+
+<p>&iquest;C&oacute;mo es la desviaci&oacute;n?</p>
+
+<p>Pues resulta que todos llegaban en manos de Enrique Irazoque, est&aacute; todo documentado, en donde &eacute;l pon&iacute;a a sus amigos en la lista de reparaci&oacute;n, y las v&iacute;ctimas se ve&iacute;an obligadas a dar un porcentaje de esa reparaci&oacute;n.</p>
+
+<p>Entonces, solamente aqu&iacute; salen dos preguntas:</p>
+
+<p>Una, &iquest;por qu&eacute; seguir manteniendo a un fideicomiso, que es el Mecanismo de Protecci&oacute;n a Periodistas, Activistas y Defensores de Derechos Humanos, si no prev&eacute;, no protege y no reincorpora? Porque lo de menos es que nos maten, pues dicen: &lsquo;Ya muerto, el asunto se acab&oacute;&rsquo;, pero cuando no nos logran matar&hellip; El mismo d&iacute;a de mi atentado, en Guerrero mataron a Matus, y en el 2019 Matus fue v&iacute;ctima de un atentado y sobrevivi&oacute;.</p>
+
+<p>Est&aacute; el reciente caso de otro compa&ntilde;ero que se lo expusieron en una ma&ntilde;anera, no lo mataron a &eacute;l, pero s&iacute; a su familia, &iquest;y qu&eacute; hizo el mecanismo? Nada.</p>
+
+<p>&iquest;Por qu&eacute; estas desviaciones?</p>
+
+<p>Porque no son auditables y se escudan con el tema de seguridad. &iquest;Cu&aacute;l seguridad? Te sacan cuando te extraen, pero te condenan a la muerte medi&aacute;tica, la muerte social, a la muerte laboral, porque nadie te quiere dar trabajo, porque nadie quiere cargar con una granada. En cualquier momento te pueden&hellip; Si no te mataron, a la otra s&iacute; te matan. La indiferencia tambi&eacute;n que existe por parte de los colegas; mientras no estemos unidos, nos van a seguir matando y desapareciendo.</p>
+
+<p>Y la otra, a la compa&ntilde;era Martha, ella ven&iacute;a aqu&iacute; a las ma&ntilde;aneras. No s&eacute; si usted la ubica, ella ven&iacute;a vestida de huipil. Y, ella, al final, en la ma&ntilde;anera se acerc&oacute; para entregarle un f&oacute;lder; por ese acto no la volvieron a dejar entrar en las ma&ntilde;aneras.</p>
+
+<p>Una vez usted dijo: &lsquo;La libertad no se implora, se conquista&rsquo;. Usted ha sido testigo que han sido dos ocasiones que me han bloqueado las entradas en las ma&ntilde;aneras:</p>
+
+<p>Una, usted fue muy claro aqu&iacute; y dijo: &lsquo;No, se te va a regresar&rsquo;. Y tambi&eacute;n tengo que ser honesta, yo no s&eacute; qu&eacute; est&aacute; pasando en la Vocer&iacute;a de Presidencia, porque s&iacute; es real que te proh&iacute;ben la entrada si violas&hellip; Si te tardas, te amenazan con quitarte la acreditaci&oacute;n; si te tardas, te quitan fechas, un trimestre.</p>
+
+<p>Si usted dice: &lsquo;Entr&eacute;gamelo&rsquo;, y uno se acerca y se lo entrega, te castigan, porque viene en el reglamento. No hay igualdad, no hay piso parejo, &iquest;por qu&eacute;? Porque si esto pasa con los corporativos no pasa nada.</p>
+
+<p>La otra, no nada m&aacute;s a la compa&ntilde;era Marcela, perd&oacute;n, es a la que le han prohibido la entrada, ha sido tambi&eacute;n al colega de Monterrey, Jonathan Hern&aacute;ndez, por una investigaci&oacute;n que sac&oacute; de Clara Luz; est&aacute; tambi&eacute;n el compa&ntilde;ero de Coahuila, don Albino, una amplia trayectoria, solamente le daban un d&iacute;a, no tiene caso con el gasto que se hace de Coahuila para ac&aacute;.</p>
+
+<p>Y la otra es: de esto est&aacute; consciente el vocero de la Presidencia, Jes&uacute;s Ram&iacute;rez Cuevas, porque yo en su momento se lo he hecho saber. Y tambi&eacute;n me consta que la primera vez que no me quisieron dejar entrar fue por la funcionaria que&hellip;. Bueno, ese ya es otro asunto, &iquest;no?</p>
+
+<p>Y esta ocasi&oacute;n nuevamente llegaron al grado de pedirme que enviara mis temas para revisarlos. Y eso lo sabe. Yo me comuniqu&eacute; con &eacute;l por mensaje e inmediatamente se me dieron las fechas.</p>
+
+<p>La pregunta es: &iquest;se brincan al vocero de la Presidencia? &iquest;d&oacute;nde est&aacute; el piso parejo, sino es&hellip;? Desde el momento en que te ponen una regla&hellip; Depende de los suscriptores, son los d&iacute;as que te dan. No hay piso parejo.</p>
+
+<p>Y en el momento que nosotros venimos aqu&iacute; y exponemos investigaciones, exponemos temas, nos vulneramos, porque ya tenemos rostro, ya tenemos apellido. Y desde el momento que ya no nos dejan entrar, quedamos en total indefensi&oacute;n, porque el &uacute;nico escudo que tenemos es dar la nota.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Muy bien, muy bien.</p>
+
+<p><strong>INTERLOCUTORA:</strong> Yo solamente quiero pedir, si me apoya para que me entreguen mi carpeta, si hay manera que reciban a la compa&ntilde;era, Marcela.</p>
+
+<p>Y la otra: &iquest;por qu&eacute; no analiza el tema de desaparecer el mecanismo y que usted cree uno a consciencia por las v&iacute;ctimas? Porque es un negocio redondo el mecanismo.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Muy bien. Mira, le voy a pedir a Rosa Icela que platique contigo, que te atienda sobre todo lo que expusiste.</p>
+
+<p>Informarte que se est&aacute; haciendo una revisi&oacute;n en general de todo lo que tiene que ver con la protecci&oacute;n de los derechos humanos.</p>
+
+<p>Hubo que se heredaron de las pasadas administraciones, como ten&iacute;an problemas de consciencia, se fueron creando una serie de organismos aut&oacute;nomos y de mecanismos para el combate a la corrupci&oacute;n, para la transparencia, para la defensa de derechos humanos, para el combate a la discriminaci&oacute;n, para todo.</p>
+
+<p>Crearon toda una estructura, siempre hemos hablado de eso, para simular de que se atend&iacute;an las cosas. Y se aprovechaban organizaciones no gubernamentales, supuestamente no gubernamentales, de la llamada sociedad civil, organizaciones sociales, se fue creando toda una estructura de intermediaci&oacute;n y aparatos burocr&aacute;ticos con presupuesto.</p>
+
+<p>Entonces, hemos ido avanzando. Por ejemplo, puedo decir que ya en todo lo que tiene que ver con los programas de desarrollo, los Programas de Bienestar, todos se entrega de manera directa a las personas, a los beneficiarios, ya no hay intermediaci&oacute;n.</p>
+
+<p>Se entrega de manera directa el apoyo a los adultos mayores, a los becarios, a los campesinos, a los pescadores, a los que reciben apoyos para vivienda. Ya no hay la organizaci&oacute;n urbano popular Francisco Villa, que es la intermediaria &mdash;estoy hablando en sentido figurado&mdash; que recibe el dinero del gobierno y esa organizaci&oacute;n le entrega al apoyo supuestamente a los demandantes de vivienda. Ya eso no existe.</p>
+
+<p>Y tampoco en el campo. Hab&iacute;a organizaciones que recib&iacute;an miles de millones de pesos del presupuesto y no llegaba el apoyo a los campesinos, a los productores, o llegaba incompleto con moche, con <em>piquete de ojo;</em> lo mismo estas organizaciones, adem&aacute;s que no quisimos nosotros meternos.</p>
+
+<p>Adem&aacute;s, confi&eacute; en que era un asunto tan humano que no iba a utilizarse mal ni por parte de la autoridad ni por parte de las v&iacute;ctimas, pero resulta que s&iacute;. Entonces, ahora estamos haciendo toda una revisi&oacute;n.</p>
+
+<p>Y el neoliberalismo o neoporfirismo o la pol&iacute;tica de pillaje que impusieron los oligarcas se apoyaron en todas estas organizaciones supuestamente independientes de la sociedad civil. La oligarqu&iacute;a, el conservadurismo cre&oacute; todas estas organizaciones supuestamente independientes, no gubernamentales, fue un movimiento mundial, al grado de que se crearon todos estos movimientos con el prop&oacute;sito de que se olvidara o que no se volteara a ver el problema de la corrupci&oacute;n, del saqueo, de las privatizaciones.</p>
+
+<p>Entonces, dejamos eso ahora, porque el colmo es que despu&eacute;s de garantizar recursos, apoyos para todos estos organismos empiezan, como son organismos vinculados a la derecha, al conservadurismo, a atacarnos, y es cuando nos damos cuenta de estas organizaciones, incluso que est&aacute;n supuestamente ayudando a los pap&aacute;s de los j&oacute;venes desaparecidos de Ayotzinapa, y nos encontramos cosas rar&iacute;simas, como las que ya he explicado de que se liberaron por promoci&oacute;n de estas organizaciones de derechos humanos, en especial de esta organizaci&oacute;n vinculada a &Aacute;lvarez Icaza.</p>
+
+<p><strong>INTERLOCUTORA:</strong> Principalmente Emilio &Aacute;lvarez Icaza.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> S&iacute;, promovieron amparos y liberaron bajo el argumento de tortura a quienes hab&iacute;an participado en la desaparici&oacute;n de los j&oacute;venes, y tenemos las pruebas. Y es algo parecido a esto lo de la desaparici&oacute;n.</p>
+
+<p>Ahora, de repente aparece que &mdash;empiezo a notarlo en los medios, que son como boletines del conservadurismo&mdash; empiezan a manejar que es en este gobierno en donde ha habido m&aacute;s desaparecidos. &iexcl;&iquest;C&oacute;mo?! Si yo no he permitido la represi&oacute;n ni la desaparici&oacute;n de nadie, ni masacres; si hemos respetado los derechos humanos, si hasta se burlan de que hablo de abrazos y no balazos, y termino como el representante del gobierno que m&aacute;s ha desaparecido personas.</p>
+
+<p>Y lo dice la se&ntilde;ora que estaba a cargo de esta oficina, que desde luego no comparte nuestras convicciones, nuestros ideales. Y lo va a decir al Colegio de M&eacute;xico en donde tambi&eacute;n, con honrosas excepciones, predomina el pensamiento conservador; ah&iacute; est&aacute; Sergio Aguayo y todos los que han sido promotores &mdash;directa o indirectamente&mdash; del r&eacute;gimen de corrupci&oacute;n que imper&oacute; por 36 a&ntilde;os en nuestro pa&iacute;s.</p>
+
+<p>Entonces, estamos revisando y lo vamos a seguir haciendo. Le voy a pedir a Rosa Icela que hable contigo. Ya expusiste lo que sientes y lo que est&aacute;s demandando en cuanto a justicia, y vamos a atenderlo y vamos a seguir atendiendo todo.</p>
+
+<p>Por eso, es muy importante dos, son dos muy importantes dos cosas:</p>
+
+<p>Una, que el que llega, la persona que llega o que llegue a la Presidencia tiene que tener autoridad moral.</p>
+
+<p>&iquest;C&oacute;mo tiene que ser, ahora que van a empezar los candidatos, candidatas?</p>
+
+<p>Tiene que ver preparaci&oacute;n, porque la pol&iacute;tica es un oficio, no cualquiera. As&iacute; como el oficio de ustedes, no cualquiera hace un art&iacute;culo, ni mucho menos un reportaje, una cr&oacute;nica, no cualquiera. Entonces, tiene que tener oficio, tener una formaci&oacute;n.</p>
+
+<p>Luego, tiene que ser una persona honesta, ya la gente no quiere a corruptos.</p>
+
+<p>Lo tercero, tiene que tener convicciones, ideales, no puede ser un ambicioso, una ambiciosa, vulgar, tiene que haber ideales, tiene que haber principios para poder gobernar este gran pa&iacute;s, que esto es lo que merece M&eacute;xico, o sea, capacidad, honestidad, es decir, se incorruptible, y tenerle amor al pueblo.</p>
+
+<p>Y una cuesti&oacute;n m&aacute;s, no ser una empleada o un empleado de los potentados. Tener como amo al pueblo de M&eacute;xico. O sea, porque no lo puedo decir porque me van a <em>cepillar</em>, pero si la promoci&oacute;n, los promotores son de grupos de intereses creados, &iquest;a qui&eacute;n le va a servir la presidenta o el presidente? Pues a los grupos de intereses creados.</p>
+
+<p>Entonces, vamos a verlo con Rosa Icela, te va atender todo.</p>
+
+<p><strong>INTERLOCUTORA:</strong> Solamente para aclarar, se&ntilde;or presidente: se sigue apretando y no ha sonado nada.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Si es que yo no, eso no tengo yo conocimiento, pero ella s&iacute;. Para que te aclare por qu&eacute; es que&hellip;</p>
+
+<p><strong>INTERLOCUTORA:</strong> Le aclaro, este no es m&iacute;o, es de otra persona.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Por eso. A lo mejor por eso tambi&eacute;n, hay que ver.</p>
+
+<p><strong>INTERLOCUTORA:</strong> Solamente ya para terminar: &iquest;se va a poder recibir a las v&iacute;ctimas de los casos que expuse, sobre todo, el de la compa&ntilde;era ind&iacute;gena?</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> S&iacute;, a todos.</p>
+
+<p><strong>INTERLOCUTORA:</strong> Y, por &uacute;ltimo. Alonso Ancira de Altos Hornos, sacaron la Fiscal&iacute;a General de la Rep&uacute;blica que se va a tardar otro a&ntilde;o m&aacute;s para liquidar lo que falta. En este aspecto, &iquest;piensa hacer algo su gobierno referente a este tema? &iquest;O qu&eacute; va a pasar?</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Se est&aacute; viendo con la Secretar&iacute;a de Hacienda, es muy complicado.</p>
+
+<p>Hemos querido resolver el problema, pero volvemos a lo mismo, &iquest;qui&eacute;n fue el que origin&oacute; este fracaso de una empresa important&iacute;sima? Pues s&iacute;, Carlos Salinas de Gortari, hablando en plata.</p>
+
+<p>Los afectados son millones, son an&oacute;nimos, pero los responsables s&iacute; tienen nombre y apellido, porque son muy pocos. Y eso es lo que quieren ahora que regrese, y es lo que est&aacute; sucediendo en algunas partes del mundo, que regresen las privatizaciones, porque Altos Hornos de M&eacute;xico era una empresa p&uacute;blica, de la naci&oacute;n, y Salinas la entreg&oacute; a particulares, como otras empresas, como las minas, como los bancos; y luego le siguieron Zedillo, y todos, entregando los ferrocarriles y entregando todos los bienes del pueblo y de la naci&oacute;n, y eso es lo que quisieran que regresara.</p>
+
+<p>Yo les puedo decir que eso signific&oacute; un rotundo fracaso para el pa&iacute;s, nos atrasamos mucho. Ya M&eacute;xico, que es una potencia cultural, es uno de los pa&iacute;ses m&aacute;s importantes del mundo por su grandeza cultural, ser&iacute;a tambi&eacute;n una potencia econ&oacute;mica, y ya vamos hacia all&aacute;, porque se est&aacute; escalando, ya estamos desplazando a otros pa&iacute;ses, en los &uacute;ltimos tiempos, en cuanto a crecimiento econ&oacute;mico.</p>
+
+<p>En lo que no hay duda de que vamos avanzando, ya estamos en los primeros lugares en el mundo, es en cuanto a bienestar, a combate a la pobreza y a la desigualdad. Hace dos o tres d&iacute;as hasta le ped&iacute; a Jes&uacute;s que&hellip; Porque esto ni modo que lo van a leer en el <em>Reforma</em>, o en el <em>Exc&eacute;lsior</em>, en <em>El Universal</em>, o lo van a escuchar en la radio, en la televisi&oacute;n, en las redes, porque con todo y que han querido tomarlas, acapararlas, y con todo el dinero que manejan para tener gentes a sueldo, haciendo campa&ntilde;a en contra de nosotros, y con el manejo de los robots, con todo y eso, hay mucha gente que interact&uacute;a en las redes muy inteligente, que no tienen que ver nada con los famosos, los famosos son defensores del antiguo r&eacute;gimen. No estoy hablando nada m&aacute;s de periodistas, estoy hablando de intelectuales, esos famosos, esos est&aacute;n nost&aacute;lgicos, quisiera el regreso al neoporfirismo y al imperio de la corrupci&oacute;n. Pero hay muchos ciudadanos y profesionales muy inteligentes que s&iacute; tienen claridad de lo que est&aacute; sucediendo.</p>
+
+<p>Entonces, me puse, hace como dos o tres d&iacute;as, a ver, me llam&oacute; la atenci&oacute;n, un an&aacute;lisis sobre el manejo econ&oacute;mico que estamos haciendo en este gobierno, y me pareci&oacute; muy bien hecho, con elementos, hasta le mand&eacute; a decir a Jes&uacute;s si conoc&iacute;a a la persona, porque a lo mejor es un seud&oacute;nimo,</p>
+
+<p><strong>JES&Uacute;S RAM&Iacute;REZ CUEVAS:</strong> Es un seud&oacute;nimo.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Es un seud&oacute;nimo de una plataforma, &iquest;no?</p>
+
+<p><strong>JES&Uacute;S RAM&Iacute;REZ CUEVAS:</strong> S&iacute;, es periodista, pero&hellip;</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> S&iacute;, pero, adem&aacute;s, con la idea de que est&aacute; cerca de nosotros, casi-casi pensando que es una gente de Hacienda o de Econom&iacute;a de nosotros, porque tiene una informaci&oacute;n muy apegada a la realidad. Entonces, les voy a recomendar ese an&aacute;lisis. &iquest;C&oacute;mo es que se llama? &iquest;C&oacute;mo se llama la plataforma?</p>
+
+<p><strong>JES&Uacute;S RAM&Iacute;REZ CUEVAS:</strong> Foro Virtual.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Foro Virtual, en Twitter, &iquest;no?</p>
+
+<p><strong>JES&Uacute;S RAM&Iacute;REZ CUEVAS:</strong> S&iacute;, en Twitter y en internet, o sea, est&aacute; una p&aacute;gina.</p>
+
+<p><strong>INTERVENCI&Oacute;N<em>:</em></strong><em> Milagros mexicanos</em>.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Ese.</p>
+
+<p><strong>JES&Uacute;S RAM&Iacute;REZ CUEVAS:</strong> Pero ese es el art&iacute;culo.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Pero es muy bueno, est&aacute; muy cercano a lo que yo estoy explicando en mi nuevo libro. Por eso me llam&oacute; la atenci&oacute;n, para dar a conocer c&oacute;mo hemos manejado la econom&iacute;a y por qu&eacute; no hemos tomado en cuenta las recetas del modelo neoliberal, y qu&eacute; es lo que estamos haciendo, el por qu&eacute; hemos tenido&hellip; Es este:</p>
+
+<p>&lsquo;&iquest;C&oacute;mo ha logrado M&eacute;xico desarrollar una econom&iacute;a que se enfila entre muy pronto dentro de las 10 m&aacute;s poderosas del mundo, con pleno empleo, menos deuda, mejores ingresos, menos pobreza, mayor crecimiento, inflaci&oacute;n baja y un d&oacute;lar barato?&rsquo;. Chumel me va ahora me va a aclarar eso.</p>
+
+<p>Bueno, v&aacute;monos a la rosca. Queda la compa&ntilde;era pendiente, Sandra.</p>
+
+<p><strong>PREGUNTA:</strong> Presidente, no vengo ma&ntilde;ana, quiero comentar lo de Mismaloya.</p>
+
+<p><strong>&nbsp;PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Ven despu&eacute;s, porque ya estuvo Jalisco y&hellip;</p>
+
+<p><strong>INTERVENCI&Oacute;N:</strong> No, pero Mismaloya, d&eacute;jeme decirle, ya que iban a desalojar, no pudieron desalojarnos, ayudaron la Secretar&iacute;a de Gobernaci&oacute;n, tambi&eacute;n el procurador. La persona que supuestamente iba a desalojar estaba muerta. Ten&iacute;a a&ntilde;o y medio de muerta. Se present&oacute; el acta de defunci&oacute;n, que gracias a funcionario de gobierno&hellip;</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> &iquest;Te parece que&hellip;?</p>
+
+<p><strong>INTERVENCI&Oacute;N:</strong> Bueno, &iquest;cu&aacute;ndo? Porque ya ve que yo vengo desde Puerto Vallarta. Ma&ntilde;ana vengo. Gracias.</p>
+
+<p>---</p>
+</div>
+      </div>
+
+      <div class="col-md-4 col-xs-12 pull-right">
+
+
+
+
+          <div id="survey" class="survey-popup small-top-buffer">
+	<div class="row">
+  <a class="fire">
+    <span class="title">Contesta nuestra encuesta de satisfacción.</span>
+		<i style="color: white" class="fas fa-poll"></i>
+  </a>
+  <hr>
+  
+  <div class="survey col-sm-12 clearfix">
+	<form id="survey-form">
+	  <div class="survey-form">
+	  <fieldset id="query_1">
+		<legend>¿Cómo fue tu experiencia en gob.mx?</legend>
+		<div id="Q_A" class="btn-group row">
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncGood" class="ga-survey" value="Feliz" title="Satisactorio">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-good.svg" alt="">
+		  	</button>
+		  </div>
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncReg" class="ga-survey" value="Neutral" title="Neutral">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-neutral.svg" alt="">
+		  	</button>
+		  </div>
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncBad" class="ga-survey" value="Triste" title="No satisactorio">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-bad.svg" alt="">
+		  	</button>
+		  </div>
+		</div>
+	  </fieldset>
+	  <fieldset id="query_1_a" class="hidden">
+	  	<legend>¿Fue fácil encontrar lo que buscabas?</legend>
+	  	<div id="Q_B" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R1" value="1">
+	  		<label for="A_R">Muy Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R2" value="2">
+	  		<label for="A_R">Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R3" value="3">
+	  		<label for="A_R">Difícil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R4" value="4">
+	  		<label for="A_R">Muy Difícil</label>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_s" class="hidden">
+	  	<legend>¿De qué estado de la República nos visitas?</legend>	  	
+	  	<div class="col-md-12">
+  	  		<div class="form-group" style="margin-bottom: 114px;">
+  	  			<select id="estados" class="form-control"></select>
+  	  		</div>
+  	  		<div class="form-group">
+  	  			<button type="button" class="Q_S_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  		</div>
+  	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_alt" class="hidden">
+		<legend>¿Qué buscabas?</legend>
+	  	<div id="Q_I" class="clearfix">
+	  	  <div class="col-sm-12">
+	  		<textarea id="txtA" class="form-control" rows="6" maxlength="250" style="font-size: 14px; width: 100%;"></textarea>
+	  		<span class="small">Máximo 250 caracteres</span>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+  	  	  <button type="button" class="Q_I_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_b" class="hidden">
+	  	<legend>¿Qué te gustó más?</legend>
+	  	<p class="small">Puedes seleccionar más de uno.</p>
+	  	<div id="Q_C" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R1" type="checkbox" name="A_R" value="1">
+	  		<label for="A_R">La información es clara y precisa</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R2" type="checkbox" name="A_R" value="2">
+	  		<label for="A_R">El diseño es agradable</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R3" type="checkbox" name="A_R" value="3">
+	  		<label for="A_R">Está bien organizado</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R4" type="checkbox" name="A_R" value="4">
+	  		<label for="A_R">Es sencillo navegar</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R5" type="checkbox" name="A_R" value="5">
+	  		<label for="A_R">El lenguaje es amigable</label>
+	  	  </div>
+	  	  <div class="clearfix">
+	  	  	<button type="button" class="Q_C_btn btn btn-primary btn-small pull-right">Siguiente</button>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_c" class="hidden">
+	  	<legend>¿Recomendarías nuestro portal a un amigo o familiar?</legend>
+	  	<div id="Q_D" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="radEncC_R1" type="radio" name="A_R" value="4">
+	  		<label for="A_R">Si</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncC_R2" type="radio" name="A_R" value="1">
+	  		<label for="A_R">No</label>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+        <button type="button" class="btn-finalizar btn btn-primary btn-small pull-right" style="margin-left: 8px; margin-top: 2px;" disabled>Finalizar</button>
+        <img src="https://framework-gb.cdn.gob.mx/assets/images/oval-white.svg" class="pull-right hidden loading">
+      </div>
+	  </fieldset>
+
+	  <fieldset id="query_2" class="hidden">
+		<legend>¿Fue fácil encontrar lo que buscabas?</legend>
+	  	<div id="Q_F" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R1" type="radio" name="A_R" value="1">
+	  		<label for="A_R">Muy Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R2" type="radio" name="A_R" value="2">
+	  		<label for="A_R">Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R3" type="radio" name="A_R" value="3">
+	  		<label for="A_R">Difícil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R4" type="radio" name="A_R" value="4">
+	  		<label for="A_R">Muy Difícil</label>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_2_b" class="hidden">
+	  	<legend>¿Qué mejorarías?</legend>
+	  	<p class="small">Puedes seleccionar más de una opción.</p>
+	  	<div id="Q_G" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A1" type="checkbox" name="A_R" value="1">
+	  		<label for="A_R">Diseño</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A2" type="checkbox" name="A_R" value="2">
+	  		<label for="A_R">Navegación dentro del sitio</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A3" type="checkbox" name="A_R" value="3">
+	  		<label class="too-long" for="A_R">Claridad y precisión de la información</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A4" type="checkbox" name="A_R" value="4">
+	  		<label for="A_R">Organización de los contenidos</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A5" type="checkbox" name="A_R" value="5">
+	  		<label for="A_R">Lenguaje utilizado</label>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">	  	  
+	  	  <button type="button" class="btn-finalizar btn btn-primary btn-small pull-right" style="margin-left: 8px; margin-top: 2px;" disabled>Finalizar</button>
+	  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/oval-white.svg" class="hidden pull-right loading">
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_2_alt" class="hidden">
+		<legend>¿Qué buscabas?</legend>
+	  	<div id="Q_H" class="clearfix">
+	  	  <div class="col-sm-12">
+	  		<textarea id="txtA1" class="form-control" rows="6" maxlength="250" style="font-size: 14px; width: 100%;"></textarea>
+	  		<span class="small">Máximo 250 caracteres</span>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+  	  	  <button type="button" class="Q_H_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  	</div>
+	  </fieldset>
+
+	</div>
+	<p class="hidden survey-thanks" style="text-align: center; color: white; font-weight: 700;">Gracias por tu opinión.</p>
+	</form>
+
+  </div>
+</div>
+</div>
+
+<script type="text/javascript">
+$(function() {
+  var c = 0;
+  var fin = 0;
+  var tipo_cara = "";
+  var page_type = "Articulos";
+  var triggered = false;
+  var answers = {};
+  var properties = {};
+  var organization = "presidencia";
+  var section = "Blog";
+  var lang = "es";
+  properties.published_on = "2024-01-08 09:41:00 -0600";
+  properties.title = "Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 8 de enero de 2024";
+  properties.path = "/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-8-de-enero-de-2024";
+  properties.referer = "";
+  properties.viewfinder = navigator.userAgent.toLowerCase();
+  properties.screens = screen.width;
+  properties.device = screen.width;
+
+  $.getJSON('https://www.gob.mx/vun/estados?filter[order]=nombre%20ASC', function (selectOptions) {
+    for( var i = 0; i < selectOptions.length; i ++) {
+      var selectOptionsJSON = selectOptions[i];
+      $('#estados').append('<option value="'+ selectOptionsJSON.nombre +'">'+ selectOptionsJSON.nombre +'</option>');
+    }
+    $('#estados').append('<option value="Otro">Otro</option>')
+  });
+
+  $('.fire').click(function(event) {
+    $('.survey-popup').css({'height':'440px'});
+  });
+
+  $('#Q_A').find('button').click(function(event) {
+  	$('#query_s').removeClass('hidden');
+  	$("#query_1").addClass('hidden');
+  	answers.q1 = $(this).attr('id');
+  });
+
+  $(".ga-survey").click(function () {
+    tipo_cara = $(this).val();
+    var interval_time = [30];
+    (function timer () {
+      if (c < 1) {
+        setTimeout(function () {
+           if(fin < 1) {
+             set_ga("Inconclusa");
+             timer();
+           }
+        }, interval_time[c] * 1000);
+      }
+      c++;
+    })();
+  });
+
+  $('.Q_S_btn').click(function(event) {
+    if( answers.q1 === "radEncGood") {
+      $("#query_s").addClass('hidden');
+      $("#query_1_a").removeClass('hidden');
+    } else if(answers.q1 === "radEncReg" || answers.q1 === "radEncBad") {
+      $("#query_s").addClass('hidden');
+      $("#query_2").removeClass('hidden');
+    } else { }
+    // answers.q1 = $('#Q_A').find('button').attr('id');
+  });
+
+  $('#Q_B').find('input').click(function(event) {
+  	if( $(this).attr('id') === 'radEncA_R3' || $(this).attr('id') === 'radEncA_R4' )  {
+  	  $("#query_1_a").addClass('hidden');
+	  $("#query_1_alt").removeClass('hidden');
+  	} else {
+  	  $("#query_1_a").addClass('hidden');
+	  $("#query_1_b").removeClass('hidden');	
+  	}	
+	answers.q2 = $(this).attr('id');
+  });
+
+  $('.Q_I_btn').click(function(event) {
+  	event.preventDefault();
+  	$("#query_1_alt").addClass('hidden');
+	$("#query_1_b").removeClass('hidden');
+	answers.q5 = $('#txtA').val().substring(0, 250);
+  });
+
+  $('#Q_C').find('button').click(function(event) {
+	$("#query_1_b").addClass('hidden');
+	$("#query_1_c").removeClass('hidden');
+	var q3_array = [];
+	$('#Q_C').find('input:checked').each(function(index, el) {
+	  q3_array.push($(el).attr('id'));
+	});
+	answers.q3 = q3_array;
+  });
+
+  $('#Q_D').find('input').change(function(event) {
+  	answers.q4 = $(this).attr('id');
+  	$('.btn-finalizar').attr('disabled', false);
+  });
+
+  $('#Q_F').find('input').click(function(event) {
+	
+	answers.q2 = $(this).attr('id');
+
+	if( $(this).attr('id') === 'rdEncA_R3' || $(this).attr('id') === 'rdEncA_R4' ) {
+	  $("#query_2").addClass('hidden');
+	  $("#query_2_alt").removeClass('hidden');
+	} else {
+	  $("#query_2").addClass('hidden');
+	  $("#query_2_b").removeClass('hidden');
+	}
+  });
+
+  $('#Q_G').find('input').change(function(event) {
+  	if($('#Q_G').find('input:checked').length > 0) {
+	  $('.btn-finalizar').attr('disabled', false);
+    }
+    var q2_array = [];
+    $('#Q_G').find('input:checked').each(function(index, el) {
+	  q2_array.push($(el).attr('id'));
+	});
+	answers.q3 = q2_array;
+  });
+
+  $('.Q_H_btn').click(function(event) {
+  	event.preventDefault();
+  	$("#query_2_alt").addClass('hidden');
+	$("#query_2_b").removeClass('hidden');
+	answers.q5 = $('#txtA1').val().substring(0, 250);
+  });
+
+  $('.btn-finalizar').click(function (event) {
+    fin++;
+    $.ajax({
+      url: '/encuesta-satisfaccion',
+      type: 'post',
+      dataType: 'json',
+      data: { section: section, lang: lang, properties: properties, answers: answers },
+      beforeSend: function() {
+        $('.loading').removeClass('hidden');
+      },
+      success: function(data) {
+        set_ga("Finalizada");
+
+        $('.survey').hide();
+        $('.survey-popup').css({'height':'60px','background-color':'#dff0d8','border':'1px solid #d6e9c6'});
+        $('.survey-popup .title').text('Gracias por tu participación.').css({'color':'#3c763d'});
+        $('#icon-survey').removeClass('fa-file-text-o').addClass('fa-check-circle').css({'color':'#3c763d'});
+        setTimeout(function() {
+          $('.survey-popup').fadeOut('800');
+        }, 1600);
+      }
+    });
+  });
+
+  function set_ga(estatus) {
+    var pages_group = "Gobierno";
+    var organization_name = "presidencia";
+
+    console.log("Entro a apartado de encuesta de satisfacción. Estatus: "+ estatus);
+    console.log("Pages group: "+pages_group);
+    console.log("Sub group: "+organization_name);
+    console.log("Page type: "+page_type);
+    console.log("Face: "+tipo_cara);
+
+      console.log("Rails.env.production");
+      //Código GA para encuesta de satisfacción.
+		gtag('set', 'dimension14', pages_group);
+		gtag('set', 'dimension15', organization_name);
+		gtag('set', 'dimension16', page_type);
+		gtag('send', 'event', 'Encuesta de satisfacción', tipo_cara ,estatus);
+		gtag('set', 'dimension14', null);
+		gtag('set', 'dimension15', null);
+		gtag('set', 'dimension16', null);
+  }
+
+  $('#subscribe-survey').click(function(event) {
+	event.preventDefault();
+    var email = $("#email-survey").val();
+    var state = $('#estados').val();
+
+    if (email !== '' || email !== undefined) {
+	    try {
+	      $.ajax({
+	        url: "/subscribe",
+	        type: 'post',
+	        dataType: 'json',
+	        data : { email: {address: email} },
+	        success: function (data) {
+	            $('#responseSignup').html(data.message);
+	        },
+	        error: function (data) {
+	            $('#responseSignup').html(data.message);
+	        }
+	      });
+	    }catch(e){
+	      $("#responseEmail").innerText(e);
+	    }
+
+	    $.ajax({
+	    	url: '/signups',
+	    	type: 'POST',
+	    	dataType: 'json',
+	    	data: { section: section, lang: lang, properties: properties },
+	    	success: function() {
+	    		//console.log('exito');
+	    	}
+	    });
+	} else {
+		$('#responseSignup').html('Por favor llena todos los campos.');
+	}
+  });
+
+  $('#survey-form').submit(function(event) {
+    event.preventDefault();
+  });
+});
+</script>
+
+      </div>
+      <div class="col-sm-7 pull-left">
+        <div class="share-buttons clearfix vertical-buffer">
+  <div class="col-md-2"> <a class="twitter-share-button" data-url="https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-8-de-enero-de-2024" data-text="Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 8 de enero de 2024"></a></div>
+  <div class="col-md-2">
+    <div class="fb-share-button" data-href="https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-8-de-enero-de-2024" data-layout="button_count" data-size="small" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-8-de-enero-de-2024&amp;src=sdkpreparse">Compartir</a></div>
+  </div>
+</div>
+
+  <script type="text/javascript">
+    (function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v2.7";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+    
+    var pages_group = "Gobierno";
+    var page_type = "Artículos";
+    var organization_name = "presidencia";
+    var title_content = "Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 8 de enero de 2024";
+
+     window.twttr = (function (d,s,id) {
+       var t, js, fjs = d.getElementsByTagName(s)[0];
+       if (d.getElementById(id)) return; js=d.createElement(s); js.id=id;
+       js.src="//platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs);
+       return window.twttr || (t = { _e: [], ready: function(f){ t._e.push(f) } });
+     }(document, "script", "twitter-wjs"));
+
+     function trackTwitter(intent_event) {
+       if (intent_event) {
+         if (intent_event.target && intent_event.target.nodeName == 'IFRAME') {
+           console.log("Metrica Compartir Twitter - "+title_content);
+           console.log("Organization: "+organization_name);
+           console.log("Page type: "+page_type);
+           console.log("Title content: "+title_content);
+           ga('set', 'dimension14', pages_group);
+           ga('set', 'dimension15', organization_name);
+           ga('set', 'dimension16', page_type);
+           ga('send', 'event', 'Compartir en redes sociales', 'Twitter', title_content);
+           ga('set', 'dimension14', null);
+           ga('set', 'dimension15', null);
+           ga('set', 'dimension16', null);
+         }
+       }
+     }
+  </script>
+  <script type="text/javascript">
+     twttr.ready(function (twttr) {
+       twttr.events.bind('tweet', trackTwitter);
+     });
+  </script>
+
+
+      </div>
+    </div>
+    <div class="row top-buffer">
+  <div class="col-md-8">
+    <hr>
+    <div class="print col-ms-12 col-md-12 col-xs-12">
+      <span class="icon-printing"></span>
+      <a href="#">Imprime la página completa</a>
+        <p class="small" style="font-size: 14px; line-height: 1.6em;">
+          La legalidad, veracidad y la calidad de la información es estricta responsabilidad de la dependencia, entidad o empresa productiva del Estado que la proporcionó en virtud de sus atribuciones y/o facultades normativas.
+        </p>
+    </div>
+  </div>
+</div>
+
+  </div>
+  <input type="hidden" id="page_type" name="page_type" value="Articulos">
+  <input type="hidden" id="organization_name" name="organization_name" value="presidencia">
+</main>
+<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+
+<footer class="main-footer">
+  <div class="list-info">
+    <div class="container">
+
+      <div class="col-sm-3">
+        <img  src="https://framework-gb.cdn.gob.mx/landing/img/logoheader.svg"  href="/" alt="logo gobierno de méxico" class="logo_footer" style="max-width: 90%; margin-left: -27px;   margin-top: 12px;">
+      </div>
+      <div class="col-sm-3">
+        <h2>Enlaces</h2>
+        <ul>
+         <!-- <li><a  href="http://www.participa.gob.mx">Participa</a></li> -->
+          <li><a  href="https://datos.gob.mx/">Datos</a></li>
+          <li><a href="https://www.gob.mx/publicaciones" target="_blank" rel="noopener" title="Enlace abre en ventana nueva">Publicaciones </a></li>
+
+                  <li><a class="footer" href="https://consultapublicamx.plataformadetransparencia.org.mx/vut-web/faces/view/consultaPublica.xhtml?idEntidad=MzM=&amp;idSujetoObligado=MTAwMDE=#inicio" id="Transparencia" target="blank" title="Enlace abre en ventana nueva">Portal de Obligaciones de Transparencia</a></li>
+
+                  <li><a class="footer" href="https://www.infomex.org.mx/gobiernofederal/home.action" id="PNT" target="blank" title="Enlace abre PNT en ventana nueva">PNT</a></li>
+
+                  <li><a class="footer" href="http://www.inai.org.mx/" id="INAI" target="blank" title="Enlace abre sitio INAI en ventana nueva">INAI</a></li>
+
+          <li><a class="footer" id="INAI" href="http://alertadores.funcionpublica.gob.mx/" target="_blank" rel="alertadores">Alerta</a></li>
+          <li><a class="footer" id="SIDEC" href="http://sidec.funcionpublica.gob.mx/" target="_blank" rel="sidec">Denuncia</a></li>
+           </ul>
+      </div>
+      <div class="col-sm-3">
+        <h2>¿Qué es gob.mx?</h2>
+        <p>Es el portal único de trámites, información y participación ciudadana.  <a href="/que-es-gobmx" style="text-decoration: none;">Leer más </a></p>
+        <ul>
+
+        
+            <li><a href='http://www.gob.mx/epn'> Administraciones anteriores  </a></li>
+          <li><a href="/accesibilidad">Declaración de Accesibilidad</a></li>
+          <li><a href="/privacidadintegral">Aviso de privacidad</a></li>
+          <li><a href="/privacidadsimplificado">Aviso de privacidad simplificado</a></li>
+          <li><a href="/terminos">Términos y Condiciones </a></li>
+          <li><a href="/terminos#medidas-seguridad-informacion">Política de seguridad</a></li>
+          <li><a class="footer" id="Marco Juridico" href="http://www.ordenjuridico.gob.mx" target="_blank" rel="noopener" title="Enlace abre en ventana nueva">Marco jurídico</a></li>
+          <li><a href="/sitemap">Mapa de sitio</a></li>
+        </ul>
+      </div>
+      <div class="col-sm-3">
+        </p>
+        <h2>Síguenos en </h2>
+        <ul class="list-inline">
+          <li>
+            <a id="Facebook" href="https://www.facebook.com/gobmexico" target="_blank" rel="noopener" class="sendEst share-info footer" title="enlace a facebook abre en una nueva ventana">
+              <img alt="Facebook" src="https://framework-gb.cdn.gob.mx/landing/img/facebook.png" />
+            </a>
+          </li>
+          <li>
+            <a id="Twitter" href="https://twitter.com/GobiernoMX" target="_blank" rel="noopener" class="sendEst share-info footer" title="Enlace a twitter abre en una nueva ventana">
+              <img alt="Twitter" src="https://framework-gb.cdn.gob.mx/landing/img/twitter.png" />
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+  </div>
+  </div>
+
+  <div class="container-fluid footer-pleca">
+    <div class="row">
+      <div class="col">
+        <br><br>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script type="text/javascript">
+      $("a.footer").click(function () {
+          var pagina_sitio = window.location.pathname;
+          var outbound_link = $(this).attr("id");
+          var subgrupo_paginas = "presidencia";
+          var page_type = "Home";
+          var pages_group = "Gobierno";
+          if($("#page_type").length > 0){ page_type = $("#page_type").val(); }
+
+          console.log("Metrica links externos footer - "+outbound_link);
+          gtag('set', 'dimension14', pages_group);
+          gtag('set', 'dimension15', subgrupo_paginas);
+          gtag('set', 'dimension16', page_type);
+          gtag('send', 'event', 'Outbound link - Footer', outbound_link, pagina_sitio);
+          gtag('set', 'dimension14', null);
+          gtag('set, ‘dimension15', null);
+      })
+  </script>
+
+<input class="hidden" id="route" value="/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-8-de-enero-de-2024" type="hidden" >
+<!-- div id="fb-root"></div -->
+
+
+
+
+
+  <!-- Begin comScore Tag -->
+  <script>
+      var _comscore = _comscore || [];
+      _comscore.push({ c1: "2", c2: "17183199" });
+      (function() {
+          var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+          s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+          el.parentNode.insertBefore(s, el);
+      })();
+  </script>
+  <noscript>
+    <img src="https://sb.scorecardresearch.com/p?c1=2&c2=17183199&cv=2.0&cj=1" />
+  </noscript>
+  <!-- End comScore Tag -->
+
+  <script src="https://sb.scorecardresearch.com/c2/17183199/ct.js"></script>
+
+
+  <script type="text/javascript">
+
+      var _sf_startpt=(new Date()).getTime();
+      var _sf_async_config = { uid: 43659, domain: 'www.gob.mx', useCanonical: true } ;
+      (function() {
+          function loadChartbeat() { window._sf_endpt = (new Date()).getTime(); var e = document.createElement('script'); e.setAttribute('language', 'javascript'); e.setAttribute('type', 'text/javascript'); e.setAttribute('src','//static.chartbeat.com/js/chartbeat.js'); document.body.appendChild(e); };
+          var oldonload = window.onload;
+          window.onload = (typeof window.onload != 'function') ?
+              loadChartbeat : function()
+              { oldonload(); loadChartbeat(); };
+      })();
+      var ele = "/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-8-de-enero-de-2024";
+      if( "#{(@organization_site.present? ? @organization_site.category : 'gobmx')}" == "Campaña") {
+          var siteEls = 'campaign';
+      } else {
+          var siteEls = 'gobierno';
+      }
+
+      for( var i = 1; i < ele.split('/').length; i++ ) {
+          siteEls = siteEls + '.' + ele.split('/')[i];
+      }
+
+      function udm_(e){var t="comScore=",n=document,r=n.cookie,i="",s="indexOf",o="substring",u="length",a=2048,f,l="&ns_",c="&",h,p,d,v,m=window,g=m.encodeURIComponent||escape;if(r[s](t)+1)for(d=0,p=r.split(";"),v=p[u];d<v;d++)h=p[d][s](t),h+1&&(i=c+unescape(p[d][o](h+t[u])));e+=l+"_t="+ +(new Date)+l+"c="+(n.characterSet||n.defaultCharset||"")+"&c8="+g(n.title)+i+"&c7="+g(n.URL)+"&c9="+g(n.referrer),e[u]>a&&e[s](c)>0&&(f=e[o](0,a-8).lastIndexOf(c),e=(e[o](0,f)+l+"cut="+g(e[o](f+1)))[o](0,a)),n.images?(h=new Image,m.ns_p||(ns_p=h),h.src=e):n.write("<","p","><",'img src="',e,'" height="1" width="1" alt="*"',"><","/p",">")};
+      function uid_call(a, b){
+          ui_c2 = 17183199; // your corporate c2 client value
+          ui_ns_site = 'gobmx'; // your sites identifier
+          window.b_ui_event = window.c_ui_event != null ? window.c_ui_event:"",window.c_ui_event = a;
+          var ui_pixel_url = 'https://sb.scorecardresearch.com/p?c1=2&c2='+ui_c2+'&ns_site='+ui_ns_site+'&name='+a+'&ns_type=hidden&type=hidden&ns_ui_type='+b;
+          var b="comScore=",c=document,d=c.cookie,e="",f="indexOf",g="substring",h="length",i=2048,j,k="&ns_",l="&",m,n,o,p,q=window,r=q.encodeURIComponent||escape;if(d[f](b)+1)for(o=0,n=d.split(";"),p=n[h];o<p;o++)m=n[o][f](b),m+1&&(e=l+unescape(n[o][g](m+b[h])));ui_pixel_url+=k+"_t="+ +(new Date)+k+"c="+(c.characterSet||c.defaultCharset||"")+"&c8="+r(c.title)+e+"&c7="+r(c.URL)+"&c9="+r(c.referrer)+"&b_ui_event="+b_ui_event+"&c_ui_event="+c_ui_event,ui_pixel_url[h]>i&&ui_pixel_url[f](l)>0&&(j=ui_pixel_url[g](0,i-8).lastIndexOf(l),ui_pixel_url=(ui_pixel_url[g](0,j)+k+"cut="+r(ui_pixel_url[g](j+1)))[g](0,i)),c.images?(m=new Image,q.ns_p||(ns_p=m),m.src=ui_pixel_url):c.write("<p><img src='",ui_pixel_url,"' height='1' width='1' alt='*'></p>");
+      }
+      udm_('https://sb.scorecardresearch.com/b?c1=2&c2=17183199&ns_site=gobmx&name='+siteEls);
+  </script>
+
+  <noscript>
+    <img src="https://sb.scorecardresearch.com/p?c1=2&amp;c2=17183199&amp;ns_site=gobmx&amp;name=gobierno.presidencia.es.articulos.version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-8-de-enero-de-2024" height="1" width="1" alt="*" />
+  </noscript>
+<script>
+    let key = '';
+    $(function () {
+
+        $.getJSON("https://framework-gb.cdn.gob.mx/applications/cms/configGobmx.json", function(json) {
+            console.log(json.keyAnalytics); // this will show the info it in firebug console
+            key = json.keyAnalytics;
+            ga('create', key , 'auto', 'GobTracker');
+            ga('GobTracker.require', 'linker');
+            ga('GobTracker.linker:autoLink', ['www.gob.mx']);
+            ga('GobTracker.set', 'contentGroup1', 'Gobierno');
+            ga('GobTracker.set', 'contentGroup2', SubGroup);
+            ga('GobTracker.set', 'contentGroup3', PageType);
+            ga('GobTracker.set', 'dimension14', 'Gobierno');
+            ga('GobTracker.set', 'dimension15', SubGroup);
+            ga('GobTracker.set', 'dimension16', PageType);
+            ga('GobTracker.set', 'dimension13', 'No Registrado');
+            ga('GobTracker.send', 'pageview');
+            ga('GobTracker.set', 'contentGroup1', null);
+            ga('GobTracker.set', 'contentGroup2', null);
+            ga('GobTracker.set', 'contentGroup3', null);
+            ga('GobTracker.set', 'dimension14', null);
+            ga('GobTracker.set', 'dimension15', null);
+            ga('GobTracker.set', 'dimension16', null);
+            ga('GobTracker.set', 'dimension13', null);
+        });
+    });
+</script>
+
+<script src="https://framework-gb.cdn.gob.mx/applications/cms/modal_global_cms.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/gm/accesibilidad/js/gobmx-accesibilidad.min.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick.min.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick-lightbox.js"></script>
+<link rel="stylesheet" href="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick-lightbox.css">
+
+
+<script src="https://framework-gb.cdn.gob.mx/applications/cms/config_dependency.js"></script>
+<script type="text/javascript"  src="/0RVTuHxj0/t/mhEICJIQ/YiOkthVkYSfw/PRc4N0sKYQk/PwhFVTt/GPxQB"></script></body>
+
+</html>
+

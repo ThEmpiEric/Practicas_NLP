@@ -1,0 +1,1337 @@
+<!DOCTYPE html>
+<html class='no-js' lang='es'>
+<head>
+    <title>
+  Versión estenográfica. Plan de Salud IMSS-Bienestar Campeche | Presidencia de la República  | Gobierno | gob.mx
+</title>
+
+  <meta charset='UTF-8'>
+  <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#393C3E">
+
+  
+  <meta name="keywords" content="">
+  <meta name="description" content="Acto encabezado por el presidente Andrés Manuel López Obrador desde Campeche">
+  <meta name="author" content="Presidencia de la República ">
+
+  <meta content="Versión estenográfica. Plan de Salud IMSS-Bienestar Campeche" property="og:title" />
+  <meta content="https://www.gob.mxhttps://www.gob.mx/cms/uploads/article/main_image/127566/Plan_de_Salud_IMSS_Bienestar_Campeche.jpg" property="og:image" />
+  <meta content="gob.mx" property="og:site_name" />
+  <meta content="Acto encabezado por el presidente Andrés Manuel López Obrador desde Campeche" property="og:description" />
+  <meta content="http://www.gob.mx/presidencia/es/articulos/version-estenografica-plan-de-salud-imss-bienestar-campeche?idiom=es" property="og:url" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@gobmx" />
+  <meta name="twitter:title" content="Versión estenográfica. Plan de Salud IMSS-Bienestar Campeche" />
+  <meta name="twitter:description" content="Acto encabezado por el presidente Andrés Manuel López Obrador desde Campeche" />
+  <meta name="twitter:image" content="https://www.gob.mxhttps://www.gob.mx/cms/uploads/article/main_image/127566/Plan_de_Salud_IMSS_Bienestar_Campeche.jpg" />
+
+
+  <meta content="authenticity_token" name="csrf-param" />
+<meta content="FMuztapA8S0lK0NkQo0QcFYJlo22rGfSRNJHSFMA7cg=" name="csrf-token" />
+
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700,600,300' rel='stylesheet' type='text/css'>
+  <link href='https://framework-gb.cdn.gob.mx/applications/cms/favicon.png' rel='shortcut icon'>
+  <link data-turbolinks-track="true" href="/cms/assets/application.css" media="all" rel="stylesheet" />
+  <link data-turbolinks-track="true" href="https://framework-gb.cdn.gob.mx/gm/accesibilidad/css/gobmx-accesibilidad.min.css" media="all" rel="stylesheet" />
+  
+
+  <!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+  <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+
+ <![endif]-->
+  <script async src="https://www.googletagmanager.com/gtag/js?id="></script>
+  <script src="https://framework-gb.cdn.gob.mx/applications/cms/carrusel/swiper-bundle.min.js"></script>
+
+  <link rel="stylesheet" href="https://framework-gb.cdn.gob.mx/applications/cms/carrusel/swiper-bundle.min.css">
+
+    <script type="text/javascript">
+
+        var SubGroup = '';
+        if(false || false){
+            SubGroup = 'Temas';
+        }else{
+            SubGroup = 'presidencia';
+        }
+        var PageType = '';
+        if(false){
+            PageType = 'Home'
+        }else{
+            if(false){
+                PageType = '';
+            }else {
+                var site = window.location.pathname;
+                var arrayPageType = ["articulos", "prensa", "agenda", "documentos", "multimedia", "galerias", "videos",
+                    "acciones_y_programas", "acciones-y-programas", "mi-foto-con-el-presidente",
+                    "estructuras", "descargables", "que-hacemos", "finanzas", "infografias"];
+
+                if (site.search("archivo") != -1) {
+                    PageType = "archivo_";
+                }
+                for (var i = 0; i < arrayPageType.length; i++) {
+                    if (site.search(arrayPageType[i]) != -1) {
+                        PageType += arrayPageType[i];
+                        break;
+                    }
+                }
+            }
+        }
+
+
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', '');
+
+        gtag('require', 'linker');
+        gtag('linker:autoLink', ['www.gob.mx']);
+        gtag('set', 'contentGroup1', 'Gobierno');
+        gtag('set', 'contentGroup2', SubGroup);
+        gtag('set', 'contentGroup3', PageType);
+        gtag('set', 'dimension14', 'Gobierno');
+        gtag('set', 'dimension15', SubGroup);
+        gtag('set', 'dimension16', PageType);
+        gtag('set', 'dimension13', 'No Registrado');
+        gtag('send', 'pageview');
+        gtag('set', 'contentGroup1', null);
+        gtag('set', 'contentGroup2', null);
+        gtag('set', 'contentGroup3', null);
+        gtag('set', 'dimension14', null);
+        gtag('set', 'dimension15', null);
+        gtag('set', 'dimension16', null);
+        gtag('set', 'dimension13', null);
+
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-144356475-1', 'auto', {'allowLinker':true});
+        ga('require', 'linker');
+        ga('linker:autoLink', ['www.gob.mx']);
+        ga('set', 'contentGroup1', 'Gobierno');
+        ga('set', 'contentGroup2', SubGroup);
+        ga('set', 'contentGroup3', PageType);
+        ga('set', 'dimension14', 'Gobierno');
+        ga('set', 'dimension15', SubGroup);
+        ga('set', 'dimension16', PageType);
+        ga('set', 'dimension13', 'No Registrado');
+        ga('send', 'pageview');
+        ga('set', 'contentGroup1', null);
+        ga('set', 'contentGroup2', null);
+        ga('set', 'contentGroup3', null);
+        ga('set', 'dimension14', null);
+        ga('set', 'dimension15', null);
+        ga('set', 'dimension16', null);
+        ga('set', 'dimension13', null);
+    </script>
+
+
+  <script type = "text/javascript"> console.log(true);
+  var rails_env_prod = true; </script>
+  <script src="/cms/assets/application.js"></script>
+  <script src="/cms/assets/imageReplace.js"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.js"></script>
+
+                              <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("True"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="N3JQ2-2RVHB-WJQMN-CEYEM-ATMWX",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"N3JQ2-2RVHB-WJQMN-CEYEM-ATMWX",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="xxqo3jv567lbazxpkkoq-f-3fd91f1f3-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"37","ak.cp":"413578","ak.ai":parseInt("270161",10),"ak.ol":"0","ak.cr":13,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"20d93083","ak.r":49405,"ak.a2":e,"ak.m":"b","ak.n":"essl","ak.bpcip":"189.224.237.0","ak.cport":30085,"ak.gh":"189.247.214.15","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"reno","ak.t":"1726960285","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==SMyUGHk8Ed+IncoKSCKMKUAGD45CjtaV9cnEkjvEuKy6P+yH+NH2qtihc9Yeb1kYtelSB5k/JuMX79bMWMCUz8ftQ847BTBt2dWrSGSLMt4NNgoHdGKc6tEP4vx76IBQYWkoRDzLQaz9PebQDOpZePnHBCoBRq2nKwFnBUexrVCi+/ZTfFDus+F9RNY0kscKE7M7DaXPS3q/ntPaW1nVXe6zB3KZB//TaqZFYeIT8qHicyz5EPux6LC7guQlFzua3U0AZqtNBDcH9HiTKBYpRd/g6JT2H4NJGcAdLp64TpkaKUzz2re5DILD8KjgwbyGY7O9iChUDngOQKIquJhJLGlw0G49KcMCOPUNRPRDhjgwh4bFLYv3f1p33VcZoHhcDxLdzf7lJSG+1QfeJbP1wFquYgsc0+AgNg0/x6ANFSI=","ak.pv":"113","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+<body>
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v13.0" nonce="MZ2GPb2d"></script><!-- a href="#principal" class="skip">Saltar al contenido principal</a -->
+  <header class=" navbar navbar-inverse">
+    <nav class="navbar navbar-inverse  navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-target="#navbarMainCollapse" data-toggle="collapse">
+            <span class="sr-only">Interruptor de Navegación</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a href="/" style="padding: 1px 3px 3px 3px;" class="navbar-brand " title="Ir a la página inicial">
+
+            <div class="logo-main"></div>
+          </a>
+        </div>
+        <div id="navbarMainCollapse" class="collapse navbar-collapse">
+          <ul class="nav navbar-nav navbar-right">
+           <li><a href="/tramites" title="Trámites">Trámites </a></li>
+            <li><a href="/gobierno" title="Gobierno">Gobierno</a></li>
+                  <li><a href="/presidencia/en" title="Versión en inglés del sitio web">English</a>
+                  </li>
+                </li>
+
+
+            <li>
+              <form accept-charset="UTF-8" action="/busqueda" method="get"><div style="display:none"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+                <input type="hidden" name="site" value="presidencia">
+                <button data-v-6394873e="" id="botonbuscar" type="button" class="btn btn-search"><a data-v-6394873e="" href="https://www.gob.mx/busqueda?utf8=✓" target="_blank" id="botbusca"><img data-v-6394873e="" alt="Buscar" src="https://framework-gb.cdn.gob.mx/landing/img/lupa.png"></a></button>
+</form>            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    
+
+
+        <script src="/cms/assets/level_jump.js"></script><section>
+<!-- Subnavegacion -->
+<nav class=" navbar-inverse sub-navbar fixed-top"
+     >
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#subenlaces">
+        <span class="sr-only">Interruptor de Navegación</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="link-name" href="?tab="></a>
+    </div>
+    <div class="collapse navbar-collapse" id="subenlaces">
+      <ul class="nav subnav navbar-nav navbar-right">
+              <li class="landing-btn">
+                    <a href='/presidencia/es/archivo/prensa'>
+                Comunicados            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='/presidencia/es/#5173'>
+                Directorio            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='https://transparencia.presidencia.gob.mx/presidencia/transparencia/politicas-de-tratamiento-de-datos-personales-de-la-oficina-de-la-presidencia-de-la-republica/'>
+                Protección de Datos Personales            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='https://www.gob.mx/presidencia/transparencia/'>
+                Transparencia            </a>
+            </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+<style>
+  .flag-banner {
+  top: 45px  !important;
+  }
+</style>
+<!-- div class="warning-nav" style="margin-top: 0px;">
+  <div class="container">
+    <div class="row clearfix">
+  <div class="col-xs-12 col-sm-12 col-md-12">Este contenido será modificado temporalmente en atención a las disposiciones legales y normativas en materia electoral, con motivo del inicio de periodo de campaña</div>
+  </div>
+  </div>
+</div -->
+</section>
+
+
+  </header>
+
+
+
+
+
+<main class="inner-page interior ficha">
+  <div class="container">
+  	<ol class="breadcrumb">
+  <li><a href="http://www.gob.mx"><span class="icon icon-home"></span><span class="sr-only">Inicio</span></a></li>
+  <li><a href="/presidencia">Presidencia de la República </a></li>
+  <li class="active">Blog</li>
+</ol>
+  	<div class="">
+      <div aria-hidden="true" class="hidden-xs font-changer internal print" tabindex="-1">
+  <button class="inc-font font-modifier">Aa+</button>
+  <button class="dec-font font-modifier">Aa-</button>
+</div>
+      <div class="marquee-padding">
+      <div class='post-list main-post-list'>
+<div class='marque-float-left'>
+<div class='right_arrow'></div>
+<div class='titulo-pub'>
+<small>Publicaciones Recientes</small>
+</div>
+</div>
+<div>
+<div class='container-marque'>
+<div id='headlines'>
+<div class='marquee'>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-19 13:44:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-19-de-septiembre-de-2024' title='Versió'>
+Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 19 de septiembre de 2024
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-18 12:36:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-18-de-septiembre-de-2024' title='Versió'>
+Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 18 de septiembre de 2024
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-17 13:51:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-entrega-de-estimulos-a-delegaciones-mexicanas-participantes-en-juegos-olimpicos-y-paralimpicos-paris-2024' title='Versió'>
+Versión estenográfica. Entrega de estímulos a delegaciones mexicanas participantes en Juegos Olímpicos y Paralímpicos París 2024
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-17 12:21:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-17-de-septiembre-de-2024' title='Versió'>
+Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 17 de septiembre de 2024
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-16 13:56:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-desfile-civico-militar' title='Versió'>
+Versión estenográfica. Desfile Cívico Militar
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+      </div>
+  	  <div class="col-md-7 col-xs-12 col-sm-12 pull-left" tabindex="0">
+  	  	<h1 class="bottom-buffer">Versión estenográfica. Plan de Salud IMSS-Bienestar Campeche</h1>
+  	  	<h2>Acto encabezado por el presidente Andrés Manuel López Obrador desde Campeche</h2>
+        <section class="">
+          <p>Presidencia de la República  | 05 de diciembre de 2022</p>
+        </section>
+  	  <div class="imagen-principal">
+  	      <img alt="Plan de Salud IMSS-Bienestar Campeche" class="img-responsive img_curve" src="https://www.gob.mx/cms/uploads/article/main_image/127566/Plan_de_Salud_IMSS_Bienestar_Campeche.jpg" />
+  	      <span class="small">Plan de Salud IMSS-Bienestar Campeche</span>
+      </div>
+      <div class="article-body"><p>MODERADOR:&nbsp;Preside este evento, Plan de Salud IMSS-Bienestar Campeche, el presidente constitucional de los Estados Unidos Mexicanos, licenciado Andr&eacute;s Manuel L&oacute;pez Obrador.</p>
+
+<p>Lo acompa&ntilde;an:</p>
+
+<p>La gobernadora constitucional del estado de Campeche, Layda Sansores San Rom&aacute;n.</p>
+
+<p>El director general del Instituto Mexicano del Seguro Social, Zo&eacute; Robledo.</p>
+
+<p>El director general del Instituto de Salud para el Bienestar, Juan Antonio Ferrer Aguilar.</p>
+
+<p>La directora general de Servicios de Salud del IMSS-Bienestar, doctora Gisela Lara Salda&ntilde;a</p>
+
+<p>El director del&nbsp;Hospital&nbsp;IMSS-Bienestar Esc&aacute;rcega, doctor Ram&oacute;n Heredia&nbsp;Chulines.</p>
+
+<p>El presidente municipal de Esc&aacute;rcega, Silvestre Lemus Orozco.</p>
+
+<p>Asimismo, damos la bienvenida a los representantes de los medios de comunicaci&oacute;n y a quienes nos siguen a trav&eacute;s de las redes sociales.</p>
+
+<p>Todas y todos ustedes sean bienvenidos.</p>
+
+<p>Procedemos con las palabras de bienvenida de la gobernadora constitucional del estado de Campeche, Layda Sansores San Rom&aacute;n</p>
+
+<p>LAYDA SANSORES SAN ROM&Aacute;N, GOBERNADORA DE CAMPECHE:&nbsp;Andr&eacute;s Manuel, (habla en lengua ind&iacute;gena)</p>
+
+<p>Te recibimos, me encanta, con la alegr&iacute;a de que est&eacute;s aqu&iacute; con nosotros. Y para que no digan que me quejo, rompe el r&eacute;cord nacional e hist&oacute;rico, seis veces he visto a mi presidente esta semana, en una semana, en diferentes eventos y cuatro en diferentes lugares. &iquest;Qu&eacute; presidente viene aqu&iacute; a Campeche a darnos su cari&ntilde;o, su mano amiga, todo el amor?</p>
+
+<p>Pero estas bien correspondido, en verdad, Andr&eacute;s. Yo no s&eacute; cu&aacute;nto puedan quererte los dem&aacute;s, pero&nbsp;aqu&iacute; reconocemos desde el primer paso que diste con nosotros en la lucha y esta siembra de flores de&nbsp;chichipej, que aqu&iacute; se dan en el mundo maya. T&uacute; siembras una flor y crecen como enredaderas y crecen con una fuerza enorme y nunca puedes arrancar la ra&iacute;z, se van reproduciendo porque t&uacute; las has regado. Este un fen&oacute;meno que estamos viviendo.</p>
+
+<p>As&iacute; que para nosotros esto que hoy est&aacute;s haciendo honra toda t&uacute; tesis de humanismo mexicano, eso, darles salud hasta al m&aacute;s humilde no importa si tiene Seguro, si tienes papeles, aqu&iacute; la salud verdaderamente es para todos.</p>
+
+<p>Zo&eacute;, gracias por todo el empe&ntilde;o que le han puesto todo el equipo tuyo, maravilloso; mi secretaria de salud, el delegado del IMSS. Somos un equipazo y nos hemos unido, comulguemos inmediatamente y sentimos el mismo compromiso que t&uacute; sientes para que esto realmente funcione.</p>
+
+<p>Aqu&iacute; tambi&eacute;n a Juan, que ha sido adorable y muy solidario en momentos muy dif&iacute;ciles ayud&aacute;ndonos con las medicinas.</p>
+
+<p>Y aqu&iacute; el director, que hoy est&aacute; encantado, ya s&eacute; que es gastroenter&oacute;logo, y bueno ahora, y que gana bien poquito, pero est&aacute; bien contento, eso es lo bueno.</p>
+
+<p>Lo que t&uacute; est&aacute;s haciendo ―ya termino― tiene resonancias profundas en el tiempo. No lo has medido hasta d&oacute;nde llegas Andr&eacute;s Manuel, no lo has medido, pero yo les digo&nbsp;que&nbsp;como los buenos cuadros, un buen cuadro no lo puedes ver de cerca, un buen cuadro lo vas a apreciar en la perspectiva hist&oacute;rica y entonces sabr&aacute;s cu&aacute;l es la dimensi&oacute;n de este hombre que vino a revolucionar esta tierra nuestra y nuestros corazones y nuestras conciencias, entonces sabr&aacute;n cu&aacute;nto vale nuestro, el mejor presidente, el m&aacute;s querido en la historia de M&eacute;xico, digan lo que digan.</p>
+
+<p>Much&iacute;simas gracias, te amamos.</p>
+
+<p>Gracias.</p>
+
+<p>MODERADOR:&nbsp;Procedemos con la proyecci&oacute;n del video&nbsp;Avances del programa IMSS-Bienestar en Campeche.</p>
+
+<p>(INICIA VIDEO)</p>
+
+<p>VOZ HOMBRE:&nbsp;El 22 de agosto del 2022 inici&oacute; la transformaci&oacute;n de los servicios&nbsp;estales de salud en Campeche, 90 unidades de salud y nueve hospitales son transferidas al &oacute;rgano p&uacute;blico descentralizado IMSS-Bienestar con un prop&oacute;sito: brindar atenci&oacute;n m&eacute;dica y medicamentos gratuitos a la poblaci&oacute;n sin seguridad social.&nbsp;</p>
+
+<p>En Campeche se han destinado 151 millones de pesos para acciones de conservaci&oacute;n, limpieza, pintado, se&ntilde;al&eacute;tica, reparaciones, adem&aacute;s de mantenimiento de equipo m&eacute;dico y electromec&aacute;nico.</p>
+
+<p>En equipamiento m&eacute;dico tendremos una inversi&oacute;n de 486.6 millones de pesos. En total, la inversi&oacute;n en el estado ser&aacute; de 637.7 millones de pesos.</p>
+
+<p>Junto con el gobierno del estado hemos trabajado arduamente para informar a los cuerpos de cuerpo de gobierno el nuevo modelo de atenci&oacute;n&nbsp;m&eacute;dica, mejorar la conservaci&oacute;n e infraestructura en cada hospital, farmacia, almac&eacute;n, consultorios, quir&oacute;fanos, salas de&nbsp;urgencias.</p>
+
+<p>Al estado de Campeche han derivado 50 m&eacute;dicos especialistas del hermano pueblo de Cuba: 12 en cirug&iacute;a, 18 en medicina interna, 10 en pediatr&iacute;a, siete en terapia intensiva y tres en traumatolog&iacute;a.</p>
+
+<p>La transformaci&oacute;n es posible porque la hacemos juntos, como un solo sistema de salud, como un solo&nbsp;pueblo de M&eacute;xico.</p>
+
+<p>Con el IMSS-Bienestar, la salud es un derecho.</p>
+
+<p>VOZ MUJER:&nbsp;Gobierno de M&eacute;xico.</p>
+
+<p>(FINALIZA VIDEO)</p>
+
+<p>MODERADOR:&nbsp;A continuaci&oacute;n, hace uso de la palabra el director del Hospital IMSS-Bienestar Esc&aacute;rcega, doctor Ram&oacute;n Heredia&nbsp;Chulines.</p>
+
+<p>RAM&Oacute;N HEREDIA CHULINES, DIRECTOR DEL HOSPITAL IMSS-BIENESTAR ESC&Aacute;RCEGA:&nbsp;Licenciado Andr&eacute;s Manuel L&oacute;pez Obrador, presidente constitucional de los Estados Unidos Mexicanos, es un honor tenerlo en este hospital y en estas tierras campechanas.</p>
+
+<p>Muy buenas tardes, distinguidos miembros del pres&iacute;dium.</p>
+
+<p>Layda Sansores San Rom&aacute;n, gobernadora del estado de Campeche, un honor que est&eacute; tambi&eacute;n aqu&iacute; con nosotros.</p>
+
+<p>Doctor Jorge Alcocer Varela, secretario de Salud.&nbsp;</p>
+
+<p>Maestro zra1, director general del IMSS, gracias.</p>
+
+<p>Doctora Gisela Lara Salda&ntilde;a, directora general de los Servicios de Salud del Instituto Mexicano del Seguro Social para&nbsp;el Bienestar, bienvenida tambi&eacute;n aqu&iacute; con nosotros.</p>
+
+<p>Maestro Juan Antonio Ferrer Aguilar, director del Insabi, muchas gracias.</p>
+
+<p>Compa&ntilde;eros y compa&ntilde;eras trabajadoras de este hospital.</p>
+
+<p>Se&ntilde;oras y se&ntilde;ores.</p>
+
+<p>Soy Ram&oacute;n Heredia&nbsp;Chulines, m&eacute;dico gastroenter&oacute;logo, egresado orgullosamente de la Universidad Aut&oacute;noma de Campeche, y desde hace 24 a&ntilde;os este hospital me dio la oportunidad de trabajar y poder ejercer la medicina al servicio de la poblaci&oacute;n&nbsp;escarceguense.</p>
+
+<p>Esc&aacute;rcega est&aacute; enclavado en el coraz&oacute;n del estado de Campeche, tierra donde vivi&oacute; la gran civilizaci&oacute;n maya y donde a partir de los a&ntilde;os 30, con la construcci&oacute;n del Ferrocarril del Sureste, se comienza a escribir su historia.</p>
+
+<p>Actualmente, esta tierra se ha convertido en un mosaico cultural de gente migrante de distintos estados del pa&iacute;s, que nuestro glorioso Campeche los ha cobijado como hermanos. Hoy la regi&oacute;n de Esc&aacute;rcega recibe un gran impulso del cual s&oacute;lo se puede comparar cuando en el siglo pasado se tendi&oacute; la v&iacute;a del Ferrocarril del Sureste.&nbsp;</p>
+
+<p>En la actualidad, se&ntilde;or presidente, el Tren Maya es el detonante econ&oacute;mico y demogr&aacute;fico para Esc&aacute;rcega, porque los servicios de salud no pueden quedar rezagados y deben de ser fortalecidos para resolver las necesidades de salud de su poblaci&oacute;n con la transformaci&oacute;n de los servicios de salud, la llegada del IMSS-Bienestar a este hospital, que se ha estado transformando. Con ello, se har&aacute; justicia social en materia de salud a nuestra gente que no tiene seguridad social, otorgando de manera gratuita consultas y medicamentos, siguiendo la encomienda que usted nos ha dado, se&ntilde;or presidente.</p>
+
+<p>Con el fortalecimiento de este hospital, se convertir&aacute; en una unidad de concentraci&oacute;n y de referencia, atendiendo a la poblaci&oacute;n de la cabecera municipal de Esc&aacute;rcega y todos sus ejidos, y a los municipios hermanos de Calakmul y Candelaria, con lo que se beneficiar&aacute; a una poblaci&oacute;n de m&aacute;s de 200 mil habitantes del sur del estado de Campeche.</p>
+
+<p>Actualmente, la plantilla de m&eacute;dicos especialistas se robusteci&oacute; con la llegada de m&eacute;dicos cubanos, intensivistas, internistas, pediatr&iacute;as, cirug&iacute;a, traumatolog&iacute;a y ortopedia.</p>
+
+<p>Adem&aacute;s del mejoramiento en infraestructura, contaremos con las unidades de cuidados intensivos para la atenci&oacute;n de reci&eacute;n nacidos y adultos, la unidad de di&aacute;lisis y hemodi&aacute;lisis, servicios de odontolog&iacute;a, el&nbsp;Centro&nbsp;de&nbsp;Atenci&oacute;n&nbsp;al Adolescente, CARA; el desarrollo infantil temprano y servicios de atenci&oacute;n integral a la salud.</p>
+
+<p>Un aspecto&nbsp;de gran trascendencia en este proceso de cambio&nbsp;ha sido el abasto de medicamentos&nbsp;y material de curaci&oacute;n, el cual creci&oacute; de un 33 por ciento a un 95 por ciento en tan s&oacute;lo unas semanas. Actualmente, ya contamos con&nbsp;medicamentos&nbsp;para tratar pacientes con infarto al&nbsp;miocardio&nbsp;o al coraz&oacute;n, los cuales, gracias a la llegada del IMSS-Bienestar hemos podido&nbsp;tratarlos con &eacute;xito en su manejo&nbsp;y recuperaci&oacute;n durante la atenci&oacute;n del C&oacute;digo Infarto, evitando muertes en nuestra poblaci&oacute;n.</p>
+
+<p>Con ello, nuestro hospital, se&ntilde;or presidente, se transforma y&nbsp;hace valer el derecho a la protecci&oacute;n a la salud en todo mexicano, sin distingos de ning&uacute;n tipo, porque, como usted dice, se&ntilde;or presidente, primero los pobres y m&aacute;s necesitados.</p>
+
+<p>Con la llegada del IMSS-Bienestar se hace justicia en materia de salud a la poblaci&oacute;n de Esc&aacute;rcega.&nbsp;</p>
+
+<p>Licenciado Andr&eacute;s Manuel L&oacute;pez Obrador:</p>
+
+<p>Perm&iacute;tame dedicarle de coraz&oacute;n estas palabras del poeta de Am&eacute;rica, el maestro Carlos Pellicer C&aacute;mara, orgullosamente originario de su natal Tabasco:&nbsp;&lsquo;Cuando a un hombre lo&nbsp;sigue un pueblo entero&nbsp;es porque en el coraz&oacute;n en las manos lleva&rsquo;.</p>
+
+<p>Muchas gracias, se&ntilde;or presidente.</p>
+
+<p>MODERADOR:&nbsp;Procedemos con la intervenci&oacute;n del director general&nbsp;del Instituto Mexicano del Seguro Social, maestro Zo&eacute; Robledo.</p>
+
+<p>ZO&Eacute; ROBLEDO ABURTO, DIRECTOR GENERAL DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL (IMSS):Muchas gracias. Muy buenas tardes,&nbsp;amigas y amigos&nbsp;de Esc&aacute;rcega y de todo Campeche. Con su permiso, se&ntilde;or presidente.</p>
+
+<p>Gobernadora Layda Sansores, querid&iacute;sima Layda, hace un a&ntilde;o m&aacute;s o menos tuvimos una conversaci&oacute;n justamente en Tabasco, en Villahermosa, despu&eacute;s de una reuni&oacute;n a la que nos convoc&oacute; el presidente L&oacute;pez Obrador sobre seguridad y protecci&oacute;n civil, y ah&iacute; empezamos a conversar sobre esta posibilidad, sobre este sue&ntilde;o de incorporar a Campeche en este programa de salud del IMSS-Bienestar, y hoy ya es una realidad, y ya estamos viendo sus primeros frutos de lo que cosechamos, de lo que sembramos.</p>
+
+<p>Doctora Liliana Montejo, muchas gracias por estar aqu&iacute; con nosotros.</p>
+
+<p>A la doctora Gisela Lara Salda&ntilde;a, desde luego, del programa.</p>
+
+<p>Al maestro Juan Ferrer.</p>
+
+<p>El doctor Heredia.</p>
+
+<p>Al presidente municipal Silvestre, muchas gracias por su apoyo tambi&eacute;n.</p>
+
+<p>Hay que saludar a la licenciada Serrano Ger&oacute;nimo, a Hilario Gonz&aacute;lez, a todas y a todos quienes han estado en este proceso.</p>
+
+<p>S&oacute;lo d&eacute;jenme platicarles: &iquest;qu&eacute; es lo que nos instruy&oacute; el presidente L&oacute;pez Obrador y qu&eacute; es lo que estamos haciendo?</p>
+
+<p>Lo que ten&iacute;amos en el sistema de salud con aqu&eacute;l llamado Seguro Popular, era, primero, un sistema fragmentado,&nbsp;cada quien, los del IMSS, los del IMSS-Bienestar en otro, Salud, el Issste, todos divididos, y eso terminaba afectando la posibilidad de atender a la poblaci&oacute;n en su conjunto por el hecho de ser mexicanos nada m&aacute;s.</p>
+
+<p>Ten&iacute;amos un sistema que se estaba empezando a privatizar en muchas &aacute;reas, estaban los hospitales, pero los servicios eran de empresas. Muchas &aacute;reas empezaron a cerrar previendo que lo que iba a buscar la gente era mandarlos a los servicios privados con este Seguro Popular.</p>
+
+<p>Pero lo peor de todo es que para los estados era un servicio, un sistema que era completamente mercantil.</p>
+
+<p>&iquest;A qu&eacute; me refiero con esto?</p>
+
+<p>A los estados la Federaci&oacute;n les mandaba m&aacute;s dinero en funci&oacute;n de que tuvieran m&aacute;s enfermos, les conven&iacute;a tener enfermos para tener m&aacute;s recursos, y eso es completamente inhumano. Hab&iacute;a que regresar a un modelo m&aacute;s preventivo, no uno que espera la enfermedad, sino que se adelanta justamente para evitar las enfermedades, y que cuando estas ocurran sea la calidad, el humanismo y la rapidez y la oportunidad en la forma como se trabaja.</p>
+
+<p>Empezamos en una gira con el presidente antes de la pandemia, estuvimos aqu&iacute;, aqu&iacute; en Campeche en dos ocasiones, en el hospital del IMSS-Bienestar de&nbsp;Mamantel, en Hecelchak&aacute;n tambi&eacute;n, y ah&iacute; empezamos a dise&ntilde;ar este prop&oacute;sito.</p>
+
+<p>Luego, vino la pandemia y la pandemia nos demostr&oacute; que ese sistema privatizado, fragmentado, deshumanizado, financiero y mercantil, ten&iacute;a&nbsp;y pon&iacute;a en riesgo a la poblaci&oacute;n, por eso todos nos volcamos como este hospital, a atender para COVID, a cambiar las camas, a ponerlas al servicio de la emergencia sanitaria.</p>
+
+<p>Hoy, gracias a las decisiones que se tomaron en su momento por parte del presidente, gracias a la vacunaci&oacute;n podemos pensar en un nuevo momento, en el momento del IMSS, del IMSS-Bienestar.</p>
+
+<p>Por eso es&nbsp;que&nbsp;hicimos algo que era muy importante, un primer diagn&oacute;stico que fue el primer acuerdo que tomamos con la gobernadora Layda, un diagn&oacute;stico para ver c&oacute;mo estaban los hospitales, c&oacute;mo estaban los centros de salud, y no hacer ese diagn&oacute;stico, como se hac&iacute;a tradicionalmente, en el escritorio y revisando la computadora, sino yendo a los lugares.</p>
+
+<p>Aqu&iacute; hay un doctor que quiero presentarles, el doctor&nbsp;Janell&nbsp;Romero, el hospital lleva su nombre y me parece que nos acompa&ntilde;a&nbsp;el d&iacute;a de hoy, no s&eacute; si est&aacute; por ac&aacute;, porque es de esos m&eacute;dicos que siendo m&eacute;dico general vino ac&aacute; a Esc&aacute;rcega y sal&iacute;a a recorrer los puertos, atend&iacute;a a las mujeres embarazadas, no le pesaba la burocracia, sino el humanismo, y por eso atend&iacute;a.</p>
+
+<p>Y as&iacute; lo hicimos tambi&eacute;n, revisar c&oacute;mo est&aacute;bamos en infraestructura, c&oacute;mo estaban los equipos, c&oacute;mo estaban los hospitales y las unidades en t&eacute;rminos de los insumos que necesitan, los medicamentos, sobre todo.</p>
+
+<p>Y lo m&aacute;s importante, el personal, cu&aacute;ntos eran nuestra plantilla de personal,&nbsp;m&eacute;dicas y m&eacute;dicos, enfermeras y enfermeros, pero tambi&eacute;n especialistas, que es lo que m&aacute;s falta nos hace.</p>
+
+<p>Hoy, se&ntilde;or presidente, le informamos que en los nueve hospitales en donde hemos intervenido, en Calkin&iacute;, en Candelaria, en Carmen, en Champot&oacute;n, aqu&iacute; mismo en Esc&aacute;rcega, en Hopelch&eacute;n, en Palizada, en&nbsp;Sabancuy&nbsp;y en Xpujil, tenemos un cambio radical en t&eacute;rminos del n&uacute;mero de cirug&iacute;as, n&uacute;mero de consultas y n&uacute;mero de estudios que podemos hacer.&nbsp;</p>
+
+<p>La inversi&oacute;n ha estado enfocada a levantar primero lo que ya tenemos, esto que se vio en el video sobre acabados, impermeabilizaciones, echar a andar equipos, incluso quir&oacute;fanos que llevaban mucho tiempo sin funcionar.</p>
+
+<p>La parte que viene es la que estamos haciendo junto con Insabi de adquisici&oacute;n de equipos, ya se est&aacute;n comprando los equipos que se necesitan. Y uno de los prop&oacute;sitos que queremos lograr para este hospital para el pr&oacute;ximo a&ntilde;o es que tenga un tom&oacute;grafo, tiene un espacio para el tom&oacute;grafo.&nbsp;</p>
+
+<p>Y aqu&iacute; tenemos tambi&eacute;n a los m&eacute;dicos traumat&oacute;logos, ortopedistas que pueden atender para evitar que la gente tenga que trasladarse a lugares m&aacute;s lejanos, como a Carmen.</p>
+
+<p>Y en ese sentido, presidente, adem&aacute;s de lo que ya se ha mencionado decirle que, efectivamente, el abasto lo tenemos que mantener en ese 95 por ciento y hasta llegar al 100, que ese ya sea nuestro nivelmenor posible y que sigamos mejorando hasta llegar al 100 por ciento.</p>
+
+<p>Y, desde luego, su instrucci&oacute;n para la atenci&oacute;n de m&eacute;dicos especialistas con los m&eacute;dicos cubanos ha sido verdaderamente una transformaci&oacute;n de fondo.&nbsp;Y no es solamente decirles que hay 50&nbsp;m&eacute;dicos cubanos y m&eacute;dicas cubanas&nbsp;especialistas todas y todos ellos en todo Campeche, ocho aqu&iacute; en este hospital, sino historias como la del doctor Julio Dur&aacute;n Hidalgo, m&eacute;dico cubano que est&aacute; aqu&iacute; con nosotros y que adem&aacute;s est&aacute; haciendo las cosas como queremos hacerlos.</p>
+
+<p>Hace unos d&iacute;as lleg&oacute; una mujer embarazada a este hospital, necesitaba una atenci&oacute;n, necesitaba una ces&aacute;rea, y &eacute;l no se puso a preguntar&nbsp;que&nbsp;si d&oacute;nde estaba el ginec&oacute;logo, sino que dijo: &lsquo;Yo puedo atender a esa mujer, yo puedo resolver&rsquo; y le salv&oacute; la vida a ella y a su hijo. Por eso, doctor Julio, esa es la gran diferencia entre un sistema de salud humanizado.</p>
+
+<p>Y, adem&aacute;s, decirle, se&ntilde;or presidente, la criatura que salv&oacute;, sus padres le pusieron Julio justamente en honor al doctor y en reconocimiento a este trabajo humanista.</p>
+
+<p>Y s&oacute;lo para concluir, quiero decirles que nada de esto hubiera sido posible si no hubi&eacute;ramos contado con la energ&iacute;a, la determinaci&oacute;n de la gobernadora Layda Sansores y de todo su equipo.</p>
+
+<p>Sin lugar a dudas, la doctora Liliana Montejo, Karen Berlanga, nuestro doctor L&oacute;pez Mac&iacute;as, la doctora Nayeli, todas y todos, porque aqu&iacute; s&iacute; hubo&hellip; nos&nbsp;campechaneamos,&nbsp;como dir&iacute;an, nos hicimos uno solo, nos mezclamos en un prop&oacute;sito superior que va a haber beneficios en la poblaci&oacute;n. De verdad, querida gobernadora, gracias.</p>
+
+<p>No es f&aacute;cil la decisi&oacute;n que est&aacute; tomando la gobernadora Layda, nunca es f&aacute;cil que a alguien le digan: &lsquo;Vamos a federalizar y esto, aparte de la atenci&oacute;n m&eacute;dica, los hospitales, los centros de salud, los vamos a operar desde la federaci&oacute;n&rsquo;.&nbsp;</p>
+
+<p>Aqu&iacute; hay dos elementos que pesaron mucho:&nbsp;</p>
+
+<p>Uno, un sentido de responsabilidad hist&oacute;rica sabiendo que esto se va a ver justamente en el largo plazo. Cuando volteemos en los a&ntilde;os y digamos: La decisi&oacute;n correcta se tom&oacute; en Campeche.</p>
+
+<p>Y la otra, basarnos en la confianza, la confianza que nos tenemos entre compa&ntilde;eros y compa&ntilde;eros del movimiento y quienes hemos seguido al presidente L&oacute;pez Obrador y sabemos que sus prop&oacute;sitos siempre tienen ese objetivo final: poner en el centro a quienes menos tienen, a quienes m&aacute;s necesitan&nbsp;del estado en los momentos de mayor dificultad.</p>
+
+<p>Aqu&iacute; hab&iacute;a una caja, por cierto, una caja donde se les cobraba a los que no tienen para pagar, y una farmacia muy peque&ntilde;ita; ahora, en donde estaba la caja hicimos una farmacia m&aacute;s grande y la caja la cerramos para siempre. De&nbsp;eso se trata este proceso, de darnos cuenta&nbsp;que&nbsp;nuestro paso, nuestra participaci&oacute;n&nbsp;en la Cuarta Transformaci&oacute;n debe de servirle a la gente que m&aacute;s lo necesita.</p>
+
+<p>Muchas gracias y vamos avanzando, y muy pronto&nbsp;daremos m&aacute;s resultados. Muchas gracias y buenos d&iacute;as.</p>
+
+<p>MODERADOR:&nbsp;Estimado p&uacute;blico, escuchemos el mensaje que nos dirige el presidente constitucional de los Estados Unidos Mexicanos, licenciado Andr&eacute;s Manuel L&oacute;pez Obrador.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:Amigas, amigos, paisanas, paisanos de Esc&aacute;rcega:</p>
+
+<p>Me da mucho gusto estar con ustedes. Conozco Esc&aacute;rcega desde hace muchos a&ntilde;os y, como la gente de m&aacute;s edad, mis compa&ntilde;eros veteranos&nbsp;saben, c&oacute;mo fue creciendo toda esta regi&oacute;n de Campeche:</p>
+
+<p>Aqu&iacute; lo mencion&oacute; el doctor, desde luego&nbsp;el primer detonante del desarrollo de esta regi&oacute;n fue la construcci&oacute;n del&nbsp;Ferrocarril&nbsp;del Sureste, ah&iacute; empez&oacute; todo. Lo inici&oacute; el general C&aacute;rdenas&nbsp;y lo inaugur&oacute; el ferrocarril el presidente&nbsp;Miguel Alem&aacute;n. Llev&oacute; tiempo tener este ferrocarril, pero era la v&iacute;a de comunicaci&oacute;n terrestre, porque antes de eso todo era embarcado, ya sea navegando en los r&iacute;os y en el mar, en lo que era la navegaci&oacute;n de cabotaje.</p>
+
+<p>En esos entonces, cuando floreci&oacute; Campeche como puerto, vivir cerca del mar, vivir cerca de un puerto era vivir cerca del mundo. A veces se equivocan los que piensan que hab&iacute;a m&aacute;s civilizaci&oacute;n en el centro o en el norte del pa&iacute;s, lo cierto es que aqu&iacute; la civilizaci&oacute;n tiene miles de a&ntilde;os, porque aqu&iacute; florecieron culturas como la olmeca y la gran cultura maya. Y los mayas eran como los fenicios, eran navegantes, todo se hac&iacute;a en barco. Fue tan importante esta regi&oacute;n que, luego de la invasi&oacute;n, ten&iacute;a un producto muy deseado, muy codiciado que era el palo de Campeche, el palo de tinte, se lo llevaban a Europa porque con ese palo se hac&iacute;an los tintes para la ropa, para el textil, antes de la Revoluci&oacute;n Industrial.</p>
+
+<p>Era tan importante palo de tinte, que se iban los barcos llenos de madera, de palo de tinte, a Europa, y regresaban y no tra&iacute;an muchas mercanc&iacute;as, pero como les interesaba el palo de tinte, regresaban vac&iacute;os. Y tra&iacute;an como lastre para darle estabilidad a los barcos la teja francesa, que ya no hay en Campeche, fue una desgracia, bueno, queda todav&iacute;a en Palizada y hay que cuidarla, porque por una&nbsp;mala entendida o una mala forma&nbsp;de entender la modernidad se quit&oacute; la teja francesa de Marsella y todo fue despu&eacute;s l&aacute;mina de asbesto, de zinc o concreto. Pero as&iacute; se fue desarrollando inicialmente esta regi&oacute;n.</p>
+
+<p>Por eso tambi&eacute;n las murallas, porque era la pirater&iacute;a, porque hab&iacute;a que robar; si no, no hubiese habido pirater&iacute;a. Porque Espa&ntilde;a dominaba, pero en los mares eran los ingleses, los holandeses, los que ten&iacute;an dominio, y hab&iacute;a enfrentamientos.</p>
+
+<p>Un gran historiador, Galeano, Eduardo Galeano, uruguayo, en un libro que se llama&nbsp;Las venas abiertas de Am&eacute;rica Latina, de c&oacute;mo nos saquearon durante el periodo colonial, dec&iacute;a que Espa&ntilde;a ten&iacute;a a la vaca, pero la orde&ntilde;aba Holanda y la orde&ntilde;aba Inglaterra. As&iacute; fue el desarrollo inicial.</p>
+
+<p>Luego de los barcos viene el ferrocarril, ya fue un gran avance.</p>
+
+<p>Y luego del ferrocarril viene la carretera, primero con el presidente Ruiz Cortines, despu&eacute;s de Miguel Alem&aacute;n que inaugura el ferrocarril empieza la carretera del golfo con Ruiz Cortines. Y posteriormente, ya en los a&ntilde;os 60 del siglo pasado, ya esta carretera de Villahermosa a Chetumal, que se construy&oacute;, como a finales de los 60, principios de los 70 empez&oacute; a construirse.</p>
+
+<p>Y viene otro acontecimiento que es important&iacute;simo&nbsp;para entender esta regi&oacute;n, se decide entregar las tierras, que eran nacionales, a colonos de otros estados, porque en Campeche hab&iacute;a mucha tierra, sigue habiendo, y poca poblaci&oacute;n, mucha tierra y poca poblaci&oacute;n.</p>
+
+<p>Entonces, inicia el gobierno un programa de colonizaci&oacute;n y empiezan a llegar familias de todo el pa&iacute;s a esta regi&oacute;n, de Durango, de Michoac&aacute;n, de Tabasco, de Veracruz, de Coahuila, de Jalisco, de todos lados, empezaron a entregarles tierras ejidales o colonias, y as&iacute; se fue colonizando esta regi&oacute;n de Campeche.</p>
+
+<p>Mi abuelo paterno vino en ese entonces, porque &eacute;l era campesino de la cuenca del Papaloapan, y muri&oacute; en un ejido ac&aacute; adelante de Esc&aacute;rcega, entre Esc&aacute;rcega y Xpujil, est&aacute; enterrado en el ejido Constituci&oacute;n mi abuelo. Y as&iacute; de todo M&eacute;xico, los &uacute;ltimos en llegar fueron de Chiapas, desplazados.</p>
+
+<p>Eso es esta regi&oacute;n, que la quiero mucho, la tengo aqu&iacute; en mi coraz&oacute;n.</p>
+
+<p>Y estamos trabajando para que las cosas mejoren en beneficio de todos. Aqu&iacute; en Esc&aacute;rcega pues se est&aacute;n aplicando los programas de Bienestar. S&oacute;lo para ponerles un ejemplo, Esc&aacute;rcega,&nbsp;de acuerdo al&uacute;ltimo censo, registr&oacute; una poblaci&oacute;n de 59 mil 923 habitantes, 60 mil en todo el municipio, y tiene 16 mil 833 viviendas.</p>
+
+<p>&iquest;Y saben cu&aacute;ntos se benefician de manera directa con los programas de bienestar?</p>
+
+<p>Diecis&eacute;is mil 2018, o sea, casi en todos los hogares llega un apoyo.</p>
+
+<p>Y aqu&iacute; hay 589 j&oacute;venes que est&aacute;n en el programa J&oacute;venes Construyendo el Futuro.</p>
+
+<p>Doscientos noventa y cuatro j&oacute;venes que estudian en el nivel universitario que tienen beca de dos mil 245 pesos mensuales.</p>
+
+<p>Todos los estudiantes de preparatoria de Esc&aacute;rcega, dos mil 286, tienen su beca.</p>
+
+<p>Los que estudian en preescolar, primaria y secundaria tambi&eacute;n tienen becas, son dos mil 677 familias que est&aacute;n recibiendo este apoyo.</p>
+
+<p>Aqu&iacute; ya est&aacute; funcionando una universidad con la carrera de Ingenier&iacute;a agroforestal, ya llevan tres, cuatro a&ntilde;os, en instalaciones prestadas. Ya me hicieron la petici&oacute;n, no reclamo, de que antes de terminar se construya la universidad, y lo vamos a hacer, es un compromiso.</p>
+
+<p>Tambi&eacute;n, Esc&aacute;rcega tiene 140 escuelas del municipio, esto lo sabe bien el presidente municipal, y que me da mucho gusto que nos acompa&ntilde;e aqu&iacute; en esta reuni&oacute;n. Y en las 140 escuelas ya se han entregado los presupuestos a las sociedades de madres y de padres de familia para que les den mantenimiento a los planteles, y va a seguir este programa.&nbsp;</p>
+
+<p>Se les va a entregar de manera directa, para&nbsp;que&nbsp;en la asamblea de padres, de madres de familia decidan qu&eacute; hacer con el presupuesto y aplicarlo en beneficio de las escuelas.</p>
+
+<p>Aqu&iacute; en Esc&aacute;rcega hay cuatro mil 139 adultos mayores que tienen pensi&oacute;n, cuatro mil 139. Y les doy una buena noticia: el 1&ordm; de enero ya aumenta la pensi&oacute;n 25 por ciento. Y otra buena, nada m&aacute;s que va a llevar m&aacute;s tiempo: para el 1&ordm; de enero del 24 va a aumentar otro 25 por ciento, para que cuando yo termine va a ser un incremento de cinco veces m&aacute;s de cuando inici&eacute; el gobierno. Me voy a ir con mi conciencia muy tranquila.</p>
+
+<p>Hay 511 ni&ntilde;as, ni&ntilde;os, aqu&iacute; en Esc&aacute;rcega que con discapacidad que tienen su pensi&oacute;n, y hemos llegado con Layda un acuerdo para que la pensi&oacute;n a discapacitados sea universal en Campeche, sea para todos.</p>
+
+<p>Hay 145 ni&ntilde;as, ni&ntilde;os que est&aacute;n recibiendo apoyos, becas, porque son hijos, hijas de madres solteras.</p>
+
+<p>Mil 739 campesinos est&aacute;n recibiendo su apoyo, lo que era el Procampo ahora se llama Producci&oacute;n para el Bienestar, y va a seguir este programa.</p>
+
+<p>Tambi&eacute;n vamos a seguir manteniendo los Precios de Garant&iacute;a para el ma&iacute;z, el arroz, el trigo harinero, el frijol y la leche, para que el productor vea compensado su esfuerzo.</p>
+
+<p>Aqu&iacute; en Esc&aacute;rcega ya debe estar por terminarse y operar una nueva sucursal del Banco del Bienestar, es muy importante, porque no se va a entregar nada, no se ha entregado nada ni se entregar&aacute;&nbsp;a trav&eacute;s de intermediarios, nada de que &lsquo;yo soy de la organizaci&oacute;n campesina Emiliano Zapata o de la organizaci&oacute;n campesina Francisco Villa o Campeche Democr&aacute;tico o Esc&aacute;rcega con Dimensi&oacute;n Social,&nbsp;dame a m&iacute; el apoyo, yo lo entrego a la gente&rsquo;, no, primo hermano, eso ya se acab&oacute;, es directo, cada beneficiario tiene su tarjeta y va a ir al banco, saca lo que por derecho le corresponde sin el cobro de ninguna comisi&oacute;n. Vamos a tener estos bancos para que puedan recibir sus apoyos de manera directa.</p>
+
+<p>Aqu&iacute; se han beneficiado con programas de vivienda a mil 215 familias.</p>
+
+<p>Y aqu&iacute; hay, este es un programa que me gusta mucho, es &uacute;nico en el mundo este programa, Sembrando Vida, porque hay casi tres mil sembradores s&oacute;lo en Esc&aacute;rcega, que reciben mes con mes su jornal para que cultiven sus parcelas, sean tierras ejidales o propiedad privada. Y este programa va a continuar hasta que termine nuestro gobierno. Y si es posible&hellip; Que yo creo que s&iacute; va a ser posible, porque tiene que seguir.</p>
+
+<p>&iquest;Saben cu&aacute;ntos sembradores hay en todo el pa&iacute;s?</p>
+
+<p>Cuatrocientos 50 mil que est&aacute;n sembrando un mill&oacute;n de hect&aacute;reas; entonces quitarles el programa va a estar, como dicen los j&oacute;venes, &lsquo;ca&ntilde;&oacute;n&rsquo;. &iquest;No es as&iacute;?</p>
+
+<p>Igual lo de adulto mayor, tambi&eacute;n se los informo, ya se elev&oacute; a rango constitucional, est&eacute; quien est&eacute; en el gobierno tienen que seguir entregando esos apoyos.</p>
+
+<p>Y decirles que&nbsp;aparte de estos programas que son muy importantes, como es conocido, se est&aacute; haciendo el Tren Maya. Son muchos los beneficios para Esc&aacute;rcega. Imag&iacute;nense, es una extensi&oacute;n de mil 554 kil&oacute;metros, mil 554 kil&oacute;metros, es como ir de aqu&iacute;, de Esc&aacute;rcega a Guadalajara, pasa M&eacute;xico. Y es lo que est&aacute; haciendo, es Palenque, Esc&aacute;rcega y aqu&iacute; es el centro, porque aqu&iacute; hay una v&iacute;a hacia Campeche, hacia el golfo, M&eacute;rida, Canc&uacute;n, luego baja, Tulum, luego Chetumal, Uxmal y regresa a Esc&aacute;rcega. Entonces, aqu&iacute; es un cruce.</p>
+
+<p>Y en Esc&aacute;rcega, adem&aacute;s del tren, va a funcionar un taller del Tren Maya, va a ser el centro para tener un taller para los trenes. Y va a haber una cochera para guardar tambi&eacute;n los trenes. Esta es una inversi&oacute;n pues que no se hab&iacute;a hecho en mucho tiempo. Ya est&aacute; ayudando porque est&aacute; dando trabajo a mucha gente y va a seguir ayudando.&nbsp;</p>
+
+<p>Tambi&eacute;n llegar aqu&iacute; a Esc&aacute;rcega en el tren y quedarse en Esc&aacute;rcega pues&nbsp;va&nbsp;permitir recorrer toda la regi&oacute;n. Va a pasar el tren en Candelaria, pero pues de Candelaria est&aacute;n las zonas arqueol&oacute;gicas, El Tigre, de aqu&iacute; es el centro, de aqu&iacute; a la entrada de Calakmul son 80, 100 kil&oacute;metros; de aqu&iacute; a Edzn&aacute;, el otro centro arqueol&oacute;gico hacia Campeche, pues otros 80, 100 kil&oacute;metros. Pero si no quieren ir tan lejos, pues nada m&aacute;s aqu&iacute; est&aacute;n los cenotes de Colorado, de Miguel Colorado, que es una belleza. S&iacute; conocen, &iquest;no? Ah, bueno.</p>
+
+<p>Entonces, el tren significa una inversi&oacute;n muy importante para el desarrollo de Esc&aacute;rcega, de Campeche, de toda esta regi&oacute;n. Porque crec&iacute;a el norte durante el periodo neoliberal, crec&iacute;a el baj&iacute;o, crec&iacute;a el centro, pero el sureste nada; pero le lleg&oacute; la hora al sureste.&nbsp;</p>
+
+<p>Y ya termino. Es que yo ven&iacute;a a tratar este asunto tan importante, igual de importante que los otros, el de la salud. Nada m&aacute;s&nbsp;decirlesque tenemos el compromiso de que a m&aacute;s tardar a mediados del a&ntilde;o que viene vamos a tener un sistema de salud p&uacute;blico de primera, como lo merecen ustedes. Centros de salud, hospitales, con equipos, con m&eacute;dicos generales, enfermeras, enfermeros, m&eacute;dicos especialistas, 100 por ciento de medicamentos y, como aqu&iacute; se ha dicho, de manera gratuita, es garantizar el derecho del pueblo a la salud.</p>
+
+<p>La salud no es un privilegio, es un derecho del pueblo, nosotros&nbsp;tenemos que tener&nbsp;seguridad social desde que nacemos hasta que nos vamos, desde la cuna hasta la tumba, ese es nuestro ideal de bienestar.</p>
+
+<p>Entonces, no importa la condici&oacute;n econ&oacute;mica social, lo que tiene que ver con la salud, lo que tiene que ver con la educaci&oacute;n tiene que ser p&uacute;blica y tiene que ser gratuita para todos, y de calidad.</p>
+
+<p>Estamos batallando porque se abandon&oacute; el pa&iacute;s y se abandon&oacute;&nbsp;la atenci&oacute;n al pueblo y se abandon&oacute; la salud, y una de las dificultades que tenemos es que, como el modelo que aplicaban era otro, lo que les interesaba era b&aacute;sicamente beneficiar a los de arriba, a las minor&iacute;as, no volteaban a ver al pueblo m&aacute;s que cuando necesitaban los votos, eran cuando entregaban migajas, frijol con gorgojo.</p>
+
+<p>Entonces, ahora es distinto, ahora por eso est&aacute;n tan enojados, porque primero el pueblo. Y nos dicen &lsquo;indios&rsquo; &lsquo;pata rajada&rsquo;, &lsquo;nacos&rsquo;; digan lo que digan, por el bien de todos, primero los pobres.</p>
+
+<p>Entonces, nos est&aacute; costando trabajo, sobre todo lo relacionado con los m&eacute;dicos, porque el modelo de estos corruptos era que estudiara el que tuviese para pagar colegiatura, que se curara el que tuviese para pagar un m&eacute;dico privado, ese era el plan, que el Estado, el gobierno, no atendiera las necesidades de educaci&oacute;n y de salud el pueblo, poner la salud como la educaci&oacute;n al mercado como si fuese una mercanc&iacute;a, para que la pudiese adquirir el que tuviese dinero. Nosotros pensamos de manera distinta.</p>
+
+<p>Pero s&iacute; nos causaron mucho da&ntilde;o porque con esa idea dejaron de apoyar la educaci&oacute;n p&uacute;blica y dejaron de apoyar la salud p&uacute;blica.</p>
+
+<p>&iquest;Qu&eacute; hicieron?</p>
+
+<p>Durante 30 a&ntilde;os se dedicaron a rechazar a los j&oacute;venes que quer&iacute;an ingresar a las universidades, a estudiar medicina. Con la mentira de que no pasaban el examen de admisi&oacute;n, los rechazaban. No es que no pasar&aacute;n el examen de admisi&oacute;n, es que no hab&iacute;a presupuesto para la educaci&oacute;n p&uacute;blica.</p>
+
+<p>Entonces, si presentaban en la UNAM 10 mil&nbsp;alumnos examen para ingresar, 10 mil, entraban mil; y no porque no pasaran el examen, repito, sino porque no ten&iacute;an cupo, no hab&iacute;a espacio, no hab&iacute;a presupuesto, entonces rechazaban a nueve mil.</p>
+
+<p>&iquest;Y c&oacute;mo le hac&iacute;an? &iquest;C&oacute;mo seleccionaban?</p>
+
+<p>Pues aplicaban un examen con 125 preguntas y dec&iacute;an: &lsquo;Bueno, va a pasar, vamos a aceptar el que conteste bien de 123 hacia adelante&rsquo;, o sea, 123, 124, 125, el que contestaba bien 122 ya no ten&iacute;a entrada. No es que no pasara el examen, es que no hab&iacute;a cupo.</p>
+
+<p>&iquest;Qu&eacute; da&ntilde;o causaron de manera irresponsable?</p>
+
+<p>Que ahora no tenemos m&eacute;dicos en M&eacute;xico, los m&eacute;dicos que necesita el pa&iacute;s, y mucho menos especialistas. F&iacute;jense a d&oacute;nde nos llevaron. Entonces, por eso nos est&aacute; costando trabajo.</p>
+
+<p>Ya se hizo una convocatoria para contratar m&eacute;dicos y de casi 14 mil plazas se ocuparon tres mil 500. Entonces, estamos buscando m&eacute;dicos para que est&eacute;n los siete d&iacute;as de la semana, las 24 horas. Nada de tener m&eacute;dicos nada m&aacute;s lunes y viernes, y que la gente no se enferme ni el s&aacute;bado ni el domingo, eso no es posible,&nbsp;tenemos que tener&nbsp;siempre los m&eacute;dicos.</p>
+
+<p>Y ya estamos avanzando porque ahora se ampli&oacute; el n&uacute;mero de becas para estudiantes o quienes terminan la licenciatura en medicina y, si quieren entrar a una especialidad, ya se ampli&oacute;. Vamos a tener ya m&aacute;s especialistas, ya desde el a&ntilde;o pr&oacute;ximo.</p>
+
+<p>De todas maneras, no vamos a alcanzar a cubrir todo lo que necesitamos. Vamos a seguir contratando m&eacute;dicos en el extranjero, porque la salud es primero. Y por eso tambi&eacute;n quiero agradecerle mucho al pueblo y al gobierno cubano por su apoyo, por su solidaridad, por habernos enviado m&eacute;dicos generales, m&eacute;dicos especialistas. Muchas gracias, Miguel D&iacute;az-Canel, mi compa&ntilde;ero, presidente de Cuba.</p>
+
+<p>Y cuando ya tengamos una idea m&aacute;s general el a&ntilde;o que viene, a mediados, vamos a hacer un balance. Si no nos alcanza, vamos a buscar medidas, estamos ya con Zo&eacute; viendo la forma de pagarles m&aacute;s a los m&eacute;dicos especialistas. Porque muchos, si es un pediatra, pues ganan 30 mil pesos al mes, 28 mil, en el IMSS-Bienestar van a ganar 50, m&aacute;s o menos, s&iacute;; si es necesario, le vamos a subir m&aacute;s.</p>
+
+<p>Y ustedes dicen: &lsquo;&iquest;Y de d&oacute;nde va a salir el dinero?&rsquo; F&iacute;jense que hay bastante presupuesto.&nbsp;&iquest;Y por qu&eacute; creen que hay bastante presupuesto?&nbsp;Porque ya no permitimos que se roben el dinero del pueblo, el presupuesto.</p>
+
+<p>Y como no hay corrupci&oacute;n, el presupuesto alcanza y rinde. Entonces, no es un problema de presupuesto. Yo les puedo comentar aqu&iacute; que, a pesar de que estamos destinando un subsidio para que no aumente el precio de las gasolinas y no aumente el precio del di&eacute;sel y de la luz y del gas, a pesar de eso, estamos destinando m&aacute;s de 300 mil millones de pesos anuales, porque si aumenta el precio de la gasolina, ustedes saben, aumenta todo, y hay inflaci&oacute;n, y se sufre mucho, se padece mucho con la carest&iacute;a.</p>
+
+<p>Bueno, a pesar de que estamos dando ese subsidio, de todas maneras, este a&ntilde;o estamos terminando con un incremento en la recaudaci&oacute;n de&nbsp;impuestos de cerca del cinco por ciento en t&eacute;rminos reales, como 12 por ciento m&aacute;s que el a&ntilde;o pasado. O sea, nos est&aacute; yendo muy bien.</p>
+
+<p>Y aunque ustedes lo est&eacute;n notando abajo, no est&aacute; dem&aacute;s decirles que ya tenemos un incremento en el n&uacute;mero de empleos.&nbsp;</p>
+
+<p>Ya tambi&eacute;n&nbsp;decirles&nbsp;que vamos a llegar con cerca de 60 mil millones de d&oacute;lares de los env&iacute;os de nuestros paisanos migrantes a sus familiares. Un aplauso para los migrantes.</p>
+
+<p>Y otras cosas. Por ejemplo, llevaba 50 a&ntilde;os devalu&aacute;ndose el peso, 50 a&ntilde;os consecutivos que se devaluaba nuestra moneda, ahora el peso es la moneda m&aacute;s fuerte en el mundo con relaci&oacute;n al d&oacute;lar.&nbsp;</p>
+
+<p>Es un, para los conservadores que aplauden mucho, es un tengan para que aprendan.</p>
+
+<p>Muchas gracias.</p>
+
+<p style="margin-left:36px;">---</p>
+</div>
+      </div>
+
+      <div class="col-md-4 col-xs-12 pull-right">
+
+
+
+
+          <div id="survey" class="survey-popup small-top-buffer">
+	<div class="row">
+  <a class="fire">
+    <span class="title">Contesta nuestra encuesta de satisfacción.</span>
+		<i style="color: white" class="fas fa-poll"></i>
+  </a>
+  <hr>
+  
+  <div class="survey col-sm-12 clearfix">
+	<form id="survey-form">
+	  <div class="survey-form">
+	  <fieldset id="query_1">
+		<legend>¿Cómo fue tu experiencia en gob.mx?</legend>
+		<div id="Q_A" class="btn-group row">
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncGood" class="ga-survey" value="Feliz" title="Satisactorio">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-good.svg" alt="">
+		  	</button>
+		  </div>
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncReg" class="ga-survey" value="Neutral" title="Neutral">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-neutral.svg" alt="">
+		  	</button>
+		  </div>
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncBad" class="ga-survey" value="Triste" title="No satisactorio">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-bad.svg" alt="">
+		  	</button>
+		  </div>
+		</div>
+	  </fieldset>
+	  <fieldset id="query_1_a" class="hidden">
+	  	<legend>¿Fue fácil encontrar lo que buscabas?</legend>
+	  	<div id="Q_B" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R1" value="1">
+	  		<label for="A_R">Muy Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R2" value="2">
+	  		<label for="A_R">Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R3" value="3">
+	  		<label for="A_R">Difícil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R4" value="4">
+	  		<label for="A_R">Muy Difícil</label>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_s" class="hidden">
+	  	<legend>¿De qué estado de la República nos visitas?</legend>	  	
+	  	<div class="col-md-12">
+  	  		<div class="form-group" style="margin-bottom: 114px;">
+  	  			<select id="estados" class="form-control"></select>
+  	  		</div>
+  	  		<div class="form-group">
+  	  			<button type="button" class="Q_S_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  		</div>
+  	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_alt" class="hidden">
+		<legend>¿Qué buscabas?</legend>
+	  	<div id="Q_I" class="clearfix">
+	  	  <div class="col-sm-12">
+	  		<textarea id="txtA" class="form-control" rows="6" maxlength="250" style="font-size: 14px; width: 100%;"></textarea>
+	  		<span class="small">Máximo 250 caracteres</span>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+  	  	  <button type="button" class="Q_I_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_b" class="hidden">
+	  	<legend>¿Qué te gustó más?</legend>
+	  	<p class="small">Puedes seleccionar más de uno.</p>
+	  	<div id="Q_C" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R1" type="checkbox" name="A_R" value="1">
+	  		<label for="A_R">La información es clara y precisa</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R2" type="checkbox" name="A_R" value="2">
+	  		<label for="A_R">El diseño es agradable</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R3" type="checkbox" name="A_R" value="3">
+	  		<label for="A_R">Está bien organizado</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R4" type="checkbox" name="A_R" value="4">
+	  		<label for="A_R">Es sencillo navegar</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R5" type="checkbox" name="A_R" value="5">
+	  		<label for="A_R">El lenguaje es amigable</label>
+	  	  </div>
+	  	  <div class="clearfix">
+	  	  	<button type="button" class="Q_C_btn btn btn-primary btn-small pull-right">Siguiente</button>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_c" class="hidden">
+	  	<legend>¿Recomendarías nuestro portal a un amigo o familiar?</legend>
+	  	<div id="Q_D" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="radEncC_R1" type="radio" name="A_R" value="4">
+	  		<label for="A_R">Si</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncC_R2" type="radio" name="A_R" value="1">
+	  		<label for="A_R">No</label>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+        <button type="button" class="btn-finalizar btn btn-primary btn-small pull-right" style="margin-left: 8px; margin-top: 2px;" disabled>Finalizar</button>
+        <img src="https://framework-gb.cdn.gob.mx/assets/images/oval-white.svg" class="pull-right hidden loading">
+      </div>
+	  </fieldset>
+
+	  <fieldset id="query_2" class="hidden">
+		<legend>¿Fue fácil encontrar lo que buscabas?</legend>
+	  	<div id="Q_F" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R1" type="radio" name="A_R" value="1">
+	  		<label for="A_R">Muy Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R2" type="radio" name="A_R" value="2">
+	  		<label for="A_R">Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R3" type="radio" name="A_R" value="3">
+	  		<label for="A_R">Difícil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R4" type="radio" name="A_R" value="4">
+	  		<label for="A_R">Muy Difícil</label>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_2_b" class="hidden">
+	  	<legend>¿Qué mejorarías?</legend>
+	  	<p class="small">Puedes seleccionar más de una opción.</p>
+	  	<div id="Q_G" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A1" type="checkbox" name="A_R" value="1">
+	  		<label for="A_R">Diseño</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A2" type="checkbox" name="A_R" value="2">
+	  		<label for="A_R">Navegación dentro del sitio</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A3" type="checkbox" name="A_R" value="3">
+	  		<label class="too-long" for="A_R">Claridad y precisión de la información</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A4" type="checkbox" name="A_R" value="4">
+	  		<label for="A_R">Organización de los contenidos</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A5" type="checkbox" name="A_R" value="5">
+	  		<label for="A_R">Lenguaje utilizado</label>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">	  	  
+	  	  <button type="button" class="btn-finalizar btn btn-primary btn-small pull-right" style="margin-left: 8px; margin-top: 2px;" disabled>Finalizar</button>
+	  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/oval-white.svg" class="hidden pull-right loading">
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_2_alt" class="hidden">
+		<legend>¿Qué buscabas?</legend>
+	  	<div id="Q_H" class="clearfix">
+	  	  <div class="col-sm-12">
+	  		<textarea id="txtA1" class="form-control" rows="6" maxlength="250" style="font-size: 14px; width: 100%;"></textarea>
+	  		<span class="small">Máximo 250 caracteres</span>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+  	  	  <button type="button" class="Q_H_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  	</div>
+	  </fieldset>
+
+	</div>
+	<p class="hidden survey-thanks" style="text-align: center; color: white; font-weight: 700;">Gracias por tu opinión.</p>
+	</form>
+
+  </div>
+</div>
+</div>
+
+<script type="text/javascript">
+$(function() {
+  var c = 0;
+  var fin = 0;
+  var tipo_cara = "";
+  var page_type = "Articulos";
+  var triggered = false;
+  var answers = {};
+  var properties = {};
+  var organization = "presidencia";
+  var section = "Blog";
+  var lang = "es";
+  properties.published_on = "2022-12-05 15:16:00 -0600";
+  properties.title = "Versión estenográfica. Plan de Salud IMSS-Bienestar Campeche";
+  properties.path = "/presidencia/es/articulos/version-estenografica-plan-de-salud-imss-bienestar-campeche";
+  properties.referer = "";
+  properties.viewfinder = navigator.userAgent.toLowerCase();
+  properties.screens = screen.width;
+  properties.device = screen.width;
+
+  $.getJSON('https://www.gob.mx/vun/estados?filter[order]=nombre%20ASC', function (selectOptions) {
+    for( var i = 0; i < selectOptions.length; i ++) {
+      var selectOptionsJSON = selectOptions[i];
+      $('#estados').append('<option value="'+ selectOptionsJSON.nombre +'">'+ selectOptionsJSON.nombre +'</option>');
+    }
+    $('#estados').append('<option value="Otro">Otro</option>')
+  });
+
+  $('.fire').click(function(event) {
+    $('.survey-popup').css({'height':'440px'});
+  });
+
+  $('#Q_A').find('button').click(function(event) {
+  	$('#query_s').removeClass('hidden');
+  	$("#query_1").addClass('hidden');
+  	answers.q1 = $(this).attr('id');
+  });
+
+  $(".ga-survey").click(function () {
+    tipo_cara = $(this).val();
+    var interval_time = [30];
+    (function timer () {
+      if (c < 1) {
+        setTimeout(function () {
+           if(fin < 1) {
+             set_ga("Inconclusa");
+             timer();
+           }
+        }, interval_time[c] * 1000);
+      }
+      c++;
+    })();
+  });
+
+  $('.Q_S_btn').click(function(event) {
+    if( answers.q1 === "radEncGood") {
+      $("#query_s").addClass('hidden');
+      $("#query_1_a").removeClass('hidden');
+    } else if(answers.q1 === "radEncReg" || answers.q1 === "radEncBad") {
+      $("#query_s").addClass('hidden');
+      $("#query_2").removeClass('hidden');
+    } else { }
+    // answers.q1 = $('#Q_A').find('button').attr('id');
+  });
+
+  $('#Q_B').find('input').click(function(event) {
+  	if( $(this).attr('id') === 'radEncA_R3' || $(this).attr('id') === 'radEncA_R4' )  {
+  	  $("#query_1_a").addClass('hidden');
+	  $("#query_1_alt").removeClass('hidden');
+  	} else {
+  	  $("#query_1_a").addClass('hidden');
+	  $("#query_1_b").removeClass('hidden');	
+  	}	
+	answers.q2 = $(this).attr('id');
+  });
+
+  $('.Q_I_btn').click(function(event) {
+  	event.preventDefault();
+  	$("#query_1_alt").addClass('hidden');
+	$("#query_1_b").removeClass('hidden');
+	answers.q5 = $('#txtA').val().substring(0, 250);
+  });
+
+  $('#Q_C').find('button').click(function(event) {
+	$("#query_1_b").addClass('hidden');
+	$("#query_1_c").removeClass('hidden');
+	var q3_array = [];
+	$('#Q_C').find('input:checked').each(function(index, el) {
+	  q3_array.push($(el).attr('id'));
+	});
+	answers.q3 = q3_array;
+  });
+
+  $('#Q_D').find('input').change(function(event) {
+  	answers.q4 = $(this).attr('id');
+  	$('.btn-finalizar').attr('disabled', false);
+  });
+
+  $('#Q_F').find('input').click(function(event) {
+	
+	answers.q2 = $(this).attr('id');
+
+	if( $(this).attr('id') === 'rdEncA_R3' || $(this).attr('id') === 'rdEncA_R4' ) {
+	  $("#query_2").addClass('hidden');
+	  $("#query_2_alt").removeClass('hidden');
+	} else {
+	  $("#query_2").addClass('hidden');
+	  $("#query_2_b").removeClass('hidden');
+	}
+  });
+
+  $('#Q_G').find('input').change(function(event) {
+  	if($('#Q_G').find('input:checked').length > 0) {
+	  $('.btn-finalizar').attr('disabled', false);
+    }
+    var q2_array = [];
+    $('#Q_G').find('input:checked').each(function(index, el) {
+	  q2_array.push($(el).attr('id'));
+	});
+	answers.q3 = q2_array;
+  });
+
+  $('.Q_H_btn').click(function(event) {
+  	event.preventDefault();
+  	$("#query_2_alt").addClass('hidden');
+	$("#query_2_b").removeClass('hidden');
+	answers.q5 = $('#txtA1').val().substring(0, 250);
+  });
+
+  $('.btn-finalizar').click(function (event) {
+    fin++;
+    $.ajax({
+      url: '/encuesta-satisfaccion',
+      type: 'post',
+      dataType: 'json',
+      data: { section: section, lang: lang, properties: properties, answers: answers },
+      beforeSend: function() {
+        $('.loading').removeClass('hidden');
+      },
+      success: function(data) {
+        set_ga("Finalizada");
+
+        $('.survey').hide();
+        $('.survey-popup').css({'height':'60px','background-color':'#dff0d8','border':'1px solid #d6e9c6'});
+        $('.survey-popup .title').text('Gracias por tu participación.').css({'color':'#3c763d'});
+        $('#icon-survey').removeClass('fa-file-text-o').addClass('fa-check-circle').css({'color':'#3c763d'});
+        setTimeout(function() {
+          $('.survey-popup').fadeOut('800');
+        }, 1600);
+      }
+    });
+  });
+
+  function set_ga(estatus) {
+    var pages_group = "Gobierno";
+    var organization_name = "presidencia";
+
+    console.log("Entro a apartado de encuesta de satisfacción. Estatus: "+ estatus);
+    console.log("Pages group: "+pages_group);
+    console.log("Sub group: "+organization_name);
+    console.log("Page type: "+page_type);
+    console.log("Face: "+tipo_cara);
+
+      console.log("Rails.env.production");
+      //Código GA para encuesta de satisfacción.
+		gtag('set', 'dimension14', pages_group);
+		gtag('set', 'dimension15', organization_name);
+		gtag('set', 'dimension16', page_type);
+		gtag('send', 'event', 'Encuesta de satisfacción', tipo_cara ,estatus);
+		gtag('set', 'dimension14', null);
+		gtag('set', 'dimension15', null);
+		gtag('set', 'dimension16', null);
+  }
+
+  $('#subscribe-survey').click(function(event) {
+	event.preventDefault();
+    var email = $("#email-survey").val();
+    var state = $('#estados').val();
+
+    if (email !== '' || email !== undefined) {
+	    try {
+	      $.ajax({
+	        url: "/subscribe",
+	        type: 'post',
+	        dataType: 'json',
+	        data : { email: {address: email} },
+	        success: function (data) {
+	            $('#responseSignup').html(data.message);
+	        },
+	        error: function (data) {
+	            $('#responseSignup').html(data.message);
+	        }
+	      });
+	    }catch(e){
+	      $("#responseEmail").innerText(e);
+	    }
+
+	    $.ajax({
+	    	url: '/signups',
+	    	type: 'POST',
+	    	dataType: 'json',
+	    	data: { section: section, lang: lang, properties: properties },
+	    	success: function() {
+	    		//console.log('exito');
+	    	}
+	    });
+	} else {
+		$('#responseSignup').html('Por favor llena todos los campos.');
+	}
+  });
+
+  $('#survey-form').submit(function(event) {
+    event.preventDefault();
+  });
+});
+</script>
+
+      </div>
+      <div class="col-sm-7 pull-left">
+        <div class="share-buttons clearfix vertical-buffer">
+  <div class="col-md-2"> <a class="twitter-share-button" data-url="https://www.gob.mx/presidencia/articulos/version-estenografica-plan-de-salud-imss-bienestar-campeche" data-text="Versión estenográfica. Plan de Salud IMSS-Bienestar Campeche"></a></div>
+  <div class="col-md-2">
+    <div class="fb-share-button" data-href="https://www.gob.mx/presidencia/articulos/version-estenografica-plan-de-salud-imss-bienestar-campeche" data-layout="button_count" data-size="small" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://www.gob.mx/presidencia/articulos/version-estenografica-plan-de-salud-imss-bienestar-campeche&amp;src=sdkpreparse">Compartir</a></div>
+  </div>
+</div>
+
+  <script type="text/javascript">
+    (function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v2.7";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+    
+    var pages_group = "Gobierno";
+    var page_type = "Artículos";
+    var organization_name = "presidencia";
+    var title_content = "Versión estenográfica. Plan de Salud IMSS-Bienestar Campeche";
+
+     window.twttr = (function (d,s,id) {
+       var t, js, fjs = d.getElementsByTagName(s)[0];
+       if (d.getElementById(id)) return; js=d.createElement(s); js.id=id;
+       js.src="//platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs);
+       return window.twttr || (t = { _e: [], ready: function(f){ t._e.push(f) } });
+     }(document, "script", "twitter-wjs"));
+
+     function trackTwitter(intent_event) {
+       if (intent_event) {
+         if (intent_event.target && intent_event.target.nodeName == 'IFRAME') {
+           console.log("Metrica Compartir Twitter - "+title_content);
+           console.log("Organization: "+organization_name);
+           console.log("Page type: "+page_type);
+           console.log("Title content: "+title_content);
+           ga('set', 'dimension14', pages_group);
+           ga('set', 'dimension15', organization_name);
+           ga('set', 'dimension16', page_type);
+           ga('send', 'event', 'Compartir en redes sociales', 'Twitter', title_content);
+           ga('set', 'dimension14', null);
+           ga('set', 'dimension15', null);
+           ga('set', 'dimension16', null);
+         }
+       }
+     }
+  </script>
+  <script type="text/javascript">
+     twttr.ready(function (twttr) {
+       twttr.events.bind('tweet', trackTwitter);
+     });
+  </script>
+
+
+      </div>
+    </div>
+    <div class="row top-buffer">
+  <div class="col-md-8">
+    <hr>
+    <div class="print col-ms-12 col-md-12 col-xs-12">
+      <span class="icon-printing"></span>
+      <a href="#">Imprime la página completa</a>
+        <p class="small" style="font-size: 14px; line-height: 1.6em;">
+          La legalidad, veracidad y la calidad de la información es estricta responsabilidad de la dependencia, entidad o empresa productiva del Estado que la proporcionó en virtud de sus atribuciones y/o facultades normativas.
+        </p>
+    </div>
+  </div>
+</div>
+
+  </div>
+  <input type="hidden" id="page_type" name="page_type" value="Articulos">
+  <input type="hidden" id="organization_name" name="organization_name" value="presidencia">
+</main>
+<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+
+<footer class="main-footer">
+  <div class="list-info">
+    <div class="container">
+
+      <div class="col-sm-3">
+        <img  src="https://framework-gb.cdn.gob.mx/landing/img/logoheader.svg"  href="/" alt="logo gobierno de méxico" class="logo_footer" style="max-width: 90%; margin-left: -27px;   margin-top: 12px;">
+      </div>
+      <div class="col-sm-3">
+        <h2>Enlaces</h2>
+        <ul>
+         <!-- <li><a  href="http://www.participa.gob.mx">Participa</a></li> -->
+          <li><a  href="https://datos.gob.mx/">Datos</a></li>
+          <li><a href="https://www.gob.mx/publicaciones" target="_blank" rel="noopener" title="Enlace abre en ventana nueva">Publicaciones </a></li>
+
+                  <li><a class="footer" href="https://consultapublicamx.plataformadetransparencia.org.mx/vut-web/faces/view/consultaPublica.xhtml?idEntidad=MzM=&amp;idSujetoObligado=MTAwMDE=#inicio" id="Transparencia" target="blank" title="Enlace abre en ventana nueva">Portal de Obligaciones de Transparencia</a></li>
+
+                  <li><a class="footer" href="https://www.infomex.org.mx/gobiernofederal/home.action" id="PNT" target="blank" title="Enlace abre PNT en ventana nueva">PNT</a></li>
+
+                  <li><a class="footer" href="http://www.inai.org.mx/" id="INAI" target="blank" title="Enlace abre sitio INAI en ventana nueva">INAI</a></li>
+
+          <li><a class="footer" id="INAI" href="http://alertadores.funcionpublica.gob.mx/" target="_blank" rel="alertadores">Alerta</a></li>
+          <li><a class="footer" id="SIDEC" href="http://sidec.funcionpublica.gob.mx/" target="_blank" rel="sidec">Denuncia</a></li>
+           </ul>
+      </div>
+      <div class="col-sm-3">
+        <h2>¿Qué es gob.mx?</h2>
+        <p>Es el portal único de trámites, información y participación ciudadana.  <a href="/que-es-gobmx" style="text-decoration: none;">Leer más </a></p>
+        <ul>
+
+        
+            <li><a href='http://www.gob.mx/epn'> Administraciones anteriores  </a></li>
+          <li><a href="/accesibilidad">Declaración de Accesibilidad</a></li>
+          <li><a href="/privacidadintegral">Aviso de privacidad</a></li>
+          <li><a href="/privacidadsimplificado">Aviso de privacidad simplificado</a></li>
+          <li><a href="/terminos">Términos y Condiciones </a></li>
+          <li><a href="/terminos#medidas-seguridad-informacion">Política de seguridad</a></li>
+          <li><a class="footer" id="Marco Juridico" href="http://www.ordenjuridico.gob.mx" target="_blank" rel="noopener" title="Enlace abre en ventana nueva">Marco jurídico</a></li>
+          <li><a href="/sitemap">Mapa de sitio</a></li>
+        </ul>
+      </div>
+      <div class="col-sm-3">
+        </p>
+        <h2>Síguenos en </h2>
+        <ul class="list-inline">
+          <li>
+            <a id="Facebook" href="https://www.facebook.com/gobmexico" target="_blank" rel="noopener" class="sendEst share-info footer" title="enlace a facebook abre en una nueva ventana">
+              <img alt="Facebook" src="https://framework-gb.cdn.gob.mx/landing/img/facebook.png" />
+            </a>
+          </li>
+          <li>
+            <a id="Twitter" href="https://twitter.com/GobiernoMX" target="_blank" rel="noopener" class="sendEst share-info footer" title="Enlace a twitter abre en una nueva ventana">
+              <img alt="Twitter" src="https://framework-gb.cdn.gob.mx/landing/img/twitter.png" />
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+  </div>
+  </div>
+
+  <div class="container-fluid footer-pleca">
+    <div class="row">
+      <div class="col">
+        <br><br>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script type="text/javascript">
+      $("a.footer").click(function () {
+          var pagina_sitio = window.location.pathname;
+          var outbound_link = $(this).attr("id");
+          var subgrupo_paginas = "presidencia";
+          var page_type = "Home";
+          var pages_group = "Gobierno";
+          if($("#page_type").length > 0){ page_type = $("#page_type").val(); }
+
+          console.log("Metrica links externos footer - "+outbound_link);
+          gtag('set', 'dimension14', pages_group);
+          gtag('set', 'dimension15', subgrupo_paginas);
+          gtag('set', 'dimension16', page_type);
+          gtag('send', 'event', 'Outbound link - Footer', outbound_link, pagina_sitio);
+          gtag('set', 'dimension14', null);
+          gtag('set, ‘dimension15', null);
+      })
+  </script>
+
+<input class="hidden" id="route" value="/presidencia/es/articulos/version-estenografica-plan-de-salud-imss-bienestar-campeche" type="hidden" >
+<!-- div id="fb-root"></div -->
+
+
+
+
+
+  <!-- Begin comScore Tag -->
+  <script>
+      var _comscore = _comscore || [];
+      _comscore.push({ c1: "2", c2: "17183199" });
+      (function() {
+          var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+          s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+          el.parentNode.insertBefore(s, el);
+      })();
+  </script>
+  <noscript>
+    <img src="https://sb.scorecardresearch.com/p?c1=2&c2=17183199&cv=2.0&cj=1" />
+  </noscript>
+  <!-- End comScore Tag -->
+
+  <script src="https://sb.scorecardresearch.com/c2/17183199/ct.js"></script>
+
+
+  <script type="text/javascript">
+
+      var _sf_startpt=(new Date()).getTime();
+      var _sf_async_config = { uid: 43659, domain: 'www.gob.mx', useCanonical: true } ;
+      (function() {
+          function loadChartbeat() { window._sf_endpt = (new Date()).getTime(); var e = document.createElement('script'); e.setAttribute('language', 'javascript'); e.setAttribute('type', 'text/javascript'); e.setAttribute('src','//static.chartbeat.com/js/chartbeat.js'); document.body.appendChild(e); };
+          var oldonload = window.onload;
+          window.onload = (typeof window.onload != 'function') ?
+              loadChartbeat : function()
+              { oldonload(); loadChartbeat(); };
+      })();
+      var ele = "/presidencia/es/articulos/version-estenografica-plan-de-salud-imss-bienestar-campeche";
+      if( "#{(@organization_site.present? ? @organization_site.category : 'gobmx')}" == "Campaña") {
+          var siteEls = 'campaign';
+      } else {
+          var siteEls = 'gobierno';
+      }
+
+      for( var i = 1; i < ele.split('/').length; i++ ) {
+          siteEls = siteEls + '.' + ele.split('/')[i];
+      }
+
+      function udm_(e){var t="comScore=",n=document,r=n.cookie,i="",s="indexOf",o="substring",u="length",a=2048,f,l="&ns_",c="&",h,p,d,v,m=window,g=m.encodeURIComponent||escape;if(r[s](t)+1)for(d=0,p=r.split(";"),v=p[u];d<v;d++)h=p[d][s](t),h+1&&(i=c+unescape(p[d][o](h+t[u])));e+=l+"_t="+ +(new Date)+l+"c="+(n.characterSet||n.defaultCharset||"")+"&c8="+g(n.title)+i+"&c7="+g(n.URL)+"&c9="+g(n.referrer),e[u]>a&&e[s](c)>0&&(f=e[o](0,a-8).lastIndexOf(c),e=(e[o](0,f)+l+"cut="+g(e[o](f+1)))[o](0,a)),n.images?(h=new Image,m.ns_p||(ns_p=h),h.src=e):n.write("<","p","><",'img src="',e,'" height="1" width="1" alt="*"',"><","/p",">")};
+      function uid_call(a, b){
+          ui_c2 = 17183199; // your corporate c2 client value
+          ui_ns_site = 'gobmx'; // your sites identifier
+          window.b_ui_event = window.c_ui_event != null ? window.c_ui_event:"",window.c_ui_event = a;
+          var ui_pixel_url = 'https://sb.scorecardresearch.com/p?c1=2&c2='+ui_c2+'&ns_site='+ui_ns_site+'&name='+a+'&ns_type=hidden&type=hidden&ns_ui_type='+b;
+          var b="comScore=",c=document,d=c.cookie,e="",f="indexOf",g="substring",h="length",i=2048,j,k="&ns_",l="&",m,n,o,p,q=window,r=q.encodeURIComponent||escape;if(d[f](b)+1)for(o=0,n=d.split(";"),p=n[h];o<p;o++)m=n[o][f](b),m+1&&(e=l+unescape(n[o][g](m+b[h])));ui_pixel_url+=k+"_t="+ +(new Date)+k+"c="+(c.characterSet||c.defaultCharset||"")+"&c8="+r(c.title)+e+"&c7="+r(c.URL)+"&c9="+r(c.referrer)+"&b_ui_event="+b_ui_event+"&c_ui_event="+c_ui_event,ui_pixel_url[h]>i&&ui_pixel_url[f](l)>0&&(j=ui_pixel_url[g](0,i-8).lastIndexOf(l),ui_pixel_url=(ui_pixel_url[g](0,j)+k+"cut="+r(ui_pixel_url[g](j+1)))[g](0,i)),c.images?(m=new Image,q.ns_p||(ns_p=m),m.src=ui_pixel_url):c.write("<p><img src='",ui_pixel_url,"' height='1' width='1' alt='*'></p>");
+      }
+      udm_('https://sb.scorecardresearch.com/b?c1=2&c2=17183199&ns_site=gobmx&name='+siteEls);
+  </script>
+
+  <noscript>
+    <img src="https://sb.scorecardresearch.com/p?c1=2&amp;c2=17183199&amp;ns_site=gobmx&amp;name=gobierno.presidencia.es.articulos.version-estenografica-plan-de-salud-imss-bienestar-campeche" height="1" width="1" alt="*" />
+  </noscript>
+<script>
+    let key = '';
+    $(function () {
+
+        $.getJSON("https://framework-gb.cdn.gob.mx/applications/cms/configGobmx.json", function(json) {
+            console.log(json.keyAnalytics); // this will show the info it in firebug console
+            key = json.keyAnalytics;
+            ga('create', key , 'auto', 'GobTracker');
+            ga('GobTracker.require', 'linker');
+            ga('GobTracker.linker:autoLink', ['www.gob.mx']);
+            ga('GobTracker.set', 'contentGroup1', 'Gobierno');
+            ga('GobTracker.set', 'contentGroup2', SubGroup);
+            ga('GobTracker.set', 'contentGroup3', PageType);
+            ga('GobTracker.set', 'dimension14', 'Gobierno');
+            ga('GobTracker.set', 'dimension15', SubGroup);
+            ga('GobTracker.set', 'dimension16', PageType);
+            ga('GobTracker.set', 'dimension13', 'No Registrado');
+            ga('GobTracker.send', 'pageview');
+            ga('GobTracker.set', 'contentGroup1', null);
+            ga('GobTracker.set', 'contentGroup2', null);
+            ga('GobTracker.set', 'contentGroup3', null);
+            ga('GobTracker.set', 'dimension14', null);
+            ga('GobTracker.set', 'dimension15', null);
+            ga('GobTracker.set', 'dimension16', null);
+            ga('GobTracker.set', 'dimension13', null);
+        });
+    });
+</script>
+
+<script src="https://framework-gb.cdn.gob.mx/applications/cms/modal_global_cms.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/gm/accesibilidad/js/gobmx-accesibilidad.min.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick.min.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick-lightbox.js"></script>
+<link rel="stylesheet" href="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick-lightbox.css">
+
+
+<script src="https://framework-gb.cdn.gob.mx/applications/cms/config_dependency.js"></script>
+<script type="text/javascript"  src="/0RVTuHxj0/t/mhEICJIQ/YiOkthVkYSfw/PRc4N0sKYQk/PwhFVTt/GPxQB"></script></body>
+
+</html>
+

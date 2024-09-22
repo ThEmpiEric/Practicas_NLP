@@ -1,0 +1,1331 @@
+<!DOCTYPE html>
+<html class='no-js' lang='es'>
+<head>
+    <title>
+  Versión estenográfica.  4° Aniversario de la Guardia Nacional, | Presidencia de la República  | Gobierno | gob.mx
+</title>
+
+  <meta charset='UTF-8'>
+  <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#393C3E">
+
+  
+  <meta name="keywords" content="">
+  <meta name="description" content="Acto encabezado por el presidente Andrés Manuel López Obrador desde Campo Marte, Ciudad de México">
+  <meta name="author" content="Presidencia de la República ">
+
+  <meta content="Versión estenográfica.  4° Aniversario de la Guardia Nacional," property="og:title" />
+  <meta content="https://www.gob.mxhttps://www.gob.mx/cms/uploads/article/main_image/134659/GN_12.13.32.jpeg" property="og:image" />
+  <meta content="gob.mx" property="og:site_name" />
+  <meta content="Acto encabezado por el presidente Andrés Manuel López Obrador desde Campo Marte, Ciudad de México" property="og:description" />
+  <meta content="http://www.gob.mx/presidencia/es/articulos/version-estenografica-4-aniversario-de-la-guardia-nacional?idiom=es" property="og:url" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@gobmx" />
+  <meta name="twitter:title" content="Versión estenográfica.  4° Aniversario de la Guardia Nacional," />
+  <meta name="twitter:description" content="Acto encabezado por el presidente Andrés Manuel López Obrador desde Campo Marte, Ciudad de México" />
+  <meta name="twitter:image" content="https://www.gob.mxhttps://www.gob.mx/cms/uploads/article/main_image/134659/GN_12.13.32.jpeg" />
+
+
+  <meta content="authenticity_token" name="csrf-param" />
+<meta content="XV+IRHa2Ucj477aMHSfoHEEMOP3OPO2f4WibOOtlAD4=" name="csrf-token" />
+
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700,600,300' rel='stylesheet' type='text/css'>
+  <link href='https://framework-gb.cdn.gob.mx/applications/cms/favicon.png' rel='shortcut icon'>
+  <link data-turbolinks-track="true" href="/cms/assets/application.css" media="all" rel="stylesheet" />
+  <link data-turbolinks-track="true" href="https://framework-gb.cdn.gob.mx/gm/accesibilidad/css/gobmx-accesibilidad.min.css" media="all" rel="stylesheet" />
+  
+
+  <!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+  <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+
+ <![endif]-->
+  <script async src="https://www.googletagmanager.com/gtag/js?id="></script>
+  <script src="https://framework-gb.cdn.gob.mx/applications/cms/carrusel/swiper-bundle.min.js"></script>
+
+  <link rel="stylesheet" href="https://framework-gb.cdn.gob.mx/applications/cms/carrusel/swiper-bundle.min.css">
+
+    <script type="text/javascript">
+
+        var SubGroup = '';
+        if(false || false){
+            SubGroup = 'Temas';
+        }else{
+            SubGroup = 'presidencia';
+        }
+        var PageType = '';
+        if(false){
+            PageType = 'Home'
+        }else{
+            if(false){
+                PageType = '';
+            }else {
+                var site = window.location.pathname;
+                var arrayPageType = ["articulos", "prensa", "agenda", "documentos", "multimedia", "galerias", "videos",
+                    "acciones_y_programas", "acciones-y-programas", "mi-foto-con-el-presidente",
+                    "estructuras", "descargables", "que-hacemos", "finanzas", "infografias"];
+
+                if (site.search("archivo") != -1) {
+                    PageType = "archivo_";
+                }
+                for (var i = 0; i < arrayPageType.length; i++) {
+                    if (site.search(arrayPageType[i]) != -1) {
+                        PageType += arrayPageType[i];
+                        break;
+                    }
+                }
+            }
+        }
+
+
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', '');
+
+        gtag('require', 'linker');
+        gtag('linker:autoLink', ['www.gob.mx']);
+        gtag('set', 'contentGroup1', 'Gobierno');
+        gtag('set', 'contentGroup2', SubGroup);
+        gtag('set', 'contentGroup3', PageType);
+        gtag('set', 'dimension14', 'Gobierno');
+        gtag('set', 'dimension15', SubGroup);
+        gtag('set', 'dimension16', PageType);
+        gtag('set', 'dimension13', 'No Registrado');
+        gtag('send', 'pageview');
+        gtag('set', 'contentGroup1', null);
+        gtag('set', 'contentGroup2', null);
+        gtag('set', 'contentGroup3', null);
+        gtag('set', 'dimension14', null);
+        gtag('set', 'dimension15', null);
+        gtag('set', 'dimension16', null);
+        gtag('set', 'dimension13', null);
+
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-144356475-1', 'auto', {'allowLinker':true});
+        ga('require', 'linker');
+        ga('linker:autoLink', ['www.gob.mx']);
+        ga('set', 'contentGroup1', 'Gobierno');
+        ga('set', 'contentGroup2', SubGroup);
+        ga('set', 'contentGroup3', PageType);
+        ga('set', 'dimension14', 'Gobierno');
+        ga('set', 'dimension15', SubGroup);
+        ga('set', 'dimension16', PageType);
+        ga('set', 'dimension13', 'No Registrado');
+        ga('send', 'pageview');
+        ga('set', 'contentGroup1', null);
+        ga('set', 'contentGroup2', null);
+        ga('set', 'contentGroup3', null);
+        ga('set', 'dimension14', null);
+        ga('set', 'dimension15', null);
+        ga('set', 'dimension16', null);
+        ga('set', 'dimension13', null);
+    </script>
+
+
+  <script type = "text/javascript"> console.log(true);
+  var rails_env_prod = true; </script>
+  <script src="/cms/assets/application.js"></script>
+  <script src="/cms/assets/imageReplace.js"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.js"></script>
+
+                              <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("True"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="N3JQ2-2RVHB-WJQMN-CEYEM-ATMWX",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"N3JQ2-2RVHB-WJQMN-CEYEM-ATMWX",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="xxqo3jv567lbazxpkisq-f-b9f112a44-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"37","ak.cp":"413578","ak.ai":parseInt("270161",10),"ak.ol":"0","ak.cr":14,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"c10f6912","ak.r":49405,"ak.a2":e,"ak.m":"b","ak.n":"essl","ak.bpcip":"189.224.237.0","ak.cport":64586,"ak.gh":"189.247.214.12","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"reno","ak.t":"1726960165","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==y1QALBwETBfyvh7WPY9lWz2X+8hV/0XMB1ctOv2Duw5nkS+PfVbikQGlr9wIYo09Xl/60KEL/t5uTSs/88cw7uYWNJ3lS8Evt8anY8cBujworvht10mE5OiRw2p2AsOtfAzh7PLYfRpYEuBN7SAdHJRej7cqZASsRrObxm/yXUioLaBaQdMnS54txuhnWdpLUxTOd7uzDZfCn3Oo0lBYkA5mJNCvE15n3USyrxD6Xv441xLeHh6P5+tNU+DYNHmODhVLgaevbnh1ygJzI6IwKrlURt1FQ8uxjP5+zMSioBr6MHe/8MvFUkyjTAjaFDRdvTx7Pc2z3CMYDVuGwpuNzTXI+lD1KKswXWtCWgNiBegeIFCu9k9WQKqgy9bZr0tYnIYTJH9k5uKEjxiFZ2VvmPe6EdJqAHFf5/Ar27XQUJM=","ak.pv":"113","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+<body>
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v13.0" nonce="MZ2GPb2d"></script><!-- a href="#principal" class="skip">Saltar al contenido principal</a -->
+  <header class=" navbar navbar-inverse">
+    <nav class="navbar navbar-inverse  navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-target="#navbarMainCollapse" data-toggle="collapse">
+            <span class="sr-only">Interruptor de Navegación</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a href="/" style="padding: 1px 3px 3px 3px;" class="navbar-brand " title="Ir a la página inicial">
+
+            <div class="logo-main"></div>
+          </a>
+        </div>
+        <div id="navbarMainCollapse" class="collapse navbar-collapse">
+          <ul class="nav navbar-nav navbar-right">
+           <li><a href="/tramites" title="Trámites">Trámites </a></li>
+            <li><a href="/gobierno" title="Gobierno">Gobierno</a></li>
+                  <li><a href="/presidencia/en" title="Versión en inglés del sitio web">English</a>
+                  </li>
+                </li>
+
+
+            <li>
+              <form accept-charset="UTF-8" action="/busqueda" method="get"><div style="display:none"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+                <input type="hidden" name="site" value="presidencia">
+                <button data-v-6394873e="" id="botonbuscar" type="button" class="btn btn-search"><a data-v-6394873e="" href="https://www.gob.mx/busqueda?utf8=✓" target="_blank" id="botbusca"><img data-v-6394873e="" alt="Buscar" src="https://framework-gb.cdn.gob.mx/landing/img/lupa.png"></a></button>
+</form>            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    
+
+
+        <script src="/cms/assets/level_jump.js"></script><section>
+<!-- Subnavegacion -->
+<nav class=" navbar-inverse sub-navbar fixed-top"
+     >
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#subenlaces">
+        <span class="sr-only">Interruptor de Navegación</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="link-name" href="?tab="></a>
+    </div>
+    <div class="collapse navbar-collapse" id="subenlaces">
+      <ul class="nav subnav navbar-nav navbar-right">
+              <li class="landing-btn">
+                    <a href='/presidencia/es/archivo/prensa'>
+                Comunicados            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='/presidencia/es/#5173'>
+                Directorio            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='https://transparencia.presidencia.gob.mx/presidencia/transparencia/politicas-de-tratamiento-de-datos-personales-de-la-oficina-de-la-presidencia-de-la-republica/'>
+                Protección de Datos Personales            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='https://www.gob.mx/presidencia/transparencia/'>
+                Transparencia            </a>
+            </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+<style>
+  .flag-banner {
+  top: 45px  !important;
+  }
+</style>
+<!-- div class="warning-nav" style="margin-top: 0px;">
+  <div class="container">
+    <div class="row clearfix">
+  <div class="col-xs-12 col-sm-12 col-md-12">Este contenido será modificado temporalmente en atención a las disposiciones legales y normativas en materia electoral, con motivo del inicio de periodo de campaña</div>
+  </div>
+  </div>
+</div -->
+</section>
+
+
+  </header>
+
+
+
+
+
+<main class="inner-page interior ficha">
+  <div class="container">
+  	<ol class="breadcrumb">
+  <li><a href="http://www.gob.mx"><span class="icon icon-home"></span><span class="sr-only">Inicio</span></a></li>
+  <li><a href="/presidencia">Presidencia de la República </a></li>
+  <li class="active">Blog</li>
+</ol>
+  	<div class="">
+      <div aria-hidden="true" class="hidden-xs font-changer internal print" tabindex="-1">
+  <button class="inc-font font-modifier">Aa+</button>
+  <button class="dec-font font-modifier">Aa-</button>
+</div>
+      <div class="marquee-padding">
+      <div class='post-list main-post-list'>
+<div class='marque-float-left'>
+<div class='right_arrow'></div>
+<div class='titulo-pub'>
+<small>Publicaciones Recientes</small>
+</div>
+</div>
+<div>
+<div class='container-marque'>
+<div id='headlines'>
+<div class='marquee'>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-19 13:44:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-19-de-septiembre-de-2024' title='Versió'>
+Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 19 de septiembre de 2024
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-18 12:36:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-18-de-septiembre-de-2024' title='Versió'>
+Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 18 de septiembre de 2024
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-17 13:51:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-entrega-de-estimulos-a-delegaciones-mexicanas-participantes-en-juegos-olimpicos-y-paralimpicos-paris-2024' title='Versió'>
+Versión estenográfica. Entrega de estímulos a delegaciones mexicanas participantes en Juegos Olímpicos y Paralímpicos París 2024
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-17 12:21:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-17-de-septiembre-de-2024' title='Versió'>
+Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 17 de septiembre de 2024
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-16 13:56:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-desfile-civico-militar' title='Versió'>
+Versión estenográfica. Desfile Cívico Militar
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+      </div>
+  	  <div class="col-md-7 col-xs-12 col-sm-12 pull-left" tabindex="0">
+  	  	<h1 class="bottom-buffer">Versión estenográfica.  4° Aniversario de la Guardia Nacional,</h1>
+  	  	<h2>Acto encabezado por el presidente Andrés Manuel López Obrador desde Campo Marte, Ciudad de México</h2>
+        <section class="">
+          <p>Presidencia de la República  | 30 de junio de 2023</p>
+        </section>
+  	  <div class="imagen-principal">
+  	      <img alt="4° Aniversario de la Guardia Nacional," class="img-responsive img_curve" src="https://www.gob.mx/cms/uploads/article/main_image/134659/GN_12.13.32.jpeg" />
+  	      <span class="small">4° Aniversario de la Guardia Nacional,</span>
+      </div>
+      <div class="article-body"><p>MODERADORA:&nbsp;Damos inicio a esta ceremonia con los honores plenos al presidente constitucional de los Estados Unidos Mexicanos y comandante supremo de las Fuerzas Armada.</p>
+
+<p>(HONORES)</p>
+
+<p>MODERADOR:&nbsp;Preside esta ceremonia del Cuarto Aniversario de la Creaci&oacute;n de la Guardia Nacional, el presidente constitucional de los Estados Unidos Mexicanos y comandante supremo de las Fuerzas Armadas, licenciado Andr&eacute;s Manuel L&oacute;pez Obrador.</p>
+
+<p>MODERADORA:&nbsp;Lo acompa&ntilde;an en el pres&iacute;dium:</p>
+
+<p>La licenciada Rosa Icela Rodr&iacute;guez Vel&aacute;zquez, secretaria de Seguridad y Protecci&oacute;n Ciudadana.</p>
+
+<p>MODERADOR:&nbsp;Comisario general David C&oacute;rdova Campos, comandante de la Guardia Nacional.</p>
+
+<p>MODERADORA:&nbsp;General Luis Cresencio Sandoval Gonz&aacute;lez, secretario de la Defensa Nacional.&nbsp;</p>
+
+<p>MODERADOR:&nbsp;Almirante Jos&eacute; Rafael Ojeda Dur&aacute;n, secretario de Marina.</p>
+
+<p>MODERADORA:&nbsp;Maestra Luisa Mar&iacute;a&nbsp;Alcalde&nbsp;Luj&aacute;n, secretaria de Gobernaci&oacute;n.</p>
+
+<p>MODERADOR:&nbsp;Maestro Mart&iacute; Batres Guadarrama, jefe de&nbsp;Gobierno de la Ciudad de M&eacute;xico.&nbsp;</p>
+
+<p>MODERADORA:&nbsp;Licenciado Jorge Nu&ntilde;o Lara, secretario de Infraestructura, Comunicaciones y Transportes.&nbsp;</p>
+
+<p>MODERADOR:&nbsp;Maestra Leticia Ram&iacute;rez Amaya, secretaria de Educaci&oacute;n P&uacute;blica.</p>
+
+<p>MODERADORA:&nbsp;Doctora Carmen Moreno Toscano, subsecretaria de Relaciones Exteriores y representante personal de la licenciada Alicia B&aacute;rcena Ibarra, secretaria de Relaciones Exteriores.</p>
+
+<p>MODERADOR:&nbsp;Licenciado Jes&uacute;s Ram&iacute;rez Cuevas, coordinador general de Comunicaci&oacute;n Social de Presidencia de la Rep&uacute;blica.&nbsp;</p>
+
+<p>MODERADORA:&nbsp;Diputada Juanita Guerra Mena, presidenta de la Comisi&oacute;n de Seguridad Ciudadana de la C&aacute;mara de Diputados.</p>
+
+<p>MODERADOR:&nbsp;General de divisi&oacute;n diplomado de Estado Mayor, Agust&iacute;n Radilla&nbsp;Su&aacute;stegui, subsecretario de la Defensa Nacional&nbsp;Nacional.</p>
+
+<p>MODERADORA:&nbsp;Almirante de Cuerpo General, diplomado de Estado Mayor, Jos&eacute; Luis Arellano Ruiz, subsecretario de Marina.</p>
+
+<p>MODERADOR:&nbsp;General de divisi&oacute;n diplomado de Estado Mayor, Luis Rodr&iacute;guez Bucio, subsecretario de Seguridad y Protecci&oacute;n Ciudadana.</p>
+
+<p>MODERADORA:&nbsp;General de divisi&oacute;n diplomado de Estado Mayor, Audomaro Mart&iacute;nez Zapata, director general del Centro Nacional de Inteligencia.</p>
+
+<p>MODERADOR:&nbsp;Y general de brigada diplomado de Estado Mayor,&nbsp;Jorge Antonio Maldonado Guevara, director del Heroico Colegio Militar.</p>
+
+<p>MODERADORA:&nbsp;Tambi&eacute;n contamos con la presencia de funcionarios, generales, almirantes, comisarios, jefes, capitanes, inspectores, oficiales, tropa, mariner&iacute;a y escala b&aacute;sica pertenecientes a la Guardia Nacional, al Ej&eacute;rcito y Fuerza A&eacute;rea Mexicana y Armada de M&eacute;xico.</p>
+
+<p>MODERADOR:&nbsp;Agregados policiales, militares, navales y a&eacute;reos acreditados en nuestro pa&iacute;s.</p>
+
+<p>MODERADORA:&nbsp;Directores&nbsp;generales de las armas y servicios.</p>
+
+<p>MODERADOR:&nbsp;Generales en situaci&oacute;n de retiro.</p>
+
+<p>MODERADORA:&nbsp;En esta ocasi&oacute;n destacan en el dispositivo de honores seis compa&ntilde;&iacute;as de cadetes del Heroico Colegio Militar que cursan la licenciatura en Seguridad P&uacute;blica, y que a su egreso cubrir&aacute;n los cuadros de mando de la Guardia Nacional.</p>
+
+<p>MODERADOR:&nbsp;As&iacute; como representantes de medios de comunicaci&oacute;n y quienes nos siguen por internet a trav&eacute;s de las redes sociales, reciban todos la m&aacute;s cordial bienvenida.</p>
+
+<p>MODERADORA:&nbsp;Se les invita a observar un video alusivo a la Guardia Nacional.</p>
+
+<p>(INICIA VIDEO)</p>
+
+<p>VOZ MUJER:&nbsp;La Guardia Nacional surge de un consenso hist&oacute;rico y es considerado un proyecto prioritario del Gobierno de M&eacute;xico para atender la necesidad de mejores condiciones de seguridad. Se ha consolidado como una instituci&oacute;n de corte preventivo, disciplinada y profesional con presencia en todo el territorio nacional.</p>
+
+<p>VOZ HOMBRE:&nbsp;En s&oacute;lo cuatro a&ntilde;os ha logrado contar con m&aacute;s de 128 mil elementos, quienes operan en 32 coordinaciones estatales y 266 coordinaciones regionales distribuidas en todo el pa&iacute;s.</p>
+
+<p>VOZ MUJER:&nbsp;Con la intenci&oacute;n de estar cada vez m&aacute;s cerca de la poblaci&oacute;n, al finalizar este a&ntilde;o se contar&aacute; con 657 instalaciones dignas y eficientes logrando el despliegue&nbsp;y solidez suficientes para cumplir con las atribuciones que garanticen la seguridad y la paz p&uacute;blica.</p>
+
+<p>VOZ HOMBRE:&nbsp;La Guardia Nacional desarrolla sus actividades de adiestramiento, operativas y de proximidad social de la siguiente manera:</p>
+
+<p>VOZ MUJER:&nbsp;Se mantiene una capacitaci&oacute;n permanente alcanzado un alto nivel de preparaci&oacute;n con unidades como nuestra fuerza especial de reacci&oacute;n e intervenci&oacute;n, grupo &eacute;lite de capacidad para desarrollar operaciones de alto impacto en zonas rurales y urbanas.</p>
+
+<p>VOZ HOMBRE:&nbsp;A trav&eacute;s de la Direcci&oacute;n General de Seguridad en Carreteras e Instalaciones, se realiza la vigilancia en los m&aacute;s de 48 mil kil&oacute;metros de carreteras federales en todo M&eacute;xico y en m&aacute;s de medio centenar de centrales de autobuses, adem&aacute;s de terminales a&eacute;reas, como el reci&eacute;n inaugurado Aeropuerto Internacional &lsquo;Felipe &Aacute;ngeles&rsquo;.</p>
+
+<p>VOZ DE MUJER:&nbsp;En la Direcci&oacute;n General de Investigaci&oacute;n se desarrollan t&eacute;cnicas de negociaci&oacute;n y rescate para recuperar con bien a las personas privadas de su libertad y capturar a los responsables.</p>
+
+<p>VOZ HOMBRE:&nbsp;Parte de las actividades que desarrolla la Guardia Nacional se apoya de ejemplares caninos que contribuyen a retirar de las calles armas de fuego, narc&oacute;ticos y explosivos, evitando que da&ntilde;en a la sociedad.</p>
+
+<p>VOZ MUJER:&nbsp;Los elementos de la Guardia Nacional todos los d&iacute;as realizan directamente actividades de disuasi&oacute;n y prevenci&oacute;n en contra del robo de hidrocarburos.</p>
+
+<p>VOZ HOMBRE:&nbsp;Otra tarea relevante es navegar en la red p&uacute;blica de internet para prevenir amenazas, ciberataques, fraudes o conductas nocivas para la poblaci&oacute;n realizada por la guardia cibern&eacute;tica.</p>
+
+<p>VOZ MUJER:&nbsp;Para estar m&aacute;s cerca de la poblaci&oacute;n civil, cada semana se ofrecen pl&aacute;ticas de prevenci&oacute;n del delito y se participa en honores a la bandera en escuelas de educaci&oacute;n b&aacute;sica, fomentando el respeto a la ley y a nuestros s&iacute;mbolos patrios. Prueba de ello es la participaci&oacute;n que desempe&ntilde;amos con marcialidad y gallard&iacute;a en desfiles y ceremonias c&iacute;vicas, como la conmemoraci&oacute;n de nuestra independencia o el aniversario de la Revoluci&oacute;n mexicana.</p>
+
+<p>VOZ HOMBRE:&nbsp;La Guardia Nacional, a trav&eacute;s del Batall&oacute;n del Patrimonio Cultural, se vincula con comunidades que antes no eran atendidas, fomentando la preservaci&oacute;n de nuestras tradiciones.&nbsp;</p>
+
+<p>VOZ MUJER:&nbsp;Cabe destacar que el Batall&oacute;n de Seguridad Tur&iacute;stica patrulla y vigila zonas urbanas, rurales y centros tur&iacute;sticos con el fin de mantener la seguridad de visitantes nacionales y extranjeros.</p>
+
+<p>VOZ HOMBRE:&nbsp;La protecci&oacute;n de los recursos naturales de nuestro pa&iacute;s, como la tala clandestina, se realiza a trav&eacute;s del Batall&oacute;n de Protecci&oacute;n al Medio Ambiente.</p>
+
+<p>VOZ MUJER:&nbsp;Ante cualquier llamado o necesidad de apoyo de la ciudadan&iacute;a, se activa el Plan GNA de asistencia a la sociedad en casos de emergencia, como incendios forestales, inundaciones, sismos, entre otros desastres naturales.</p>
+
+<p>VOZ HOMBRE:&nbsp;Hombres y mujeres que conforman esta instituci&oacute;n poseen virtudes como el valor, honradez y el compa&ntilde;erismo, honrando la memoria de las compa&ntilde;eras y compa&ntilde;eros que han entregado su vida, comprometidos siempre en entregarlo todo por su familia y por el pueblo de M&eacute;xico.</p>
+
+<p>VOZ MUJER:&nbsp;Guardia Nacional por un M&eacute;xico de justicia y paz.</p>
+
+<p>(FINALIZA VIDEO)</p>
+
+<p>MODERADOR:&nbsp;Hace uso de la palabra el comisario general David C&oacute;rdova Campos, comandante de la Guardia Nacional.</p>
+
+<p>DAVID C&Oacute;RDOVA CAMPOS, COMANDANTE DE LA GUARDIA NACIONAL:&nbsp;Licenciado Andr&eacute;s Manuel L&oacute;pez Obrador, presidente constitucional de los Estados Unidos Mexicanos.</p>
+
+<p>Maestra Luisa Mar&iacute;a&nbsp;Alcalde&nbsp;Luj&aacute;n, secretaria de Gobernaci&oacute;n.</p>
+
+<p>Licenciada Rosa Icela Rodr&iacute;guez Vel&aacute;zquez, secretaria de Seguridad y Protecci&oacute;n Ciudadana.</p>
+
+<p>General Luis Cresencio Sandoval Gonz&aacute;lez, secretario de la Defensa Nacional.</p>
+
+<p>Almirante Jos&eacute; Rafael Ojeda Dur&aacute;n, secretario de Marina.</p>
+
+<p>Distinguidos integrantes de los poderes Legislativo y Judicial.</p>
+
+<p>Apreciables&nbsp;gobernadoras y gobernadores&nbsp;de las entidades federativas, y jefe de gobierno de la Ciudad de M&eacute;xico.</p>
+
+<p>Distinguidos agregados de Defensa y policiales acreditados en nuestro pa&iacute;s.</p>
+
+<p>Compa&ntilde;eros de la Guardia Nacional, Ej&eacute;rcito Mexicano, Fuerza A&eacute;rea y Armada nacionales.</p>
+
+<p>Representantes de los medios de comunicaci&oacute;n.</p>
+
+<p>Muy buenos d&iacute;as.</p>
+
+<p>En este d&iacute;a de gran significado para la Guardia Nacional, agradezco a todos el honor de su presencia en este Campo Deportivo Militar Marte, emblem&aacute;tico lugar que ha sido testigo de m&uacute;ltiples y diversos eventos trascendentales para M&eacute;xico, como lo es el que hoy nos re&uacute;ne, la celebraci&oacute;n del 4&ordm; Aniversario de la Guardia Nacional, instituci&oacute;n por excelencia, garante de la seguridad p&uacute;blica en el pa&iacute;s.</p>
+
+<p>Este cuerpo policial surge bajo el entendimiento de una necesidad innegable que acompa&ntilde;aba la realidad nacional, raz&oacute;n por la que se convierte en un proyecto prioritario del gobierno federal para forjar una nueva instituci&oacute;n que atendiera una de las demandas m&aacute;s sentidas y urgentes de la poblaci&oacute;n mexicana: su seguridad.</p>
+
+<p>Tal exigencia motiv&oacute; la conjunci&oacute;n de esfuerzos y voluntades de los poderes de la uni&oacute;n, instituciones federales, gobiernos estatales y sociedad para impulsar un cambio sustancial y profundo en la concepci&oacute;n de un sistema de seguridad que permitiera la atenci&oacute;n de esta circunstancia en el corto, mediano y largo plazo.</p>
+
+<p>En ese sentido, al ser la seguridad p&uacute;blica una tarea primigenia y fundamental del Estado mexicano, el presidente de la Rep&uacute;blica, con base en el decreto de creaci&oacute;n de la Guardia Nacional del 26 de marzo del 2019, encomend&oacute; a las secretar&iacute;as de la Defensa Nacional y de Marina la conformaci&oacute;n de un cuerpo disciplinado y profesional que desempe&ntilde;ara estas funciones.&nbsp;</p>
+
+<p>Por lo anterior, se requiri&oacute; analizar las experiencias en el &aacute;mbito internacional con la finalidad de investigar y conocer las capacidades, organizaci&oacute;n y funcionamiento de cuerpos policiales similares, identific&aacute;ndose que 32 pa&iacute;ses cuentan con una Guardia Nacional o equivalente, de los cuales 16 tienen un modelo de organizaci&oacute;n militar, factor fundamental de disciplina y profesionalizaci&oacute;n para lograr su institucionalizaci&oacute;n y permanencia en el tiempo, entre los que sobresalen la Gendarmer&iacute;a Francesa, los Carabineros de Italia, la Guardia Civil Espa&ntilde;ola y la Polic&iacute;a de Colombia, que enfrentan activamente a las organizaciones criminales en sus pa&iacute;ses.</p>
+
+<p>En este contexto se decidi&oacute; que participaran en su integraci&oacute;n elementos de las polic&iacute;as militar, naval y federal, de esta manera los enfoques militar y civil se unieron aportando sus valores, conocimientos y experiencia para complementarse y enriquecer la concepci&oacute;n de esta instituci&oacute;n.</p>
+
+<p>Cabe se&ntilde;alar que el surgimiento de esta instituci&oacute;n policial no hubiera sido posible sin el aprovechamiento de la organizaci&oacute;n, infraestructura, sistemas y procedimientos conformados durante m&aacute;s de 200 a&ntilde;os de la Secretar&iacute;a de la Defensa Nacional, dependencia que contribuy&oacute; decididamente en su integraci&oacute;n, disciplina y profesionalizaci&oacute;n para que esta nueva fuerza de seguridad se constituya como el principal elemento garante de la seguridad p&uacute;blica del Estado mexicano.</p>
+
+<p>A cuatro a&ntilde;os de su conformaci&oacute;n, en tiempo r&eacute;cord y para muchos insospechados, los avances han sido importantes. se han logrado alcanzar los objetivos y metas establecidos para el desarrollo y consolidaci&oacute;n de la Guardia Nacional, entre los que podemos destacar los siguientes:</p>
+
+<p>Respecto al recurso humano, el efectivo actual supera los 128 mil elementos, lo que representa el 79.5 por ciento de los 161 mil efectivos proyectados para el cierre del 2024.</p>
+
+<p>De igual manera, es importante destacar que la fuerza operativa desplegada es de 113 mil 409 elementos, representando el 44 por ciento del esfuerzo nacional. Por ello, se puede afirmar que en nuestro pa&iacute;s cuenta hoy con un cuerpo de seguridad que ya es superior en efectivos operativos a la fuerza armada permanente, desplegados en todo el territorio nacional, quienes d&iacute;a a d&iacute;a ponen todo su empe&ntilde;o y dedicaci&oacute;n para contribuir a que los ciudadanos gocen de un M&eacute;xico cada vez m&aacute;s seguro.</p>
+
+<p>En el aspecto educativo se encuentran cursando en el Heroico Colegio Militar la licenciatura y especialidad en Seguridad P&uacute;blica mil 169 cadetes y 52 agentes respectivamente. Adem&aacute;s, en el Colegio del Aire, 55 cadetes realizan el curso de formaci&oacute;n de pilotos aviadores con especialidad en seguridad p&uacute;blica.</p>
+
+<p>En materia de adiestramiento, este componente participa de manera conjunta con el Ej&eacute;rcito y Fuerza A&eacute;rea en los ejercicios de cuarta y quinta fases, que se materializan en Santa Gertrudis, Chihuahua. Este adiestramiento nos brinda la oportunidad de poner en pr&aacute;ctica el liderazgo, operaciones, t&aacute;cticas, t&eacute;cnicas y procedimientos policiales que nos permiten cumplir de manera efectiva las atribuciones asignadas.</p>
+
+<p>Por lo que se refiere a la infraestructura, la Secretar&iacute;a de la Defensa Nacional asign&oacute; 100 instalaciones para ser ocupadas por unidades de nivel compa&ntilde;&iacute;a de la Guardia Nacional en lugares estrat&eacute;gicos del pa&iacute;s. Adem&aacute;s, con el apoyo de los ingenieros militares, se han construido en su totalidad 295 instalaciones, 124 est&aacute;n en proceso de construcci&oacute;n y 138 se encuentran proyectadas para su edificaci&oacute;n, lo que nos permitir&aacute; que al finalizar el presente a&ntilde;o contemos con 557 edificaciones aunadas a los 100 espacios mencionados anteriormente.</p>
+
+<p>S&oacute;lo revisando de manera integral el proceso de consolidaci&oacute;n de la Guardia Nacional es como se puede valorar la capacidad institucional construida, que ha permitido su amplio despliegue y operaci&oacute;n, as&iacute; como la obtenci&oacute;n de resultados muy destacados, entre los que podemos mencionar los siguientes:</p>
+
+<p>Se han detenido 33 mil 617 personas, se han asegurado ocho mil 857 armas, 312 granadas, 11 millones 139 mil 834 cartuchos, 45 mil 699 cargadores, 50 mil 13 veh&iacute;culos terrestres, 81 aeronaves y 17 embarcaciones, 22 laboratorios clandestinos; de igual manera, 110 mil 865 kil&oacute;gramos de marihuana, 299 kil&oacute;gramos de hero&iacute;na, 16 mil 773 de metanfetaminas, siete mil 485 kilos de coca&iacute;na, 450 de goma de opio y de fentanilo 490 kilos, tres mil 774 ampolletas y m&aacute;s de 617 mil pastillas; asimismo, m&aacute;s de 357 millones de pesos y 20 millones de d&oacute;lares estadounidenses.&nbsp;</p>
+
+<p>Parte importante de la obtenci&oacute;n de estos resultados ha sido la asignaci&oacute;n de mandos formados por a&ntilde;os en valores axiol&oacute;gicos en instituciones educativas militares, lo que refleja que a cuatro a&ntilde;os de su creaci&oacute;n este cuerpo policial aporta ya m&aacute;s del 26 por ciento de los resultados obtenidos en el esfuerzo nacional en materia de seguridad p&uacute;blica.</p>
+
+<p>Amable auditorio:</p>
+
+<p>Ante la din&aacute;mica de la realidad nacional e internacional que enfrentamos, la Guardia Nacional se constituye como factor primordial del Estado mexicano para cumplir las tareas de seguridad p&uacute;blica que demandan las actuales generaciones y las que habr&aacute;n de venir en el futuro.</p>
+
+<p>En ese sentido, es necesario que como Estado visualicemos la necesidad de consolidar este cuerpo de seguridad p&uacute;blica con la debida y amplia organizaci&oacute;n en su estructura de mandos, que permita sentar s&oacute;lidos principios basados en la disciplina y en valores, constituy&eacute;ndose en la amalgama de la unidad nacional para hacer frente a los flagelos que tanto lastiman a la sociedad.</p>
+
+<p>Los avances y resultados de la Guardia Nacional han permeado y han generado un impacto positivo en la sociedad, ya que en sus primeros cuatro a&ntilde;os es ya la primera instituci&oacute;n encargada de la seguridad p&uacute;blica en la que m&aacute;s conf&iacute;a la poblaci&oacute;n.</p>
+
+<p>Somos conscientes que falta mucho por hacer, decisiones que tomar y acciones por definir, pero estamos convencidos que transitamos por el camino correcto. Por ello, aprovecho esta oportunidad para invitar al pueblo de M&eacute;xico a cerrar filas en este esfuerzo conjunto, no permitiendo normalizar en&nbsp;nuestras casas y comunidades la convivencia, el apoyo o respaldo a organizaciones que sustentan su supervivencia en actos ilegales. Hagamos nuestra cultura de denuncia ejerciendo esa confianza que hoy tienen en su Guardia Nacional.</p>
+
+<p>Se&ntilde;or presidente:</p>
+
+<p>A lo largo de estos cuatro a&ntilde;os las mujeres y hombres que integramos la Guardia Nacional no hemos escatimado esfuerzos ni voluntades para cumplir con las atribuciones y obligaciones que nos demanda la seguridad p&uacute;blica del pa&iacute;s. Lo hacemos porque tenemos claro la importancia que representa la seguridad y el bienestar en la sociedad. Nuestra labor se fortalece con el decidido apoyo que nos ha brindado, permiti&eacute;ndonos incrementar nuestras capacidades y despliegue territorial, adem&aacute;s de crecer de manera significativa como instituci&oacute;n.</p>
+
+<p>Hoy me permito replicar las palabras que usted mencion&oacute; en Jerez, Zacatecas, el 27 de febrero de 2021: Los integrantes de la Guardia Nacional est&aacute;n construyendo esta nueva instituci&oacute;n para la paz y la seguridad p&uacute;blica, ese es y ser&aacute; nuestro firme compromiso. Por eso, asumimos el reto de consolidar esta fuerza, otorg&aacute;ndole certidumbre al personal y garantiz&aacute;ndoles un proyecto de vida para ellos y sus familias, con la finalidad de que puedan desarrollar todas sus capacidades en el &aacute;mbito de la seguridad p&uacute;blica.</p>
+
+<p>Reconocemos, tambi&eacute;n, que para el desarrollo y consolidaci&oacute;n de la Guardia Nacional es necesario seguir contando con el apoyo, respaldo y gu&iacute;a de la fuerza armada permanente.</p>
+
+<p>Mujeres y hombres de la Guardia Nacional:</p>
+
+<p>En esta fecha de nuestro 4&ordm; aniversario es meritorio destacar el esfuerzo de quienes formamos parte de esta instituci&oacute;n por alcanzar cada uno de los objetivos planteados, por cumplir con cada&nbsp;uno&nbsp;de las misiones que se nos han asignado y por lograr la confianza de la sociedad a la que nos debemos. Los invito a continuar redoblando esfuerzos para impulsar a&uacute;n m&aacute;s el respeto a la ley, el uso leg&iacute;timo de la fuerza y anteponer el inter&eacute;s supremo de la sociedad, que es su seguridad, para mantenernos como garantes del Estado de derecho, promoviendo una cultura de transparencia, rendici&oacute;n de cuentas y de&nbsp;cero tolerancia&nbsp;a los actos de corrupci&oacute;n.&nbsp;</p>
+
+<p>Su importante labor, compromiso y lealtad institucional demostrados diariamente a lo largo y ancho del territorio nacional es fundamental para continuar fortaleciendo la identidad de esta gran instituci&oacute;n, garante de la seguridad p&uacute;blica de los mexicanos.</p>
+
+<p>El objetivo es claro: debemos contribuir y poner todo nuestro empe&ntilde;o para lograr su consolidaci&oacute;n. Con este &aacute;nimo propositivo e irrenunciable iniciemos el quinto a&ntilde;o de trayectoria, perfeccionando nuestras t&aacute;cticas y t&eacute;cnicas policiales, incrementando nuestros efectivos y fortaleciendo nuestras capacidades operativas y administrativas, pero, sobre todo, estar m&aacute;s cerca de la ciudadan&iacute;a para continuar con disciplina y profesionalismo hacia la justicia y paz que el pueblo de M&eacute;xico anhela.</p>
+
+<p>Muchas gracias.</p>
+
+<p>MODERADORA:&nbsp;Con motivo de la celebraci&oacute;n en este a&ntilde;o 2023 de los 200 a&ntilde;os de la creaci&oacute;n del Heroico Colegio Militar, el comisario general David C&oacute;rdova Campos, comandante de la Guardia Nacional, har&aacute; entrega de un reconocimiento al general de brigada diplomado de Estado Mayor, Jorge Antonio Maldonado Guevara, director de este heroico plantel.</p>
+
+<p>MODERADOR:&nbsp;Texto contenido en el reconocimiento:</p>
+
+<p>&lsquo;Las mujeres y hombres que integran la Guardia Nacional, en el marco de los festejos del bicentenario del Heroico Colegio Militar, hacen un reconocimiento a este heroico plantel que a trav&eacute;s de 200 a&ntilde;os ha formado a j&oacute;venes oficiales, quienes con inquebrantable lealtad institucional han velado por la seguridad de la naci&oacute;n y el bienestar del pueblo de M&eacute;xico. Por el honor de M&eacute;xico. Campo Deportivo Militar Marte, a 30 de junio de 2023.&rsquo;</p>
+
+<p>De conformidad con lo establecido en el art&iacute;culo 113 del Reglamento de la Ley de la Guardia Nacional, con el objeto de reconocer a los integrantes por su hero&iacute;smo, capacidad profesional, servicios a la patria y dem&aacute;s hechos meritorios se establecen los siguientes est&iacute;mulos, condecoraciones, menciones honor&iacute;ficas, distinciones, citaciones y recompensas.</p>
+
+<p>Por tal motivo, esta fecha, el presidente de la Rep&uacute;blica har&aacute; entrega de distinciones y condecoraciones de tiempo de servicios, servicios distinguidos y distinci&oacute;n de desempe&ntilde;o en adiestramiento a personal integrante de la Guardia Nacional.</p>
+
+<p>MODERADORA:&nbsp;Reciben:&nbsp;</p>
+
+<p>Inspector general, V&iacute;ctor Manuel Rom&aacute;n Solares.</p>
+
+<p>Inspectores jefes, Waldo Federico L&oacute;pez&nbsp;L&oacute;pez, Hermenegildo Mu&ntilde;oz Flores, Oswaldo P&eacute;rez Espericueta, Jos&eacute; Manuel Delgado Torres.</p>
+
+<p>Inspectores: Bertoldo&nbsp;Onanuca&nbsp;Oca&ntilde;a, Luis Gamma Alp&iacute;zar.</p>
+
+<p>Primero subinspector, Manuel Onofre L&oacute;pez.</p>
+
+<p>Segundos subinspectores: Artemio de Jes&uacute;s S&aacute;nchez, David Humberto&nbsp;Labor&iacute;n&nbsp;Granillo.</p>
+
+<p>Oficiales: Leoncio Mendoza Santill&aacute;n, Leonardo Mendoza Alfaro, Rodrigo Hern&aacute;ndez Fern&aacute;ndez.</p>
+
+<p>Suboficiales: Jorge Luis Garc&iacute;a Castillo, Daniel Ram&iacute;rez Flores.</p>
+
+<p>Guardias Nacionales: Silvia Belinda V&eacute;lez Flores y Priscila Estefan Escobar L&oacute;pez.</p>
+
+<p>MODERADOR:&nbsp;Agentes mayores: Williams Hern&aacute;ndez S&aacute;nchez, Francisco Mart&iacute;nez&nbsp;Mart&iacute;nez, Manuel Garc&iacute;a Rodr&iacute;guez, Andr&eacute;s Vega Miranda, Elsa Lom&eacute; Bail&oacute;n, Jes&uacute;s Alberto Fabi&aacute;n Villavicencio, Darinel&nbsp;Pi&ntilde;a Vel&aacute;zquez, V&iacute;ctor Alfonso Torres Aldo.</p>
+
+<p>Agentes: Selene Valdivia Molina, Mart&iacute;n Encarnaci&oacute;n Carrera, Andresito Morales Miguel, Jos&eacute; Guzm&aacute;n&nbsp;Bricia, Jos&eacute; de Jes&uacute;s Bobadilla Cruz, Maximino V&aacute;zquez Garc&iacute;a.</p>
+
+<p>Guardias Nacionales: Elia S&aacute;nchez P&eacute;rez, Jes&uacute;s Antoni Garc&iacute;a&nbsp;Garc&iacute;a&nbsp;y Karla Mar&iacute;a Santos Barrera.</p>
+
+<p>MODERADORA:&nbsp;A Agentes:&nbsp;Ofelio Manzano Hern&aacute;ndez, Germ&aacute;n Garc&iacute;a Rodr&iacute;guez, Javier Gonz&aacute;lez Asencio, Julio C&eacute;sar Rodr&iacute;guez Silva, Carlos Erasmo Hern&aacute;ndez Ibarra, &Aacute;ngel Benigno Ch&aacute;vez Badillo.</p>
+
+<p>Subagentes: Juan Manuel Gonz&aacute;lez Guti&eacute;rrez, Marco Antonio Garc&iacute;a Gonz&aacute;lez, Carlos Pacheco Medina, Jorge Silva L&oacute;pez, Juan Carlos N&aacute;jera Huerta, Juan Manuel N&aacute;jera Hern&aacute;ndez, Iv&aacute;n Mart&iacute;n Alvarado Vel&aacute;zquez, Jos&eacute; Guadalupe Nicol&aacute;s Ruiz.</p>
+
+<p>Guardias nacionales: Brigitte&nbsp;Arizbeth&nbsp;Hern&aacute;ndez Ben&iacute;tez, Sayuri Monserrat C&aacute;sares S&aacute;nchez y Katia Jacqueline Orozco Ramos.</p>
+
+<p>MODERADOR:&nbsp;Guardias nacionales: Diego Armando Hidalgo Arias, Javier Sol&iacute;s Rodr&iacute;guez, Roberto Francisco Hern&aacute;ndez Flores y Dylan Rodr&iacute;guez M&eacute;ndez.</p>
+
+<p>MODERADORA:&nbsp;En honor al personal que recibi&oacute; distinciones y condecoraciones, la banda de guerra de la Guardia Nacional ejecutar&aacute; el toque militar&nbsp;Tres de Diana.</p>
+
+<p>(TOQUE MILITAR&nbsp;TRES DE DIANA)</p>
+
+<p>MODERADORA:&nbsp;Sean tan amables de permanecer de pie. Atendamos con respeto la&nbsp;Marcha&nbsp;de la Guardia Nacional.</p>
+
+<p>(MARCHA DE LA GUARDIA NACIONAL)</p>
+
+<p>MODERADOR:&nbsp;Escuchemos el mensaje que dirige el licenciado Andr&eacute;s Manuel L&oacute;pez Obrador, presidente constitucional de los Estados Unidos Mexicanos y comandante supremo de las Fuerzas Armadas</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Amigas, amigos, mujeres, hombres, integrantes de la Guardia Nacional:</p>
+
+<p>Me da mucho gusto participar en esta conmemoraci&oacute;n, cuando se cumplen cuatro a&ntilde;os de la creaci&oacute;n de esta corporaci&oacute;n para garantizar la paz y la tranquilidad en nuestro pa&iacute;s.</p>
+
+<p>Es muy satisfactorio el poder constatar que en cuatro a&ntilde;os se ha creado esta instituci&oacute;n, la m&aacute;s importante, para garantizar la seguridad p&uacute;blica.</p>
+
+<p>Todos sabemos de lo que prevalec&iacute;a antes de la creaci&oacute;n de la Guardia Nacional, que hab&iacute;a un completo abandono, una desorganizaci&oacute;n y carencia de un cuerpo formado, capacitado, para garantizar la seguridad p&uacute;blica. Lo que existi&oacute; por muchos a&ntilde;os fue la llamada Polic&iacute;a Federal, que en su mejor tiempo lleg&oacute; a con 40 mil&nbsp;elementos, la mitad dedicados b&aacute;sicamente a labores administrativas, de apenas 20 mil elementos operativos para todo el pa&iacute;s, porque legalmente, formalmente ni el Ej&eacute;rcito ni la Marina pod&iacute;an hacer labores de seguridad p&uacute;blica, la Constituci&oacute;n lo prohib&iacute;a. Imag&iacute;nense lo que esto significaba, el contar con dos instituciones fundamentales del Estado nacional, con elementos, con disciplina, con profesionalismo, sin poder utilizarlas para atender el principal problema del pa&iacute;s: el garantizar la seguridad p&uacute;blica.</p>
+
+<p>Por eso, se propuso una reforma a la Constituci&oacute;n y a partir de entonces se permite que la Secretar&iacute;a de la Defensa, la Secretar&iacute;a de Marina, puedan ayudar, participar a enfrentar el problema de la inseguridad y de la violencia en nuestro pa&iacute;s. Al mismo tiempo, esa reforma a la Constituci&oacute;n permiti&oacute; la creaci&oacute;n de la Guardia Nacional.</p>
+
+<p>Ahora, a cuatro a&ntilde;os, como aqu&iacute; lo ha expresado el comandante de esta instituci&oacute;n de seguridad p&uacute;blica, general David C&oacute;rdova Campos, ya son 128 mil&nbsp;elementos de la Guardia Nacional.&nbsp;</p>
+
+<p>Pero, adem&aacute;s, con el apoyo de los ingenieros militares, se cuenta con cuarteles, 295 instalaciones distribuidas en todo el territorio nacional, porque, como parte de la estrategia para garantizar la seguridad p&uacute;blica, se ha decidido crear coordinaciones territoriales. Hasta ahora, hay 266 coordinaciones territoriales en el pa&iacute;s. No se tienen concentradas las fuerzas de seguridad en las grandes ciudades, sino est&aacute;n presentes donde se necesita, donde vive la gente que necesita de la protecci&oacute;n y del apoyo de la Guardia Nacional.</p>
+
+<p>Ya se ha hablado de estos 295 cuarteles, con capacidad cada uno para 120 elementos, equipados, para mujeres, hombres. Antes la Polic&iacute;a Federal no contaba con cuarteles, iban los elementos de la Polic&iacute;a Federal a misiones y se ten&iacute;an que hospedar en hoteles o a la intemperie, algo lamentable y vergonzoso; ahora, aparte de los 295&nbsp;cuarteles construidos, est&aacute;n en proceso de construcci&oacute;n 124 m&aacute;s; 100 instalaciones han sido donadas, asignadas por la Secretar&iacute;a de la Defensa a la Guardia&nbsp;Nacional, y vamos a terminar nuestro mandato el a&ntilde;o pr&oacute;ximo y vamos a contar con 657 instalaciones para m&aacute;s de 160 mil elementos de la Guardia Nacional.</p>
+
+<p>En cuatro a&ntilde;os se ha acreditado esta instituci&oacute;n. En la reciente encuesta del Inegi, el 77 por ciento de los mexicanos conf&iacute;a en la Guardia Nacional. Hechos, no palabras. Por eso el gobierno que represento va a seguir apoy&aacute;ndoles para que tengan sus sueldos justos, sus prestaciones, toda la protecci&oacute;n para ustedes y sus familias.</p>
+
+<p>Tambi&eacute;n, que nunca dejen de pensar que estamos sirviendo a nuestro pueblo. Que la Guardia Nacional es para proteger a todos los mexicanos, en una aut&eacute;ntica democracia, en un gobierno del pueblo. No estamos al servicio de una minor&iacute;a, de una oligarqu&iacute;a, mucho menos de una mafia de poder econ&oacute;mico o pol&iacute;tico, venimos del pueblo y estamos sirviendo a nuestro pueblo.</p>
+
+<p>Que ustedes tengan en cuenta que el presupuesto p&uacute;blico, que es dinero del pueblo, se est&aacute; distribuyendo con justicia, que ya no se queda arriba, en unas cuantas manos, que ahora est&aacute; llegando a 30 millones de familias y se entrega de abajo hacia arriba, de la base de la pir&aacute;mide hacia lo alto, no como antes, que enga&ntilde;aban diciendo que, si llov&iacute;a fuerte arriba, goteaba abajo, como si la riqueza fuese contagiosa o permeable, ahora es de abajo hacia arriba, porque eso es la justicia, darle m&aacute;s al que tiene menos, no puede haber trato igual entre desiguales.</p>
+
+<p>Estamos apoyando a todos, respetando a todos, pero se le da preferencia a la gente humilde, porque, por el bien de todos, primero los pobres.</p>
+
+<p>Todo eso t&eacute;nganlo presente cuando est&aacute;n en servicio y en el cumplimiento de su deber.</p>
+
+<p>Tengan en cuenta que no s&oacute;lo estamos enfrentando el problema de la seguridad y el flagelo de la violencia con medidas coercitivas, lo estamos enfrentando con oportunidades de trabajo para los j&oacute;venes, lo estamos enfrentando con becas para estudiantes de familias humildes, de familias pobres; lo estamos enfrentando,&nbsp;incrementando los salarios, los ingresos de los trabajadores. Y todo lo hacemos porque partimos del criterio de que la paz es fruto de la justicia y que no se puede enfrentar la violencia con la violencia, no se puede enfrentar el mal con el mal, el mal hay que enfrentarlo haciendo el bien. Tengan en cuenta eso, que no son una corporaci&oacute;n para reprimir a un pueblo sin atenci&oacute;n y abandonado en sus demandas de justicia.</p>
+
+<p>Vamos a continuar avanzando hasta garantizar la paz y la tranquilidad en nuestro pa&iacute;s. Vamos bien con esta estrategia. Desde luego, no ha sido f&aacute;cil porque hubo muchos a&ntilde;os, d&eacute;cadas, de desatenci&oacute;n, y lo peor de complicidades entre autoridades y delincuencia, no estaba pintada la raya, la frontera entre delincuencia y autoridades, eran lo mismo, era una asociaci&oacute;n delictuosa.</p>
+
+<p>Ahora eso no existe, mucho menos un&nbsp;narco-Estado, como lamentablemente lleg&oacute; a imperar, a prevalecer en nuestro pa&iacute;s. Por eso tengo mucha fe que vamos a seguir avanzando y serenando a nuestro pa&iacute;s.</p>
+
+<p>Les felicito por lo que hacen, por su esfuerzo, por sus fatigas, por los riesgos que corren, por lo que significan para proteger a nuestro pueblo.</p>
+
+<p>Vamos siempre a recordar, y no van a quedar sus familiares en estado de indefensi&oacute;n, vamos a recordar a los que caen, pierden la vida en el cumplimiento del deber, siempre los vamos a recordar con afecto, con cari&ntilde;o. Se est&aacute; dignificando el servicio p&uacute;blico y todo lo relacionado con la impartici&oacute;n de justicia. Estamos purificando la vida p&uacute;blica de nuestro pa&iacute;s, desterrando la corrupci&oacute;n, la impunidad, y no queremos que eso regrese, no vamos a permitir retrocesos. Ya inici&oacute; la transformaci&oacute;n de M&eacute;xico&nbsp;y nadie va a detenerla, porque el pueblo quiere que siga habiendo justicia, que se acabe el clasismo, el racismo, la discriminaci&oacute;n.</p>
+
+<p>De todas formas, tenemos que dejar protegida a esta instituci&oacute;n, la Guardia Nacional, por eso envi&eacute; una iniciativa de ley, que fue rechazada por cuestiones politiqueras en el Poder Judicial, en la Suprema Corte, rechazaron la propuesta que la Guardia Nacional pasara a formar parte de la Secretar&iacute;a de la Defensa. Porque no quiero que con el paso del tiempo se eche a perder esta instituci&oacute;n, como sucedi&oacute; con la Polic&iacute;a Federal, al depender de civiles ambiciosos, deshonestos, desleales al pueblo, no quiero que eso suceda, quiero que se mantenga la disciplina, la lealtad, la rectitud, la honestidad, y esto s&oacute;lo se puede garantizar si la Guardia Nacional forma parte de la Secretar&iacute;a de la Defensa.</p>
+
+<p>No quiero que dependa de la Secretar&iacute;a de Seguridad P&uacute;blica, aun cuando ahora la titular de esa Secretar&iacute;a sea una mujer &iacute;ntegra y honesta, pero no sabemos qu&eacute; nos depare el destino. Y m&aacute;s all&aacute; de las mujeres o de los hombres, tenemos que pensar en las instituciones y en el futuro para las nuevas generaciones.tampoco quiero que dependa&nbsp;de la Secretar&iacute;a de Gobernaci&oacute;n, como depend&iacute;a la Polic&iacute;a Federal en el sexenio pasado, donde termin&oacute; de corromperse, quiero que est&eacute; adscrita a la Secretar&iacute;a de la Defensa.</p>
+
+<p>Yo vengo de la lucha social, vengo de abajo, y aprend&iacute; de las ense&ntilde;anzas el presidente Ju&aacute;rez, que uno debe de mantener siempre la fe en la causa que defiende y ser perseverante. No me doy por vencido a la primera. Por eso, antes de terminar mi mandato, cuando inicie el nuevo&nbsp;Congreso, cuando entre la nueva legislatura, antes de irme voy a enviar una nueva reforma a la Constituci&oacute;n para que la Guardia Nacional siga siendo apoyada, formada, conducida por la Secretar&iacute;a de la Defensa Nacional, porque eso es lo mejor para nuestro pueblo, para garantizar la paz y la tranquilidad.</p>
+
+<p>Muchas felicidades en este cuarto aniversario de la Guardia Nacional,</p>
+
+<p>&iexcl;Que viva la Guardia Nacional!</p>
+
+<p>VOCES A CORO:&nbsp;&iexcl;Viva!</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;&iexcl;Viva M&eacute;xico!</p>
+
+<p>VOCES A CORO:&nbsp;&iexcl;Viva!</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;&iexcl;Viva M&eacute;xico!</p>
+
+<p>VOCES A CORO:&nbsp;&iexcl;Viva!</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;&iexcl;Viva M&eacute;xico!</p>
+
+<p>VOCES A CORO:&nbsp;&iexcl;Viva!</p>
+
+<p>MODERADOR:&nbsp;Sean tan amables de ponerse de pie.</p>
+
+<p>Finaliza esta ceremonia con los honores al presidente constitucional de los Estados Unidos Mexicanos y comandante supremo de las Fuerzas Armadas. Invitamos a todos los presentes a colocarse en posici&oacute;n de firmes para entonar nuestro Himno Nacional.</p>
+
+<p>(HIMNO NACIONAL)</p>
+
+<p>MODERADORA:&nbsp;Se agradece la asistencia en esta ceremonia del presidente M&eacute;xico.</p>
+
+<p>MODERADOR:&nbsp;De integrantes del Gabinete Legal del Gobierno de M&eacute;xico.&nbsp;</p>
+
+<p>MODERADORA:&nbsp;Invitados especiales.</p>
+
+<p>MODERADOR:&nbsp;Funcionarios, generales, almirantes, comisarios, jefes, capitanes, inspectores, oficiales, cadetes, tropa, mariner&iacute;a y escala b&aacute;sica pertenecientes a la Guardia Nacional, al Ej&eacute;rcito y Fuerza A&eacute;rea Mexicana y Armada de M&eacute;xico.</p>
+
+<p>MODERADORA:&nbsp;Agregados policiales, militares, navales y a&eacute;reos acreditados en nuestro pa&iacute;s.</p>
+
+<p>MODERADOR:&nbsp;Directores&nbsp;generales de las armas y servicios.</p>
+
+<p>MODERADORA:&nbsp;Generales en situaci&oacute;n de retiro.</p>
+
+<p>MODERADOR:&nbsp;As&iacute; como representantes de medios de comunicaci&oacute;n y quienes nos siguieron por internet a trav&eacute;s de las redes sociales.</p>
+
+<p>---</p>
+</div>
+      </div>
+
+      <div class="col-md-4 col-xs-12 pull-right">
+
+
+
+
+          <div id="survey" class="survey-popup small-top-buffer">
+	<div class="row">
+  <a class="fire">
+    <span class="title">Contesta nuestra encuesta de satisfacción.</span>
+		<i style="color: white" class="fas fa-poll"></i>
+  </a>
+  <hr>
+  
+  <div class="survey col-sm-12 clearfix">
+	<form id="survey-form">
+	  <div class="survey-form">
+	  <fieldset id="query_1">
+		<legend>¿Cómo fue tu experiencia en gob.mx?</legend>
+		<div id="Q_A" class="btn-group row">
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncGood" class="ga-survey" value="Feliz" title="Satisactorio">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-good.svg" alt="">
+		  	</button>
+		  </div>
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncReg" class="ga-survey" value="Neutral" title="Neutral">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-neutral.svg" alt="">
+		  	</button>
+		  </div>
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncBad" class="ga-survey" value="Triste" title="No satisactorio">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-bad.svg" alt="">
+		  	</button>
+		  </div>
+		</div>
+	  </fieldset>
+	  <fieldset id="query_1_a" class="hidden">
+	  	<legend>¿Fue fácil encontrar lo que buscabas?</legend>
+	  	<div id="Q_B" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R1" value="1">
+	  		<label for="A_R">Muy Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R2" value="2">
+	  		<label for="A_R">Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R3" value="3">
+	  		<label for="A_R">Difícil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R4" value="4">
+	  		<label for="A_R">Muy Difícil</label>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_s" class="hidden">
+	  	<legend>¿De qué estado de la República nos visitas?</legend>	  	
+	  	<div class="col-md-12">
+  	  		<div class="form-group" style="margin-bottom: 114px;">
+  	  			<select id="estados" class="form-control"></select>
+  	  		</div>
+  	  		<div class="form-group">
+  	  			<button type="button" class="Q_S_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  		</div>
+  	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_alt" class="hidden">
+		<legend>¿Qué buscabas?</legend>
+	  	<div id="Q_I" class="clearfix">
+	  	  <div class="col-sm-12">
+	  		<textarea id="txtA" class="form-control" rows="6" maxlength="250" style="font-size: 14px; width: 100%;"></textarea>
+	  		<span class="small">Máximo 250 caracteres</span>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+  	  	  <button type="button" class="Q_I_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_b" class="hidden">
+	  	<legend>¿Qué te gustó más?</legend>
+	  	<p class="small">Puedes seleccionar más de uno.</p>
+	  	<div id="Q_C" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R1" type="checkbox" name="A_R" value="1">
+	  		<label for="A_R">La información es clara y precisa</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R2" type="checkbox" name="A_R" value="2">
+	  		<label for="A_R">El diseño es agradable</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R3" type="checkbox" name="A_R" value="3">
+	  		<label for="A_R">Está bien organizado</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R4" type="checkbox" name="A_R" value="4">
+	  		<label for="A_R">Es sencillo navegar</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R5" type="checkbox" name="A_R" value="5">
+	  		<label for="A_R">El lenguaje es amigable</label>
+	  	  </div>
+	  	  <div class="clearfix">
+	  	  	<button type="button" class="Q_C_btn btn btn-primary btn-small pull-right">Siguiente</button>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_c" class="hidden">
+	  	<legend>¿Recomendarías nuestro portal a un amigo o familiar?</legend>
+	  	<div id="Q_D" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="radEncC_R1" type="radio" name="A_R" value="4">
+	  		<label for="A_R">Si</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncC_R2" type="radio" name="A_R" value="1">
+	  		<label for="A_R">No</label>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+        <button type="button" class="btn-finalizar btn btn-primary btn-small pull-right" style="margin-left: 8px; margin-top: 2px;" disabled>Finalizar</button>
+        <img src="https://framework-gb.cdn.gob.mx/assets/images/oval-white.svg" class="pull-right hidden loading">
+      </div>
+	  </fieldset>
+
+	  <fieldset id="query_2" class="hidden">
+		<legend>¿Fue fácil encontrar lo que buscabas?</legend>
+	  	<div id="Q_F" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R1" type="radio" name="A_R" value="1">
+	  		<label for="A_R">Muy Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R2" type="radio" name="A_R" value="2">
+	  		<label for="A_R">Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R3" type="radio" name="A_R" value="3">
+	  		<label for="A_R">Difícil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R4" type="radio" name="A_R" value="4">
+	  		<label for="A_R">Muy Difícil</label>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_2_b" class="hidden">
+	  	<legend>¿Qué mejorarías?</legend>
+	  	<p class="small">Puedes seleccionar más de una opción.</p>
+	  	<div id="Q_G" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A1" type="checkbox" name="A_R" value="1">
+	  		<label for="A_R">Diseño</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A2" type="checkbox" name="A_R" value="2">
+	  		<label for="A_R">Navegación dentro del sitio</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A3" type="checkbox" name="A_R" value="3">
+	  		<label class="too-long" for="A_R">Claridad y precisión de la información</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A4" type="checkbox" name="A_R" value="4">
+	  		<label for="A_R">Organización de los contenidos</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A5" type="checkbox" name="A_R" value="5">
+	  		<label for="A_R">Lenguaje utilizado</label>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">	  	  
+	  	  <button type="button" class="btn-finalizar btn btn-primary btn-small pull-right" style="margin-left: 8px; margin-top: 2px;" disabled>Finalizar</button>
+	  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/oval-white.svg" class="hidden pull-right loading">
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_2_alt" class="hidden">
+		<legend>¿Qué buscabas?</legend>
+	  	<div id="Q_H" class="clearfix">
+	  	  <div class="col-sm-12">
+	  		<textarea id="txtA1" class="form-control" rows="6" maxlength="250" style="font-size: 14px; width: 100%;"></textarea>
+	  		<span class="small">Máximo 250 caracteres</span>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+  	  	  <button type="button" class="Q_H_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  	</div>
+	  </fieldset>
+
+	</div>
+	<p class="hidden survey-thanks" style="text-align: center; color: white; font-weight: 700;">Gracias por tu opinión.</p>
+	</form>
+
+  </div>
+</div>
+</div>
+
+<script type="text/javascript">
+$(function() {
+  var c = 0;
+  var fin = 0;
+  var tipo_cara = "";
+  var page_type = "Articulos";
+  var triggered = false;
+  var answers = {};
+  var properties = {};
+  var organization = "presidencia";
+  var section = "Blog";
+  var lang = "es";
+  properties.published_on = "2023-06-30 11:53:00 -0600";
+  properties.title = "Versión estenográfica.  4° Aniversario de la Guardia Nacional,";
+  properties.path = "/presidencia/es/articulos/version-estenografica-4-aniversario-de-la-guardia-nacional";
+  properties.referer = "";
+  properties.viewfinder = navigator.userAgent.toLowerCase();
+  properties.screens = screen.width;
+  properties.device = screen.width;
+
+  $.getJSON('https://www.gob.mx/vun/estados?filter[order]=nombre%20ASC', function (selectOptions) {
+    for( var i = 0; i < selectOptions.length; i ++) {
+      var selectOptionsJSON = selectOptions[i];
+      $('#estados').append('<option value="'+ selectOptionsJSON.nombre +'">'+ selectOptionsJSON.nombre +'</option>');
+    }
+    $('#estados').append('<option value="Otro">Otro</option>')
+  });
+
+  $('.fire').click(function(event) {
+    $('.survey-popup').css({'height':'440px'});
+  });
+
+  $('#Q_A').find('button').click(function(event) {
+  	$('#query_s').removeClass('hidden');
+  	$("#query_1").addClass('hidden');
+  	answers.q1 = $(this).attr('id');
+  });
+
+  $(".ga-survey").click(function () {
+    tipo_cara = $(this).val();
+    var interval_time = [30];
+    (function timer () {
+      if (c < 1) {
+        setTimeout(function () {
+           if(fin < 1) {
+             set_ga("Inconclusa");
+             timer();
+           }
+        }, interval_time[c] * 1000);
+      }
+      c++;
+    })();
+  });
+
+  $('.Q_S_btn').click(function(event) {
+    if( answers.q1 === "radEncGood") {
+      $("#query_s").addClass('hidden');
+      $("#query_1_a").removeClass('hidden');
+    } else if(answers.q1 === "radEncReg" || answers.q1 === "radEncBad") {
+      $("#query_s").addClass('hidden');
+      $("#query_2").removeClass('hidden');
+    } else { }
+    // answers.q1 = $('#Q_A').find('button').attr('id');
+  });
+
+  $('#Q_B').find('input').click(function(event) {
+  	if( $(this).attr('id') === 'radEncA_R3' || $(this).attr('id') === 'radEncA_R4' )  {
+  	  $("#query_1_a").addClass('hidden');
+	  $("#query_1_alt").removeClass('hidden');
+  	} else {
+  	  $("#query_1_a").addClass('hidden');
+	  $("#query_1_b").removeClass('hidden');	
+  	}	
+	answers.q2 = $(this).attr('id');
+  });
+
+  $('.Q_I_btn').click(function(event) {
+  	event.preventDefault();
+  	$("#query_1_alt").addClass('hidden');
+	$("#query_1_b").removeClass('hidden');
+	answers.q5 = $('#txtA').val().substring(0, 250);
+  });
+
+  $('#Q_C').find('button').click(function(event) {
+	$("#query_1_b").addClass('hidden');
+	$("#query_1_c").removeClass('hidden');
+	var q3_array = [];
+	$('#Q_C').find('input:checked').each(function(index, el) {
+	  q3_array.push($(el).attr('id'));
+	});
+	answers.q3 = q3_array;
+  });
+
+  $('#Q_D').find('input').change(function(event) {
+  	answers.q4 = $(this).attr('id');
+  	$('.btn-finalizar').attr('disabled', false);
+  });
+
+  $('#Q_F').find('input').click(function(event) {
+	
+	answers.q2 = $(this).attr('id');
+
+	if( $(this).attr('id') === 'rdEncA_R3' || $(this).attr('id') === 'rdEncA_R4' ) {
+	  $("#query_2").addClass('hidden');
+	  $("#query_2_alt").removeClass('hidden');
+	} else {
+	  $("#query_2").addClass('hidden');
+	  $("#query_2_b").removeClass('hidden');
+	}
+  });
+
+  $('#Q_G').find('input').change(function(event) {
+  	if($('#Q_G').find('input:checked').length > 0) {
+	  $('.btn-finalizar').attr('disabled', false);
+    }
+    var q2_array = [];
+    $('#Q_G').find('input:checked').each(function(index, el) {
+	  q2_array.push($(el).attr('id'));
+	});
+	answers.q3 = q2_array;
+  });
+
+  $('.Q_H_btn').click(function(event) {
+  	event.preventDefault();
+  	$("#query_2_alt").addClass('hidden');
+	$("#query_2_b").removeClass('hidden');
+	answers.q5 = $('#txtA1').val().substring(0, 250);
+  });
+
+  $('.btn-finalizar').click(function (event) {
+    fin++;
+    $.ajax({
+      url: '/encuesta-satisfaccion',
+      type: 'post',
+      dataType: 'json',
+      data: { section: section, lang: lang, properties: properties, answers: answers },
+      beforeSend: function() {
+        $('.loading').removeClass('hidden');
+      },
+      success: function(data) {
+        set_ga("Finalizada");
+
+        $('.survey').hide();
+        $('.survey-popup').css({'height':'60px','background-color':'#dff0d8','border':'1px solid #d6e9c6'});
+        $('.survey-popup .title').text('Gracias por tu participación.').css({'color':'#3c763d'});
+        $('#icon-survey').removeClass('fa-file-text-o').addClass('fa-check-circle').css({'color':'#3c763d'});
+        setTimeout(function() {
+          $('.survey-popup').fadeOut('800');
+        }, 1600);
+      }
+    });
+  });
+
+  function set_ga(estatus) {
+    var pages_group = "Gobierno";
+    var organization_name = "presidencia";
+
+    console.log("Entro a apartado de encuesta de satisfacción. Estatus: "+ estatus);
+    console.log("Pages group: "+pages_group);
+    console.log("Sub group: "+organization_name);
+    console.log("Page type: "+page_type);
+    console.log("Face: "+tipo_cara);
+
+      console.log("Rails.env.production");
+      //Código GA para encuesta de satisfacción.
+		gtag('set', 'dimension14', pages_group);
+		gtag('set', 'dimension15', organization_name);
+		gtag('set', 'dimension16', page_type);
+		gtag('send', 'event', 'Encuesta de satisfacción', tipo_cara ,estatus);
+		gtag('set', 'dimension14', null);
+		gtag('set', 'dimension15', null);
+		gtag('set', 'dimension16', null);
+  }
+
+  $('#subscribe-survey').click(function(event) {
+	event.preventDefault();
+    var email = $("#email-survey").val();
+    var state = $('#estados').val();
+
+    if (email !== '' || email !== undefined) {
+	    try {
+	      $.ajax({
+	        url: "/subscribe",
+	        type: 'post',
+	        dataType: 'json',
+	        data : { email: {address: email} },
+	        success: function (data) {
+	            $('#responseSignup').html(data.message);
+	        },
+	        error: function (data) {
+	            $('#responseSignup').html(data.message);
+	        }
+	      });
+	    }catch(e){
+	      $("#responseEmail").innerText(e);
+	    }
+
+	    $.ajax({
+	    	url: '/signups',
+	    	type: 'POST',
+	    	dataType: 'json',
+	    	data: { section: section, lang: lang, properties: properties },
+	    	success: function() {
+	    		//console.log('exito');
+	    	}
+	    });
+	} else {
+		$('#responseSignup').html('Por favor llena todos los campos.');
+	}
+  });
+
+  $('#survey-form').submit(function(event) {
+    event.preventDefault();
+  });
+});
+</script>
+
+      </div>
+      <div class="col-sm-7 pull-left">
+        <div class="share-buttons clearfix vertical-buffer">
+  <div class="col-md-2"> <a class="twitter-share-button" data-url="https://www.gob.mx/presidencia/articulos/version-estenografica-4-aniversario-de-la-guardia-nacional" data-text="Versión estenográfica.  4° Aniversario de la Guardia Nacional,"></a></div>
+  <div class="col-md-2">
+    <div class="fb-share-button" data-href="https://www.gob.mx/presidencia/articulos/version-estenografica-4-aniversario-de-la-guardia-nacional" data-layout="button_count" data-size="small" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://www.gob.mx/presidencia/articulos/version-estenografica-4-aniversario-de-la-guardia-nacional&amp;src=sdkpreparse">Compartir</a></div>
+  </div>
+</div>
+
+  <script type="text/javascript">
+    (function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v2.7";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+    
+    var pages_group = "Gobierno";
+    var page_type = "Artículos";
+    var organization_name = "presidencia";
+    var title_content = "Versión estenográfica.  4° Aniversario de la Guardia Nacional,";
+
+     window.twttr = (function (d,s,id) {
+       var t, js, fjs = d.getElementsByTagName(s)[0];
+       if (d.getElementById(id)) return; js=d.createElement(s); js.id=id;
+       js.src="//platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs);
+       return window.twttr || (t = { _e: [], ready: function(f){ t._e.push(f) } });
+     }(document, "script", "twitter-wjs"));
+
+     function trackTwitter(intent_event) {
+       if (intent_event) {
+         if (intent_event.target && intent_event.target.nodeName == 'IFRAME') {
+           console.log("Metrica Compartir Twitter - "+title_content);
+           console.log("Organization: "+organization_name);
+           console.log("Page type: "+page_type);
+           console.log("Title content: "+title_content);
+           ga('set', 'dimension14', pages_group);
+           ga('set', 'dimension15', organization_name);
+           ga('set', 'dimension16', page_type);
+           ga('send', 'event', 'Compartir en redes sociales', 'Twitter', title_content);
+           ga('set', 'dimension14', null);
+           ga('set', 'dimension15', null);
+           ga('set', 'dimension16', null);
+         }
+       }
+     }
+  </script>
+  <script type="text/javascript">
+     twttr.ready(function (twttr) {
+       twttr.events.bind('tweet', trackTwitter);
+     });
+  </script>
+
+
+      </div>
+    </div>
+    <div class="row top-buffer">
+  <div class="col-md-8">
+    <hr>
+    <div class="print col-ms-12 col-md-12 col-xs-12">
+      <span class="icon-printing"></span>
+      <a href="#">Imprime la página completa</a>
+        <p class="small" style="font-size: 14px; line-height: 1.6em;">
+          La legalidad, veracidad y la calidad de la información es estricta responsabilidad de la dependencia, entidad o empresa productiva del Estado que la proporcionó en virtud de sus atribuciones y/o facultades normativas.
+        </p>
+    </div>
+  </div>
+</div>
+
+  </div>
+  <input type="hidden" id="page_type" name="page_type" value="Articulos">
+  <input type="hidden" id="organization_name" name="organization_name" value="presidencia">
+</main>
+<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+
+<footer class="main-footer">
+  <div class="list-info">
+    <div class="container">
+
+      <div class="col-sm-3">
+        <img  src="https://framework-gb.cdn.gob.mx/landing/img/logoheader.svg"  href="/" alt="logo gobierno de méxico" class="logo_footer" style="max-width: 90%; margin-left: -27px;   margin-top: 12px;">
+      </div>
+      <div class="col-sm-3">
+        <h2>Enlaces</h2>
+        <ul>
+         <!-- <li><a  href="http://www.participa.gob.mx">Participa</a></li> -->
+          <li><a  href="https://datos.gob.mx/">Datos</a></li>
+          <li><a href="https://www.gob.mx/publicaciones" target="_blank" rel="noopener" title="Enlace abre en ventana nueva">Publicaciones </a></li>
+
+                  <li><a class="footer" href="https://consultapublicamx.plataformadetransparencia.org.mx/vut-web/faces/view/consultaPublica.xhtml?idEntidad=MzM=&amp;idSujetoObligado=MTAwMDE=#inicio" id="Transparencia" target="blank" title="Enlace abre en ventana nueva">Portal de Obligaciones de Transparencia</a></li>
+
+                  <li><a class="footer" href="https://www.infomex.org.mx/gobiernofederal/home.action" id="PNT" target="blank" title="Enlace abre PNT en ventana nueva">PNT</a></li>
+
+                  <li><a class="footer" href="http://www.inai.org.mx/" id="INAI" target="blank" title="Enlace abre sitio INAI en ventana nueva">INAI</a></li>
+
+          <li><a class="footer" id="INAI" href="http://alertadores.funcionpublica.gob.mx/" target="_blank" rel="alertadores">Alerta</a></li>
+          <li><a class="footer" id="SIDEC" href="http://sidec.funcionpublica.gob.mx/" target="_blank" rel="sidec">Denuncia</a></li>
+           </ul>
+      </div>
+      <div class="col-sm-3">
+        <h2>¿Qué es gob.mx?</h2>
+        <p>Es el portal único de trámites, información y participación ciudadana.  <a href="/que-es-gobmx" style="text-decoration: none;">Leer más </a></p>
+        <ul>
+
+        
+            <li><a href='http://www.gob.mx/epn'> Administraciones anteriores  </a></li>
+          <li><a href="/accesibilidad">Declaración de Accesibilidad</a></li>
+          <li><a href="/privacidadintegral">Aviso de privacidad</a></li>
+          <li><a href="/privacidadsimplificado">Aviso de privacidad simplificado</a></li>
+          <li><a href="/terminos">Términos y Condiciones </a></li>
+          <li><a href="/terminos#medidas-seguridad-informacion">Política de seguridad</a></li>
+          <li><a class="footer" id="Marco Juridico" href="http://www.ordenjuridico.gob.mx" target="_blank" rel="noopener" title="Enlace abre en ventana nueva">Marco jurídico</a></li>
+          <li><a href="/sitemap">Mapa de sitio</a></li>
+        </ul>
+      </div>
+      <div class="col-sm-3">
+        </p>
+        <h2>Síguenos en </h2>
+        <ul class="list-inline">
+          <li>
+            <a id="Facebook" href="https://www.facebook.com/gobmexico" target="_blank" rel="noopener" class="sendEst share-info footer" title="enlace a facebook abre en una nueva ventana">
+              <img alt="Facebook" src="https://framework-gb.cdn.gob.mx/landing/img/facebook.png" />
+            </a>
+          </li>
+          <li>
+            <a id="Twitter" href="https://twitter.com/GobiernoMX" target="_blank" rel="noopener" class="sendEst share-info footer" title="Enlace a twitter abre en una nueva ventana">
+              <img alt="Twitter" src="https://framework-gb.cdn.gob.mx/landing/img/twitter.png" />
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+  </div>
+  </div>
+
+  <div class="container-fluid footer-pleca">
+    <div class="row">
+      <div class="col">
+        <br><br>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script type="text/javascript">
+      $("a.footer").click(function () {
+          var pagina_sitio = window.location.pathname;
+          var outbound_link = $(this).attr("id");
+          var subgrupo_paginas = "presidencia";
+          var page_type = "Home";
+          var pages_group = "Gobierno";
+          if($("#page_type").length > 0){ page_type = $("#page_type").val(); }
+
+          console.log("Metrica links externos footer - "+outbound_link);
+          gtag('set', 'dimension14', pages_group);
+          gtag('set', 'dimension15', subgrupo_paginas);
+          gtag('set', 'dimension16', page_type);
+          gtag('send', 'event', 'Outbound link - Footer', outbound_link, pagina_sitio);
+          gtag('set', 'dimension14', null);
+          gtag('set, ‘dimension15', null);
+      })
+  </script>
+
+<input class="hidden" id="route" value="/presidencia/es/articulos/version-estenografica-4-aniversario-de-la-guardia-nacional" type="hidden" >
+<!-- div id="fb-root"></div -->
+
+
+
+
+
+  <!-- Begin comScore Tag -->
+  <script>
+      var _comscore = _comscore || [];
+      _comscore.push({ c1: "2", c2: "17183199" });
+      (function() {
+          var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+          s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+          el.parentNode.insertBefore(s, el);
+      })();
+  </script>
+  <noscript>
+    <img src="https://sb.scorecardresearch.com/p?c1=2&c2=17183199&cv=2.0&cj=1" />
+  </noscript>
+  <!-- End comScore Tag -->
+
+  <script src="https://sb.scorecardresearch.com/c2/17183199/ct.js"></script>
+
+
+  <script type="text/javascript">
+
+      var _sf_startpt=(new Date()).getTime();
+      var _sf_async_config = { uid: 43659, domain: 'www.gob.mx', useCanonical: true } ;
+      (function() {
+          function loadChartbeat() { window._sf_endpt = (new Date()).getTime(); var e = document.createElement('script'); e.setAttribute('language', 'javascript'); e.setAttribute('type', 'text/javascript'); e.setAttribute('src','//static.chartbeat.com/js/chartbeat.js'); document.body.appendChild(e); };
+          var oldonload = window.onload;
+          window.onload = (typeof window.onload != 'function') ?
+              loadChartbeat : function()
+              { oldonload(); loadChartbeat(); };
+      })();
+      var ele = "/presidencia/es/articulos/version-estenografica-4-aniversario-de-la-guardia-nacional";
+      if( "#{(@organization_site.present? ? @organization_site.category : 'gobmx')}" == "Campaña") {
+          var siteEls = 'campaign';
+      } else {
+          var siteEls = 'gobierno';
+      }
+
+      for( var i = 1; i < ele.split('/').length; i++ ) {
+          siteEls = siteEls + '.' + ele.split('/')[i];
+      }
+
+      function udm_(e){var t="comScore=",n=document,r=n.cookie,i="",s="indexOf",o="substring",u="length",a=2048,f,l="&ns_",c="&",h,p,d,v,m=window,g=m.encodeURIComponent||escape;if(r[s](t)+1)for(d=0,p=r.split(";"),v=p[u];d<v;d++)h=p[d][s](t),h+1&&(i=c+unescape(p[d][o](h+t[u])));e+=l+"_t="+ +(new Date)+l+"c="+(n.characterSet||n.defaultCharset||"")+"&c8="+g(n.title)+i+"&c7="+g(n.URL)+"&c9="+g(n.referrer),e[u]>a&&e[s](c)>0&&(f=e[o](0,a-8).lastIndexOf(c),e=(e[o](0,f)+l+"cut="+g(e[o](f+1)))[o](0,a)),n.images?(h=new Image,m.ns_p||(ns_p=h),h.src=e):n.write("<","p","><",'img src="',e,'" height="1" width="1" alt="*"',"><","/p",">")};
+      function uid_call(a, b){
+          ui_c2 = 17183199; // your corporate c2 client value
+          ui_ns_site = 'gobmx'; // your sites identifier
+          window.b_ui_event = window.c_ui_event != null ? window.c_ui_event:"",window.c_ui_event = a;
+          var ui_pixel_url = 'https://sb.scorecardresearch.com/p?c1=2&c2='+ui_c2+'&ns_site='+ui_ns_site+'&name='+a+'&ns_type=hidden&type=hidden&ns_ui_type='+b;
+          var b="comScore=",c=document,d=c.cookie,e="",f="indexOf",g="substring",h="length",i=2048,j,k="&ns_",l="&",m,n,o,p,q=window,r=q.encodeURIComponent||escape;if(d[f](b)+1)for(o=0,n=d.split(";"),p=n[h];o<p;o++)m=n[o][f](b),m+1&&(e=l+unescape(n[o][g](m+b[h])));ui_pixel_url+=k+"_t="+ +(new Date)+k+"c="+(c.characterSet||c.defaultCharset||"")+"&c8="+r(c.title)+e+"&c7="+r(c.URL)+"&c9="+r(c.referrer)+"&b_ui_event="+b_ui_event+"&c_ui_event="+c_ui_event,ui_pixel_url[h]>i&&ui_pixel_url[f](l)>0&&(j=ui_pixel_url[g](0,i-8).lastIndexOf(l),ui_pixel_url=(ui_pixel_url[g](0,j)+k+"cut="+r(ui_pixel_url[g](j+1)))[g](0,i)),c.images?(m=new Image,q.ns_p||(ns_p=m),m.src=ui_pixel_url):c.write("<p><img src='",ui_pixel_url,"' height='1' width='1' alt='*'></p>");
+      }
+      udm_('https://sb.scorecardresearch.com/b?c1=2&c2=17183199&ns_site=gobmx&name='+siteEls);
+  </script>
+
+  <noscript>
+    <img src="https://sb.scorecardresearch.com/p?c1=2&amp;c2=17183199&amp;ns_site=gobmx&amp;name=gobierno.presidencia.es.articulos.version-estenografica-4-aniversario-de-la-guardia-nacional" height="1" width="1" alt="*" />
+  </noscript>
+<script>
+    let key = '';
+    $(function () {
+
+        $.getJSON("https://framework-gb.cdn.gob.mx/applications/cms/configGobmx.json", function(json) {
+            console.log(json.keyAnalytics); // this will show the info it in firebug console
+            key = json.keyAnalytics;
+            ga('create', key , 'auto', 'GobTracker');
+            ga('GobTracker.require', 'linker');
+            ga('GobTracker.linker:autoLink', ['www.gob.mx']);
+            ga('GobTracker.set', 'contentGroup1', 'Gobierno');
+            ga('GobTracker.set', 'contentGroup2', SubGroup);
+            ga('GobTracker.set', 'contentGroup3', PageType);
+            ga('GobTracker.set', 'dimension14', 'Gobierno');
+            ga('GobTracker.set', 'dimension15', SubGroup);
+            ga('GobTracker.set', 'dimension16', PageType);
+            ga('GobTracker.set', 'dimension13', 'No Registrado');
+            ga('GobTracker.send', 'pageview');
+            ga('GobTracker.set', 'contentGroup1', null);
+            ga('GobTracker.set', 'contentGroup2', null);
+            ga('GobTracker.set', 'contentGroup3', null);
+            ga('GobTracker.set', 'dimension14', null);
+            ga('GobTracker.set', 'dimension15', null);
+            ga('GobTracker.set', 'dimension16', null);
+            ga('GobTracker.set', 'dimension13', null);
+        });
+    });
+</script>
+
+<script src="https://framework-gb.cdn.gob.mx/applications/cms/modal_global_cms.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/gm/accesibilidad/js/gobmx-accesibilidad.min.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick.min.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick-lightbox.js"></script>
+<link rel="stylesheet" href="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick-lightbox.css">
+
+
+<script src="https://framework-gb.cdn.gob.mx/applications/cms/config_dependency.js"></script>
+<script type="text/javascript"  src="/0RVTuHxj0/t/mhEICJIQ/YiOkthVkYSfw/PRc4N0sKYQk/PwhFVTt/GPxQB"></script></body>
+
+</html>
+

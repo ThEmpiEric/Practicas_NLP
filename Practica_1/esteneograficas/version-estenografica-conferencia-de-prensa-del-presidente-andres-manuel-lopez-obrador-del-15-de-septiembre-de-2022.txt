@@ -1,0 +1,1721 @@
+<!DOCTYPE html>
+<html class='no-js' lang='es'>
+<head>
+    <title>
+  Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 15 de septiembre de 2022 | Presidencia de la República  | Gobierno | gob.mx
+</title>
+
+  <meta charset='UTF-8'>
+  <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#393C3E">
+
+  
+  <meta name="keywords" content="">
+  <meta name="description" content="Acto encabezado por el presidente Andrés Manuel López Obrador desde Palacio Nacional">
+  <meta name="author" content="Presidencia de la República ">
+
+  <meta content="Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 15 de septiembre de 2022" property="og:title" />
+  <meta content="https://www.gob.mxhttps://www.gob.mx/cms/uploads/article/main_image/124818/Conferencia_presidente_9.21.44_AM.jpeg" property="og:image" />
+  <meta content="gob.mx" property="og:site_name" />
+  <meta content="Acto encabezado por el presidente Andrés Manuel López Obrador desde Palacio Nacional" property="og:description" />
+  <meta content="http://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-15-de-septiembre-de-2022?idiom=es" property="og:url" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@gobmx" />
+  <meta name="twitter:title" content="Versión estenográfica. Conferencia de prensa del presidente Andrés..." />
+  <meta name="twitter:description" content="Acto encabezado por el presidente Andrés Manuel López Obrador desde Palacio Nacional" />
+  <meta name="twitter:image" content="https://www.gob.mxhttps://www.gob.mx/cms/uploads/article/main_image/124818/Conferencia_presidente_9.21.44_AM.jpeg" />
+
+
+  <meta content="authenticity_token" name="csrf-param" />
+<meta content="0j7wigHicubYXiRpViCqBP9w+G2GDL65d+HJ2l9eNSI=" name="csrf-token" />
+
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700,600,300' rel='stylesheet' type='text/css'>
+  <link href='https://framework-gb.cdn.gob.mx/applications/cms/favicon.png' rel='shortcut icon'>
+  <link data-turbolinks-track="true" href="/cms/assets/application.css" media="all" rel="stylesheet" />
+  <link data-turbolinks-track="true" href="https://framework-gb.cdn.gob.mx/gm/accesibilidad/css/gobmx-accesibilidad.min.css" media="all" rel="stylesheet" />
+  
+
+  <!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+  <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+
+ <![endif]-->
+  <script async src="https://www.googletagmanager.com/gtag/js?id="></script>
+  <script src="https://framework-gb.cdn.gob.mx/applications/cms/carrusel/swiper-bundle.min.js"></script>
+
+  <link rel="stylesheet" href="https://framework-gb.cdn.gob.mx/applications/cms/carrusel/swiper-bundle.min.css">
+
+    <script type="text/javascript">
+
+        var SubGroup = '';
+        if(false || false){
+            SubGroup = 'Temas';
+        }else{
+            SubGroup = 'presidencia';
+        }
+        var PageType = '';
+        if(false){
+            PageType = 'Home'
+        }else{
+            if(false){
+                PageType = '';
+            }else {
+                var site = window.location.pathname;
+                var arrayPageType = ["articulos", "prensa", "agenda", "documentos", "multimedia", "galerias", "videos",
+                    "acciones_y_programas", "acciones-y-programas", "mi-foto-con-el-presidente",
+                    "estructuras", "descargables", "que-hacemos", "finanzas", "infografias"];
+
+                if (site.search("archivo") != -1) {
+                    PageType = "archivo_";
+                }
+                for (var i = 0; i < arrayPageType.length; i++) {
+                    if (site.search(arrayPageType[i]) != -1) {
+                        PageType += arrayPageType[i];
+                        break;
+                    }
+                }
+            }
+        }
+
+
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', '');
+
+        gtag('require', 'linker');
+        gtag('linker:autoLink', ['www.gob.mx']);
+        gtag('set', 'contentGroup1', 'Gobierno');
+        gtag('set', 'contentGroup2', SubGroup);
+        gtag('set', 'contentGroup3', PageType);
+        gtag('set', 'dimension14', 'Gobierno');
+        gtag('set', 'dimension15', SubGroup);
+        gtag('set', 'dimension16', PageType);
+        gtag('set', 'dimension13', 'No Registrado');
+        gtag('send', 'pageview');
+        gtag('set', 'contentGroup1', null);
+        gtag('set', 'contentGroup2', null);
+        gtag('set', 'contentGroup3', null);
+        gtag('set', 'dimension14', null);
+        gtag('set', 'dimension15', null);
+        gtag('set', 'dimension16', null);
+        gtag('set', 'dimension13', null);
+
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-144356475-1', 'auto', {'allowLinker':true});
+        ga('require', 'linker');
+        ga('linker:autoLink', ['www.gob.mx']);
+        ga('set', 'contentGroup1', 'Gobierno');
+        ga('set', 'contentGroup2', SubGroup);
+        ga('set', 'contentGroup3', PageType);
+        ga('set', 'dimension14', 'Gobierno');
+        ga('set', 'dimension15', SubGroup);
+        ga('set', 'dimension16', PageType);
+        ga('set', 'dimension13', 'No Registrado');
+        ga('send', 'pageview');
+        ga('set', 'contentGroup1', null);
+        ga('set', 'contentGroup2', null);
+        ga('set', 'contentGroup3', null);
+        ga('set', 'dimension14', null);
+        ga('set', 'dimension15', null);
+        ga('set', 'dimension16', null);
+        ga('set', 'dimension13', null);
+    </script>
+
+
+  <script type = "text/javascript"> console.log(true);
+  var rails_env_prod = true; </script>
+  <script src="/cms/assets/application.js"></script>
+  <script src="/cms/assets/imageReplace.js"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.js"></script>
+
+                              <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("True"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="N3JQ2-2RVHB-WJQMN-CEYEM-ATMWX",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"N3JQ2-2RVHB-WJQMN-CEYEM-ATMWX",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="xxqo3jv567lbazxpklia-f-4f7bbe46d-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"37","ak.cp":"413578","ak.ai":parseInt("270161",10),"ak.ol":"0","ak.cr":13,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"20e00ce1","ak.r":49405,"ak.a2":e,"ak.m":"b","ak.n":"essl","ak.bpcip":"189.224.237.0","ak.cport":64924,"ak.gh":"189.247.214.15","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"reno","ak.t":"1726960336","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==ncq1P4dUOp2FjICOkxu+OMN4b1s1eFfL5S8wg1g3xPBbL3RIf4j3arwq7BzOGkqkV0BWJ7TEcDxaoX80+zA7gvuaCwfR8c8NUbHHH1zmt+VwKhKxwhTlayNjWbwDKKtZGVMGpXz2tyrwsu5HPWC/YaSwzLHamPRMgu1GXVE26cvAc58gK6oyvcFXg7igufJG6rMoFvfo+iBBfE/KWCZL+qCqB3FgyeEHxU06H5hajUDcYOT2lBgyR/pmUkKvUtvkMG090ilRoDYEkCYJH/mTsbK98WbYi/Bb3TSeHJPOLAQ3nzoqBonX3YLyMsWdbxL40+OKO1IULLi01WxLbIhT78bLL7L3q1c1kxhrYGp1PwfLdG0VEnFLQKMDHxr5Yjb+8apGg0jGn4rie53gguglMyTgp2hEzLrGcRUsyp2b70w=","ak.pv":"113","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+<body>
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v13.0" nonce="MZ2GPb2d"></script><!-- a href="#principal" class="skip">Saltar al contenido principal</a -->
+  <header class=" navbar navbar-inverse">
+    <nav class="navbar navbar-inverse  navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-target="#navbarMainCollapse" data-toggle="collapse">
+            <span class="sr-only">Interruptor de Navegación</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a href="/" style="padding: 1px 3px 3px 3px;" class="navbar-brand " title="Ir a la página inicial">
+
+            <div class="logo-main"></div>
+          </a>
+        </div>
+        <div id="navbarMainCollapse" class="collapse navbar-collapse">
+          <ul class="nav navbar-nav navbar-right">
+           <li><a href="/tramites" title="Trámites">Trámites </a></li>
+            <li><a href="/gobierno" title="Gobierno">Gobierno</a></li>
+                  <li><a href="/presidencia/en" title="Versión en inglés del sitio web">English</a>
+                  </li>
+                </li>
+
+
+            <li>
+              <form accept-charset="UTF-8" action="/busqueda" method="get"><div style="display:none"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+                <input type="hidden" name="site" value="presidencia">
+                <button data-v-6394873e="" id="botonbuscar" type="button" class="btn btn-search"><a data-v-6394873e="" href="https://www.gob.mx/busqueda?utf8=✓" target="_blank" id="botbusca"><img data-v-6394873e="" alt="Buscar" src="https://framework-gb.cdn.gob.mx/landing/img/lupa.png"></a></button>
+</form>            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    
+
+
+        <script src="/cms/assets/level_jump.js"></script><section>
+<!-- Subnavegacion -->
+<nav class=" navbar-inverse sub-navbar fixed-top"
+     >
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#subenlaces">
+        <span class="sr-only">Interruptor de Navegación</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="link-name" href="?tab="></a>
+    </div>
+    <div class="collapse navbar-collapse" id="subenlaces">
+      <ul class="nav subnav navbar-nav navbar-right">
+              <li class="landing-btn">
+                    <a href='/presidencia/es/archivo/prensa'>
+                Comunicados            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='/presidencia/es/#5173'>
+                Directorio            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='https://transparencia.presidencia.gob.mx/presidencia/transparencia/politicas-de-tratamiento-de-datos-personales-de-la-oficina-de-la-presidencia-de-la-republica/'>
+                Protección de Datos Personales            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='https://www.gob.mx/presidencia/transparencia/'>
+                Transparencia            </a>
+            </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+<style>
+  .flag-banner {
+  top: 45px  !important;
+  }
+</style>
+<!-- div class="warning-nav" style="margin-top: 0px;">
+  <div class="container">
+    <div class="row clearfix">
+  <div class="col-xs-12 col-sm-12 col-md-12">Este contenido será modificado temporalmente en atención a las disposiciones legales y normativas en materia electoral, con motivo del inicio de periodo de campaña</div>
+  </div>
+  </div>
+</div -->
+</section>
+
+
+  </header>
+
+
+
+
+
+<main class="inner-page interior ficha">
+  <div class="container">
+  	<ol class="breadcrumb">
+  <li><a href="http://www.gob.mx"><span class="icon icon-home"></span><span class="sr-only">Inicio</span></a></li>
+  <li><a href="/presidencia">Presidencia de la República </a></li>
+  <li class="active">Blog</li>
+</ol>
+  	<div class="">
+      <div aria-hidden="true" class="hidden-xs font-changer internal print" tabindex="-1">
+  <button class="inc-font font-modifier">Aa+</button>
+  <button class="dec-font font-modifier">Aa-</button>
+</div>
+      <div class="marquee-padding">
+      <div class='post-list main-post-list'>
+<div class='marque-float-left'>
+<div class='right_arrow'></div>
+<div class='titulo-pub'>
+<small>Publicaciones Recientes</small>
+</div>
+</div>
+<div>
+<div class='container-marque'>
+<div id='headlines'>
+<div class='marquee'>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-19 13:44:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-19-de-septiembre-de-2024' title='Versió'>
+Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 19 de septiembre de 2024
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-18 12:36:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-18-de-septiembre-de-2024' title='Versió'>
+Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 18 de septiembre de 2024
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-17 13:51:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-entrega-de-estimulos-a-delegaciones-mexicanas-participantes-en-juegos-olimpicos-y-paralimpicos-paris-2024' title='Versió'>
+Versión estenográfica. Entrega de estímulos a delegaciones mexicanas participantes en Juegos Olímpicos y Paralímpicos París 2024
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-17 12:21:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-17-de-septiembre-de-2024' title='Versió'>
+Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 17 de septiembre de 2024
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-16 13:56:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-desfile-civico-militar' title='Versió'>
+Versión estenográfica. Desfile Cívico Militar
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+      </div>
+  	  <div class="col-md-7 col-xs-12 col-sm-12 pull-left" tabindex="0">
+  	  	<h1 class="bottom-buffer">Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 15 de septiembre de 2022</h1>
+  	  	<h2>Acto encabezado por el presidente Andrés Manuel López Obrador desde Palacio Nacional</h2>
+        <section class="">
+          <p>Presidencia de la República  | 15 de septiembre de 2022</p>
+        </section>
+  	  <div class="imagen-principal">
+  	      <img alt="Conferencia de prensa del presidente Andrés Manuel López Obrador" class="img-responsive img_curve" src="https://www.gob.mx/cms/uploads/article/main_image/124818/Conferencia_presidente_9.21.44_AM.jpeg" />
+  	      <span class="small">Conferencia de prensa del presidente Andrés Manuel López Obrador</span>
+      </div>
+      <div class="article-body"><p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Muy buenos d&iacute;as. &Aacute;nimo, &aacute;nimo.</p>
+
+<p>Pues vamos a informar el d&iacute;a de hoy, como lo hacemos los jueves, sobre la situaci&oacute;n de justicia en casos en donde no se permite de ninguna manera, por m&aacute;s dif&iacute;ciles y complicados que se presenten, que haya impunidad. Se est&aacute; cumpliendo con el compromiso de&nbsp;cero impunidad. Es&nbsp;cero corrupci&oacute;n, cero impunidad. Entonces, nos va a informar Ricardo Mej&iacute;a.</p>
+
+<p>Y tambi&eacute;n, hoy 15 de septiembre vamos a dar a conocer lo que se ha hecho para liberar a presos inocentes o presos que no han sido sentenciados, o que no han tenido defensa por su situaci&oacute;n de pobreza, presos ind&iacute;genas, por delitos verdaderamente menores, que se les abandon&oacute; o sus familiares no han tenido la posibilidad de hacer los tr&aacute;mites, o no tienen apoyos de abogados de las defensor&iacute;as de oficio, o enfermos, ancianos. Entonces, el d&iacute;a de hoy vamos a informar.</p>
+
+<p>Y hemos trabajado de manera conjunta, aun cuando son dos poderes aut&oacute;nomos, independientes, con el Poder Judicial. Por eso,&nbsp;est&aacute; aqu&iacute; con nosotros el maestro Carlos Antonio Alp&iacute;zar Salazar, que es secretario general de la Presidencia del Consejo de la Judicatura Federal, que tambi&eacute;n est&aacute; trabajando ayud&aacute;ndonos en este prop&oacute;sito con la licenciada Rosa Icela Rodr&iacute;guez, que es la secretaria de Seguridad y Protecci&oacute;n Ciudadana.</p>
+
+<p>Ya saben ustedes, se tienen que enfrentar muchos obst&aacute;culos, son muchos los tr&aacute;mites, hay resistencias, pero se va avanzando y existe la voluntad de liberar a todos los que no deben de estar en las c&aacute;rceles, existe esa inquebrantable voluntad de parte del Ejecutivo.</p>
+
+<p>Entonces, vamos a empezar con Ricardo Mej&iacute;a, si les parece.</p>
+
+<p>Tambi&eacute;n, todav&iacute;a, antes de darle la palabra a Ricardo, todav&iacute;a se puede, es hasta la noche, tengo informaci&oacute;n que nos est&aacute; ayudando mucho la gente, son 500 pesos el cachito y los premios pues es en dinero y tambi&eacute;n los lotes, y el beneficio es para una obra p&uacute;blica importante, todo se va a destinar a seguir financiando la presa de&nbsp;&lsquo;Santa Mar&iacute;a&rsquo;,&nbsp;en&nbsp;Sinaloa, donde est&aacute;n los terrenos,&nbsp;ah&iacute; mismo se queda el dinero, no se va a otro estado, porque esa es la pol&iacute;tica que hemos definido,&nbsp;y tampoco se queda en Hacienda, en la bolsa general, sino de la Loter&iacute;a al proyecto, directo.</p>
+
+<p>Miren, ven ac&aacute;, ven, t&oacute;mate una foto aqu&iacute; conmigo.</p>
+
+<p>Adelante.</p>
+
+<p>RICARDO MEJ&Iacute;A BERDEJA, SUBSECRETARIO DE SEGURIDAD P&Uacute;BLICA DE LA SECRETAR&Iacute;A DE SEGURIDAD Y PROTECCI&Oacute;N CIUDADANA&nbsp;(SSPC):&nbsp;Muy buen d&iacute;a.</p>
+
+<p>Con&nbsp;su permiso, se&ntilde;or presidente, se&ntilde;ora secretaria.</p>
+
+<p>Vamos a dar cuenta del informe Cero Impunidad, que es un esfuerzo del Gobierno de M&eacute;xico a trav&eacute;s de la Secretar&iacute;a de la Defensa Nacional, la Secretar&iacute;a de la Marina, la Secretar&iacute;a de Seguridad y Protecci&oacute;n Ciudadana, la Guardia Nacional, el Centro Nacional de Inteligencia, en coordinaci&oacute;n con las secretar&iacute;as de seguridad de los estados, las fiscal&iacute;as locales y la Fiscal&iacute;a General de la Rep&uacute;blica.&nbsp;</p>
+
+<p>Durante el periodo que se informa, es decir, del 8 de septiembre&nbsp;al 14 de septiembre, se detuvieron un total de ocho mil 286 personas por diversos delitos del fuero com&uacute;n y federal, y de este total, una vez analizadas las detenciones,&nbsp;fueron presentadas ante el Ministerio P&uacute;blico ocho mil 22 personas.</p>
+
+<p>Siguiente.&nbsp;Informar que durante este periodo hubo cuatro personas extraditadas a los Estados Unidos a partir de diferentes pedimentos que hubo ante la canciller&iacute;a y una vez que fueron procesadas por la Fiscal&iacute;a General de la Rep&uacute;blica y la Judicatura Federal.</p>
+
+<p>El 11 de septiembre la Fiscal&iacute;a General de la Rep&uacute;blica inform&oacute; que se entreg&oacute; en extradici&oacute;n al gobierno de Estados Unidos a Juan &lsquo;S&rsquo;, &lsquo;el Sillas&rsquo; y/o &lsquo;el Ruedas&rsquo;, de nacionalidad mexicana, requerido por una&nbsp;Corte&nbsp;de&nbsp;Distrito&nbsp;en Dakota del Norte, por la probable responsabilidad en delitos de asociaci&oacute;n delictuosa y contra la salud. Este individuo durante los a&ntilde;os de 2004 a 2011 fue integrante del c&aacute;rtel de los Arellano F&eacute;lix o el c&aacute;rtel de Tijuana, dedicado al tr&aacute;fico de drogas.</p>
+
+<p>Siguiente. Tambi&eacute;n, en otros procesos de extradici&oacute;n realizados, la Fiscal&iacute;a inform&oacute; que fueron entregados en extradici&oacute;n tres masculinos a distintas cortes por su responsabilidad en diferentes delitos:</p>
+
+<p>Francisco &lsquo;M&rsquo;, requerido por la Corte Superior del estado de California, por delitos de homicidio, portaci&oacute;n de arma de fuego, tentativa de secuestro, secuestro y asociaci&oacute;n delictuosa.</p>
+
+<p>Rafael &lsquo;G&#39;, requerido por una&nbsp;Corte&nbsp;de&nbsp;Distrito del condado Luzerne, en Pensilvania, por delitos de homicidio, lesiones graves y amenazas, entre otros.</p>
+
+<p>Y &Aacute;ngel &lsquo;B&rsquo;, requerido por la&nbsp;Corte&nbsp;de Arizona&nbsp;por el delito de abuso sexual.</p>
+
+<p>Siguiente. Informar tambi&eacute;n que, con relaci&oacute;n al delito de robo de hidrocarburos conocido como huachicol, fue detenido un presunto operador del grupo criminal Sangre Nueva Zeta. Esto fue a partir de una investigaci&oacute;n de la Fiscal&iacute;a General de la Rep&uacute;blica con la Fiscal&iacute;a Especializada en Materia de Delincuencia Organizada, con lo que se logr&oacute; vincular a Ricardo &lsquo;T&rsquo;, alias &lsquo;el Poblano&rsquo;, tras cumplimentar una orden de aprehensi&oacute;n en su contra en el delito de delincuencia organizada, con la finalidad de cometer delitos en materia de hidrocarburos. Fue una operaci&oacute;n de Guardia Nacional y Sedena, y fue en San Blas Otzacatipan, en Toluca, en el Estado de M&eacute;xico. Ya est&aacute; vinculado a proceso.</p>
+
+<p>Siguiente. Tambi&eacute;n, y como lo hemos venido haciendo de manera recurrente,&nbsp;sobre el caso del linchamiento que hubo en agravio de Daniel &lsquo;N&rsquo;, en Huauchinango, Puebla, informar que se detuvo a otro sujeto por el delito de homicidio calificado. Ya fue vinculado a proceso. Se trata de Samuel &lsquo;N&rsquo;, y con esto&nbsp;―siguiente―&nbsp;van ya 10 personas detenidas y vinculadas a proceso por delito de homicidio en agravio de Daniel &lsquo;N&rsquo;, quien fue linchado en esa localidad.</p>
+
+<p>Siguiente. Tambi&eacute;n informar&nbsp;que&nbsp;en Sonora, a partir de investigaciones de la Unidad Antisecuestros, se logr&oacute; la detenci&oacute;n de Sa&uacute;l &lsquo;N&rsquo; y Gildardo &lsquo;N&rsquo;, al cumplimentarse &oacute;rdenes de aprehensi&oacute;npor el delito de secuestro agravado cometido en agravio del empresario de las taquer&iacute;as El Chino, en Hermosillo, el pasado 31 de agosto, lo cual fue una acci&oacute;n muy r&aacute;pida, muy contundente de esta instancia ministerial.</p>
+
+<p>Siguiente. Tambi&eacute;n informar&nbsp;que&nbsp;en San Carlos, en Sonora, tambi&eacute;n fueron detenidos diferentes sujetos vinculados a temas de homicidios, se trata de cinco personas que participaron en diferentes eventos, uno de ellos es el caso del bar La Bartina, donde se cometieron homicidios en contra de diferentes personas y ya fueron vinculados a proceso, dos de ellos, Leonardo &lsquo;N&rsquo; y Jon&aacute;s &lsquo;N&rsquo;, al&iacute;as &lsquo;el 306&rsquo; y &lsquo;el 336&rsquo;, participaron en ambos eventos y todos ya est&aacute;n vinculados a proceso penal.</p>
+
+<p>Tambi&eacute;n informar que en el caso de Eileyn Amairani, en Guaymas, tambi&eacute;n ya fue detenido Jos&eacute; Camilo &lsquo;N&rsquo;, por el delito de desaparici&oacute;n forzada y privaci&oacute;n ilegal de la libertad en agravio de Eileyn y su pareja Jes&uacute;s Alberto y otras personas, a quienes no solamente habr&iacute;an desaparecido en un primer momento, si no tambi&eacute;n privadas de la vida, ya est&aacute; vinculado a proceso penal.</p>
+
+<p>Tambi&eacute;n con relaci&oacute;n al homicidio del exalcalde de Yecapixtla, en Morelos, Refugio &lsquo;N&rsquo;, ya fue detenido Fernando Arturo &lsquo;N&rsquo;, al&iacute;as &lsquo;el Chapo&rsquo;, por el delito de homicidio calificado y homicidio calificado en grado de tentativa&nbsp;por los hechos donde perdi&oacute; la vida Refugio &lsquo;N&rsquo; y otras personas en el estado de Morelos.&nbsp;</p>
+
+<p>Ya fue detenido, ya fue vinculado a proceso penal y se contin&uacute;an con las investigaciones para detener a otros sujetos que podr&iacute;an haber sido copart&iacute;cipes.</p>
+
+<p>Siguiente.&nbsp;Tambi&eacute;n con en relaci&oacute;n al&nbsp;Grupo Antihomicidios&nbsp;de la Secretar&iacute;a de Seguridad y Protecci&oacute;n Ciudadana que ha impulsado la secretaria Rosa Icela Rodr&iacute;guez, informar que producto de las acciones que se llevan a cabo con la Fiscal&iacute;a General de Justicia del Estado de M&eacute;xico hubo diferentes detenciones por homicidio y feminicidio durante los d&iacute;as que se informan, del 9 al 13 de septiembre,&nbsp;en Metepec, en Chiautla, en Ixtapaluca, en Ecatepec y tambi&eacute;n, esto en colaboraci&oacute;n con autoridades de Puebla, de V&iacute;ctor Iturbide &lsquo;N&rsquo;, el pasado 13 de septiembre, se contin&uacute;a con las acciones de este&nbsp;Grupo Antihomicidios.&nbsp;</p>
+
+<p>Siguiente.&nbsp;Tambi&eacute;n informar que en el caso de persecuci&oacute;n criminal en el estado de Quintana Roo, a partir de la Fiscal&iacute;a General de Justicia del estado de&nbsp;Quintana Roo, que tambi&eacute;n colabora ah&iacute; una c&eacute;lula de la Coordinaci&oacute;n Nacional Antisecuestros, fueron detenidos diferentes homicidas en diferentes lugares, en Canc&uacute;n,&nbsp;y tambi&eacute;n en el municipio de Solidaridad, Playa del Carmen. Hay ya algunos vinculados a proceso penal, estamos hablando de cuatro detenidos en estos hechos ―siguiente― y otros tres m&aacute;s en diferentes hechos que se realizaron en Canc&uacute;n, Quintana Roo.</p>
+
+<p>Siguiente. Como nos lo instruy&oacute; el presidente de la Rep&uacute;blica para analizar diferentes casos de despojos&nbsp;de inmuebles, de propiedades donde hay la colusi&oacute;n de notarios, servidores p&uacute;blicos y grupos criminales, vamos a ir exponiendo algunos&nbsp;casos en algunos estados de la Rep&uacute;blica.</p>
+
+<p>Este caso es del estado de Oaxaca, es el delito de&hellip;&nbsp;―la anterior, por favor― El&nbsp;modus operandi&nbsp;de los sujetos&nbsp;grosso modo&nbsp;es el siguiente, ubican una propiedad que le resulta atractiva por la plusval&iacute;a, por la ubicaci&oacute;n o por presumiblemente incluso no tener un propietario visible, se investigan en los registros p&uacute;blicos,&nbsp;en catastro&nbsp;e incluso en el Registro Civil y a partir de la colusi&oacute;n tambi&eacute;n con notarios simulan actos jur&iacute;dicos para ir despojando a los leg&iacute;timos propietarios de estos inmuebles.</p>
+
+<p>Una vez que proceden a hacer este cambio, esta simulaci&oacute;n, hacen inscripciones precautorias en el Registro P&uacute;blico de la Propiedad, en el catastro,&nbsp;y modifican las escrituras. En muchas de estas operaciones intervienen grupos criminales, gestores o supuestos l&iacute;deres que intervienen para, en colusi&oacute;n con servidores p&uacute;blicos y notarios, alterar las escrituras y las inscripciones registrales.</p>
+
+<p>Tambi&eacute;n esto va acompa&ntilde;ado de diversos delitos, en ocasiones violencia f&iacute;sica donde se apoderan del inmueble, extorsi&oacute;n, amenazas, da&ntilde;os, privaci&oacute;n de la libertad, e incluso en los casos m&aacute;s extremos privaci&oacute;n de la vida, es decir, homicidio.</p>
+
+<p>Una vez que hacen todas las alteraciones, inscriben las nuevas escrituras y obtienen recursos a trav&eacute;s de la venta de inmuebles.</p>
+
+<p>Siguiente. En el caso de Oaxaca hay un total de mil 467 carpetas de investigaci&oacute;n que se iniciaron en el periodo de marzo de 2021 a julio de 2022.</p>
+
+<p>De ellas, un 14.5 por ciento de las carpetas iniciadas, es decir, 213 de las carpetas de despojo est&aacute;n relacionadas con la falsificaci&oacute;n de instrumentos notariales.</p>
+
+<p>Siguiente. Incluso, algunos homicidios, como el de Ivonne &lsquo;N&rsquo;, en Ocotl&aacute;n, el de Enrique &lsquo;N&rsquo;, quien fuera magistrado del Tribunal de Justicia Administrativa del estado de Oaxaca, y de Carlos Eduardo, en el municipio de Juchit&aacute;n, vinculado a una organizaci&oacute;n social, y de todos ellos ya hay detenidos, autores materiales e intelectuales en estos eventos, y por estos hechos servidores p&uacute;blicos y al menos seis notarios se encuentran vinculados a actos de despojo en el estado de Oaxaca.</p>
+
+<p>Siguiente. Tambi&eacute;n en Tehuantepec hay ya carpetas de investigaci&oacute;n contra diferentes personas de organizaciones, entre comillas, sociales, que se apoderan de inmuebles, hacen invasiones y amenazan o despojan a propietarios, incluso a veces de bienes tambi&eacute;n p&uacute;blicos, bienes de car&aacute;cter federal.</p>
+
+<p>Por ejemplo, en el caso de Sergio &lsquo;N&rsquo; y Anastasio &lsquo;N&rsquo;, est&aacute;n acusados del delito de privaci&oacute;n ilegal de la libertad.</p>
+
+<p>El pasado 28 de junio un grupo de 50 personas, encabezados por Sergio &lsquo;N&rsquo;, portando machetes, se presentaron a un inmueble del&nbsp;Issste, donde trabajadores de la empresa Desarrollo de Tecnolog&iacute;a y Servicios Integrales se encontraban realizando trabajos de remodelaci&oacute;n y donde el supervisor de la obra fue privado de la libertad y llevado a la casa ejidal en donde lo obligaron a firmar un acta, y lo mantuvieron en contra de su libertad retenido.</p>
+
+<p>Siguiente. Estos son otros casos en Tehuantepec, tambi&eacute;n diferentes carpetas de investigaci&oacute;n, y hay diferentes imputados que tienen que ver con el delito de despojo en&nbsp;Tagolaba, Tehuantepec, Oaxaca.</p>
+
+<p>As&iacute; cada semana vamos a estar refiriendo algunos casos, algunos por el sigilo de las investigaciones y para no alertar se mantienen en secrec&iacute;a, pero s&iacute; ir exponiendo los&nbsp;modus operandi.&nbsp;</p>
+
+<p>En el caso de San Jos&eacute; de Gracia, en Michoac&aacute;n, donde fueron presumiblemente asesinadas varias personas en un velorio en febrero del presente a&ntilde;o, se sigue el despliegue de la Secretar&iacute;a de la Defensa Nacional y de la Guardia Nacional, y se siguen deteniendo personas vinculados a los grupos criminales de la zona, entre ellos, a dos autores materiales de los hechos de homicidio.</p>
+
+<p>Siguiente. En estos d&iacute;as, del 6 al 12 de septiembre, en&nbsp;Mazamitla&nbsp;y en Marcos Castellanos, es el municipio de San Jos&eacute; de Gracia, fueron detenidos 13 generadores de violencia con armas largas, cortas, chalecos t&aacute;cticos y droga, entre otros objetos criminales.</p>
+
+<p>Siguiente. Aqu&iacute; est&aacute; el aseguramiento ―siguiente―, y esto nos da un total de 53 generadores de violencia detenidos desde que se hizo el despliegue por parte de la Secretar&iacute;a de la Defensa Nacional en abril del presente a&ntilde;o.</p>
+
+<p>Siguiente. Tambi&eacute;n informar que en diferentes operaciones de la Secretar&iacute;a de la Defensa Nacional hay 46 detenidos en diferentes municipios:</p>
+
+<p>En Ahome, Sinaloa, dos personas.</p>
+
+<p>En Tijuana una persona detenida con casi 83 mil d&oacute;lares sin acreditar su legal propiedad.</p>
+
+<p>En Ixtl&aacute;n del R&iacute;o, Nayarit, dos personas con armas largas.</p>
+
+<p>Siguiente. En San Luis de la Paz y en Celaya, Guanajuato, cuatro personas detenidas con armas largas, con armas cortas.</p>
+
+<p>En Acapulco, Guerrero, dos personas detenidas con tres armas largas y dos armas cortas.</p>
+
+<p>Igual en Mexicali tambi&eacute;n otro sujeto con dinero.</p>
+
+<p>Siguiente. En Tijuana, Baja California, dos personas detenidas con 369 kilos de coca&iacute;na.</p>
+
+<p>En Caborca, Sonora, cinco personas detenidas con cinco armas largas.</p>
+
+<p>En Zamora, Michoac&aacute;n, tres personas detenidas con tres armas largas.</p>
+
+<p>Siguiente. En Ciudad Ju&aacute;rez, una persona detenida con casi 200 mil d&oacute;lares americanos sin acreditar su legal propiedad.</p>
+
+<p>En Tapachula, Chiapas, tres personas detenidas tambi&eacute;n con d&oacute;lares americanos.</p>
+
+<p>En&nbsp;Teocuitatl&aacute;n&nbsp;de Corona, en Jalisco, cuatro personas detenidas con dos armas largas y dos cortas.</p>
+
+<p>Siguiente. Tambi&eacute;n en Coacalco, Estado de M&eacute;xico, tres personas detenidas.</p>
+
+<p>En&nbsp;Tanganc&iacute;cuaro, en Michoac&aacute;n, y en Empalme, Sonora, otras personas detenidas con armas largas, lo que nos da un total de 46 personas.</p>
+
+<p>En&nbsp;Y&eacute;cora, Sonora; en Comonfort, Guanajuato, y tambi&eacute;n en Cananea, Sonora.</p>
+
+<p>Siguiente. Otras m&aacute;s en Metepec, Estado de M&eacute;xico; y en Irapuato, Guanajuato, cinco personas agresoras con tres armas largas y un arma corta.</p>
+
+<p>Siguiente. Informar que de parte de la Secretar&iacute;a de la Marina hubo una nueva operaci&oacute;n que gener&oacute; el aseguramiento de dos mil 35 kil&oacute;gramos de coca&iacute;na, lo que representa una afectaci&oacute;n econ&oacute;mica a la delincuencia organizada por 570 millones de pesos.</p>
+
+<p>Aqu&iacute; lo relevante es que ya en lo que va del presente a&ntilde;o se han asegurado 48 embarcaciones, se ha asegurado 20 toneladas, 20.6 toneladas de coca&iacute;na, es decir, 20 mil 628 kil&oacute;gramos, que representa una afectaci&oacute;n econ&oacute;mica a la delincuencia por m&aacute;s de cinco mil millones de pesos.</p>
+
+<p>Siguiente. Tambi&eacute;n en otra operaci&oacute;n realizada por la Secretar&iacute;a de la Marina, en coordinaci&oacute;n con la fiscal&iacute;a estatal y la polic&iacute;a municipal, durante un cateo en un domicilio de Guaymas se aseguraron 23 armas largas, tres armas cortas, un tubo lanzagranadas, chalecos t&aacute;cticos,&nbsp;tripi&eacute;&nbsp;para arma larga, entre otros instrumentos utilizado por la delincuencia en un domicilio de Guaymas, Sonora.</p>
+
+<p>Siguiente. Informar que la Coordinaci&oacute;n Nacional Antisecuestros, la Secretar&iacute;a de la Marina, en coordinaci&oacute;n con la Fiscal&iacute;a de Nuevo Le&oacute;n, lograron la detenci&oacute;n de Fernando &lsquo;N&rsquo;, al&iacute;as &lsquo;el C&aacute;ncer&rsquo;, en la ciudad de Mazatl&aacute;n, Sinaloa, tras cumplimentar una orden de aprehensi&oacute;n por secuestro agravado.</p>
+
+<p>Este sujeto es uno de los objetivos prioritarios de la mesa estatal de seguridad de Nuevo Le&oacute;n, hay un grupo permanente tambi&eacute;n en Nuevo Le&oacute;n de la Coordinaci&oacute;n Antisecuestros que est&aacute; colaborando con la fiscal&iacute;a en la detenci&oacute;n de objetivos prioritarios, y ya se puso a disposici&oacute;n de las autoridades ministeriales a Samuel &lsquo;N&rsquo;, al&iacute;as &lsquo;el C&aacute;ncer&rsquo;, por estos hechos.</p>
+
+<p>Siguiente. Tambi&eacute;n, en cuanto a vinculaciones relevantes, Jos&eacute; &lsquo;G&#39;, al&iacute;as &lsquo;el Fumador&rsquo; y/o &lsquo;Cej&oacute;n&rsquo;, de la organizaci&oacute;n de Los Mezcales, perteneciente a Jos&eacute; Bernab&eacute;, al&iacute;as &lsquo;la Vaca&rsquo;, ya fue vinculado a proceso penal, &eacute;l hab&iacute;a sido detenido en Aguascalientes, Aguascalientes, con armas y drogas, entre otros objetos.</p>
+
+<p>Siguiente. Informar que la Fiscal&iacute;a de Michoac&aacute;n, ante el Tribunal Superior de Justicia de la entidad, obtuvo fallo condenatorio en contra de Jos&eacute; Luis &lsquo;N&rsquo;, por su responsabilidad en el secuestro agravado&nbsp;y homicidio de la activista&nbsp;Yunu&eacute;n&nbsp;&lsquo;L&rsquo;, ocurrido en Morelia. En los pr&oacute;ximos d&iacute;as se va a llevar la audiencia para individualizar la pena, pero ya fue condenada por este delito.</p>
+
+<p>Siguiente. Tambi&eacute;n informar que la Fiscal&iacute;a de Sonora logr&oacute; obtener una sentencia condenatoria por 60 a&ntilde;os de prisi&oacute;n en contra de Mart&iacute;n Esteban &lsquo;N&rsquo;, alias &lsquo;el&nbsp;Berru&rsquo;, por el homicidio de un menor de cinco a&ntilde;os, hecho ocurrido el pasado 28 de agosto de 2022. Fue declarado culpable tras aceptar su culpabilidad por los hechos, de tal suerte que se pudo agilizar el proceso penal y se&nbsp;le&nbsp;sentenci&oacute; ya a 60 a&ntilde;os de prisi&oacute;n por este incalificable delito.</p>
+
+<p>Siguiente. Tambi&eacute;n sentencias obtenidas por la Fiscal&iacute;a de la Ciudad de M&eacute;xico ante el Tribunal de la Ciudad de M&eacute;xico, diferentes:</p>
+
+<p>Una de ellas por 44 a&ntilde;os en contra de Santiago &lsquo;N&rsquo; por la violaci&oacute;n a dos menores.</p>
+
+<p>Otra por secuestro agravado por 140 a&ntilde;os en contra de tres sujetos: Eduardo, Ignacio y Jacobo &lsquo;N&rsquo;.</p>
+
+<p>Otra m&aacute;s por secuestro expr&eacute;s de 50 a&ntilde;os tambi&eacute;n en contra de tres personas.</p>
+
+<p>Y otra m&aacute;s por 50 a&ntilde;os tambi&eacute;n en contra de cuatro personas, entre ellas, dos femeninas por el delito de secuestro expr&eacute;s.</p>
+
+<p>Siguiente. Como cada semana se informa que fueron detenidos 16 presuntos autores de feminicidio,&nbsp;algunos ya se inform&oacute;&nbsp;durante este informe, tres de ellos sentenciados en eventos en Sonora, Estado de M&eacute;xico, Quer&eacute;taro, Oaxaca, Puebla ―siguiente―, Jalisco, Michoac&aacute;n y Veracruz.</p>
+
+<p>Siguiente. Con relaci&oacute;n a los casos de los homicidios de los periodistas, se siguen integrando las investigaciones complementarias, hay avances, pero no se pueden todav&iacute;a judicializar, de tal suerte que, por la secrec&iacute;a de la investigaci&oacute;n, en esta ocasi&oacute;n no informaremos de avances.</p>
+
+<p>Tambi&eacute;n quiero se&ntilde;alar con relaci&oacute;n al fallo de un juez de control en el estado de Tamaulipas, en el caso de Matamoros, en contra de Jos&eacute; Luis Abarca, donde gener&oacute; la absoluci&oacute;n por el delito de secuestro agravado en contra de Jos&eacute; Luis Abarca por el tema de&nbsp;Ayotzinapa, de la desaparici&oacute;n forzada de los 43 estudiantes normalistas, hechos cometidos en septiembre de 2014, informar que el juez de procesos penales del estado de Tamaulipas, en Matamoros, decreto la absoluci&oacute;n en primera instancia de Jos&eacute; Luis Abarca y 19 personas m&aacute;s.</p>
+
+<p>Esto se va a impugnar por parte del Ministerio P&uacute;blico Federal, de tal suerte que Jos&eacute; Luis Abarca y estos 19 copart&iacute;cipes no saldr&aacute;n de prisi&oacute;n, esto lo subrayamos porque se difundi&oacute; profusamente ayer en medios dando a entender que recuperar&iacute;a su libertad.&nbsp;</p>
+
+<p>Tambi&eacute;n informar que se va a proceder a imponer una queja, interponer una queja ante el Consejo de la Judicatura en contra de este juez de procesos federales, que vale la pena subrayar, que con esta sentencia absolutoria en primera instancia de Jos&eacute; Luis Abarca y 19 personas acumula un total de 98 exoneraciones en primera instancia en contra de diferentes individuos que participaron en estos hechos.</p>
+
+<p>Se sigue impugnando legalmente, no va a haber impunidad, pero s&iacute; es importante tambi&eacute;n se&ntilde;alar que se va a proceder en t&eacute;rminos de la ley ante el Consejo de la Judicatura en contra de este juez de procesos penales.&nbsp;</p>
+
+<p>Informar tambi&eacute;n, con relaci&oacute;n al caso&nbsp;Ayotzinapa&nbsp;y con relaci&oacute;n al informe que present&oacute; en d&iacute;as pasados la Comisi&oacute;n Presidencial para la Atenci&oacute;n del Caso&nbsp;Ayotzinapa, que preside el subsecretario Alejandro Encinas, que al momento se han liberado cuatro &oacute;rdenes de aprehensi&oacute;n, se han dictado cuatro &oacute;rdenes de aprehensi&oacute;n contra elementos del Ej&eacute;rcito Mexicano, al momento se han ejecutado&nbsp;ya tres de ellas, hay tres detenidos, entre ellos, el comandante del 27 Batall&oacute;n de Infanter&iacute;a cuando se suscitaron los hechos en Iguala en septiembre de 2014, ya tres detenidos, hay cuatro &oacute;rdenes de aprehensi&oacute;n y se seguir&aacute; informando al respecto.</p>
+
+<p>Ser&iacute;a cuanto, presidente.</p>
+
+<p>ROSA ICELA RODR&Iacute;GUEZ VEL&Aacute;ZQUEZ, SECRETARIA DE SEGURIDAD Y PROTECCI&Oacute;N CIUDADANA:&nbsp;Muy buenos d&iacute;as tengan todas y todos.</p>
+
+<p>Con su permiso, se&ntilde;or presidente.&nbsp;</p>
+
+<p>Hoy 15 de septiembre, aniversario del Grito de Independencia y Libertad, me permito informar al pueblo de M&eacute;xico que quedaron en libertad al d&iacute;a de hoy dos mil 685 personas que permanec&iacute;an encarceladas en centros penitenciarios.</p>
+
+<p>Por instrucci&oacute;n presidencial, la Secretar&iacute;a de Seguridad y Protecci&oacute;n Ciudadana y la Secretar&iacute;a de Gobernaci&oacute;n nos dimos a la tarea de gestionar las libertades anticipadas, amnist&iacute;as de ind&iacute;genas,&nbsp;mujeres, adultos mayores, personas con enfermedades terminales, personas con discapacidad y v&iacute;ctima de tortura.</p>
+
+<p>Es, como usted lo ha dicho, se&ntilde;or presidente, un acto de justicia para quienes no han cometido delitos graves o relacionados con violencia, gente humilde que no pudo pagar un abogado, tener un traductor o ha enfrentado todo tipo de adversidades.</p>
+
+<p>De este total de dos mil 549 personas que se encontraban recluidos en centros penitenciarios de algunas de las 32 entidades del pa&iacute;s han sido preliberadas: 123 mujeres, 120 adultos mayores, 208 con enfermedades cr&oacute;nico degenerativas, 51 ind&iacute;genas, 15 extranjeros y dos mil 32 personas que cumplieron con los requisitos de ley para libertades anticipadas.</p>
+
+<p>Con decisiones, como las tomadas por usted, se&ntilde;or presidente, personas que vivieron discriminaci&oacute;n, enfrentaron la pobreza en sus comunidades y no tuvieron oportunidades de desarrollo o no contaron con una defensa adecuada, pueden ser hoy part&iacute;cipes de un acto de justicia del gobierno.</p>
+
+<p>S&oacute;lo por mencionar un ejemplo, me referir&eacute; al caso de un hombre de 38 a&ntilde;os de edad, perteneciente a la comunidad ind&iacute;gena&nbsp;rar&aacute;muri, que desde ni&ntilde;o enfrent&oacute; discriminaci&oacute;n por el uso de su lengua materna, y se dedicaba a la tala de &aacute;rboles y a la pizca de manzana en Chihuahua.</p>
+
+<p>Su familia viv&iacute;a en la pobreza, por lo que nunca, nunca recibi&oacute; una visita, una carta o un apoyo econ&oacute;mico durante su estancia en reclusi&oacute;n, es&nbsp;primodelicuente&nbsp;y enfrentaba una condena de 12 a&ntilde;os de prisi&oacute;n, y dos a&ntilde;os antes, ahora, antes de cumplir su condena, obtuvo su libertad tambi&eacute;n por buena conducta.</p>
+
+<p>Tambi&eacute;n, a trav&eacute;s de la Ley de Amnist&iacute;a, que es otro proceso por separado que se lleva, ha sido posible otorgar la libertad a 136 personas, 66 de ellas en pobreza, 42 mujeres, 21 ind&iacute;genas, dos con discapacidad permanente, cuatro v&iacute;ctimas de intimidaci&oacute;n y una v&iacute;ctima de discriminaci&oacute;n.</p>
+
+<p>Nosotros decimos que, con acciones como esta, avanzamos en la construcci&oacute;n de una sociedad m&aacute;s humanitaria, igualitaria y justa, y como dec&iacute;a Martin Luther King: &lsquo;La paz no es simplemente la ausencia de tensi&oacute;n, en la presencia de justicia&rsquo;.</p>
+
+<p>Muchas gracias por su atenci&oacute;n y muchas gracias que nos permiten servirles y trabajar para ustedes.&nbsp;</p>
+
+<p>CARLOS ANTONIO ALP&Iacute;ZAR SALAZAR, SECRETARIO GENERAL DE LA PRESIDENCIA DEL CONSEJO DE LA JUDICATURA FEDERAL&nbsp;(CJF):&nbsp;Muy buenos d&iacute;as tengan todos ustedes.</p>
+
+<p>Me permito dar a conocer por parte del Poder Judicial Federal personas que han sido liberadas, que fueron privadas de su libertad en el transcurso del mes de junio de este a&ntilde;o al d&iacute;a de hoy del presente a&ntilde;o por parte del Poder Judicial Federal:</p>
+
+<p>Todas aquellas que han sido beneficiadas por&nbsp;preliberaci&oacute;n&nbsp;son 329 personas.</p>
+
+<p>Por acuerdos&nbsp;reparatorios, 40.</p>
+
+<p>Por suspensi&oacute;n condicional, 137.</p>
+
+<p>Por criterios de oportunidad, tres.</p>
+
+<p>Por medidas de cambio de medidas cautelares, 97.</p>
+
+<p>Las personas que fueron visitadas por el ministro presidente en Santa Martha Acatitla, cinco.</p>
+
+<p>Y otras que han sido liberadas por no ejercicio de acci&oacute;n penal sobreseimiento y detenci&oacute;n ilegal, en total da una suma de mil 198 personas liberadas, insisto, del mes de junio de este a&ntilde;o al d&iacute;a de hoy.</p>
+
+<p>Como ven, este es un claro ejemplo de que se est&aacute; trabajando de manera conjunta, coordinada e institucional entre el Poder Judicial y el Poder Ejecutivo respetando la plena autonom&iacute;a y la independencia de todos y cada uno de los jueces y magistrados, y en donde la labor de la defensor&iacute;a p&uacute;blica federal ha sido elemental y de gran importancia para lograr que se pueda llevar a cabo este gran compromiso entre ambos poderes y sea hoy una realidad.</p>
+
+<p>A lo largo de la administraci&oacute;n del presidente Arturo Zald&iacute;var, estamos haciendo un gran esfuerzo para que la justicia en nuestro pa&iacute;s no s&oacute;lo privilegie a quienes m&aacute;s tienen. Seguimos teniendo una justicia en donde las c&aacute;rceles est&aacute;n llenas de inocentes y cuyo &uacute;nico delito es la pobreza.</p>
+
+<p>Por ello, seguiremos trabajando de manera conjunta y coordinada con el secretario de Gobernaci&oacute;n, con la secretaria de Seguridad P&uacute;blica federal, para acercar la justicia a las personas m&aacute;s necesitadas y para los m&aacute;s pobres de nuestro pa&iacute;s.</p>
+
+<p>Dentro de la Mesa de Coordinaci&oacute;n que existe con la Secretar&iacute;a de Seguridad P&uacute;blica hay una lista que se ha puesto en la mesa, que son alrededor de dos mil 12 personas en las cuales se est&aacute; revisando caso por caso para ver la posibilidad de que puedan obtener su liberaci&oacute;n, como lo antes mencionado.</p>
+
+<p>Les agradezco mucho su atenci&oacute;n, y muchas gracias.</p>
+
+<p>Con su permiso, se&ntilde;or presidente.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Muy bien, vamos.</p>
+
+<p>Primera fila, los tres, tres, tres, a ver si llegamos, pero vamos a ir alternando con compa&ntilde;eras, mujeres y hombres.</p>
+
+<p>PREGUNTA:&nbsp;Buenos d&iacute;as, se&ntilde;or presidente, secretaria, secretarios.</p>
+
+<p>Carlos Montesinos, de&nbsp;Reporte &Iacute;ndigo.</p>
+
+<p>Primero, preguntarle respecto a esta iniciativa que se present&oacute; del Grupo Parlamentario de Morena para limitar las facultades de la Suprema Corte, para que no pueda anular leyes o interpretarlas.</p>
+
+<p>Usted en las semanas anteriores manifest&oacute; su punto de vista respecto a estas posturas que hab&iacute;a tenido la Corte en el tema del C&oacute;digo Penal Federal, pero tambi&eacute;n hab&iacute;a hablado de no hacer una reforma al respecto.</p>
+
+<p>&iquest;Si nos podr&iacute;a dar un posicionamiento, por favor?</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Mire, nosotros no estamos promoviendo ninguna iniciativa con ese prop&oacute;sito, seguramente lo est&aacute;n haciendo en el Poder Legislativo, porque tambi&eacute;n ese poder tiene la facultad de presentar iniciativas: diputados, senadores, pero en lo que corresponde al Poder Ejecutivo no se ha presentado ninguna iniciativa de reforma a la Constituci&oacute;n con ese prop&oacute;sito.</p>
+
+<p>Ya hemos explicado en otras ocasiones de c&oacute;mo consideramos debemos de mantener un aut&eacute;ntico Estado de derecho, que no exist&iacute;a, porque eso tambi&eacute;n suele olvidarse, era un Estado de chueco lo que hab&iacute;a, el poder de los poderes era el Ejecutivo.&nbsp;</p>
+
+<p>Ahora, tanto el Poder Legislativo, como es evidente, y el Poder Judicial act&uacute;an con independencia, con autonom&iacute;a, nosotros somos respetuosos de los otros dos poderes, y no se act&uacute;a por consigna, no se dan &oacute;rdenes, el presidente no es como antes o como actuaba el presidente en otros tiempos. En otros tiempos, aunque en la Constituci&oacute;n se establec&iacute;a la divisi&oacute;n y el equilibrio entre los poderes, lo cierto es que el Poder Legislativo y el Poder Judicial eran ap&eacute;ndices del Poder Ejecutivo, era el presidente el que mandaba, decid&iacute;a todo.&nbsp;</p>
+
+<p>Ahora la Fiscal&iacute;a es aut&oacute;noma y se respeta lo que decide. Desde luego el Poder Judicial, tenemos diferencias con el Poder Judicial, ahora mismo se est&aacute;n expresando por la actitud del juez que ha dejado en libertad a presuntos implicados en la desaparici&oacute;n de los j&oacute;venes de&nbsp;Ayotzinapa, un juez, de esas cosas tambi&eacute;n extra&ntilde;as, aunque sean legales, de Tamaulipas, y vamos a presentar, porque s&iacute; podemos hacerlo, pues una queja a la Judicatura del Poder Judicial.</p>
+
+<p>Eso lo hacemos, pero en este caso una iniciativa para restarle facultades al Poder Judicial no se est&aacute; promoviendo por el Ejecutivo, para que quede claro.</p>
+
+<p>INTERLOCUTOR:&nbsp;Entonces, &iquest;no cuenta con su respaldo, no cuenta con su respaldo en caso de que siga avanzando?</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Son&hellip;&nbsp;―&iquest;qu&eacute; pas&oacute;?― Son decisiones que toman los legisladores, nada m&aacute;s para aclarar eso, pero no es una iniciativa propuesta por el Ejecutivo.</p>
+
+<p>PREGUNTA:&nbsp;Pero &iquest;qu&eacute; opina usted?</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Pues pienso que no estamos en condiciones como para llevar a cabo ninguna reforma que tenga que ver con el Poder Judicial, me refiero a una reforma constitucional.</p>
+
+<p>La pol&iacute;tica es tiempo, o entre otras cosas, yo les he comentado que cuando tom&eacute; el cargo, cuando por mandato popular la gente decidi&oacute; que yo me desempe&ntilde;ara como presidente, entrando me plante&eacute; a sabiendas de que no andaban bien las cosas, desde luego en el Poder Ejecutivo, pero tambi&eacute;n en el Poder Legislativo y en el Poder Judicial.</p>
+
+<p>&iquest;Pruebas?</p>
+
+<p>En el Legislativo se hab&iacute;an establecido como mecanismos de control y de manipulaci&oacute;n los llamados&nbsp;moches, no estoy inventando nada, al grado que para reformar la Constituci&oacute;n sobornaban a diputados y a senadores.&nbsp;</p>
+
+<p>En el Poder Judicial, ya hemos hablado, problemas con jueces, con magistrados, con ministros, vinculados con actos de corrupci&oacute;n.</p>
+
+<p>Y en el Poder Ejecutivo, pues imag&iacute;nense que la seguridad p&uacute;blica estaba a cargo de la delincuencia, y estaba en alza la venta, la entrega, el remate, de los bienes del pueblo y de la naci&oacute;n a particulares allegados a los pol&iacute;ticos, o sea, una descomposici&oacute;n completa, la decadencia.</p>
+
+<p>Entonces, hab&iacute;a que optar entre inconvenientes y priorizar, es decir, qu&eacute; s&iacute;, qu&eacute; no o qu&eacute; s&iacute; vamos a poder, que cale hondo, que transforme.</p>
+
+<p>Entonces, con mucha claridad decidimos de que &iacute;bamos a enfocar toda nuestra atenci&oacute;n, todo nuestro esfuerzo, a desterrar la corrupci&oacute;n, o sea, as&iacute; como el tema principal de la agenda.</p>
+
+<p>Se acuerdan que en el periodo neoliberal hab&iacute;a una agenda de las llamadas &lsquo;reformas estructurales&rsquo; pues no exist&iacute;a el combate a la corrupci&oacute;n en esa agenda, y en la nuestra el principal tema es el combate a la corrupci&oacute;n.</p>
+
+<p>Hasta lo dec&iacute;a antes de entrar, que me preguntaron: &lsquo;D&iacute;game &iquest;cu&aacute;l es su plan, su programa, pero expr&eacute;selo r&aacute;pido, usted que ni siquiera habla de corrido, y d&iacute;galo en dos segundos en lo que dura parado en un solo pie?&rsquo;</p>
+
+<p>Dec&iacute;a yo: Acabar con la corrupci&oacute;n, ese es el plan.</p>
+
+<p>Entonces, a esos nos hemos dedicado a no permitir la impunidad.</p>
+
+<p>Y en el caso del Poder Judicial pues se pudo en su momento presentar una iniciativa de reforma y optamos por no hacerlo pensado que, si se propon&iacute;an como ministros mujeres, hombres rectos, &iacute;ntegros, incorruptibles, la reforma del Poder Judicial podr&iacute;a darse, que es adem&aacute;s lo mejor, desde adentro.</p>
+
+<p>Y s&iacute; se ha ido avanzando, pero falta, como falta tambi&eacute;n en el Poder Ejecutivo, en el Poder Legislativo, porque es un proceso, estaba muy arraigada la corrupci&oacute;n, el gobierno era un comit&eacute; al servicio de una minor&iacute;a rapaz, era el gobierno de la corrupci&oacute;n, el gobierno del saqueo, el gobierno del autoritarismo, el gobierno de la injusticia, eso es lo que prevaleci&oacute; durante 36 a&ntilde;os, el gobierno del saqueo.</p>
+
+<p>Por eso, se est&aacute;n llevando a cabo los cambios y hay, como es natural, hay oposici&oacute;n, pero yo celebro que los cambios se est&aacute;n dando a pesar de los cuestionamientos, ataques de la oposici&oacute;n, que no han superado, no han rebasado lo permitido, son insultos en el caso extremo, amenazas, pero no ha pasado a mayores.</p>
+
+<p>Hay quienes est&aacute;n muy enojados, pero se les va pasando y algunos se van convenciendo, s&oacute;lo los que son muy ambiciosos y no tienen&nbsp;llenadera, y que quisieran seguir manteniendo los privilegios, seguirse enriqueciendo, dominados por la avaricia y tambi&eacute;n por el poder, porque se sent&iacute;an superiores, se sent&iacute;an los due&ntilde;os de M&eacute;xico, y les molesta mucho que ahora los protagonistas principales de esta historia sean todos los mexicanos, y que los due&ntilde;os de M&eacute;xico sean los mexicanos, mujeres, hombres de todas las clases sociales, de todas las culturas, de todas las religiones, ricos o pobres, y que el gobierno est&eacute; al servicio de todos, no al servicio s&oacute;lo de una minor&iacute;a, porque tienen m&aacute;s dinero, porque tienen m&aacute;s t&iacute;tulos acad&eacute;micos, porque se sienten de sangre azul, porque se creen merecerlo todo.</p>
+
+<p>Hay una parte me dec&iacute;an en el documental de&hellip;</p>
+
+<p>INTERVENCI&Oacute;N:&nbsp;Florence&nbsp;Cassez.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:Florence, alguien que lo vio, porque yo no he tenido oportunidad de verlo, adem&aacute;s como dicen que horroriza, porque se ven muy desalmados los que act&uacute;an, que adem&aacute;s son actores reales, y queda la impresi&oacute;n de que est&aacute;bamos en manos de delincuentes, y eso no me da muchas ganas para verlo, pero alguien me dijo que hay dos o tres cosas&nbsp;&iquest;no? claves, pero me cont&oacute; de una escena que no s&eacute; si sea cierta en donde un polic&iacute;a le dice a la se&ntilde;ora francesa: &iquest;C&oacute;mo crees que yo a ti te iba a hacer da&ntilde;o si t&uacute; eres blanca como yo?&rsquo;</p>
+
+<p>INTERVENCI&Oacute;N:&nbsp;Margolis.&nbsp;</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Ah, s&iacute;.</p>
+
+<p>Imag&iacute;nense eso, racismo, pero por encima de cualquier otra cosa, es decir, si somos blancos c&oacute;mo te voy a considerar a ti delincuente o te voy a dar trato de delincuente.</p>
+
+<p>Entonces, eso hab&iacute;a, o sea, no lo estoy inventando, por eso, es el coraje, pero, bueno, se tiene que ir entendiendo de que eso estaba mal o est&aacute; mal, no hay que ser racista, no existen las razas, existen culturas, y nadie debe sentirse superior, hay que actuar con humildad, hasta el poder es humildad.</p>
+
+<p>&iquest;Qu&eacute; hace uno cuando va un templo?</p>
+
+<p>&iquest;Ah&iacute; se muestran las diferencias?</p>
+
+<p>No.</p>
+
+<p>&iquest;Por qu&eacute; nos hincamos?</p>
+
+<p>Para estar iguales, es un acto de humildad, hasta el Nigromante dec&iacute;a, que era liberal: &lsquo;Yo me hinco donde se hinca el pueblo&rsquo;, pero la descomposici&oacute;n no s&oacute;lo era en lo econ&oacute;mico o una crisis de bienestar o una crisis pol&iacute;tica, era una descomposici&oacute;n en todos los &oacute;rdenes de la vida p&uacute;blica, una decadencia.</p>
+
+<p>Entonces, se debe de entender, en vez de estar desatando odios y coraje, de que eso ni es humano ni es cristiano ni puede ayudar a tener una convivencia en armon&iacute;a y una sociedad mejor, y que no queremos heredar eso a las nuevas generaciones, a nuestros hijos, a nuestros nietos.</p>
+
+<p>Entonces, es un poco mi reflexi&oacute;n, que los legisladores resuelvan en libertad sobre esto.</p>
+
+<p>INTERLOCUTOR:&nbsp;S&iacute; y tambi&eacute;n sobre el tema legislativo, se&ntilde;or presidente, ayer ya se aprueba la primera etapa de esta ampliaci&oacute;n al despliegue de las Fuerzas Armadas hasta el 2028, creo.</p>
+
+<p>Primero, qued&oacute; fue una probaci&oacute;n bastante estrecha por solos tres votos de la mayor&iacute;a calificada.</p>
+
+<p>Primero, preguntarle, &iquest;su perspectiva ahora que pasa al Senado?</p>
+
+<p>Y segundo, &iquest;si ya con esta votaci&oacute;n espera contar con el apoyo del PRI en futuras iniciativas que pueden llegar, no s&eacute; la reforma electoral que todav&iacute;a est&aacute; en puerta?</p>
+
+<p>Sobre estos dos temas, por favor.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Yo estoy muy contento con la votaci&oacute;n de ayer en la C&aacute;mara de Diputados, porque tiene que ver con la racionalidad, es actuar pensando en la gente, como tenemos que actuar los servidores p&uacute;blicos, despojarnos de nuestros intereses personales por leg&iacute;timos que sean y pensar en el inter&eacute;s general.</p>
+
+<p>Ya lo hablamos.</p>
+
+<p>&iquest;Qu&eacute; fue lo que se aprob&oacute; ayer en la C&aacute;mara de Diputados?</p>
+
+<p>Que se ampl&iacute;a el plazo para que la Secretar&iacute;a de la Defensa y la Secretar&iacute;a de Marina nos sigan ayudando en las tareas de seguridad p&uacute;blica, porque lo necesitamos para garantizar la paz. Y de manera simplista se piensa que lo que se busca es militarizar, reprimir o establecer un r&eacute;gimen&nbsp;dictatorial, todo eso es falso, son invenciones, si de eso se tratara no har&iacute;a falta ni siquiera reformar la Constituci&oacute;n.</p>
+
+<p>&iquest;C&oacute;mo era antes?</p>
+
+<p>Cuando Felipe Calder&oacute;n declara la guerra, &iquest;estaba permitido en la Constituci&oacute;n que el Ej&eacute;rcito participara en labores de seguridad?</p>
+
+<p>No, dio la orden y ah&iacute; est&aacute;n los militares.</p>
+
+<p>Y era un civil el secretario de Seguridad P&uacute;blica, y miren los resultados, se asoci&oacute; con la delincuencia organizada, y se convirti&oacute; en un hombre poderos&iacute;simo, que ese es otro asunto tambi&eacute;n destacado del documental al que hicimos referencia, la declaraci&oacute;n de Sarkozy, expresidente de Francia, de que Garc&iacute;a Luna ten&iacute;a mucha influencia, mucho poder, dominaba, no s&eacute; si lo dice as&iacute; textualmente, pero s&iacute; era como el brazo derecho de Felipe Calder&oacute;n, y era un civil, un ingeniero.</p>
+
+<p>Entonces, no es ese el prop&oacute;sito, nosotros, a diferencia de otros gobiernos, nunca hemos dado la orden de torturar a nadie, de llevar a cabo una masacre, de utilizar al Ej&eacute;rcito para reprimir al pueblo en todo este tiempo que llev&oacute;, por qu&eacute; no se compara con la actuaci&oacute;n de otros gobiernos en violaci&oacute;n de derechos humanos, pero adem&aacute;s yo ya termino en dos a&ntilde;os, lo que estoy haciendo es que los que me van a sustituir, sea un hombre, sea una mujer, pues no lleguen sin elementos para enfrentar el problema de la inseguridad, de la violencia, que, como se arraig&oacute; mucho, nos est&aacute; llevando tiempo enfrentarlo.</p>
+
+<p>&iquest;Por qu&eacute; se arraig&oacute;?</p>
+
+<p>Bueno, porque no se atendieron las causas.</p>
+
+<p>&iquest;Qu&eacute; se hac&iacute;a con los j&oacute;venes?</p>
+
+<p>Un&nbsp;exrector&nbsp;de la UNAM los etiquet&oacute; como Ninis, que ni estudian, ni trabajan, nunca se hizo nada por los j&oacute;venes. No s&eacute; si ustedes se acuerdan de alg&uacute;n programa dirigido a j&oacute;venes, a garantizarles la posibilidad de estudiar, de trabajo, nada, nada.</p>
+
+<p>Entonces, se est&aacute; atendiendo a los j&oacute;venes, se les est&aacute; dando m&aacute;s apoyo a los pobres; el presupuesto se est&aacute; orientando de manera preferente a atender a los m&aacute;s necesitados.</p>
+
+<p>Todo esto ayuda mucho porque la paz es fruto de la justicia, no se puede enfrentar el mal con el mal, el mal hay que enfrentarlo haciendo el bien, esa es nuestra filosof&iacute;a, pero lleva tiempo.</p>
+
+<p>Entonces, ante el nivel de descomposici&oacute;n que exist&iacute;a pues se requiere formar, adem&aacute;s de la acci&oacute;n social, buenos polic&iacute;as, elementos, en este caso de la Guardia Nacional, profesionalizarlos, formarlos para el manejo limitado del uso de la fuerza, formarlos con respeto a los derechos humanos, todo eso lleva tiempo.</p>
+
+<p>&iquest;Qu&eacute; encontramos?</p>
+
+<p>Una&nbsp;Polic&iacute;a Federal&nbsp;podrida, construida por estos se&ntilde;ores delincuentes.</p>
+
+<p>Entonces, si se terminaba el plazo en marzo del 24, pues en marzo del 24 a finales de septiembre que termino, pues hubiese yo podido salir, pero qu&eacute; le dejo a los que me van a sustituir despu&eacute;s de la elecci&oacute;n presidencial.</p>
+
+<p>Estamos ahora en Hacienda reestructurando deuda del 2025, ya no voy a estar, pero no quiero que pase lo que sucedi&oacute; al t&eacute;rmino del gobierno de Salinas, que dicen los de Zedillo que Salinas le dej&oacute; la econom&iacute;a prendida de alfileres.</p>
+
+<p>Y para defenderse los salinistas dicen: &lsquo;S&iacute; te la dejamos prendida de alfileres, pero t&uacute; le quitaste los alfileres&rsquo;.</p>
+
+<p>Entonces, no es dejarlo con alfileres, no, una econom&iacute;a s&oacute;lida.</p>
+
+<p>&iquest;Por qu&eacute; la reestructura de deuda para el 25?</p>
+
+<p>Para que el que llegue no tenga que dedicar el presupuesto a pagar deuda.</p>
+
+<p>Bueno, es algo parecido en este caso.</p>
+
+<p>Por eso, celebro la actitud de los legisladores. Y ojal&aacute; y los senadores act&uacute;en de la misma manera, que hagan a un lado la politiquer&iacute;a, las bander&iacute;as partidistas, y pongan por delante el inter&eacute;s de la gente, el inter&eacute;s del pueblo, el que haya seguridad, el que haya paz.</p>
+
+<p>Adem&aacute;s, que no sean hip&oacute;critas, porque hay estados, 19 estados, donde al d&iacute;a de hoy hay m&aacute;s elementos de la Guardia Nacional, y de la Defensa, y de Marina, que polic&iacute;as municipales y estatales.</p>
+
+<p>Y me llama tambi&eacute;n mucho la atenci&oacute;n que los gobernadores no den su punto de vista de los que votan en contra.</p>
+
+<p>&iquest;C&oacute;mo es ese doble discurso?</p>
+
+<p>A ver, &lsquo;ay&uacute;dame con elementos de la Defensa, con elementos de Marina, ah, pero no quiero que sea legal&rsquo;.</p>
+
+<p>Yo espero que en el Senado se apruebe este cambio, que es ampliar el plazo, que se consolide la Guardia, que adem&aacute;s se analice que as&iacute; est&aacute; en otros pa&iacute;ses, as&iacute; est&aacute; en Francia, as&iacute; est&aacute; en Espa&ntilde;a, as&iacute; est&aacute; en Italia, pero desde hace d&eacute;cadas, la Guardia Civil espa&ntilde;ola yo creo que tiene como 150 a&ntilde;os y dependiendo de las fuerzas armadas, y en Am&eacute;rica y en todos lados; pero adem&aacute;s nuestro Ej&eacute;rcito es un ej&eacute;rcito surgido de un movimiento revolucionario, est&aacute; integrado por hijos de campesinos, de obreros, es pueblo uniformado.&nbsp;</p>
+
+<p>Ayer me dec&iacute;a una persona que, en el debate, un legislador opositor pregunta en la tribuna: &lsquo;Si ustedes enfrentaran un problema de tr&aacute;nsito, enfrentaran un accidente de tr&aacute;nsito, &iquest;les gustar&iacute;a que les fuese a auxiliar el Ej&eacute;rcito?&rsquo;</p>
+
+<p>Eso fue lo que &eacute;l plante&oacute;, f&iacute;jense en qu&eacute; realidad andan.</p>
+
+<p>&iquest;Qu&eacute; contest&oacute; la mayor&iacute;a de la gente, los legisladores?</p>
+
+<p>&lsquo;S&iacute;&rsquo;.</p>
+
+<p>Pero yo hago la pregunta al pueblo, y no s&oacute;lo porque conozco los sentimientos de la gente, porque a eso me dedico, a recoger los sentimientos de pueblo, sino ah&iacute; est&aacute;n los datos del&nbsp;Inegi.&nbsp;</p>
+
+<p>Ahora que la Comisi&oacute;n de Derechos Humanos no impugn&oacute; lo de la Guardia Nacional tambi&eacute;n se pusieron furiosos, y viendo la justificaci&oacute;n, que est&aacute; muy bien hecha de la Comisi&oacute;n de Derechos Humanos, se apoyan en una encuesta del&nbsp;Inegi, a ver si la pones.</p>
+
+<p>Confianza de la sociedad en instituciones y actores, es del 19 y del 21, porque creo que la hacen cada dos a&ntilde;os.</p>
+
+<p>No ha salido la&hellip;</p>
+
+<p>JES&Uacute;S RAM&Iacute;REZ CUEVAS:&nbsp;La publicaron en mayo de este a&ntilde;o.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;En mayo de este a&ntilde;o la del 21, confianza, primero, familiares, ah&iacute; no hay variaci&oacute;n, 86.8, 86.7.</p>
+
+<p>Escuela p&uacute;blica de nivel b&aacute;sico, cosa que celebro much&iacute;simo, porque no les ha funcionado su estrategia de estigmatizar la educaci&oacute;n p&uacute;blica, 79.</p>
+
+<p>Universidades p&uacute;blicas, 78.9 en tercer lugar.</p>
+
+<p>Cuarto, compa&ntilde;eros de trabajo, 73.1.</p>
+
+<p>Ej&eacute;rcito y Marina, 71 por ciento.</p>
+
+<p>Vecinos, 70 por ciento.</p>
+
+<p>Hospitales p&uacute;blicos, 68.5.</p>
+
+<p>Voy a hacer una anotaci&oacute;n al final, nada m&aacute;s me acuerdas.</p>
+
+<p>Bueno, empiezo, hago un par&eacute;ntesis, esto es a poblaci&oacute;n abierta, es decir, a todos los mexicanos, si esta encuesta se aplica por clases o estratos sociales el resultado es otro, pero esto es M&eacute;xico, somos todos, es el que apenas estudi&oacute; hasta el nivel b&aacute;sico y el doctor de nivel posgrado, es el ind&iacute;gena y el multimillonario, somos todos, por eso estos resultados, y muchos se sorprenden, pero es que aqu&iacute; est&aacute; la opini&oacute;n no solo de los que leen las columnas de los peri&oacute;dicos o las opiniones de los intelectuales org&aacute;nicos, es todo el pueblo.</p>
+
+<p>Organismos aut&oacute;nomos, 67.5.</p>
+
+<p>Guardia Nacional, 65.3.</p>
+
+<p>Instituciones religiosas, 61.5.</p>
+
+<p>Comisi&oacute;n de Derechos Humanos, 60.3.</p>
+
+<p>Organizaciones no gubernamentales, ONG, 59.4.</p>
+
+<p>Gobierno Federal, 54.1.</p>
+
+<p>Instituciones electorales, 53.1.</p>
+
+<p>Medios de comunicaci&oacute;n, 51.5.</p>
+
+<p>Servidores p&uacute;blicos, 48.3.</p>
+
+<p>Gobiernos municipales, 47.1.</p>
+
+<p>Aqu&iacute; tambi&eacute;n voy a hacer otro par&eacute;ntesis,&nbsp;estos gobiernos les va malporque son los m&aacute;s cercanos a la gente y a veces son malos gobiernos, adem&aacute;s como est&aacute;n cercanos a la gente son los m&aacute;s escrutados, los m&aacute;s evaluados, porque aqu&iacute; s&iacute; que las banquetas son muy angostas.</p>
+
+<p>Entonces, sabe muy bien qu&eacute; hace el presidente municipal o la presidenta municipal.</p>
+
+<p>Y si se dedican nada m&aacute;s a las fiestas, y ya compraron rancho, y ya tienen casas en otros lados, todo se sabe ah&iacute;, pero tambi&eacute;n son los que est&aacute;n m&aacute;s cerca de los problemas, y mucha gente piensa que si est&aacute; mal un municipio es por el presidente municipal, y en abono a los gobiernos municipales hay que pensar que tambi&eacute;n est&aacute;n muy limitados de presupuesto, no le echan la culpa al gobernador, menos al presidente, se dice: &lsquo;No, es el presidente municipal&rsquo;. Entonces, esto tambi&eacute;n hay que tomarlo en consideraci&oacute;n.&nbsp;</p>
+
+<p>Luego:</p>
+
+<p>Los empresarios, 46.</p>
+
+<p>Gobiernos estatales, bueno, aqu&iacute; est&aacute; m&aacute;s bajo, 45.</p>
+
+<p>Jueces y magistrados, 40.</p>
+
+<p>Sindicatos, 37.</p>
+
+<p>Ministerio P&uacute;blico, 36.</p>
+
+<p>C&aacute;maras de Diputados y Senadores, 34.</p>
+
+<p>Polic&iacute;as, 33.</p>
+
+<p>Partidos pol&iacute;ticos, primer lugar, 27.</p>
+
+<p>Eso es lo que opina el pueblo, bueno, en el 21 eran lo que opinaban, hay que ver en las pr&oacute;ximas, pero esto demuestra, regresamos a la opini&oacute;n de la gente sobre el Ej&eacute;rcito y sobre la Marina.</p>
+
+<p>Muy bien.&nbsp;</p>
+
+<p>Adelante.&nbsp;</p>
+
+<p>INTERLOCUTOR:&nbsp;Nada m&aacute;s para acabar, sobre este acuerdo, esta especie de coordinaci&oacute;n que hay con el PRI, para aclarar, &iquest;si le ve futuro?, &iquest;si hay m&aacute;s&hellip;?</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Si el PRI o el PAN, o cualquier partido, no quiero usar la palabra sumar, ni siquiera adherir, sino se dan coincidencias para&nbsp;beneficio del pueblo, son bienvenidas todas las alianzas.</p>
+
+<p>Nosotros no nos vamos a aliar con quienes se opongan al bienestar del pueblo, nosotros queremos llevar a cabo una transformaci&oacute;n y ya inici&oacute; ese proceso.</p>
+
+<p>Entonces, que antes pens&aacute;bamos de una manera y ahora ya cambiamos de parecer. Qu&eacute; bien, es de sabios cambiar de opini&oacute;n.</p>
+
+<p>En los procesos pol&iacute;ticos&nbsp;siempre tengo eso presente, los servidores p&uacute;blicos, los dirigentes, tenemos que pensar que el juicio hist&oacute;rico va a llegar o va a empezar a expresarse, a manifestarse, cuando dejemos de existir, porque mientras tengamos vida podemos cometer errores o reivindicarnos, adem&aacute;s no somos perfectos los seres humanos.&nbsp;</p>
+
+<p>La pol&iacute;tica es como caminar en la cuerda floja hasta que uno termina, y hay que procurar, y as&iacute; es la historia, hay gente conservadora, reaccionaria, y termina como revolucionarios, siempre pongo de ejemplo a Jos&eacute; Clemente Orozco, gran pintor, muralista, era porfirista, se dedicaba al dibujo, a la caricatura, y vayan aqu&iacute; al Museo del Estanquillo, la colecci&oacute;n que aport&oacute; Carlos Monsiv&aacute;is, y van a encontrar caricaturas, no s&eacute; si est&eacute;n ahora porque las deben de estar cambiando, porque es bastante el arte popular que don&oacute; Carlos Monsiv&aacute;is.</p>
+
+<p>Pero hay una en donde Orozco dibuja de baja estatura al presidente Madero y a Porfirio D&iacute;az como un gigante, y pone algo as&iacute; como: &lsquo;El pigmeo queriendo enfrentar al gigante&rsquo;.</p>
+
+<p>Qui&eacute;n iba a pensar que ese hombre, claro, inteligente, eh, porque tambi&eacute;n: &lsquo;Lo que Natura no da, Salamanca no otorga&rsquo;, o sea, hay quienes no cambian de parecer, pero la mayor&iacute;a de la gente tiene posibilidad de cambiar.</p>
+
+<p>Entonces, termina la Revoluci&oacute;n y ah&iacute; est&aacute; Orozco en todo su esplendor, un gran muralista revolucionario.</p>
+
+<p>Y as&iacute; hay casos de gente progresista, revolucionaria, que terminan como conservadores extremos, casi fascistas, ya ustedes saben &iquest;no?</p>
+
+<p>Entonces, en estos casos todos tenemos oportunidad, capacidad para rectificar, no caer en la autocomplacencia y ser consecuentes, y no perder la oportunidad de reivindicarnos, porque estamos viviendo un momento estelar en la vida p&uacute;blica de M&eacute;xico.</p>
+
+<p>&iquest;No aprovecharlo?, &iquest;optar por retrogradar?, &iquest;por defender la corrupci&oacute;n?, &iquest;el autoritarismo?, &iquest;el racismo?, &iquest;el clasismo?, &iquest;la discriminaci&oacute;n?</p>
+
+<p>No, y que se piense tambi&eacute;n en los hijos, no hay que ser ego&iacute;stas de decir: &lsquo;Ah, esta es mi postura&rsquo;, s&iacute; nada m&aacute;s que como eres p&uacute;blico, porque eres legislador o eres periodista famoso o eres intelectual org&aacute;nico ya tu postura se la heredaste y le va a costar a tu hijo quitarse tu influencia.</p>
+
+<p>Entonces, hay que procurar ser consecuente, pero tambi&eacute;n somos libres, eh, ante todo somos libres.</p>
+
+<p>INTERLOCUTOR:&nbsp;Y, muchas gracias, presidente ya para acabar, sobre el festejo de hoy en la noche, si nos pudiera comentar respecto a&nbsp;Los Tigres del Norte, &iquest;si hay un estimado de cu&aacute;nto cobraron por esta presentaci&oacute;n de alrededor de dos horas y media, tres horas por ah&iacute;?</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;S&iacute;.</p>
+
+<p>INTERLOCUTOR:&nbsp;&iquest;Y s&iacute; contar&iacute;a como pago en especie para la Secretar&iacute;a de Hacienda en cuanto a impuestos?</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;No, cobraron, y se va a informar, nos dividimos los gastos el gobierno de la ciudad y el gobierno federal, y ellos aportaron, creo que contribuyeron&nbsp;con&nbsp;media hora m&aacute;s, y tambi&eacute;n cedieron derechos, y se les agradece, y se agradece a las empresas productoras, porque es complejo, no s&oacute;lo es la presentaci&oacute;n, esa se contrata y se presenta, pero la transmisi&oacute;n, por lo general, es de empresas, muchas veces extranjeras, y se habl&oacute; con ellas y ayudaron, y una televisora,&nbsp;Televisa, va a tener una cobertura abierta, no creo que todo el concierto.</p>
+
+<p>Y en el caso de las televisoras p&uacute;blicas, que no se pag&oacute; nada, nos dan oportunidad para que, terminando el Grito, si en las p&uacute;blicas,&nbsp;aprovecho&nbsp;tambi&eacute;n para decirles, porque ah&iacute; viene lo mejor, porque, con todo respeto, yo s&iacute; le ped&iacute; que me gustar&iacute;a, como algunos, pues escuchar algunas canciones.&nbsp;</p>
+
+<p>INTERVENCI&Oacute;N:&nbsp;&iquest;C&oacute;mo cu&aacute;les?</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Ya las van a escuchar.&nbsp;</p>
+
+<p>Y, adem&aacute;s, los artistas son libres y son aut&oacute;nomos, y somos nosotros respetuosos de lo que ellos decidan, fue una solicitud respetuosa, si pueden.&nbsp;</p>
+
+<p>Lo que s&iacute; nos mandaron a decir es que no cobran la transmisi&oacute;n p&uacute;blica, estos son los canales del Estado, el 11, el 14, el 22, no todo, porque si&nbsp;Televisa, que tambi&eacute;n le agradecemos porque ayudaron a hacer los tr&aacute;mites, pero ellos s&iacute;&nbsp;tienen un acuerdo de otro tipo, y ellos van a estar transmitiendo antes, porque el concierto inicia, creo que 8:30, y se detiene cuando inicia la ceremonia del Grito, y luego contin&uacute;a.</p>
+
+<p>Esa parte es la que aportaron, tanto en lo musical, en la actuaci&oacute;n, como en la transmisi&oacute;n de estas canciones, que todas son muy buenas interpretaciones, buenas composiciones y muy buenas interpretaciones, pero hay unas ah&iacute; que son clases de historia, ya las van a escuchar, ya las van a escuchar.&nbsp;</p>
+
+<p>La compa&ntilde;era.</p>
+
+<p>JES&Uacute;S RAM&Iacute;REZ CUEVAS:&nbsp;Tenemos la caricatura de Madero.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&iquest;Tienes la caricatura? &iquest;La de Madero? &iquest;Vemos la caricatura? &iquest;La de Orozco?</p>
+
+<p>S&iacute;, aqu&iacute; est&aacute;, este es Madero.</p>
+
+<p>JES&Uacute;S RAM&Iacute;REZ CUEVAS:&nbsp;Y ah&iacute; est&aacute; Porfirio D&iacute;az.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Con su corona y todo, y aqu&iacute; est&aacute; Porfirio.</p>
+
+<p>&lsquo;Los pigmeos pretenden continuar&nbsp;la labor del gigante&rsquo;, pero cambi&oacute;.</p>
+
+<p>Muy bien.</p>
+
+<p>PREGUNTA:&nbsp;Buenos d&iacute;as, se&ntilde;or presidente.</p>
+
+<p>Berenice T&eacute;llez, del diario nacional&nbsp;Uno m&aacute;s Uno&nbsp;y de&nbsp;diario Amanecer,&nbsp;Estado de M&eacute;xico.&nbsp;</p>
+
+<p>Con relaci&oacute;n a lo que acaba de informar la secretaria de Seguridad Ciudadana de la liberaci&oacute;n de los presos pol&iacute;ticos, quisiera recordar, el 22 de abril, presidente, usted dijo que iba a checar el tema de los presos pol&iacute;ticos de Aguas Blancas.</p>
+
+<p>Mi pregunta va con respecto a eso: &iquest;Si en estas personas que van a ser liberadas el d&iacute;a de hoy se encuentran estas personas?</p>
+
+<p>El d&iacute;a de ayer Hilario&nbsp;Mesino&nbsp;Acosta recibi&oacute; un reconocimiento e hizo alusi&oacute;n a esta solicitud que ha hecho al gobierno federal.&nbsp;</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;S&iacute;, ahora Rosa&nbsp;Icela.</p>
+
+<p>Nada m&aacute;s, decir que nos consta que todo lo relacionado con Aguas Blancas fue un acto autoritario, criminal, de represi&oacute;n, y no hay duda de eso, yo tengo un testimonio, ya alguna vez lo expres&eacute; aqu&iacute;, de cuando hicieron esa atrocidad de reprimir, y en todo lo que podamos ayudar.&nbsp;</p>
+
+<p>El &uacute;nico problema, y de coraz&oacute;n yo ofrezco disculpas a quienes est&aacute;n tardando en salir, lo que les digo es que van a salir, porque son inocentes, nada m&aacute;s que, aunque parezca incre&iacute;ble, son muchos los obst&aacute;culos, y aunque el presidente&nbsp;aprob&oacute; una Ley de Amnist&iacute;a, aun as&iacute;, hay que estar insistiendo, pero les digo, la justicia, aunque pueda tardar mientras estemos en el gobierno va a llegar, va a haber justicia.</p>
+
+<p>No s&eacute; c&oacute;mo est&eacute; el caso de los compa&ntilde;eros.</p>
+
+<p>ROSA ICELA RODR&Iacute;GUEZ VEL&Aacute;ZQUEZ:&nbsp;S&iacute;, se&ntilde;or.</p>
+
+<p>Muchas gracias por su pregunta.</p>
+
+<p>Efectivamente, como dice el se&ntilde;or presidente hemos estado trabajando en el caso de las personas que est&aacute;n adentro de la c&aacute;rcel por el tema de Aguas Blancas.</p>
+
+<p>En uno de los casos s&iacute; tendr&aacute; pronto libertad, en los otros casos s&iacute; tenemos que esperar, lo que hemos estado haciendo, los diversos procedimientos que tiene el juez al respecto o los jueces al respecto, pero s&iacute; hay esa noticia de que estaremos pronto ya a d&iacute;as de ver la salida de uno solo.</p>
+
+<p>Eso es lo que les puedo informar.</p>
+
+<p>Y lo que s&iacute; es que, a ra&iacute;z del compromiso del presidente, nosotros hemos estado trabajando de la mano con el Poder Judicial y pues hemos avanzando con este caso.</p>
+
+<p>Me parece que todav&iacute;a tenemos que esperar algunos meses para poder hacer todas las gestiones, no es por parte de nosotros, es un caso que est&aacute; dentro del Poder Judicial.</p>
+
+<p>Ahora, tenemos algunos otros relevantes en los que s&iacute; estamos, as&iacute; ha sido el compromiso hacia el se&ntilde;or presidente, a d&iacute;as de poder tener algunas libertades de casos importantes medi&aacute;ticos.</p>
+
+<p>No hemos dejado de poder hacerlo, pero nosotros tambi&eacute;n queremos ser ahorita, en estos momentos ya que est&aacute;n tomando decisiones los jueces, ser un poco digamos discretos con las decisiones que toman, tener un poco de secrec&iacute;a al respecto, pero no por mucho tiempo.</p>
+
+<p>Nosotros vamos a estar informando si es que no est&aacute;n cumpliendo tambi&eacute;n digamos con los procedimientos correctos.</p>
+
+<p>Hasta hoy va caminando, o sea, eso s&iacute; les puedo decir que van caminando varios de los asuntos medi&aacute;ticos por buen camino.</p>
+
+<p>Y, bueno, hay que decirlo tambi&eacute;n por la exposici&oacute;n que se hace en la ma&ntilde;anera, digamos que s&iacute; y hay buenos compromisos.</p>
+
+<p>INTERLOCUTORA:&nbsp;Y recordando que este caso es del 95, que s&iacute; fue una masacre, como bien lo menciona, presidente.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;S&iacute;, es que, miren, me lo coment&oacute; el subsecretario de Gobernaci&oacute;n de ese entonces, creo que era Guti&eacute;rrez Barrios, el secretario de Gobernaci&oacute;n, y Arturo N&uacute;&ntilde;ez, subsecretario de Gobernaci&oacute;n.&nbsp;</p>
+
+<p>&iquest;Eso fue en qu&eacute; a&ntilde;o?</p>
+
+<p>INTERLOCUTORA:&nbsp;95.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;No, creo que era&hellip;</p>
+
+<p>INTERVENCI&Oacute;N:&nbsp;(Inaudible)</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;No, pero el que me lo plante&oacute; fue Arturo, no s&eacute; si era subsecretario o director.</p>
+
+<p>INTERVENCI&Oacute;N:&nbsp;Subsecretario.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:Subsecretario, s&iacute;, lo que no s&eacute;, porque si fue en el 94 s&iacute; era Salinas, nada m&aacute;s que ya no estaba Guti&eacute;rrez Barrios, perd&oacute;n, Salinas fue de 88 a 94.</p>
+
+<p>&iquest;Cu&aacute;ndo fue lo de Aguas Blancas, a ver?</p>
+
+<p>INTERVENCI&Oacute;N:&nbsp;95.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;95, ya era Zedillo, y era Esteban.&nbsp;</p>
+
+<p>INTERVENCI&Oacute;N:&nbsp;Figueroa era gobernador.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Y Figueroa era el gobernador.</p>
+
+<p>RICARDO MEJ&Iacute;A BERDEJA:&nbsp;28 de junio del 95.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;No s&eacute;, Arturo me pl&aacute;tica de que a &eacute;l le toca hablarle al gobernador y decirle: &lsquo;Oye, es grav&iacute;simo eso, porque fue una emboscada&rsquo;.</p>
+
+<p>Y la respuesta del gobernador fue: &lsquo;Y qu&eacute; quer&iacute;as, que yo los recibiera con flores&rsquo;. Eso fue lo que a m&iacute; me dijo Arturo N&uacute;&ntilde;ez.</p>
+
+<p>A partir de ah&iacute; sali&oacute;&nbsp;Figueroa tambi&eacute;n.&nbsp;</p>
+
+<p>INTERVENCI&Oacute;N:&nbsp;(Inaudible)&nbsp;</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;S&iacute;, y entr&oacute; de Ometepec.</p>
+
+<p>INTERVENCI&Oacute;N:&nbsp;&Aacute;ngel Aguirre.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;&Aacute;ngel Aguirre. S&iacute;, s&iacute;, pero fue eso. Entonces, tengo ese testimonio.</p>
+
+<p>Independientemente de c&oacute;mo hayan fabricado los expedientes, era evidente que fue una emboscada en contra de los campesinos, porque pudieron haber hecho, como los ministerios p&uacute;blicos que nos tocaban a nosotros, que met&iacute;an la hoja a la m&aacute;quina y ah&iacute; nos cargaban todo, todo el C&oacute;digo Penal.</p>
+
+<p>Entonces, independientemente c&oacute;mo lo hicieron, es indudable, incluso, creo que hasta la Corte hizo una investigaci&oacute;n.&nbsp;</p>
+
+<p>RICARDO MEJ&Iacute;A BERDEJA:&nbsp;S&iacute;, hizo una investigaci&oacute;n con base a (inaudible)</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Nadie debe estar en la c&aacute;rcel, nadie, que sea inocente, pero tambi&eacute;n cuando se es luchador social se sabe que estar en la c&aacute;rcel por una injusticia, por un acto represivo, es distinto a estar en la c&aacute;rcel cuando de verdad se comete un delito, porque se encarcela a la persona, pero no est&aacute; encarcelada la consciencia, es distinto.</p>
+
+<p>Ahora invitamos a la familia Martin Luther King que, por cierto, no van a estar con nosotros porque tuvieron un asunto personal, Martin Luther King.</p>
+
+<p>Y a &eacute;l lo deten&iacute;an,&nbsp;que&nbsp;porque se pasaba un alto, iba a la c&aacute;rcel, y lo que quer&iacute;an era que se amparara, que era un poco lo que quer&iacute;an cuando mi desafuero, que yo me amparara, mis opositores hasta pagaron la fianza, dije: No, c&oacute;mo me voy a amparar si no soy culpable.&nbsp;</p>
+
+<p>Entonces, de &eacute;l aprend&iacute; que la c&aacute;rcel no es tan destructiva cuando se tiene la consciencia tranquila, no deja de ser prisi&oacute;n, pero es distinto.</p>
+
+<p>Entonces, Luther King no aceptaba amparos.</p>
+
+<p>Entonces, nos puede llevar tiempo &iquest;no? en estos casos, pero los vamos a sacar, los vamos a liberar.</p>
+
+<p>Aprovecho tambi&eacute;n para comentar que se dio hace unos d&iacute;as el caso del se&ntilde;or F&eacute;lix Gallardo.</p>
+
+<p>&iquest;Por qu&eacute; no lo explicas?</p>
+
+<p>ROSA ICELA RODR&Iacute;GUEZ VEL&Aacute;ZQUEZ:&nbsp;Pueden poner la l&aacute;mina, por favor.</p>
+
+<p>Se trata de cumplir la instrucci&oacute;n del se&ntilde;or presidente de exponer en una l&aacute;mina cu&aacute;l es la situaci&oacute;n m&eacute;dica de la persona privada de la libertad, Miguel &Aacute;ngel F&eacute;lix Gallardo.</p>
+
+<p>&Eacute;l tiene 76 a&ntilde;os, est&aacute; ingresado en el centro estatal de Puente Grande, Jalisco. Actualmente se le han diagnosticado 22 padecimientos, entre los que destacan sordera izquierda y mala audici&oacute;n derecha, atrofia del globo ocular derecho y glaucoma en ojo izquierdo, carcinoma facial, hernia de disco, hipertrofia de pr&oacute;stata benigna, v&eacute;rtigo&nbsp;de larga evoluci&oacute;n, esofagitis, ansiedad y depresi&oacute;n cr&oacute;nica, hipertensi&oacute;n arterial, diabetes mellitus, tuberculosis pulmonar latente, neumon&iacute;a adquirida en el reclusorio.</p>
+
+<p>&Eacute;l, por prescripci&oacute;n m&eacute;dica, toma todos estos f&aacute;rmacos que aparecen en la l&aacute;mina:&nbsp;Renacenz,&nbsp;Nootropil,&nbsp;Nexium,&nbsp;Pemix,&nbsp;Pregabalina,&nbsp;Psyllium&nbsp;plantago,&nbsp;Timolol&nbsp;oft&aacute;lmico,&nbsp;Metformina,&nbsp;Ketorolaco, Aspirina, en fin, todo lo que los medicamentos que est&aacute;n aqu&iacute;.</p>
+
+<p>El 25 de agosto de este a&ntilde;o el encargado de la coordinaci&oacute;n del &aacute;rea m&eacute;dica de la Comisaria de Sentenciados de Jalisco recomend&oacute; lo siguiente:</p>
+
+<p>&Eacute;l recomienda un arraigo domiciliario ya que su estado de salud requiere de atenciones que en el penal no se le podr&iacute;an brindar, por ejemplo, atenci&oacute;n especializada constante, vigilancia estrecha, supervisi&oacute;n, en fin.</p>
+
+<p>Actualmente es atendido de manera permanente por el &aacute;rea m&eacute;dica, as&iacute; como por especialistas de segundo y tercer nivel.</p>
+
+<p>Adelante. &Eacute;l se encuentra detenido en el Centro Estatal de Readaptaci&oacute;n Social como dec&iacute;amos en Puente Grande.</p>
+
+<p>Cuenta con dos sentencias:</p>
+
+<p>Una de 40 a&ntilde;os por los delitos contra la salud, acopio de armas y cohecho.</p>
+
+<p>Otra m&aacute;s que deber&aacute; cumplir de 37 a&ntilde;os derivado del homicidio del agente de la DEA M&eacute;xico-estadounidense, Enrique Camarena.</p>
+
+<p>La decisi&oacute;n del juez que fue esa la que nos acaba de llegar, la que tienen los medios de comunicaci&oacute;n, un ordenamiento de libertad condicionada en reclusi&oacute;n domiciliaria con monitoreo electr&oacute;nico, es decir, con un brazalete.</p>
+
+<p>Al momento la situaci&oacute;n es que no sabemos c&oacute;mo concluir&aacute; la impugnaci&oacute;n interpuesta por parte de la Fiscal&iacute;a General de la Rep&uacute;blica.</p>
+
+<p>En resumen, la decisi&oacute;n sobre la salida o no de este interno corresponde al Poder Judicial y tambi&eacute;n a la Fiscal&iacute;a General de la Rep&uacute;blica y al seguimiento que se lleva.</p>
+
+<p>Nosotros he dado la instrucci&oacute;n para que en el penal se le den todas las atenciones m&eacute;dicas que requiere, pues no solamente este interno, sino todos los que ah&iacute; permanecen.</p>
+
+<p>Entonces esa es la instrucci&oacute;n que se ha dado al respecto.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Pero hay otra cosa, porque no debemos de ocultar nada, la vida p&uacute;blica tiene que ser cada vez m&aacute;s p&uacute;blica, a partir de que se dio a conocer esta decisi&oacute;n de un juez empezaron nuestros adversarios a cuestionarnos como si fuese una decisi&oacute;n nuestra, cuando es una decisi&oacute;n del Poder Judicial, y vino tambi&eacute;n la informaci&oacute;n o se dio a conocer informaci&oacute;n sobre los v&iacute;nculos de este se&ntilde;or, que hasta eso me cuestionaron, porque le dije se&ntilde;or, claro que le voy a seguir diciendo se&ntilde;or, como tengo que respetar a todos, sobre lo del se&ntilde;or finado Camarena.</p>
+
+<p>INTERVENCI&Oacute;N:&nbsp;(Inaudible)</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;S&iacute;.</p>
+
+<p>Y entonces hoy vimos este asunto y estamos pidiendo, tanto a la Fiscal&iacute;a, como al Poder Judicial, que se act&uacute;e con apego estricto a la legalidad y que se tome en cuenta que, independientemente de lo jur&iacute;dico, nosotros tenemos que cuidar el prestigio de las instituciones de M&eacute;xico, el prestigio del Estado mexicano.</p>
+
+<p>Entonces en libertad el Poder Judicial, la fiscal&iacute;a.</p>
+
+<p>Y en el caso de que la&nbsp;fiscal&iacute;a tenga la raz&oacute;n, o sea, que proceda su recurso y el juez determine que debe de continuar en prisi&oacute;n, nosotros, tiene ya instrucciones y lo acaba de decir la secretaria, de brindarle, la atenci&oacute;n m&eacute;dica, y no en exclusiva, sino mejorar todos los servicios m&eacute;dicos de todas las c&aacute;rceles federales, ese fue el acuerdo que tomamos, de modo que si se resuelve de que se va a quedar y dada su situaci&oacute;n de salud va a estar atendido, en el caso de que proceda el recurso de la Fiscal&iacute;a. Eso lo quer&iacute;a aclarar.&nbsp;</p>
+
+<p>Y vamos a actuar con mucho cuidado, y por eso lo hago p&uacute;blico, porque est&aacute;n como zopilotes esperando c&oacute;mo da&ntilde;arnos, y lo peor c&oacute;mo da&ntilde;ar las instituciones, y a&uacute;n m&aacute;s c&oacute;mo da&ntilde;ar a M&eacute;xico, aunque siempre lo hemos dicho, una cosa es M&eacute;xico y otra cosa es el gobierno, M&eacute;xico est&aacute; por encima del gobierno, es como la patria no est&aacute; al mismo nivel del gobierno, la patria es todo, pero s&iacute; aclarar esta situaci&oacute;n.</p>
+
+<p>INTERLOCUTORA:&nbsp;Ser&iacute;a todo, presidente.</p>
+
+<p>Gracias.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:Bueno, ya nos vamos,&nbsp;&iquest;eh?, nos vemos en la noche, si no, no vamos a tener suficiente fuerza para el Grito.</p>
+
+<p>INTERVENCI&Oacute;N:&nbsp;(Inaudible)</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;S&iacute;, decirles a los habitantes de Baja California Sur, Guerrero Negro, Isla de Cedros, Baja California Norte, Bah&iacute;a Tortugas, fue ayer el encargado del despacho de la Secretar&iacute;a de Comunicaciones y Transportes, Jorge Nu&ntilde;o, estuvo ayer, y estuvo el secretario de Marina, el almirante Ojeda, y estuvieron la gobernadora de Baja California y el gobernador de Baja California Sur, Marina y V&iacute;ctor estuvieron.&nbsp;</p>
+
+<p>Y decirles que ya dimos la instrucci&oacute;n de que se reparen los caminos, en especial a los de Bah&iacute;a Tortugas, que ya va a terminar la veda, y ellos viven de la langosta, y tienen que sacarla porque es de exportaci&oacute;n y est&aacute; en mal estado el camino, que ya di instrucciones para que se repare de inmediato, no s&oacute;lo ese camino, sino otros caminos, y todo el auxilio para la poblaci&oacute;n damnificada de las dos Baja Californias.</p>
+
+<p>INTERVENCI&Oacute;N:&nbsp;(Inaudible)</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;S&iacute;, pero ya se est&aacute; viendo, ya me est&aacute;n dando el informe, el coordinador de Pesca ya est&aacute; en contacto con la gobernadora de Baja California, ya.</p>
+
+<p>Nos vemos en la noche, ya, nos vemos en la noche.</p>
+</div>
+      </div>
+
+      <div class="col-md-4 col-xs-12 pull-right">
+
+
+
+
+          <div id="survey" class="survey-popup small-top-buffer">
+	<div class="row">
+  <a class="fire">
+    <span class="title">Contesta nuestra encuesta de satisfacción.</span>
+		<i style="color: white" class="fas fa-poll"></i>
+  </a>
+  <hr>
+  
+  <div class="survey col-sm-12 clearfix">
+	<form id="survey-form">
+	  <div class="survey-form">
+	  <fieldset id="query_1">
+		<legend>¿Cómo fue tu experiencia en gob.mx?</legend>
+		<div id="Q_A" class="btn-group row">
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncGood" class="ga-survey" value="Feliz" title="Satisactorio">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-good.svg" alt="">
+		  	</button>
+		  </div>
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncReg" class="ga-survey" value="Neutral" title="Neutral">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-neutral.svg" alt="">
+		  	</button>
+		  </div>
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncBad" class="ga-survey" value="Triste" title="No satisactorio">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-bad.svg" alt="">
+		  	</button>
+		  </div>
+		</div>
+	  </fieldset>
+	  <fieldset id="query_1_a" class="hidden">
+	  	<legend>¿Fue fácil encontrar lo que buscabas?</legend>
+	  	<div id="Q_B" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R1" value="1">
+	  		<label for="A_R">Muy Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R2" value="2">
+	  		<label for="A_R">Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R3" value="3">
+	  		<label for="A_R">Difícil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R4" value="4">
+	  		<label for="A_R">Muy Difícil</label>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_s" class="hidden">
+	  	<legend>¿De qué estado de la República nos visitas?</legend>	  	
+	  	<div class="col-md-12">
+  	  		<div class="form-group" style="margin-bottom: 114px;">
+  	  			<select id="estados" class="form-control"></select>
+  	  		</div>
+  	  		<div class="form-group">
+  	  			<button type="button" class="Q_S_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  		</div>
+  	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_alt" class="hidden">
+		<legend>¿Qué buscabas?</legend>
+	  	<div id="Q_I" class="clearfix">
+	  	  <div class="col-sm-12">
+	  		<textarea id="txtA" class="form-control" rows="6" maxlength="250" style="font-size: 14px; width: 100%;"></textarea>
+	  		<span class="small">Máximo 250 caracteres</span>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+  	  	  <button type="button" class="Q_I_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_b" class="hidden">
+	  	<legend>¿Qué te gustó más?</legend>
+	  	<p class="small">Puedes seleccionar más de uno.</p>
+	  	<div id="Q_C" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R1" type="checkbox" name="A_R" value="1">
+	  		<label for="A_R">La información es clara y precisa</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R2" type="checkbox" name="A_R" value="2">
+	  		<label for="A_R">El diseño es agradable</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R3" type="checkbox" name="A_R" value="3">
+	  		<label for="A_R">Está bien organizado</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R4" type="checkbox" name="A_R" value="4">
+	  		<label for="A_R">Es sencillo navegar</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R5" type="checkbox" name="A_R" value="5">
+	  		<label for="A_R">El lenguaje es amigable</label>
+	  	  </div>
+	  	  <div class="clearfix">
+	  	  	<button type="button" class="Q_C_btn btn btn-primary btn-small pull-right">Siguiente</button>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_c" class="hidden">
+	  	<legend>¿Recomendarías nuestro portal a un amigo o familiar?</legend>
+	  	<div id="Q_D" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="radEncC_R1" type="radio" name="A_R" value="4">
+	  		<label for="A_R">Si</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncC_R2" type="radio" name="A_R" value="1">
+	  		<label for="A_R">No</label>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+        <button type="button" class="btn-finalizar btn btn-primary btn-small pull-right" style="margin-left: 8px; margin-top: 2px;" disabled>Finalizar</button>
+        <img src="https://framework-gb.cdn.gob.mx/assets/images/oval-white.svg" class="pull-right hidden loading">
+      </div>
+	  </fieldset>
+
+	  <fieldset id="query_2" class="hidden">
+		<legend>¿Fue fácil encontrar lo que buscabas?</legend>
+	  	<div id="Q_F" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R1" type="radio" name="A_R" value="1">
+	  		<label for="A_R">Muy Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R2" type="radio" name="A_R" value="2">
+	  		<label for="A_R">Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R3" type="radio" name="A_R" value="3">
+	  		<label for="A_R">Difícil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R4" type="radio" name="A_R" value="4">
+	  		<label for="A_R">Muy Difícil</label>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_2_b" class="hidden">
+	  	<legend>¿Qué mejorarías?</legend>
+	  	<p class="small">Puedes seleccionar más de una opción.</p>
+	  	<div id="Q_G" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A1" type="checkbox" name="A_R" value="1">
+	  		<label for="A_R">Diseño</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A2" type="checkbox" name="A_R" value="2">
+	  		<label for="A_R">Navegación dentro del sitio</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A3" type="checkbox" name="A_R" value="3">
+	  		<label class="too-long" for="A_R">Claridad y precisión de la información</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A4" type="checkbox" name="A_R" value="4">
+	  		<label for="A_R">Organización de los contenidos</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A5" type="checkbox" name="A_R" value="5">
+	  		<label for="A_R">Lenguaje utilizado</label>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">	  	  
+	  	  <button type="button" class="btn-finalizar btn btn-primary btn-small pull-right" style="margin-left: 8px; margin-top: 2px;" disabled>Finalizar</button>
+	  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/oval-white.svg" class="hidden pull-right loading">
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_2_alt" class="hidden">
+		<legend>¿Qué buscabas?</legend>
+	  	<div id="Q_H" class="clearfix">
+	  	  <div class="col-sm-12">
+	  		<textarea id="txtA1" class="form-control" rows="6" maxlength="250" style="font-size: 14px; width: 100%;"></textarea>
+	  		<span class="small">Máximo 250 caracteres</span>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+  	  	  <button type="button" class="Q_H_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  	</div>
+	  </fieldset>
+
+	</div>
+	<p class="hidden survey-thanks" style="text-align: center; color: white; font-weight: 700;">Gracias por tu opinión.</p>
+	</form>
+
+  </div>
+</div>
+</div>
+
+<script type="text/javascript">
+$(function() {
+  var c = 0;
+  var fin = 0;
+  var tipo_cara = "";
+  var page_type = "Articulos";
+  var triggered = false;
+  var answers = {};
+  var properties = {};
+  var organization = "presidencia";
+  var section = "Blog";
+  var lang = "es";
+  properties.published_on = "2022-09-15 08:53:00 -0600";
+  properties.title = "Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 15 de septiembre de 2022";
+  properties.path = "/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-15-de-septiembre-de-2022";
+  properties.referer = "";
+  properties.viewfinder = navigator.userAgent.toLowerCase();
+  properties.screens = screen.width;
+  properties.device = screen.width;
+
+  $.getJSON('https://www.gob.mx/vun/estados?filter[order]=nombre%20ASC', function (selectOptions) {
+    for( var i = 0; i < selectOptions.length; i ++) {
+      var selectOptionsJSON = selectOptions[i];
+      $('#estados').append('<option value="'+ selectOptionsJSON.nombre +'">'+ selectOptionsJSON.nombre +'</option>');
+    }
+    $('#estados').append('<option value="Otro">Otro</option>')
+  });
+
+  $('.fire').click(function(event) {
+    $('.survey-popup').css({'height':'440px'});
+  });
+
+  $('#Q_A').find('button').click(function(event) {
+  	$('#query_s').removeClass('hidden');
+  	$("#query_1").addClass('hidden');
+  	answers.q1 = $(this).attr('id');
+  });
+
+  $(".ga-survey").click(function () {
+    tipo_cara = $(this).val();
+    var interval_time = [30];
+    (function timer () {
+      if (c < 1) {
+        setTimeout(function () {
+           if(fin < 1) {
+             set_ga("Inconclusa");
+             timer();
+           }
+        }, interval_time[c] * 1000);
+      }
+      c++;
+    })();
+  });
+
+  $('.Q_S_btn').click(function(event) {
+    if( answers.q1 === "radEncGood") {
+      $("#query_s").addClass('hidden');
+      $("#query_1_a").removeClass('hidden');
+    } else if(answers.q1 === "radEncReg" || answers.q1 === "radEncBad") {
+      $("#query_s").addClass('hidden');
+      $("#query_2").removeClass('hidden');
+    } else { }
+    // answers.q1 = $('#Q_A').find('button').attr('id');
+  });
+
+  $('#Q_B').find('input').click(function(event) {
+  	if( $(this).attr('id') === 'radEncA_R3' || $(this).attr('id') === 'radEncA_R4' )  {
+  	  $("#query_1_a").addClass('hidden');
+	  $("#query_1_alt").removeClass('hidden');
+  	} else {
+  	  $("#query_1_a").addClass('hidden');
+	  $("#query_1_b").removeClass('hidden');	
+  	}	
+	answers.q2 = $(this).attr('id');
+  });
+
+  $('.Q_I_btn').click(function(event) {
+  	event.preventDefault();
+  	$("#query_1_alt").addClass('hidden');
+	$("#query_1_b").removeClass('hidden');
+	answers.q5 = $('#txtA').val().substring(0, 250);
+  });
+
+  $('#Q_C').find('button').click(function(event) {
+	$("#query_1_b").addClass('hidden');
+	$("#query_1_c").removeClass('hidden');
+	var q3_array = [];
+	$('#Q_C').find('input:checked').each(function(index, el) {
+	  q3_array.push($(el).attr('id'));
+	});
+	answers.q3 = q3_array;
+  });
+
+  $('#Q_D').find('input').change(function(event) {
+  	answers.q4 = $(this).attr('id');
+  	$('.btn-finalizar').attr('disabled', false);
+  });
+
+  $('#Q_F').find('input').click(function(event) {
+	
+	answers.q2 = $(this).attr('id');
+
+	if( $(this).attr('id') === 'rdEncA_R3' || $(this).attr('id') === 'rdEncA_R4' ) {
+	  $("#query_2").addClass('hidden');
+	  $("#query_2_alt").removeClass('hidden');
+	} else {
+	  $("#query_2").addClass('hidden');
+	  $("#query_2_b").removeClass('hidden');
+	}
+  });
+
+  $('#Q_G').find('input').change(function(event) {
+  	if($('#Q_G').find('input:checked').length > 0) {
+	  $('.btn-finalizar').attr('disabled', false);
+    }
+    var q2_array = [];
+    $('#Q_G').find('input:checked').each(function(index, el) {
+	  q2_array.push($(el).attr('id'));
+	});
+	answers.q3 = q2_array;
+  });
+
+  $('.Q_H_btn').click(function(event) {
+  	event.preventDefault();
+  	$("#query_2_alt").addClass('hidden');
+	$("#query_2_b").removeClass('hidden');
+	answers.q5 = $('#txtA1').val().substring(0, 250);
+  });
+
+  $('.btn-finalizar').click(function (event) {
+    fin++;
+    $.ajax({
+      url: '/encuesta-satisfaccion',
+      type: 'post',
+      dataType: 'json',
+      data: { section: section, lang: lang, properties: properties, answers: answers },
+      beforeSend: function() {
+        $('.loading').removeClass('hidden');
+      },
+      success: function(data) {
+        set_ga("Finalizada");
+
+        $('.survey').hide();
+        $('.survey-popup').css({'height':'60px','background-color':'#dff0d8','border':'1px solid #d6e9c6'});
+        $('.survey-popup .title').text('Gracias por tu participación.').css({'color':'#3c763d'});
+        $('#icon-survey').removeClass('fa-file-text-o').addClass('fa-check-circle').css({'color':'#3c763d'});
+        setTimeout(function() {
+          $('.survey-popup').fadeOut('800');
+        }, 1600);
+      }
+    });
+  });
+
+  function set_ga(estatus) {
+    var pages_group = "Gobierno";
+    var organization_name = "presidencia";
+
+    console.log("Entro a apartado de encuesta de satisfacción. Estatus: "+ estatus);
+    console.log("Pages group: "+pages_group);
+    console.log("Sub group: "+organization_name);
+    console.log("Page type: "+page_type);
+    console.log("Face: "+tipo_cara);
+
+      console.log("Rails.env.production");
+      //Código GA para encuesta de satisfacción.
+		gtag('set', 'dimension14', pages_group);
+		gtag('set', 'dimension15', organization_name);
+		gtag('set', 'dimension16', page_type);
+		gtag('send', 'event', 'Encuesta de satisfacción', tipo_cara ,estatus);
+		gtag('set', 'dimension14', null);
+		gtag('set', 'dimension15', null);
+		gtag('set', 'dimension16', null);
+  }
+
+  $('#subscribe-survey').click(function(event) {
+	event.preventDefault();
+    var email = $("#email-survey").val();
+    var state = $('#estados').val();
+
+    if (email !== '' || email !== undefined) {
+	    try {
+	      $.ajax({
+	        url: "/subscribe",
+	        type: 'post',
+	        dataType: 'json',
+	        data : { email: {address: email} },
+	        success: function (data) {
+	            $('#responseSignup').html(data.message);
+	        },
+	        error: function (data) {
+	            $('#responseSignup').html(data.message);
+	        }
+	      });
+	    }catch(e){
+	      $("#responseEmail").innerText(e);
+	    }
+
+	    $.ajax({
+	    	url: '/signups',
+	    	type: 'POST',
+	    	dataType: 'json',
+	    	data: { section: section, lang: lang, properties: properties },
+	    	success: function() {
+	    		//console.log('exito');
+	    	}
+	    });
+	} else {
+		$('#responseSignup').html('Por favor llena todos los campos.');
+	}
+  });
+
+  $('#survey-form').submit(function(event) {
+    event.preventDefault();
+  });
+});
+</script>
+
+      </div>
+      <div class="col-sm-7 pull-left">
+        <div class="share-buttons clearfix vertical-buffer">
+  <div class="col-md-2"> <a class="twitter-share-button" data-url="https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-15-de-septiembre-de-2022" data-text="Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 15 de septiembre de 2022"></a></div>
+  <div class="col-md-2">
+    <div class="fb-share-button" data-href="https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-15-de-septiembre-de-2022" data-layout="button_count" data-size="small" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-15-de-septiembre-de-2022&amp;src=sdkpreparse">Compartir</a></div>
+  </div>
+</div>
+
+  <script type="text/javascript">
+    (function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v2.7";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+    
+    var pages_group = "Gobierno";
+    var page_type = "Artículos";
+    var organization_name = "presidencia";
+    var title_content = "Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 15 de septiembre de 2022";
+
+     window.twttr = (function (d,s,id) {
+       var t, js, fjs = d.getElementsByTagName(s)[0];
+       if (d.getElementById(id)) return; js=d.createElement(s); js.id=id;
+       js.src="//platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs);
+       return window.twttr || (t = { _e: [], ready: function(f){ t._e.push(f) } });
+     }(document, "script", "twitter-wjs"));
+
+     function trackTwitter(intent_event) {
+       if (intent_event) {
+         if (intent_event.target && intent_event.target.nodeName == 'IFRAME') {
+           console.log("Metrica Compartir Twitter - "+title_content);
+           console.log("Organization: "+organization_name);
+           console.log("Page type: "+page_type);
+           console.log("Title content: "+title_content);
+           ga('set', 'dimension14', pages_group);
+           ga('set', 'dimension15', organization_name);
+           ga('set', 'dimension16', page_type);
+           ga('send', 'event', 'Compartir en redes sociales', 'Twitter', title_content);
+           ga('set', 'dimension14', null);
+           ga('set', 'dimension15', null);
+           ga('set', 'dimension16', null);
+         }
+       }
+     }
+  </script>
+  <script type="text/javascript">
+     twttr.ready(function (twttr) {
+       twttr.events.bind('tweet', trackTwitter);
+     });
+  </script>
+
+
+      </div>
+    </div>
+    <div class="row top-buffer">
+  <div class="col-md-8">
+    <hr>
+    <div class="print col-ms-12 col-md-12 col-xs-12">
+      <span class="icon-printing"></span>
+      <a href="#">Imprime la página completa</a>
+        <p class="small" style="font-size: 14px; line-height: 1.6em;">
+          La legalidad, veracidad y la calidad de la información es estricta responsabilidad de la dependencia, entidad o empresa productiva del Estado que la proporcionó en virtud de sus atribuciones y/o facultades normativas.
+        </p>
+    </div>
+  </div>
+</div>
+
+  </div>
+  <input type="hidden" id="page_type" name="page_type" value="Articulos">
+  <input type="hidden" id="organization_name" name="organization_name" value="presidencia">
+</main>
+<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+
+<footer class="main-footer">
+  <div class="list-info">
+    <div class="container">
+
+      <div class="col-sm-3">
+        <img  src="https://framework-gb.cdn.gob.mx/landing/img/logoheader.svg"  href="/" alt="logo gobierno de méxico" class="logo_footer" style="max-width: 90%; margin-left: -27px;   margin-top: 12px;">
+      </div>
+      <div class="col-sm-3">
+        <h2>Enlaces</h2>
+        <ul>
+         <!-- <li><a  href="http://www.participa.gob.mx">Participa</a></li> -->
+          <li><a  href="https://datos.gob.mx/">Datos</a></li>
+          <li><a href="https://www.gob.mx/publicaciones" target="_blank" rel="noopener" title="Enlace abre en ventana nueva">Publicaciones </a></li>
+
+                  <li><a class="footer" href="https://consultapublicamx.plataformadetransparencia.org.mx/vut-web/faces/view/consultaPublica.xhtml?idEntidad=MzM=&amp;idSujetoObligado=MTAwMDE=#inicio" id="Transparencia" target="blank" title="Enlace abre en ventana nueva">Portal de Obligaciones de Transparencia</a></li>
+
+                  <li><a class="footer" href="https://www.infomex.org.mx/gobiernofederal/home.action" id="PNT" target="blank" title="Enlace abre PNT en ventana nueva">PNT</a></li>
+
+                  <li><a class="footer" href="http://www.inai.org.mx/" id="INAI" target="blank" title="Enlace abre sitio INAI en ventana nueva">INAI</a></li>
+
+          <li><a class="footer" id="INAI" href="http://alertadores.funcionpublica.gob.mx/" target="_blank" rel="alertadores">Alerta</a></li>
+          <li><a class="footer" id="SIDEC" href="http://sidec.funcionpublica.gob.mx/" target="_blank" rel="sidec">Denuncia</a></li>
+           </ul>
+      </div>
+      <div class="col-sm-3">
+        <h2>¿Qué es gob.mx?</h2>
+        <p>Es el portal único de trámites, información y participación ciudadana.  <a href="/que-es-gobmx" style="text-decoration: none;">Leer más </a></p>
+        <ul>
+
+        
+            <li><a href='http://www.gob.mx/epn'> Administraciones anteriores  </a></li>
+          <li><a href="/accesibilidad">Declaración de Accesibilidad</a></li>
+          <li><a href="/privacidadintegral">Aviso de privacidad</a></li>
+          <li><a href="/privacidadsimplificado">Aviso de privacidad simplificado</a></li>
+          <li><a href="/terminos">Términos y Condiciones </a></li>
+          <li><a href="/terminos#medidas-seguridad-informacion">Política de seguridad</a></li>
+          <li><a class="footer" id="Marco Juridico" href="http://www.ordenjuridico.gob.mx" target="_blank" rel="noopener" title="Enlace abre en ventana nueva">Marco jurídico</a></li>
+          <li><a href="/sitemap">Mapa de sitio</a></li>
+        </ul>
+      </div>
+      <div class="col-sm-3">
+        </p>
+        <h2>Síguenos en </h2>
+        <ul class="list-inline">
+          <li>
+            <a id="Facebook" href="https://www.facebook.com/gobmexico" target="_blank" rel="noopener" class="sendEst share-info footer" title="enlace a facebook abre en una nueva ventana">
+              <img alt="Facebook" src="https://framework-gb.cdn.gob.mx/landing/img/facebook.png" />
+            </a>
+          </li>
+          <li>
+            <a id="Twitter" href="https://twitter.com/GobiernoMX" target="_blank" rel="noopener" class="sendEst share-info footer" title="Enlace a twitter abre en una nueva ventana">
+              <img alt="Twitter" src="https://framework-gb.cdn.gob.mx/landing/img/twitter.png" />
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+  </div>
+  </div>
+
+  <div class="container-fluid footer-pleca">
+    <div class="row">
+      <div class="col">
+        <br><br>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script type="text/javascript">
+      $("a.footer").click(function () {
+          var pagina_sitio = window.location.pathname;
+          var outbound_link = $(this).attr("id");
+          var subgrupo_paginas = "presidencia";
+          var page_type = "Home";
+          var pages_group = "Gobierno";
+          if($("#page_type").length > 0){ page_type = $("#page_type").val(); }
+
+          console.log("Metrica links externos footer - "+outbound_link);
+          gtag('set', 'dimension14', pages_group);
+          gtag('set', 'dimension15', subgrupo_paginas);
+          gtag('set', 'dimension16', page_type);
+          gtag('send', 'event', 'Outbound link - Footer', outbound_link, pagina_sitio);
+          gtag('set', 'dimension14', null);
+          gtag('set, ‘dimension15', null);
+      })
+  </script>
+
+<input class="hidden" id="route" value="/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-15-de-septiembre-de-2022" type="hidden" >
+<!-- div id="fb-root"></div -->
+
+
+
+
+
+  <!-- Begin comScore Tag -->
+  <script>
+      var _comscore = _comscore || [];
+      _comscore.push({ c1: "2", c2: "17183199" });
+      (function() {
+          var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+          s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+          el.parentNode.insertBefore(s, el);
+      })();
+  </script>
+  <noscript>
+    <img src="https://sb.scorecardresearch.com/p?c1=2&c2=17183199&cv=2.0&cj=1" />
+  </noscript>
+  <!-- End comScore Tag -->
+
+  <script src="https://sb.scorecardresearch.com/c2/17183199/ct.js"></script>
+
+
+  <script type="text/javascript">
+
+      var _sf_startpt=(new Date()).getTime();
+      var _sf_async_config = { uid: 43659, domain: 'www.gob.mx', useCanonical: true } ;
+      (function() {
+          function loadChartbeat() { window._sf_endpt = (new Date()).getTime(); var e = document.createElement('script'); e.setAttribute('language', 'javascript'); e.setAttribute('type', 'text/javascript'); e.setAttribute('src','//static.chartbeat.com/js/chartbeat.js'); document.body.appendChild(e); };
+          var oldonload = window.onload;
+          window.onload = (typeof window.onload != 'function') ?
+              loadChartbeat : function()
+              { oldonload(); loadChartbeat(); };
+      })();
+      var ele = "/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-15-de-septiembre-de-2022";
+      if( "#{(@organization_site.present? ? @organization_site.category : 'gobmx')}" == "Campaña") {
+          var siteEls = 'campaign';
+      } else {
+          var siteEls = 'gobierno';
+      }
+
+      for( var i = 1; i < ele.split('/').length; i++ ) {
+          siteEls = siteEls + '.' + ele.split('/')[i];
+      }
+
+      function udm_(e){var t="comScore=",n=document,r=n.cookie,i="",s="indexOf",o="substring",u="length",a=2048,f,l="&ns_",c="&",h,p,d,v,m=window,g=m.encodeURIComponent||escape;if(r[s](t)+1)for(d=0,p=r.split(";"),v=p[u];d<v;d++)h=p[d][s](t),h+1&&(i=c+unescape(p[d][o](h+t[u])));e+=l+"_t="+ +(new Date)+l+"c="+(n.characterSet||n.defaultCharset||"")+"&c8="+g(n.title)+i+"&c7="+g(n.URL)+"&c9="+g(n.referrer),e[u]>a&&e[s](c)>0&&(f=e[o](0,a-8).lastIndexOf(c),e=(e[o](0,f)+l+"cut="+g(e[o](f+1)))[o](0,a)),n.images?(h=new Image,m.ns_p||(ns_p=h),h.src=e):n.write("<","p","><",'img src="',e,'" height="1" width="1" alt="*"',"><","/p",">")};
+      function uid_call(a, b){
+          ui_c2 = 17183199; // your corporate c2 client value
+          ui_ns_site = 'gobmx'; // your sites identifier
+          window.b_ui_event = window.c_ui_event != null ? window.c_ui_event:"",window.c_ui_event = a;
+          var ui_pixel_url = 'https://sb.scorecardresearch.com/p?c1=2&c2='+ui_c2+'&ns_site='+ui_ns_site+'&name='+a+'&ns_type=hidden&type=hidden&ns_ui_type='+b;
+          var b="comScore=",c=document,d=c.cookie,e="",f="indexOf",g="substring",h="length",i=2048,j,k="&ns_",l="&",m,n,o,p,q=window,r=q.encodeURIComponent||escape;if(d[f](b)+1)for(o=0,n=d.split(";"),p=n[h];o<p;o++)m=n[o][f](b),m+1&&(e=l+unescape(n[o][g](m+b[h])));ui_pixel_url+=k+"_t="+ +(new Date)+k+"c="+(c.characterSet||c.defaultCharset||"")+"&c8="+r(c.title)+e+"&c7="+r(c.URL)+"&c9="+r(c.referrer)+"&b_ui_event="+b_ui_event+"&c_ui_event="+c_ui_event,ui_pixel_url[h]>i&&ui_pixel_url[f](l)>0&&(j=ui_pixel_url[g](0,i-8).lastIndexOf(l),ui_pixel_url=(ui_pixel_url[g](0,j)+k+"cut="+r(ui_pixel_url[g](j+1)))[g](0,i)),c.images?(m=new Image,q.ns_p||(ns_p=m),m.src=ui_pixel_url):c.write("<p><img src='",ui_pixel_url,"' height='1' width='1' alt='*'></p>");
+      }
+      udm_('https://sb.scorecardresearch.com/b?c1=2&c2=17183199&ns_site=gobmx&name='+siteEls);
+  </script>
+
+  <noscript>
+    <img src="https://sb.scorecardresearch.com/p?c1=2&amp;c2=17183199&amp;ns_site=gobmx&amp;name=gobierno.presidencia.es.articulos.version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-15-de-septiembre-de-2022" height="1" width="1" alt="*" />
+  </noscript>
+<script>
+    let key = '';
+    $(function () {
+
+        $.getJSON("https://framework-gb.cdn.gob.mx/applications/cms/configGobmx.json", function(json) {
+            console.log(json.keyAnalytics); // this will show the info it in firebug console
+            key = json.keyAnalytics;
+            ga('create', key , 'auto', 'GobTracker');
+            ga('GobTracker.require', 'linker');
+            ga('GobTracker.linker:autoLink', ['www.gob.mx']);
+            ga('GobTracker.set', 'contentGroup1', 'Gobierno');
+            ga('GobTracker.set', 'contentGroup2', SubGroup);
+            ga('GobTracker.set', 'contentGroup3', PageType);
+            ga('GobTracker.set', 'dimension14', 'Gobierno');
+            ga('GobTracker.set', 'dimension15', SubGroup);
+            ga('GobTracker.set', 'dimension16', PageType);
+            ga('GobTracker.set', 'dimension13', 'No Registrado');
+            ga('GobTracker.send', 'pageview');
+            ga('GobTracker.set', 'contentGroup1', null);
+            ga('GobTracker.set', 'contentGroup2', null);
+            ga('GobTracker.set', 'contentGroup3', null);
+            ga('GobTracker.set', 'dimension14', null);
+            ga('GobTracker.set', 'dimension15', null);
+            ga('GobTracker.set', 'dimension16', null);
+            ga('GobTracker.set', 'dimension13', null);
+        });
+    });
+</script>
+
+<script src="https://framework-gb.cdn.gob.mx/applications/cms/modal_global_cms.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/gm/accesibilidad/js/gobmx-accesibilidad.min.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick.min.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick-lightbox.js"></script>
+<link rel="stylesheet" href="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick-lightbox.css">
+
+
+<script src="https://framework-gb.cdn.gob.mx/applications/cms/config_dependency.js"></script>
+<script type="text/javascript"  src="/0RVTuHxj0/t/mhEICJIQ/YiOkthVkYSfw/PRc4N0sKYQk/PwhFVTt/GPxQB"></script></body>
+
+</html>
+

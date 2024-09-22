@@ -1,0 +1,1931 @@
+<!DOCTYPE html>
+<html class='no-js' lang='es'>
+<head>
+    <title>
+  Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 20 de junio de 2024 | Presidencia de la República  | Gobierno | gob.mx
+</title>
+
+  <meta charset='UTF-8'>
+  <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#393C3E">
+
+  
+  <meta name="keywords" content="">
+  <meta name="description" content="Acto encabezado por el presidente Andrés Manuel López Obrador desde Palacio Nacional">
+  <meta name="author" content="Presidencia de la República ">
+
+  <meta content="Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 20 de junio de 2024" property="og:title" />
+  <meta content="https://www.gob.mxhttps://www.gob.mx/cms/uploads/article/main_image/146487/amlo_presidente.jpeg" property="og:image" />
+  <meta content="gob.mx" property="og:site_name" />
+  <meta content="Acto encabezado por el presidente Andrés Manuel López Obrador desde Palacio Nacional" property="og:description" />
+  <meta content="http://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-20-de-junio-de-2024?idiom=es" property="og:url" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@gobmx" />
+  <meta name="twitter:title" content="Versión estenográfica. Conferencia de prensa del presidente Andrés..." />
+  <meta name="twitter:description" content="Acto encabezado por el presidente Andrés Manuel López Obrador desde Palacio Nacional" />
+  <meta name="twitter:image" content="https://www.gob.mxhttps://www.gob.mx/cms/uploads/article/main_image/146487/amlo_presidente.jpeg" />
+
+
+  <meta content="authenticity_token" name="csrf-param" />
+<meta content="w50MVK2+dafWE8HhPadb0h2kPuNHNFqzNKZ6Ul20q9c=" name="csrf-token" />
+
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700,600,300' rel='stylesheet' type='text/css'>
+  <link href='https://framework-gb.cdn.gob.mx/applications/cms/favicon.png' rel='shortcut icon'>
+  <link data-turbolinks-track="true" href="/cms/assets/application.css" media="all" rel="stylesheet" />
+  <link data-turbolinks-track="true" href="https://framework-gb.cdn.gob.mx/gm/accesibilidad/css/gobmx-accesibilidad.min.css" media="all" rel="stylesheet" />
+  
+
+  <!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+  <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+
+ <![endif]-->
+  <script async src="https://www.googletagmanager.com/gtag/js?id="></script>
+  <script src="https://framework-gb.cdn.gob.mx/applications/cms/carrusel/swiper-bundle.min.js"></script>
+
+  <link rel="stylesheet" href="https://framework-gb.cdn.gob.mx/applications/cms/carrusel/swiper-bundle.min.css">
+
+    <script type="text/javascript">
+
+        var SubGroup = '';
+        if(false || false){
+            SubGroup = 'Temas';
+        }else{
+            SubGroup = 'presidencia';
+        }
+        var PageType = '';
+        if(false){
+            PageType = 'Home'
+        }else{
+            if(false){
+                PageType = '';
+            }else {
+                var site = window.location.pathname;
+                var arrayPageType = ["articulos", "prensa", "agenda", "documentos", "multimedia", "galerias", "videos",
+                    "acciones_y_programas", "acciones-y-programas", "mi-foto-con-el-presidente",
+                    "estructuras", "descargables", "que-hacemos", "finanzas", "infografias"];
+
+                if (site.search("archivo") != -1) {
+                    PageType = "archivo_";
+                }
+                for (var i = 0; i < arrayPageType.length; i++) {
+                    if (site.search(arrayPageType[i]) != -1) {
+                        PageType += arrayPageType[i];
+                        break;
+                    }
+                }
+            }
+        }
+
+
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', '');
+
+        gtag('require', 'linker');
+        gtag('linker:autoLink', ['www.gob.mx']);
+        gtag('set', 'contentGroup1', 'Gobierno');
+        gtag('set', 'contentGroup2', SubGroup);
+        gtag('set', 'contentGroup3', PageType);
+        gtag('set', 'dimension14', 'Gobierno');
+        gtag('set', 'dimension15', SubGroup);
+        gtag('set', 'dimension16', PageType);
+        gtag('set', 'dimension13', 'No Registrado');
+        gtag('send', 'pageview');
+        gtag('set', 'contentGroup1', null);
+        gtag('set', 'contentGroup2', null);
+        gtag('set', 'contentGroup3', null);
+        gtag('set', 'dimension14', null);
+        gtag('set', 'dimension15', null);
+        gtag('set', 'dimension16', null);
+        gtag('set', 'dimension13', null);
+
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-144356475-1', 'auto', {'allowLinker':true});
+        ga('require', 'linker');
+        ga('linker:autoLink', ['www.gob.mx']);
+        ga('set', 'contentGroup1', 'Gobierno');
+        ga('set', 'contentGroup2', SubGroup);
+        ga('set', 'contentGroup3', PageType);
+        ga('set', 'dimension14', 'Gobierno');
+        ga('set', 'dimension15', SubGroup);
+        ga('set', 'dimension16', PageType);
+        ga('set', 'dimension13', 'No Registrado');
+        ga('send', 'pageview');
+        ga('set', 'contentGroup1', null);
+        ga('set', 'contentGroup2', null);
+        ga('set', 'contentGroup3', null);
+        ga('set', 'dimension14', null);
+        ga('set', 'dimension15', null);
+        ga('set', 'dimension16', null);
+        ga('set', 'dimension13', null);
+    </script>
+
+
+  <script type = "text/javascript"> console.log(true);
+  var rails_env_prod = true; </script>
+  <script src="/cms/assets/application.js"></script>
+  <script src="/cms/assets/imageReplace.js"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.js"></script>
+
+                              <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("True"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="N3JQ2-2RVHB-WJQMN-CEYEM-ATMWX",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"N3JQ2-2RVHB-WJQMN-CEYEM-ATMWX",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="xxqo3jv567lbgzxpkfuq-f-78d91ceb3-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"37","ak.cp":"413578","ak.ai":parseInt("270161",10),"ak.ol":"0","ak.cr":13,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"c0f8ea5f","ak.r":49405,"ak.a2":e,"ak.m":"b","ak.n":"essl","ak.bpcip":"189.224.237.0","ak.cport":64226,"ak.gh":"189.247.214.12","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"reno","ak.t":"1726959977","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==KlCPJ7JO3n2G/t687nt6hpSF3Mvpr6QUANybzak/BMqMpsFyGdqzp8n0q/1GczpkV6j7o7q98obFVmo2Ez+MRBvSXTtYuPBihNKBgohfm+J9H9wE8MQvZ3cW0Hx+nb11hqzlOZl8TKdwEw3QpBiqzryUgsBOs9p4o1we5XKs4vMHY5zlQN2qu47jnit37Ui3vg4Rgtpqnef99TKb8r/XrbWG3uE+w/73eqh30B+qAVBn8cw/tCyoA0vRr/xcmw1XP/UZK0RDGaVANQuZKVRB5NRZhqTaIfL1Z7oI6Uoz5pscbyNa6PXtdDpxqMyGKBWo9FS5zuiX9gMs8GMUB1wBdfF/GKsIOi64Wer9ewnsDoadzHUpJSB7Y7VGOnkGYmdUmqwK9yh0sRPZKOTYfIKP/yOiycagHiheVnJWykzjdig=","ak.pv":"113","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+<body>
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v13.0" nonce="MZ2GPb2d"></script><!-- a href="#principal" class="skip">Saltar al contenido principal</a -->
+  <header class=" navbar navbar-inverse">
+    <nav class="navbar navbar-inverse  navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-target="#navbarMainCollapse" data-toggle="collapse">
+            <span class="sr-only">Interruptor de Navegación</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a href="/" style="padding: 1px 3px 3px 3px;" class="navbar-brand " title="Ir a la página inicial">
+
+            <div class="logo-main"></div>
+          </a>
+        </div>
+        <div id="navbarMainCollapse" class="collapse navbar-collapse">
+          <ul class="nav navbar-nav navbar-right">
+           <li><a href="/tramites" title="Trámites">Trámites </a></li>
+            <li><a href="/gobierno" title="Gobierno">Gobierno</a></li>
+                  <li><a href="/presidencia/en" title="Versión en inglés del sitio web">English</a>
+                  </li>
+                </li>
+
+
+            <li>
+              <form accept-charset="UTF-8" action="/busqueda" method="get"><div style="display:none"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+                <input type="hidden" name="site" value="presidencia">
+                <button data-v-6394873e="" id="botonbuscar" type="button" class="btn btn-search"><a data-v-6394873e="" href="https://www.gob.mx/busqueda?utf8=✓" target="_blank" id="botbusca"><img data-v-6394873e="" alt="Buscar" src="https://framework-gb.cdn.gob.mx/landing/img/lupa.png"></a></button>
+</form>            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    
+
+
+        <script src="/cms/assets/level_jump.js"></script><section>
+<!-- Subnavegacion -->
+<nav class=" navbar-inverse sub-navbar fixed-top"
+     >
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#subenlaces">
+        <span class="sr-only">Interruptor de Navegación</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="link-name" href="?tab="></a>
+    </div>
+    <div class="collapse navbar-collapse" id="subenlaces">
+      <ul class="nav subnav navbar-nav navbar-right">
+              <li class="landing-btn">
+                    <a href='/presidencia/es/archivo/prensa'>
+                Comunicados            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='/presidencia/es/#5173'>
+                Directorio            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='https://transparencia.presidencia.gob.mx/presidencia/transparencia/politicas-de-tratamiento-de-datos-personales-de-la-oficina-de-la-presidencia-de-la-republica/'>
+                Protección de Datos Personales            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='https://www.gob.mx/presidencia/transparencia/'>
+                Transparencia            </a>
+            </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+<style>
+  .flag-banner {
+  top: 45px  !important;
+  }
+</style>
+<!-- div class="warning-nav" style="margin-top: 0px;">
+  <div class="container">
+    <div class="row clearfix">
+  <div class="col-xs-12 col-sm-12 col-md-12">Este contenido será modificado temporalmente en atención a las disposiciones legales y normativas en materia electoral, con motivo del inicio de periodo de campaña</div>
+  </div>
+  </div>
+</div -->
+</section>
+
+
+  </header>
+
+
+
+
+
+<main class="inner-page interior ficha">
+  <div class="container">
+  	<ol class="breadcrumb">
+  <li><a href="http://www.gob.mx"><span class="icon icon-home"></span><span class="sr-only">Inicio</span></a></li>
+  <li><a href="/presidencia">Presidencia de la República </a></li>
+  <li class="active">Blog</li>
+</ol>
+  	<div class="">
+      <div aria-hidden="true" class="hidden-xs font-changer internal print" tabindex="-1">
+  <button class="inc-font font-modifier">Aa+</button>
+  <button class="dec-font font-modifier">Aa-</button>
+</div>
+      <div class="marquee-padding">
+      <div class='post-list main-post-list'>
+<div class='marque-float-left'>
+<div class='right_arrow'></div>
+<div class='titulo-pub'>
+<small>Publicaciones Recientes</small>
+</div>
+</div>
+<div>
+<div class='container-marque'>
+<div id='headlines'>
+<div class='marquee'>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-19 13:44:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-19-de-septiembre-de-2024' title='Versió'>
+Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 19 de septiembre de 2024
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-18 12:36:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-18-de-septiembre-de-2024' title='Versió'>
+Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 18 de septiembre de 2024
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-17 13:51:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-entrega-de-estimulos-a-delegaciones-mexicanas-participantes-en-juegos-olimpicos-y-paralimpicos-paris-2024' title='Versió'>
+Versión estenográfica. Entrega de estímulos a delegaciones mexicanas participantes en Juegos Olímpicos y Paralímpicos París 2024
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-17 12:21:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-17-de-septiembre-de-2024' title='Versió'>
+Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 17 de septiembre de 2024
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-16 13:56:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-desfile-civico-militar' title='Versió'>
+Versión estenográfica. Desfile Cívico Militar
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+      </div>
+  	  <div class="col-md-7 col-xs-12 col-sm-12 pull-left" tabindex="0">
+  	  	<h1 class="bottom-buffer">Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 20 de junio de 2024</h1>
+  	  	<h2>Acto encabezado por el presidente Andrés Manuel López Obrador desde Palacio Nacional</h2>
+        <section class="">
+          <p>Presidencia de la República  | 20 de junio de 2024</p>
+        </section>
+  	  <div class="imagen-principal">
+  	      <img alt="Conferencia de prensa del presidente Andrés Manuel López Obrador" class="img-responsive img_curve" src="https://www.gob.mx/cms/uploads/article/main_image/146487/amlo_presidente.jpeg" />
+  	      <span class="small">Conferencia de prensa del presidente Andrés Manuel López Obrador</span>
+      </div>
+      <div class="article-body"><p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR</strong>: Buenos d&iacute;as. &Aacute;nimo.</p>
+
+<p>Bueno, pues vamos el d&iacute;a de hoy a informarle al pueblo de M&eacute;xico de los proyectos relacionados con el agua que se est&aacute;n construyendo, que vamos a terminar, lo que tiene que ver con presas, con acueductos, con distritos de riego, porque no hay mucha informaci&oacute;n, no se conoce, y es una obra, en su conjunto, muy importante, sin precedente, en muchos a&ntilde;os no se hab&iacute;a invertido tanto en obras hidr&aacute;ulicas como en este gobierno; sin embargo, no hay mucho conocimiento, no hay mucha informaci&oacute;n, y ahora decidimos informar.</p>
+
+<p>Desde luego, yo voy a informar; desde luego, yo voy a informar el d&iacute;a 1&ordm; de septiembre, pero queremos que se sepa bien para que se conozca y la gente tenga muy claro c&oacute;mo se us&oacute; el presupuesto, su dinero en beneficio del pueblo, c&oacute;mo se us&oacute; el presupuesto y cu&aacute;l es el avance que se ha logrado.</p>
+
+<p>Vamos a ver todo lo relacionado con la Comisi&oacute;n del Agua, es bastante, pero escogimos algunos proyectos prioritarios para exponer. Y aqu&iacute; los t&eacute;cnicos responsables, a los que les agradezco mucho el que nos hayan ayudado a sacar estos proyectos.</p>
+
+<p>Les puedo poner ejemplos. El ingeniero Cedric, que est&aacute; aqu&iacute;, Cedric Escalante, era subsecretario de Comunicaciones, y hablando en plata, como lo hacemos, &iquest;no?, tuvo algunas diferencias con el secretario de entonces, de Comunicaciones, una muy buena persona tambi&eacute;n, que lamentablemente acaba de fallecer, el ingeniero Arganis, pero as&iacute; somos, &iquest;no?, as&iacute; es la condici&oacute;n humana, a veces nos llevamos bien, a veces no, coincidimos, no coincidimos.</p>
+
+<p>Y el ingeniero Cedric me dijo: &lsquo;Ya, renuncio, le voy, porque no tengo buena comunicaci&oacute;n con el ingeniero Arganis,</p>
+
+<p>Le dije: Por qu&eacute; no, conociendo que se trata de un t&eacute;cnico de primer orden, de un ingeniero profesional, le digo: Por qu&eacute; no me ayuda haci&eacute;ndose cargo de una obra que me importa mucho terminar, la presa de &lsquo;Santa Mar&iacute;a&rsquo;, que nos la hab&iacute;an heredado, la hab&iacute;an iniciado, creo que en 2015, y trabajaron un a&ntilde;o, dos a&ntilde;os, y la pararon, y estaba el proyecto y la presa hace falta, y era tomar la decisi&oacute;n: la dejamos ah&iacute; o le invertimos y la terminamos.</p>
+
+<p>Para eso no es nada m&aacute;s tener el presupuesto y la voluntad, sino construir la presa y tener al responsable de obra, y el ingeniero Cedric acept&oacute;, de subsecretario a responsable de la obra; por eso hablo siempre de que no son los cargos lo m&aacute;s importante, sino los encargos; lo mismo, territorio, no escritorio; lo mismo, orden dada no supervisada, no sirve para nada.</p>
+
+<p>Entonces, el ingeniero Cedric acepta y ya termin&oacute; la presa. Y as&iacute;, todos, cualquier caso podr&iacute;a yo mencionar, porque s&iacute; Germ&aacute;n Mart&iacute;nez, el director de la Comisi&oacute;n del Agua, el director general, es un t&eacute;cnico, tambi&eacute;n, del m&aacute;s alto nivel. A &eacute;l le toc&oacute;, les pongo un ejemplo, resolver una adecuaci&oacute;n a la presa El Zapotillo que consisti&oacute;, porque ya estaba construida la cortina, en crear unas ventanas a la cortina, una innovaci&oacute;n para que con esas cortinas se garantizara que nunca se van a inundar los pueblos que se opon&iacute;an a la construcci&oacute;n de la presa, pero una soluci&oacute;n t&eacute;cnica.</p>
+
+<p>Y, as&iacute;, hemos contado con muy buen equipo en todas las tareas de gobierno. Yo soy el que aqu&iacute; estoy con ustedes todos los d&iacute;as, pero ellos son los que trabajan y est&aacute;n creando soluciones en beneficio del pueblo. Yo nada m&aacute;s conduzco, dirijo, pero ellos son los creativos y los que ejecutan las obras.</p>
+
+<p>Entonces, por eso aprovecho para agradecerles mucho por su colaboraci&oacute;n, por su apoyo. Tambi&eacute;n subrayar la importancia que tienen los t&eacute;cnicos mexicanos, la ingenier&iacute;a mexicana, son de lo mejor, igual que los obreros mexicanos, los t&eacute;cnicos, los ingenieros son muy buenos, mucha creatividad y son muy responsables, porque siempre se habla del presupuesto o se habla de la empresa, o de la instituci&oacute;n, pero se olvida de la importancia que tiene el trabajo, como dicen los tecn&oacute;cratas: la variable trabajo, lo que hacen los trabajadores, sin ellos no se avanza.</p>
+
+<p>Bueno, pues ya vamos a dejarle al ingeniero Germ&aacute;n que introduzca.</p>
+
+<p><strong>GERM&Aacute;N ARTURO MART&Iacute;NEZ SANTOYO, DIRECTOR GENERAL DE LA COMISI&Oacute;N NACIONAL DEL AGUA (CONAGUA):</strong> Con su permiso, se&ntilde;or presidente. Bienvenidos medios de comunicaci&oacute;n, a todos y a todas.</p>
+
+<p>Quiero decirles que los proyectos h&iacute;dricos prioritarios, le estamos llamando prioritarios, tenemos muchas otras obras relacionadas con el agua, pero estos proyectos son hechos, est&aacute;n siendo construidos para atender problemas espec&iacute;ficos muy importantes para el pa&iacute;s.</p>
+
+<p>Aqu&iacute; vamos a presentar 18 proyectos, eran 15 las presentaciones anteriores, pero hemos a&ntilde;adido tres. Estos proyectos van a costar 110 mil 302 millones de pesos, todos en conjunto y van a beneficiar a 24 millones 613 mil 306 habitantes en la Rep&uacute;blica.</p>
+
+<p>En lo que se refiere a riego, distritos de riego, se van a beneficiar m&aacute;s de 100 mil hect&aacute;reas de riego, 100 mil hect&aacute;reas de riego. El presidente ha se&ntilde;alado que en 36 a&ntilde;os antes no se hab&iacute;an habilitado, ni puesto a disposici&oacute;n de los agricultores m&aacute;s de 20 mil hect&aacute;reas. En esta administraci&oacute;n tenemos 100 mil hect&aacute;reas, de estas 100 mil hect&aacute;reas, al d&iacute;a de hoy ya hay, con infraestructura para riego, alrededor de 61 mil hect&aacute;reas.</p>
+
+<p>Para agua potable, muy importante, se va a abastecer cerca de 25 metros c&uacute;bicos por segundo, 25 mil litros por segundo a estos habitantes en zonas prioritarias, en zonas con una necesidad de agua potable muy importante.</p>
+
+<p>Vamos a hacer la presentaci&oacute;n de estos proyectos por bloques. En un primer bloque va a ser obras de riego, el ingeniero Cedric Iv&aacute;n Escalante, el ingeniero Aar&oacute;n Mastache, el general de brigada Iv&aacute;n Hern&aacute;ndez Uribe, y el licenciado Alejandro Isauro Mart&iacute;nez Orozco. Vamos a empezar por este bloque de riego.</p>
+
+<p>Le doy la palabra al ingeniero Cedric.</p>
+
+<p><strong>CEDRIC ESCALANTE SAURI, SUBDIRECTOR GENERAL DEL PROYECTO BALUARTE PRESIDIO PRESA&nbsp;&lsquo;SANTA&nbsp;MAR&Iacute;A&rsquo;:</strong> Con su permiso, se&ntilde;or presidente. Muy buenos d&iacute;as tengan todos ustedes.</p>
+
+<p>La presa &lsquo;Santa Mar&iacute;a&rsquo; se encuentra ubicada en el marco del Plan Hidr&aacute;ulico Interconectado del Noroeste. Es una presa de almacenamiento cuyos principales objetivos son: proporcionar agua-riego en 24 mil 250 hect&aacute;reas, y tambi&eacute;n proporcionar agua para la generaci&oacute;n de energ&iacute;a que tiene una capacidad de 30 megawatts y una generaci&oacute;n de energ&iacute;a de 192 gigawatts por hora al a&ntilde;o.</p>
+
+<p>Aqu&iacute; podemos apreciar algunos de los componentes. Este es un excelente ejemplo de la pol&iacute;tica de gobierno del se&ntilde;or presidente L&oacute;pez Obrador de rescatar obras suspendidas o abandonadas que proporcionaran beneficios importantes a la poblaci&oacute;n. La presa se dio inicio en el a&ntilde;o de 2015, fue suspendida en varias ocasiones. El presidente en diciembre del 2020 instruye su reactivaci&oacute;n y se concluye el 18 de diciembre, se inaugura la presa de almacenamiento, con un costo de 10 mil 961 millones de pesos en el monto total de la inversi&oacute;n.</p>
+
+<p>La siguiente, por favor. Aqu&iacute; podemos apreciar algunos de los elementos. La presa tiene cuatro elementos fundamentales que son, no en orden, porque en la otra imagen aparecen los &oacute;rdenes, pero son obras de contenci&oacute;n como es la cortina. Esta es una cortina de 123 metros de altura muy importante, con casi ocho millones de metros c&uacute;bicos de material de enrocamiento que se tuvo que colocar ah&iacute;, dos vertedores que son los fusibles para cuando se presentan avenidas extraordinarias y parte de lo que es la obra de toma, que se aprecia en la imagen inferior derecha, esto que parece una especie de pajarera es donde entrar&aacute; el agua que permitir&aacute; ya comunicarse y trasladarla hacia la planta hidroel&eacute;ctrica.</p>
+
+<p>La siguiente, por favor. Aqu&iacute; se aprecian los t&uacute;neles, en la obra de desv&iacute;o se construyeron tres t&uacute;neles con una longitud global de alrededor de dos mil 300 metros lineales. Y en esos t&uacute;neles, en especial en el t&uacute;nel 3, se colocaron las tuber&iacute;as que permiten alimentar a la planta hidroel&eacute;ctrica, a la casa de m&aacute;quinas donde se estar&aacute; generando la energ&iacute;a y las dos im&aacute;genes inferiores derechas son los que se refiere a la tuber&iacute;a, que tuvo tambi&eacute;n cinco v&aacute;lvulas para precisamente controlar el paso del agua hacia donde se estar&aacute; generando la energ&iacute;a.</p>
+
+<p>Otro de los objetivos &mdash;la siguiente, por favor&mdash; fundamentales es proporcionar agua para riego para 24 mil 250 hect&aacute;reas, estas 24 mil 250 hect&aacute;reas se ubican en 11 secciones de riego a partir de la presa derivadora Tamarindo, que aqu&iacute; se aprecia, y aqu&iacute; hay 11 secciones de riego donde est&aacute;n contempladas las 24 mil 250 hect&aacute;reas. A la fecha ya llevamos 16 mil 118 hect&aacute;reas terminadas y en este momento se encuentran trabajando ocho mil 132 hect&aacute;reas. Esto ha tenido una inversi&oacute;n de 10 mil 23 millones de pesos, lleva un avance de casi el 77 por ciento y la fecha de inauguraci&oacute;n es la segunda quincena de agosto de este a&ntilde;o.</p>
+
+<p>La siguiente, por favor. En estas im&aacute;genes se aprecian algunas de las actividades, como es el revestimiento del canal principal. Las caracter&iacute;sticas de la zona de riego fueron las siguientes: 82 kil&oacute;metros de canal principal y 475 kil&oacute;metros de redes para la alimentaci&oacute;n de las hect&aacute;reas ya mencionadas.</p>
+
+<p>Aqu&iacute; se aprecian algunas de las actividades: colocaci&oacute;n de la tuber&iacute;a, la termofusi&oacute;n donde se est&aacute;n conectando las distintas tuber&iacute;as que se est&aacute;n aplicando y ya la colocaci&oacute;n de concreto revestido, en la imagen superior derecha.</p>
+
+<p>La siguiente, por favor. Otras im&aacute;genes de la misma zona de riego, e insistir en que esta zona de riego, que son 24 mil 250 hect&aacute;reas, se concluyen en la tercera semana del mes de agosto.</p>
+
+<p>Es cuanto, se&ntilde;or presidente.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Nada m&aacute;s, la producci&oacute;n.</p>
+
+<p><strong>CEDRIC ESCALANTE SAURI:</strong> &iquest;Perd&oacute;n?</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> La producci&oacute;n, la producci&oacute;n, el incremento en la producci&oacute;n.</p>
+
+<p><strong>CEDRIC ESCALANTE SAURI:</strong> S&iacute;, los se&ntilde;ores productores, que son beneficiarios en dos mil 551 casos, nos han comentado lo siguiente. Ah&iacute; hay grandes sembrad&iacute;os de mango, chile y dem&aacute;s, pero, sobre todo hablando de mango, nos dec&iacute;an lo siguiente: &lsquo;Nosotros, con el sistema de temporal, estamos produciendo ocho toneladas por hect&aacute;rea al a&ntilde;o; con el sistema de riego vamos a incrementar, por lo menos, a 16 toneladas por hect&aacute;rea&rsquo;. Esta es una de las grandes bondades de tener riego en zonas y en especial en la zona sur del estado de Sinaloa donde todav&iacute;a no hab&iacute;a un sistema de esta naturaleza.</p>
+
+<p>Muchas gracias.</p>
+
+<p><strong>AAR&Oacute;N MASTACHE MONDRAG&Oacute;N, SUBDIRECTOR DE INFRAESTRUCTURA HIDROAGR&Iacute;COLA:</strong> Muchas gracias. Con su permiso, se&ntilde;or presidente.</p>
+
+<p>Voy a referirme a una importante obra que se est&aacute; desarrollando dentro del Plan de Justicia Yaqui en el estado de Sonora, que, antes de referirme al tema agua, quiero decirles que uno de los objetivos principales de este plan es el tema de tierra. En el tema de tierra se tiene ya la restituci&oacute;n de 50 mil hect&aacute;reas al pueblo yaqui. Para que tengan una idea de lo que significan 50 mil hect&aacute;reas, la Ciudad de M&eacute;xico tiene 150 mil hect&aacute;reas, es decir, una tercera parte de la Ciudad de M&eacute;xico, por dar un referente, ha sido restituida al pueblo yaqui en su territorio.</p>
+
+<p>Ahora me referir&eacute; a los temas del agua, a las obras p&uacute;blicas que est&aacute; realizando la Conagua en el territorio yaqui. Uno muy importante de ellos es el distrito de riego 018 del pueblo yaqui. Aqu&iacute; tambi&eacute;n quiero agradecer a la etnia, al pueblo, que nos permitan y que nos den la confianza por estar trabajando en su territorio.</p>
+
+<p>Este distrito de riego ha sido dise&ntilde;ado y construido en conjunto con ellos, con la tribu. Tardamos un a&ntilde;o en dise&ntilde;arlo y se estableci&oacute; por decreto presidencial en el mes de septiembre del a&ntilde;o 2021. Y a partir del a&ntilde;o 2022 a la fecha se ha venido construyendo.</p>
+
+<p>Es un distrito de riego que tiene como potencial 61 mil hect&aacute;reas de riego que est&aacute;n constituidas, estas 61 mil hect&aacute;reas, de 23 mil que ya exist&iacute;an en una superficie de riego, en un distrito de riego, yo le llam&oacute; viejo, se llamaba Colonias Yaquis, que aparece ah&iacute; en el gr&aacute;fico, en la parte de en medio, en color ocre. Y las restantes 38 mil hect&aacute;reas las estamos ampliando, que se refieren ah&iacute; a lo que aparece en colores, color verde, naranja, gris, moradito y el azul.</p>
+
+<p>Estas, primeramente, las hect&aacute;reas viejas, nos pidi&oacute; la tribu que las rehabilit&aacute;ramos, las 23 mil hect&aacute;reas, porque quer&iacute;an que estuvieran a tono con las nuevas, porque este distrito de riego de Colonias Yaquis ven&iacute;a del siglo pasado, de los a&ntilde;os 50, 70, y el a&ntilde;o pasado ya le dimos una buena rehabilitada, tambi&eacute;n este a&ntilde;o vamos a continuar en la rehabilitaci&oacute;n.</p>
+
+<p>Y la ampliaci&oacute;n, que son las 38 mil hect&aacute;reas, estamos programando las primeras 30 mil hect&aacute;reas, concluirlas a fines del pr&oacute;ximo mes de julio y las restantes ocho mil hect&aacute;reas en el mes de septiembre.</p>
+
+<p>Una cosa muy importante que hay que se&ntilde;alar aqu&iacute;, es que la tribu nombr&oacute; una comisi&oacute;n, denominada por ellos, Comisi&oacute;n Jiaki del Agua, que ya se le transfiri&oacute; la administraci&oacute;n del distrito de riego que ya puede funcionar y est&aacute;n a cargo de ellos, en esta Comisi&oacute;n Jiaki, hombres, mujeres, profesionales t&eacute;cnicos yaquis, que ya tuvieron su primera experiencia de un ciclo agr&iacute;cola, oto&ntilde;o-invierno, ya produjeron este a&ntilde;o trigo y, por cierto, lo hicieron muy bien, ya tuvieron su primera experiencia ellos directamente administrando el distrito de riego, nosotros seguimos ayud&aacute;ndoles en la capacitaci&oacute;n.</p>
+
+<p>Adelante, por favor. Aqu&iacute; algunas im&aacute;genes del distrito de riego. Se tiene el canal principal del distrito de riesgo, en las fotograf&iacute;as que est&aacute;n en la margen izquierda superior en medio, tiene 52 kil&oacute;metros, esta es la arteria principal en el distrito de riego del pueblo yaqui, de la ampliaci&oacute;n, ya est&aacute; concluido.</p>
+
+<p>Tenemos tambi&eacute;n cruces por debajo de la carretera y la v&iacute;a f&eacute;rrea que va de Obreg&oacute;n a Hermosillo, estamos construyendo este paso de agua por debajo de estas importantes v&iacute;as de comunicaci&oacute;n, esta, en particular, la terminaremos el pr&oacute;ximo mes.</p>
+
+<p>Tambi&eacute;n estamos cruzando por debajo del r&iacute;o Yaqui. Esta es una obra muy emblem&aacute;tica para ellos, es un reclamo de hace muchos a&ntilde;os para pasar la infraestructura hidroagr&iacute;cola de riego de la margen derecha del r&iacute;o a la margen izquierda.</p>
+
+<p>Y tenemos otras redes de distribuci&oacute;n y canales laterales, sublaterales, que en conjunto suman alrededor de 400 kil&oacute;metros para que ustedes vean la dimensi&oacute;n de lo que tiene la construcci&oacute;n de este distrito de riego.</p>
+
+<p>Adelante. Estos son otras im&aacute;genes de la construcci&oacute;n del distrito de riego. Me detengo en la rehabilitaci&oacute;n de la presa El Chiculi. Todo este distrito de riego, el agua viene de la presa el Ovi&aacute;chic, que es la presa que est&aacute; m&aacute;s abajo del sistema de presas del r&iacute;o Yaqui, y ah&iacute; muy cerquita est&aacute; la presa derivadora El Chiculi. Hemos rehabilitado toda completa, tenemos las compuertas nuevas, el equipo electromec&aacute;nico nuevo, y estamos abriendo una ventana, una tercera ventana, para que toda el agua que se requiere para la ampliaci&oacute;n llegue pronto.</p>
+
+<p>Destaco otra fotograf&iacute;a, en la parte de abajo, un hidrante parcelario, que es donde va a salir el agua para llevarla directamente a la parcela de cada uno de los productores yaquis.</p>
+
+<p>Muchas gracias.</p>
+
+<p><strong>IV&Aacute;N RODR&Iacute;GUEZ URIBE, INGENIERO RESIDENTE DEL DISTRITO DE RIEGO &lsquo;ALEJANDRO GASC&Oacute;N MERCADO&rsquo;. SECRETAR&Iacute;A DE LA DEFENSA NACIONAL&nbsp;(SEDENA):</strong> Buenos d&iacute;as a todos y a todas. General Iv&aacute;n Hern&aacute;ndez Uribe, ingeniero residente de la construcci&oacute;n del distrito de riego &lsquo;Alejandro Gasc&oacute;n Mercado&rsquo;.</p>
+
+<p>Esta obra se encuentra en el estado de Nayarit. Tenemos aqu&iacute; en la l&aacute;mina la superficie que se va a beneficiar con esta obra de 43 mil hect&aacute;reas, siete mil 600 productores, llevamos seis mil 800 personas beneficiadas de manera directa.</p>
+
+<p>Se dividi&oacute; en cuatro etapas. Actualmente llevamos tres etapas concluidas, estamos en la &uacute;ltima que es la gran zona de riego ah&iacute; en la parte superior. Y con un 96.67 por ciento para el 1&ordm; de septiembre estamos concluyendo esta obra.</p>
+
+<p>El video, por favor. Les voy a presentar un video porque es m&aacute;s ilustrativo todos los trabajos en esta obra. Aqu&iacute; vamos a ir viendo lo que se ha estado ejecutando para que&hellip; Tenemos la sensibilidad del movimiento de las obras, el esfuerzo, el 24/7, la instrucci&oacute;n que nos dio el se&ntilde;or presidente, y como muchos otros proyectos, este ha sido de los que impuls&oacute;, son de proyectos anteriores, de administraciones anteriores, y actualmente nosotros lo estamos concluyendo. Ten&iacute;an aproximadamente un cinco por ciento.</p>
+
+<p>Adelante. Aqu&iacute; vemos la georreferenciaci&oacute;n en el distrito de riego. Los municipios son: de Ruiz, Tuxpan, Santiago Ixcuintla, Rosa Morada.</p>
+
+<p>Esta es la presa derivadora El Jile&ntilde;o, esta se alimenta con las aguas del r&iacute;o Santiago. Aqu&iacute; vemos el inicio del canal, estas obras empezaron con administraciones anteriores, se hicieron 13 kil&oacute;metros en casi nueve a&ntilde;os, beneficiando a dos mil hect&aacute;reas. Nosotros al final de la obra habremos llegado a las casi 43 mil, 42 mil hect&aacute;reas y m&aacute;s de siete mil 100 productores.</p>
+
+<p>Hicimos pasar las aguas del r&iacute;o Santiago por debajo del r&iacute;o San Pedro. Aqu&iacute; ya se ven canales laterales de concreto, revestidos. Esa es la arteria principal de alimentaci&oacute;n a los dem&aacute;s laterales. Igual que los otros distritos de riego, hemos pasado por debajo del ferrocarril, de carretera, llevamos m&aacute;s de 25 cruces por unas arterias principales muy importantes y con todas las medidas de seguridad.</p>
+
+<p>A la par del canal se hacen caminos auxiliares, son casi 400 kil&oacute;metros de caminos que llegan a comunicar rancher&iacute;as, esto es adicional al canal.</p>
+
+<p>Aqu&iacute; vemos detonaciones porque lo que no nos deja pasar lo detonamos. Aqu&iacute; se ve una doble l&iacute;nea de conducci&oacute;n de dos mil 500 mil&iacute;metros.</p>
+
+<p>Esto es lo que actualmente est&aacute; habiendo, ustedes ven la tuber&iacute;a que va por debajo del terreno, vuelve otra vez el ejidatario a construir. Las instrucciones es 24/7, por eso es que estamos logrando alcanzar esa meta en estos cuatro a&ntilde;os que llevamos de ejecuci&oacute;n de la obra y poder estar en tiempo y forma para el 1&ordm; de septiembre del a&ntilde;o en curso entregar la obra completa.</p>
+
+<p>Aqu&iacute; se ven otras partes donde estamos actualmente, fueron 300 kil&oacute;metros que estamos colocando en ocho meses, es como desde Tepic a Mazatl&aacute;n es lo que estamos haciendo en l&iacute;nea.</p>
+
+<p>Esto es una obra de toma. Esta es la obra final de todo. Esto es b&aacute;sicamente el distrito de riego.</p>
+
+<p>A sus &oacute;rdenes.</p>
+
+<p><strong>ALEJANDRO ISAURO MART&Iacute;NEZ OROZCO, DIRECTOR DEL ORGANISMO DE CUENCA PAC&Iacute;FICO NORTE Y ENCARGADO DEL PROYECTO PICACHOS, CONAGUA:</strong> Buenos d&iacute;as, presidente, con su permiso. Buenos d&iacute;as a todas y todos.</p>
+
+<p>Me voy a referir al proyecto de la zona de riego de Picachos, al proyecto Picachos. Este proyecto est&aacute; situado en el sur del estado de Sinaloa. La presa Picachos se inaugur&oacute; en el 2011, es una presa de almacenamiento que desde su inauguraci&oacute;n no hab&iacute;a tenido ninguna utilidad.</p>
+
+<p>Es hasta el 2019 que el presidente de la Rep&uacute;blica y el gobierno federal, a trav&eacute;s de la Conagua, inician con el proyecto de la construcci&oacute;n del acueducto a Mazatl&aacute;n, donde la presa Picachos comienza a tener la primer gran utilidad para la regi&oacute;n.</p>
+
+<p>Yo me voy a referir en este momento al segundo componente del proyecto Picachos, que es la construcci&oacute;n de la zona de riego de Picachos, que consta de 22 mil 500 hect&aacute;reas de riego tecnificado que se est&aacute;n haciendo.</p>
+
+<p>Nuestra inversi&oacute;n, la inversi&oacute;n federal que se ha hecho, es de cinco mil 444 millones de pesos. Al d&iacute;a de hoy nosotros llevamos un avance f&iacute;sico considerable del 97.1 por ciento. El proyecto beneficiar&aacute; a tres mil 172 productores.</p>
+
+<p>En la l&aacute;mina se alcanza a percibir el plan general de construcci&oacute;n. En la parte naranja es toda la zona de riego tecnificado, toda la tuber&iacute;a que nosotros estamos instalando. Y la franja azul son parte de uno de los grandes componentes de la zona de riego que es la construcci&oacute;n de 61.8 kil&oacute;metros de canal revestido, as&iacute; como 142 kil&oacute;metros de vialidades que conectan a m&aacute;s de 20 de ejidos en el sur de Sinaloa. Adem&aacute;s, tambi&eacute;n, el proyecto comprende la construcci&oacute;n de 15.6 kil&oacute;metros de margen derecho, de canal principal entubado. El proyecto en general son 348.5 kil&oacute;metros de red entubada.</p>
+
+<p>Otro componente importante es la construcci&oacute;n de la derivadora Siqueros. Esta derivadora en su margen derecha provee de agua al acueducto de Mazatl&aacute;n que el presidente inaugur&oacute; en el a&ntilde;o 2020, y en su margen derecha da el abasto de 20 metros c&uacute;bicos por segundo a la zona de riego.</p>
+
+<p>Aqu&iacute; ya en estas im&aacute;genes podemos ver la presa derivadora Siqueros. El canal principal que ya est&aacute; dotando de agua a productores que cosechan ma&iacute;z, frijol, chile, cebolla, mango, en esta parte del estado de Sinaloa, en el municipio de Mazatl&aacute;n.</p>
+
+<p>El hidrante es la parte final donde el agricultor pr&aacute;cticamente llega y abre la llave y empieza a regar las hect&aacute;reas que ellos tienen. Y varias estructuras que tenemos aqu&iacute;.</p>
+
+<p>Siguiente. Un desfogue. As&iacute; se ve el canal. Estas son algunas de las estructuras.</p>
+
+<p>Comentar que en el estado de Sinaloa no hay infraestructura como esta que se est&aacute; construyendo, 62 kil&oacute;metros de canal revestido significan ahorro racional del agua. No hay p&eacute;rdidas por evaporaci&oacute;n, por filtraci&oacute;n, entonces es un sistema de riego tecnificado bastante novedoso y sofisticado en el pa&iacute;s, al igual que los dem&aacute;s proyectos.</p>
+
+<p>La fecha de inauguraci&oacute;n que nosotros le hemos planteado al presidente es para la &uacute;ltima semana de julio, la primera semana de agosto.</p>
+
+<p><strong>GERM&Aacute;N ARTURO MART&Iacute;NEZ SANTOYO:</strong> En lo que se refiere al bloque que acabamos de presentar referente a los distritos de riego, como dec&iacute;amos al principio, actualmente ya 65 mil 386 hect&aacute;reas est&aacute;n habilitados con la infraestructura para iniciar el riego, es un avance importante de las 100 mil hect&aacute;reas que est&aacute;n programadas.</p>
+
+<p>El siguiente bloque, voy a tener yo una participaci&oacute;n al principio, luego el licenciado Alejandro Isauro, nuevamente la maestra Claudia Cecilia, el doctor Felipe Zatar&aacute;in, el ingeniero Felipe Irineo P&eacute;rez, el general de brigada Ra&uacute;l Manzano y el ingeniero Aar&oacute;n Mastache.</p>
+
+<p>El a&ntilde;o 2022 y 23 fue un a&ntilde;o cr&iacute;tico en lo que se refiere al abastecimiento de agua a la zona metropolitana de Monterrey, la zona conurbada, se quedaron sin agua las principales fuentes de abastecimiento superficial que representaba el 60 por ciento del abastecimiento total de la zona metropolitana de Monterrey. Este 60 por ciento estaba abastecido por las presas Cerro Prieto, La Boca y El Cuchillo principalmente. Cerro Prieto y La Boca quedaron vac&iacute;as totalmente.</p>
+
+<p>El presidente dio instrucciones para que se resolviera el problema a la brevedad posible, ya que esta fuente superficial, a pesar de que era el 60 por ciento, afectaba a toda la poblaci&oacute;n, a toda la zona metropolitana. Dio instrucciones muy precisas el presidente, dividi&oacute; una obra que estaba prevista al futuro, que era la construcci&oacute;n de El Cuchillo II; se opera y se ha operado El Cuchillo I, pero era necesario construir El Cuchillo II, un acueducto que es abastecido por la presa El Cuchillo. Dio instrucciones muy precisas y se llevaron estas instrucciones al pie de la letra. Se dividi&oacute; la obra en 10 frentes que principalmente era la instalaci&oacute;n del acueducto, pero tambi&eacute;n tiene componentes muy importantes que, por ejemplo, la tuber&iacute;a la acero son 90 kil&oacute;metros de longitud, cinco plantas de bombeo, 16 estructuras de control de fen&oacute;menos transitorios y, por supuesto, cruces, carreteras, ferrocarriles, gasoductos, acueductos y r&iacute;os.</p>
+
+<p>Entonces, el presidente dio la instrucci&oacute;n de organizar estos frentes de trabajo con 10 empresas. Y una instrucci&oacute;n important&iacute;sima que ayud&oacute; much&iacute;simo al desarrollo de la obra fue que la gerencia de todo el proyecto lo llev&oacute; la Secretar&iacute;a de la Defensa Nacional con organizaci&oacute;n, con disciplina.</p>
+
+<p>Esto nos llev&oacute; a construir el acueducto en un tiempo r&eacute;cord de un a&ntilde;o; se puso en operaci&oacute;n una parte antes del a&ntilde;o, pero la totalidad de la infraestructura en un a&ntilde;o. Se van a beneficiar los 5.4 millones de habitantes, toda la zona metropolitana. Y la inversi&oacute;n total de esta infraestructura es de 14 mil millones de pesos, siete mil 755 del gobierno federal y seis mil 297 del gobierno del estado. La obra est&aacute; totalmente concluida y est&aacute; abasteciendo actualmente cinco mil litros por segundo a la zona metropolitana de Monterrey.</p>
+
+<p>La siguiente, por favor. Aqu&iacute; tenemos unas im&aacute;genes de&hellip; Esta es una de las cinco plantas de bombeo totalmente terminada, las cinco est&aacute;n en las mismas condiciones. Hay tanques de sumergencia &mdash;la siguiente por favor&mdash;, hay plantas, otras plantas de bombeo, tanques de sumergencia, torres de oscilaci&oacute;n, obras de toma, c&aacute;maras de aire, una infraestructura muy completa para abastecer con seguridad a la poblaci&oacute;n de la zona metropolitana de Monterrey con cinco mil litros por segundo.</p>
+
+<p>Otro de los proyectos vitales para la Comarca Lagunera es el que denominamos Agua Saludable para La Laguna. Este proyecto nace tambi&eacute;n con las instrucciones del se&ntilde;or presidente para que la poblaci&oacute;n de la Comarca Lagunera, cerca de un mill&oacute;n 600 mil habitantes, esta poblaci&oacute;n sea abastecida con agua de calidad.</p>
+
+<p>Actualmente, la principal fuente de abastecimiento de la Comarca Lagunera es a trav&eacute;s de pozos, a trav&eacute;s&hellip; Para extraer agua del subsuelo. Ya lo mencion&oacute; el presidente, la poblaci&oacute;n est&aacute; siendo afectada con agua de muy mala calidad proveniente del acu&iacute;fero, ya que contiene contaminantes que est&aacute;n provocando una afectaci&oacute;n a la salud, a los habitantes, una afectaci&oacute;n a la salud importante.</p>
+
+<p>La decisi&oacute;n del presidente fue implementar un proyecto que va a sustituir al 100 por ciento del agua subterr&aacute;nea con agua superficial, entonces el objetivo es abastecer al mill&oacute;n 600 mil habitantes con seis mil 340 litros por segundo. Estos seis mil 630, 40 litros por segundo, es para la poblaci&oacute;n futura, o sea, se est&aacute; construyendo la infraestructura para abastecer a la poblaci&oacute;n futura a 35, 40 a&ntilde;os, a partir de que se inaugure la infraestructura.</p>
+
+<p>Llevamos el 97 por ciento de la infraestructura mayor, el 65 por ciento de los troncales, que son los que van a llevar agua a nueve municipios, cuatro en Durango y cinco en Coahuila.</p>
+
+<p>El avance global de este proyecto es del 83 por ciento y va a costar en la inversi&oacute;n 13 mil 474 millones de pesos. Sus principales componentes es una presa derivadora, una planta de bombeo con esta capacidad de seis mil 340 litros por segundo, 6.1 kil&oacute;metros de acueducto a presi&oacute;n y casi 28 kil&oacute;metros de acueducto a gravedad. Una potabilizadora que est&aacute; en proceso de construcci&oacute;n, lleva muy buen avance. Pero aqu&iacute; la condici&oacute;n de la potabilizadora es que va a potabilizar agua de mucha mejor calidad que la del subsuelo y se est&aacute;n utilizando m&eacute;todos convencionales para la potabilizaci&oacute;n.</p>
+
+<p>El 22 de diciembre del 2023 el presidente puso en marcha una parte inicial para abastecer a los tres municipios, uno de Coahuila y dos de Durango, para abastecer con hasta mil 200 litros por segundo en una primera etapa. Estamos trabajando para llegar a los seis mil 340 litros por segundo, 13.6 kil&oacute;metros de l&iacute;nea el&eacute;ctrica y 150 kil&oacute;metros de redes troncales; se generan tres mil 200 empleos.</p>
+
+<p>Aqu&iacute; tenemos unas im&aacute;genes de la infraestructura, la presa derivadora, subestaci&oacute;n el&eacute;ctrica, planta potabilizadora, la planta de bombeo, una caja de operaci&oacute;n de v&aacute;lvulas de admisi&oacute;n y tanques de almacenamiento. Es una obra que va a resolver el problema de salud a los habitantes de la Comarca Lagunera, tanto para condiciones actuales, un mill&oacute;n 600 habitantes, como a futuro, dos millones de habitantes.</p>
+
+<p>La siguiente, por favor. Otra planta potabilizadora que se est&aacute; construyendo en Durango, en la ciudad de Durango, este proyecto se inici&oacute; en marzo de este a&ntilde;o. Tambi&eacute;n es una necesidad que tiene la poblaci&oacute;n de Durango, ya que actualmente, igual que en La Laguna, est&aacute; recibiendo, como abastecimiento de agua, agua del subsuelo, que viene contaminada, en este caso con fl&uacute;or y provoca afectaciones a la salud muy importantes.</p>
+
+<p>El presidente dio la instrucci&oacute;n de que se construyera esta planta potabilizadora y abastecer a 200 mil habitantes y evitar ya el problema de beber y usar agua con fl&uacute;or. Se lleva un avance f&iacute;sico casi del 23 por ciento y un avance financiero del 30 por ciento. Sus componentes son: una obra de toma, una planta de bombeo, un acueducto de 10.5 kil&oacute;metros y, por supuesto, la potabilizadora. Se pretende terminar este proyecto a finales del mes de agosto.</p>
+
+<p>Aqu&iacute; tenemos algunas im&aacute;genes de las obras en proceso, la obra de toma, trabajos en la planta de bombeo, el suministro de tuber&iacute;a. Todos los suministros ya est&aacute;n en el lugar, tanto las tuber&iacute;as como el equipo electromec&aacute;nico, equipo de bombeo est&aacute; ya en proceso de fabricaci&oacute;n. Y, tambi&eacute;n, aqu&iacute; observamos trabajos en planta potabilizadora y en la caja de llegada la potabilizadora.</p>
+
+<p>Otro de los proyectos importantes que se est&aacute;n construyendo tambi&eacute;n para abastecer de agua potable a la zona metropolitana de Monterrey, que es otro de la infraestructura que va a complementar el agua que necesita la zona metropolitana de Monterrey.</p>
+
+<p>Se van a beneficiar 500 mil habitantes, es una inversi&oacute;n de ocho mil millones, tambi&eacute;n con inversi&oacute;n federal, de tres mil 954 millones y la inversi&oacute;n estatal de cuatro mil 68 millones de pesos, mitad y mitad. El avance f&iacute;sico que se tiene en este momento es del 82 por ciento, y el avance financiero el 75 por ciento.</p>
+
+<p>Los componentes de este proyecto son: la presa, que es una presa muy original en lo que se refiere a la longitud de la cortina, es m&aacute;s de un kil&oacute;metro, y tiene tambi&eacute;n mil 915 metros, casi dos kil&oacute;metros de longitud; obras complementarias, reforzamiento de cuatro kil&oacute;metros del acueducto Cerro Prieto-Monterrey y la ampliaci&oacute;n de la capacidad de la planta potabilizadora San Roque. Esta infraestructura tambi&eacute;n se pretende que se termine a mediados del mes de agosto.</p>
+
+<p>Aqu&iacute; tenemos algunas im&aacute;genes de la construcci&oacute;n de la presa. Otra de las caracter&iacute;sticas de la presa es que es una presa tipo gravedad y que su cuerpo est&aacute; hecho de concreto compactado, concreto rolado, como se le llama en el medio de la ingenier&iacute;a.</p>
+
+<p>Aqu&iacute; tenemos algunas im&aacute;genes de los procesos constructivos, tiene su canal de descarga y la obra de toma, por supuesto.</p>
+
+<p>La siguiente le corresponde al licenciado Isauro.</p>
+
+<p><strong>ALEJANDRO ISAURO MART&Iacute;NEZ OROZCO:</strong> Como lo comentaba, el proyecto Picachos tiene tres componentes:</p>
+
+<p>El acueducto Mazatl&aacute;n, que inicia el 2020 y culmina el 2021.</p>
+
+<p>La zona de riego, que comienza el proyecto en el 2021 y estamos a punto de inaugurarlo, ya se tienen 20 mil de las 22 mil 500 hect&aacute;reas.</p>
+
+<p>Y esta vertiente es la vertiente emblema del proyecto, el presidente nos encarg&oacute; mucho que hici&eacute;ramos posible llevar agua de calidad en cantidad suficiente al municipio de Concordia en el estado de Sinaloa. Nos pidi&oacute; que hici&eacute;ramos realidad el hecho de que este municipio tuviera agua, este municipio est&aacute; a menos de cuatro kil&oacute;metros de la presa y desde su construcci&oacute;n este municipio se abastec&iacute;a a trav&eacute;s de cuatro pozos ribere&ntilde;os cuando ten&iacute;an agua, en tiempos de sequ&iacute;a el traslado y el suministro de agua se hac&iacute;a a trav&eacute;s del tandeo de pipas.</p>
+
+<p>Esta obra ya fue inaugurada por el presidente el 23 de febrero de este a&ntilde;o. El proyecto comenz&oacute; en enero del 2023. La inversi&oacute;n que se gener&oacute;, que se invirti&oacute;, fue de 406.23 millones de pesos. Nuestros beneficiarios con proyecci&oacute;n al 2042 es de 19 mil habitantes.</p>
+
+<p>&iquest;Cu&aacute;les son los componentes de este acueducto?</p>
+
+<p>Se construy&oacute; una planta potabilizadora con capacidad de 89 litros por segundo, que, al d&iacute;a de hoy, desde la inauguraci&oacute;n del presidente ya funciona, ya opera, ya en esta temporada de sequ&iacute;a ya la gente, 13 comunidades del municipio y la cabecera municipal de Concordia, ya tienen agua.</p>
+
+<p>Se construyeron, en un a&ntilde;o, 89.25 kil&oacute;metros de tuber&iacute;a. Se construyeron 19 tanques de entrega, seis tanques de cambio de r&eacute;gimen para bombear a las comunidades serrana, este acueducto se construy&oacute; en la zona serrana del municipio de Concordia y del estado de Sinaloa; se generaron dos mil 298 empleos en todo un a&ntilde;o.</p>
+
+<p>Y estas son las im&aacute;genes de la infraestructura ya construida y ya entregada. Ya la junta municipal de agua en Concordia la opera. Tiene una calidad en la construcci&oacute;n y los materiales y c&oacute;mo se construy&oacute;. Nada m&aacute;s la planta potabilizadora con las celdas solares se abastece, el 30 por ciento de energ&iacute;a se abastece a trav&eacute;s de las celdas solares. Hay tanques de cambio de r&eacute;gimen, el tanque de entrega de Concordia es de ocho mil litros.</p>
+
+<p>Y ya ahora la realidad es que la gente en Concordia ya tiene agua en bloque de forma permanente, presidente.</p>
+
+<p><strong>CLAUDIA LANDEROS GODOY, RESPONSABLE DEL PROYECTO PRESA EL ZAPOTILLO Y DEL PLAN DE JUSTICIA PARA LOS PUEBLOS DE TEMACAPUL&Iacute;N, ACASICO&nbsp;Y&nbsp;PALMAREJO:</strong> Con su permiso, se&ntilde;or presidente, vamos a presentar los avances del encargo que nos hizo el 10 de noviembre de 2021, de concluir el proyecto de la presa El Zapotillo.</p>
+
+<p>El proyecto de la presa El Zapotillo, como ustedes saben, es un proyecto que heredamos de administraciones anteriores en donde tres presidentes, tres gobernadores y seis directores de la Comisi&oacute;n Nacional del Agua no pudieron llevar a cabo por diferentes razones, que ten&iacute;an que ver con un conflicto social, que no hab&iacute;a un di&aacute;logo con las comunidades afectadas por ese proyecto, que son Temacapul&iacute;n, Acasico y Palmarejo.</p>
+
+<p>El 10 de noviembre, a partir de ese trabajo con ingenieros de la Comisi&oacute;n Nacional del Agua y tambi&eacute;n con el Consejo T&eacute;cnico Comunitario de parte de las comunidades, se lleg&oacute; a un acuerdo y a una soluci&oacute;n, que como nos platicaba el presidente, es una soluci&oacute;n de poder llevar agua a la zona metropolitana de Guadalajara, pero al mismo tiempo evitar la inundaci&oacute;n de los pueblos de Temacapul&iacute;n, Acasico y Palmarejo, a quienes hoy mando un respetuoso saludo.</p>
+
+<p>El proyecto, como ustedes saben, pues es un proyecto de almacenamiento de agua, es una presa de almacenamiento de agua, que en un origen iba a llevar agua a Le&oacute;n y ahora es un proyecto que va a llevar agua a la zona metropolitana de Guadalajara. Hay una inversi&oacute;n en esta administraci&oacute;n de cerca de ocho mil millones de pesos que va a beneficiar a una poblaci&oacute;n de 1.1 millones de personas en Guadalajara.</p>
+
+<p>Aqu&iacute; es muy importante decir que una de las peticiones de las comunidades es que esta agua no fuera utilizada para temas inmobiliarios o para gente que no necesitara el agua. Entonces, estamos trabajando con Jalisco para que el acueducto que va a llevar el agua a la zona metropolitana de Guadalajara se distribuya en las colonias que no tienen agua en Guadalajara, y eso ya se est&aacute; trabajando a partir de una gesti&oacute;n de que el agua sea directamente beneficiada para las zonas sin gua de Guadalajara.</p>
+
+<p>El proyecto tiene cuatro componentes, el encargo ten&iacute;a que ver con cuatro componentes:</p>
+
+<p>El primero, de realizar la adecuaci&oacute;n a la cortina, que ten&iacute;an que hacerse estas seis ventanas vertedoras. Es la primera vez que se hace algo as&iacute; en un proyecto de presa, entonces eso tuvo sus dificultades, pero las sorteamos.</p>
+
+<p>Por otro lado, el llevar al agua de la presa a la presa El Salto, que es el acueducto a la presa Zapotillo al Salto-Calder&oacute;n.</p>
+
+<p>Y luego un acueducto m&aacute;s que sale de El Salto a la presa Calder&oacute;n.</p>
+
+<p>Entonces, esos son tres componentes, adem&aacute;s de que, como ustedes saben, pues se implement&oacute; un plan de justicia para los pueblos de Temacapul&iacute;n, Acasico y Palmarejo. Tiene un avance f&iacute;sico del 94 por ciento; estamos pensando la conclusi&oacute;n a finales del mes de julio.</p>
+
+<p>Hay un componente, que es el acueducto que va de la presa El Salto a Calder&oacute;n, que ya fue inaugurado, eso fue inaugurado por el presidente el 23 de febrero de este a&ntilde;o, y est&aacute; dotando de un metro c&uacute;bico por segundo a la ciudad de Guadalajara; es decir, este a&ntilde;o ya hubo agua de la presa El Salto a Calder&oacute;n y eso evit&oacute; o est&aacute; evitando en estos momentos que haya un estr&eacute;s en la ciudad de Guadalajara, ya tenemos en este momento ese primer resultado.</p>
+
+<p>Estos son algunos componentes del proyecto: las ventanas que ustedes pueden ver, los acueductos, el acueducto El Salto-Calder&oacute;n, que ya est&aacute; funcionando y as&iacute; como algunos tanques de almacenamiento.</p>
+
+<p>Estos tambi&eacute;n son componentes del proyecto. Y aqu&iacute; decir que estas adecuaciones se fueron realizando con un trabajo conjunto entre la Conagua y el Comit&eacute; T&eacute;cnico Comunitario y al mismo tiempo se implement&oacute; este plan de justicia, que ahorita tenemos en t&eacute;rminos del plan de justicia un avance m&aacute;s o menos del 77 por ciento de los 15 compromisos que el presidente hizo con las comunidades.</p>
+
+<p>Finalmente, este proyecto nos obliga a repensar la forma en que se toman las decisiones en tema de agua. Es un proyecto que deja una historia de c&oacute;mo no se deben de hacer las cosas y de c&oacute;mo s&iacute; es posible llevar agua sin necesidad de afectar o inundar pueblos.</p>
+
+<p>Muchas gracias, se&ntilde;or presidente.</p>
+
+<p><strong>FELIPE ZATAR&Aacute;IN MENDOZA, SUBDIRECTOR GENERAL DE AGUA POTABLE, DRENAJE&nbsp;Y&nbsp;SANEAMIENTO:</strong> Buenos d&iacute;as a todos. Con su permiso, se&ntilde;or presidente.</p>
+
+<p>La construcci&oacute;n de la planta potabilizadora Mad&iacute;n II inici&oacute; el marzo de 2021 y fue inaugurada por el se&ntilde;or presidente el 26 de octubre de 2023. Tiene una capacidad para potabilizar 500 litros por segundo, que, sumados a los que produce la planta potabilizadora Mad&iacute;n I, tenemos un total de mil litros por segundo que podemos extraer de la presa Mad&iacute;n en temporadas de lluvias, en siete meses que van de abril a octubre.</p>
+
+<p>Esta planta implic&oacute; una inversi&oacute;n de 517.25 millones de pesos. Los principales componentes se muestran en la pantalla. Tiene dos plantas de bombeo, una para llegada, otra para salida; sus respectivas l&iacute;neas de conducci&oacute;n. Y tiene una potabilizaci&oacute;n, un proceso de potabilizaci&oacute;n cn innovaci&oacute;n y es lo que la convierte en una planta de las m&aacute;s modernas del pa&iacute;s, de tal manera, que podemos entregar 500 litros por segundo con la calidad que cumple las normas oficiales mexicanas con respecto en salud en agua potable.</p>
+
+<p>En la siguiente l&aacute;mina podemos ver algunas im&aacute;genes. La primera es la obra de toma, la planta de bombeo sobre la presa, la caja de llegada, un sistema de preozonaci&oacute;n, que es uno de los elementos modernos de esta planta; el tanque de mezcla y floculaci&oacute;n; otro de los elementos modernos es el tanque de flotaci&oacute;n por aire disuelto; los m&oacute;dulos de filtraci&oacute;n, que tambi&eacute;n tienen carb&oacute;n activado, y un tanque de agua potable.</p>
+
+<p>Un asunto, un tema importante en esta planta, es que puede entregar tanto en el macrocircuito como en un tanque que se llama Lomas Verdes. Y este caudal, dos mil litros por segundo, que suman las dos plantas, se distribuye equitativamente entre la Ciudad de M&eacute;xico y el Estado de M&eacute;xico.</p>
+
+<p>La otra obra de la que voy a comentar es el acueducto Picachos-Mazatl&aacute;n. Esta obra fue iniciada en el a&ntilde;o 2017 e inaugurada, terminada ya en este sexenio el 5 de diciembre de 2020. Con esta planta, con esta obra se pueden dotar de mil litros por segundo a la ciudad de Mazatl&aacute;n. Los principales componentes: es una obra de toma con agua de la presa Picachos, un acueducto de 33.5 kil&oacute;metros que combina tuber&iacute;a de acero de 36 pulgadas y tuber&iacute;a de poli&eacute;ster reforzado con fibra de vidrio; tiene un tanque de cambio de r&eacute;gimen, dos tanques de regulaci&oacute;n y se conecta a otros tanques ya estaban construidos.</p>
+
+<p>La potabilizadora es la potabilizadora Miravalles, que tiene una capacidad de mil litros por segundo.</p>
+
+<p>En la siguiente l&aacute;mina podemos ver la vista general de la planta potabilizadora Miravalles, el espesador de lodos, el floculador, el sedimentador. Es importante mencionar que es un proceso convencional, al tratarse de agua superficial de buena calidad y una imagen del d&iacute;a de la inauguraci&oacute;n.</p>
+
+<p>Muchas gracias.</p>
+
+<p><strong>FELIPE IRINEO P&Eacute;REZ, DIRECTOR GENERAL DEL ORGANISMO CUENCUA FRONTERA SUR (OCFS) DE CONAGUA:</strong> Con su permiso, se&ntilde;or presidente. Muy buenos d&iacute;as a todos.</p>
+
+<p>La planta potabilizadora de Benito Ju&aacute;rez en el municipio de Macuspana tiene el objetivo de proporcionar agua potable a la ciudad de Macuspana, San Carlos y 64 comunidades m&aacute;s. Consiste, precisamente, la obra en una captaci&oacute;n que estamos viendo ah&iacute; sobre el r&iacute;o Tepetit&aacute;n, la planta potabilizadora para 500 litros por segundo. Y los beneficiarios en este momento son 78 mil beneficiarios con la construcci&oacute;n de la primera etapa que est&aacute; concluida y est&aacute; funcionando. Tiene una cobertura para 20 a&ntilde;os, para cubrir una poblaci&oacute;n de 99 mil 69 habitantes. La inversi&oacute;n que tenemos fue de 658 millones de pesos, se generaron 900 empleos.</p>
+
+<p>Aqu&iacute; tenemos parte de la planta, la primera es la fachada de entrada, la vista lateral de la planta potabilizadora, vista frontal de la planta potabilizadora, vista &aacute;rea de la captaci&oacute;n en el r&iacute;o Tepetit&aacute;n.</p>
+
+<p>Tambi&eacute;n se construyeron dos tanques met&aacute;licos: uno que est&aacute; en la planta potabilizadora para suministrarle agua a San Carlos y otras comunidades, otro en Macuspana, en la ciudad Macuspana, Tabasco, para suministrarle agua a la ciudad de Macuspana, Tabasco, y otras comunidades rurales.</p>
+
+<p>Aqu&iacute; tenemos tambi&eacute;n la instalaci&oacute;n de la salida de los tanques, y abajo la construcci&oacute;n de un sistema de agua potable rural.</p>
+
+<p>La otra obra que tenemos en Tabasco es la siguiente, es la captaci&oacute;n sobre el r&iacute;o Carrizal, un acueducto Usumacinta, y la planta potabilizadora de mil litros por segundo. La obra consiste de lo siguiente: se va a construir, se est&aacute; construyendo la captaci&oacute;n sobre el r&iacute;o Carrizal y un acueducto de dos tuber&iacute;as de 36 pulgadas que van a ir a la planta potabilizadora existente. El motivo de esta obra es lo siguiente:</p>
+
+<p>La captaci&oacute;n actual en la ciudad de Villahermosa est&aacute; en el r&iacute;o Grijalva. El r&iacute;o Grijalva nos trae las aguas de la serran&iacute;a de Chiapas y, por lo tanto, en la temporada de lluvias traemos mucha turbidez, la cual no pueden tratar las plantas potabilizadoras actuales. Para resolver este problema se opt&oacute; por la captaci&oacute;n en el Carrizal, la l&iacute;nea, como coment&aacute;bamos, y una planta de mil litros por segundo que va a servir a la zona conurbada de Villahermosa con Nacajuca.</p>
+
+<p>Los beneficiarios que tenemos son los siguientes: va a beneficiar a una poblaci&oacute;n de 411 mil habitantes. El costo de la inversi&oacute;n es de 950 millones. El avance f&iacute;sico actualmente es de 74 por ciento. El avance financiero de 62.2 por ciento.</p>
+
+<p>La fecha de terminaci&oacute;n que tenemos son las siguientes: la captaci&oacute;n y el acueducto para concluir en el mes de agosto; la planta potabilizadora en el mes de septiembre.</p>
+
+<p>Aqu&iacute; tenemos fotograf&iacute;as, la primera parte, la captaci&oacute;n sobre el r&iacute;o Carrizal, bombas que se van a instalar en la captaci&oacute;n, la construcci&oacute;n de un c&aacute;rcamo pluvial. El acueducto, como les comentaba, son dos l&iacute;neas de tuber&iacute;as que van sobre el paseo Usumacinta, que llegan a las plantas existentes, ese acueducto se dividi&oacute; en cuatro partes, parte uno, dos, tres y cuatro, en distintos tramos.</p>
+
+<p>Y aqu&iacute; tenemos la siguiente. Tambi&eacute;n, esta captaci&oacute;n se hizo con el fin en el r&iacute;o Carrizal porque el agua que nos llega en esa parte es precisamente la que viene ya de las presas que est&aacute;n en el Alto Grijalva, ya el agua llega completamente y, podemos decir, sedimentada, con un m&iacute;nimo de turbidez.</p>
+
+<p>Aqu&iacute; con esta obra vamos a beneficiar a la poblaci&oacute;n al sistema de agua potable que se van a utilizar menos recursos econ&oacute;micos porque vamos a ahorrar en los productos qu&iacute;micos que se utilizar&iacute;an, que ser&iacute;an menos volumen.</p>
+
+<p>Aqu&iacute; tenemos distintas fotograf&iacute;as que corresponden a la planta potabilizadora, tenemos el edificio de cloraci&oacute;n, el Parshall y el sedimentador.</p>
+
+<p>Es cuanto. Muchas gracias.</p>
+
+<p><strong>RA&Uacute;L MANZANO V&Eacute;LEZ, INGENIERO RESIDENTE DEL ACUEDUCTO &lsquo;L&Oacute;PEZ MATEOS&rsquo;, XPUJIL. SEDENA: </strong>Muy buenos d&iacute;as a todos.</p>
+
+<p>Con su permiso, se&ntilde;or presidente, ahora vamos a hablar en el sur del pa&iacute;s del acueducto &lsquo;Adolfo L&oacute;pez Mateos&rsquo;, que a lo largo de dos a&ntilde;os y con una inversi&oacute;n total de mil 700 millones de pesos fue creado para garantizar el agua potable al municipio de Calakmul. Se compone de tres sistemas:</p>
+
+<p>El primero de ellos, una bater&iacute;a de pozos en los alrededores de la poblaci&oacute;n de Centenario, con un potencial de 230 litros por segundo para una poblaci&oacute;n de dise&ntilde;o a 20 a&ntilde;os hasta de 75 mil habitantes.</p>
+
+<p>El segundo sistema es una l&iacute;nea de conducci&oacute;n que a lo largo de 96.7 kil&oacute;metros, venciendo un desnivel de 300 metros, y gracias a cuatro plantas de rebombeo van a hacer llegar el agua potable al tercer sistema, que es una planta de almacenamiento que se ubica en la poblaci&oacute;n de Xpujil con una capacidad de dos millones de litros de agua.</p>
+
+<p>Hasta ah&iacute; llega el sistema &lsquo;Adolfo L&oacute;pez Mateos&rsquo;. Y este se complementa con un sistema de distribuci&oacute;n de agua potable a cargo del gobierno estatal a trav&eacute;s de su comisi&oacute;n estatal y del sistema municipal de agua de Calakmul, que est&aacute; pendiente de realizar obras de rehabilitaci&oacute;n y mejoramiento para que, finalmente, llegue el agua a las casas de los pobladores de las comunidades beneficiadas.</p>
+
+<p>Las poblaciones beneficiadas son 22 y esto va a resolver una a&ntilde;eja problem&aacute;tica de abastecimiento.</p>
+
+<p>Actualmente el sistema se encuentra en las &uacute;ltimas fases de prueba. Vienen ya en los pr&oacute;ximos d&iacute;as y semanas la capacitaci&oacute;n al personal de la comisi&oacute;n estatal y, finalmente, la entrega-recepci&oacute;n de todo el sistema al gobierno del estado.</p>
+
+<p>Eso es cuanto.</p>
+
+<p>Ahora pasamos del sur, algunos aspectos de las instalaciones que conforman a lo largo del recorrido los pozos, las plantas de rebombeo y las plantas de distribuci&oacute;n.</p>
+
+<p>Ahora, del sur del pa&iacute;s nos trasladamos a la frontera norte, a Punta Bandera en Tijuana, Baja California. Este un proyecto que va a resolver una problem&aacute;tica binacional que se gener&oacute; a lo largo de varios a&ntilde;os por el derrame de aguas negras sin cumplir las normas ambientales directamente al mar. Esta problem&aacute;tica, que ya databa de hace al menos nueve a&ntilde;os, tiene en alerta ambiental a los condados de Imperial Beach, Coronado y San Diego, del lado americano, y playas de Tijuana del lado mexicano.</p>
+
+<p>Con una inversi&oacute;n de 600 millones de pesos vamos a construir, ya con tecnolog&iacute;a actual y con algunas innovaciones en tratamiento de aguas, esta planta que reaprovecha ocho componentes de la planta que estaba fuera de servicio.</p>
+
+<p>Se van a construir nueve elementos nuevos que b&aacute;sicamente son tanques de concreto, sedimentadores, el reactor biol&oacute;gico, los tanques de contacto de color para que al final el agua cumpla la norma ambiental vigente, para aguas negras vertidas al mar. Esta calidad de agua que se va a obtener, permite dos coxas muy importantes: el re&uacute;so y la otra es verter agua sin pat&oacute;genos al mar cumpliendo la normatividad mexicana, que a la vez cumple la normatividad internacional, y resolver&aacute; la problem&aacute;tica entre ambos pa&iacute;ses.</p>
+
+<p>Con un avance de 35.83 por ciento, tenemos la meta de terminarla el 30 de septiembre del presente a&ntilde;o. Y se ven algunas ya estructuras, son tanques de concreto de grandes dimensiones, los sedimentadores al centro. Vemos una plataforma donde va el reactor biol&oacute;gico.</p>
+
+<p>Y el equipamiento, que es lo m&aacute;s tardado y lo m&aacute;s complejo de esto, ya est&aacute; contratado, ya est&aacute;n los fabricantes elaborando los componentes, v&aacute;lvulas, motores y dem&aacute;s para que en el mes de septiembre sean instaladas e inicien las pruebas de funcionamiento.</p>
+
+<p>Aqu&iacute; tambi&eacute;n algunos aspectos de las instalaciones que fueron aprovechadas como la planta de bombeo y una estaci&oacute;n de pretratamiento, y las estructuras nuevas que van a conformar el sistema.</p>
+
+<p>Ser&iacute;a cuanto por la planta de tratamiento.</p>
+
+<p>Muchas gracias.</p>
+
+<p><strong>AAR&Oacute;N MASTACHE MONDRAG&Oacute;N:</strong> Muchas gracias. Y con su permiso, se&ntilde;or presidente, a m&iacute; me toca concluir esta parte de las obras de agua potable, hablando de una importante obra dentro del Plan de Justicia Yaqui, que es el acueducto yaqui. Tiene como objetivo proporcional 200 litros por segundo para abastecer a toda la poblaci&oacute;n yaqui, que se estima en m&aacute;s de 34 mil habitantes.</p>
+
+<p>Es una inversi&oacute;n de aproximadamente dos mil millones de pesos. Y pr&aacute;cticamente el acueducto yaqui ya est&aacute; terminado, tenemos un avance del 96 por ciento.</p>
+
+<p>Y el &uacute;nico que no hemos concluido es la obra de toma, que se encuentra ya ubicada dentro del vaso de lo que es la presa Ovi&aacute;chic, porque hay que ver que esta agua va a venir directamente del r&iacute;o Yaqui, es la presa &uacute;ltima que est&aacute; en el sistema de presas del r&iacute;o Yaqui, que es la presa Ovi&aacute;chic, para sustituir lo que actualmente consume la mayor&iacute;a del pueblo yaqui, que es agua de pozos que tienen algunos componentes fuera del inter permisible.</p>
+
+<p>La obra de toma es la que estamos concluyendo. Los tanques de regulaci&oacute;n ya est&aacute;n concluidos, la potabilizadora tambi&eacute;n ya est&aacute; concluida, estamos en fase de pruebas de calidad de agua. Y los 166 kil&oacute;metros que tiene el acueducto principal ya est&aacute;n terminados y los 75 kil&oacute;metros de ramales tambi&eacute;n ya est&aacute;n concluidos.</p>
+
+<p>&iquest;En qu&eacute; fase nos encontramos ahorita?</p>
+
+<p>Estamos conectando el acueducto con los 53 sistemas comunitarios de las diferentes localidades del pueblo yaqui para constituir lo que es el organismo operador de agua potable del pueblo yaqui, eso tambi&eacute;n es una cosa muy importante hacerlo de su conocimiento porque, al igual que otras poblaciones de Sonora, como Hermosillo, Obreg&oacute;n, Navojoa, tambi&eacute;n el pueblo yaqui va a tener su organismo operador.</p>
+
+<p>Ya, a partir de un acuerdo que se tuvo con ellos en el mes reciente de abril, ya lo constituyeron. Ahorita estamos en un proceso mixto de transici&oacute;n. Y se la llama as&iacute; porque quien lo preside es un funcionario de la comisi&oacute;n estatal del agua de manera provisional, en transici&oacute;n, y en el l&iacute;mite de un a&ntilde;o ser&aacute; transferido al pueblo yaqui.</p>
+
+<p>Solamente este funcionario es ajeno a la tribu, todos los dem&aacute;s t&eacute;cnicos, profesionales y operadores son de la tribu, ya est&aacute;n siendo contratados, y en un proceso de capacitaci&oacute;n intenso para que a m&aacute;s tardar en un a&ntilde;o la administraci&oacute;n sea totalmente por parte de la etnia.</p>
+
+<p>Aqu&iacute; algunas im&aacute;genes, fotograf&iacute;as del acueducto. La planta potabilizadora al 100 por ciento; la vista genera de la obra de toma que est&aacute; ya en el embalse. Aqu&iacute; se aprecia m&aacute;s n&iacute;tido que es una obra de toma tipo muelle.</p>
+
+<p>Ya construimos todo lo que son los ejes que van en tierra, faltan los que van al embalse, estamos en esa terminaci&oacute;n. Los tanques de regulaci&oacute;n, ah&iacute; est&aacute;, tenemos tres, cada uno de un mill&oacute;n de litros completamente terminados; estamos llen&aacute;ndolos ya para empezar a dar el servicio.</p>
+
+<p>Aqu&iacute; otra vista de la obra de toma en el embalse de la planta potabilizadora. Aqu&iacute;, donde est&aacute; la obra, la toma en la parte inferior izquierda haciendo la perforaci&oacute;n de lo que nos hace falta. Y aqu&iacute; el suministro de agua a la planta potabilizadora.</p>
+
+<p>Muchas gracias.</p>
+
+<p><strong>GERM&Aacute;N ARTURO MART&Iacute;NEZ SANTOYO:</strong> Muchas gracias, Aar&oacute;n.</p>
+
+<p>Se&ntilde;or presidente, vamos a concluir la presentaci&oacute;n con el tercer bloque, que es el Parque Ecol&oacute;gico Lago de Texcoco y las obras de protecci&oacute;n. El parque de Texcoco lo va a presentar el arquitecto I&ntilde;aki, las obras de protecci&oacute;n el doctor Felipe Zatar&aacute;in.</p>
+
+<p><strong>I&Ntilde;AKI ECHEVERR&Iacute;A GUTI&Eacute;RREZ, COORDINADOR DEL PROYECTO PARQUE ECOL&Oacute;GICO LAGO DE&nbsp;TEXCOCO&nbsp;(PELT):</strong> Buenos d&iacute;as, se&ntilde;or presidente; buenos d&iacute;as a los medios que nos acompa&ntilde;an y a todo al p&uacute;blico que nos mira y nos escucha.</p>
+
+<p>Me da mucho gusto volver a presentarles los avances y los resultados del parque que me fue confiado. El proyecto del Parque Ecol&oacute;gico Lago de Texcoco es la pieza clave de una gran visi&oacute;n, es recuperar este espacio de agua y vida, y restaurar la ecolog&iacute;a de todo el Valle de M&eacute;xico, lo que va a garantizar su habitabilidad de cara a los pr&oacute;ximos 100 a&ntilde;os en el contexto del cambio clim&aacute;tico global.</p>
+
+<p>Es un territorio enorme que el 22 de marzo de 2022 se convirti&oacute;, por decreto presidencial, en un &aacute;rea natural protegida, esto va evitar que sea urbanizado ni privatizado. Se trata de 14 mil 30 hect&aacute;reas lo que, para dar una idea, equivale a 17 veces el Bosque de Chapultepec; es del tama&ntilde;o de Torre&oacute;n, 2.5 veces la ciudad de Oaxaca o la ciudad de Villahermosa y, para dar un referente internacional, 2.8 veces la isla de Manhattan.</p>
+
+<p>Incluye, dentro de este territorio, las cuatro mil 800 hect&aacute;reas donde se constru&iacute;a el aeropuerto que fue cancelado, es decir, es mucho, mucho m&aacute;s grande que eso. Luego hay confusi&oacute;n sobre el tema. Se trata de un proyecto de justicia ambiental y de justicia social y cultural, que garantiza los derechos de todas las comunidades que lo habitamos, humanas y no humanas, a un medio ambiente sano, sustentable y equitativo. como para las 300 mil aves que lo ocupan anualmente, por ejemplo, todo el sistema de lagos.</p>
+
+<p>Les comento que hemos participado ya m&aacute;s de 11 mil 500 personas de much&iacute;simos sectores en este proyecto y se invierten en &eacute;l m&aacute;s de cinco mil 500 millones de pesos, todo esto para beneficiar a 12 y medio millones de habitantes del Valle de M&eacute;xico y a cuatro y medio millones de ellos de forma directa por colindar con el &aacute;rea protegida.</p>
+
+<p>Pero lo m&aacute;s importante es que se mantienen vivas la oportunidad y la posibilidad de un futuro radicalmente mejor para el oriente de la zona metropolitana de la Ciudad de M&eacute;xico, y para recuperar y proteger la ecolog&iacute;a de todo el valle ante el cambio clim&aacute;tico global.</p>
+
+<p>Entre otras cosas, por ejemplo, se incluye un deportivo muy grande, 270 hect&aacute;reas, pr&aacute;cticamente donde tenemos de todo, evidentemente futbol, basquetbol, v&oacute;leibol, futbol americano, b&eacute;isbol, pero tambi&eacute;n algunas cosas m&aacute;s inusuales, evidentemente una pista de patinetas, que ya es casi un est&aacute;ndar, pero, bueno; tenemos el primer tubo completo, que yo he visto en espacio p&uacute;blico; tenemos frontones, un juego de pelota tradicional prehisp&aacute;nico, tenemos espacios de <em>parkour</em>, un museo de sitio, restaurantes, zonas de apoyo, en fin, evidentemente zonas de esparcimiento, juegos, picnic y dem&aacute;s.</p>
+
+<p>Esto sin tomar en cuenta todo lo que est&aacute; sucediendo en otras zonas del parque, como, por ejemplo, en un vivero que se construy&oacute; para poder tener acceso a especies hal&oacute;fitas, que podemos reproducir en la zona, inclusive ir mejorando para poder apoyar otros proyectos en el valle. De hecho, ya estamos haciendo pruebas en Xochimilco, donde construimos tambi&eacute;n un centro comunitario que ya tambi&eacute;n se est&aacute; usando para algunas cuestiones sociales y eventos, principalmente institucionales, hasta ahora como pilotos.</p>
+
+<p>Un paseo en el lago &lsquo;Nabor Carrillo&rsquo; para abrir este espacio al p&uacute;blico, pistas, recuperando, reciclando, digamos, espacios que encontramos y que los convertimos, por ejemplo, en pistas para correr o entrenamiento para patines, etc&eacute;tera.</p>
+
+<p>La Ci&eacute;nega de San Juan, que la estamos recuperando por supuesto en colaboraci&oacute;n con compa&ntilde;eros de Conanp, con compa&ntilde;eros del Frente de Pueblos en Defensa de la Tierra, con una serie de comunidades que estamos trabajando ah&iacute;, y m&uacute;ltiples otras actividades que se han propuesto y algunos espacios que se est&aacute;n recuperando, principalmente de lagunas.</p>
+
+<p>Con eso es cuanto, se&ntilde;or presidente. Gracias.</p>
+
+<p><strong>FELIPE ZATAR&Aacute;IN MENDOZA:</strong> Con su permiso de nuevo, presidente. Las obras de protecci&oacute;n en Paso Largo, Veracruz est&aacute;n asociadas a la construcci&oacute;n de la autopista Cardel-Poza Rica. Tuvo una inversi&oacute;n total de 774.9 millones de pesos. Se construyen 14 obras, se iniciaron en el 2022.</p>
+
+<p>Las principales obras son: la apertura de la Barra de Nautla, la rehabilitaci&oacute;n es espigones; el desazolve de r&iacute;os, son 32 kil&oacute;metros de desazolve en los r&iacute;os Bobos, Chapachapa y algunos arroyos aleda&ntilde;os; La construcci&oacute;n, rehabilitaci&oacute;n y sobre elevaci&oacute;n de algunos bordos. Es importante se&ntilde;alar que de las 14 obras que se comprometieron, ya se concluyeron 11 y tenemos tres obras pendientes.</p>
+
+<p>En la siguiente l&aacute;mina podemos ver algunas im&aacute;genes. La primera es de la apertura de la barra de Nautla, esta obra fue ejecutada por la Secretar&iacute;a de Marina; el desazolve del r&iacute;o Chapachapa, en la localidad de Troncones; la rehabilitaci&oacute;n de un bordo en la localidad de La Reforma, la construcci&oacute;n de un bordo en la localidad de La Constancia, la sobrelevaci&oacute;n de un bordo en Chapachapa, del r&iacute;o Chapa-Chapa en Troncones, y la rehabilitaci&oacute;n de espigones en la comunidad de La Reforma.</p>
+
+<p>En relaci&oacute;n con las obras sobre en el r&iacute;o Tula, que tienen por objetivo incrementar la capacidad del r&iacute;o a 500 metros c&uacute;bicos por segundo, es decir, duplicar la capacidad que ten&iacute;a anteriormente, son 3.8 kil&oacute;metros que est&aacute;n en la zona urbana de la ciudad de Tula. Tienen una inversi&oacute;n de mil 160.2 millones de pesos. Estamos pr&aacute;cticamente terminando, esperamos terminar en la primera quincena de julio.</p>
+
+<p>La obra se dividi&oacute; en cinco tramos, tenemos cinco frentes, cinco empresas distintas, y las obras consistieron en ampliar la secci&oacute;n hidr&aacute;ulica de los puentes Metlac y Zaragoza, que obstru&iacute;an en cauce; la rectificaci&oacute;n, ampliaci&oacute;n y revestimiento en los 3.78 kil&oacute;metros que se&ntilde;al&eacute;, que est&aacute;n en la zona urbana, y el desazolve sobre elevaci&oacute;n de bordos y la construcci&oacute;n de muros.</p>
+
+<p>En las siguientes im&aacute;genes podemos observar el tramo 1, que implicaba b&aacute;sicamente rectificaci&oacute;n y protecciones marginales, est&aacute; concluido.</p>
+
+<p>El tramo 2, que inclu&iacute;a la amplificaci&oacute;n de los puentes, como puede observarse en la fotograf&iacute;a, un caj&oacute;n sobre el puente Metlac, que tiene protecci&oacute;n del INAH, est&aacute; concluido.</p>
+
+<p>El tramo 4, est&aacute; concluido.</p>
+
+<p>El tramo 5, que es el tramo m&aacute;s aguas abajo est&aacute; concluido, ah&iacute; podemos observar la incorporaci&oacute;n del r&iacute;o Rosas al r&iacute;o Tula.</p>
+
+<p>Y lo que tenemos pendiente es una dificultad que tenemos para construir, por la cercan&iacute;a de las casas con los cauces. Se decidi&oacute; por construir 125 pilas, de las cuales se han construido 87 hasta este momento y, como lo se&ntilde;al&eacute;, esperamos terminar en la primera quincena de julio.</p>
+
+<p>Es cuanto. Muchas gracias.</p>
+
+<p><strong>GERM&Aacute;N ARTURO MART&Iacute;NEZ SANTOYO:</strong> Se&ntilde;or presidente, con esto terminamos la presentaci&oacute;n de los proyectos h&iacute;dricos prioritarios. Con su permiso.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Bueno, nos llev&oacute; tiempo, pero es importante que se conozca. Vamos a concluir. &iquest;No tenemos nada pendiente? Entonces, vamos a empezar, como siempre.</p>
+
+<p><strong>PREGUNTA:</strong> Buenos d&iacute;as a todos.</p>
+
+<p>Juan Hern&aacute;ndez, del <em>Diario</em> <em>Basta, </em>de Grupo Cant&oacute;n;<em> Tabasco Hoy, Campeche Hoy y Quintana Roo Hoy, </em>de Grupo Cant&oacute;n.</p>
+
+<p>Van a ser dos preguntas muy r&aacute;pidas. La primera, se&ntilde;or presidente: usted ha se&ntilde;alado que el Poder Judicial est&aacute; podrido y es necesaria la reforma porque no est&aacute; haciendo justicia pronta y expedita para todos, pero tambi&eacute;n hay casos para, en este caso de los organismos de impartici&oacute;n de justicia electoral, como es el Instituto Electoral de Participaci&oacute;n Ciudadana de Jalisco, donde su titular Paula Ram&iacute;rez, fue denunciada por impedir que se aporten las pruebas que evidencian c&oacute;mo hubo <em>mano negra</em> en la elecci&oacute;n para la gubernatura del estado.</p>
+
+<p>En <em>Diario</em> <em>Basta</em> le hemos dado seguimiento a c&oacute;mo se han documentado todo tipo de artima&ntilde;as del pasado, incluso del PRI, en donde se hablaba del <em>embarazo de urnas</em>, ama&ntilde;o en el conteo de votos, desaparici&oacute;n de papeler&iacute;a electoral, atraso y manipulaci&oacute;n de boletas electorales, amenazas a funcionarios e incluso a partidos pol&iacute;ticos, entre otras irregularidades.</p>
+
+<p>Esta omisi&oacute;n de la consejera presidenta &mdash;en este caso estamos hablando de una de las m&aacute;ximas, de la m&aacute;xima autoridad&mdash; hace sospechar que hay complicidad y que no se tomar&aacute;n en cuenta estas pruebas que demuestran que el candidato de Movimiento Ciudadano no logr&oacute; una victoria limpia para la gubernatura del estado.</p>
+
+<p>Ello ha obligado que Claudia Delgadillo, candidata de Morena, exigiera, conforme a la ley, un voto, casilla por casilla. Y, adem&aacute;s, precisamente ante esta omisi&oacute;n, pide la intervenci&oacute;n directa del INE.</p>
+
+<p>Y, bueno, &iquest;qu&eacute; se deber&aacute; de hacer para que en Jalisco se respete la voluntad ciudadana, que evidentemente reprob&oacute; una gesti&oacute;n de Movimiento Ciudadano? Esa ser&iacute;a mi primera pregunta.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Bueno, corresponde a las autoridades electorales, pero s&iacute; conviene en todos, estos casos donde hay impugnaciones, que se abran los paquetes y que se cuenten los votos, eso es lo mejor, eso se resuelve en pocos d&iacute;as. Y que est&eacute; la autoridad electoral y que est&eacute;n los representantes de los partidos, de las coaliciones. Y voto por voto, casilla por casilla, un recuento, eso es lo mejor.</p>
+
+<p>En el 2006, cuando nos robaron la Presidencia, se negaron a hacer eso. Argumentaron dos cosas, o utilizaron de excusa dos falacias:</p>
+
+<p>Una que la ley no lo permit&iacute;a. Eso ya no aplica, porque la ley s&iacute; lo permite. Adem&aacute;s, &iquest;en qu&eacute; perjudica que se haga un recuento para que todos queden tranquilos?</p>
+
+<p>En el 2006 hubo una elecci&oacute;n en Costa Rica y, tambi&eacute;n, muy re&ntilde;ida. Aqu&iacute; fue 0.5. 0.6 la diferencia, all&aacute; fue creo que uno por ciento, casi el doble la diferencia. Y el candidato que perdi&oacute; pidi&oacute; que se contaran los votos, y el candidato ganador dijo &lsquo;de acuerdo&rsquo;, y se contaron los votos en Costa Rica. Estoy hablando del 2006, casi al mismo tiempo de la elecci&oacute;n en M&eacute;xico, y se confirm&oacute; el resultado y lo reconoci&oacute; el candidato perdedor, y todo mundo satisfecho.</p>
+
+<p>Aqu&iacute; no quisieron, se negaron, porque sab&iacute;an que era &mdash;como se dice coloquialmente, ofrezco disculpas por usar esta mala palabra&mdash; un cochinero. Hubo un intelectual de estos afamados, internacionalistas, que dijo: &lsquo;Ni se les vaya a ocurrir aceptar eso&rsquo;.</p>
+
+<p>Porque hasta le mand&eacute; una carta a Felipe Calder&oacute;n, y me contest&oacute; lo mismo, que la ley era la ley, que ya estaba en manos de la autoridad electoral. Desde luego que estaba en manos de la autoridad electoral, pero si los candidatos lleg&aacute;bamos a un acuerdo la autoridad electoral ni modo que se negara al recuento. Eso fue un pretexto.</p>
+
+<p>El otro, que llevaba mucho tiempo llevar a cabo el conteo. No, no lleva mucho tiempo, se hace en una semana cuando mucho.</p>
+
+<p>Entonces, mi recomendaci&oacute;n respetuosa en todos esos casos es que se cuenten los votos, que se abran los paquetes y que est&eacute;n las partes, y as&iacute; se resuelve todo.</p>
+
+<p><strong>INTERLOCUTOR:</strong> Pero en este caso la titular del organismo, Paula Ram&iacute;rez, se ha negado a recibir pruebas. En este caso han documentado falsificaci&oacute;n de boletas electorales, han documentado tambi&eacute;n con videos c&oacute;mo se retras&oacute; la entrega de, bueno, en este caso de boletas, de materiales electoral; tambi&eacute;n se ha documentado amenazas a los partidos pol&iacute;ticos. Realmente han puesto en tela de juicio la participaci&oacute;n.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> S&iacute;, puede haber todos esos se&ntilde;alamientos, es parte de las impugnaciones, pero ir directo a abrir los paquetes y contar los votos resuelve; porque por m&aacute;s buenos expertos, &lsquo;maestros mapaches&rsquo;, no alcanzan a &lsquo;planchar&rsquo; todo, ya est&aacute; demostrado.</p>
+
+<p>Cuando se abre un paquete y hubo un fraude, van a faltar boletas, van a haber boletas de m&aacute;s; cuando hay fraude, en el conteo va a aparecer lo que suced&iacute;a en las pocas boletas que se contaron o los paquetes que se abrieron para contar boletas: que hab&iacute;a m&aacute;s votos que electores en una secci&oacute;n. Me acuerdo en una secci&oacute;n de Guadalupe en Nuevo Le&oacute;n, que eran 400 electores y aparecieron 600 boletas marcadas a favor de Calder&oacute;n. Y as&iacute; tambi&eacute;n en la Huasteca potosina.</p>
+
+<p>Entonces, eso es lo mejor, es una recomendaci&oacute;n respetuosa. Desde luego, hay que atenerse a lo que decida la autoridad electoral. Lo m&iacute;o es una simple opini&oacute;n, pero s&iacute; ayuda mucho, porque ya con eso no hay sospechas; pero el que se niega a abrir paquetes, a contar, es porque sabe que no actuaron con honestidad, con limpieza.</p>
+
+<p><strong>INTERLOCUTOR:</strong> A descartar, digamos, en todo caso, un riesgo de cochinero.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> S&iacute;. Yo no s&eacute; exactamente que haya pasado, o sea, no puedo yo prejuzgar, no me corresponde, es nada m&aacute;s la experiencia.</p>
+
+<p>F&iacute;jense que, despu&eacute;s de que no aceptaron el voto por voto, casilla por casilla, voto por voto, casilla por casilla, se llev&oacute; a cabo una reforma electoral y ya en esa reforma electoral incluyeron el recuento, despu&eacute;s de que ya hab&iacute;an hecho su fraude ya lo incluyeron en la ley electoral; o sea, debe estar en la ley electoral de Jalisco, porque fue nacional, y debe estar en la ley electoral de los estados, pero no conozco tampoco el marco legal.</p>
+
+<p><strong>INTERLOCUTOR:</strong> Es hacer respetar la ley, exigir que se respete la ley, es en s&iacute; que se respete la ley.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> &iquest;C&oacute;mo? &iquest;Que s&iacute; se aplica?</p>
+
+<p><strong>INTERLOCUTOR:</strong> No, es hacer que se respete y que se aplique la ley, as&iacute; de simple.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> S&iacute;, pero es una simple opini&oacute;n, o sea, no m&aacute;s que eso.</p>
+
+<p><strong>INTERLOCUTOR:</strong> Y, bueno, pasando a otro tema, se&ntilde;or presidente, precisamente, y aprovechado, &iquest;qu&eacute; nos puede dar en este caso, reportar, sobre las acciones que se est&aacute;n tomando precisamente sobre el caso de la tormenta Alberto, las medidas que se est&aacute;n tomando para proteger a la poblaci&oacute;n sobre este fen&oacute;meno meteorol&oacute;gico?</p>
+
+<p>Eso ser&iacute;a todo. Muchas gracias.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Se est&aacute; trabajando, hoy tratamos el tema, desde ayer estamos d&aacute;ndole seguimiento a lo de este cicl&oacute;n que, se pronostica, se va a convertir en tormenta. Es el primer cicl&oacute;n o fen&oacute;meno de lluvia intensa, en el golfo. Ha llovido bastante en el sureste, y va a entrar, est&aacute; entrando por la costa de Tamaulipas, se tienen ah&iacute; las im&aacute;genes. Y ya se est&aacute; actuando, est&aacute; el Ej&eacute;rcito, est&aacute; la Marina, est&aacute; la Guardia Nacional. A ver si est&aacute; la otra imagen, la de la trayectoria.</p>
+
+<p>Y lo que se est&aacute; buscando es proteger a la poblaci&oacute;n que vive a la orilla de los r&iacute;os, de arroyos, de las zonas bajas, por lo que se conoce como crecientes o incremento en los cauces.</p>
+
+<p><strong>INTERLOCUTOR:</strong> &iquest;Y en el caso del sureste como es Campeche, Yucat&aacute;n, Quintana Roo?</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> B&aacute;sicamente es agua, mucha agua, mucha agua, no tenemos m&aacute;s que ese reporte; inundaci&oacute;n como tal, la de Chetumal b&aacute;sicamente; y todo lo dem&aacute;s, Quintana Roo, Yucat&aacute;n, Campeche, la parte costera, Tabasco, Veracruz, pero se qued&oacute; en el golfo el cicl&oacute;n, y sube y va a entrar.</p>
+
+<p><strong>JES&Uacute;S RAM&Iacute;REZ CUEVAS, COORDINADOR GENERAL DE COMUNICACI&Oacute;N SOCIAL Y VOCERO DE PRESIDENCIA:</strong> Ya entr&oacute; por ciudad Madero.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Ya entr&oacute; por Madero, es exactamente en los l&iacute;mites de Veracruz con Tamaulipas, y se est&aacute; pronosticando que se va a convertir en tormenta, pero estamos pendientes.</p>
+
+<p>Desgracias, p&eacute;rdida de vidas humanas, de manera indirecta dos ni&ntilde;os en Nuevo Le&oacute;n que iban en una bicicleta en zona de humedad se electrocutaron, hasta ahora; se habla de otro ni&ntilde;o atrapado tambi&eacute;n en Nuevo Le&oacute;n. Eso es lo que tenemos; vamos a estar pendientes.</p>
+
+<p><strong>PREGUNTA:</strong> Gracias, presidente. Buenos d&iacute;as.</p>
+
+<p>Judith S&aacute;nchez Reyes, de <em>Perspectivas Mx</em>.</p>
+
+<p>Siguiendo un poco con el ambiente poselectoral, hace unos d&iacute;as el Tribunal Electoral del Poder Judicial de la Federaci&oacute;n resolvi&oacute; que usted hab&iacute;a cometido violencia pol&iacute;tica de g&eacute;nero en contra de X&oacute;chitl G&aacute;lvez en varias ma&ntilde;aneras durante la campa&ntilde;a electoral.</p>
+
+<p>La excandidata presidencial subray&oacute; que no pide anular la elecci&oacute;n como tal, sino m&aacute;s bien que haya sanciones por la intromisi&oacute;n que, ella califica, usted hizo en el proceso, y tambi&eacute;n lo que tiene que ver con la presencia del crimen organizado. Eso, por una parte.</p>
+
+<p>Por otra, la Organizaci&oacute;n de Naciones Unidas pide a su gobierno investigar la violencia que se dio durante la jornada electoral, ya que 63 actores pol&iacute;ticos fueron asesinados, de los cuales 37 aspiraban o fueron candidatos a un cargo de elecci&oacute;n popular.</p>
+
+<p>En este sentido, presidente, preguntarle qu&eacute; opini&oacute;n le merecen estas situaciones.</p>
+
+<p>Y usted la semana pasada hab&iacute;a dicho que solamente ten&iacute;a el dato de seis candidatos asesinados; sin embargo, los n&uacute;meros son diferentes. Preguntarle cu&aacute;l es el reporte, en qu&eacute; reporte se bas&oacute; para dar este comentario.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> En lo primero, decir que yo no ofend&iacute; a la se&ntilde;ora X&oacute;chitl, no hay prueba de eso. No lo hago por principios, no ofendo a nadie, menos a una mujer. No s&eacute; de d&oacute;nde sali&oacute; eso.</p>
+
+<p>Me consta que en una ocasi&oacute;n en el Instituto Electoral tergiversaron, una consejera del bloque conservador se atrevi&oacute; a cambiar mis palabras, incluso hasta la sancionaron en el mismo Instituto Electoral.</p>
+
+<p><strong>INTERVENCI&Oacute;N:</strong> Fue un funcionario, fue un funcionario.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Un funcionario, s&iacute;. Pero nunca he ofendido a la se&ntilde;ora, nunca. No s&eacute; de d&oacute;nde sali&oacute; eso.</p>
+
+<p>Lo del narcotr&aacute;fico, pues esa es una campa&ntilde;a, &iquest;no?, que echaron a andar el bloque conservador, Claudio X Gonz&aacute;lez y los financieros, es decir, los que aportaron a esa campa&ntilde;a; Y tambi&eacute;n agencias del extranjero, porque mandaron a buscar hasta periodistas famosos. Este Tom&hellip; &iquest;C&oacute;mo se llama?</p>
+
+<p><strong>JES&Uacute;S RAM&Iacute;REZ CUEVAS:</strong> Tim Golden.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Tim Golden, premio nobel del periodismo, dos veces premiado con el&hellip;</p>
+
+<p><strong>JES&Uacute;S RAM&Iacute;REZ CUEVAS:</strong> Pulitzer.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Pulitzer, que no me ha contestado. Le hice algunas preguntas. &iquest;No tienes las preguntas?, porque en una de esas se anima a contestar. Porque empez&oacute; una campa&ntilde;a al inicio del a&ntilde;o, &lsquo;AMLO presidente narco&rsquo;, y es la campa&ntilde;a m&aacute;s difundida en toda la historia de las redes sociales; que, por cierto, ya se apag&oacute;, ya dejaron de promoverla.</p>
+
+<p>Porque se originaba desde el extranjero, ah&iacute; supimos que estaban a tres por uno los bots en Argentina. Y se inform&oacute; y hay que seguir informando sobre c&oacute;mo funcionan estas campa&ntilde;as en redes con mecanismos automatizados, lo que son las granjas de bots. Ojal&aacute; un d&iacute;a venga un experto y explique, pero sencillo, de c&oacute;mo llenan las redes sociales de mentiras o c&oacute;mo reproducen mentiras, pero por millones con dinero para seguir vacunando a la gente en contra de toda esa informaci&oacute;n t&oacute;xica.</p>
+
+<p>Entonces, echaron a andar esa campa&ntilde;a. Aqu&iacute; la se&ntilde;ora Anabel Hern&aacute;ndez hizo hasta un libro que casualmente lo public&oacute; como 15 d&iacute;as antes de la elecci&oacute;n, sin una sola prueba. Pero hay una constante. Tanto este superperiodista o famoso periodista, como Anabel Hern&aacute;ndez, como el <em>New York Times</em>, todos, la fuente de informaci&oacute;n es la DEA, amerita una investigaci&oacute;n.</p>
+
+<p>Hace dos d&iacute;as &mdash;que hab&iacute;a que ver si fue la DEA&mdash; ya estaban opinando acerca de la reforma del Poder Judicial en M&eacute;xico, metiendo, con todo respeto, las narices en algo que no les corresponde, que es un af&aacute;n prepotente de intervencionismo.</p>
+
+<p>Pero miren lo que le pregunto a Tim Golden:</p>
+
+<p>&lsquo;&iquest;D&oacute;nde estabas cuando te pidieron que hicieras el reportaje en contra m&iacute;a?&rsquo; El que ha recibido dos veces el Pulitzer del periodismo. &iquest;Por qu&eacute; no va a contestar? &iquest;Por qu&eacute; se queda callado?</p>
+
+<p>&lsquo;&iquest;Cu&aacute;nto tiempo te llev&oacute; escribirlo? &iquest;Cu&aacute;nto te pagan? Si eres periodista de base &mdash;es decir, si est&aacute;s contratado por un medio&mdash; o te pagan por reportaje, por encargo. &iquest;Qui&eacute;n fue el que te convenci&oacute; que era importante hacer el reportaje? &iquest;De d&oacute;nde obtuviste la informaci&oacute;n? &iquest;Hablaste con agentes de la DEA? &iquest;De qu&eacute; nivel?&rsquo; Porque hay agentes, hay, como dir&iacute;a un amigo, nivelitos.</p>
+
+<p>&lsquo;Ya s&eacute; que no puedes revelar tus fuentes, pero, nada m&aacute;s, que nos digas, si fueron los de abajo &mdash;los agentes&mdash;, los de en medio o los de arriba&rsquo;, de la DEA. Hay que reformular la pregunta para aclararla m&aacute;s.</p>
+
+<p>&lsquo;Si aparte de los agentes de la DEA &mdash;o directivos de la DEA&mdash; tuviste alguna entrevista con funcionarios del Departamento de Justicia de Estados Unidos o del Departamento de Estado.</p>
+
+<p>&lsquo;&iquest;Aqu&iacute; en M&eacute;xico a qui&eacute;n consultaste?&rsquo;</p>
+
+<p>Ya nada m&aacute;s otra: si tienes pruebas, de que el presidente de M&eacute;xico est&aacute; vinculado al narcotr&aacute;fico.</p>
+
+<p>Y la &uacute;ltima: si no tienes pruebas, &iquest;podr&iacute;as ofrecer una disculpa p&uacute;blica? Ya, ah&iacute;.</p>
+
+<p>Entonces, la se&ntilde;ora Anabel, tambi&eacute;n en este contexto, adem&aacute;s de escribir casi lo mismo y con la misma fuente, escribe un libro y no da, no aporta ninguna prueba, es un libro de calumnias.</p>
+
+<p><strong>INTERVENCI&Oacute;N:</strong> (Inaudible)</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> S&iacute;, pero va a ser muy dif&iacute;cil. Pero, de todas maneras, aplicar&iacute;a para todos. Debe haber &eacute;tica en el ejercicio del periodismo, con en el ejercicio de la pol&iacute;tica. No se puede estar difamando, mintiendo. Ya basta de estar con el estribillo de &lsquo;fuentes an&oacute;nimas&rsquo; o &lsquo;es informaci&oacute;n que no puedo revelar por protecci&oacute;n a quien me otorg&oacute; los datos&rsquo;.</p>
+
+<p>En el libro sobre Ayotzinapa lo mismo, Anabel dice, palabras m&aacute;s, palabras menos, que los j&oacute;venes detienen a un autob&uacute;s de los que estaban obteniendo para trasladarse, preparando una movilizaci&oacute;n hacia el 2 de octubre, ven&iacute;an para ac&aacute;. Acu&eacute;rdense que eso fue el 26 de septiembre en la noche y ten&iacute;an como prop&oacute;sito reunir 20 camiones, y por eso fueron a Iguala a obtener los camiones. Pero que uno de esos autobuses hab&iacute;a droga, hero&iacute;na, que iban a llevar a Estados Unidos, que trasladaban hero&iacute;na desde Iguala &mdash;esto Anabel&mdash; a Chicago, Estados Unidos, y pone informaci&oacute;n de la DEA. Y que dice ella que su informante le comenta que el capo de capos decide escarmentar a los j&oacute;venes y &eacute;l ordena al Ej&eacute;rcito que se haga cargo de los j&oacute;venes. Y que su informante le confirma que los j&oacute;venes fueron trasladados al batall&oacute;n y que fue el Ej&eacute;rcito. Incluso el cap&iacute;tulo de su libro se llama &lsquo;Fue el ej&eacute;rcito&rsquo;, lo que estamos escuchando constantemente en las consignas, cuando no hay ninguna prueba.</p>
+
+<p>Y ella participa como testigo para que se le d&eacute; asilo al juez de barandilla de Iguala que asegura que los j&oacute;venes nunca estuvieron en los separos de ese juzgado. Y el gobierno de Estados Unidos, ll&aacute;mese Departamento de Justicia, DEA o c&oacute;mo se le llame, le otorga el asilo al juez de barandilla &mdash;a ver si encuentras&mdash; y se avientan un juicio de valor para justificar por qu&eacute; lo asilaban. Te estoy hablando del proceso.</p>
+
+<p>A ver si encuentras, para leerlo textualmente, en donde sin pruebas&hellip; Porque desde que empez&oacute; la denuncia, incluso la solicitud de amparo de medidas cautelares, nunca se habla del gobierno federal ni del Ej&eacute;rcito, de habla de autoridades locales, polic&iacute;as municipales y de una banda, creo, Guerreros Unidos; pero, despu&eacute;s, empieza a cambiar la narrativa a &lsquo;fue el Ej&eacute;rcito&rsquo;. Y yo tengo mis sospechas porque en ese entonces hab&iacute;a la intenci&oacute;n desde Estados Unidos, en particular de la DEA, de vengarse del Ej&eacute;rcito.</p>
+
+<p>Esta el caso del general Cienfuegos, porque desde el gobierno de Calder&oacute;n quisieron utilizar al Ej&eacute;rcito Mexicano para llevar a cabo sus operaciones en M&eacute;xico. En el gobierno de Calder&oacute;n operaban desde la embajada de Estados Unidos. En el gobierno de Calder&oacute;n formaron a elementos de la Marina, eso lo permiti&oacute; Calder&oacute;n, la Secretar&iacute;a de Marina ten&iacute;a otros fines.</p>
+
+<p>Y como no pod&iacute;an subordinar al Ej&eacute;rcito, por lo que significa el Ej&eacute;rcito Mexicano, un Ej&eacute;rcito surgido de la Revoluci&oacute;n, nacionalista, Calder&oacute;n les da la oportunidad y se llevan a marinos a formarlos en el Comando Norte y constituyen, crean, un cuerpo de &eacute;lite militarizado con todo el equipo m&aacute;s sofisticado. Y lo subordinan, hay un testimonio de un embajador de Estados Unidos en M&eacute;xico en donde habla de que ellos daban las &oacute;rdenes a la Marina cuando fue el enfrentamiento y ajusticiamiento o asesinato de los Beltr&aacute;n Leyva. Hasta declar&oacute; en ese entonces el embajador de Estados Unidos que el Ej&eacute;rcito no ayudaba, que ayudaba la Marina.</p>
+
+<p>Entonces, ahora la se&ntilde;ora Anabel&hellip; Ah, &iquest;no encontraste&hellip;? Pero quiero el testimonio, m&aacute;s que nada el criterio de la corte en donde dice: &lsquo;No puede &mdash;f&iacute;jense lo que sostienen&mdash; no puede una autoridad local, no pueden las autoridades locales, ni las polic&iacute;as municipales, ni la delincuencia que operaba en la regi&oacute;n llevar a cabo un operativo para desaparecer a 43 j&oacute;venes porque no tendr&iacute;a capacidad de hacerlo. Esto &mdash;pero as&iacute; lo afirman&mdash; s&oacute;lo pudo realizarlo el gobierno federal y la Polic&iacute;a Federal&rsquo;, sin pruebas, y le otorgan el asilo, siendo, testigo, la se&ntilde;ora Anabel.</p>
+
+<p>&iquest;Por qu&eacute; me importa?</p>
+
+<p>Porque queremos saber d&oacute;nde est&aacute;n los j&oacute;venes. C&oacute;mo se nos ha complicado tanto, por los intereses.</p>
+
+<p>Y si no hubiese padecido yo a la se&ntilde;ora Anabel en carne propia, si fuese cualquier otra periodista o cualquier periodista, yo dir&iacute;a: Pues a lo mejor lo de Iguala tiene alg&uacute;n sustento&rsquo;; pero despu&eacute;s de lo que me hizo a m&iacute;, que inventa que voy a una gira a La Laguna y que un famoso delincuente, Villareal, se re&uacute;ne conmigo en un hotel y en una habitaci&oacute;n &mdash;dice, por cierto&mdash; no muy grande, nos saludamos y me entrega una maleta llena de dinero y yo le entrego esa maleta a quien era mi ayudante, el general Audomaro Mart&iacute;nez, que es ahora el de inteligencia&rsquo;. &iquest;Cu&aacute;ndo? &iquest;Qu&eacute; prueba? Y todo el libro as&iacute;.</p>
+
+<p>Y en el caso que les estoy planteando de Ayotzinapa, que es un tema, lo bueno es que todav&iacute;a me quedan 100 d&iacute;as, porque vamos a seguir hablando de esto.</p>
+
+<p>Es como lo del Tim Golden, &iquest;no? O sea, ni modo que me voy a quedar callado.</p>
+
+<p><strong>INTERLOCUTORA:</strong> Presidente y sobre&hellip;</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;&#39;PEZ OBRADOR:</strong> Perm&iacute;teme, perm&iacute;teme.</p>
+
+<p>Entonces, cuando dice: &lsquo;Tengo una fuente que es la que me da toda esta informaci&oacute;n&hellip;&rsquo; &iexcl;Ah!, y que luego el capo de capos se enoja y dice: &lsquo;No&rsquo;, si no era para que los mataran y los desaparecieran, era nada m&aacute;s un escarmiento&rsquo;, que estaba enojad&iacute;simo, toda una invenci&oacute;n.</p>
+
+<p>Pero a m&iacute; me llama la atenci&oacute;n de que ese libro lo publica en el 16 y del 14 al 16 no aparece el Ej&eacute;rcito, y a partir del 16 empiezan a hablar del Ej&eacute;rcito y aparecen las escuchas de la DEA a ese grupo de delincuentes, y de ah&iacute; vienen acusaciones y todo.</p>
+
+<p>&iquest;Y saben qui&eacute;n era el de&hellip;? &iquest;C&oacute;mo se llama este organismo de la OEA?</p>
+
+<p><strong>JES&Uacute;S RAM&Iacute;REZ CUEVAS:</strong> La Corte Interamericana.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR: </strong>El secretario de la Corte Interamericana de Derechos Humanos&hellip;</p>
+
+<p><strong>JES&Uacute;S RAM&Iacute;REZ CUEVAS:</strong> En este caso era la Comisi&oacute;n Interamericana, esta la corte y la comisi&oacute;n.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> No, no, no, la comisi&oacute;n. El secretario era este Emilio &Aacute;lvarez Icaza, que siempre ha sido un reaccionario y obviamente contrario a nosotros, y &eacute;l fue el creador de todo este grupo que particip&oacute;.</p>
+
+<p>Y como hablas de la ONU tambi&eacute;n quiero aprovechar para decir que este se&ntilde;or de la ONU tambi&eacute;n trae diferencias con nosotros constantemente, porque todos estos organismos no act&uacute;an con integridad, con rectitud, son parte de los mismos esquemas, de las estructuras de dominaci&oacute;n al servicio de intereses, funcionarios de la ONU, de la OEA y de much&iacute;simos organismos que ganan tres, cuatro, cinco veces m&aacute;s de lo que yo gano, 10 veces m&aacute;s de lo que ganan ustedes; se la pasan muy bien con puras recomendaciones.</p>
+
+<p>Otra cuesti&oacute;n que surgi&oacute; durante el periodo neoliberal, que brotaron como hongos despu&eacute;s de la lluvia, fueron las llamadas organizaciones no gubernamentales, que viv&iacute;an y todav&iacute;a se mantienen del dinero que env&iacute;an del extranjero, y que tienen un prop&oacute;sito: servir a sus matrices, a sus centros de dominaci&oacute;n.</p>
+
+<p>Entonces, es importante debatir sobre todo esto. En este tiempo una organizaci&oacute;n que era muy buena, la de Agust&iacute;n Pro, la echaron a perder por completo por esta influencia conservadora de &Aacute;lvarez Icaza y dem&aacute;s. Una organizaci&oacute;n jesuita. Los jesuitas de antes, los conoc&iacute;, muy humanos, austeros, como franciscanos tambi&eacute;n; el padre Carlitos, padre Goitia, que ya falleci&oacute;; el mismo Jes&uacute;s Maldonado, fundador del Prodh, rectos.</p>
+
+<p>Luego, los nuevos &mdash;no, si vamos a ir sacando cosas&mdash; ellos firmaron con Pe&ntilde;a Nieto, y eso no lo saben los padres de Ayotzinapa, que el presidente del Prodh firm&oacute; con Gobernaci&oacute;n el acuerdo para la b&uacute;squeda de los j&oacute;venes.</p>
+
+<p><strong>INTERVENCI&Oacute;N:</strong> (Inaudible)</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Me esperas un momentito. Tenemos tiempo.</p>
+
+<p>Fueron a entrevistarse con Pe&ntilde;a, con el licenciado Pe&ntilde;a, y estoy seguro que los padres ni siquiera lo supieron.</p>
+
+<p>&iquest;Y saben d&oacute;nde est&aacute; el que era presidente del Prodh ahora? Es el director de la Ibero en Puebla.</p>
+
+<p><strong>INTERVENCI&Oacute;N:</strong> Rector.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Rector de la Ibero en Puebla.</p>
+
+<p>Y como son asuntos muy delicados&hellip; Porque ellos promovieron amparos en contra de los detenidos bajo el supuesto de que hab&iacute;an padecido de tortura y ellos hicieron la denuncia para que los liberaran. Y s&iacute;, algunos hab&iacute;an sido torturados por el equipo de Zer&oacute;n y dem&aacute;s, pero no todos, y dejan en libertad &mdash;por esa sentencia que ellos elaboran y celebran&mdash; dejan en libertad a quienes hab&iacute;an participado en la desaparici&oacute;n de los j&oacute;venes, siendo al mismo tiempo los defensores de los padres, de las madres, de los j&oacute;venes, y tengo las pruebas.</p>
+
+<p>Porque, luego de que los dejan en libertad, algunos aceptar ser testigos protegidos y cuentan todo, y se autorresponsabilizan, se culpan, pero ya hab&iacute;an dejado con la resoluci&oacute;n por la supuesta tortura a 60, a 80 presuntos involucrados en la desaparici&oacute;n de los j&oacute;venes. Muy enredado todo, pero s&iacute; muy interesante para llegar a la verdad.</p>
+
+<p>No, lo que quiero es una frase.</p>
+
+<p><strong>JES&Uacute;S RAM&Iacute;REZ CUEVAS:</strong> Que, de acuerdo a testimonios, que est&aacute; de acuerdo, que dice; &lsquo;El testimonio que particip&oacute; la polic&iacute;a, el Ej&eacute;rcito, a partir del testimonio de la se&ntilde;ora Hern&aacute;ndez. Anabel.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> No, pero a ver, p&aacute;sale. Lo que quiero es&hellip;</p>
+
+<p><strong>JES&Uacute;S RAM&Iacute;REZ CUEVAS:</strong> Es que ella habla de la participaci&oacute;n del Ej&eacute;rcito, a partir de eso.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> S&iacute;, s&iacute;, s&iacute;, eso s&iacute;, de ah&iacute; sale, pero lo que quiero es &mdash;adelante&mdash; es un juicio. Yo creo que est&aacute; al final. S&iacute;guele, s&iacute;guele&hellip; No, ya esto cuando le dan l sentencia, en donde le dan, del Departamento de Justicia de Estados Unidos, cuando le dan el asilo al juez de barandilla que estaba de guardia el d&iacute;a de los sucesos en Iguala. S&iacute;guele.</p>
+
+<p><strong>JES&Uacute;S RAM&Iacute;REZ CUEVAS:</strong> Es del 7 de enero del 2020, esta sentencia.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR: </strong>S&iacute;, el 20. &iquest;Cu&aacute;nto tardaron? &iquest;Cu&aacute;nto tardaron en otorgar el asilo? &iquest;Y por qu&eacute; en enero del 20, ya estando nosotros?</p>
+
+<p>S&iacute;guele, s&iacute;guele. Yo creo que est&aacute; en las conclusiones. No, no le subas mucho. Ah&iacute;, s&iacute;guele. Es que va la se&ntilde;ora Hern&aacute;ndez, hay conclusiones. S&iacute;guele, las conclusiones m&aacute;s abajo.</p>
+
+<p><strong>JES&Uacute;S RAM&Iacute;REZ CUEVAS:</strong> Es que se acaba en las conclusiones, pero ponemos desde el principio,</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> A ver. Pon donde se repite &lsquo;autoridad federal autoridades federales&rsquo;, ponlo desde el principio. No le hace que nos lleve tiempo, &iquest;eh? Adelante, adelante, adelante, adelante. &iquest;Qu&eacute; dice ah&iacute;?</p>
+
+<p><strong>JES&Uacute;S RAM&Iacute;REZ CUEVAS: &lsquo;</strong>Resumen de la reclamaci&oacute;n del demandado&rsquo;. Podr&iacute;a ser ah&iacute;</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> S&iacute;guele, s&iacute;guele, s&iacute;guele. Ese es el testimonio de&hellip; S&iacute;guele. Es ya lo que la autoridad decide. S&iacute;guele, yo creo que por aqu&iacute; viene, yo creo que por aqu&iacute; va a ser, s&iacute;guele. Aqu&iacute; est&aacute;. Miren esto:</p>
+
+<p>&lsquo;La corte tambi&eacute;n est&aacute; de acuerdo con el testimonio cre&iacute;ble de la demandada &mdash;es demandado&mdash; y de la se&ntilde;ora Hern&aacute;ndez &mdash;Anabel&mdash; de que el Ej&eacute;rcito Mexicano y la Polic&iacute;a Federal Mexicana participaron en, y estuvieron presente durante los ataques y la desaparici&oacute;n de los estudiantes&rsquo;.</p>
+
+<p>Pero miren esto: &lsquo;Resulta inveros&iacute;mil que un intrincado encubrimiento y la desaparici&oacute;n de 43 estudiantes mexicanos...&rsquo; Ah: &lsquo;Resulta inveros&iacute;mil que un departamento de polic&iacute;a municipal &mdash;no era uno, &iquest;eh? eran como cinco polic&iacute;as municipales de toda la regi&oacute;n, controlados todos por Guerreros Unidos&mdash; resulta inveros&iacute;mil que un departamento de polic&iacute;a municipal &mdash;se refiere al de Iguala&mdash; tenga la influencia pol&iacute;tica &mdash;ellos pon&iacute;an a los presidentes municipales&mdash; y los recursos necesarios para organizar un intrincado encubrimiento y la desaparici&oacute;n de 43 estudiantes mexicanos.</p>
+
+<p>&lsquo;Es mucho m&aacute;s plausible que el gobierno federal mexicano &mdash;l&eacute;ase Pe&ntilde;a Nieto, en general Cienfuegos, Murillo Karam, y la Polic&iacute;a Federal, Ej&eacute;rcito, la Polic&iacute;a Federal&mdash; fueran responsables de este horrible incidente&rsquo;. Eso no est&aacute; probado. Entonces, estamos haciendo la investigaci&oacute;n. Claro, lo m&aacute;s importante de todo es encontrar a los muchachos. Y estamos haciendo un esfuerzo para convencer a quienes participaron, que nos den informaci&oacute;n; los vamos a proteger.</p>
+
+<p>Tambi&eacute;n aprovecho, porque no tenemos por qu&eacute; ocultar nada, nada. Por eso es que reformamos la Ley de Amnist&iacute;a, porque hay quienes piensan que reformamos la Ley de Amnist&iacute;a para que el presidente pueda sacar al que desee y que se convierta en un tirano, un dictador. &lsquo;T&uacute; eres mi amigo, tu eres mi familiar, tu eres mi socio, tu eres mi c&oacute;mplice, v&aacute;monos, para afuera&rsquo;. No, es para estos casos, este en especial y otros.</p>
+
+<p><strong>INTERVENCI&Oacute;N:</strong> Porque, as&iacute; como ustedes lo est&aacute;n presentando, quiere decir que el Departamento de Estado otorg&oacute; un asilo.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Ah, es que ni siquiera informaron a la autoridad para el juicio, esto no lo sab&iacute;a la fiscal&iacute;a de M&eacute;xico.</p>
+
+<p><strong>INTERVENCI&Oacute;N:</strong> Y ahora en este proceso&hellip;</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Ah, estamos impugnando el proceso.</p>
+
+<p><strong>INTERVENCI&Oacute;N:</strong> Para poderlo extraditar.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> S&iacute;, y adem&aacute;s pidiendo la revisi&oacute;n de todo.</p>
+
+<p><strong>INTERVENCI&Oacute;N:</strong> Entonces, lo que estoy entendiendo es: &iquest;el asilo que se le dio a este juez de barandilla, o sea, se construy&oacute; con base en mentiras en Estados Unidos?</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> S&iacute;.</p>
+
+<p><strong>INTERVENCI&Oacute;N:</strong> Entonces vale que pidan la extradici&oacute;n.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> S&iacute;, vamos a que se reciban pruebas, porque la se&ntilde;ora Anabel no ofrece ni una sola prueba, la &uacute;nica prueba que ofrece es que entrevista a este se&ntilde;or, y este se&ntilde;or dice que los muchachos no estuvieron en el juzgado, en los separos, que incluso llega un grupo de militares a ver si estaban y no los encuentran. Y, s&iacute;, llegaron los militares y no estaban, pero tenemos testimonios del jefe de la polic&iacute;a donde el juez le dice que s&iacute; hab&iacute;an estado. S&iacute;, declaraci&oacute;n.</p>
+
+<p><strong>INTERVENCI&Oacute;N:</strong> El juez hab&iacute;a dicho que ingresaron unos j&oacute;venes.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> No, no, no, documento no, porque los tuvieron y en vez de mantenerlos se los llevaron, la polic&iacute;a.</p>
+
+<p><strong>INTERVENCI&Oacute;N:</strong> Esos datos, usted, &iquest;el gobierno s&iacute; los tiene como evidencia para solicitar la extradici&oacute;n? &iquest;Ya se presentaron en Estados Unidos?</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Estamos en eso.</p>
+
+<p>Es que lo que estoy planteando, estoy trabajando casi a diario sobre esto, porque se me hace muy importante.</p>
+
+<p>Primero, repito, &iquest;no? para saber d&oacute;nde est&aacute;n los j&oacute;venes, estamos apresur&aacute;ndonos, porque ya los abogados y los defensores de derechos humanos vinieron aqu&iacute;, y ya lo que me est&aacute;n planteando es: &lsquo;Ya, a ver, usted ya no cumpli&oacute;. Ya lo que queremos es que nos ponga en comunicaci&oacute;n con la presidenta electa&rsquo; para que contin&uacute;en con lo mismo, &iquest;no? Lo que les dije: &lsquo;S&iacute; yo les voy a poner en comunicaci&oacute;n con la presidenta y la presidenta electa es muy sensible y quiere tambi&eacute;n saber sobre el paradero de los j&oacute;venes, y va a haber justicia y todo, pero esp&eacute;renme que todav&iacute;a me faltan tres meses, esp&eacute;renme.</p>
+
+<p>Adem&aacute;s, yo voy a presentar un informe, no uno, dos o tres, antes de irme. Uno se los voy a entregar el d&iacute;a 3 de julio a los padres, a uno por uno de los padres.</p>
+
+<p><strong>INTERVENCI&Oacute;N:</strong> &iquest;Aqu&iacute; en Palacio Nacional?</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Aqu&iacute;, porque no quiero entregar los documentos nada m&aacute;s a los representantes, porque esos est&aacute;n ya con una postura, y quiero que se conozca todo, todo completo. Y esto revisarlo.</p>
+
+<p>&iexcl;Ah!, porque cuando llevaron a cabo este juicio pues debieron pedir informaci&oacute;n, porque este se&ntilde;or ya ten&iacute;a orden de aprehensi&oacute;n y ya hab&iacute;a ficha roja de Interpol, y no consultaron a la fiscal&iacute;a de M&eacute;xico. Y cuando la fiscal&iacute;a de M&eacute;xico ped&iacute;a informaci&oacute;n no le mandaban nada, no le enviaban nada. Esto es porque yo he estado directamente.</p>
+
+<p><strong>INTERVENCI&Oacute;N:</strong> Entonces el gobierno mexicano no tuvo representaci&oacute;n, porque&hellip;</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> No, el gobierno mexicano no, no hubo del gobierno mexicano. Esto fue en el 20, esto lo autorizaron a principios del 20.</p>
+
+<p><strong>INTERVENCI&Oacute;N:</strong> Y no ha habido una respuesta oficial por parte de por qu&eacute; otorgaron ese asilo.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> No, s&oacute;lo lo que sostienen en el juicio, pero ya les le&iacute;.</p>
+
+<p><strong>INTERVENCI&Oacute;N:</strong> Es que en el documento que se present&oacute; se lee que &eacute;l argument&oacute; que hab&iacute;a una persecuci&oacute;n pol&iacute;tica.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Ah, s&iacute;, claro, que hab&iacute;a persecuci&oacute;n pol&iacute;tica y que lo pod&iacute;an torturar y obligarlo, porque supuestamente &eacute;l hab&iacute;a declarado en contra de los militares, pero no que los militares hayan detenido a los j&oacute;venes o que los militares hayan desaparecido a los j&oacute;venes, no, sino que los militares fueron a buscar a los j&oacute;venes y no los encontraron porque, seg&uacute;n &eacute;l, los j&oacute;venes nunca estuvieron ah&iacute;, y s&iacute; estuvieron.</p>
+
+<p><strong>INTERVENCI&Oacute;N:</strong> &iquest;Este juez de barandilla tendr&iacute;a una idea de qu&eacute; pas&oacute; con un grupo de los chicos?</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> S&iacute;, porque &iquest;a qui&eacute;n se los entreg&oacute;?, &iquest;o qui&eacute;n le orden&oacute; que se los entregara a la polic&iacute;a sin tenerlos detenidos, y se los llevan? Esa es una versi&oacute;n.</p>
+
+<p>Y que regresan las patrullas llenas de lodo, pero ya sin los j&oacute;venes y que adem&aacute;s los que se los llevan polic&iacute;as desaparecen porque el mismo jefe de la polic&iacute;a les est&aacute; hablando por un tiempo de casi dos horas y no contestan.</p>
+
+<p>Pero a lo que voy es: &iquest;fueron las autoridades locales y la delincuencia, que operaba en ese entonces en Iguala y en toda la regi&oacute;n, o fue el gobierno federal y el Ej&eacute;rcito? As&iacute; han llevado las cosas.</p>
+
+<p>Entonces, &uacute;ltimamente, a partir de un tiempo, empez&oacute;: &lsquo;Fue el Estado&rsquo;. Ah, eso es evidente porque &iquest;c&oacute;mo el Estado no va a tener responsabilidad sobre lo que estaba sucediendo en cuanto a la asociaci&oacute;n delictuosa entre autoridades locales y delincuencia?</p>
+
+<p>Y tambi&eacute;n pudo haber de parte del Ej&eacute;rcito, o para ser m&aacute;s precisos de parte de los soldados, omisi&oacute;n. Si estuvieron y sab&iacute;an de que a los j&oacute;venes los hab&iacute;an detenido, &iquest;por qu&eacute; no actuaron? S&iacute;, todo eso.</p>
+
+<p>&iquest;Y c&oacute;mo no va a tener responsabilidad el Estado si inventaron la llamada &lsquo;verdad hist&oacute;rica&rsquo;?, de que agarraron a los j&oacute;venes y los llevaron a un basurero, y los quemaron y luego tiraron sus restos al r&iacute;o, que eso est&aacute; demostrado que fue falso. Claro que hay una responsabilidad del Estado, pero pasar a que fue el Estado, y fue el Ej&eacute;rcito, y no existi&oacute; la responsabilidad, porque como dice el Departamento de Justicia: &lsquo;No tienen las autoridades locales ni la polic&iacute;a municipal capacidad para llevar a cabo un crimen de esta magnitud, ya esa es otra cosa, ya es otra cosa.</p>
+
+<p>Y vienen luego las escuchas que hac&iacute;a la DEA a este grupo de la delincuencia organizada y mucha informaci&oacute;n, pero hay que aclarar, o sea, no es por consigna, es decir, &lsquo;fue el Ej&eacute;rcito&rsquo;, vamos a probarlo.</p>
+
+<p>&iquest;Y por qu&eacute; tanto inter&eacute;s en se&ntilde;alar al Ej&eacute;rcito?</p>
+
+<p>Estas agencias y las hegemon&iacute;as en todo el mundo, los que se sienten los due&ntilde;os, &iquest;no?, de los pa&iacute;ses y no respetan soberan&iacute;as, cuando hay una autoridad o una instituci&oacute;n fuerte en un pa&iacute;s, siempre buscan mantenerlos chantajeados para poder ellos dominar territorios; cuando se tienen autoridades independientes, democr&aacute;ticas, fuertes en un pa&iacute;s, pues no pueden actuar con absoluta libertad. Igual pasa con las Fuerzas Armadas.</p>
+
+<p>Las hegemon&iacute;as dominan en ej&eacute;rcitos, nada m&aacute;s que el Ej&eacute;rcito Mexicano &mdash;por eso es interesante el tema&mdash; es distinto a otros ej&eacute;rcitos, este es un ej&eacute;rcito nacionalista surgido de un movimiento revolucionario, todos sus miembros vienen de las entra&ntilde;as del pueblo, no hay ning&uacute;n general de divisi&oacute;n que pertenezca a la oligarqu&iacute;a, no hay ning&uacute;n general de divisi&oacute;n multimillonario; los generales de divisi&oacute;n hasta ahora son hijos de campesinos, de obreros, de mec&aacute;nicos, de militares, de maestros.</p>
+
+<p>Pero si nos quedamos con la idea de que fueron los que intervinieron en el 68 y la guerra sucia, s&iacute;, s&iacute;, s&iacute;, son manchas que tiene nuestro Ej&eacute;rcito, nada m&aacute;s que hay tambi&eacute;n sus <em>asegunes</em>:</p>
+
+<p>Uno es que en el caso del 68 hasta el propio presidente D&iacute;az Ordaz, porque el presidente de M&eacute;xico es comandante supremo, &eacute;l se responsabiliz&oacute; p&uacute;blicamente. Y adem&aacute;s hay testimonio de que cuando menos en lo de Tlatelolco quienes actuaron fueron los del Estado Mayor Presidencial, s&iacute;, una rama del Ej&eacute;rcito, dependiendo directamente de la Presidencia.</p>
+
+<p>De eso se quejaba y esa confesi&oacute;n le hizo el general Garc&iacute;a Barrag&aacute;n, llorando, al general L&aacute;zaro C&aacute;rdenas, despu&eacute;s del 68, despu&eacute;s del 69, ya al final del sexenio de D&iacute;az Ordaz, porque Garc&iacute;a Barrag&aacute;n era el secretario de la Defensa; como le confes&oacute; tambi&eacute;n que el Estado Mayor hab&iacute;a tenido que ver con lo del asesinato de Carlos Madrazo, que no fue un accidente lo del avi&oacute;n.</p>
+
+<p>Y lo otro, que la orden siempre tiene que ver con el comandante de las Fuerzas Armadas.</p>
+
+<p>Y otra cosa, adem&aacute;s, y eso lo hemos planteado y yo tengo que agradecerle tanto al secretario de Marina como al secretario de Defensa: de que no se permita a nadie que abuse de autoridad, que no se les otorgue impunidad, porque no por el mal desempe&ntilde;o de soldados y de marinos se puede afectar una instituci&oacute;n, que es fundamental, las dos, Marina y Defensa.</p>
+
+<p>Y tambi&eacute;n hablo de que en un tiempo, por malos manejos y por &oacute;rdenes del presidente, en este caso de Calder&oacute;n, se entreg&oacute; una parte de la Secretar&iacute;a de Marina al gobierno de Estados Unidos, que eso nunca se debi&oacute; haber hecho. Pero eso, eso, ya cambi&oacute;, porque ahora el almirante secretario Ojeda es un hombre &iacute;ntegro.</p>
+
+<p>Ah&iacute; empezaron mal las cosas, desde que se rompi&oacute; la tradici&oacute;n de respeto de la antig&uuml;edad y sobre todo de ascensos. Lleg&oacute; un secretario &mdash;todo esto es para los j&oacute;venes&mdash; lleg&oacute; un secretario de Marina y, en vez de poner a un almirante con experiencia, puso a su secretario particular. Claro, tampoco la culpa es del secretario, la culpa es del presidente. &iexcl;C&oacute;mo el que sale deja a su secretario particular!</p>
+
+<p>Y luego quer&iacute;an dejar al que estaba de oficial mayor. &iexcl;Ah!, porque ten&iacute;a una relaci&oacute;n buen&iacute;sima con los medios, nada m&aacute;s que ese se&ntilde;or que aspiraba &mdash;y eso me toc&oacute; a m&iacute;&mdash; ten&iacute;an tan buenas relaciones, que se hab&iacute;a puesto de acuerdo con Loret de Mola con lo del montaje este lamentable de la ni&ntilde;a Frida, Frida Sof&iacute;a, y estaban haciendo campa&ntilde;a.</p>
+
+<p>Nada m&aacute;s que pues yo hice una investigaci&oacute;n a fondo, resulta que al almirante actual ya lo ten&iacute;an ah&iacute; para retiro, pero era el de m&aacute;s antig&uuml;edad, era al que le correspond&iacute;a. Adem&aacute;s, me llam&oacute; mucho la atenci&oacute;n, porque hace 30, 40 a&ntilde;os cuando nadie hablaba de eso, &eacute;l escribi&oacute; un libro sobre la corrupci&oacute;n. Y yo lo que buscaba era secretarios de Marina y de Defensa incorruptibles.</p>
+
+<p>Pero, bueno, ya hablamos bastante de esto, pero no est&aacute; de m&aacute;s, &iquest;no?</p>
+
+<p><strong>INTERLOCUTORA:</strong> S&iacute;, bueno, pero para terminar esta cuesti&oacute;n del planteamiento: ante esta solicitud de la ONU, &iquest;usted har&iacute;a una respuesta?</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Ah, s&iacute;.</p>
+
+<p><strong>INTERLOCUTORA: </strong>&iquest;Dar&aacute; alg&uacute;n reporte sobre los asesinatos a candidatos?</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> S&iacute;.</p>
+
+<p><strong>INTERLOCUTORA:</strong> &iquest;Se dar&aacute; eso?</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> S&iacute;, s&iacute;, pero, adem&aacute;s, ya lo dijo aqu&iacute; Rosa Icela porque vino una periodista de Colombia con lo mismo, de que hab&iacute;an asesinado a no s&eacute; cu&aacute;ntos candidatos. Y le ped&iacute;. Es cosa hasta de repetir; rep&iacute;telo. Porque es la secretaria de Seguridad, ni modo que va a mentir, lo que pasa que fue lo otro que utilizaron mucho en la guerra sucia, era &lsquo;AMLO narcotraficante y violencia&rsquo;, estaban, pero como zopilotes; ya pas&oacute; afortunadamente la temporada de zopilotes.</p>
+
+<p><strong>INTERLOCUTORA:</strong> Veintis&eacute;is</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> S&iacute;, pero hablamos de candidatos.</p>
+
+<p><strong>INTERVENCI&Oacute;N:</strong> Pero fueron precandidatos.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR: </strong>Ah, no, s&iacute;.</p>
+
+<p><strong>INTERLOCUTORA: </strong>Algunos ya tambi&eacute;n que ganaron las elecciones.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> No est&aacute;n, a lo mejor, los que ganaron las elecciones, como el caso, por ejemplo, al que asesinaron lamentablemente en Copala.</p>
+
+<p><strong>INTERVENCI&Oacute;N:</strong> En Michoac&aacute;n tambi&eacute;n.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> En Michoac&aacute;n, s&iacute;.</p>
+
+<p>Pero le voy a pedir a Rosa Icela que incluso a ver si trae el comparativo de candidatos asesinados en el 2006, en el 12, en el 18, en el 24, y se van a dar cuenta, porque lamentablemente hubo muchos asesinatos en las elecciones anteriores, nada m&aacute;s que fue ahora que los medios est&aacute;n enojados porque formaron parte del mismo bloque conservador y quisieron, con la guerra sucia y con las campa&ntilde;as de mentira, quisieron incidir en la elecci&oacute;n.</p>
+
+<p><strong>INTERLOCUTORA:</strong> Y quiz&aacute; tambi&eacute;n saber un poco del avance de las investigaciones, y en este caso la detenci&oacute;n y la ubicaci&oacute;n de los responsables&hellip;</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> S&iacute;, s&iacute;, porque ya hay detenidos, ya hay detenidos en varios casos, y que se d&eacute; un informe. &iquest;Cu&aacute;ndo vienes ellos?</p>
+
+<p><strong>JES&Uacute;S RAM&Iacute;REZ CUEVAS:</strong> Martes, toca seguridad.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> El martes.</p>
+
+<p><strong>INTERLOCUTORA:</strong> Finalmente, presidente, quiero plantearle dos casos de &iacute;ndole social. El primero tiene que ver con el caso de Thal&iacute;a, una joven que sufri&oacute; quemaduras de tercer grado en el 60 por ciento de su cuerpo por una explosi&oacute;n en su departamento en Matamoros, Tamaulipas; accidente cuyo peritaje arroj&oacute; que fue por acumulaci&oacute;n de gas, aunque ella utilizaba boiler y estufa el&eacute;ctricos.</p>
+
+<p>Las investigaciones se&ntilde;alaron como fuente cercana de gas una l&iacute;nea de gas natural de la empresa francesa Engie, que tiene presencia en nueve entidades del pa&iacute;s, entre ellas Tamaulipas, que es donde se dio justamente esta explosi&oacute;n.</p>
+
+<p>El pr&oacute;ximo 28 de junio, presidente, se cumple un a&ntilde;o, tiempo en que la empresa se ha deslindado totalmente de su responsabilidad para indemnizar a Thal&iacute;a, quien ha sido sometida a m&aacute;s de 15 cirug&iacute;as, y cuyo tratamiento pues a&uacute;n no termina para devolverle un poco la calidad de vida y de salud.</p>
+
+<p>Pero tambi&eacute;n ha sido omisa por la explosi&oacute;n sucedida en enero del 2022 en un Seven Eleven, que dej&oacute; como saldo dos j&oacute;venes trabajadores muertos a causa de las quemaduras por la explosi&oacute;n. En ambos casos, presidente, le reitero, los inmuebles no contaban con instalaci&oacute;n de gas natural.</p>
+
+<p>Para dimensionar este caso quiero comentarle que desde del 2022 se han reportado m&aacute;s de 170 fugas de gas natural de la empresa Engie solamente en Matamoros, pero no todas han sido registradas, digamos, de manera oficial. Y han ocurrido estas dos explosiones de importancia que le comento, dejando, por supuesto, estos da&ntilde;os irreparables.</p>
+
+<p>El peritaje de la empresa, bueno, se ha basado en el conflicto de intereses, ya que la propia empresa es la que ha hecho el peritaje y la que ha deslindado su responsabilidad al respecto. Si bien en d&iacute;as pasados, el hermano de Thal&iacute;a ya se reuni&oacute; con la secretaria del Medio Ambiente y con directivos de la ASEA, que es un &aacute;rea que obviamente ve este tipo de casos, presidente, yo quiero preguntarle, bueno, por una parte, comentarle que la fiscal&iacute;a, en la fiscal&iacute;a no ha avanzado las investigaciones, obviamente de eso depende justamente de proceder a que haya una indemnizaci&oacute;n a la v&iacute;ctima.</p>
+
+<p>Y, por otra parte, preguntarle, s&iacute;, bajo qu&eacute; reglas de inspecci&oacute;n se monitorea a este tipo de empresas trasnacionales para que se hagan responsables de estas negligencias, &iquest;no?, y que se ponga en el centro justamente a las v&iacute;ctimas cuando se dan este tipo de accidentes.</p>
+
+<p>Y, tambi&eacute;n tomando en cuenta, presidente, que esta empresa hace unos d&iacute;as anunci&oacute; invertir&aacute; aproximadamente dos mil millones para ampliar el gasoducto Mayak&aacute;n en el sureste de M&eacute;xico para abastecer dos plantas de la Comisi&oacute;n Federal. Eso, por una parte.</p>
+
+<p>Por otra, comentarle tambi&eacute;n, o traerle a colaci&oacute;n un caso que tiene que ver con el ejido Jos&eacute; Mar&iacute;a Pino Su&aacute;rez, que afecta el patrimonio de 47 familias y que en m&aacute;s de 30 a&ntilde;os, o sea, gobiernos han ido y gobiernos han llegado, no se ha podido resolver por una serie de omisiones y de irregularidades jur&iacute;dicas.</p>
+
+<p>Quiero comentarle que en este municipio, durante el sexenio de Carlos Salinas de Gortari, espec&iacute;ficamente en el a&ntilde;o de 1991, se emiti&oacute; por el entonces secretario de la Reforma Agraria, V&iacute;ctor Cervera Pacheco, el t&iacute;tulo de propiedad, afectando 161 hect&aacute;reas de propiedad ejidal.</p>
+
+<p>En este caso hay que subrayar, presidente, un punto sumamente importante: que este funcionario no estaba facultado para emitir t&iacute;tulos de propiedad, ya que es facultad exclusiva, o era facultad exclusiva en ese entonces, del presidente de la Rep&uacute;blica, de acuerdo al art&iacute;culo 75 de la Ley de Terrenos Bald&iacute;os Nacionales y Demas&iacute;as en el cual se fund&oacute; dicho t&iacute;tulo de propiedad.</p>
+
+<p>Durante nueve a&ntilde;os, bueno, pues se ha llevado un juicio y el Poder Judicial de la Federaci&oacute;n que, a trav&eacute;s del Tercer Tribunal Colegiado de Circuito de Canc&uacute;n, orden&oacute; se repusiera el procedimiento en lugar de estudiar si el t&iacute;tulo de propiedad era legal o no.</p>
+
+<p>Recogimos, obviamente, testimonios de algunos de los afectados, quienes denuncian que a lo largo de estos a&ntilde;os, bueno, pues ha habido desalojos. Incluso hay un caso muy peculiar que llama mucho la atenci&oacute;n, presidente: que uno de los 47 due&ntilde;os de estos terrenos est&aacute; demandado y cada cierto tiempo tiene que venir a firmar para evitar ser encarcelado.</p>
+
+<p>Se supone que en este mes de junio se espera, bueno que se d&eacute; alguna resoluci&oacute;n; sin embargo, pues los afectados comentan que se dan, digamos, muchas trabas o no se han dado realmente esta situaci&oacute;n para resolver y hacen que cambie el magistrado que lleva el caso para que nuevamente inicie la revisi&oacute;n, 90 d&iacute;as, y as&iacute; han pasado.</p>
+
+<p>Entonces, en ese sentido, presidente, en estos dos casos, preguntar a d&oacute;nde acuden las v&iacute;ctimas, qu&eacute; es lo que pueden hacer justamente, una, para obtener justicia, justamente, por esta empresa, que puedan ser indemnizada, por esta empresa francesa.</p>
+
+<p>Y, por el otro caso, tambi&eacute;n este juicio ejidal que, en efecto, s&iacute; tiene muchos a&ntilde;os, pero al final del d&iacute;a est&aacute; basado en una irregularidad que est&aacute; a la luz y que al menos al Poder Judicial no lo toma en cuenta.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Mira, en los dos casos. Le vamos a pedir a Rosa Icela que vea lo del gas, Rosa Icela Rodr&iacute;guez, la secretaria de Seguridad, desde hoy se va a poner en comunicaci&oacute;n con las personas para ayudarles.</p>
+
+<p>S&iacute; conocemos a esa empresa, s&iacute; se dedica a la distribuci&oacute;n y tiene ductos de gas en distintas partes del pa&iacute;s y s&iacute; firm&oacute; un acuerdo con la Comisi&oacute;n Federal de Electricidad para llevar el gas a la pen&iacute;nsula. Y hasta les puedo hablar de otra cosa, yo creo que esa es la empresa que se ampar&oacute; en contra de un decreto que yo promulgu&eacute; para que no se limitara la generaci&oacute;n de energ&iacute;a el&eacute;ctrica en las presas, y me echaron abajo el decreto, un juez. &iquest;C&oacute;mo se llama este juez famoso?</p>
+
+<p><strong>INTERVENCI&Oacute;N:</strong> G&oacute;mez Fierro.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> G&oacute;mez Fierro, s&iacute;, ese G&oacute;mez Fierro.</p>
+
+<p>O sea, esa empresa es muy influyente, pero cuando se trata de temas de justicia siempre se apoya a la gente. Entonces, vamos a pedirle&hellip;</p>
+
+<p><strong>INTERLOCUTORA</strong>: &iquest;Qu&eacute; instancia da justamente, seguimiento a las operaciones de estas empresas?</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Hay much&iacute;simas instancias. No, no, no, si llenaron de oficinas reguladoras.</p>
+
+<p><strong>INTERVENCI&Oacute;N:</strong> La CRE.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> No, pero no es la CRE. La Asea.</p>
+
+<p>No, no, no, pero esto no es de aparatos burocr&aacute;ticos, esto es de servidores p&uacute;blicos sensibles y comprometidos, responsables.</p>
+
+<p>Y que se conozca la denuncia. Por ejemplo, yo hasta ahora me estoy enterando, y vaya que aqu&iacute; estamos diario, hasta ahora. Pero se hace justicia y no se permite el influyentismo, no hay impunidad. Cero corrupci&oacute;n y cero impunidad, as&iacute; empezamos y as&iacute; vamos a terminar.</p>
+
+<p>Y en lo otro, le vamos a pedir a Luis Hern&aacute;ndez, el procurador agrario, que vea el asunto. Hay muchos juicios que van a quedar pendientes. Tambi&eacute;n, yo termino, pero afortunadamente, afortunadamente, va a haber continuidad con cambio. No va a haber un gran viraje, como quer&iacute;an los conservadores; m&aacute;s que gran viraje, era un retroceso, quer&iacute;an regresar a retrogradar, por eso est&aacute;n tan molestos, aunque ya los veo ya m&aacute;s tranquilos, y es lo mejor.</p>
+
+<p><strong>JES&Uacute;S RAM&Iacute;REZ CUEVAS:</strong> El 13 de junio ya atendieron a la que denunci&oacute;, el tema de las explosiones.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> S&iacute;, ella lo dice, pero que lo quieren es que se&hellip;</p>
+
+<p><strong>JES&Uacute;S RAM&Iacute;REZ CUEVAS:</strong> Y estuvo &Aacute;ngel Carrizales, de la ASEA.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> S&iacute;, que sigan vi&eacute;ndolo y que lo resuelvan. Y, tambi&eacute;n, si tiene que ver la fiscal&iacute;a, pedir &mdash;respetuosamente, porque es aut&oacute;noma&mdash; que nos ayuden.</p>
+
+<p>V&aacute;monos a desayunar ya.</p>
+
+<p><strong>PREGUNTA:</strong> Yo ya me voy ahora a&hellip;</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> &Aacute;ndale, pues.</p>
+
+<p><strong>INTERLOCUTOR:</strong> Gracias. Muy r&aacute;pido, presidente, realmente, muy r&aacute;pido, porque s&iacute; ya es tarde. Se acaban de cumplir 15 a&ntilde;os del terrible incendio de la Guarder&iacute;a ABC y siguen un par de pendientes. El gobernador acaba de expropiar el terreno completo para que se pueda construir ah&iacute; un memorial. Me imagino que a usted, el gobierno federal, les toca construir un memorial. Que nos d&eacute; un anuncio sobre ello.</p>
+
+<p>Y precisamente en el tema de la Guarder&iacute;a ABC, muy al inicio de este sexenio, o a mediados, yo le hab&iacute;a expuesto a usted que a los h&eacute;roes que se metieron a rescatar ni&ntilde;os, a estos seis, ocho personajes que estaban desempleados y que se metieron a rescatar ni&ntilde;as y ni&ntilde;os, que tienen problemas de salud y que est&aacute;n heridos, que si les podemos rendir un homenaje en vida, y ese homenaje ser&iacute;a indemnizarlos, permitirles que entren como v&iacute;ctimas y que tengan una pensi&oacute;n. Trabajan de alba&ntilde;iles, uno vende burritos en la carretera, est&aacute;n en problema de drogas, tienen problemas en sus familias. Entonces, si les podemos hacer un acto de justicia del Estado mexicano. Son ocho personas.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Bueno, vamos a que, si est&aacute; aqu&iacute; Zo&eacute;, que hoy mismo, que antes de que te vayas.</p>
+
+<p><strong>INTERLOCUTOR:</strong> Gracias. Yo les paso los datos que tenga y ah&iacute; localizamos a los dem&aacute;s.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> S&iacute;, pero platicas con &eacute;l, platicas con &eacute;l, a ver si se puede antes de concluir nuestro gobierno las dos cosas.</p>
+
+<p><strong>INTERLOCUTOR:</strong> Con todo gusto.</p>
+
+<p>Y, presidente, tenemos&hellip; &iexcl;Ay!, ahorita con el tema del agua hay tanta cosa, en Puebla vienen unos problemas de agua tremendos. La pr&oacute;xima semana a ver si podemos invitar a una radio comunitaria de all&aacute; de Puebla que est&aacute; muy enterada de eso, porque de todo esto que nos est&aacute;n platicando hay cosas interesantes.</p>
+
+<p>Y precisamente en el tema de las radios comunitarias tenemos pendiente una entrevista o una conferencia de prensa matutina o algo as&iacute; antes de que se nos vaya. Hay que trabajarla. La trabajamos con Jes&uacute;s, &iquest;verdad?, para poder tener este di&aacute;logo, ponerle fecha, ponerle todo esto.</p>
+
+<p><strong>JES&Uacute;S RAM&Iacute;REZ CUEVAS:</strong> Nada m&aacute;s saber cu&aacute;ntos son y aqu&iacute; hay que ver.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Bueno ya, ya.</p>
+
+<p><strong>INTERLOCUTOR:</strong> Yo creo que s&iacute;. Tenemos nuestra asamblea dentro de poco y nos ponemos de acuerdo.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> S&iacute;, vienen aqu&iacute;, ya, cumplimos, porque ya tambi&eacute;n para entrevistas ya solo tengo pendiente esta con ustedes, ya de compromiso aqu&iacute;.</p>
+
+<p>Hoy voy a conversar en entrevista colectiva, en di&aacute;logo circular, con los de <em>El Chamuco</em>. Los invit&eacute;, van a estar y vamos a conversar y van transmitir, va a ser una entrevista.</p>
+
+<p>Y luego aqu&iacute; me van a ayudar ustedes, porque a lo mejor de la mitad de la conferencia va a ser una entrevista que quiero, abierta. Pero quiero que la entrevistadora sea Nancy, de <em>Contral&iacute;nea, </em>ella va a hacerme las preguntas, porque quiero hacerle un reconocimiento a esa revista y a Nancy en particular. Y ya despu&eacute;s, terminando la entrevista aqu&iacute;, colectiva, pero con ella, abrimos para todos. Pero ella va a hacer la entrevista.</p>
+
+<p>Porque quer&iacute;a entrevista de esas tradicionales; no, aqu&iacute;. Ella es muy buena. Hicieron, durante todo este tiempo han venido haciendo periodismo de investigaci&oacute;n, y fue de los pocos medios, as&iacute; como ustedes, que actuaron con profesionalismo.</p>
+
+<p><strong>PREGUNTA: </strong>&iquest;Habr&aacute; un homenaje para Helguera? Se va a cumplir un a&ntilde;o m&aacute;s de su&hellip;</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> S&iacute;, hoy vamos a estar con &lsquo;los chamucos&rsquo; y nos vamos a estar acordado del Helguera, gran caricaturista.</p>
+
+<p>Lo mejor del periodismo en la &eacute;poca neoliberal fueron los caricaturistas; pero los caricaturistas, vamos a decir, independientes y progresistas, porque hubo otros, en todo este periodo neoliberal que se dedicaron nada m&aacute;s a justificar la pol&iacute;tica de pillaje.</p>
+
+<p>Pero hubo unos caricaturistas geniales en el periodo neoliberal, todav&iacute;a nos toc&oacute; Rius, genial, Rius; nos toc&oacute; el gran caricaturista Naranjo, de lo mejor; nos toc&oacute; como caricaturista de estos tiempos&hellip; Yo estoy hablando desde mi visi&oacute;n de izquierda, respeto, &iquest;no?, a todos, pero pues cada qui&eacute;n habla como le va en la fiesta.</p>
+
+<p>Entonces, yo veo a los caricaturistas, a Rius sin duda; Naranjo, buen&iacute;simo; Helio Flores, que se acaba de retirar; Rafael Barajas, &lsquo;el Fisg&oacute;n&rsquo;, pero que, adem&aacute;s de buen dibujante, un hombre culto, estudioso, muy preparado; luego, Hern&aacute;ndez, de primera, creo que Hern&aacute;ndez el m&aacute;s sutil, fino, claridoso, profundo.</p>
+
+<p>&iquest;Por qu&eacute; no pones la &uacute;ltima de&hellip;? La que quieras, no tan dura, porque&hellip; Pero pon una de Hern&aacute;ndez,</p>
+
+<p>Antonio Helguera, as&iacute;, con todo nuestro cari&ntilde;o, tambi&eacute;n junto con &lsquo;el Fis&rsquo; y junto con Hern&aacute;ndez, de primera. Un abrazo para su compa&ntilde;era, para sus hijas, sus hijos. Antonio, buen&iacute;simo, consecuente. Porque todav&iacute;a Hern&aacute;ndez a veces titubeaba, porque est&aacute; muy fuerte el que haya una definici&oacute;n porque nos ten&iacute;an enga&ntilde;ados de que el periodismo no pod&iacute;a tener partido, se olvidaban de que los mejores periodistas y caricaturista, sobre todo&hellip; Bueno, tambi&eacute;n periodistas como Zarco, era liberal. Y Ricardo Flores Mag&oacute;n, y los caricaturistas&hellip;</p>
+
+<p><strong>INTERVENCI&Oacute;N:</strong> Posada.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Posada.</p>
+
+<p>Pero se olvidaban de eso, &iquest;no? Entonces, siempre ten&iacute;an que matizar, ten&iacute;an que pagar su cuota de centrismo para que los consideraran independientes y no panfletarios.</p>
+
+<p>Esto suced&iacute;a tambi&eacute;n en los escritores, en los poetas. Hab&iacute;a grandes poetas; por ejemplo, el gran poeta Neruda, no lo aceptaban, porque pertenec&iacute;a a un partido, &iquest;no?</p>
+
+<p>No les gustaba&hellip; &iquest;C&oacute;mo se llama este poeta uruguayo?</p>
+
+<p><strong>JES&Uacute;S RAM&Iacute;REZ CUEVAS:</strong> (inaudible)</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> No, ese es escritor. Que dec&iacute;a: &lsquo;Tiene cosas extraordinarias, bell&iacute;simas y en la calle codo a codo, somos m&aacute;s que dos&rsquo;.</p>
+
+<p><strong>INTERVENCI&Oacute;N:</strong> Mario Benedetti.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Mario Benedetti, gran poeta. Ese una vez escribi&oacute; algo para los j&oacute;venes, dec&iacute;a que el sexo, cuando se hace joven, joven, joven, es sexo, sexo, sexo con amor; ya cuando se hace a mitad de la vida es amor con sexo; y a cuando se hace con m&aacute;s edad, dec&iacute;a Benedetti, es puro amor, pero algo es algo.</p>
+
+<p>Pero no lo aceptaban los intelectuales conservadores, s&iacute;, porque era militante. Entonces, en el caso de la caricatura lo mismo.</p>
+
+<p>Miren. Ah, no, esta no la podemos poner, no, no, no. &iquest;No tienes otra? No, mejor no la pongo porque todas son as&iacute;. Pero Pepe, Jos&eacute; Hern&aacute;ndez, muy bueno, mucho, mucho, mucho muy bueno.</p>
+
+<p>Pero s&iacute; &uacute;ltimamente, esto es una observaci&oacute;n y un cuestionamiento fraterno, ya le fue importando poco el pagar esa cuota de independencia, muy significativa en la actitud de Carmen Aristegui, que esa se fue de independiente, o sea, porque siempre cuido decir &lsquo;soy independiente, soy independiente, soy independiente, no tengo nada que ver con los partidos, no tengo que ver con grupos de intereses creados&rsquo;, y todo era pura simulaci&oacute;n, y viene este tiempo y ya se define. Pero enga&ntilde;&oacute; durante mucho tiempo con lo de independiente; y s&iacute; era independiente del pueblo, no del poder, y sobre todo del poder econ&oacute;mico.</p>
+
+<p>Y ya hablamos de Helguera. Y, &uacute;ltimamente, tambi&eacute;n ha estado muy consecuente quien estaba trabajando en <em>Milenio</em>.</p>
+
+<p><strong>JES&Uacute;S RAM&Iacute;REZ CUEVAS:</strong> Rap&eacute;, el monero Rap&eacute;.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> S&iacute;, yo creo que Rap&eacute;. &Eacute;l est&aacute; con &lsquo;los chamucos&rsquo;.</p>
+
+<p><strong>JES&Uacute;S RAM&Iacute;REZ CUEVAS:</strong> En <em>El Chamuco</em>, s&iacute;.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> S&iacute;, &eacute;l tambi&eacute;n. Era m&aacute;s centrista, cuidadoso, y no, ya. Porque son tiempos de definiciones, son tiempos de definiciones; no hay posibilidad, claro, sin dejar de ser objetivos, profesionales, pero no hay posibilidad para fingir para la simulaci&oacute;n, hay que definirse. Y, sobre todo, estar lo m&aacute;s cerca que se pueda al pueblo, y lo m&aacute;s distante que se pueda al poder, est&eacute; quien est&eacute; en el poder, pero siempre pensando en el pueblo.</p>
+
+<p>Y yo espero que se siga avanzando con ese periodismo. Los que hacen las radios comunitarias es de primera, o sea, el que hayan resistido durante todo el periodo neoliberal, s&iacute;, s&iacute;, que les cancelaban las autorizaciones de transmisi&oacute;n. Y aqu&iacute; hab&iacute;a estaciones en la Ciudad de M&eacute;xico.</p>
+
+<p>Entonces, quedamos en eso. Vamos a desayunar. Adi&oacute;s.</p>
+
+<p>---</p>
+</div>
+      </div>
+
+      <div class="col-md-4 col-xs-12 pull-right">
+
+
+
+
+          <div id="survey" class="survey-popup small-top-buffer">
+	<div class="row">
+  <a class="fire">
+    <span class="title">Contesta nuestra encuesta de satisfacción.</span>
+		<i style="color: white" class="fas fa-poll"></i>
+  </a>
+  <hr>
+  
+  <div class="survey col-sm-12 clearfix">
+	<form id="survey-form">
+	  <div class="survey-form">
+	  <fieldset id="query_1">
+		<legend>¿Cómo fue tu experiencia en gob.mx?</legend>
+		<div id="Q_A" class="btn-group row">
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncGood" class="ga-survey" value="Feliz" title="Satisactorio">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-good.svg" alt="">
+		  	</button>
+		  </div>
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncReg" class="ga-survey" value="Neutral" title="Neutral">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-neutral.svg" alt="">
+		  	</button>
+		  </div>
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncBad" class="ga-survey" value="Triste" title="No satisactorio">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-bad.svg" alt="">
+		  	</button>
+		  </div>
+		</div>
+	  </fieldset>
+	  <fieldset id="query_1_a" class="hidden">
+	  	<legend>¿Fue fácil encontrar lo que buscabas?</legend>
+	  	<div id="Q_B" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R1" value="1">
+	  		<label for="A_R">Muy Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R2" value="2">
+	  		<label for="A_R">Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R3" value="3">
+	  		<label for="A_R">Difícil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R4" value="4">
+	  		<label for="A_R">Muy Difícil</label>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_s" class="hidden">
+	  	<legend>¿De qué estado de la República nos visitas?</legend>	  	
+	  	<div class="col-md-12">
+  	  		<div class="form-group" style="margin-bottom: 114px;">
+  	  			<select id="estados" class="form-control"></select>
+  	  		</div>
+  	  		<div class="form-group">
+  	  			<button type="button" class="Q_S_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  		</div>
+  	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_alt" class="hidden">
+		<legend>¿Qué buscabas?</legend>
+	  	<div id="Q_I" class="clearfix">
+	  	  <div class="col-sm-12">
+	  		<textarea id="txtA" class="form-control" rows="6" maxlength="250" style="font-size: 14px; width: 100%;"></textarea>
+	  		<span class="small">Máximo 250 caracteres</span>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+  	  	  <button type="button" class="Q_I_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_b" class="hidden">
+	  	<legend>¿Qué te gustó más?</legend>
+	  	<p class="small">Puedes seleccionar más de uno.</p>
+	  	<div id="Q_C" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R1" type="checkbox" name="A_R" value="1">
+	  		<label for="A_R">La información es clara y precisa</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R2" type="checkbox" name="A_R" value="2">
+	  		<label for="A_R">El diseño es agradable</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R3" type="checkbox" name="A_R" value="3">
+	  		<label for="A_R">Está bien organizado</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R4" type="checkbox" name="A_R" value="4">
+	  		<label for="A_R">Es sencillo navegar</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R5" type="checkbox" name="A_R" value="5">
+	  		<label for="A_R">El lenguaje es amigable</label>
+	  	  </div>
+	  	  <div class="clearfix">
+	  	  	<button type="button" class="Q_C_btn btn btn-primary btn-small pull-right">Siguiente</button>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_c" class="hidden">
+	  	<legend>¿Recomendarías nuestro portal a un amigo o familiar?</legend>
+	  	<div id="Q_D" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="radEncC_R1" type="radio" name="A_R" value="4">
+	  		<label for="A_R">Si</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncC_R2" type="radio" name="A_R" value="1">
+	  		<label for="A_R">No</label>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+        <button type="button" class="btn-finalizar btn btn-primary btn-small pull-right" style="margin-left: 8px; margin-top: 2px;" disabled>Finalizar</button>
+        <img src="https://framework-gb.cdn.gob.mx/assets/images/oval-white.svg" class="pull-right hidden loading">
+      </div>
+	  </fieldset>
+
+	  <fieldset id="query_2" class="hidden">
+		<legend>¿Fue fácil encontrar lo que buscabas?</legend>
+	  	<div id="Q_F" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R1" type="radio" name="A_R" value="1">
+	  		<label for="A_R">Muy Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R2" type="radio" name="A_R" value="2">
+	  		<label for="A_R">Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R3" type="radio" name="A_R" value="3">
+	  		<label for="A_R">Difícil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R4" type="radio" name="A_R" value="4">
+	  		<label for="A_R">Muy Difícil</label>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_2_b" class="hidden">
+	  	<legend>¿Qué mejorarías?</legend>
+	  	<p class="small">Puedes seleccionar más de una opción.</p>
+	  	<div id="Q_G" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A1" type="checkbox" name="A_R" value="1">
+	  		<label for="A_R">Diseño</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A2" type="checkbox" name="A_R" value="2">
+	  		<label for="A_R">Navegación dentro del sitio</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A3" type="checkbox" name="A_R" value="3">
+	  		<label class="too-long" for="A_R">Claridad y precisión de la información</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A4" type="checkbox" name="A_R" value="4">
+	  		<label for="A_R">Organización de los contenidos</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A5" type="checkbox" name="A_R" value="5">
+	  		<label for="A_R">Lenguaje utilizado</label>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">	  	  
+	  	  <button type="button" class="btn-finalizar btn btn-primary btn-small pull-right" style="margin-left: 8px; margin-top: 2px;" disabled>Finalizar</button>
+	  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/oval-white.svg" class="hidden pull-right loading">
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_2_alt" class="hidden">
+		<legend>¿Qué buscabas?</legend>
+	  	<div id="Q_H" class="clearfix">
+	  	  <div class="col-sm-12">
+	  		<textarea id="txtA1" class="form-control" rows="6" maxlength="250" style="font-size: 14px; width: 100%;"></textarea>
+	  		<span class="small">Máximo 250 caracteres</span>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+  	  	  <button type="button" class="Q_H_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  	</div>
+	  </fieldset>
+
+	</div>
+	<p class="hidden survey-thanks" style="text-align: center; color: white; font-weight: 700;">Gracias por tu opinión.</p>
+	</form>
+
+  </div>
+</div>
+</div>
+
+<script type="text/javascript">
+$(function() {
+  var c = 0;
+  var fin = 0;
+  var tipo_cara = "";
+  var page_type = "Articulos";
+  var triggered = false;
+  var answers = {};
+  var properties = {};
+  var organization = "presidencia";
+  var section = "Blog";
+  var lang = "es";
+  properties.published_on = "2024-06-20 12:21:00 -0600";
+  properties.title = "Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 20 de junio de 2024";
+  properties.path = "/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-20-de-junio-de-2024";
+  properties.referer = "";
+  properties.viewfinder = navigator.userAgent.toLowerCase();
+  properties.screens = screen.width;
+  properties.device = screen.width;
+
+  $.getJSON('https://www.gob.mx/vun/estados?filter[order]=nombre%20ASC', function (selectOptions) {
+    for( var i = 0; i < selectOptions.length; i ++) {
+      var selectOptionsJSON = selectOptions[i];
+      $('#estados').append('<option value="'+ selectOptionsJSON.nombre +'">'+ selectOptionsJSON.nombre +'</option>');
+    }
+    $('#estados').append('<option value="Otro">Otro</option>')
+  });
+
+  $('.fire').click(function(event) {
+    $('.survey-popup').css({'height':'440px'});
+  });
+
+  $('#Q_A').find('button').click(function(event) {
+  	$('#query_s').removeClass('hidden');
+  	$("#query_1").addClass('hidden');
+  	answers.q1 = $(this).attr('id');
+  });
+
+  $(".ga-survey").click(function () {
+    tipo_cara = $(this).val();
+    var interval_time = [30];
+    (function timer () {
+      if (c < 1) {
+        setTimeout(function () {
+           if(fin < 1) {
+             set_ga("Inconclusa");
+             timer();
+           }
+        }, interval_time[c] * 1000);
+      }
+      c++;
+    })();
+  });
+
+  $('.Q_S_btn').click(function(event) {
+    if( answers.q1 === "radEncGood") {
+      $("#query_s").addClass('hidden');
+      $("#query_1_a").removeClass('hidden');
+    } else if(answers.q1 === "radEncReg" || answers.q1 === "radEncBad") {
+      $("#query_s").addClass('hidden');
+      $("#query_2").removeClass('hidden');
+    } else { }
+    // answers.q1 = $('#Q_A').find('button').attr('id');
+  });
+
+  $('#Q_B').find('input').click(function(event) {
+  	if( $(this).attr('id') === 'radEncA_R3' || $(this).attr('id') === 'radEncA_R4' )  {
+  	  $("#query_1_a").addClass('hidden');
+	  $("#query_1_alt").removeClass('hidden');
+  	} else {
+  	  $("#query_1_a").addClass('hidden');
+	  $("#query_1_b").removeClass('hidden');	
+  	}	
+	answers.q2 = $(this).attr('id');
+  });
+
+  $('.Q_I_btn').click(function(event) {
+  	event.preventDefault();
+  	$("#query_1_alt").addClass('hidden');
+	$("#query_1_b").removeClass('hidden');
+	answers.q5 = $('#txtA').val().substring(0, 250);
+  });
+
+  $('#Q_C').find('button').click(function(event) {
+	$("#query_1_b").addClass('hidden');
+	$("#query_1_c").removeClass('hidden');
+	var q3_array = [];
+	$('#Q_C').find('input:checked').each(function(index, el) {
+	  q3_array.push($(el).attr('id'));
+	});
+	answers.q3 = q3_array;
+  });
+
+  $('#Q_D').find('input').change(function(event) {
+  	answers.q4 = $(this).attr('id');
+  	$('.btn-finalizar').attr('disabled', false);
+  });
+
+  $('#Q_F').find('input').click(function(event) {
+	
+	answers.q2 = $(this).attr('id');
+
+	if( $(this).attr('id') === 'rdEncA_R3' || $(this).attr('id') === 'rdEncA_R4' ) {
+	  $("#query_2").addClass('hidden');
+	  $("#query_2_alt").removeClass('hidden');
+	} else {
+	  $("#query_2").addClass('hidden');
+	  $("#query_2_b").removeClass('hidden');
+	}
+  });
+
+  $('#Q_G').find('input').change(function(event) {
+  	if($('#Q_G').find('input:checked').length > 0) {
+	  $('.btn-finalizar').attr('disabled', false);
+    }
+    var q2_array = [];
+    $('#Q_G').find('input:checked').each(function(index, el) {
+	  q2_array.push($(el).attr('id'));
+	});
+	answers.q3 = q2_array;
+  });
+
+  $('.Q_H_btn').click(function(event) {
+  	event.preventDefault();
+  	$("#query_2_alt").addClass('hidden');
+	$("#query_2_b").removeClass('hidden');
+	answers.q5 = $('#txtA1').val().substring(0, 250);
+  });
+
+  $('.btn-finalizar').click(function (event) {
+    fin++;
+    $.ajax({
+      url: '/encuesta-satisfaccion',
+      type: 'post',
+      dataType: 'json',
+      data: { section: section, lang: lang, properties: properties, answers: answers },
+      beforeSend: function() {
+        $('.loading').removeClass('hidden');
+      },
+      success: function(data) {
+        set_ga("Finalizada");
+
+        $('.survey').hide();
+        $('.survey-popup').css({'height':'60px','background-color':'#dff0d8','border':'1px solid #d6e9c6'});
+        $('.survey-popup .title').text('Gracias por tu participación.').css({'color':'#3c763d'});
+        $('#icon-survey').removeClass('fa-file-text-o').addClass('fa-check-circle').css({'color':'#3c763d'});
+        setTimeout(function() {
+          $('.survey-popup').fadeOut('800');
+        }, 1600);
+      }
+    });
+  });
+
+  function set_ga(estatus) {
+    var pages_group = "Gobierno";
+    var organization_name = "presidencia";
+
+    console.log("Entro a apartado de encuesta de satisfacción. Estatus: "+ estatus);
+    console.log("Pages group: "+pages_group);
+    console.log("Sub group: "+organization_name);
+    console.log("Page type: "+page_type);
+    console.log("Face: "+tipo_cara);
+
+      console.log("Rails.env.production");
+      //Código GA para encuesta de satisfacción.
+		gtag('set', 'dimension14', pages_group);
+		gtag('set', 'dimension15', organization_name);
+		gtag('set', 'dimension16', page_type);
+		gtag('send', 'event', 'Encuesta de satisfacción', tipo_cara ,estatus);
+		gtag('set', 'dimension14', null);
+		gtag('set', 'dimension15', null);
+		gtag('set', 'dimension16', null);
+  }
+
+  $('#subscribe-survey').click(function(event) {
+	event.preventDefault();
+    var email = $("#email-survey").val();
+    var state = $('#estados').val();
+
+    if (email !== '' || email !== undefined) {
+	    try {
+	      $.ajax({
+	        url: "/subscribe",
+	        type: 'post',
+	        dataType: 'json',
+	        data : { email: {address: email} },
+	        success: function (data) {
+	            $('#responseSignup').html(data.message);
+	        },
+	        error: function (data) {
+	            $('#responseSignup').html(data.message);
+	        }
+	      });
+	    }catch(e){
+	      $("#responseEmail").innerText(e);
+	    }
+
+	    $.ajax({
+	    	url: '/signups',
+	    	type: 'POST',
+	    	dataType: 'json',
+	    	data: { section: section, lang: lang, properties: properties },
+	    	success: function() {
+	    		//console.log('exito');
+	    	}
+	    });
+	} else {
+		$('#responseSignup').html('Por favor llena todos los campos.');
+	}
+  });
+
+  $('#survey-form').submit(function(event) {
+    event.preventDefault();
+  });
+});
+</script>
+
+      </div>
+      <div class="col-sm-7 pull-left">
+        <div class="share-buttons clearfix vertical-buffer">
+  <div class="col-md-2"> <a class="twitter-share-button" data-url="https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-20-de-junio-de-2024" data-text="Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 20 de junio de 2024"></a></div>
+  <div class="col-md-2">
+    <div class="fb-share-button" data-href="https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-20-de-junio-de-2024" data-layout="button_count" data-size="small" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-20-de-junio-de-2024&amp;src=sdkpreparse">Compartir</a></div>
+  </div>
+</div>
+
+  <script type="text/javascript">
+    (function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v2.7";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+    
+    var pages_group = "Gobierno";
+    var page_type = "Artículos";
+    var organization_name = "presidencia";
+    var title_content = "Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 20 de junio de 2024";
+
+     window.twttr = (function (d,s,id) {
+       var t, js, fjs = d.getElementsByTagName(s)[0];
+       if (d.getElementById(id)) return; js=d.createElement(s); js.id=id;
+       js.src="//platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs);
+       return window.twttr || (t = { _e: [], ready: function(f){ t._e.push(f) } });
+     }(document, "script", "twitter-wjs"));
+
+     function trackTwitter(intent_event) {
+       if (intent_event) {
+         if (intent_event.target && intent_event.target.nodeName == 'IFRAME') {
+           console.log("Metrica Compartir Twitter - "+title_content);
+           console.log("Organization: "+organization_name);
+           console.log("Page type: "+page_type);
+           console.log("Title content: "+title_content);
+           ga('set', 'dimension14', pages_group);
+           ga('set', 'dimension15', organization_name);
+           ga('set', 'dimension16', page_type);
+           ga('send', 'event', 'Compartir en redes sociales', 'Twitter', title_content);
+           ga('set', 'dimension14', null);
+           ga('set', 'dimension15', null);
+           ga('set', 'dimension16', null);
+         }
+       }
+     }
+  </script>
+  <script type="text/javascript">
+     twttr.ready(function (twttr) {
+       twttr.events.bind('tweet', trackTwitter);
+     });
+  </script>
+
+
+      </div>
+    </div>
+    <div class="row top-buffer">
+  <div class="col-md-8">
+    <hr>
+    <div class="print col-ms-12 col-md-12 col-xs-12">
+      <span class="icon-printing"></span>
+      <a href="#">Imprime la página completa</a>
+        <p class="small" style="font-size: 14px; line-height: 1.6em;">
+          La legalidad, veracidad y la calidad de la información es estricta responsabilidad de la dependencia, entidad o empresa productiva del Estado que la proporcionó en virtud de sus atribuciones y/o facultades normativas.
+        </p>
+    </div>
+  </div>
+</div>
+
+  </div>
+  <input type="hidden" id="page_type" name="page_type" value="Articulos">
+  <input type="hidden" id="organization_name" name="organization_name" value="presidencia">
+</main>
+<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+
+<footer class="main-footer">
+  <div class="list-info">
+    <div class="container">
+
+      <div class="col-sm-3">
+        <img  src="https://framework-gb.cdn.gob.mx/landing/img/logoheader.svg"  href="/" alt="logo gobierno de méxico" class="logo_footer" style="max-width: 90%; margin-left: -27px;   margin-top: 12px;">
+      </div>
+      <div class="col-sm-3">
+        <h2>Enlaces</h2>
+        <ul>
+         <!-- <li><a  href="http://www.participa.gob.mx">Participa</a></li> -->
+          <li><a  href="https://datos.gob.mx/">Datos</a></li>
+          <li><a href="https://www.gob.mx/publicaciones" target="_blank" rel="noopener" title="Enlace abre en ventana nueva">Publicaciones </a></li>
+
+                  <li><a class="footer" href="https://consultapublicamx.plataformadetransparencia.org.mx/vut-web/faces/view/consultaPublica.xhtml?idEntidad=MzM=&amp;idSujetoObligado=MTAwMDE=#inicio" id="Transparencia" target="blank" title="Enlace abre en ventana nueva">Portal de Obligaciones de Transparencia</a></li>
+
+                  <li><a class="footer" href="https://www.infomex.org.mx/gobiernofederal/home.action" id="PNT" target="blank" title="Enlace abre PNT en ventana nueva">PNT</a></li>
+
+                  <li><a class="footer" href="http://www.inai.org.mx/" id="INAI" target="blank" title="Enlace abre sitio INAI en ventana nueva">INAI</a></li>
+
+          <li><a class="footer" id="INAI" href="http://alertadores.funcionpublica.gob.mx/" target="_blank" rel="alertadores">Alerta</a></li>
+          <li><a class="footer" id="SIDEC" href="http://sidec.funcionpublica.gob.mx/" target="_blank" rel="sidec">Denuncia</a></li>
+           </ul>
+      </div>
+      <div class="col-sm-3">
+        <h2>¿Qué es gob.mx?</h2>
+        <p>Es el portal único de trámites, información y participación ciudadana.  <a href="/que-es-gobmx" style="text-decoration: none;">Leer más </a></p>
+        <ul>
+
+        
+            <li><a href='http://www.gob.mx/epn'> Administraciones anteriores  </a></li>
+          <li><a href="/accesibilidad">Declaración de Accesibilidad</a></li>
+          <li><a href="/privacidadintegral">Aviso de privacidad</a></li>
+          <li><a href="/privacidadsimplificado">Aviso de privacidad simplificado</a></li>
+          <li><a href="/terminos">Términos y Condiciones </a></li>
+          <li><a href="/terminos#medidas-seguridad-informacion">Política de seguridad</a></li>
+          <li><a class="footer" id="Marco Juridico" href="http://www.ordenjuridico.gob.mx" target="_blank" rel="noopener" title="Enlace abre en ventana nueva">Marco jurídico</a></li>
+          <li><a href="/sitemap">Mapa de sitio</a></li>
+        </ul>
+      </div>
+      <div class="col-sm-3">
+        </p>
+        <h2>Síguenos en </h2>
+        <ul class="list-inline">
+          <li>
+            <a id="Facebook" href="https://www.facebook.com/gobmexico" target="_blank" rel="noopener" class="sendEst share-info footer" title="enlace a facebook abre en una nueva ventana">
+              <img alt="Facebook" src="https://framework-gb.cdn.gob.mx/landing/img/facebook.png" />
+            </a>
+          </li>
+          <li>
+            <a id="Twitter" href="https://twitter.com/GobiernoMX" target="_blank" rel="noopener" class="sendEst share-info footer" title="Enlace a twitter abre en una nueva ventana">
+              <img alt="Twitter" src="https://framework-gb.cdn.gob.mx/landing/img/twitter.png" />
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+  </div>
+  </div>
+
+  <div class="container-fluid footer-pleca">
+    <div class="row">
+      <div class="col">
+        <br><br>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script type="text/javascript">
+      $("a.footer").click(function () {
+          var pagina_sitio = window.location.pathname;
+          var outbound_link = $(this).attr("id");
+          var subgrupo_paginas = "presidencia";
+          var page_type = "Home";
+          var pages_group = "Gobierno";
+          if($("#page_type").length > 0){ page_type = $("#page_type").val(); }
+
+          console.log("Metrica links externos footer - "+outbound_link);
+          gtag('set', 'dimension14', pages_group);
+          gtag('set', 'dimension15', subgrupo_paginas);
+          gtag('set', 'dimension16', page_type);
+          gtag('send', 'event', 'Outbound link - Footer', outbound_link, pagina_sitio);
+          gtag('set', 'dimension14', null);
+          gtag('set, ‘dimension15', null);
+      })
+  </script>
+
+<input class="hidden" id="route" value="/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-20-de-junio-de-2024" type="hidden" >
+<!-- div id="fb-root"></div -->
+
+
+
+
+
+  <!-- Begin comScore Tag -->
+  <script>
+      var _comscore = _comscore || [];
+      _comscore.push({ c1: "2", c2: "17183199" });
+      (function() {
+          var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+          s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+          el.parentNode.insertBefore(s, el);
+      })();
+  </script>
+  <noscript>
+    <img src="https://sb.scorecardresearch.com/p?c1=2&c2=17183199&cv=2.0&cj=1" />
+  </noscript>
+  <!-- End comScore Tag -->
+
+  <script src="https://sb.scorecardresearch.com/c2/17183199/ct.js"></script>
+
+
+  <script type="text/javascript">
+
+      var _sf_startpt=(new Date()).getTime();
+      var _sf_async_config = { uid: 43659, domain: 'www.gob.mx', useCanonical: true } ;
+      (function() {
+          function loadChartbeat() { window._sf_endpt = (new Date()).getTime(); var e = document.createElement('script'); e.setAttribute('language', 'javascript'); e.setAttribute('type', 'text/javascript'); e.setAttribute('src','//static.chartbeat.com/js/chartbeat.js'); document.body.appendChild(e); };
+          var oldonload = window.onload;
+          window.onload = (typeof window.onload != 'function') ?
+              loadChartbeat : function()
+              { oldonload(); loadChartbeat(); };
+      })();
+      var ele = "/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-20-de-junio-de-2024";
+      if( "#{(@organization_site.present? ? @organization_site.category : 'gobmx')}" == "Campaña") {
+          var siteEls = 'campaign';
+      } else {
+          var siteEls = 'gobierno';
+      }
+
+      for( var i = 1; i < ele.split('/').length; i++ ) {
+          siteEls = siteEls + '.' + ele.split('/')[i];
+      }
+
+      function udm_(e){var t="comScore=",n=document,r=n.cookie,i="",s="indexOf",o="substring",u="length",a=2048,f,l="&ns_",c="&",h,p,d,v,m=window,g=m.encodeURIComponent||escape;if(r[s](t)+1)for(d=0,p=r.split(";"),v=p[u];d<v;d++)h=p[d][s](t),h+1&&(i=c+unescape(p[d][o](h+t[u])));e+=l+"_t="+ +(new Date)+l+"c="+(n.characterSet||n.defaultCharset||"")+"&c8="+g(n.title)+i+"&c7="+g(n.URL)+"&c9="+g(n.referrer),e[u]>a&&e[s](c)>0&&(f=e[o](0,a-8).lastIndexOf(c),e=(e[o](0,f)+l+"cut="+g(e[o](f+1)))[o](0,a)),n.images?(h=new Image,m.ns_p||(ns_p=h),h.src=e):n.write("<","p","><",'img src="',e,'" height="1" width="1" alt="*"',"><","/p",">")};
+      function uid_call(a, b){
+          ui_c2 = 17183199; // your corporate c2 client value
+          ui_ns_site = 'gobmx'; // your sites identifier
+          window.b_ui_event = window.c_ui_event != null ? window.c_ui_event:"",window.c_ui_event = a;
+          var ui_pixel_url = 'https://sb.scorecardresearch.com/p?c1=2&c2='+ui_c2+'&ns_site='+ui_ns_site+'&name='+a+'&ns_type=hidden&type=hidden&ns_ui_type='+b;
+          var b="comScore=",c=document,d=c.cookie,e="",f="indexOf",g="substring",h="length",i=2048,j,k="&ns_",l="&",m,n,o,p,q=window,r=q.encodeURIComponent||escape;if(d[f](b)+1)for(o=0,n=d.split(";"),p=n[h];o<p;o++)m=n[o][f](b),m+1&&(e=l+unescape(n[o][g](m+b[h])));ui_pixel_url+=k+"_t="+ +(new Date)+k+"c="+(c.characterSet||c.defaultCharset||"")+"&c8="+r(c.title)+e+"&c7="+r(c.URL)+"&c9="+r(c.referrer)+"&b_ui_event="+b_ui_event+"&c_ui_event="+c_ui_event,ui_pixel_url[h]>i&&ui_pixel_url[f](l)>0&&(j=ui_pixel_url[g](0,i-8).lastIndexOf(l),ui_pixel_url=(ui_pixel_url[g](0,j)+k+"cut="+r(ui_pixel_url[g](j+1)))[g](0,i)),c.images?(m=new Image,q.ns_p||(ns_p=m),m.src=ui_pixel_url):c.write("<p><img src='",ui_pixel_url,"' height='1' width='1' alt='*'></p>");
+      }
+      udm_('https://sb.scorecardresearch.com/b?c1=2&c2=17183199&ns_site=gobmx&name='+siteEls);
+  </script>
+
+  <noscript>
+    <img src="https://sb.scorecardresearch.com/p?c1=2&amp;c2=17183199&amp;ns_site=gobmx&amp;name=gobierno.presidencia.es.articulos.version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-20-de-junio-de-2024" height="1" width="1" alt="*" />
+  </noscript>
+<script>
+    let key = '';
+    $(function () {
+
+        $.getJSON("https://framework-gb.cdn.gob.mx/applications/cms/configGobmx.json", function(json) {
+            console.log(json.keyAnalytics); // this will show the info it in firebug console
+            key = json.keyAnalytics;
+            ga('create', key , 'auto', 'GobTracker');
+            ga('GobTracker.require', 'linker');
+            ga('GobTracker.linker:autoLink', ['www.gob.mx']);
+            ga('GobTracker.set', 'contentGroup1', 'Gobierno');
+            ga('GobTracker.set', 'contentGroup2', SubGroup);
+            ga('GobTracker.set', 'contentGroup3', PageType);
+            ga('GobTracker.set', 'dimension14', 'Gobierno');
+            ga('GobTracker.set', 'dimension15', SubGroup);
+            ga('GobTracker.set', 'dimension16', PageType);
+            ga('GobTracker.set', 'dimension13', 'No Registrado');
+            ga('GobTracker.send', 'pageview');
+            ga('GobTracker.set', 'contentGroup1', null);
+            ga('GobTracker.set', 'contentGroup2', null);
+            ga('GobTracker.set', 'contentGroup3', null);
+            ga('GobTracker.set', 'dimension14', null);
+            ga('GobTracker.set', 'dimension15', null);
+            ga('GobTracker.set', 'dimension16', null);
+            ga('GobTracker.set', 'dimension13', null);
+        });
+    });
+</script>
+
+<script src="https://framework-gb.cdn.gob.mx/applications/cms/modal_global_cms.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/gm/accesibilidad/js/gobmx-accesibilidad.min.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick.min.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick-lightbox.js"></script>
+<link rel="stylesheet" href="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick-lightbox.css">
+
+
+<script src="https://framework-gb.cdn.gob.mx/applications/cms/config_dependency.js"></script>
+<script type="text/javascript"  src="/0RVTuHxj0/t/mhEICJIQ/YiOkthVkYSfw/PRc4N0sKYQk/PwhFVTt/GPxQB"></script></body>
+
+</html>
+

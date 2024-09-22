@@ -1,0 +1,1723 @@
+<!DOCTYPE html>
+<html class='no-js' lang='es'>
+<head>
+    <title>
+  Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 8 de junio de 2022 | Presidencia de la República  | Gobierno | gob.mx
+</title>
+
+  <meta charset='UTF-8'>
+  <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#393C3E">
+
+  
+  <meta name="keywords" content="">
+  <meta name="description" content="Acto encabezado por el presidente Andrés Manuel López Obrador desde Palacio Nacional">
+  <meta name="author" content="Presidencia de la República ">
+
+  <meta content="Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 8 de junio de 2022" property="og:title" />
+  <meta content="https://www.gob.mxhttps://www.gob.mx/cms/uploads/article/main_image/121467/Conferencia_presidente_9.34.02_AM.jpeg" property="og:image" />
+  <meta content="gob.mx" property="og:site_name" />
+  <meta content="Acto encabezado por el presidente Andrés Manuel López Obrador desde Palacio Nacional" property="og:description" />
+  <meta content="http://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-8-de-junio-de-2022?idiom=es" property="og:url" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@gobmx" />
+  <meta name="twitter:title" content="Versión estenográfica. Conferencia de prensa del presidente Andrés..." />
+  <meta name="twitter:description" content="Acto encabezado por el presidente Andrés Manuel López Obrador desde Palacio Nacional" />
+  <meta name="twitter:image" content="https://www.gob.mxhttps://www.gob.mx/cms/uploads/article/main_image/121467/Conferencia_presidente_9.34.02_AM.jpeg" />
+
+
+  <meta content="authenticity_token" name="csrf-param" />
+<meta content="LYduDyVdhLOFLPhN2MvTYcb2b4RoG83ACjp7zfj/PuA=" name="csrf-token" />
+
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700,600,300' rel='stylesheet' type='text/css'>
+  <link href='https://framework-gb.cdn.gob.mx/applications/cms/favicon.png' rel='shortcut icon'>
+  <link data-turbolinks-track="true" href="/cms/assets/application.css" media="all" rel="stylesheet" />
+  <link data-turbolinks-track="true" href="https://framework-gb.cdn.gob.mx/gm/accesibilidad/css/gobmx-accesibilidad.min.css" media="all" rel="stylesheet" />
+  
+
+  <!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+  <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+
+ <![endif]-->
+  <script async src="https://www.googletagmanager.com/gtag/js?id="></script>
+  <script src="https://framework-gb.cdn.gob.mx/applications/cms/carrusel/swiper-bundle.min.js"></script>
+
+  <link rel="stylesheet" href="https://framework-gb.cdn.gob.mx/applications/cms/carrusel/swiper-bundle.min.css">
+
+    <script type="text/javascript">
+
+        var SubGroup = '';
+        if(false || false){
+            SubGroup = 'Temas';
+        }else{
+            SubGroup = 'presidencia';
+        }
+        var PageType = '';
+        if(false){
+            PageType = 'Home'
+        }else{
+            if(false){
+                PageType = '';
+            }else {
+                var site = window.location.pathname;
+                var arrayPageType = ["articulos", "prensa", "agenda", "documentos", "multimedia", "galerias", "videos",
+                    "acciones_y_programas", "acciones-y-programas", "mi-foto-con-el-presidente",
+                    "estructuras", "descargables", "que-hacemos", "finanzas", "infografias"];
+
+                if (site.search("archivo") != -1) {
+                    PageType = "archivo_";
+                }
+                for (var i = 0; i < arrayPageType.length; i++) {
+                    if (site.search(arrayPageType[i]) != -1) {
+                        PageType += arrayPageType[i];
+                        break;
+                    }
+                }
+            }
+        }
+
+
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', '');
+
+        gtag('require', 'linker');
+        gtag('linker:autoLink', ['www.gob.mx']);
+        gtag('set', 'contentGroup1', 'Gobierno');
+        gtag('set', 'contentGroup2', SubGroup);
+        gtag('set', 'contentGroup3', PageType);
+        gtag('set', 'dimension14', 'Gobierno');
+        gtag('set', 'dimension15', SubGroup);
+        gtag('set', 'dimension16', PageType);
+        gtag('set', 'dimension13', 'No Registrado');
+        gtag('send', 'pageview');
+        gtag('set', 'contentGroup1', null);
+        gtag('set', 'contentGroup2', null);
+        gtag('set', 'contentGroup3', null);
+        gtag('set', 'dimension14', null);
+        gtag('set', 'dimension15', null);
+        gtag('set', 'dimension16', null);
+        gtag('set', 'dimension13', null);
+
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-144356475-1', 'auto', {'allowLinker':true});
+        ga('require', 'linker');
+        ga('linker:autoLink', ['www.gob.mx']);
+        ga('set', 'contentGroup1', 'Gobierno');
+        ga('set', 'contentGroup2', SubGroup);
+        ga('set', 'contentGroup3', PageType);
+        ga('set', 'dimension14', 'Gobierno');
+        ga('set', 'dimension15', SubGroup);
+        ga('set', 'dimension16', PageType);
+        ga('set', 'dimension13', 'No Registrado');
+        ga('send', 'pageview');
+        ga('set', 'contentGroup1', null);
+        ga('set', 'contentGroup2', null);
+        ga('set', 'contentGroup3', null);
+        ga('set', 'dimension14', null);
+        ga('set', 'dimension15', null);
+        ga('set', 'dimension16', null);
+        ga('set', 'dimension13', null);
+    </script>
+
+
+  <script type = "text/javascript"> console.log(true);
+  var rails_env_prod = true; </script>
+  <script src="/cms/assets/application.js"></script>
+  <script src="/cms/assets/imageReplace.js"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.js"></script>
+
+                              <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("True"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="N3JQ2-2RVHB-WJQMN-CEYEM-ATMWX",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"N3JQ2-2RVHB-WJQMN-CEYEM-ATMWX",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="xxqo3jv567lbgzxpkmka-f-cf561f242-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"37","ak.cp":"413578","ak.ai":parseInt("270161",10),"ak.ol":"0","ak.cr":13,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"c12d9660","ak.r":49405,"ak.a2":e,"ak.m":"b","ak.n":"essl","ak.bpcip":"189.224.237.0","ak.cport":30321,"ak.gh":"189.247.214.12","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"reno","ak.t":"1726960404","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==YQibO0XH3jXOzrMXLG+xuTTToitL0ReZZCqwJuWjqUKdslDuYlxydDrXn8VK6BMv9jXgqFTZgGO5tZad1zBl6u4gl4AbVvDzFnub0t101mJPMGkqp/V2NfQnugzDyJJy+WE+BEQQV75Osodm0e3+OgsXq+Wbyynv4IjDVSlENbA5c6xz2+IHlaJhKCpf9wPN2+op96rB8mJG+4RsXvwrcgjKBlFLcPOLgZYlZoWjVjIpdtoPbqpcvM80L0DhqyNbaWph6eckyu4U34SHwzEftvfF85zpOlOdkK7pkbiFFT8yp7oSblRRl4M5jQNMgP8a6gzrRqi6kXdVGKoLgVy8X5mw/OHSsgdJt7wtiL50soyWXqRZN7LgOWepmryVKGuShFmyNwwxX/J2M8O1wB0sJN1IIeg3Ljl7ikjyZEy58iA=","ak.pv":"113","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+<body>
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v13.0" nonce="MZ2GPb2d"></script><!-- a href="#principal" class="skip">Saltar al contenido principal</a -->
+  <header class=" navbar navbar-inverse">
+    <nav class="navbar navbar-inverse  navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-target="#navbarMainCollapse" data-toggle="collapse">
+            <span class="sr-only">Interruptor de Navegación</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a href="/" style="padding: 1px 3px 3px 3px;" class="navbar-brand " title="Ir a la página inicial">
+
+            <div class="logo-main"></div>
+          </a>
+        </div>
+        <div id="navbarMainCollapse" class="collapse navbar-collapse">
+          <ul class="nav navbar-nav navbar-right">
+           <li><a href="/tramites" title="Trámites">Trámites </a></li>
+            <li><a href="/gobierno" title="Gobierno">Gobierno</a></li>
+                  <li><a href="/presidencia/en" title="Versión en inglés del sitio web">English</a>
+                  </li>
+                </li>
+
+
+            <li>
+              <form accept-charset="UTF-8" action="/busqueda" method="get"><div style="display:none"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+                <input type="hidden" name="site" value="presidencia">
+                <button data-v-6394873e="" id="botonbuscar" type="button" class="btn btn-search"><a data-v-6394873e="" href="https://www.gob.mx/busqueda?utf8=✓" target="_blank" id="botbusca"><img data-v-6394873e="" alt="Buscar" src="https://framework-gb.cdn.gob.mx/landing/img/lupa.png"></a></button>
+</form>            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    
+
+
+        <script src="/cms/assets/level_jump.js"></script><section>
+<!-- Subnavegacion -->
+<nav class=" navbar-inverse sub-navbar fixed-top"
+     >
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#subenlaces">
+        <span class="sr-only">Interruptor de Navegación</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="link-name" href="?tab="></a>
+    </div>
+    <div class="collapse navbar-collapse" id="subenlaces">
+      <ul class="nav subnav navbar-nav navbar-right">
+              <li class="landing-btn">
+                    <a href='/presidencia/es/archivo/prensa'>
+                Comunicados            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='/presidencia/es/#5173'>
+                Directorio            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='https://transparencia.presidencia.gob.mx/presidencia/transparencia/politicas-de-tratamiento-de-datos-personales-de-la-oficina-de-la-presidencia-de-la-republica/'>
+                Protección de Datos Personales            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='https://www.gob.mx/presidencia/transparencia/'>
+                Transparencia            </a>
+            </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+<style>
+  .flag-banner {
+  top: 45px  !important;
+  }
+</style>
+<!-- div class="warning-nav" style="margin-top: 0px;">
+  <div class="container">
+    <div class="row clearfix">
+  <div class="col-xs-12 col-sm-12 col-md-12">Este contenido será modificado temporalmente en atención a las disposiciones legales y normativas en materia electoral, con motivo del inicio de periodo de campaña</div>
+  </div>
+  </div>
+</div -->
+</section>
+
+
+  </header>
+
+
+
+
+
+<main class="inner-page interior ficha">
+  <div class="container">
+  	<ol class="breadcrumb">
+  <li><a href="http://www.gob.mx"><span class="icon icon-home"></span><span class="sr-only">Inicio</span></a></li>
+  <li><a href="/presidencia">Presidencia de la República </a></li>
+  <li class="active">Blog</li>
+</ol>
+  	<div class="">
+      <div aria-hidden="true" class="hidden-xs font-changer internal print" tabindex="-1">
+  <button class="inc-font font-modifier">Aa+</button>
+  <button class="dec-font font-modifier">Aa-</button>
+</div>
+      <div class="marquee-padding">
+      <div class='post-list main-post-list'>
+<div class='marque-float-left'>
+<div class='right_arrow'></div>
+<div class='titulo-pub'>
+<small>Publicaciones Recientes</small>
+</div>
+</div>
+<div>
+<div class='container-marque'>
+<div id='headlines'>
+<div class='marquee'>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-19 13:44:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-19-de-septiembre-de-2024' title='Versió'>
+Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 19 de septiembre de 2024
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-18 12:36:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-18-de-septiembre-de-2024' title='Versió'>
+Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 18 de septiembre de 2024
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-17 13:51:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-entrega-de-estimulos-a-delegaciones-mexicanas-participantes-en-juegos-olimpicos-y-paralimpicos-paris-2024' title='Versió'>
+Versión estenográfica. Entrega de estímulos a delegaciones mexicanas participantes en Juegos Olímpicos y Paralímpicos París 2024
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-17 12:21:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-17-de-septiembre-de-2024' title='Versió'>
+Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 17 de septiembre de 2024
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-16 13:56:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-desfile-civico-militar' title='Versió'>
+Versión estenográfica. Desfile Cívico Militar
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+      </div>
+  	  <div class="col-md-7 col-xs-12 col-sm-12 pull-left" tabindex="0">
+  	  	<h1 class="bottom-buffer">Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 8 de junio de 2022</h1>
+  	  	<h2>Acto encabezado por el presidente Andrés Manuel López Obrador desde Palacio Nacional</h2>
+        <section class="">
+          <p>Presidencia de la República  | 08 de junio de 2022</p>
+        </section>
+  	  <div class="imagen-principal">
+  	      <img alt="Conferencia de prensa del presidente Andrés Manuel López Obrador" class="img-responsive img_curve" src="https://www.gob.mx/cms/uploads/article/main_image/121467/Conferencia_presidente_9.34.02_AM.jpeg" />
+  	      <span class="small">Conferencia de prensa del presidente Andrés Manuel López Obrador</span>
+      </div>
+      <div class="article-body"><p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Buenos d&iacute;as. Se hizo tarde. &Aacute;nimo.</p>
+
+<p>Bueno, vamos a informar y, como todos los mi&eacute;rcoles, va a estar con nosotros, ya est&aacute;, Elizabeth Garc&iacute;a Vilchis, porque corresponde hablar sobre <em>Qui&eacute;n es qui&eacute;n en las mentiras de la semana</em>. Entonces, empezamos con Elizabeth.</p>
+
+<p><strong>ANA ELIZABETH GARC&Iacute;A VILCHIS:</strong> Buenos d&iacute;as, se&ntilde;or presidente; buenos d&iacute;as, compa&ntilde;eras, compa&ntilde;eros de la prensa.</p>
+
+<p>Este es el <em>Qui&eacute;n es qui&eacute;n en las mentiras de la semana</em> del 8 de junio de 2022 y vamos a iniciar con el segmento S&eacute;lvame del fake. Cuando la culpa de todo la tiene el gobierno, a pesar de que no se ha construido el Tren Maya, ya es culpable de cambiar el azul turquesa de&hellip;. perd&oacute;n, el azul de la laguna de Bacalar.</p>
+
+<p>A diario se publican muchas mentiras sobre la construcci&oacute;n del Tren Maya, pero se calla sobre la verdadera devastaci&oacute;n ambiental en la pen&iacute;nsula de Yucat&aacute;n. A partir del 18 de mayo pasado, diarios como <em>Nexos, Forbes, El Clar&iacute;n, Infobae </em>y <em>Radio F&oacute;rmula</em> publicaron una nota en que un supuesto especialista denuncia que la construcci&oacute;n del Tren Maya cambiar&aacute; el color de la laguna de Bacalar en Quintana Roo, en tono similar de lo que hizo la senadora panista Kenia L&oacute;pez, que denunci&oacute; que el gobierno federal acabar&aacute; con el azul turquesa del mar Caribe, por el Tren Maya. S&oacute;lo les falta que presenten pruebas para no considerarlo un verdadero disparate.</p>
+
+<p>Es falso que el Tren Maya haya provocado que la laguna de los siete colores de Bacalar haya cambiado de tono. En este tramo, cerca de Chetumal, ni siquiera ha comenzado la construcci&oacute;n del tren. Los cambios de color de las aguas de Bacalar se deben a m&uacute;ltiples factores, como la expansi&oacute;n de la agricultura intensiva en la pen&iacute;nsula de Yucat&aacute;n, el uso de qu&iacute;micos como el glifosato, el mal manejo de las aguas negras, adem&aacute;s de la deforestaci&oacute;n de la selva entre otras causas. Pero, bueno.</p>
+
+<p>Vamos a pasar a otro tema. Para difundir noticias falsas sobre el gobierno del presidente Andr&eacute;s Manuel L&oacute;pez Obrador echan mano del nado sincronizado en las redes. Un, dos, tres por m&iacute; y por todos mis compa&ntilde;eros bots.</p>
+
+<p>En el primer ejemplo, el 24 de mayo pasado, <em>Animal Pol&iacute;tico</em> tergivers&oacute; las palabras del presidente L&oacute;pez Obrador, cito su tuit: &lsquo;Dice L&oacute;pez Obrador que, si el modelo neoliberal se aplicara sin corrupci&oacute;n, no ser&iacute;a del todo malo e incluso se podr&iacute;a tratar del modelo econ&oacute;mico m&aacute;s perfecto&rsquo;. Pero eso no fue lo que dijo el presidente.</p>
+
+<p>Cito al presidente: &lsquo;Cuando se habla del modelo neoliberal, yo he llegado a sostener que, si el modelo neoliberal se aplicara si corrupci&oacute;n, no ser&iacute;a del todo malo. Es que se puede tratar del modelo econ&oacute;mico m&aacute;s perfecto, pero con la agravante de la corrupci&oacute;n no sirve de nada&rsquo;, entonces el fondo es ese, el que impera la corrupci&oacute;n.</p>
+
+<p>El presidente sostuvo que cualquier que sea el modelo econ&oacute;mico, si impera la corrupci&oacute;n, no sirve de nada. Sin embargo, Denise Dresser, Juan Carlos Romero Hicks, Javier Lozano, Pablo Majluf, Dolia Est&eacute;vez, el monero Calder&oacute;n y una lista larga cuestionaron al presidente atribuy&eacute;ndole algo que no dijo. Un verdadero nado sincronizado para denostar al mandatario, pero gracias a las benditas redes sociales hubo usuarios que reclamaron a <em>Animal Pol&iacute;tico</em> haber manipulado la declaraci&oacute;n emitida en la conferencia matutina. El medio no se inmut&oacute; y el tuit sigue circulando; de la &eacute;tica period&iacute;stica, mejor ni hablamos.</p>
+
+<p>Otro ejemplo de estas estrategias de ataque al gobierno tuvo ocasi&oacute;n con motivo del decreto presidencial por el cual se proh&iacute;be la importaci&oacute;n y comercializaci&oacute;n de vapeadores y cigarrillos electr&oacute;nicos en territorio nacional.</p>
+
+<p>Comentaristas, conductores de radio y televisi&oacute;n, y tambi&eacute;n en redes sociales se lanz&oacute; otra campa&ntilde;a contra esta decisi&oacute;n que se tom&oacute; para proteger la salud de la poblaci&oacute;n, sobre todo de adolescentes y ni&ntilde;os, pero a estos diseminadores de noticias falsas no les importa, m&aacute;s que proteger el negocio de las tabacaleras.</p>
+
+<p>Personajes como Denise Dresser &mdash;s&iacute;, otra vez Denise Dresser&mdash; Luis C&aacute;rdenas, N&eacute;stor Ojeda, Juan Ignacio Zavala, que es el cu&ntilde;ado de Felipe Calder&oacute;n, as&iacute; como Pamela Cerdeira, Jorge Triana, Manuel L&oacute;pez San Mart&iacute;n, Javier Lozano, Sergio Sarmiento y un largo etc&eacute;tera, se mofaron del dicho &lsquo;prohibido prohibir&rsquo; del presidente para atacar una decisi&oacute;n que protege la salud. Un verdadero desprop&oacute;sito con aroma a Philip Morris.</p>
+
+<p>Y, bueno, en un tercer ejemplo de nado sincronizado ocurri&oacute; d&iacute;as antes de la elecci&oacute;n de seis gubernaturas el pasado 5 de junio. Todo inici&oacute; cuando el viernes 2 de junio la periodista Carmen Aristegui entrevist&oacute; al priista Francisco Labastida Ochoa, quien acus&oacute; sin fundamento ni prueba que el c&aacute;rtel Sinaloa habr&iacute;a apoyado a Morena en las elecciones y que ten&iacute;a &lsquo;indicios que apuntan a una protecci&oacute;n que es muy sospechosa del gobierno sobre el narcotr&aacute;fico&rsquo;, eso dijo el se&ntilde;or Labastida.</p>
+
+<p>Pero recordemos que ese mismo se&ntilde;or, Francisco Labastida Ochoa, fue gobernador cuando se fortaleci&oacute; el c&aacute;rtel Sinaloa, y siendo candidato presidencial del PRI protagoniz&oacute; el vergonzoso desv&iacute;o de mil 600 millones de pesos de Pemex, ni siquiera le&hellip; Bueno, esto es conocido como el <em>Pemexgate</em>, pero, por cierto, Aristegui ni siquiera le pregunt&oacute; sobre ese tema, dejando una sensaci&oacute;n de una entrevista a modo para influir en las elecciones estatales, intentando confundir a los ciudadanos.</p>
+
+<p>Tras estas declaraciones, se sincronizaron nuevamente para atacar al gobierno personajes como Denise Dresser &mdash;s&iacute;, su tercer <em>strike&mdash; </em>Lilly T&eacute;llez, Gabriel Quadri, Claudio X. Gonz&aacute;lez, la senadora Kenia L&oacute;pez, el exdiputado Porfirio Mu&ntilde;oz Ledo, as&iacute; como columnistas como Raymundo Riva Palacio y Carlos Loret de Mola. Ellos se lanzaron al ruedo asegurando que el gobierno federal tiene un acuerdo con el narcotr&aacute;fico, pero ninguno ofreci&oacute; pruebas, s&oacute;lo acusaciones sin base.</p>
+
+<p>Es absolutamente falso que el presidente Andr&eacute;s Manuel L&oacute;pez Obrador haya pactado con criminales. Eso s&iacute; pas&oacute;, pero en tiempos del presidente Felipe Calder&oacute;n y Genaro Garc&iacute;a Luna que, por cierto, est&aacute; preso en Estados Unidos por sus nexos con el narcotr&aacute;fico y sus acuerdos con el crimen organizado cuando era secretario de Seguridad P&uacute;blica.</p>
+
+<p>Pero la cosa no par&oacute; ah&iacute;, porque as&iacute; son. En v&iacute;spera de las elecciones, la periodista Anabel Hern&aacute;ndez public&oacute;, otra vez sin ning&uacute;n documento de prueba, que Morena habr&iacute;a pactado en 2018 con el c&aacute;rtel Sinaloa para ganar las elecciones en las que result&oacute; vencedor el presidente L&oacute;pez Obrador.</p>
+
+<p>Es evidente la colusi&oacute;n de opiniones sincronizadas como parte de una guerra sucia que se vivi&oacute; antes y durante los comicios del 5 de junio.</p>
+
+<p>La mejor respuesta, y con esto vamos a terminar, la dio un usuario de Twitter, Emilio G. Voy a citar su tuit y aqu&iacute; lo vemos tambi&eacute;n en la pantalla:</p>
+
+<p>&lsquo;La se&ntilde;ora Anabel Hern&aacute;ndez ha estado en ferias de libros, entrevistas, foros y frente al Fisg&oacute;n monero, Rafael Barajas. Sostuvo que el presidente L&oacute;pez Obrador -escuchen- no tiene v&iacute;nculos con el narco y mucho menos tiene propiedades en el extranjero. &iquest;Qu&eacute; le hizo cambiar de parecer a la se&ntilde;ora?&rsquo; Y pues nosotros pensamos que en tiempos electorales hab&iacute;a que echarle una manita a la oposici&oacute;n. Y, bueno, as&iacute; lo confirm&oacute; el propio Rafael Barajas, mejor conocido como &lsquo;el Fisg&oacute;n&rsquo;; le contest&oacute;: &lsquo;As&iacute; fue&rsquo;.</p>
+
+<p>Y bueno, pasaron las elecciones de los seis estados y los ataques arreciaron, y todos sabemos por qu&eacute; arreciaron, justo por los resultados de las elecciones.</p>
+
+<p>Es cuanto, se&ntilde;or presidente.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Muy bien, pues no vamos a tratar otros temas, puras preguntas y respuestas para tener tiempo bastante. Nada m&aacute;s qued&oacute; pendiente Felipe Fierro y luego, abierto. Igualdad hombre, mujer.</p>
+
+<p>Adelante.</p>
+
+<p><strong>PREGUNTA:</strong> Buenos d&iacute;as se&ntilde;or presidente.</p>
+
+<p>Felipe Fierro, de <em>A tiempo.com.mx y Puente Libre</em>.</p>
+
+<p>Qued&oacute; pendiente la semana pasada una opini&oacute;n sobre la extradici&oacute;n del exgobernador C&eacute;sar Duarte, y ojal&aacute; pudiera darnos su opini&oacute;n al respecto.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Bueno, pues ya est&aacute; en M&eacute;xico, es un proceso de extradici&oacute;n y corresponde a las autoridades juzgarlo. Hay que estar nada m&aacute;s pendientes del proceso y confiar en las autoridades. Eso es lo que puedo decir.</p>
+
+<p><strong>INTERLOCUTOR:</strong> Sobre ese punto, el fiscal estatal, Roberto Fierro, afirm&oacute; que ya hab&iacute;a pedido a la fiscal&iacute;a general para que a trav&eacute;s de la Secretar&iacute;a de Relaciones Exteriores se aplicara la regla de especialidad; es decir, que se pida autorizaci&oacute;n, en este caso al Departamento de Justicia o al departamento que corresponda al Estado, que se pueda juzgar a C&eacute;sar Duarte por una serie de delitos pendientes que estaban incluidos en la carpeta inicial que se solicit&oacute;, porque tanto la juez Lauren Louis, como del juzgado del distrito de Miami, como el juzgado de apelaci&oacute;n afirm&oacute; que solamente se puede juzgar por dos delitos, dos posibles delitos, esto justific&oacute; la extradici&oacute;n, y quedan pendiente alrededor de una veintena de &oacute;rdenes de aprehensi&oacute;n o de carpetas de investigaci&oacute;n que solicitan que la fiscal&iacute;a general y la propia secretar&iacute;a de relaciones pidan autorizaci&oacute;n al gobierno de Estados Unidos para poderlo juzgar por estas carpetas pendientes.</p>
+
+<p>Usted ha se&ntilde;alado al principio que la solicitud inicial estaba mal hecha y que se hab&iacute;a recompuesto.</p>
+
+<p>&iquest;Cu&aacute;l es la situaci&oacute;n al respecto? Y si en este caso solicitar&iacute;an nuevamente a Estados Unidos la aplicaci&oacute;n de esta regla de especialidad.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> S&iacute;, yo tengo informaci&oacute;n de que se le puede juzgar por todos los presuntos delitos que cometi&oacute;, esa es la informaci&oacute;n que tengo.</p>
+
+<p>De todas maneras, voy a hacer una revisi&oacute;n para que no vaya a omitirse el que existen posibles delitos y que la extradici&oacute;n s&oacute;lo conduzca a uno o a dos, y que, estando aqu&iacute;, ya pueda obtener su libertad, o sea, que nosotros actuemos como alcahuetes, eso no.</p>
+
+<p>Voy a pedir esa informaci&oacute;n. Me dijeron que no hab&iacute;a ning&uacute;n problema, que se tienen que desahogar todas las acusaciones. Pero si fuese ese el caso, entonces se proceder&iacute;a a pedir ante la instancia correspondiente que se actuara.</p>
+
+<p><strong>INTERLOCUTOR:</strong> S&iacute; es el caso. De hecho, la propia secretar&iacute;a de relaciones dijo que solamente se le hab&iacute;an autorizado en la extradici&oacute;n dos delitos: el peculado y la asociaci&oacute;n delictuosa.</p>
+
+<p>En otro tema, tambi&eacute;n relacionado al exgobernador Duarte, algunos grupos han solicitado que el gobierno federal atraiga el ejercicio, en ejercicio de la funci&oacute;n para que sea juzgado por los tribunales federales. &iquest;Cu&aacute;l es su opini&oacute;n en este asunto, se&ntilde;or presidente?</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Tiene que ser la instancia que corresponde y tener confianza en que van a hacer bien las cosas las autoridades locales, porque ya no es el tiempo de antes, no es de que hacen una maniobra para favorecer a alguien porque hay l&iacute;nea pol&iacute;tica y ya pueden resolver cualquier cosa. No. Si no act&uacute;an con rectitud, hay denuncia p&uacute;blica. No hay impunidad para nadie, tr&aacute;tese de quien se trate. Ahora s&iacute; que &iquest;qui&eacute;n va, en estos tiempos, a tomar una decisi&oacute;n como las que se tomaban antes? Aqu&iacute; no nos quedamos callados, sea quien sea.</p>
+
+<p><strong>INTERLOCUTOR:</strong> &iquest;Por qu&eacute; se&ntilde;al&oacute; usted que estaba mal integrada la solicitud de extradici&oacute;n?</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> &iquest;Mande?</p>
+
+<p><strong>INTERLOCUTOR:</strong> Usted se&ntilde;al&oacute; hace meses que estaba mal&hellip;</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> S&iacute;, porque al principio se elabor&oacute; mal.</p>
+
+<p><strong>INTERLOCUTOR:</strong> &iquest;Qu&eacute; deficiencia ten&iacute;a?</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Ya no recuerdo bien, pero no se hab&iacute;a fundado adecuadamente. Se tuvo que rehacer, intervino la Secretar&iacute;a de Relaciones Exteriores. O sea, se demostr&oacute; que hab&iacute;a inter&eacute;s en que se hicieran mal las cosas para beneficiar al se&ntilde;or Duarte, entonces por eso voy de nuevo a pedir una revisi&oacute;n y, si hay este prop&oacute;sito de favorecerlo y es ilegal, pues aqu&iacute; mismo lo vamos a dar a conocer.</p>
+
+<p><strong>INTERLOCUTOR:</strong> Muy bien.</p>
+
+<p>En otro tema, se&ntilde;or presidente, sali&oacute; hoy en <em>Milenio</em> de que hay una gran movilizaci&oacute;n militar de las Fuerzas Armadas, tambi&eacute;n de la Guardia Nacional, cerca de 30 mil, 28, 30 mil personas, mencionan, militares para contener en cuatro frentes la ola migratoria.</p>
+
+<p>La pregunta es: &iquest;cu&aacute;ntos militares se est&aacute;n movilizando para atender precisamente las caravanas y la movilizaci&oacute;n migratoria de Centroam&eacute;rica hacia M&eacute;xico?</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Es normal lo que se est&aacute; haciendo, no hay un plan especial.</p>
+
+<p>S&iacute; vamos a reunirnos, una vez que regrese Marcelo Ebrard, para analizar el asunto migratorio, fundamentalmente por las elecciones en Estados Unidos, para hablar con claridad.</p>
+
+<p>Desde luego, la gente est&aacute; necesitada, quiere trabajo. No ha habido respuesta, ayer lo comentaba. Llegamos cinco a&ntilde;os &mdash;para no echarle la culpa a este gobierno de Estados Unidos, sino desde el gobierno del presidente Biden, perd&oacute;n, Trump&mdash;, que se habl&oacute; de cuatro mil millones de d&oacute;lares y en cuatro, cinco a&ntilde;os no han destinado nada; en cambio, autorizaron los legisladores de Estados Unidos, esos que hablan de que les preocupan los derechos humanos&hellip;</p>
+
+<p><strong>INTERLOCUTOR:</strong> Como Marco Rubio.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Como Rubio y como el otro se&ntilde;or.</p>
+
+<p><strong>INTERLOCUTOR:</strong> Cruz.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> S&iacute;, Ted Cruz, y el Men&eacute;ndez. Esos senadores casi por unanimidad, creo que falt&oacute; uno, autorizaron 40 mil millones de d&oacute;lares para armas a Ucrania. Entonces, &iquest;c&oacute;mo es posible que no se puedan autorizar los mismos cuatro mil millones para enfrentar el problema de fondo del fen&oacute;meno migratorio?, &iquest;por qu&eacute; ese doble discurso?</p>
+
+<p>Este se&ntilde;or Ted Cruz, senador, diciendo que celebra el que yo no asista a la cumbre porque yo protejo&hellip;</p>
+
+<p><strong>INTERLOCUTOR:</strong> Marco Rubio, y si me permite, dice: &lsquo;Me alegra ver que el presidente mexicano, que ha entregado secciones de su pa&iacute;s a los c&aacute;rteles de droga y es un apologista de la tiran&iacute;a en Cuba, un dictador asesino en Nicaragua y de un narcotraficante en Venezuela, no estar&aacute; esta semana en Estados Unidos&rsquo;. &iquest;Qu&eacute; comentar&iacute;a a Marco Rubio?</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Pues yo no s&eacute;, es que no los identifico bien.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Pues, yo no s&eacute;, no los identifico bien.</p>
+
+<p><strong>INTERLOCUTOR:</strong> Es senador por Florida, republicano.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Ah, s&iacute;, pero no es s&oacute;lo es ese. Entonces son tres: es este se&ntilde;or Rubio, que este pertenece al Partido Republicano, as&iacute; es, &iquest;verdad?</p>
+
+<p><strong>INTERLOCUTOR:</strong> S&iacute;.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Y Ted Cruz, tambi&eacute;n al Partido Republicano.</p>
+
+<p><strong>INTERLOCUTOR:</strong> Tambi&eacute;n.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Bueno, el Ted Cruz, igual, pero todav&iacute;a Ted Cruz le a&ntilde;adi&oacute; que no s&oacute;lo protejo dictaduras, sino que permit&iacute; al narcotr&aacute;fico que dominara un amplio territorio de M&eacute;xico.</p>
+
+<p>Yo le digo al se&ntilde;or Ted Cruz&hellip;</p>
+
+<p><strong>INTERVENCI&Oacute;N:</strong> Marco Rubio.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Marco Rubio, pero tambi&eacute;n al otro, a los dos, que presenten pruebas, porque yo s&iacute; tengo pruebas de que el se&ntilde;or Ted Cruz, senador de Texas, de origen hispano, que obtiene sus votos por los hispanos, yo lo emplazo a que presente las pruebas de lo que est&aacute; diciendo, porque yo s&iacute; tengo pruebas de que a &eacute;l le han dado dinero los que est&aacute;n a favor de la fabricaci&oacute;n de armas en Estados Unidos y de que no haya ninguna prohibici&oacute;n para la venta de armas, yo tengo las pruebas.</p>
+
+<p>El a&ntilde;o pasado creo que le dieron como 120 mil d&oacute;lares, la fundaci&oacute;n esta, llamada Rifle, la Asociaci&oacute;n Nacional del Rifle.</p>
+
+<p>Pero estos son republicanos, estos dos.</p>
+
+<p>Tambi&eacute;n un dem&oacute;crata, el se&ntilde;or Men&eacute;ndez, que fue el que pr&aacute;cticamente amenaz&oacute; de que no iba a votar a favor de las iniciativas del presidente Biden si se invitaba a todos los pa&iacute;ses de Am&eacute;rica a la llamada Cumbre de Am&eacute;rica.</p>
+
+<p>Y como ya sabemos, una situaci&oacute;n muy compleja, son 50 senadores republicanos, 50 senadores dem&oacute;cratas, y si este senador dem&oacute;crata se inconforma por la invitaci&oacute;n que se haga a todos los pueblos y a todos los pa&iacute;ses de Am&eacute;rica, pues ya entonces gana el senador del Partido Republicano.</p>
+
+<p>Entonces, entiendo perfectamente al presidente Biden, nada m&aacute;s que no comparto ese punto de vista. Una naci&oacute;n, un gobierno no puede ser reh&eacute;n de intereses personales o de grupos, no se puede guiar por ideolog&iacute;as, por dogmas, por odios y mucho menos los llamados representantes populares pueden medrar con el dolor, con el sufrimiento de los pueblos.</p>
+
+<p>Entonces, esa es la respuesta.</p>
+
+<p>A ver, porque tambi&eacute;n Elizabeth lo mencion&oacute;, &iquest;cu&aacute;l es mi vinculaci&oacute;n con el narcotr&aacute;fico en M&eacute;xico? Yo no soy Felipe Calder&oacute;n, aunque no les guste, no s&oacute;lo a sus m&aacute;s cercanos simpatizantes, sino a muchos que votaron por &eacute;l. Pero hay que saber rectificar, no caer en la autocomplacencia, es de sabios cambiar de opini&oacute;n y la verdad nos har&aacute; libres, la verdad.</p>
+
+<p>Hay un fragmento de un video, no s&eacute; si lo tengan, sobre uno de estos senadores, y ojal&aacute; nuestros paisanos tomen nota, porque antes no se hablaba de estos temas. Y por eso maltrataban al mexicano y maltrataban al migrante y hac&iacute;an lo que quer&iacute;an, porque no hab&iacute;a informaci&oacute;n. Para que ya no se est&eacute; apoyando a gentes de malas entra&ntilde;as que no tienen ideales, que no tienen principios, que act&uacute;an de mala fe.</p>
+
+<p><strong>INTERLOCUTOR:</strong> &iquest;Usted cree que hay una vinculaci&oacute;n en la similitud del argumento que presentan los senadores norteamericanos con la campa&ntilde;a local en relaci&oacute;n al problema del narco?, o sea, porque advierten ya que hay un v&iacute;nculo de operaci&oacute;n pol&iacute;tica.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> S&iacute;, porque desde hace muchos a&ntilde;os han estado alimentando esa estrategia que les da frutos, les resulta en lo electoral, pero yo sostengo, como lo plante&oacute; en su momento el gran dirigente, republicano &iquest;eh?, Abraham Lincoln, que al pueblo se le puede enga&ntilde;ar una vez, dos veces, dec&iacute;a Lincoln, pero no se le puede enga&ntilde;ar todo el tiempo.</p>
+
+<p>Entonces, aun cuando se trate de Texas&hellip; Que dicen: &lsquo;Es que Texas es un estado muy conservador&rsquo;. No, no, no, ya el pueblo en todo el mundo ya despert&oacute;, ya no es el tiempo de antes. Adem&aacute;s, no olvidemos, en Texas naci&oacute; Ignacio Zaragoza cuando Texas era de M&eacute;xico, pertenec&iacute;a una parte considerable de Texas, donde naci&oacute; Zaragoza, a Coahuila.</p>
+
+<p>Yo escrib&iacute; un libro sobre un revolucionario de la frontera que vivi&oacute; en Texas, que convoc&oacute; al pueblo de M&eacute;xico a tomar las armas para derrotar a Porfirio D&iacute;az 18 a&ntilde;os antes de Francisco I. Madero: Catarino Garza Rodr&iacute;guez, de Matamoros. Pero vivi&oacute; en toda la franja fronteriza y organiz&oacute; su movimiento para derrocar al dictador de aquel lado en Texas, en Laredo, en San Antonio, la frontera, 1994.</p>
+
+<p><strong>INTERVENCI&Oacute;N:</strong> 1894.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR: </strong>1894, 1894.</p>
+
+<p>Entonces, los texanos conocen de estas historias, nada m&aacute;s que se ha enga&ntilde;ado mucho, como en todo el mundo, en los &uacute;ltimos tiempos. Hay que informar cada vez m&aacute;s.</p>
+
+<p>&iquest;Ya tienes ah&iacute; el video? &iquest;No lo tienes? Es uno donde mencionan que le han entregado, no s&eacute; si 200 o 170 mil d&oacute;lares nada m&aacute;s en el 21, esta asociaci&oacute;n. D&oacute;lares.</p>
+
+<p><strong>INTERVENCI&Oacute;N:</strong> (Inaudible).</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Eso. Es el que m&aacute;s dinero ha recibido o uno de los que m&aacute;s ha recibido en Texas de&hellip;</p>
+
+<p><strong>JES&Uacute;S RAM&Iacute;REZ CUEVAS, COORDINADOR GENERAL DE COMUNICACI&Oacute;N SOCIAL Y VOCERO DE PRESIDENCIA: </strong>La Asociaci&oacute;n Nacional del Rifle.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR: </strong>Asociaci&oacute;n Nacional del Rifle.</p>
+
+<p><strong>JES&Uacute;S RAM&Iacute;REZ CUEVAS: </strong>Lo dicen en una nota de <em>Telemundo</em>.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Ah, pues p&oacute;nganla.</p>
+
+<p><strong>(INICIA VIDEO)</strong></p>
+
+<p><strong><em>INTERVENCI&Oacute;N HOMBRE:</em></strong><em> Como gran tema de fondo est&aacute; el control de las armas. Hoy el senador de Texas, Ted Cruz, abandon&oacute; furioso una entrevista justamente porque le increparon sobre el control de armas. </em></p>
+
+<p><em>Al terminar una vigilia aqu&iacute; en Uvalde, un periodista brit&aacute;nico, de la cadena Sky News le pregunt&oacute; a Cruz por qu&eacute; este tipo de tragedias solamente ocurren en Estados Unidos. El senador evadi&oacute; una respuesta directa, acus&oacute; al periodista de tener una agenda pol&iacute;tica.</em></p>
+
+<p><em>De acuerdo con un reporte Open Secrets, desde que fue electo en 2012, Ted Cruz ha recibido m&aacute;s fondos de grupos a favor de las armas que cualquier otro pol&iacute;tico.</em></p>
+
+<p><strong>(FINALIZA VIDEO)</strong></p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> &iquest;Terminaste?</p>
+
+<p><strong>INTERLOCUTOR:</strong> (Inaudible) con el reporte, nada m&aacute;s con la situaci&oacute;n de la sequ&iacute;a en Chihuahua, hay 22 millones de hect&aacute;reas afectadas seriamente por la sequ&iacute;a.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Vamos a informarte.</p>
+
+<p>Bueno, empezamos aqu&iacute;, las tres compa&ntilde;eras y tres compa&ntilde;eros, y luego nos vamos para atr&aacute;s.</p>
+
+<p><strong>PREGUNTA:</strong> Gracias, presidente.</p>
+
+<p>Nancy Rodr&iacute;guez, de <em>Oro S&oacute;lido</em> y de <em>Empuje Migrante</em>. Buenos d&iacute;as a todos.</p>
+
+<p>Presidente, las corruptas empresas espa&ntilde;olas no nada m&aacute;s se incrustaron en el sector energ&eacute;tico, ahora que usted ha estado impulsando este programa de autosuficiencia alimentaria, bueno, pues como dice usted, el pueblo salvar&aacute; al pueblo, se han acercado a nosotros trabajadores de Segalmex donde denuncian que hay empresas espa&ntilde;olas, una, ILAS de M&eacute;xico, anteriormente llamada Industrias Chihuahuenses, que nos denuncian que esta empresa desde hace 20 a&ntilde;os ha pagado <em>moches</em> a varios funcionarios de esa dependencia, desde el gobierno de Vicente Fox, Calder&oacute;n, Pe&ntilde;a Nieto y a la fecha; incluso, nos informan que compr&oacute; hace unos meses 25 mil toneladas de leche y tambi&eacute;n, bueno pues desplazando a productores mexicanos. No s&eacute; si usted tendr&aacute; informaci&oacute;n al respecto, presidente.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> La informaci&oacute;n que tengo es que se est&aacute; llevando a cabo una investigaci&oacute;n a fondo en Segalmex. Ya hay denuncias en la Fiscal&iacute;a General de la Rep&uacute;blica por todo lo que tiene que ver con la compra de alimentos y yo espero que pronto podamos dar a conocer c&oacute;mo est&aacute; la situaci&oacute;n en Segalmex, que venga aqu&iacute; el secretario de la Funci&oacute;n P&uacute;blica, que es el que est&aacute;, pues encargado de coordinar todos los esfuerzos, para ver c&oacute;mo est&aacute;n las cuentas en Segalmex.</p>
+
+<p>Entonces, hacemos ese compromiso de informar.</p>
+
+<p><strong>INTERLOCUTORA:</strong> S&iacute;, en relaci&oacute;n a esta empresa espa&ntilde;ola.</p>
+
+<p>Presidente, tambi&eacute;n, por otro lado, f&iacute;jese que la huelga en Cananea contin&uacute;a. Yo no s&eacute; qu&eacute; informaci&oacute;n le tenga o le hayan dado a usted, pero los trabajadores que est&aacute;n ahorita operando ah&iacute; en Cananea son paralelos a la huelga legal que se estall&oacute; hace ya 15 a&ntilde;os.</p>
+
+<p>Entonces, bueno, pues ellos est&aacute;n ahorita aqu&iacute; afuera en Palacio Nacional. Le env&iacute;an una carta, no se la voy a leer toda, nada m&aacute;s, si me permite, dice: &lsquo;Somos aut&eacute;nticos mineros de Cananea, no los que han acarreado de otros estados del pa&iacute;s Grupo M&eacute;xico y la CTM&rsquo;.</p>
+
+<p>Presidente, lo que pasa es de que no est&aacute;n dando trabajo en Cananea a los trabajadores y al personal de ah&iacute; de Cananea, sino que ya Grupo M&eacute;xico est&aacute; trayendo trabajadores de otros estados, obviamente con condiciones desfavorables para ellos, los est&aacute;n haciendo trabajar hasta 12 horas. Y, bueno, pues obviamente esto pues no s&eacute; si usted est&eacute; enterado que no est&aacute;n dando empleo para Cananea.</p>
+
+<p>Entonces, f&iacute;jese que el pasado 11 de mayo tuvieron una reuni&oacute;n con el secretario Ad&aacute;n Augusto, como usted lo indic&oacute;, pero pues ya no ha habido respuesta. Y sobre todo que ellos est&aacute;n pidiendo, independientemente de la liquidaci&oacute;n econ&oacute;mica, presidente, que se les permita trabajar, porque hay letreros en todo Cananea, no s&eacute; si usted los ha visto, ahorita pues no traje yo ese letrero a colores que hay por todo Cananea, donde Grupo M&eacute;xico ofrece empleo, pero dice que no sean de Cananea.</p>
+
+<p>Entonces, no s&eacute; qu&eacute; mensaje les mande usted, presidente. Ellos est&aacute;n aqu&iacute; afuera, una representaci&oacute;n de los trabajadores en huelga.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Pues se les va a atender, que Leti Ram&iacute;rez va a atenderlos y va a seguir Ad&aacute;n Augusto, secretario de Gobernaci&oacute;n, conciliando.</p>
+
+<p>Este es un asunto que viene de tiempo atr&aacute;s, fue lo que origina el conflicto de la ruptura entre Grupo M&eacute;xico y el sindicato minero encabezado por Napole&oacute;n G&oacute;mez Urrutia, desde hace 15 a&ntilde;os.</p>
+
+<p>Bueno, en ese entonces la autoridad se inclina a favor, hablando en plata, de la empresa y hacen a un lado al sindicato encabezado por Napole&oacute;n, y establecen una relaci&oacute;n laboral con otro sindicato y desde entonces, no ahora, llegan a trabajar de otros estados. As&iacute; comenz&oacute;.</p>
+
+<p>De ah&iacute; viene una denuncia, o al mismo tiempo, en contra de Napole&oacute;n, acusando al sindicato que &eacute;l dirige, de haberse quedado creo con un cinco por ciento de lo que fue la liquidaci&oacute;n que se hizo cuando Salinas de Gortari vendi&oacute; a Grupo M&eacute;xico la mina de Cananea, porque, dicho sea de paso, esa mina era de la naci&oacute;n y entr&oacute; en el paquete de todas las empresas y bancos que remataron, que privatizaron.</p>
+
+<p>Entonces, se acusa de eso, se presentan denuncias y Napole&oacute;n se tuvo que ir al exilio, a Canad&aacute;.</p>
+
+<p>Cambian las cosas, porque pues ahora la Secretar&iacute;a del Trabajo ya no est&aacute; subordinada al servicio de una de las partes, de ninguna de las partes, sino es una autoridad imparcial y adem&aacute;s se busca que mediante la conciliaci&oacute;n se resuelvan los problemas, y siempre procurando ayudar a los trabajadores, porque una cosa son las c&uacute;pulas, los intereses de los arriba, y otra cosa son los intereses muy leg&iacute;timos, justos, de sobrevivencia de miles de trabajadores mineros y de trabajadores en general.</p>
+
+<p>Entonces, nosotros buscando eso hemos avanzado para recomponer la relaci&oacute;n. Se ha avanzado, pero todav&iacute;a hay muchos polvos de aquellos lodos y no se dejan las partes. Entonces, yo voy a seguir llamando al di&aacute;logo, a los acuerdos, procurando siempre que se beneficie a los trabajadores.</p>
+
+<p>Hasta ahora hemos avanzado en eso, en que los trabajadores tengan salarios justos, reparto de utilidades, independientemente de las diferencias entre los sindicatos y las empresas, pero lo ideal es buscar la normalizaci&oacute;n por completo en la relaci&oacute;n laboral de todo lo que es el sector minero del pa&iacute;s. Entonces, tenemos ese pendiente.</p>
+
+<p>La verdad es que el senador Napole&oacute;n G&oacute;mez Urrutia se ha portado muy bien, es una gente que ayuda, que coopera. No puedo hablar tampoco mal de la empresa, ha hecho lo que se le ha planteado.</p>
+
+<p>Faltan cosas, entonces espero que sigamos buscando los arreglos, los acuerdos. S&iacute; se ha avanzado, pero falta, y estos trabajadores que est&aacute;n van a ser atendidos y vamos a continuar con el di&aacute;logo para llegar al acuerdo.</p>
+
+<p><strong>INTERLOCUTORA:</strong> Muchas gracias, presidente.</p>
+
+<p>Mire, tambi&eacute;n, presidente, desde Estados Unidos, all&aacute; en California, pues mire, nos insisten muchointegrantes de pueblos originarios de ac&aacute; de Oaxaca, espec&iacute;ficamente de San Mart&iacute;n Peras. Desgraciadamente han tenido sus conflictos, ya hubo dos asesinatos y tres secuestros.</p>
+
+<p>Entonces, presidente, pues no s&eacute; qu&eacute; mensaje les mande usted a nuestros hermanos all&aacute; en California, que est&aacute;n en Salinas, en Oxnard, y que son de pueblos originarios. Estamos hablando de una comunidad pues de varios miles de habitantes all&aacute; en San Mart&iacute;n Peras, que pues la mayor&iacute;a ya se fue all&aacute; a California. Y pues ellos se sienten, pues abandonados porque dicen que hay que reestructurar ya estas comunidades de pueblo originarios. Tambi&eacute;n hemos tenido contacto con el maestro Adelfo Regino.</p>
+
+<p>Y presidente, ya, por &uacute;ltimo, en redes sociales hay un simpatizante de usted que se llama Mauricio Guti&eacute;rrez, que f&iacute;jese que padeci&oacute; el asesinato de su hija en Quer&eacute;taro y pues desafortunadamente las autoridades dicen que fue suicidio, pero pues &eacute;l asegura que no, que fue asesinato, fue feminicidio. Y pues en redes sociales est&aacute;n ahorita un hashtag #TodosSomosMauricio.</p>
+
+<p>No s&eacute; usted en qu&eacute; forma, yo s&eacute; que es un delito local, pero &iquest;en qu&eacute; forma pudiera ofrecer alg&uacute;n apoyo a este caso?</p>
+
+<p>Gracias, presidente.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> S&iacute;, un abrazo a Mauricio.</p>
+
+<p>Y Rosa Icela Rodr&iacute;guez va a encargarse de ver el asunto, de hablar con las autoridades de Quer&eacute;taro y a ofrecerle a Mauricio que vamos nosotros, respetando la soberan&iacute;a del estado de Quer&eacute;taro, que adem&aacute;s llevamos buena relaci&oacute;n con el gobernador de Quer&eacute;taro, no creo que tengamos ning&uacute;n problema para que podamos nosotros enviar a un grupo que ha ayudado en otros casos a esclarecer las cosas y a llegar a la verdad. Entonces, eso es lo que planteamos.</p>
+
+<p>Y con Adelfo Regino seguir viendo lo de las comunidades de Oaxaca. &Eacute;l es la persona responsable y tambi&eacute;n es una gente de confianza. Eso es lo que le puedo mandar decir a nuestros paisanos.</p>
+
+<p>Y voy a Oaxaca, voy a estar all&aacute;. No hab&iacute;a podido ir porque estaban las elecciones.</p>
+
+<p>Todav&iacute;a anoche me dec&iacute;an que si pod&iacute;a ir a saludarme o que nos encontr&aacute;ramos con el ganador hasta ahora &iquest;no?, de acuerdo a los resultados del PREP, Salom&oacute;n Jara, pero opin&eacute; que consultaran, porque yo creo que hay que esperar a que se tenga el acta, la constancia de mayor&iacute;a, y a lo mejor hasta despu&eacute;s, para no dar motivo a ning&uacute;n tipo de impugnaci&oacute;n.</p>
+
+<p>Entonces, voy a estar&hellip;</p>
+
+<p><strong>INTERLOCUTORA:</strong> &iquest;San Mart&iacute;n Peras?</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> No, voy a estar&hellip; voy a la costa y a parte de la sierra, en la Sierra Sur, donde afect&oacute; el hurac&aacute;n. Vamos a estar en Huatulco, vamos a estar en Pochutla, no en la cabecera de Pochutla.</p>
+
+<p><strong>INTERVENCI&Oacute;N:</strong> &iquest;En la comunidad de Mazunte?</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> S&iacute;, Mazunte, pero pertenece a Pochutla, y Pluma Hidalgo.</p>
+
+<p>As&iacute; como en Veracruz y como en Chiapas, como en Guerrero, y para no herir susceptibilidades, el caf&eacute; que se produce en Pluma Hidalgo&hellip; Los que amanecen enojados, si se toman un caf&eacute; de esos, se serenan. Piensan que se irritan, se molestan, se exaltan; no, no, se serenan, qu&eacute; cosa tan extraordinaria, suculenta.</p>
+
+<p>Y fueron afectados, entonces, vamos para all&aacute;, vamos a estar all&aacute; con ellos, y vamos tambi&eacute;n a Loxicha.</p>
+
+<p><strong>INTERVENCI&Oacute;N:</strong> &iquest;Va por tierra?</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR: </strong>Vamos a volar, a sobrevolar en helic&oacute;ptero los tres lugares.</p>
+
+<p>Y luego ya me sigo a Salina Cruz, porque vamos a pasar a la refiner&iacute;a. Ah&iacute; queremos, estamos en eso, construir una planta coquizadora, queremos ir a ver eso, y supervisar el tren.</p>
+
+<p>Y luego salir por Coatzacoalcos, que tambi&eacute;n voy a ir a la refiner&iacute;a de Salina Cruz para ver c&oacute;mo van los trabajos de rehabilitaci&oacute;n, y vamos al puerto de Coatzacoalcos.</p>
+
+<p>Esa es la gira de esta semana. Nos vamos ma&ntilde;ana al mediod&iacute;a y tenemos ya la reuni&oacute;n en la tarde. Van, pues todos los miembros del gabinete porque se va a apoyar a las comunidades afectadas, como lo hemos hecho en otros casos.</p>
+
+<p><strong>INTERVENCI&Oacute;N:</strong> &iquest;No va a bajar en ning&uacute;n lugar?</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Voy a bajar, voy a bajar en los tres, s&iacute;, s&iacute;, y en la costa, s&iacute;.</p>
+
+<p>Pero para los de Ozolotepec y para otras comunidades que est&aacute;n m&aacute;s en la sierra, decirles que se llev&oacute; a cabo pues una exploraci&oacute;n y que todav&iacute;a hay una situaci&oacute;n de riesgo, que yo quer&iacute;a ir a verlos all&aacute;, pero&hellip; es de las partes m&aacute;s altas, entonces me recomendaron que no era conveniente. Adem&aacute;s, me est&aacute;n planteando tambi&eacute;n un horario porque no est&aacute; bien el tiempo, seg&uacute;n nos dicen, para sobrevolar; y si lo hacemos por carretera, no nos alcanza a cubrir todo.</p>
+
+<p>Entonces, vamos a tener la reuni&oacute;n con los presidentes municipales de todos los municipios el jueves, ah&iacute; se va a exponer cu&aacute;l es el plan para ayudar en los municipios y luego vamos a hacer el recorrido en estos tres municipios, dos de la sierra y uno de la costa, y ah&iacute; ya hablamos con la gente para decirles que no est&aacute;n solos y que vamos a ayudar, ya lo estamos haciendo, est&aacute;n llegando despensas.</p>
+
+<p>Y tambi&eacute;n aprovecho para mencionar que cuando fueron las elecciones el domingo difundieron much&iacute;simo, porque el prop&oacute;sito era que salieran mal las cosas, como siempre, no exagero, es que de veras nuestros adversarios est&aacute;n muy obnubilados, y quemaron unas urnas en la zona de Oaxaca y esa era la noticia principal en redes, que porque no se les hab&iacute;a llevado alimentos, y que&hellip;</p>
+
+<p>Me llam&oacute; mucho la atenci&oacute;n una gente que puso: &lsquo;No vuelvo a ayudar en nada a Oaxaca &mdash;despu&eacute;s de la elecci&oacute;n&mdash; no vuelvo a ayudar a damnificados&rsquo;. Y es esa mentalidad de este escritor que vende much&iacute;simos libros, el que vende m&aacute;s libros, Moreno, esa mentalidad de que c&oacute;mo los pueblos con m&aacute;s analfabetismo, ignorantes, votan por nosotros. Qu&eacute; lamentable, el mejor escritor para sectores de clase media, el m&aacute;s le&iacute;do, que vende m&aacute;s, que no sabe que el pueblo de Oaxaca es de los pueblos con m&aacute;s cultura en el mundo. Si son tan elementales que nos ayudan, la verdad, son como promotores nuestros, me refiero a este escritor y a los que piensan de esa manera, Francisco&hellip; &iquest;C&oacute;mo se llama?</p>
+
+<p><strong>INTERVENCI&Oacute;N: </strong>Francisco Mart&iacute;n Moreno.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR: </strong>Mart&iacute;n Moreno, aguanta, el pueblo se levanta. Ayudan mucho.</p>
+
+<p><strong>JES&Uacute;S RAM&Iacute;REZ CUEVAS:</strong> Tenemos el video de Ted Cruz.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> A ver, ese de Ted Cruz.</p>
+
+<p><strong>(INICIA VIDEO)</strong></p>
+
+<p><strong><em>ROSA P&Eacute;REZ MASDEU, PERIODISTA DE FRANCE 24:</em></strong><em> Exactamente dos periodistas, Banks y Kanik, lo que dicen es que, despu&eacute;s de cada tiroteo masivo, los pol&iacute;ticos expresan su dolor y su p&eacute;same con un guion un poco prefabricado, &iquest;no? Hablan del mal, invocan a Dios y dicen que sus oraciones y pensamientos est&aacute;n con las v&iacute;ctimas; sin embargo, muchos de estos pol&iacute;ticos despu&eacute;s contin&uacute;an recibiendo donaciones de la NRA, entre otras asociaciones proarmas y contin&uacute;an, como dec&iacute;amos, votando en contra de una mayor regulaci&oacute;n de las armas a nivel federal o a nivel estatal.</em></p>
+
+<p><em>Y particularmente estas dos periodistas contraponen las palabras de 25 pol&iacute;ticos despu&eacute;s de la masacre de la escuela de Uvalde con los d&oacute;lares que reciben particularmente de la Asociaci&oacute;n Nacional del Rifle, y pues sabemos que compar&aacute;ndolo un poco con estos d&oacute;lares que reciben sus palabras parecen un poco c&iacute;nicas.</em></p>
+
+<p><em>Ted Cruz, el senador tambi&eacute;n republicano por Texas, que ha recibido 176 mil 284 mil d&oacute;lares, y dijo: &lsquo;Heidi y yo estamos orando por toda la comunidad de Uvalde en estos momentos. Lamentamos las vidas que fueron arrebatadas por este acto de maldad. Hemos visto demasiados tiroteos. Ning&uacute;n padre deber&iacute;a tener que soportar el dolor de enterrar a su hijo&rsquo;.</em></p>
+
+<p><em>Y precisamente, &iquest;no? sabiendo este dinero que recibi&oacute; se entiende m&aacute;s la situaci&oacute;n que vamos a ver en este momento, cuando un periodista de Sky News pregunt&oacute; al senador republicano Ted Cruz por la regulaci&oacute;n de armas cuando se encontraba, precisamente, de visita a Uvalde, digamos, comunicando, expresando su dolor tambi&eacute;n con los padres de los ni&ntilde;os fallecidos.</em></p>
+
+<p><strong><em>PREGUNTA: (interpretaci&oacute;n del ingl&eacute;s al espa&ntilde;ol):</em></strong><em> &iquest;Este es el momento de reformar las leyes sobre las armas?</em></p>
+
+<p><strong><em>TED CRUZ (interpretaci&oacute;n del ingl&eacute;s al espa&ntilde;ol): </em></strong><em>Sabe que es f&aacute;cil entrar en pol&iacute;tica, pero es importante, es el centro de la cuesti&oacute;n, es como los medios de comunicaci&oacute;n quieren tratarlo, es lo que quiere la mayor&iacute;a de la gente con la que hemos hablado aqu&iacute;. Las propuestas de los dem&oacute;cratas y de los medios de comunicaci&oacute;n inevitablemente cuando alg&uacute;n sic&oacute;pata violento asesina a gente.</em></p>
+
+<p><strong><em>PREGUNTA: (interpretaci&oacute;n del ingl&eacute;s al espa&ntilde;ol): </em></strong><em>Un psic&oacute;pata violento que puede conseguir armas demasiado f&aacute;cil, un chico de 18 a&ntilde;os con dos R-15.</em></p>
+
+<p><strong><em>TED CRUZ (interpretaci&oacute;n del ingl&eacute;s al espa&ntilde;ol): </em></strong><em>Si quieres detener el crimen violento, las propuestas que tienen los dem&oacute;cratas no habr&iacute;an impedido esto.</em></p>
+
+<p><strong><em>PREGUNTA: (interpretaci&oacute;n del ingl&eacute;s al espa&ntilde;ol): </em></strong><em>Pero &iquest;por qu&eacute; esto s&oacute;lo sucede en su pa&iacute;s? Realmente creo que eso es lo piensa mucha gente alrededor del mundo. &iquest;Por qu&eacute; s&oacute;lo en Estados Unidos? &iquest;Por qu&eacute; esa excepci&oacute;n estadounidense tan horrible?</em></p>
+
+<p><strong><em>TED CRUZ (interpretaci&oacute;n del ingl&eacute;s al espa&ntilde;ol): </em></strong><em>&iquest;Sabes qu&eacute;? lo siento. Si crees que la excepcionalidad estadounidense es horrible, creo que ese aspecto es horrible. </em></p>
+
+<p><em>Mira, tienes tu agenda pol&iacute;tica. Que Dios te bendiga.</em></p>
+
+<p><strong><em>PREGUNTA: (interpretaci&oacute;n del ingl&eacute;s al espa&ntilde;ol): </em></strong><em>No, senador, s&oacute;lo quiero entender por qu&eacute; no cree que las armas son el problema.</em></p>
+
+<p><strong>(FINALIZA VIDEO)</strong></p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Ese es, s&iacute;, ese es exactamente.</p>
+
+<p>Entonces, seguimos.</p>
+
+<p><strong>PREGUNTA:</strong> Muy buenos d&iacute;as, se&ntilde;or presidente.</p>
+
+<p>Janet Galindo, de <em>Grupo Transmedia La Chispa, Campeche, Quintana Roo, Yucat&aacute;n, Petrolera y Ciudad de M&eacute;xico.</em></p>
+
+<p>Primeramente, queremos agradecer la visita de ayer del titular de Cofepris con respecto al informe que nos dio con todo lo de la corrupci&oacute;n en esta instituci&oacute;n.</p>
+
+<p>El primer tema, ayer se dio una reuni&oacute;n en el ejido, en la casa ejidal de Jacinto Pat, con respecto a esta reuni&oacute; que dentro de los que convocaron fueron Semarnat. No s&eacute; si a usted ya le hicieron llegar alg&uacute;n informe, qu&eacute; fue la resoluci&oacute;n a la que llegaron, qu&eacute; fue lo que pas&oacute; ayer en esta reuni&oacute;n; esto, con respecto al Tramo 5 Sur del Tren Maya.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> No tengo la informaci&oacute;n sobre el resultado, lo &uacute;nico que s&eacute; es que se iba a llevar a cabo esta asamblea y que iban a participar, no s&oacute;lo de este ejido, sino otros ciudadanos de esa franja donde est&aacute;n los amparos en contra del Tren Maya, pero todav&iacute;a no me ha informado Mar&iacute;a Luisa Albores.</p>
+
+<p>No s&eacute; si tienes t&uacute; alguna informaci&oacute;n.</p>
+
+<p><strong>JES&Uacute;S RAM&Iacute;REZ CUEVAS:</strong> Sali&oacute; un comunicado.</p>
+
+<p><strong>INTERLOCUTORA:</strong> El comunicado, solamente.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> &iquest;Sali&oacute; un comunicado?</p>
+
+<p><strong>JES&Uacute;S RAM&Iacute;REZ CUEVAS:</strong> De Semarnat inform&oacute; de las&hellip;</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> A ver. &iquest;Y es muy largo o es muy extenso?</p>
+
+<p>&iquest;Sobre el resultado o la convocatoria?</p>
+
+<p><strong>JES&Uacute;S RAM&Iacute;REZ CUEVAS:</strong> No, sobre de que se realiz&oacute; la asamblea.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Pero, &iquest;t&uacute; puedes&hellip;?</p>
+
+<p><strong>JES&Uacute;S RAM&Iacute;REZ CUEVAS:</strong> Ah&iacute; est&aacute; el bolet&iacute;n, cu&aacute;ntos gentes participaron.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> &lsquo;Se realiz&oacute; con contratiempos la reuni&oacute;n p&uacute;blica de informaci&oacute;n sobre el Proyecto del Tren Maya, tramo 5 Sur en Tulum, y cont&oacute; con la participaci&oacute;n de 351 asistentes que manifestaron libremente sus preguntas, observaciones y propuestas&rsquo;.</p>
+
+<p><strong>INTERLOCUTORA:</strong> Finalmente, dicen que es viable esta&hellip;</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> S&iacute;, como resultado.</p>
+
+<p>Es que no son, la verdad, los campesinos, los propietarios, sean ejidatarios, peque&ntilde;os propietarios, los que se oponen; son grupos, la mayor&iacute;a financiados por nuestros adversarios pol&iacute;ticos, seudoambientalistas, esos que se quedaron callados o no vieron lo que estaba haciendo la empresa Vulcan de Estados Unidos.</p>
+
+<p>&iquest;Saben qu&eacute; nivel de destrucci&oacute;n del medio ambiente es lo de Vulcan, ah&iacute; mismo, en Playa del Carmen?</p>
+
+<p>Pues un nivel de cat&aacute;strofe ecol&oacute;gica, cat&aacute;strofe ecol&oacute;gica, ah&iacute;, pegado a Playa del Carmen, m&aacute;s de dos mil hect&aacute;reas para llevarse material y construir las carreteras o reparar carreteras en Estados Unidos, la arena del Caribe.</p>
+
+<p>A ver, &iquest;por qu&eacute; no&hellip;? Vamos a recrear eso, porque quiero tambi&eacute;n dar respuesta a que van a perder los colores, la laguna de Bacalar va a perder los colores, ahorita quiero dar respuesta a eso. Nada m&aacute;s para dimensionar, si es que el absurdo puede medirse o lo absurdo puede medirse, dimensionar el nivel de desproporci&oacute;n.</p>
+
+<p>Esto se tuvo que detener y ya no se va a permitir extraer nada, absolutamente nada de piedra, ya no se va a usar como banco de material esta regi&oacute;n. Y seguramente ya los abogados les est&aacute;n diciendo que esperen porque ya se nos va a terminar a nosotros el tiempo y que entonces s&iacute; van a poder seguir con lo mismo, porque va a regresar la rater&iacute;a. Toco madera.</p>
+
+<p>Esto no lo vieron. Ah, miren, ese es el tren, ah&iacute; est&aacute;.</p>
+
+<p>Miren lo otro. Pero &iquest;por qu&eacute; no pones todo, donde est&aacute;n extrayendo el material?</p>
+
+<p>Nosotros estamos sembrando miles de hect&aacute;reas de &aacute;rboles, es el programa de reforestaci&oacute;n, aunque no les guste que yo lo repita, m&aacute;s importante del mundo. En Estados Unidos no est&aacute;n invirtiendo mil 300 millones de d&oacute;lares para la reforestaci&oacute;n, ni en ning&uacute;n otro pa&iacute;s.</p>
+
+<p>Pero esto es lo que est&aacute;n haciendo, miren, ah&iacute; est&aacute; el barco. Pero &iquest;cu&aacute;nto hay de distancia de donde extraen este material, aqu&iacute;, al puerto? &iquest;500 metros? &iquest;A una de las playas m&aacute;s bellas del mundo? Es destruir el para&iacute;so. Y esto no lo vieron Claudio X. Gonz&aacute;lez ni los de Xcaret, todos los que est&aacute;n impulsando lo de los amparos en contra del Tren Maya, que es una obra para beneficio de la gente, del pueblo, que ha sido abandonada por siglos. Y nada m&aacute;s quieren los negocios para ellos, jugosos negocios.</p>
+
+<p>Miren todo esto. &iquest;Qu&eacute;, no es destrucci&oacute;n? Ah&iacute; est&aacute; la playa, a 500 metros. Tuvimos que mandar expertos de la Secretar&iacute;a de la Defensa para desactivar la dinamita que utilizaban para la explotaci&oacute;n del banco, porque adem&aacute;s era un peligro.</p>
+
+<p>Ahora, &iquest;por qu&eacute; no pones el plano del Tren Maya?, para explicar lo del cambio de los colores del agua de la laguna de Bacalar.</p>
+
+<p>Esta es, esta es. Esto es Bacalar, esta es la laguna, aqu&iacute;, la laguna de Bacalar. &iquest;D&oacute;nde se est&aacute; trabajando? Apenas abriendo la brecha aqu&iacute;, de aqu&iacute;, brecha de Esc&aacute;rcega, o sea, Palenque, este es el tramo que se est&aacute; trabajando, el 1, pero en esta parte, llegando a Esc&aacute;rcega, apenas es el terrapl&eacute;n del Tren Maya.</p>
+
+<p>Bueno, de aqu&iacute;, aceptando que aqu&iacute; se est&aacute; trabajando, de aqu&iacute; a ac&aacute; son 200, a ver, 200, 250 kil&oacute;metros.</p>
+
+<p>No, pero a Bacalar. De Esc&aacute;rcega a Bacalar, 287 kil&oacute;metros.</p>
+
+<p>&iquest;C&oacute;mo es que, si se est&aacute; trabajando ac&aacute;, y adem&aacute;s es una composici&oacute;n geol&oacute;gica, un terreno completamente distinto a este, c&oacute;mo es que se est&aacute; afectando?</p>
+
+<p>Bueno, pero &iquest;d&oacute;nde se est&aacute; trabajando en el otro tramo? Aqu&iacute; no se est&aacute; trabajando, en ninguno.</p>
+
+<p>Aqu&iacute; est&aacute; el amparo, aqu&iacute; todav&iacute;a empieza, pero vamos a agarrar la parte m&aacute;s recta donde, s&iacute; se est&aacute; trabajando, es aqu&iacute;. &iquest;Cu&aacute;nto hay de Chich&eacute;n Itz&aacute; a Bacalar? 289. &iquest;C&oacute;mo es que van a cambiar los colores si todav&iacute;a, o ya est&aacute;n cambiando los colores, si todav&iacute;a no se est&aacute; trabajando? Y ya es la nota.</p>
+
+<p>A ver, &iquest;qui&eacute;nes son las personalidades?, porque les ayuda a tener esta informaci&oacute;n, porque a lo mejor ni lo saben.</p>
+
+<p><strong>JES&Uacute;S RAM&Iacute;REZ CUEVAS:</strong> &iquest;Cu&aacute;les personalidades?</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR: </strong>Las personalidades que dicen que le vamos a cambiar el color a la laguna.</p>
+
+<p><strong>INTERVENCI&Oacute;N:</strong> Kenia.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> &iquest;De d&oacute;nde es la se&ntilde;ora?</p>
+
+<p><strong>INTERLOCUTORA:</strong> Es senadora.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Ah, &iquest;y de qu&eacute; estado es?</p>
+
+<p><strong>INTERLOCUTORA:</strong> De aqu&iacute; de la Ciudad de M&eacute;xico.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> De la Ciudad de M&eacute;xico, pero hay otros ah&iacute;.</p>
+
+<p><strong>INTERVENCI&Oacute;N:</strong> Los medios de comunicaci&oacute;n.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> <em>Nexos</em>. Pues Aguilar Cam&iacute;n es de Chetumal, ese s&iacute; sabe, el due&ntilde;o de <em>Nexos</em>, porque Chetumal est&aacute; cerquita de Bacalar, ese s&iacute; sabe.</p>
+
+<p>Fueron los de <em>Forbes</em>&hellip; Pero a lo mejor Aguilar Cam&iacute;n no se ocupa ya de eso, de la revista.</p>
+
+<p>Pero, bueno, eso es nada m&aacute;s para aclarar eso.</p>
+
+<p>Y va a seguir la campa&ntilde;a, pero cada vez con menos fuerza, porque no tienen raz&oacute;n.</p>
+
+<p><strong>INTERLOCUTORA:</strong> Con respecto a otro tema, en este mes de mayo se va a votar la reforma el&eacute;ctrica en la C&aacute;mara de Diputados. Electoral, perd&oacute;n, la reforma electoral, entre mayo y junio, &iquest;no? Ah, junio, y yo estoy en mayo, perd&oacute;n.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> En junio, no te preocupes, todos nos equivocamos, nos camucamos.</p>
+
+<p><strong>INTERLOCUTORA:</strong> Perd&oacute;n, s&iacute;.</p>
+
+<p>Con respecto a esto, despu&eacute;s de las elecciones, &iquest;cu&aacute;l opini&oacute;n cree usted?, bueno, &iquest;qu&eacute; opina?, &iquest;qu&eacute; cree que los opositores den con respecto a esta reforma?, &iquest;ser&aacute; la misma opini&oacute;n de los opositores o ir&aacute; a cambiar despu&eacute;s de este fin de semana?</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Pues yo creo que pueden cambiar de actitud, porque la estrategia que han aplicado no les ha dado resultado.</p>
+
+<p>Si hablamos en t&eacute;rminos pragm&aacute;ticos, que no me gusta mucho porque la pol&iacute;tica s&iacute; es eficacia, pero sobre todo tiene que ver con los principios, pero hablando de pragmatismo se dice que la pol&iacute;tica tiene que ver con resultados. Entonces, ellos, por muy obcecados, tienen que hacer una reflexi&oacute;n, un an&aacute;lisis y decidir c&oacute;mo van a continuar.</p>
+
+<p>Es que yo no deber&iacute;a de estar dando consejos, pero la pol&iacute;tica es un oficio, es un noble oficio, como el periodismo, como el oficio del carpintero, como el oficio del alba&ntilde;il y no se debe de menospreciar. No cualquiera es pol&iacute;tico, como no cualquiera es carpintero. Si nosotros nos ponemos a hacer esto no vamos a poder, nos va a quedar chueco; si hacemos una pared y no somos alba&ntilde;iles, se nos va a caer; si no somos periodistas, pues no vamos a saber hacer una nota, un art&iacute;culo de fondo. Lo mismo la pol&iacute;tica.</p>
+
+<p>Entonces, una cosa es ser un empresario, que tambi&eacute;n es otro oficio, y pensar que se puede ser pol&iacute;tico. Imag&iacute;nense si el estratega &mdash;y yo no ni lo deber&iacute;a de decir, pero bueno, una recomendaci&oacute;n, un consejo, no se le debe negar a nadie&mdash;, pero si el estratega es Claudio X. Gonz&aacute;lez, imag&iacute;nense.</p>
+
+<p>Entonces, ellos tienen que tener una nueva pol&iacute;tica porque no les ha funcionado hasta ahora, la pol&iacute;tica en contra de nosotros, por m&aacute;s dinero que manejen.</p>
+
+<p>Dicen: &lsquo;La pol&iacute;tica es el arte de gobernar&rsquo;. Es un oficio. Pero es un oficio.</p>
+
+<p>Entonces, ojal&aacute; y entiendan. Por ejemplo, s&oacute;lo que internalicen de que el pueblo de M&eacute;xico es el protagonista principal en estos tiempos y que la pol&iacute;tica ya no es asunto s&oacute;lo de las &eacute;lites, y que vale lo mismo el voto de un compa&ntilde;ero, de una compa&ntilde;era de la Sierra Tarahumara, de la Lacandona, que el voto del m&aacute;s acaudalado empresario, banquero o el m&aacute;s famoso de los intelectuales, o del periodista con m&aacute;s renombre o fama. Nada m&aacute;s que entiendan eso, les va a empezar a ir mejor. Que respeten al pueblo. Nada m&aacute;s. Y que ojal&aacute; y lo hagan de manera sincera, que le tengan amor al pueblo y con eso salen adelante.</p>
+
+<p>Vamos a ver qu&eacute; sucede.</p>
+
+<p>Pero todav&iacute;a hasta el lunes, o ayer, pero sobre todo el lunes, salen a festejar los resultados del domingo. O sea, s&iacute; tienen que hacer una revisi&oacute;n.</p>
+
+<p>Y nosotros siempre vamos a respetar el derecho a disentir y lo que queremos es que haya democracia, que no haya pensamiento &uacute;nico, pero pues que no nos echen la culpa a nosotros si ellos no hacen su trabajo. Hasta Joaqu&iacute;n L&oacute;pez-D&oacute;riga los cuestion&oacute;; Loret de Mola, todos somos Loret ahora.</p>
+
+<p>Se avientan algo que, a ver, ustedes me van a explicar porque no le entend&iacute;. &iquest;Qu&eacute; es eso de &lsquo;hay tiro&rsquo;?</p>
+
+<p><strong>INTERVENCI&Oacute;N:</strong> (inaudible)</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> No, no, no, dijeron: &lsquo;Hay tiro&rsquo;.</p>
+
+<p>&iquest;Y eso de d&oacute;nde viene, esa palabra?</p>
+
+<p><strong>INTERVENCI&Oacute;N:</strong> Del box, viene del box.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> &iquest;De d&oacute;nde?</p>
+
+<p><strong>INTERVENCI&Oacute;N:</strong> Del box.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Ah, del boxeo. Ah, pues no lo hab&iacute;a escuchado, no le entend&iacute;.</p>
+
+<p>&iquest;Y la gente s&iacute; lo entiende?</p>
+
+<p><strong>INTERVENCI&Oacute;N:</strong> S&iacute;.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> S&iacute; lo entiende, s&iacute; se entiende, hay tiro.</p>
+
+<p><strong>INTERVENCI&Oacute;N:</strong> Es por Eduardo Lamaz&oacute;n, un periodista de boxeo.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> No, est&aacute; muy bien la explicaci&oacute;n porque no entend&iacute; ah&iacute;. &lsquo;Hay tiro&rsquo;, &iquest;qu&eacute; es eso?</p>
+
+<p><strong>INTERVENCI&Oacute;N:</strong> Para el 24.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR: </strong>S&iacute;, para el 24, s&iacute;. No le entend&iacute;.</p>
+
+<p>Entonces, empez&oacute; el debate sobre eso, &iquest;no? Y, la verdad, no sab&iacute;a.</p>
+
+<p><strong>INTERVENCI&Oacute;N:</strong> &iquest;Y ahora?</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> &iquest;Que si hay tiro? Pues claro que s&iacute;, s&iacute;. En pol&iacute;tica no se puede decir que nada es irreversible; y en la democracia, menos, porque es el pueblo el que manda, y nada en pol&iacute;tica &mdash;y habiendo democracia&mdash; es eterno, no, pero hay que convencer, hay que argumentar, hay que hacer propuestas.</p>
+
+<p>A ver, d&iacute;ganme si se acuerdan de una propuesta que hayan hecho los del bloque conservador en cuatro a&ntilde;os. Una.</p>
+
+<p><strong>INTERVENCI&Oacute;N:</strong> (Inaudible).</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> No, pero&hellip; Bueno, s&iacute;.</p>
+
+<p>Una propuesta que la gente&hellip; Nada. Todo est&aacute; mal, mal, mal. Entonces, todo eso lo tienen que tomar en cuenta.</p>
+
+<p>Luego, ir resolviendo ya, porque se le termina el tiempo, qui&eacute;n va a ser candidato, qui&eacute;n podr&iacute;a ser, c&oacute;mo lo van a elegir, y el programa.</p>
+
+<p>Que recuerden que la gente vota entre tres propuestas, o escoge o se fija el candidato, qui&eacute;n es el candidato.</p>
+
+<p>Dos, el programa.</p>
+
+<p>Y tres, el partido.</p>
+
+<p>Entonces, a ver, d&oacute;nde est&aacute; el partido o el bloque de partido, esa es una que hay que resolver, d&oacute;nde est&aacute; el candidato o la candidata. Y tres, &iquest;y el programa?</p>
+
+<p>Entonces, tienen trabajo. Y no les va bien porque tienen &mdash;no, al contrario, les va muy bien&mdash; porque tienen muchos medios a su favor. Ya cada vez menos, porque tambi&eacute;n no se pueden estar exponiendo tanto defendi&eacute;ndolos, los comentaristas, porque la sinraz&oacute;n no se puede defender, o sea, es muy dif&iacute;cil, y va de por medio pues el prestigio del periodista, del medio.</p>
+
+<p>Entonces, s&iacute; es interesante, pero bueno.</p>
+
+<p>La compa&ntilde;era.</p>
+
+<p>Pero ya me aclararon lo del tiro, que s&iacute;. Yo me qued&eacute; nada m&aacute;s hasta lo que se dec&iacute;a en la escuela antes: a la salida nos vemos.</p>
+
+<p><strong>PREGUNTA:</strong> Buenos d&iacute;as, presidente.</p>
+
+<p>Noem&iacute; Guti&eacute;rrez, de <em>Reporte &Iacute;ndigo</em>.</p>
+
+<p>Preguntarle su reuni&oacute;n ayer con Mario Delgado. &iquest;Qu&eacute; temas trataron?</p>
+
+<p>Y sobre todo si se analiz&oacute; las elecciones que se tendr&aacute;n el a&ntilde;o pr&oacute;ximo de Durango y el Estado de M&eacute;xico.</p>
+
+<p>Y si prev&eacute; ajustes&hellip;</p>
+
+<p><strong>INTERVENCI&Oacute;N: </strong>En Coahuila.</p>
+
+<p><strong>INTERLOCUTORA: </strong>En Coahuila, perd&oacute;n, en Coahuila y el Estado de M&eacute;xico.</p>
+
+<p>Y &iquest;se prev&eacute;n ajustes en su gobierno? Porque hay dos personas que podr&iacute;an aspirar: la maestra Delfina G&oacute;mez y Horacio Duarte.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> S&iacute;, platicamos con Mario, porque pidi&oacute; hablar conmigo, y me dio un informe de c&oacute;mo hab&iacute;an ellos analizado la situaci&oacute;n de las elecciones. Sobre eso estuvimos platicando y nada m&aacute;s.</p>
+
+<p>Me dio mucho gusto verlo porque pues todos, &iquest;no?, todos los que participan, y dir&iacute;a que de todos los partidos, hasta de los opositores, despu&eacute;s de una elecci&oacute;n quedan afectados porque son campa&ntilde;as muy desgastantes, en este caso pues al partido de Morena &mdash;al que yo estoy afiliado, pero tengo licencia, porque ahora soy presidente&mdash; le fue bien, y le fue bien a su dirigente.</p>
+
+<p>De todas maneras, son procesos tensos, complicados y tambi&eacute;n para los candidatos ganadores, perdedores, para la gente que los ayuda, porque hay riesgos, los partidos se juegan mucho, hay partidos que pierden su registro.</p>
+
+<p><strong>INTERVENCI&Oacute;N:</strong> (Inaudible).</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> No, en general. A nosotros nos toc&oacute; cuando fundamos Morena, hubieron dos estados en donde no se pudo, se ten&iacute;an que reunir tres mil ciudadanos con credencial y hubieron dos estados en donde no logramos reunirlos, porque pues era de participaci&oacute;n abierta, voluntaria. Nos quedamos, en uno &mdash;me acuerdo&mdash;, en dos mil 800, y ah&iacute; estaban los del INE revisando y no se pudo; en otro, se pas&oacute;. Pero s&iacute; son momentos de tensi&oacute;n.</p>
+
+<p>Adem&aacute;s, me acuerdo cuando esas asambleas, que hay un l&iacute;mite de tiempo, y esperando a que llegaran; entonces&hellip; y muchas cosas.</p>
+
+<p>Cu&aacute;ntas elecciones tuve que darle seguimiento, esos domingos famosos, que empiezan&hellip; En aquellos tiempos estaban de moda las encuestas de salida y luego los conteos r&aacute;pidos, y luego el PREP. Entonces, s&iacute; es muy tenso.</p>
+
+<p>Entonces por eso vino. Y me dio mucho gusto verlo y platicamos. Lo felicit&eacute;, porque es indudable de que el partido que &eacute;l representa, avanz&oacute;.</p>
+
+<p><strong>INTERLOCUTORA:</strong> &iquest;Y se prev&eacute;n ajustes en su gobierno por la elecci&oacute;n de&hellip;?</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> No, eso no, eso no lo hablo yo con los dirigentes de ning&uacute;n partido, ese es otro asunto, eso tiene que ver con el gobierno, la parte electoral no me meto.</p>
+
+<p><strong>INTERLOCUTORA:</strong> Presidente, mi segunda pregunta, hablaba de que senadores est&aacute;n hablando de los presuntos v&iacute;nculos que tiene usted con el narcotr&aacute;fico, pero tambi&eacute;n autoridades estadounidenses que lo han mencionado, como el jefe del Comando Norte. Saber si estas declaraciones las ha discutido o las ha dialogado con el embajador Ken Salazar.</p>
+
+<p>Y una &uacute;ltima pregunta, ha habido un repunte de casos de COVID-19. Ayer el subsecretario L&oacute;pez-Gatell dijo que la pandemia no se ha acabado. Pero &iquest;cu&aacute;l ser&iacute;a su recomendaci&oacute;n para la poblaci&oacute;n?</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Bueno, eso de lo del comando es lo mismo del senador, este Ted Cruz, de los territorios, una vez el jefe del comando&hellip; &iquest;Comando qu&eacute;?</p>
+
+<p><strong>INTERLOCUTORA:</strong> Comando Norte de Estados Unidos.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> S&iacute;, declar&oacute; que el 30 o 35 por ciento del territorio de M&eacute;xico estaba dominado por el narcotr&aacute;fico. Entonces, le tuvimos que mandar a decir que estaba desinformado.</p>
+
+<p><strong>INTERLOCUTORA:</strong> &iquest;Y ha dialogado estos temas con el embajador Ken Salazar? &iquest;Ha habido alg&uacute;n posicionamiento?</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> No, no porque no es serio esto, es politiquer&iacute;a; que tampoco es privativa de M&eacute;xico, esto se da en Estados Unidos y se da en todo el mundo.</p>
+
+<p>Imag&iacute;nense al del comando de las fuerzas armadas de Estados Unidos diciendo que el 35 por ciento del territorio mexicano est&aacute; dominado por el narcotr&aacute;fico. Es como&hellip; O sea, dos cosas: o est&aacute; mal informado, y es grave porque no les est&aacute;n funcionando sus agencias, grav&iacute;simo, y que adem&aacute;s no debe descartarse eso, porque hay mucha dispersi&oacute;n, est&aacute; muy suelto todo en Estados Unidos, muchos grupos.</p>
+
+<p>A veces los de arriba no saben lo que est&aacute;n haciendo abajo, me consta. Esa es una, que est&eacute; mal la informaci&oacute;n y que tengan que revisar eso.</p>
+
+<p>Y lo otro es mala fe, que tambi&eacute;n, pues es, cuando menos, inmoral, politiquer&iacute;a.</p>
+
+<p><strong>INTERLOCUTORA:</strong> Presidente, nada m&aacute;s las recomendaciones para la poblaci&oacute;n sobre que est&aacute;n aumentando los casos de COVID.</p>
+
+<p>Gracias.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> S&iacute;, ayer se vio, estuvo aqu&iacute; el doctor Hugo L&oacute;pez-Gatell, inform&oacute; sobre eso.</p>
+
+<p>Afortunadamente no hay fallecimientos, decirle a la gente que no tenemos incremento en hospitalizaciones ni en fallecimientos. Claro que nuestros adversarios quisieran que viniera la quinta ola y luego la sexta y la s&eacute;ptima, pero M&eacute;xico es un pa&iacute;s bendito.</p>
+
+<p><strong>PREGUNTA:</strong> Gracias, presidente. Buenos d&iacute;as.</p>
+
+<p>Diego El&iacute;as Cedillo, de <em>Tabasco Hoy</em>, <em>Campeche Hoy</em>, <em>Quintana Roo Hoy</em> y diario<em> Basta</em> de Grupo Cant&oacute;n.</p>
+
+<p>Se&ntilde;or presidente, nada m&aacute;s para precisar un poco en el comentario de mi compa&ntilde;era, derivado tambi&eacute;n de esta pol&eacute;mica que se da tras la p&eacute;rdida del partido del PRI, del PRD en Quintana Roo, y dada las elecciones del 23, &iquest;usted considerar&iacute;a de primera instancia que est&aacute; flaca la caballada de la oposici&oacute;n para las elecciones venideras?</p>
+
+<p>Y tambi&eacute;n si considerar&iacute;a que Morena tiene candidatos para el Estado de M&eacute;xico y para Coahuila. En este caso, trasciende mucho que podr&iacute;a ser la maestra Delfina G&oacute;mez y el subsecretario de Seguridad, Ricardo Mej&iacute;a. &iquest;Cu&aacute;l ser&iacute;a su opini&oacute;n que estos funcionarios pudieran contender en un puesto de elecci&oacute;n popular? Y si usted estar&iacute;a de acuerdo que ellos la buscasen.</p>
+
+<p>Y tambi&eacute;n, presidente, si en esta elecci&oacute;n los candidatos se elegir&iacute;an en una encuesta, como usted lo ha venido planteando, para el 24.</p>
+
+<p>Gracias.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Bueno, yo le deseo que le vaya muy bien a todos. No opino sobre si tienen candidato o la calidad de los candidatos de los opositores; hay muchos que aspiran, algunos ya lo han manifestado.</p>
+
+<p>Yo estoy en contra del &lsquo;tapadismo&rsquo;, porque es una r&eacute;mora, es una mala herencia. Entonces, hay que ventilar las cosas.</p>
+
+<p><strong>INTERLOCUTOR:</strong> &iquest;Invitar&iacute;a a que fueran electos con encuestas, como en el 24, presidente, los candidatos a gobernadores de estas entidades?</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Yo s&iacute; creo en eso, ya lo he dicho, de que es lo mejor, y los hechos as&iacute; lo demuestran. Es lo mejor.</p>
+
+<p>Y est&aacute; permitido en los estatutos, en este caso del partido Morena, y creo que es el &uacute;nico partido. Aunque no est&aacute; prohibido el que un partido pueda elegir as&iacute; a sus candidatos, pero es lo mejor, porque hay muy buenas empresas encuestadoras.</p>
+
+<p>Est&aacute; demostrado t&eacute;cnica, cient&iacute;ficamente, que no falla una encuesta bien formulada, no falla; incluso, hasta con mil 200 cuestionarios, si se elabora bien la metodolog&iacute;a, si se toma en cuenta todos los factores, o sea, poblaci&oacute;n, nivel socioecon&oacute;mico, desde luego territorio, lo urbano, lo rural. Hay ya mucha experiencia y eso ayuda mucho. Entonces, s&iacute; estoy a favor de las encuestas.</p>
+
+<p>En el caso de autoridades como candidatos o aspirantes a autoridades que buscan ser candidatos a gobernador, como en el caso de la Presidencia, es lo mejor, que la gente decida, que sea el pueblo el que elija al candidato, y luego que sea el pueblo el que elija al presidente, hombre o mujer, eso es lo mejor; porque si no, son arreglos cupulares, compra de voto, apoyo de medios de comunicaci&oacute;n, campa&ntilde;as sucias.</p>
+
+<p>En cambio, con la encuesta se va al domicilio, van testigos, ah&iacute; se les entrega el cuestionario, lo llenan y lo meten a una urna.</p>
+
+<p>Y hemos hablado de las preguntas: &lsquo;&iquest;Los conoces?&rsquo; &lsquo;&iquest;Qu&eacute; opini&oacute;n tienes de &eacute;l o de ella?&rsquo; &lsquo;&iquest;Est&aacute; cercana a la gente?&rsquo; &lsquo;&iquest;Es honesta?&rsquo; &lsquo;&iquest;Te gustar&iacute;a que fuese candidata o candidato?&rsquo; &lsquo;&iquest;Votar&iacute;as por &eacute;l?&rsquo;</p>
+
+<p>Y se hace la confronta con los otros: &lsquo;Si el candidato del bloque conservador fuese fulano de tal, &mdash; mujer u hombre&mdash;, y el del otro bloque, fulano de tal &mdash;hombre o mujer&mdash; fuese tal persona &iquest;por qui&eacute;n votar&iacute;as?&rsquo; Y ah&iacute; se ve.</p>
+
+<p>Y yo no voy a actuar como lo hac&iacute;an antes, de que este es el favorito, la &lsquo;tapada&rsquo; o el &lsquo;tapado&rsquo;. No, no, porque lo que estimo m&aacute;s importante en mi vida siempre ha sido mi honestidad, y si yo me inclino a favor de alguien, pierdo autoridad moral, y el que no tiene autoridad moral no tiene autoridad pol&iacute;tica, y entonces le pierden el respeto.</p>
+
+<p>Entonces, lo mejor fue lo de incluir en el estatuto lo de las encuestas, me refiero a Morena, como tambi&eacute;n lo de c&oacute;mo sacar a los plurinominales, que era otro problema, con la famosa, t&eacute;cnicamente, f&iacute;sicamente, se dice insaculaci&oacute;n, pero es una rifa, y la burla era la t&oacute;mbola.</p>
+
+<p>Pero dec&iacute;an: &lsquo;Se necesitan parlamentarios que est&eacute;n preparados &mdash;esa es otra mentalidad&mdash;, no cualquiera puede; adem&aacute;s, tenemos que tener cuidado porque nos van a traicionar&rsquo;.</p>
+
+<p>Cuando se hizo la primera vez salieron comerciantes, alba&ntilde;iles, mujeres ind&iacute;genas, gente del pueblo, que si no es por ese proceso nunca hubiesen llegado, porque siempre llegaban, iban en la lista los achichincles de los dirigentes, hasta familiares de los dirigentes.</p>
+
+<p>Bueno, me acuerdo que la primera vez no hubo un solo&hellip; No, es muy fuerte la palabra. Bueno, no se cambi&oacute; nadie y nadie vot&oacute; en contra del pueblo; al contrario, me acuerdo de una se&ntilde;ora de Juchit&aacute;n ya grande. La tengo que recordar porque&hellip; Por favor, y le ofrezco a ella disculpa. Qu&eacute; se&ntilde;ora tan consecuente, incorruptible.</p>
+
+<p>&iquest;Por qu&eacute; no le preguntas? Era coordinadora del grupo parlamentario Roc&iacute;o Nahle. Ya casi me estoy acordando. Es que con lo del COVID&hellip; Iba con sus vestidos de tehuana, bell&iacute;simos, pero lo m&aacute;s importante: su dignidad; y as&iacute; muchos.</p>
+
+<p>Entonces, son los mitos. &iquest;De qu&eacute; sirve que estudien en Harvard si no le tienen amor al pueblo, ni amor a la patria?</p>
+
+<p>Pero, bueno, ya nos vamos a acordar.</p>
+
+<p><strong>INTERLOCUTOR:</strong> Presidente, nada m&aacute;s para terminar, un poco ahondando en lo que usted platicaba de este tema que no cualquiera podr&iacute;a aspirar a un cargo de elecci&oacute;n popular o a dedicarse a la pol&iacute;tica, quiero destacar precisamente este factor que usted ha comentado varias veces en la conferencia de prensa, de la consultora Morning Consult, que mantiene una aprobaci&oacute;n mayor al 66 por ciento actualmente, incluso <em>Grupo Cant&oacute;n</em> en su encuestadora tambi&eacute;n revel&oacute; esta semana que usted mantiene una calificaci&oacute;n, una aprobaci&oacute;n del 6.5 por ciento de la ciudadan&iacute;a.</p>
+
+<p>Preguntarle, presidente, si este matiz no deja un legado para los presidentes posteriores a mantener estos apoyos a la ciudadan&iacute;a, mantener una aprobaci&oacute;n alta.</p>
+
+<p>Y tambi&eacute;n, presidente, preguntarle si en alguna ocasi&oacute;n usted ha tenido oportunidad de platicar con su hom&oacute;logo en la India, el primer ministro Modi, con respecto a que siempre se disputan ustedes dos estos primeros lugares.</p>
+
+<p>Gracias, presidente.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> No, miren, con el presidente Modi, que es un pol&iacute;tico bien calificado por su pueblo, no he tenido la oportunidad de platicar de manera directa. Habl&eacute; con el canciller de la India, con &eacute;l s&iacute;, fue invitado cuando la celebraci&oacute;n de nuestra Independencia, los 200 a&ntilde;os de nuestra Independencia, &eacute;l estuvo de invitado.</p>
+
+<p>Y el que platic&oacute; con &eacute;l fue Marcelo Ebrard, &eacute;l fue el que me coment&oacute;. Y empezaron a hablar sobre por qu&eacute; se sosten&iacute;a &eacute;l arriba y empez&oacute; a hablar de algunos programas que ya nosotros estamos aplicando aqu&iacute;, y lleg&oacute; un momento que le dijo: &lsquo;No te voy a seguir diciendo porque no quiero que me vaya a copiar &mdash;no fue textual&mdash; tu presidente&rsquo;.</p>
+
+<p>La verdad es que nosotros tenemos cosas excepcionales, &uacute;nicas en el mundo. Y partimos de un principio, que yo creo que eso es universal y est&aacute; demostrado en la historia pol&iacute;tica, partimos del principio de apoyarnos en el pueblo, de buscar siempre apoyarnos en el pueblo, y eso es lo que nos sostiene. Porque esa absurda idea de que el pueblo es malagradecido la usan los ego&iacute;stas, los que no piensan en el pr&oacute;jimo. No, el pueblo es muy, muy, muy afectuoso, amoroso.</p>
+
+<p>El ejemplo m&aacute;s claro es lo de Bolivia. Gobern&oacute; Evo un tiempo, m&aacute;s de 10 a&ntilde;os, atendi&oacute; a los que nunca hab&iacute;an sido tomados en cuenta, los olvidados, la mayor&iacute;a del pueblo de Bolivia, un pa&iacute;s con poblaci&oacute;n ind&iacute;gena mayoritaria que nunca hab&iacute;a tenido un presidente ind&iacute;gena, y en el gobierno de Evo se le atendi&oacute; a ese pueblo pobre, marginado, olvidado.</p>
+
+<p>Viene un golpe de Estado, se imponen conservadores y racistas, porque ah&iacute; est&aacute;n las im&aacute;genes de esos d&iacute;as, lo que pon&iacute;an en las paredes en Bolivia: &lsquo;V&aacute;yanse, indios&rsquo;, cosas por el estilo.</p>
+
+<p>Evo renuncia, ya conocen ustedes la historia, se le da protecci&oacute;n, asilo.</p>
+
+<p>Se apoderan los conservadores autoritarios, racistas, antidemocr&aacute;ticos, pero como el conservadurismo, siempre lo hemos dicho, tiene como doctrina principal la hipocres&iacute;a, el cuestionamiento a Evo era el que estaba convertido en un dictador. Como si ellos fuesen dem&oacute;cratas, aut&eacute;nticos dem&oacute;cratas.</p>
+
+<p>&iquest;Qu&eacute; hacen los ind&iacute;genas, los de abajo?</p>
+
+<p>Se quedan callados. Piensan los conservadores que ya tienen todo y para tratar de legitimar el golpe de Estado convocan a elecciones y los de abajo van callados a depositar su voto para que contin&uacute;e la misma pol&iacute;tica que se inici&oacute; cuando Evo. Entonces, el pueblo no es malagradecido.</p>
+
+<p>Lo mismo aqu&iacute;. Si la gente ve que nosotros los consideramos como los soberanos, como los protagonistas principales de esta historia y no los utilizamos, no los ninguneamos, los respetamos, los queremos, los ayudamos, claro que la gente va a estar siempre solidaria. Esa es la clave, eso aplica en todo el mundo.</p>
+
+<p>Ah, pero si se llega y se piensa que s&oacute;lo hay que atender a los de arriba y que el pueblo no cuenta, pues eso se puede mantener transitoriamente, un gobierno as&iacute;, mientras est&eacute; fluyendo el dinero a raudales para comprar lealtades y comprar conciencias; pero ahora ya ni as&iacute; funciona, porque el cambio de mentalidad del pueblo de M&eacute;xico ha sido algo excepcional.</p>
+
+<p>Entonces, por eso yo creo que la f&oacute;rmula es esa.</p>
+
+<p>Y el presidente Modi est&aacute; haciendo muy buen trabajo, y otros presidentes. Ahora, por ejemplo, va a estar en la cumbre, aunque no est&eacute; tan&hellip; Bueno, va a estar Alberto Fern&aacute;ndez, de Argentina, que es el representante ahora de la Celac, s&iacute;, de los pa&iacute;ses de Am&eacute;rica Latina y del Caribe, lo que fue M&eacute;xico, ya es Argentina ahora, y &eacute;l va a ir y seguramente &eacute;l va a hablar a favor de una nueva relaci&oacute;n, y ojal&aacute; y digan que nunca m&aacute;s la exclusi&oacute;n.</p>
+
+<p><strong>INTERVENCI&Oacute;N:</strong> &iquest;No ha hablado con &eacute;l, presidente, con Alberto Fern&aacute;ndez?</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Habl&eacute; con &eacute;l por tel&eacute;fono, y yo s&iacute; estoy de acuerdo que &eacute;l hable en lo general de que no se excluya a nadie, que es toda Am&eacute;rica, toda Am&eacute;rica.</p>
+
+<p>Tambi&eacute;n eso por lo de Estados Unidos, los que no quieren a los migrantes. Muchas veces se les olvida, porque este es el doble discurso, la hipocres&iacute;a; sus padres, sus antepasados vienen de migrantes. Si no es por los migrantes Estados Unidos no ser&iacute;a una gran naci&oacute;n, una gran naci&oacute;n.</p>
+
+<p>Pero habl&aacute;bamos del muro, mi amigo Donald Trump, con lo del muro, en eso no hay coincidencia, y le tengo que reconocer al presidente Biden que dijo: &lsquo;No se va a construir el muro&rsquo;.</p>
+
+<p>Y es el &uacute;nico de los &uacute;ltimos tiempos, porque ten&iacute;an como manda los presidentes de Estados Unidos hacer muro&hellip; no hay que estar pensando que s&oacute;lo el presidente Trump, &eacute;l fue el que habl&oacute; m&aacute;s sobre el tema, pero hizo muro Bush pap&aacute;, Bush hijo; hizo muro Clinton, Obama y Trump. Y el &uacute;nico que dijo: &lsquo;No vamos a hacer muros&rsquo; fue el presidente Biden. Entonces, no podemos olvidarnos de eso.</p>
+
+<p>Adem&aacute;s, en vez de muro, yo quiero escuchar a Chico Che con <em>La muralla,</em> por favor. Es un poema de Nicol&aacute;s Guill&eacute;n, es bell&iacute;simo.</p>
+
+<p>Chico Che, saben ustedes que era mi paisano, extraordinario, y ten&iacute;a composiciones propias, pero tambi&eacute;n tocaba composiciones interesantes. Imag&iacute;nense a Chico Che con <em>La muralla,</em> de uno de los mejores poetas de Am&eacute;rica, Nicol&aacute;s Guill&eacute;n.</p>
+
+<p>&iquest;Tienes ah&iacute;?</p>
+
+<p><strong>JES&Uacute;S RAM&Iacute;REZ CUEVAS:</strong> La diputada era Modesta Fuentes.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Modesta Fuentes, Modesta Fuentes.</p>
+
+<p><strong>JES&Uacute;S RAM&Iacute;REZ CUEVAS:</strong> Era de Juchit&aacute;n, diputada de Juchit&aacute;n.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Diputada de Juchit&aacute;n, Modesta, ya, ya.</p>
+
+<p>Pero vamos con Chico Che porque, si no, se nos va</p>
+
+<p><strong>(PIEZA MUSICAL: <em>ABRE LA MURALLA</em>, CHICO CHE)</strong></p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Bueno, a desayunar.</p>
+
+<p>---</p>
+
+<p>&nbsp;</p>
+</div>
+      </div>
+
+      <div class="col-md-4 col-xs-12 pull-right">
+
+
+
+
+          <div id="survey" class="survey-popup small-top-buffer">
+	<div class="row">
+  <a class="fire">
+    <span class="title">Contesta nuestra encuesta de satisfacción.</span>
+		<i style="color: white" class="fas fa-poll"></i>
+  </a>
+  <hr>
+  
+  <div class="survey col-sm-12 clearfix">
+	<form id="survey-form">
+	  <div class="survey-form">
+	  <fieldset id="query_1">
+		<legend>¿Cómo fue tu experiencia en gob.mx?</legend>
+		<div id="Q_A" class="btn-group row">
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncGood" class="ga-survey" value="Feliz" title="Satisactorio">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-good.svg" alt="">
+		  	</button>
+		  </div>
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncReg" class="ga-survey" value="Neutral" title="Neutral">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-neutral.svg" alt="">
+		  	</button>
+		  </div>
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncBad" class="ga-survey" value="Triste" title="No satisactorio">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-bad.svg" alt="">
+		  	</button>
+		  </div>
+		</div>
+	  </fieldset>
+	  <fieldset id="query_1_a" class="hidden">
+	  	<legend>¿Fue fácil encontrar lo que buscabas?</legend>
+	  	<div id="Q_B" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R1" value="1">
+	  		<label for="A_R">Muy Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R2" value="2">
+	  		<label for="A_R">Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R3" value="3">
+	  		<label for="A_R">Difícil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R4" value="4">
+	  		<label for="A_R">Muy Difícil</label>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_s" class="hidden">
+	  	<legend>¿De qué estado de la República nos visitas?</legend>	  	
+	  	<div class="col-md-12">
+  	  		<div class="form-group" style="margin-bottom: 114px;">
+  	  			<select id="estados" class="form-control"></select>
+  	  		</div>
+  	  		<div class="form-group">
+  	  			<button type="button" class="Q_S_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  		</div>
+  	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_alt" class="hidden">
+		<legend>¿Qué buscabas?</legend>
+	  	<div id="Q_I" class="clearfix">
+	  	  <div class="col-sm-12">
+	  		<textarea id="txtA" class="form-control" rows="6" maxlength="250" style="font-size: 14px; width: 100%;"></textarea>
+	  		<span class="small">Máximo 250 caracteres</span>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+  	  	  <button type="button" class="Q_I_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_b" class="hidden">
+	  	<legend>¿Qué te gustó más?</legend>
+	  	<p class="small">Puedes seleccionar más de uno.</p>
+	  	<div id="Q_C" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R1" type="checkbox" name="A_R" value="1">
+	  		<label for="A_R">La información es clara y precisa</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R2" type="checkbox" name="A_R" value="2">
+	  		<label for="A_R">El diseño es agradable</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R3" type="checkbox" name="A_R" value="3">
+	  		<label for="A_R">Está bien organizado</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R4" type="checkbox" name="A_R" value="4">
+	  		<label for="A_R">Es sencillo navegar</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R5" type="checkbox" name="A_R" value="5">
+	  		<label for="A_R">El lenguaje es amigable</label>
+	  	  </div>
+	  	  <div class="clearfix">
+	  	  	<button type="button" class="Q_C_btn btn btn-primary btn-small pull-right">Siguiente</button>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_c" class="hidden">
+	  	<legend>¿Recomendarías nuestro portal a un amigo o familiar?</legend>
+	  	<div id="Q_D" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="radEncC_R1" type="radio" name="A_R" value="4">
+	  		<label for="A_R">Si</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncC_R2" type="radio" name="A_R" value="1">
+	  		<label for="A_R">No</label>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+        <button type="button" class="btn-finalizar btn btn-primary btn-small pull-right" style="margin-left: 8px; margin-top: 2px;" disabled>Finalizar</button>
+        <img src="https://framework-gb.cdn.gob.mx/assets/images/oval-white.svg" class="pull-right hidden loading">
+      </div>
+	  </fieldset>
+
+	  <fieldset id="query_2" class="hidden">
+		<legend>¿Fue fácil encontrar lo que buscabas?</legend>
+	  	<div id="Q_F" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R1" type="radio" name="A_R" value="1">
+	  		<label for="A_R">Muy Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R2" type="radio" name="A_R" value="2">
+	  		<label for="A_R">Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R3" type="radio" name="A_R" value="3">
+	  		<label for="A_R">Difícil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R4" type="radio" name="A_R" value="4">
+	  		<label for="A_R">Muy Difícil</label>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_2_b" class="hidden">
+	  	<legend>¿Qué mejorarías?</legend>
+	  	<p class="small">Puedes seleccionar más de una opción.</p>
+	  	<div id="Q_G" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A1" type="checkbox" name="A_R" value="1">
+	  		<label for="A_R">Diseño</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A2" type="checkbox" name="A_R" value="2">
+	  		<label for="A_R">Navegación dentro del sitio</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A3" type="checkbox" name="A_R" value="3">
+	  		<label class="too-long" for="A_R">Claridad y precisión de la información</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A4" type="checkbox" name="A_R" value="4">
+	  		<label for="A_R">Organización de los contenidos</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A5" type="checkbox" name="A_R" value="5">
+	  		<label for="A_R">Lenguaje utilizado</label>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">	  	  
+	  	  <button type="button" class="btn-finalizar btn btn-primary btn-small pull-right" style="margin-left: 8px; margin-top: 2px;" disabled>Finalizar</button>
+	  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/oval-white.svg" class="hidden pull-right loading">
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_2_alt" class="hidden">
+		<legend>¿Qué buscabas?</legend>
+	  	<div id="Q_H" class="clearfix">
+	  	  <div class="col-sm-12">
+	  		<textarea id="txtA1" class="form-control" rows="6" maxlength="250" style="font-size: 14px; width: 100%;"></textarea>
+	  		<span class="small">Máximo 250 caracteres</span>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+  	  	  <button type="button" class="Q_H_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  	</div>
+	  </fieldset>
+
+	</div>
+	<p class="hidden survey-thanks" style="text-align: center; color: white; font-weight: 700;">Gracias por tu opinión.</p>
+	</form>
+
+  </div>
+</div>
+</div>
+
+<script type="text/javascript">
+$(function() {
+  var c = 0;
+  var fin = 0;
+  var tipo_cara = "";
+  var page_type = "Articulos";
+  var triggered = false;
+  var answers = {};
+  var properties = {};
+  var organization = "presidencia";
+  var section = "Blog";
+  var lang = "es";
+  properties.published_on = "2022-06-08 09:39:00 -0600";
+  properties.title = "Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 8 de junio de 2022";
+  properties.path = "/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-8-de-junio-de-2022";
+  properties.referer = "";
+  properties.viewfinder = navigator.userAgent.toLowerCase();
+  properties.screens = screen.width;
+  properties.device = screen.width;
+
+  $.getJSON('https://www.gob.mx/vun/estados?filter[order]=nombre%20ASC', function (selectOptions) {
+    for( var i = 0; i < selectOptions.length; i ++) {
+      var selectOptionsJSON = selectOptions[i];
+      $('#estados').append('<option value="'+ selectOptionsJSON.nombre +'">'+ selectOptionsJSON.nombre +'</option>');
+    }
+    $('#estados').append('<option value="Otro">Otro</option>')
+  });
+
+  $('.fire').click(function(event) {
+    $('.survey-popup').css({'height':'440px'});
+  });
+
+  $('#Q_A').find('button').click(function(event) {
+  	$('#query_s').removeClass('hidden');
+  	$("#query_1").addClass('hidden');
+  	answers.q1 = $(this).attr('id');
+  });
+
+  $(".ga-survey").click(function () {
+    tipo_cara = $(this).val();
+    var interval_time = [30];
+    (function timer () {
+      if (c < 1) {
+        setTimeout(function () {
+           if(fin < 1) {
+             set_ga("Inconclusa");
+             timer();
+           }
+        }, interval_time[c] * 1000);
+      }
+      c++;
+    })();
+  });
+
+  $('.Q_S_btn').click(function(event) {
+    if( answers.q1 === "radEncGood") {
+      $("#query_s").addClass('hidden');
+      $("#query_1_a").removeClass('hidden');
+    } else if(answers.q1 === "radEncReg" || answers.q1 === "radEncBad") {
+      $("#query_s").addClass('hidden');
+      $("#query_2").removeClass('hidden');
+    } else { }
+    // answers.q1 = $('#Q_A').find('button').attr('id');
+  });
+
+  $('#Q_B').find('input').click(function(event) {
+  	if( $(this).attr('id') === 'radEncA_R3' || $(this).attr('id') === 'radEncA_R4' )  {
+  	  $("#query_1_a").addClass('hidden');
+	  $("#query_1_alt").removeClass('hidden');
+  	} else {
+  	  $("#query_1_a").addClass('hidden');
+	  $("#query_1_b").removeClass('hidden');	
+  	}	
+	answers.q2 = $(this).attr('id');
+  });
+
+  $('.Q_I_btn').click(function(event) {
+  	event.preventDefault();
+  	$("#query_1_alt").addClass('hidden');
+	$("#query_1_b").removeClass('hidden');
+	answers.q5 = $('#txtA').val().substring(0, 250);
+  });
+
+  $('#Q_C').find('button').click(function(event) {
+	$("#query_1_b").addClass('hidden');
+	$("#query_1_c").removeClass('hidden');
+	var q3_array = [];
+	$('#Q_C').find('input:checked').each(function(index, el) {
+	  q3_array.push($(el).attr('id'));
+	});
+	answers.q3 = q3_array;
+  });
+
+  $('#Q_D').find('input').change(function(event) {
+  	answers.q4 = $(this).attr('id');
+  	$('.btn-finalizar').attr('disabled', false);
+  });
+
+  $('#Q_F').find('input').click(function(event) {
+	
+	answers.q2 = $(this).attr('id');
+
+	if( $(this).attr('id') === 'rdEncA_R3' || $(this).attr('id') === 'rdEncA_R4' ) {
+	  $("#query_2").addClass('hidden');
+	  $("#query_2_alt").removeClass('hidden');
+	} else {
+	  $("#query_2").addClass('hidden');
+	  $("#query_2_b").removeClass('hidden');
+	}
+  });
+
+  $('#Q_G').find('input').change(function(event) {
+  	if($('#Q_G').find('input:checked').length > 0) {
+	  $('.btn-finalizar').attr('disabled', false);
+    }
+    var q2_array = [];
+    $('#Q_G').find('input:checked').each(function(index, el) {
+	  q2_array.push($(el).attr('id'));
+	});
+	answers.q3 = q2_array;
+  });
+
+  $('.Q_H_btn').click(function(event) {
+  	event.preventDefault();
+  	$("#query_2_alt").addClass('hidden');
+	$("#query_2_b").removeClass('hidden');
+	answers.q5 = $('#txtA1').val().substring(0, 250);
+  });
+
+  $('.btn-finalizar').click(function (event) {
+    fin++;
+    $.ajax({
+      url: '/encuesta-satisfaccion',
+      type: 'post',
+      dataType: 'json',
+      data: { section: section, lang: lang, properties: properties, answers: answers },
+      beforeSend: function() {
+        $('.loading').removeClass('hidden');
+      },
+      success: function(data) {
+        set_ga("Finalizada");
+
+        $('.survey').hide();
+        $('.survey-popup').css({'height':'60px','background-color':'#dff0d8','border':'1px solid #d6e9c6'});
+        $('.survey-popup .title').text('Gracias por tu participación.').css({'color':'#3c763d'});
+        $('#icon-survey').removeClass('fa-file-text-o').addClass('fa-check-circle').css({'color':'#3c763d'});
+        setTimeout(function() {
+          $('.survey-popup').fadeOut('800');
+        }, 1600);
+      }
+    });
+  });
+
+  function set_ga(estatus) {
+    var pages_group = "Gobierno";
+    var organization_name = "presidencia";
+
+    console.log("Entro a apartado de encuesta de satisfacción. Estatus: "+ estatus);
+    console.log("Pages group: "+pages_group);
+    console.log("Sub group: "+organization_name);
+    console.log("Page type: "+page_type);
+    console.log("Face: "+tipo_cara);
+
+      console.log("Rails.env.production");
+      //Código GA para encuesta de satisfacción.
+		gtag('set', 'dimension14', pages_group);
+		gtag('set', 'dimension15', organization_name);
+		gtag('set', 'dimension16', page_type);
+		gtag('send', 'event', 'Encuesta de satisfacción', tipo_cara ,estatus);
+		gtag('set', 'dimension14', null);
+		gtag('set', 'dimension15', null);
+		gtag('set', 'dimension16', null);
+  }
+
+  $('#subscribe-survey').click(function(event) {
+	event.preventDefault();
+    var email = $("#email-survey").val();
+    var state = $('#estados').val();
+
+    if (email !== '' || email !== undefined) {
+	    try {
+	      $.ajax({
+	        url: "/subscribe",
+	        type: 'post',
+	        dataType: 'json',
+	        data : { email: {address: email} },
+	        success: function (data) {
+	            $('#responseSignup').html(data.message);
+	        },
+	        error: function (data) {
+	            $('#responseSignup').html(data.message);
+	        }
+	      });
+	    }catch(e){
+	      $("#responseEmail").innerText(e);
+	    }
+
+	    $.ajax({
+	    	url: '/signups',
+	    	type: 'POST',
+	    	dataType: 'json',
+	    	data: { section: section, lang: lang, properties: properties },
+	    	success: function() {
+	    		//console.log('exito');
+	    	}
+	    });
+	} else {
+		$('#responseSignup').html('Por favor llena todos los campos.');
+	}
+  });
+
+  $('#survey-form').submit(function(event) {
+    event.preventDefault();
+  });
+});
+</script>
+
+      </div>
+      <div class="col-sm-7 pull-left">
+        <div class="share-buttons clearfix vertical-buffer">
+  <div class="col-md-2"> <a class="twitter-share-button" data-url="https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-8-de-junio-de-2022" data-text="Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 8 de junio de 2022"></a></div>
+  <div class="col-md-2">
+    <div class="fb-share-button" data-href="https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-8-de-junio-de-2022" data-layout="button_count" data-size="small" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-8-de-junio-de-2022&amp;src=sdkpreparse">Compartir</a></div>
+  </div>
+</div>
+
+  <script type="text/javascript">
+    (function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v2.7";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+    
+    var pages_group = "Gobierno";
+    var page_type = "Artículos";
+    var organization_name = "presidencia";
+    var title_content = "Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 8 de junio de 2022";
+
+     window.twttr = (function (d,s,id) {
+       var t, js, fjs = d.getElementsByTagName(s)[0];
+       if (d.getElementById(id)) return; js=d.createElement(s); js.id=id;
+       js.src="//platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs);
+       return window.twttr || (t = { _e: [], ready: function(f){ t._e.push(f) } });
+     }(document, "script", "twitter-wjs"));
+
+     function trackTwitter(intent_event) {
+       if (intent_event) {
+         if (intent_event.target && intent_event.target.nodeName == 'IFRAME') {
+           console.log("Metrica Compartir Twitter - "+title_content);
+           console.log("Organization: "+organization_name);
+           console.log("Page type: "+page_type);
+           console.log("Title content: "+title_content);
+           ga('set', 'dimension14', pages_group);
+           ga('set', 'dimension15', organization_name);
+           ga('set', 'dimension16', page_type);
+           ga('send', 'event', 'Compartir en redes sociales', 'Twitter', title_content);
+           ga('set', 'dimension14', null);
+           ga('set', 'dimension15', null);
+           ga('set', 'dimension16', null);
+         }
+       }
+     }
+  </script>
+  <script type="text/javascript">
+     twttr.ready(function (twttr) {
+       twttr.events.bind('tweet', trackTwitter);
+     });
+  </script>
+
+
+      </div>
+    </div>
+    <div class="row top-buffer">
+  <div class="col-md-8">
+    <hr>
+    <div class="print col-ms-12 col-md-12 col-xs-12">
+      <span class="icon-printing"></span>
+      <a href="#">Imprime la página completa</a>
+        <p class="small" style="font-size: 14px; line-height: 1.6em;">
+          La legalidad, veracidad y la calidad de la información es estricta responsabilidad de la dependencia, entidad o empresa productiva del Estado que la proporcionó en virtud de sus atribuciones y/o facultades normativas.
+        </p>
+    </div>
+  </div>
+</div>
+
+  </div>
+  <input type="hidden" id="page_type" name="page_type" value="Articulos">
+  <input type="hidden" id="organization_name" name="organization_name" value="presidencia">
+</main>
+<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+
+<footer class="main-footer">
+  <div class="list-info">
+    <div class="container">
+
+      <div class="col-sm-3">
+        <img  src="https://framework-gb.cdn.gob.mx/landing/img/logoheader.svg"  href="/" alt="logo gobierno de méxico" class="logo_footer" style="max-width: 90%; margin-left: -27px;   margin-top: 12px;">
+      </div>
+      <div class="col-sm-3">
+        <h2>Enlaces</h2>
+        <ul>
+         <!-- <li><a  href="http://www.participa.gob.mx">Participa</a></li> -->
+          <li><a  href="https://datos.gob.mx/">Datos</a></li>
+          <li><a href="https://www.gob.mx/publicaciones" target="_blank" rel="noopener" title="Enlace abre en ventana nueva">Publicaciones </a></li>
+
+                  <li><a class="footer" href="https://consultapublicamx.plataformadetransparencia.org.mx/vut-web/faces/view/consultaPublica.xhtml?idEntidad=MzM=&amp;idSujetoObligado=MTAwMDE=#inicio" id="Transparencia" target="blank" title="Enlace abre en ventana nueva">Portal de Obligaciones de Transparencia</a></li>
+
+                  <li><a class="footer" href="https://www.infomex.org.mx/gobiernofederal/home.action" id="PNT" target="blank" title="Enlace abre PNT en ventana nueva">PNT</a></li>
+
+                  <li><a class="footer" href="http://www.inai.org.mx/" id="INAI" target="blank" title="Enlace abre sitio INAI en ventana nueva">INAI</a></li>
+
+          <li><a class="footer" id="INAI" href="http://alertadores.funcionpublica.gob.mx/" target="_blank" rel="alertadores">Alerta</a></li>
+          <li><a class="footer" id="SIDEC" href="http://sidec.funcionpublica.gob.mx/" target="_blank" rel="sidec">Denuncia</a></li>
+           </ul>
+      </div>
+      <div class="col-sm-3">
+        <h2>¿Qué es gob.mx?</h2>
+        <p>Es el portal único de trámites, información y participación ciudadana.  <a href="/que-es-gobmx" style="text-decoration: none;">Leer más </a></p>
+        <ul>
+
+        
+            <li><a href='http://www.gob.mx/epn'> Administraciones anteriores  </a></li>
+          <li><a href="/accesibilidad">Declaración de Accesibilidad</a></li>
+          <li><a href="/privacidadintegral">Aviso de privacidad</a></li>
+          <li><a href="/privacidadsimplificado">Aviso de privacidad simplificado</a></li>
+          <li><a href="/terminos">Términos y Condiciones </a></li>
+          <li><a href="/terminos#medidas-seguridad-informacion">Política de seguridad</a></li>
+          <li><a class="footer" id="Marco Juridico" href="http://www.ordenjuridico.gob.mx" target="_blank" rel="noopener" title="Enlace abre en ventana nueva">Marco jurídico</a></li>
+          <li><a href="/sitemap">Mapa de sitio</a></li>
+        </ul>
+      </div>
+      <div class="col-sm-3">
+        </p>
+        <h2>Síguenos en </h2>
+        <ul class="list-inline">
+          <li>
+            <a id="Facebook" href="https://www.facebook.com/gobmexico" target="_blank" rel="noopener" class="sendEst share-info footer" title="enlace a facebook abre en una nueva ventana">
+              <img alt="Facebook" src="https://framework-gb.cdn.gob.mx/landing/img/facebook.png" />
+            </a>
+          </li>
+          <li>
+            <a id="Twitter" href="https://twitter.com/GobiernoMX" target="_blank" rel="noopener" class="sendEst share-info footer" title="Enlace a twitter abre en una nueva ventana">
+              <img alt="Twitter" src="https://framework-gb.cdn.gob.mx/landing/img/twitter.png" />
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+  </div>
+  </div>
+
+  <div class="container-fluid footer-pleca">
+    <div class="row">
+      <div class="col">
+        <br><br>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script type="text/javascript">
+      $("a.footer").click(function () {
+          var pagina_sitio = window.location.pathname;
+          var outbound_link = $(this).attr("id");
+          var subgrupo_paginas = "presidencia";
+          var page_type = "Home";
+          var pages_group = "Gobierno";
+          if($("#page_type").length > 0){ page_type = $("#page_type").val(); }
+
+          console.log("Metrica links externos footer - "+outbound_link);
+          gtag('set', 'dimension14', pages_group);
+          gtag('set', 'dimension15', subgrupo_paginas);
+          gtag('set', 'dimension16', page_type);
+          gtag('send', 'event', 'Outbound link - Footer', outbound_link, pagina_sitio);
+          gtag('set', 'dimension14', null);
+          gtag('set, ‘dimension15', null);
+      })
+  </script>
+
+<input class="hidden" id="route" value="/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-8-de-junio-de-2022" type="hidden" >
+<!-- div id="fb-root"></div -->
+
+
+
+
+
+  <!-- Begin comScore Tag -->
+  <script>
+      var _comscore = _comscore || [];
+      _comscore.push({ c1: "2", c2: "17183199" });
+      (function() {
+          var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+          s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+          el.parentNode.insertBefore(s, el);
+      })();
+  </script>
+  <noscript>
+    <img src="https://sb.scorecardresearch.com/p?c1=2&c2=17183199&cv=2.0&cj=1" />
+  </noscript>
+  <!-- End comScore Tag -->
+
+  <script src="https://sb.scorecardresearch.com/c2/17183199/ct.js"></script>
+
+
+  <script type="text/javascript">
+
+      var _sf_startpt=(new Date()).getTime();
+      var _sf_async_config = { uid: 43659, domain: 'www.gob.mx', useCanonical: true } ;
+      (function() {
+          function loadChartbeat() { window._sf_endpt = (new Date()).getTime(); var e = document.createElement('script'); e.setAttribute('language', 'javascript'); e.setAttribute('type', 'text/javascript'); e.setAttribute('src','//static.chartbeat.com/js/chartbeat.js'); document.body.appendChild(e); };
+          var oldonload = window.onload;
+          window.onload = (typeof window.onload != 'function') ?
+              loadChartbeat : function()
+              { oldonload(); loadChartbeat(); };
+      })();
+      var ele = "/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-8-de-junio-de-2022";
+      if( "#{(@organization_site.present? ? @organization_site.category : 'gobmx')}" == "Campaña") {
+          var siteEls = 'campaign';
+      } else {
+          var siteEls = 'gobierno';
+      }
+
+      for( var i = 1; i < ele.split('/').length; i++ ) {
+          siteEls = siteEls + '.' + ele.split('/')[i];
+      }
+
+      function udm_(e){var t="comScore=",n=document,r=n.cookie,i="",s="indexOf",o="substring",u="length",a=2048,f,l="&ns_",c="&",h,p,d,v,m=window,g=m.encodeURIComponent||escape;if(r[s](t)+1)for(d=0,p=r.split(";"),v=p[u];d<v;d++)h=p[d][s](t),h+1&&(i=c+unescape(p[d][o](h+t[u])));e+=l+"_t="+ +(new Date)+l+"c="+(n.characterSet||n.defaultCharset||"")+"&c8="+g(n.title)+i+"&c7="+g(n.URL)+"&c9="+g(n.referrer),e[u]>a&&e[s](c)>0&&(f=e[o](0,a-8).lastIndexOf(c),e=(e[o](0,f)+l+"cut="+g(e[o](f+1)))[o](0,a)),n.images?(h=new Image,m.ns_p||(ns_p=h),h.src=e):n.write("<","p","><",'img src="',e,'" height="1" width="1" alt="*"',"><","/p",">")};
+      function uid_call(a, b){
+          ui_c2 = 17183199; // your corporate c2 client value
+          ui_ns_site = 'gobmx'; // your sites identifier
+          window.b_ui_event = window.c_ui_event != null ? window.c_ui_event:"",window.c_ui_event = a;
+          var ui_pixel_url = 'https://sb.scorecardresearch.com/p?c1=2&c2='+ui_c2+'&ns_site='+ui_ns_site+'&name='+a+'&ns_type=hidden&type=hidden&ns_ui_type='+b;
+          var b="comScore=",c=document,d=c.cookie,e="",f="indexOf",g="substring",h="length",i=2048,j,k="&ns_",l="&",m,n,o,p,q=window,r=q.encodeURIComponent||escape;if(d[f](b)+1)for(o=0,n=d.split(";"),p=n[h];o<p;o++)m=n[o][f](b),m+1&&(e=l+unescape(n[o][g](m+b[h])));ui_pixel_url+=k+"_t="+ +(new Date)+k+"c="+(c.characterSet||c.defaultCharset||"")+"&c8="+r(c.title)+e+"&c7="+r(c.URL)+"&c9="+r(c.referrer)+"&b_ui_event="+b_ui_event+"&c_ui_event="+c_ui_event,ui_pixel_url[h]>i&&ui_pixel_url[f](l)>0&&(j=ui_pixel_url[g](0,i-8).lastIndexOf(l),ui_pixel_url=(ui_pixel_url[g](0,j)+k+"cut="+r(ui_pixel_url[g](j+1)))[g](0,i)),c.images?(m=new Image,q.ns_p||(ns_p=m),m.src=ui_pixel_url):c.write("<p><img src='",ui_pixel_url,"' height='1' width='1' alt='*'></p>");
+      }
+      udm_('https://sb.scorecardresearch.com/b?c1=2&c2=17183199&ns_site=gobmx&name='+siteEls);
+  </script>
+
+  <noscript>
+    <img src="https://sb.scorecardresearch.com/p?c1=2&amp;c2=17183199&amp;ns_site=gobmx&amp;name=gobierno.presidencia.es.articulos.version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-8-de-junio-de-2022" height="1" width="1" alt="*" />
+  </noscript>
+<script>
+    let key = '';
+    $(function () {
+
+        $.getJSON("https://framework-gb.cdn.gob.mx/applications/cms/configGobmx.json", function(json) {
+            console.log(json.keyAnalytics); // this will show the info it in firebug console
+            key = json.keyAnalytics;
+            ga('create', key , 'auto', 'GobTracker');
+            ga('GobTracker.require', 'linker');
+            ga('GobTracker.linker:autoLink', ['www.gob.mx']);
+            ga('GobTracker.set', 'contentGroup1', 'Gobierno');
+            ga('GobTracker.set', 'contentGroup2', SubGroup);
+            ga('GobTracker.set', 'contentGroup3', PageType);
+            ga('GobTracker.set', 'dimension14', 'Gobierno');
+            ga('GobTracker.set', 'dimension15', SubGroup);
+            ga('GobTracker.set', 'dimension16', PageType);
+            ga('GobTracker.set', 'dimension13', 'No Registrado');
+            ga('GobTracker.send', 'pageview');
+            ga('GobTracker.set', 'contentGroup1', null);
+            ga('GobTracker.set', 'contentGroup2', null);
+            ga('GobTracker.set', 'contentGroup3', null);
+            ga('GobTracker.set', 'dimension14', null);
+            ga('GobTracker.set', 'dimension15', null);
+            ga('GobTracker.set', 'dimension16', null);
+            ga('GobTracker.set', 'dimension13', null);
+        });
+    });
+</script>
+
+<script src="https://framework-gb.cdn.gob.mx/applications/cms/modal_global_cms.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/gm/accesibilidad/js/gobmx-accesibilidad.min.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick.min.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick-lightbox.js"></script>
+<link rel="stylesheet" href="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick-lightbox.css">
+
+
+<script src="https://framework-gb.cdn.gob.mx/applications/cms/config_dependency.js"></script>
+<script type="text/javascript"  src="/0RVTuHxj0/t/mhEICJIQ/YiOkthVkYSfw/PRc4N0sKYQk/PwhFVTt/GPxQB"></script></body>
+
+</html>
+

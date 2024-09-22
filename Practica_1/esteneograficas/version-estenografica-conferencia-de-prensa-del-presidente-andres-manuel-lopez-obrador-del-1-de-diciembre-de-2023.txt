@@ -1,0 +1,1419 @@
+<!DOCTYPE html>
+<html class='no-js' lang='es'>
+<head>
+    <title>
+  Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 1° de diciembre de 2023 | Presidencia de la República  | Gobierno | gob.mx
+</title>
+
+  <meta charset='UTF-8'>
+  <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#393C3E">
+
+  
+  <meta name="keywords" content="">
+  <meta name="description" content="Acto encabezado por el presidente Andrés Manuel López Obrador desde Palacio Nacional">
+  <meta name="author" content="Presidencia de la República ">
+
+  <meta content="Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 1° de diciembre de 2023" property="og:title" />
+  <meta content="https://www.gob.mxhttps://www.gob.mx/cms/uploads/article/main_image/140240/Conferencia_presidente_8.09.43_AM.jpeg" property="og:image" />
+  <meta content="gob.mx" property="og:site_name" />
+  <meta content="Acto encabezado por el presidente Andrés Manuel López Obrador desde Palacio Nacional" property="og:description" />
+  <meta content="http://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-1-de-diciembre-de-2023?idiom=es" property="og:url" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@gobmx" />
+  <meta name="twitter:title" content="Versión estenográfica. Conferencia de prensa del presidente Andrés..." />
+  <meta name="twitter:description" content="Acto encabezado por el presidente Andrés Manuel López Obrador desde Palacio Nacional" />
+  <meta name="twitter:image" content="https://www.gob.mxhttps://www.gob.mx/cms/uploads/article/main_image/140240/Conferencia_presidente_8.09.43_AM.jpeg" />
+
+
+  <meta content="authenticity_token" name="csrf-param" />
+<meta content="1O5LJJPgjFVQtV1i/VW6J5/VYrT3lt4bw6jD3ul6peA=" name="csrf-token" />
+
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700,600,300' rel='stylesheet' type='text/css'>
+  <link href='https://framework-gb.cdn.gob.mx/applications/cms/favicon.png' rel='shortcut icon'>
+  <link data-turbolinks-track="true" href="/cms/assets/application.css" media="all" rel="stylesheet" />
+  <link data-turbolinks-track="true" href="https://framework-gb.cdn.gob.mx/gm/accesibilidad/css/gobmx-accesibilidad.min.css" media="all" rel="stylesheet" />
+  
+
+  <!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+  <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+
+ <![endif]-->
+  <script async src="https://www.googletagmanager.com/gtag/js?id="></script>
+  <script src="https://framework-gb.cdn.gob.mx/applications/cms/carrusel/swiper-bundle.min.js"></script>
+
+  <link rel="stylesheet" href="https://framework-gb.cdn.gob.mx/applications/cms/carrusel/swiper-bundle.min.css">
+
+    <script type="text/javascript">
+
+        var SubGroup = '';
+        if(false || false){
+            SubGroup = 'Temas';
+        }else{
+            SubGroup = 'presidencia';
+        }
+        var PageType = '';
+        if(false){
+            PageType = 'Home'
+        }else{
+            if(false){
+                PageType = '';
+            }else {
+                var site = window.location.pathname;
+                var arrayPageType = ["articulos", "prensa", "agenda", "documentos", "multimedia", "galerias", "videos",
+                    "acciones_y_programas", "acciones-y-programas", "mi-foto-con-el-presidente",
+                    "estructuras", "descargables", "que-hacemos", "finanzas", "infografias"];
+
+                if (site.search("archivo") != -1) {
+                    PageType = "archivo_";
+                }
+                for (var i = 0; i < arrayPageType.length; i++) {
+                    if (site.search(arrayPageType[i]) != -1) {
+                        PageType += arrayPageType[i];
+                        break;
+                    }
+                }
+            }
+        }
+
+
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', '');
+
+        gtag('require', 'linker');
+        gtag('linker:autoLink', ['www.gob.mx']);
+        gtag('set', 'contentGroup1', 'Gobierno');
+        gtag('set', 'contentGroup2', SubGroup);
+        gtag('set', 'contentGroup3', PageType);
+        gtag('set', 'dimension14', 'Gobierno');
+        gtag('set', 'dimension15', SubGroup);
+        gtag('set', 'dimension16', PageType);
+        gtag('set', 'dimension13', 'No Registrado');
+        gtag('send', 'pageview');
+        gtag('set', 'contentGroup1', null);
+        gtag('set', 'contentGroup2', null);
+        gtag('set', 'contentGroup3', null);
+        gtag('set', 'dimension14', null);
+        gtag('set', 'dimension15', null);
+        gtag('set', 'dimension16', null);
+        gtag('set', 'dimension13', null);
+
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-144356475-1', 'auto', {'allowLinker':true});
+        ga('require', 'linker');
+        ga('linker:autoLink', ['www.gob.mx']);
+        ga('set', 'contentGroup1', 'Gobierno');
+        ga('set', 'contentGroup2', SubGroup);
+        ga('set', 'contentGroup3', PageType);
+        ga('set', 'dimension14', 'Gobierno');
+        ga('set', 'dimension15', SubGroup);
+        ga('set', 'dimension16', PageType);
+        ga('set', 'dimension13', 'No Registrado');
+        ga('send', 'pageview');
+        ga('set', 'contentGroup1', null);
+        ga('set', 'contentGroup2', null);
+        ga('set', 'contentGroup3', null);
+        ga('set', 'dimension14', null);
+        ga('set', 'dimension15', null);
+        ga('set', 'dimension16', null);
+        ga('set', 'dimension13', null);
+    </script>
+
+
+  <script type = "text/javascript"> console.log(true);
+  var rails_env_prod = true; </script>
+  <script src="/cms/assets/application.js"></script>
+  <script src="/cms/assets/imageReplace.js"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.js"></script>
+
+                              <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("True"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="N3JQ2-2RVHB-WJQMN-CEYEM-ATMWX",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"N3JQ2-2RVHB-WJQMN-CEYEM-ATMWX",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="xxqo3jv567lbgzxpkhha-f-39346395e-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"37","ak.cp":"413578","ak.ai":parseInt("270161",10),"ak.ol":"0","ak.cr":12,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"20bd99bf","ak.r":49405,"ak.a2":e,"ak.m":"b","ak.n":"essl","ak.bpcip":"189.224.237.0","ak.cport":64416,"ak.gh":"189.247.214.15","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"reno","ak.t":"1726960078","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==fPq0/qRbe4F46mz+786StN5m3ZANIX/AX8j1tRgXtaKZ56mRMKpOYguM9gr+n9t/gsVsCBn0pNfSpZp7mb6YN/yyAmUUqUWY3YLB+Wmq1GJ3y+nqbYJUrF8w0K69wronl+UQdZRfjDZd4LjItlpik/pcTbXqnvdEHtQDfr1OWF3y4S2O0DZRJZoPgOwLKULZ6ee5oPsZ1j8YidkLNERyndfym8O4nPwSNaZWJ8wumXfaNC4e7tu7VPlVwSLeVnU3A0cbBS5mlgBS83EeuoRHlxzmKHFD8/CEl00ZLeOOD2D0J7ase0iDi+WndtsNRmkfcNRXFsDKyNMibPnnd7Ix3Wbv6V9H3ZcQD6mg6lwZImAG605DTcR6z4DUmcXQlbTv8NUrB+zam8pLgf6CU4AomCFV+4QeDDqc4Rtrlv8KoJQ=","ak.pv":"113","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+<body>
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v13.0" nonce="MZ2GPb2d"></script><!-- a href="#principal" class="skip">Saltar al contenido principal</a -->
+  <header class=" navbar navbar-inverse">
+    <nav class="navbar navbar-inverse  navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-target="#navbarMainCollapse" data-toggle="collapse">
+            <span class="sr-only">Interruptor de Navegación</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a href="/" style="padding: 1px 3px 3px 3px;" class="navbar-brand " title="Ir a la página inicial">
+
+            <div class="logo-main"></div>
+          </a>
+        </div>
+        <div id="navbarMainCollapse" class="collapse navbar-collapse">
+          <ul class="nav navbar-nav navbar-right">
+           <li><a href="/tramites" title="Trámites">Trámites </a></li>
+            <li><a href="/gobierno" title="Gobierno">Gobierno</a></li>
+                  <li><a href="/presidencia/en" title="Versión en inglés del sitio web">English</a>
+                  </li>
+                </li>
+
+
+            <li>
+              <form accept-charset="UTF-8" action="/busqueda" method="get"><div style="display:none"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+                <input type="hidden" name="site" value="presidencia">
+                <button data-v-6394873e="" id="botonbuscar" type="button" class="btn btn-search"><a data-v-6394873e="" href="https://www.gob.mx/busqueda?utf8=✓" target="_blank" id="botbusca"><img data-v-6394873e="" alt="Buscar" src="https://framework-gb.cdn.gob.mx/landing/img/lupa.png"></a></button>
+</form>            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    
+
+
+        <script src="/cms/assets/level_jump.js"></script><section>
+<!-- Subnavegacion -->
+<nav class=" navbar-inverse sub-navbar fixed-top"
+     >
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#subenlaces">
+        <span class="sr-only">Interruptor de Navegación</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="link-name" href="?tab="></a>
+    </div>
+    <div class="collapse navbar-collapse" id="subenlaces">
+      <ul class="nav subnav navbar-nav navbar-right">
+              <li class="landing-btn">
+                    <a href='/presidencia/es/archivo/prensa'>
+                Comunicados            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='/presidencia/es/#5173'>
+                Directorio            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='https://transparencia.presidencia.gob.mx/presidencia/transparencia/politicas-de-tratamiento-de-datos-personales-de-la-oficina-de-la-presidencia-de-la-republica/'>
+                Protección de Datos Personales            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='https://www.gob.mx/presidencia/transparencia/'>
+                Transparencia            </a>
+            </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+<style>
+  .flag-banner {
+  top: 45px  !important;
+  }
+</style>
+<!-- div class="warning-nav" style="margin-top: 0px;">
+  <div class="container">
+    <div class="row clearfix">
+  <div class="col-xs-12 col-sm-12 col-md-12">Este contenido será modificado temporalmente en atención a las disposiciones legales y normativas en materia electoral, con motivo del inicio de periodo de campaña</div>
+  </div>
+  </div>
+</div -->
+</section>
+
+
+  </header>
+
+
+
+
+
+<main class="inner-page interior ficha">
+  <div class="container">
+  	<ol class="breadcrumb">
+  <li><a href="http://www.gob.mx"><span class="icon icon-home"></span><span class="sr-only">Inicio</span></a></li>
+  <li><a href="/presidencia">Presidencia de la República </a></li>
+  <li class="active">Blog</li>
+</ol>
+  	<div class="">
+      <div aria-hidden="true" class="hidden-xs font-changer internal print" tabindex="-1">
+  <button class="inc-font font-modifier">Aa+</button>
+  <button class="dec-font font-modifier">Aa-</button>
+</div>
+      <div class="marquee-padding">
+      <div class='post-list main-post-list'>
+<div class='marque-float-left'>
+<div class='right_arrow'></div>
+<div class='titulo-pub'>
+<small>Publicaciones Recientes</small>
+</div>
+</div>
+<div>
+<div class='container-marque'>
+<div id='headlines'>
+<div class='marquee'>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-19 13:44:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-19-de-septiembre-de-2024' title='Versió'>
+Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 19 de septiembre de 2024
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-18 12:36:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-18-de-septiembre-de-2024' title='Versió'>
+Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 18 de septiembre de 2024
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-17 13:51:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-entrega-de-estimulos-a-delegaciones-mexicanas-participantes-en-juegos-olimpicos-y-paralimpicos-paris-2024' title='Versió'>
+Versión estenográfica. Entrega de estímulos a delegaciones mexicanas participantes en Juegos Olímpicos y Paralímpicos París 2024
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-17 12:21:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-17-de-septiembre-de-2024' title='Versió'>
+Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 17 de septiembre de 2024
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-16 13:56:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-desfile-civico-militar' title='Versió'>
+Versión estenográfica. Desfile Cívico Militar
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+      </div>
+  	  <div class="col-md-7 col-xs-12 col-sm-12 pull-left" tabindex="0">
+  	  	<h1 class="bottom-buffer">Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 1° de diciembre de 2023</h1>
+  	  	<h2>Acto encabezado por el presidente Andrés Manuel López Obrador desde Palacio Nacional</h2>
+        <section class="">
+          <p>Presidencia de la República  | 01 de diciembre de 2023</p>
+        </section>
+  	  <div class="imagen-principal">
+  	      <img alt="Conferencia de prensa del presidente Andrés Manuel López Obrador" class="img-responsive img_curve" src="https://www.gob.mx/cms/uploads/article/main_image/140240/Conferencia_presidente_8.09.43_AM.jpeg" />
+  	      <span class="small">Conferencia de prensa del presidente Andrés Manuel López Obrador</span>
+      </div>
+      <div class="article-body"><p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR: </strong>Buenos d&iacute;as. &Aacute;nimo.</p>
+
+<p>Pues nos da mucho gusto que est&eacute;n con nosotros. Est&aacute; con poca asistencia la sala en este d&iacute;a de conferencia porque compa&ntilde;eras, compa&ntilde;eros de ustedes van a asistir a la inauguraci&oacute;n del aeropuerto de Tulum, Quintana Roo, y ya se adelantaron. Pero es muy importante este d&iacute;a, por eso decidimos invitar al general secretario Luis Cresencio Sandoval Gonz&aacute;lez y tambi&eacute;n al general Vallejo, porque hoy inauguramos, como lo mencionaba, el aeropuerto de Tulum y a lo mejor no todos se enteran porque se va a hacer la ceremonia all&aacute;.</p>
+
+<p>Van, como lo he dicho, compa&ntilde;eras, compa&ntilde;eros de ustedes, de los medios de informaci&oacute;n. Sin embargo, esta conferencia es muy vista en M&eacute;xico y en el extranjero, y lo que aqu&iacute; se informa se conoce en muchas partes.</p>
+
+<p>Ya las noticias del resto del d&iacute;a que tienen que ver con nosotros son escasas, ya hay la costumbre de enterarse a esta hora, en esta conferencia, y por eso quisimos que se informara sobre el aeropuerto &lsquo;Felipe Carrillo Puerto&rsquo;, que hoy vamos a inaugurar en Tulum, Quintana Roo, aeropuerto internacional.</p>
+
+<p>Tambi&eacute;n, quiero aprovechar para informarles de otra buena noticia. Todo esto, en el marco del quinto aniversario de nuestro gobierno:</p>
+
+<p>Hoy cumplimos cinco a&ntilde;os en el gobierno y qu&eacute; mejor que informar sobre la inauguraci&oacute;n del nuevo aeropuerto de Tulum y tambi&eacute;n informarles que se logr&oacute; con el sector obrero, con el sector empresarial, un acuerdo para incrementar en 20 por ciento el salario m&iacute;nimo a partir del 1&ordm; de enero.</p>
+
+<p>Esto es hist&oacute;rico porque significa que vamos a cumplir lo que ofrecimos al inicio de nuestro gobierno, de aumentar el salario m&iacute;nimo en t&eacute;rminos reales al doble. Cuando llegamos, el salario m&iacute;nimo era de 88 pesos diarios, dos mil 687 pesos mensuales, y a partir del 1&ordm; de enero el salario m&iacute;nimo va a ser de 249 pesos diarios, siete mil 508 pesos mensuales.</p>
+
+<p>Y esto es todav&iacute;a m&aacute;s satisfactorio si se toma en cuenta que, en la Zona Libre de la Frontera Norte, el salario pasa de 88 pesos en 2018 a 375 pesos diarios a partir del d&iacute;a 1&ordm; de enero, es decir, de dos mil 687 pesos mensuales a 11 mil 403 pesos mensuales. Esto no suced&iacute;a desde hace 50 a&ntilde;os cuando menos, por eso digo que es hist&oacute;rico.</p>
+
+<p>Qu&eacute; mejor manera de conmemorar los cinco a&ntilde;os de nuestro gobierno, demostrando que es posible el progreso, como lo vamos a ver ahora, la construcci&oacute;n de obras magnas con justicia al mismo tiempo, progreso con justicia, modernidad forjada desde abajo y para todos, eso es lo que ha significado nuestro gobierno.</p>
+
+<p>Ahora s&iacute;, vamos a que el general Sandoval y el general Vallejo nos informen de esta importante obra, este Aeropuerto Internacional de Tulum.</p>
+
+<p><strong>LUIS CRESENCIO SANDOVAL GONZ&Aacute;LEZ, SECRETARIO DE LA DEFENSA NACIONAL:</strong> Con su permiso, se&ntilde;or presidente. Muy buenos d&iacute;as.</p>
+
+<p>Bien, nuestra ley org&aacute;nica del Ej&eacute;rcito y Fuerza A&eacute;rea establece cinco misiones generales y, de estas misiones, la cuarta, que es sumamente importante, instruye realizar acciones c&iacute;vicas y obras sociales que tiendan al progreso del pa&iacute;s. Esta gran oportunidad de cumplir con esta misi&oacute;n pues la ha desarrollado principalmente el Cuerpo de Ingenieros del Ej&eacute;rcito Mexicano, apegados a este precepto legal, y ha participado en importantes proyectos estrat&eacute;gicos durante la administraci&oacute;n. Mencionar&eacute; algunos:</p>
+
+<p>En el &aacute;mbito de la seguridad se construyen instalaciones para la Guardia Nacional para tener a la Guardia desplegada en todo el territorio de nuestro pa&iacute;s, salvaguardando la seguridad de los ciudadanos.</p>
+
+<p>Tambi&eacute;n, han participado en la edificaci&oacute;n de Bancos del Bienestar, tambi&eacute;n en todo nuestro pa&iacute;s, para tener esa oportunidad o dar al pueblo de M&eacute;xico la oportunidad de tener hasta en lugares muy alejados esta oportunidad de interactuar a trav&eacute;s de los bancos y tambi&eacute;n los programas sociales que son a trav&eacute;s de donde se distribuye.</p>
+
+<p>Se ha participado en la construcci&oacute;n de infraestructura de riego y de diversos acueductos donde nuestros ingenieros est&aacute;n poniendo ah&iacute; su profesionalismo.</p>
+
+<p>Se est&aacute;n modernizando las aduanas para poder tener una mayor efectividad en las revisiones en toda la tarea que hacen en aduanas y, asimismo, las v&iacute;as de comunicaci&oacute;n, de intercomunicaci&oacute;n hacia a las aduanas.</p>
+
+<p>Se construyen los tramos 5, 6 y 7 del Tren Maya y una serie de obras complementarias.</p>
+
+<p>En cuanto a infraestructura aeroportuaria han participado en la construcci&oacute;n del Aeropuerto Internacional &lsquo;Felipe &Aacute;ngeles&rsquo;, el de Chetumal y hoy, como ya mencion&oacute; el se&ntilde;or presidente, hoy se inaugurar el Aeropuerto Internacional &lsquo;Felipe Carrillo Puerto&rsquo;, en Tulum, Quintana Roo.</p>
+
+<p>Todo este aporte que realiza el instituto armado y principalmente el Cuerpo de Ingenieros del Ej&eacute;rcito en la construcci&oacute;n de estas obras prioritarias pues han tenido como fin contribuir al desarrollo colectivo, al progreso nacional, a la seguridad, al bienestar del pueblo de M&eacute;xico. Es muy satisfactorio para nosotros cumplir &oacute;rdenes, tareas y misiones.</p>
+
+<p>Y una vez m&aacute;s nuestros ingenieros militares cumplen con la encomienda que se les asign&oacute; al desarrollar este proyecto del Aeropuerto Internacional &lsquo;Felipe Carrillo Puerto&rsquo;.</p>
+
+<p>Cedo la palabra al general Vallejo para que haga la explicaci&oacute;n.</p>
+
+<p><strong>GUSTAVO RICARDO VALLEJO SU&Aacute;REZ, COMANDANTE DEL AGRUPAMIENTO DE INGENIEROS &quot;FELIPE &Aacute;NGELES&quot;, SECRETAR&Iacute;A DE LA DEFENSA NACIONAL (SEDENA): </strong>Con permiso, se&ntilde;or presidente.</p>
+
+<p>A continuaci&oacute;n, vamos a ver un video de siete minutos de duraci&oacute;n que explica toda la secuencia de concepci&oacute;n, planeaci&oacute;n, presupuestaci&oacute;n, construcci&oacute;n e incluso ya la puesta en la operaci&oacute;n y certificaci&oacute;n de este complejo aeroportuario, ah&iacute; se describir&aacute;n todas las fases y posteriormente haremos un an&aacute;lisis de la entrada en operaci&oacute;n del aeropuerto. Si podemos ponerlo, por favor.</p>
+
+<p><strong>(INICIA VIDEO)</strong></p>
+
+<p><strong><em>VOZ HOMBRE:</em></strong><em> Por mandato presidencial, el 1&ordm; de octubre del 2020 la Secretar&iacute;a de la Defensa Nacional, a trav&eacute;s del Cuerpo de Ingenieros del Ej&eacute;rcito, inici&oacute; los trabajos de planeaci&oacute;n y dise&ntilde;o para construir un aeropuerto internacional en Tulum que llevase por nombre &lsquo;Felipe Carrillo Puerto&rsquo;.</em></p>
+
+<p><em>Durante este periodo se realizaron los estudios de preinversi&oacute;n para obtener las factibilidades t&eacute;cnica, econ&oacute;mica, legal y ambiental, se gestionaron los recursos econ&oacute;micos y se adquirieron los predios necesarios, no sin antes referir que se realiz&oacute; un exhaustivo an&aacute;lisis para seleccionar un predio que tuviera las mejores condiciones para facilitar la construcci&oacute;n de un puerto a&eacute;reo.</em></p>
+
+<p><em>Del an&aacute;lisis anterior se seleccion&oacute; y adquiri&oacute; un predio de mil 500 hect&aacute;reas de terreno a 20.5 kil&oacute;metros en l&iacute;nea recta al sureste de Tulum, en el municipio de Felipe Carrillo Puerto, de las cuales mil 200 hect&aacute;reas se destinaron para el complejo aeroportuario y 300 m&aacute;s para construir una vialidad interior de 12.5 kil&oacute;metros para conectarlo con la carretera federal 307.</em></p>
+
+<p><em>Los trabajos de construcci&oacute;n iniciaron el 13 de junio del 2022, habiendo transcurrido 536 d&iacute;as, un a&ntilde;o cinco meses y 17 d&iacute;as, donde participaron m&aacute;s de 17 mil 900 trabajadores civiles y militares, as&iacute; como mil unidades de maquinaria pesada y material rodante.</em></p>
+
+<p><em>Esta obra represent&oacute; un gran desaf&iacute;o, por los aspectos t&eacute;cnicos, log&iacute;sticos, ambientales y de prospecci&oacute;n arqueol&oacute;gica superpuestos en cada minuto de su edificaci&oacute;n. </em></p>
+
+<p><em>Este gran complejo aeroportuario fue edificado con pleno respeto al entorno ecol&oacute;gico y arqueol&oacute;gico bajo los lineamientos establecidos por la normatividad nacional e internacional, contando con las siguientes instalaciones:</em></p>
+
+<p><em>Una pista de tres mil 700 metros de longitud de concreto hidr&aacute;ulico, la mayor y mejor equipada de la pen&iacute;nsula y la segunda m&aacute;s grande de su tipo en el pa&iacute;s, que permitir&aacute; vuelos comerciales rentables, entre destinos tan lejanos como Tokio, Estambul, Buenos Aires o Anchorage, Alaska.</em></p>
+
+<p><em>Tres plataformas: una para la aviaci&oacute;n comercial con 13 posiciones, otro para la aviaci&oacute;n general con 28 posiciones y una m&aacute;s para la base a&eacute;rea militar para aviones militares de diversas caracter&iacute;sticas.</em></p>
+
+<p><em>Ayuda a la navegaci&oacute;n de &uacute;ltima tecnolog&iacute;a tales como el sistema de aterrizaje por instrumentos categor&iacute;a 1, un radiofaro omnidireccional VOR, un radar de vigilancia meteorol&oacute;gico, gir&oacute;metros y luces indicadoras de trayectoria de precisi&oacute;n en ambos umbrales.</em></p>
+
+<p><em>Un edificio terminal de pasajeros con 75 mil 156 metros cuadrados de construcci&oacute;n distribuidos en cuatro niveles, con una longitud de 430 metros y una capacidad para atender a 5.5 millones de pasajeros anuales. Su arquitectura &iacute;ntegra reminiscencias de la cultura maya, tropicalizada con materiales locales que fusionan la edificaci&oacute;n con el entorno local.</em></p>
+
+<p><em>Esta edificaci&oacute;n dispone de 13 salas de abordar con m&aacute;s de mil butacas en salas de espera y mil 415 metros cuadrados para locales comerciales, dos filas de documentaci&oacute;n con 20 mostradores de uso com&uacute;n y cuatro quioscos de autoservicio cada una.</em></p>
+
+<p><em>Un &aacute;rea de migraci&oacute;n con 14 mostradores y cinco accesos electr&oacute;nicos, cuatro l&iacute;neas de inspecci&oacute;n, un sistema de manejo de equipajes de &uacute;ltima tecnolog&iacute;a con cuatro bandas de reclamo y dos salones ejecutivos en el nivel superior, y 11 m&oacute;dulos de ba&ntilde;os ambientados arquitect&oacute;nicamente; 500 cajones de estacionamiento de pasajeros, empleados y paraderos para autobuses y taxis.</em></p>
+
+<p><em>Un centro de operaciones aeroportuarias ad hoc para planificar, controlar y verificar las operaciones del campo a&eacute;reo con sus respectivos centros de datos para respaldo y procesamiento de la informaci&oacute;n.</em></p>
+
+<p><em>Un complejo de instalaciones para aviaci&oacute;n general que incluye: una edificaci&oacute;n para el operador de base fija, FBO, con sal&oacute;n oficial para mandatarios y diversas salas de &uacute;ltima espera y oficinas diversas.</em></p>
+
+<p><em>Un hangar de resguardo para 11 aeronaves ejecutivas.</em></p>
+
+<p><em>Una planta de combustible con capacidad de seis millones de litros.</em></p>
+
+<p><em>Una torre de control de tr&aacute;fico de a&eacute;reo de 45 metros de altura equipada con la &uacute;ltima tecnolog&iacute;a.</em></p>
+
+<p><em>Un servicio de salvamento y extinci&oacute;n de incendios equipado con modernos veh&iacute;culos de rescate de a&eacute;reo y extinci&oacute;n de incendios, veh&iacute;culos de ataque r&aacute;pido, ambulancias y cisternas. </em></p>
+
+<p><em>Instalaciones para dos comisariatos.</em></p>
+
+<p><em>Hangares para equipo de apoyo en tierra, mantenimiento aeroportuario y control de fauna.</em></p>
+
+<p><em>Dos gasolineras.</em></p>
+
+<p><em>Pozos de agua.</em></p>
+
+<p><em>Plantas de potabilizaci&oacute;n y tanques de almacenamiento de agua.</em></p>
+
+<p><em>Plantas de aguas residuales y aguas azules. </em></p>
+
+<p><em>Instalaciones de reciclaje de residuos s&oacute;lidos urbanos.</em></p>
+
+<p><em>Un control de acceso lado aire.</em></p>
+
+<p><em>Alojamientos para la Guardia Nacional.</em></p>
+
+<p><em>Un complejo de edificaciones para las 12 autoridades aeroportuarias con servicios comunes como comedor y estacionamiento, a&eacute;reas deportivas y una cl&iacute;nica de atenci&oacute;n m&eacute;dica. </em></p>
+
+<p><em>Una base a&eacute;rea militar para ejercer soberan&iacute;a en el espacio a&eacute;reo mexicano.</em></p>
+
+<p><em>Igualmente, se moderniz&oacute; la actual subestaci&oacute;n el&eacute;ctrica Tulum de la Comisi&oacute;n Federal de Electricidad y se construy&oacute; una nueva subestaci&oacute;n el&eacute;ctrica denominada Akbal, y 67.5 kil&oacute;metros de l&iacute;neas el&eacute;ctricas en alta y media tensi&oacute;n, lo anterior para conectar el complejo aeroportuario a la red el&eacute;ctrica nacional y soportar la demanda de energ&iacute;a del futuro crecimiento de la mancha urbana. </em></p>
+
+<p><em>Adicionalmente, en el l&iacute;mite del complejo aeroportuario estamos construyendo, con recursos de otra cartera de inversi&oacute;n, la v&iacute;a f&eacute;rrea del Tren Maya y una estaci&oacute;n de pasajeros que estar&aacute; conectada con el edificio terminal de pasajeros del aeropuerto a trav&eacute;s de las vialidades con un servicio de transporte de ida y vuelta y un camino de sascab como sendero maya para peatones, bicicletas y carros el&eacute;ctricos.</em></p>
+
+<p><em>El plan maestro elaborado por ingenieros militares fue autorizado por la Agencia Federal de Aviaci&oacute;n Civil en octubre del 2022, misma que recientemente realiz&oacute; una verificaci&oacute;n t&eacute;cnico-administrativa de las condiciones de seguridad operacional en la infraestructura aeroportuaria, prestaci&oacute;n de los servicios aeroportuarios y complementarios, y los aspectos de seguridad de la aviaci&oacute;n civil, autorizando el inicio de las operaciones a&eacute;reas a partir de ese d&iacute;a bajo est&aacute;ndares de eficiencia, calidad y, sobre todo, seguridad. </em></p>
+
+<p><em>Por su edificaci&oacute;n en esa regi&oacute;n de gran biodiversidad, se asumi&oacute; el compromiso de construir un aeropuerto verde y sustentable, bajo un enfoque ecol&oacute;gico y de eficiencia energ&eacute;tica acorde a las recomendaciones y mejores pr&aacute;cticas de la Organizaci&oacute;n Internacional de Aviaci&oacute;n Civil, OACI.</em></p>
+
+<p><em>El Aeropuerto Internacional &lsquo;Felipe Carrillo Puerto&rsquo; es el aeropuerto de la selva, como lo ha referido el presidente de M&eacute;xico; por ende, se han mantenido intocables 990 hect&aacute;reas de &aacute;rboles que no fueron impactadas por la obra, 66 por ciento de preservaci&oacute;n de selva.</em></p>
+
+<p><em>En conjunto con otros aeropuertos de la regi&oacute;n como Chetumal y Palenque, el aeropuerto de Tulum impulsar&aacute; la red de conectividad a&eacute;rea del sureste del pa&iacute;s, facilitando el acceso al sur de la Riviera Maya con diferentes atractivos naturales, como la reserva natural de Sian Ka&#39;an, el sistema Sac Actun conformado por 248 cenotes, el arrecife mesoamericano e innumerables zonas arqueol&oacute;gicas del mundo maya, fomentando el turismo y el desarrollo de la infraestructura para su atenci&oacute;n, mejorando, por ende, la econom&iacute;a de las comunidades cercanas, adem&aacute;s de convertirse per se en un nuevo centro de oportunidades laborales.</em></p>
+
+<p><strong>(FINALIZA VIDEO)</strong></p>
+
+<p><strong>GUSTAVO RICARDO VALLEJO SU&Aacute;REZ:</strong> Bueno, basta agregar que el aeropuerto est&aacute; listo para funcionar. El operador ser&aacute; una unidad administrativa del Grupo Aeroportuario, Ferroviario y de Servicios Auxiliares y conexos Olmeca-Maya-Mexica, Sociedad An&oacute;nima de Capital Variable, que es una empresa estatal mayoritaria sectorizada a la Secretar&iacute;a de la Defensa Nacional. El administrador es el general de grupo, piloto aviador Javier Campillo. Est&aacute; dotado de un gran equipo de profesionales civiles y militares que est&aacute;n listos para recibirlos en ese complejo aeroportuario.</p>
+
+<p>Tambi&eacute;n es necesario mencionar que a partir de hoy ya habr&aacute; vuelos nacionales, se tienen contemplados cinco vuelos diarios: tres de Viva Aerob&uacute;s y dos de Aerom&eacute;xico. Y la empresa, la aerol&iacute;nea mexicana, se est&aacute; contemplando que inicie operaciones el 26 de diciembre.</p>
+
+<p>Adicionalmente, por lo que se refiere a las aerol&iacute;neas internacionales, estas empiezan operaciones el d&iacute;a 28 de marzo. La Agencia Federal de Aviaci&oacute;n Civil ya les autoriz&oacute; a aerol&iacute;neas como United Airlines, Delta Airlines, a Spirit y tambi&eacute;n a la American Airlines vuelos desde y hacia al aeropuerto de Tulum que vienen desde lugares como Atlanta, Los &Aacute;ngeles, Chicago, Denver, Miami, Houston, Dallas, etc&eacute;tera.</p>
+
+<p>El aeropuerto se construy&oacute; para una capacidad operacional en estos momentos de 5.5 millones de pasajeros, como ya la vieron. Este a&ntilde;o se contempla un flujo de pasajeros que ronde los 700 mil pasajeros e ir&aacute; increment&aacute;ndose, y posiblemente en 10 a&ntilde;os ser&aacute; necesario ampliar la infraestructura, hay un plan maestro de desarrollo que contempla este crecimiento hasta llegar a m&aacute;s de 20 millones de pasajeros.</p>
+
+<p>Ser&iacute;a cuanto de lo que pudi&eacute;ramos informar, se&ntilde;or presidente.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Muy bien. Vamos.</p>
+
+<p><strong>PREGUNTA:</strong> Gracias, se&ntilde;or presidente. Buenos d&iacute;as.</p>
+
+<p>Soy Jos&eacute; Antonio Morales, de <em>Grupo ACIR</em>.</p>
+
+<p>Dos temas que son los que yo traigo. Primero, preguntar: en este momento, dado que ya adelant&oacute; lo del salario m&iacute;nimo, ahora pasar a Nuevo Le&oacute;n. &iquest;Qui&eacute;n toma decisiones en este momento, dado la diferencia de opiniones del gobernador, del Congreso? La situaci&oacute;n que ya nos comentaba esta semana, que habr&iacute;a que esperar a ver c&oacute;mo termina el asunto, pero mientras eso pasa, &iquest;qui&eacute;n toma decisiones en este momento en Nuevo Le&oacute;n?</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Bueno, primero, decirles que, en cuanto al incremento del salario m&iacute;nimo en 20 por ciento, que es algo muy importante.</p>
+
+<p>Se me pas&oacute; y es necesario agradecer el apoyo del sector obrero y del sector empresarial, sobre todo de este &uacute;ltimo, porque ellos aceptan este incremento. Es decir, hubo un acuerdo, el incremento se lleva a cabo por consenso, nos pusimos de acuerdo el sector obrero, el sector empresarial y el sector p&uacute;blico.</p>
+
+<p>Me ha tocado, y ya para el pr&oacute;ximo acuerdo va a corresponder a quien me sustituya en la Presidencia, pero me tocaron seis acuerdos para aumento en el salario, y en cinco ocasiones, ya considerando lo de hoy, se logr&oacute; por consenso, s&oacute;lo en un a&ntilde;o no particip&oacute; el sector empresarial. Pero es un buen fin de nuestro gobierno el haber logrado este consenso.</p>
+
+<p>Yo voy hoy mismo a invitar a los representantes del sector obrero y del sector empresarial para que nos acompa&ntilde;en el lunes o el martes de la semana pr&oacute;xima, para que ellos expliquen sus razones. Pero de antemano agradecerles mucho por su participaci&oacute;n.</p>
+
+<p>Acerca de lo de Nuevo Le&oacute;n, pues es un asunto que corresponde a las autoridades estatales. Yo espero que se llegue a un acuerdo. No voy a ahondar mucho porque, evidentemente, es un asunto de diferencias pol&iacute;ticas, dir&iacute;a hasta partidista-electoral, entonces es mejor esperar a que se logre un di&aacute;logo, que es lo mejor en estos casos, y se llegue a un acuerdo en beneficio de la poblaci&oacute;n de Nuevo Le&oacute;n.</p>
+
+<p>Tampoco hay que alarmarse mucho o empezar a exagerar, porque pues las instituciones estatales, federales tienen un funcionamiento normal.</p>
+
+<p><strong>INTERVENCI&Oacute;N:</strong> Eso que est&aacute;, sobre la suplantaci&oacute;n de poderes, &iquest;ser&iacute;a una exageraci&oacute;n?</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Pues no s&eacute; qu&eacute; se est&eacute; hablando, pero s&iacute; les puedo poner como referencia, guardadas todas las proporciones, que hay pa&iacute;ses que permanecen sin un gobierno estable por meses, por a&ntilde;os, y no estoy hablando de cualquier pa&iacute;s, as&iacute; ha sucedido en Italia, en Espa&ntilde;a, y contin&uacute;a funcionando la econom&iacute;a, la vida p&uacute;blica. Todo esto, para no exagerar, para ubicarnos, &iquest;no?</p>
+
+<p>Y en una democracia, pues es normal que se den estas diferencias. En las dictaduras no se mueve ni una hoja del &aacute;rbol de la pol&iacute;tica, pero en la democracia s&iacute;. Hay diferencias y se tiene que garantizar la libertad y el derecho a disentir.</p>
+
+<p>Yo les dir&iacute;a, en el lenguaje del periodismo: no es nota. Nota es esto, hacer un aeropuerto en un a&ntilde;o cinco meses. Por cierto, es la segunda pista m&aacute;s grande del pa&iacute;s, despu&eacute;s de la pista de Santa Lucia; o sea, se han construido dos aeropuertos con las pistas m&aacute;s grandes en todo M&eacute;xico. Esto s&iacute; es nota, como tambi&eacute;n lo es, desde luego, el aumento al salario.</p>
+
+<p>&iquest;Por qu&eacute; no pones la tabla de c&oacute;mo se hab&iacute;a incrementado el salario en los tiempos del neoliberalismo y c&oacute;mo se ha incrementado en nuestro gobierno? Porque esto no lo dicen en <em>ACIR</em>, ni lo van a leer en el <em>Reforma</em>, ni lo van a ver en <em>Televisa</em>. Y es amablemente, fraternamente, cari&ntilde;osamente, pero s&iacute; es importante.</p>
+
+<p>Miren, as&iacute; era antes, pero esto no era nota. Miren, desde Salinas, c&oacute;mo se fue cayendo, hubo una p&eacute;rdida del poder adquisitivo del salario hasta aqu&iacute; del 70 por ciento; o sea, siempre la inflaci&oacute;n estaba por encima del salario m&iacute;nimo. Y a partir de aqu&iacute; cambi&oacute; y ahora se va a ir todav&iacute;a m&aacute;s arriba, doscientos, &iquest;qu&eacute;? 27.</p>
+
+<p><strong>JES&Uacute;S RAM&Iacute;REZ CUEVAS, COORDINADOR GENERAL DE COMUNICACI&Oacute;N SOCIAL Y VOCERO DE PRESIDENCIA:</strong> No, 248.93.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Doscientos cuarenta y ocho, est&aacute; ac&aacute;.</p>
+
+<p>Y aun as&iacute; aqu&iacute; antes se llegaban a comprar con un salario m&iacute;nimo como 50 kilos de tortilla, se cay&oacute; y aqu&iacute; s&oacute;lo alcanzaba para cinco kilos y medio, y ahora, a pesar de todo este incremento, va a llegar a 12 kilos de tortilla. Nada m&aacute;s para tener una idea del da&ntilde;o que causaron los neoliberales a la econom&iacute;a popular. Por eso, s&oacute;lo siendo masoquista se estar&iacute;a pensando en que regresen los neoliberales, que regrese el conservadurismo corrupto que domin&oacute; por 36 a&ntilde;os en nuestro pa&iacute;s en los &uacute;ltimos tiempos. Pero, bueno.</p>
+
+<p><strong>INTERVENCI&Oacute;N:</strong> &iquest;Su gobierno a qui&eacute;n reconoce, presidente?</p>
+
+<p><strong>INTERLOCUTOR:</strong> &iquest;Su gobierno a qui&eacute;n reconoce en Nuevo Le&oacute;n?</p>
+
+<p><strong>INTERVENCI&Oacute;N:</strong> &iquest;El gobierno federal a qu&eacute; gobernador reconoce en Nuevo Le&oacute;n?</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Vamos a esperarlo a ver qu&eacute; deciden. Es que&hellip;</p>
+
+<p><strong>PREGUNTA:</strong> &iquest;Usted ofrecer&iacute;a mediaci&oacute;n? &iquest;Ofrecer&iacute;a la mediaci&oacute;n del gobierno federal?</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Si ayudamos, s&iacute;.</p>
+
+<p><strong>INTERLOCUTORA:</strong> &iquest;Qu&eacute; podr&iacute;a&hellip;? &iquest;Alguien podr&iacute;a estar de enviado a Nuevo Le&oacute;n para una mesa de di&aacute;logo?</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> No, no, no, primero que se busque el di&aacute;logo all&aacute;, entre las partes, luego que se acuda a las instancias que tienen funciones legales, jur&iacute;dicas. Y si las dos partes piden que participemos, lo har&iacute;amos, siempre pensando en el bienestar del pueblo de Nuevo Le&oacute;n.</p>
+
+<p><strong>INTERLOCUTORA:</strong> &iquest;La Secretar&iacute;a de Gobernaci&oacute;n ha estado en contacto con los actores pol&iacute;ticos de Nuevo Le&oacute;n para abordar este asunto?</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> No, no, pero s&iacute; se est&aacute; pendiente, est&aacute;n informando las partes de c&oacute;mo est&aacute; la situaci&oacute;n.</p>
+
+<p>Es un asunto &mdash;tambi&eacute;n eso, que la gente del pa&iacute;s y de Nuevo Le&oacute;n lo sepa&mdash; no es estrictamente legal, no es estrictamente administrativo, no es de interpretaci&oacute;n de las leyes, es un asunto fundamentalmente pol&iacute;tico-electoral, es el enfrentamiento de dos posturas, de dos grupos, por eso hay que esperarnos.</p>
+
+<p>Ya lo expliqu&eacute; ayer, nada m&aacute;s lo voy a hacer por respeto a ustedes, sobre todo al compa&ntilde;ero que me pregunta: se pensaba que un grupo del bloque conservador iba a tener la exclusividad &mdash;aunque parezca incre&iacute;ble&mdash; de las clases medias y de los sectores de m&aacute;s ingresos en el pa&iacute;s, quienes supuestamente, en esa concepci&oacute;n de los expertos y de los pol&iacute;ticos de derecha, est&aacute;n en contra de nosotros, porque nosotros, seg&uacute;n ellos, nada m&aacute;s representamos a los sectores populares, pero las clases medias son simpatizantes del movimiento que dirige Claudio X. Gonz&aacute;lez.</p>
+
+<p>Entonces, con esa concepci&oacute;n, desde mi particular punto de vista, totalmente err&oacute;nea porque los integrantes de las clases medias participan en todos los agrupamientos pol&iacute;ticos, hay integrantes de clases medias en el movimiento de transformaci&oacute;n desde luego, y tambi&eacute;n en el bloque conservador, y tambi&eacute;n en otras corrientes, porque la clase media o las clases medias no se pueden ver de manera corporativa, no son borregos los integrantes de las clases medias, son ciudadanos libres. Ya no hay en estos tiempos ―y eso es parte tambi&eacute;n del error― ciudadanos imaginarios, hay ciudadanos de verdad, politizados, muy conscientes, aunque existan medios de manipulaci&oacute;n que utilizan mucho la derecha, el conservadurismo, para buscar confundir y enga&ntilde;ar, ya eso qued&oacute; atr&aacute;s.</p>
+
+<p>Pero, bueno, con esa idea, cuando aparece en el escenario la candidatura de Samuel Garc&iacute;a, que sienten no se suma a quienes tienen la concesi&oacute;n o la franquicia o suponen ser due&ntilde;os del pensamiento de las clases medias, como no se adhiere se enojan much&iacute;simo.</p>
+
+<p>Y esos pleitos de clases son muy escandalosos cuando menos. Ayer hablaba yo de c&oacute;mo se enojaron tanto los de arriba con Francisco I. Madero, que era hacendado, que pertenec&iacute;a a las clases acomodadas, al grado que integrantes de su misma clase participaron en la asonada y en el crimen al Ap&oacute;stol de la Democracia; los fif&iacute;s de entonces lo celebraban porque les produjo mucho odio que una gente que pertenec&iacute;a a las &eacute;lites, a las clases acomodadas, luchara &mdash;porque era un hombre con ideales libertarios, que quer&iacute;a la democracia&mdash; en favor del pueblo de M&eacute;xico.</p>
+
+<p>Entonces, esos problemas internos son muy escandalosos. Yo quisiera saber, estoy seguro que el <em>Reforma</em> tiene partido, porque es un peri&oacute;dico de los conservadores, de las minor&iacute;as, pero debe de estar a favor de uno o de otro. &iquest;A favor de qui&eacute;n est&aacute; el <em>Reforma</em> y <em>El</em> <em>Norte</em>, de los priistas, panistas, de Nuevo Le&oacute;n o de Samuel? &iquest;A qui&eacute;n?</p>
+
+<p><strong>JES&Uacute;S RAM&Iacute;REZ CUEVAS: </strong>Le est&aacute;n dando mucha bola a la cr&iacute;tica de la crisis en Nuevo Le&oacute;n.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Por eso. &iquest;De qu&eacute; lado est&aacute;?</p>
+
+<p><strong>JES&Uacute;S RAM&Iacute;REZ CUEVAS:</strong> De Samuel.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> &iquest;A favor de Samuel?</p>
+
+<p><strong>JES&Uacute;S RAM&Iacute;REZ CUEVAS:</strong> No, en contra de Samuel, d&aacute;ndole la bola a&hellip;</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Ah, claro, eso s&iacute; es m&aacute;s l&oacute;gico, est&aacute; en contra de Samuel, s&iacute;, porque as&iacute; son. A ver pon qu&eacute; dicen hoy de Nuevo Le&oacute;n.</p>
+
+<p><strong>JES&Uacute;S RAM&Iacute;REZ CUEVAS:</strong> De la crisis pol&iacute;tica en Nuevo Le&oacute;n.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> S&iacute;. Ah&iacute; est&aacute;. Esa debe de ser la l&iacute;nea en todos los medios de informaci&oacute;n o de manipulaci&oacute;n, esta, debe ser todos contra Samuel, porque&hellip; S&iacute;. &lsquo;Desaparici&oacute;n de poderes&rsquo;. &lsquo;Asume encargado interino&rsquo;. &lsquo;Negociaci&oacute;n pol&iacute;tica&rsquo;. Aqu&iacute; es donde entra, &iquest;no?, la foto. Esta debe de estar circulando a todo lo que da. No es, &iquest;c&oacute;mo le llaman? <em>Trending topic</em>.</p>
+
+<p><strong>JES&Uacute;S RAM&Iacute;REZ CUEVAS:</strong> El video sigue.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> En video, s&iacute;.</p>
+
+<p>Mira: &lsquo;Abandona Morena a Samuel&rsquo;. &iquest;Ustedes creen que el <em>Reforma</em> va a sacar una declaraci&oacute;n de Mario Delgado, de <em>Reforma</em>, digo, de Morena, en primera plana, una declaraci&oacute;n? &iquest;Han visto alguna declaraci&oacute;n? Pues solamente esta, contra Samuel.</p>
+
+<p>Esto ayuda mucho a los estudiantes de periodismo para entender el papel de los medios, porque siempre se habla de objetividad, independencia, profesionalismo, y eso es puro cuento, son medios que est&aacute;n al servicio de intereses creados, es muy dif&iacute;cil encontrar medios verdaderamente independientes.</p>
+
+<p>Y no crean que me levanto a las cuatro de la ma&ntilde;ana a ver el <em>Reforma</em>, lo que pasa es que son predecibles.</p>
+
+<p><strong>PREGUNTA:</strong> (inaudible) &iquest;Usted lo ubica como af&iacute;n a su movimiento, m&aacute;s af&iacute;n a Samuel Garc&iacute;a por esta lucha de las clases sociales que mencionaba?</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Yo veo que &eacute;l tiene el derecho de participar como cualquier ciudadano, como cuando le quitan el tuit a Fox y sostengo que no deben de censurarlo, y ni modo que Fox simpatice con nosotros.</p>
+
+<p><strong>PREGUNTA:</strong> (Inaudible) en contra de una mujer. &iquest;Eso es libertad de expresi&oacute;n?</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Pero es cuesti&oacute;n de que se disculpe, que ya lo hizo, ofrece disculpas. &iquest;Pero por qu&eacute; la censura? Prohibido prohibir. Adem&aacute;s, &iquest;qui&eacute;nes son, s&iacute;, ahora s&iacute; los due&ntilde;os de estos medios para censurar?</p>
+
+<p>Lo hice tambi&eacute;n cuando le quitaron el tuit a Trump, me manifest&eacute; en contra. Pues hay que garantizar la libertad y que cada quien se haga responsable.</p>
+
+<p>Pero esto es clar&iacute;simo. &iquest;C&oacute;mo? &iquest;De lado de qui&eacute;n est&aacute; el <em>Reforma</em>? Pues del lado del agrupamiento conservador que dirige Claudio X. Gonz&aacute;lez y asociados.</p>
+
+<p>Ahora, &iquest;por qu&eacute; tanto obst&aacute;culo a una candidatura? &iquest;Por qu&eacute; no lo dejan para que sea el pueblo el que decida?</p>
+
+<p>&iquest;C&oacute;mo creen ustedes que yo no voy a defender a alguien que lo quieren descalificar o ganarle en la mesa, si era lo que quer&iacute;an hacer conmigo cuando el desafuero?</p>
+
+<p><strong>PREGUNTA:</strong> &iquest;(inaudible) a la Presidencia?</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> S&iacute;, esa es tu interpretaci&oacute;n, que tambi&eacute;n es la interpretaci&oacute;n del bloque conservador, porque as&iacute; son tambi&eacute;n los del <em>Proceso</em>.</p>
+
+<p><strong>INTERLOCUTORA:</strong> Pero &iquest;usted niega, entonces, que Samuel&hellip;?</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> S&iacute;, porque yo le tengo confianza al pueblo, que esa es la diferencia que tenemos con ustedes y con los conservadores. Para ustedes, el pueblo es manipulable, el pueblo no sabe, el pueblo es tonto. Y no, tonto es el que piensa, con todo respeto, que el pueblo es tonto.</p>
+
+<p>&iquest;Por qu&eacute; no se le deja al ciudadano? &iquest;Qu&eacute;, son menores de edad los ciudadanos? &iquest;Qu&eacute;, no sabe qu&eacute; le conviene y qu&eacute; no le conviene? &iquest;Qui&eacute;nes son ustedes o qui&eacute;nes son los potentados para tutelar al pueblo? &iquest;Qu&eacute; derecho tienen, si la democracia es el gobierno del pueblo? <em>Demos</em> es pueblo, <em>kratos</em> es poder; es el poder del pueblo, la decisi&oacute;n del pueblo.</p>
+
+<p>Es que es un exceso el que ya se quieran situar ustedes, y m&aacute;s que nada sus jefes, como los grandes electores, ya decir qu&eacute; es bueno y qu&eacute; es malo.</p>
+
+<p>Pero ya viste lo que provocaste, no me quer&iacute;a yo meter.</p>
+
+<p>Adelante.</p>
+
+<p><strong>PREGUNTA:</strong> (inaudible) las Fuerzas Armadas en Nuevo Le&oacute;n a partir de esta situaci&oacute;n, en que podr&iacute;a haber dos gobernadores.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> No hay ning&uacute;n problema, vamos a esperarnos. Ya les puse el caso de Italia, de Espa&ntilde;a, de otros pa&iacute;ses, donde no hay gobierno en tiempos, pasan tiempo.</p>
+
+<p>Me van a decir los expertos que son condiciones distintas. S&iacute;, pero, adem&aacute;s, si se tratara de un enfrentamiento armado, pues ser&iacute;a otra cosa. Estamos hablando de una confrontaci&oacute;n pol&iacute;tica, esto es propio de la democracia, y ojal&aacute; se arreglen las cosas.</p>
+
+<p>Pero en el fondo no es el que existan estas diferencias, el fondo es que est&aacute;n muy enojados los del bloque conservador que dirige Claudio X. Gonz&aacute;lez en donde est&aacute; la mayor&iacute;a de los medios, sobre todo el <em>Reforma</em>, pues aqu&iacute; lo acabamos de ver.</p>
+
+<p><strong>INTERLOCUTOR:</strong> &iquest;No el enojado es el gobernador, que no deja que se cumpla la ley que el Congreso ponga al gobernador que debe de estar?</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Hay que esperar a que resuelvan las instancias. &iquest;Qui&eacute;nes somos nosotros para juzgar?</p>
+
+<p><strong>INTERLOCUTOR:</strong> Pero el pueblo necesita alguien que le&hellip;</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> No, pero no hable en nombre del pueblo,</p>
+
+<p><strong>INTERLOCUTOR:</strong> No, entonces vivir&iacute;amos en la anarqu&iacute;a si no&hellip;</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> No, no, no hay anarqu&iacute;a, el pueblo es sabio y el pueblo es responsable.</p>
+
+<p><strong>INTERLOCUTOR:</strong> &iquest;A qui&eacute;n van a responder las autoridades en Nuevo Le&oacute;n?</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> &iquest;A qui&eacute;n qu&eacute;?</p>
+
+<p><strong>INTERLOCUTOR:</strong> Si no hay.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Tienen sus presidentes municipales, s&iacute;. Y no creo que dejen de recibir los servicios, que deje de haber agua o dejen de recoger la basura o se cierren las tiendas y no haya abasto, no creo que est&eacute; pasando eso.</p>
+
+<p>Es que ustedes &mdash;y, adem&aacute;s, les respeto, &iquest;eh?, y les entiendo&mdash; est&aacute;n muy cargados a favor del bloque conservador, y adem&aacute;s muy enojados porque pensaron que iba a ser f&aacute;cil manipular. No puedo hablar m&aacute;s porque&hellip;</p>
+
+<p><strong>PREGUNTA:</strong> Pero, entonces, &iquest;usted no ve un riesgo de ingobernabilidad en Nuevo Le&oacute;n? &iquest;No est&aacute; ese riesgo?</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> No, no, no veo.</p>
+
+<p>Yo tengo confianza en que se re&uacute;nan, dialoguen, porque son intereses. Me cuesta trabajo, &iquest;eh?, hablar de que son intereses pol&iacute;ticos, porque la pol&iacute;tica es un noble oficio. Pero tiene que ver con la politiquer&iacute;a, m&aacute;s que nada o, como se dec&iacute;a antes, con la grilla.</p>
+
+<p>F&iacute;jense cu&aacute;nto tiempo estamos aqu&iacute; hablando de este tema cuando hay cosas important&iacute;simas, pero a ustedes eso no les importa. Pero no a ustedes, porque les puede llamar la atenci&oacute;n a ustedes, es arriba, a los due&ntilde;os de los medios que forman parte de la c&uacute;pula del poder econ&oacute;mico, del poder pol&iacute;tico, y tienen mucho miedo, mucha preocupaci&oacute;n, mucho nerviosismo porque se dividan sus clases medias, son de ellos. Est&aacute;n equivocados, es una falta de respeto, yo conozco much&iacute;simos&hellip; Bueno, todos los que estamos aqu&iacute; somos de las clases medias y no somos borregos.</p>
+
+<p>Y me dicen: &lsquo;T&uacute;, que eres de la clase media, apoya al bloque que dirige Claudio X. Gonz&aacute;lez, que es el representante de la mafia del poder, que han hecho tanto da&ntilde;o al pa&iacute;s&rsquo;. Ese Claudio X. Gonz&aacute;lez era el que quer&iacute;a que desapareciera la educaci&oacute;n p&uacute;blica, el que encabez&oacute; todo un movimiento en contra de los maestros, desprestigi&aacute;ndolos.</p>
+
+<p>Nunca se hab&iacute;an atrevido a tanto, siempre se le hab&iacute;a mantenido respeto a nuestros maestros, a nuestras maestras, y llega Claudio con otro grupo, los mismos de ahora, a hablar de que los maestros eran flojos, revoltosos, que no daban clases, y empiezan a impulsar una reforma educativa para privatizar la educaci&oacute;n, lo que est&aacute; proponiendo ahora Milei, que desaparezca la educaci&oacute;n p&uacute;blica, que estudie el que tenga para pagar colegiatura, porque son partidarios de eso, de privatizar la educaci&oacute;n, de privatizar la salud. La salud y la educaci&oacute;n no son privilegios, son derechos de nuestro pueblo.</p>
+
+<p>Entonces, si ustedes me dicen: &lsquo;Si t&uacute; eres clase media, &iquest;por qu&eacute; no vas a apoyar a Claudio?&rsquo; Pues responder&iacute;a yo: Cruz, cruz, cruz, que se vaya el demonio y que venga Jes&uacute;s. &iquest;Ya m&aacute;s claro? Y as&iacute; habemos muchos, yo digo millones, en las clases medias.</p>
+
+<p>Entonces, estos se consideran los due&ntilde;os de las clases medias y los ven como borregos que los van a manipular con los medios que tienen bajo su control, como el <em>Reforma</em> y otros m&aacute;s. Pues ya no es as&iacute;.</p>
+
+<p>Bueno, dos cosas m&aacute;s. Les voy a dar una noticia para ver si esta, en una de esas, hasta aparece en ocho columnas, porque no va a aparecer en ocho columnas la del aumento del salario m&iacute;nimo en el <em>Reforma</em>, &iquest;verdad?, ni va a aparecer en ocho columnas la inauguraci&oacute;n del Aeropuerto Internacional de Tulum, pero a lo mejor esta s&iacute; porque es pol&eacute;mica: ya envi&eacute; la terna para ministra de la Suprema Corte de Justicia de la Naci&oacute;n.</p>
+
+<p><strong>PREGUNTA:</strong> &iquest;Qui&eacute;nes son, presidente?</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Ah, ah&iacute; va, esp&eacute;rense. Va Er&eacute;ndira Cruz Villegas Fuentes, que actualmente es jefa de Unidad de Asuntos Jur&iacute;dicos de la Secretar&iacute;a de Cultura, que cumple con todos los requisitos, que es una abogada &iacute;ntegra, honesta. Y vuelve Lenia Batres Guadarrama y vuelve Bertha Mar&iacute;a Alcalde Luj&aacute;n. Las tres.</p>
+
+<p>A ver qu&eacute; resuelven en el Senado. Espero que ahora s&iacute; se obtenga las dos terceras partes, la mayor&iacute;a calificada para que se tenga una nueva ministra. Es muy importante que de una u otra forma ya se va a resolver y, de 11 ministros, cinco mujeres, nunca se hab&iacute;a visto eso. Y estoy seguro que quien me va a sustituir va a promover m&aacute;s mujeres para la corte y van a llegar a ser mayor&iacute;a, o sea, que de 11 puede ser que hasta este mismo a&ntilde;o ya pueden ser seis, es buena noticia.</p>
+
+<p><strong>PREGUNTA:</strong> (inaudible) alcance los votos de conseguir la mayor&iacute;a calificada, pero hubo varias ausencias de senadores del movimiento, de Morena. &iquest;Usted har&iacute;a un exhorto a los integrantes del grupo?</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> No, no, no, es un asunto del Senado, yo no me meto a hacer gestiones ah&iacute;.</p>
+
+<p><strong>INTERLOCUTORA:</strong> Pero si hubieran estado.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> No, no, pero yo no tengo esa costumbre. Yo env&iacute;o una terna y no le hablo a nadie porque, si no, caemos en lo de antes.</p>
+
+<p>&iquest;C&oacute;mo era antes?</p>
+
+<p>Se enviaba una terna y dec&iacute;an: &lsquo;Ah&iacute; va, pero quiero que quede esta persona&rsquo;, y todo era pura simulaci&oacute;n, puro <em>atole con el dedo</em>.</p>
+
+<p>Sobre la terna hay una muy buena an&eacute;cdota que se las voy a contar ahora, porque ya nos vamos a ir all&aacute;, a Tulum: don Adolfo Ruiz Cortines, que le dec&iacute;an &lsquo;el Viejito&rsquo;&hellip; Y no era tan grande, lo que pasa es que antes cuando se llegaba a 50, a 60, ya era una persona adulta, un anciano ya. Pero resulta que cuando llega don Adolfo Ruiz Cortines a la Presidencia, llega con cinco o seis a&ntilde;os menos que yo cuando ocup&eacute; el cargo de presidente. Ya lo he dicho en otras ocasiones: de todos los presidentes constitucionales, yo soy el de m&aacute;s edad. Pero a &eacute;l le dec&iacute;an &lsquo;el Viejito&rsquo;, a m&iacute; tambi&eacute;n me dicen as&iacute; a veces mis adversarios, hasta groseros, &lsquo;viejo guango&rsquo;, dicen; viejo, s&iacute;, guango no.</p>
+
+<p>Bueno, pero &eacute;l era muy ocurrente y cuando se hablaba de terna, dec&iacute;a que hab&iacute;a ternas de cuatro. Cuando me toca nombrar a los miembros del gabinete, pues desde antes de la elecci&oacute;n los di a conocer, qui&eacute;nes iban a acompa&ntilde;arme, y solo dej&eacute; pendiente al secretario de Marina y al secretario de la Defensa. Y ya, cuando gano, pues ya tengo que decidir qui&eacute;n iba a ser secretario de Marina y qui&eacute;n secretario de la Defensa.</p>
+
+<p>Y de manera cuidadosa hice una investigaci&oacute;n en Marina y en Defensa. Los anteriores secretarios de Marina y de Defensa, tambi&eacute;n por instrucciones del presidente Pe&ntilde;a, me ofrecieron toda la informaci&oacute;n, los expedientes. Hice, adem&aacute;s, otras investigaciones.</p>
+
+<p>Y ya, llegu&eacute; a la conclusi&oacute;n que el mejor era el almirante Ojeda: de m&aacute;s antig&uuml;edad, hab&iacute;a escrito un libro en los a&ntilde;os 80 en contra de la corrupci&oacute;n y ten&iacute;a un expediente limpio.</p>
+
+<p>Y luego me toca decidir sobre el secretario de la Defensa y, tambi&eacute;n, todos los expedientes y toda la investigaci&oacute;n; esto, de manera personal, cuidadosa, esos son asuntos que no se pueden delegar, no se puede uno equivocar en un tema as&iacute;.</p>
+
+<p>Y vaya que cuando se llega a general de divisi&oacute;n es porque ya se pas&oacute; por muchas pruebas, es una carrera profesional o un servicio de carrera; hay comisiones para evaluar ascensos. Adem&aacute;s, no son muchos, generales de divisi&oacute;n, son como 25, 28. &iquest;Cu&aacute;ntos hay ahora?</p>
+
+<p><strong>LUIS CRESENCIO SANDOVAL GONZ&Aacute;LEZ: </strong>Ahorita hay 27.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Veintisiete. Entonces, se pueden ver todos los expedientes, se pueden revisar.</p>
+
+<p>Y yo hab&iacute;a dicho que &iacute;bamos a buscar una terna para la Secretar&iacute;a de Defensa y para Marina. Y, bueno, el caso es que en completa libertad decido que el que pod&iacute;a ayudarme en esta nueva etapa era el general Luis Cresencio Sandoval Gonz&aacute;lez, que no nos conoc&iacute;amos, pero que mand&eacute; a aplicar, aunque yo hice las preguntas, hasta cuestionarios, y en todos los cuestionarios aparec&iacute;a como un hombre de las Fuerzas Armadas incorruptible. Esto lo puedo decir porque siempre digo lo que pienso y la vida p&uacute;blica tiene que ser cada vez m&aacute;s p&uacute;blica.</p>
+
+<p>El caso es que ya decido que va a ser el general Luis Cresencio. Que, adem&aacute;s, estoy muy satisfecho porque me ha ayudado mucho, mucho, mucho, igual que el almirante Ojeda, no me equivoqu&eacute;, afortunadamente. Entonces, cuando fui con el general secretario Cienfuegos le dije. Y &eacute;l ya hab&iacute;a escuchado lo de la terna porque yo hab&iacute;a platicado que don Adolfo dec&iacute;a que hab&iacute;an ternas de cuatro, y ya cuando le voy a informar al secretario, ya le digo qui&eacute;n va a ser, pero antes me dice: &lsquo;Ah, es su terna de cuatro&rsquo;. No, le digo, hay ternas de cinco. Y ya le inform&eacute; que iba a ser el secretario, antes ya le hab&iacute;a informado al presidente Pe&ntilde;a.</p>
+
+<p>Entonces, en el caso de las ternas, pues decide a quien le corresponde, en este caso es el Senado, ellos tienen que decidir. En el caso del Ejecutivo para elegir o para decidir sobre los secretarios es una facultad del titular del Ejecutivo del presidente, que se ejerce con absoluta libertad, y as&iacute; tiene que ser.</p>
+
+<p>Yo, repito, agradezco el que no me equivoqu&eacute; porque la Secretar&iacute;a de la Defensa a cargo del general Sandoval me ha apoyado much&iacute;simo en el encargo que me dio el pueblo para llevar a cabo la transformaci&oacute;n:</p>
+
+<p>Imag&iacute;nense, dos aeropuertos, los que tienen las pistas m&aacute;s grandes en el pa&iacute;s, construidos por los ingenieros militares.</p>
+
+<p>Estamos por inaugurar el Tren Maya. Le toc&oacute; a los ingenieros militares construir la mitad del tren, desde Canc&uacute;n hasta Esc&aacute;rcega, toda la parte operativa.</p>
+
+<p>Dos mil 750 sucursales del Banco del Bienestar. Estamos hablando del banco con m&aacute;s sucursales en todo M&eacute;xico, sucursales en la sierra de Oaxaca, en la sierra de Chihuahua, en los pueblos m&aacute;s apartados, para que los adultos mayores puedan cobrar lo que por derecho les corresponde, sus pensiones. Dos mil 750 sucursales del Banco del Bienestar terminadas; para no mentir, dos mil 749, porque hay una que est&aacute; en proceso de construcci&oacute;n en San Felipe, Baja California, pero que va a estar a finales de este mes.</p>
+
+<p>M&aacute;s de 300 cuarteles para la Guardia Nacional.</p>
+
+<p>Ya est&aacute;n por terminar un distrito de riego en Nayarit, distrito de riego <em>&lsquo;</em>Alejandro Gasc&oacute;n Mercado<em>&rsquo;</em>, para cerca de 40 mil hect&aacute;reas de riego.</p>
+
+<p>Ayer nos toc&oacute; terminar de celebrar los 200 a&ntilde;os del Colegio Militar. Las instalaciones del Colegio Militar que est&aacute;n en Tlalpan se construyeron en los a&ntilde;os 70 y ahora se modernizaron, nuevas instalaciones.</p>
+
+<p>Lo mismo en todo lo que tiene que ver con salud, se est&aacute;n ampliando los servicios m&eacute;dicos aqu&iacute;, en el hospital militar, en todos los hospitales del pa&iacute;s.</p>
+
+<p>El apoyo que recibimos cuando la pandemia de los m&eacute;dicos de las Fuerzas Armadas fue excepcional, imag&iacute;nense la distribuci&oacute;n de 250 millones de dosis de vacuna en todo el pa&iacute;s. En cinco meses, cinco meses, por esa distribuci&oacute;n, por esa log&iacute;stica y por el apoyo de brigadas que se crearon vacunamos a todos los adultos mayores con una dosis, en cinco meses, todos los adultos mayores del pa&iacute;s, con el apoyo de las Fuerzas Armadas.</p>
+
+<p>Ahora en Acapulco, nada m&aacute;s de la Defensa y de la Guardia Nacional como 16 mil 500 elementos. Si nos est&aacute;n escuchando bien los de Acapulco, saben que ah&iacute; est&aacute; la Guardia Nacional. Y ah&iacute; est&aacute;n los soldados, que son pueblo uniformado, entregando refrigeradores y estufas, y otorgando raciones alimentarias, y distribuyendo despensas, y distribuyendo agua, y trabajando en beneficio de la gente. No nos equivocamos.</p>
+
+<p>Yo quiero aqu&iacute;, no era ese el prop&oacute;sito, pero hacerle un agradecimiento al general secretario Luis Cresencio Sandoval Gonz&aacute;lez, porque nos ha respaldado mucho, todas las Fuerzas Armadas. Lo mismo puedo decir del almirante Ojeda, secretario de Marina, y de oficiales y de marinos, porque son dos instituciones del Estado mexicano que cumplen misiones muy importantes.</p>
+
+<p>Y como estamos a cinco a&ntilde;os del gobierno&hellip; Imag&iacute;nese qu&eacute; hubi&eacute;semos hecho si se cancela el aeropuerto de Texcoco. &iquest;Con qui&eacute;n hacemos el nuevo aeropuerto? &iquest;Con las empresas que hab&iacute;an quedado, echadas a perder, empresas en donde ten&iacute;an acciones o eran due&ntilde;os hasta directivos de medios de comunicaci&oacute;n?</p>
+
+<p>Afortunadamente, ya la mayor&iacute;a entendi&oacute;, de esos empresarios o gente muy cercana al poder, que son otros tiempos y ahora nos est&aacute;n ayudando todos porque estamos inaugurando una etapa nueva. Pero &iquest;qu&eacute; hubi&eacute;semos hecho sin el apoyo sin el respaldo de las Fuerzas Armadas?</p>
+
+<p>Cuando llegamos lo que exist&iacute;a era la Polic&iacute;a Federal, que se cre&oacute;, se consolid&oacute;, entre comillas, en la &eacute;poca de Garc&iacute;a Luna; en su mejor momento llegaron a tener 40 mil elementos, el 20 por ciento operativos, 20 por ciento administrativos.</p>
+
+<p>No hicieron un solo cuartel, m&aacute;s que el <em>b&uacute;nker</em> donde llevaba Garc&iacute;a Luna a periodistas y a funcionarios, hasta de otros pa&iacute;ses, y los apantallaba ah&iacute; porque ten&iacute;an sistemas de c&aacute;maras de lo m&aacute;s sofisticado, pero cuando iban a una misi&oacute;n a un estado ten&iacute;an que acampar a la intemperie o en los hoteles; a veces hasta los corr&iacute;an porque no pagaban a los hoteleros.</p>
+
+<p>Ahora es distinto, hay 130 mil elementos nuevos de la Guardia Nacional con sus cuarteles construidos por los ingenieros militares, disciplinados, para garantizar la paz y la tranquilidad en el pa&iacute;s, sin corrupci&oacute;n, sin v&iacute;nculos con las bandas de narcotraficantes, porque ya no hay, como en ese entonces, un narcogobierno.</p>
+
+<p>Entonces, s&iacute; hemos avanzado bastante.</p>
+
+<p>Y agradecerle al pueblo por su confianza. Y no tengo de qu&eacute; quejarme, porque hasta en las encuestas que hace el <em>Reforma</em> estamos apoyados por la gente, en ninguna encuesta estamos reprobados, y vaya que nos han atacado, pero no pasa nada. Y qu&eacute; bueno que hay cr&iacute;tica, porque eso es la democracia.</p>
+
+<p>Ya nos vamos porque vamos a Tulum. El lunes nos volvemos a encontrar aqu&iacute;. Y si quieren ir despu&eacute;s a Tulum, porque ahora no alcanz&oacute; para todos o no todos pudieron ir, nos ponemos de acuerdo aqu&iacute; con Jes&uacute;s.</p>
+
+<p><strong>PREGUNTA:</strong> &iquest;Alg&uacute;n comentario sobre la liberaci&oacute;n de la mexicana en Gaza?</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Es una muy buena noticia que se haya liberado a esta joven, Ilana Gritzewsky, es joven mexicana que fue secuestrada el 7 de octubre y ya ayer sali&oacute; o est&aacute; ya por salir de Gaza. Agradecemos mucho a quienes participaron en estos tr&aacute;mites, en estas gestiones.</p>
+
+<p>Hemos estado muy pendientes. Y han tenido consideraci&oacute;n con nosotros, tanto de un agrupamiento como del otro, mucha consideraci&oacute;n con M&eacute;xico, hay respeto por M&eacute;xico y esto nos facilita bastante el poder hacer estas gestiones tan delicadas.</p>
+
+<p>Vamos avanzando, porque todav&iacute;a nos queda un joven y dos marinos mexicanos, pero vamos bien. No puedo decir m&aacute;s, ya cuando est&eacute;n a salvo ya les vamos a informar de toda la historia, pero ahora el prop&oacute;sito es salvarlos. Y agradecerles a los dos agrupamientos por considerar a nuestros conciudadanos. Y han estado en comunicaci&oacute;n permanente con nosotros sus familiares.</p>
+
+<p>Y, tambi&eacute;n, un reconocimiento a la secretaria de Relaciones Exteriores, Alicia B&aacute;rcena, porque ha estado atendiendo de manera personal este asunto con otros integrantes del servicio exterior de M&eacute;xico, diplom&aacute;ticos mexicanos.</p>
+
+<p>Pues muy bien. Nos vemos el lunes.</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+</div>
+      </div>
+
+      <div class="col-md-4 col-xs-12 pull-right">
+
+
+
+
+          <div id="survey" class="survey-popup small-top-buffer">
+	<div class="row">
+  <a class="fire">
+    <span class="title">Contesta nuestra encuesta de satisfacción.</span>
+		<i style="color: white" class="fas fa-poll"></i>
+  </a>
+  <hr>
+  
+  <div class="survey col-sm-12 clearfix">
+	<form id="survey-form">
+	  <div class="survey-form">
+	  <fieldset id="query_1">
+		<legend>¿Cómo fue tu experiencia en gob.mx?</legend>
+		<div id="Q_A" class="btn-group row">
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncGood" class="ga-survey" value="Feliz" title="Satisactorio">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-good.svg" alt="">
+		  	</button>
+		  </div>
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncReg" class="ga-survey" value="Neutral" title="Neutral">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-neutral.svg" alt="">
+		  	</button>
+		  </div>
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncBad" class="ga-survey" value="Triste" title="No satisactorio">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-bad.svg" alt="">
+		  	</button>
+		  </div>
+		</div>
+	  </fieldset>
+	  <fieldset id="query_1_a" class="hidden">
+	  	<legend>¿Fue fácil encontrar lo que buscabas?</legend>
+	  	<div id="Q_B" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R1" value="1">
+	  		<label for="A_R">Muy Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R2" value="2">
+	  		<label for="A_R">Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R3" value="3">
+	  		<label for="A_R">Difícil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R4" value="4">
+	  		<label for="A_R">Muy Difícil</label>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_s" class="hidden">
+	  	<legend>¿De qué estado de la República nos visitas?</legend>	  	
+	  	<div class="col-md-12">
+  	  		<div class="form-group" style="margin-bottom: 114px;">
+  	  			<select id="estados" class="form-control"></select>
+  	  		</div>
+  	  		<div class="form-group">
+  	  			<button type="button" class="Q_S_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  		</div>
+  	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_alt" class="hidden">
+		<legend>¿Qué buscabas?</legend>
+	  	<div id="Q_I" class="clearfix">
+	  	  <div class="col-sm-12">
+	  		<textarea id="txtA" class="form-control" rows="6" maxlength="250" style="font-size: 14px; width: 100%;"></textarea>
+	  		<span class="small">Máximo 250 caracteres</span>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+  	  	  <button type="button" class="Q_I_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_b" class="hidden">
+	  	<legend>¿Qué te gustó más?</legend>
+	  	<p class="small">Puedes seleccionar más de uno.</p>
+	  	<div id="Q_C" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R1" type="checkbox" name="A_R" value="1">
+	  		<label for="A_R">La información es clara y precisa</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R2" type="checkbox" name="A_R" value="2">
+	  		<label for="A_R">El diseño es agradable</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R3" type="checkbox" name="A_R" value="3">
+	  		<label for="A_R">Está bien organizado</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R4" type="checkbox" name="A_R" value="4">
+	  		<label for="A_R">Es sencillo navegar</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R5" type="checkbox" name="A_R" value="5">
+	  		<label for="A_R">El lenguaje es amigable</label>
+	  	  </div>
+	  	  <div class="clearfix">
+	  	  	<button type="button" class="Q_C_btn btn btn-primary btn-small pull-right">Siguiente</button>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_c" class="hidden">
+	  	<legend>¿Recomendarías nuestro portal a un amigo o familiar?</legend>
+	  	<div id="Q_D" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="radEncC_R1" type="radio" name="A_R" value="4">
+	  		<label for="A_R">Si</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncC_R2" type="radio" name="A_R" value="1">
+	  		<label for="A_R">No</label>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+        <button type="button" class="btn-finalizar btn btn-primary btn-small pull-right" style="margin-left: 8px; margin-top: 2px;" disabled>Finalizar</button>
+        <img src="https://framework-gb.cdn.gob.mx/assets/images/oval-white.svg" class="pull-right hidden loading">
+      </div>
+	  </fieldset>
+
+	  <fieldset id="query_2" class="hidden">
+		<legend>¿Fue fácil encontrar lo que buscabas?</legend>
+	  	<div id="Q_F" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R1" type="radio" name="A_R" value="1">
+	  		<label for="A_R">Muy Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R2" type="radio" name="A_R" value="2">
+	  		<label for="A_R">Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R3" type="radio" name="A_R" value="3">
+	  		<label for="A_R">Difícil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R4" type="radio" name="A_R" value="4">
+	  		<label for="A_R">Muy Difícil</label>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_2_b" class="hidden">
+	  	<legend>¿Qué mejorarías?</legend>
+	  	<p class="small">Puedes seleccionar más de una opción.</p>
+	  	<div id="Q_G" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A1" type="checkbox" name="A_R" value="1">
+	  		<label for="A_R">Diseño</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A2" type="checkbox" name="A_R" value="2">
+	  		<label for="A_R">Navegación dentro del sitio</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A3" type="checkbox" name="A_R" value="3">
+	  		<label class="too-long" for="A_R">Claridad y precisión de la información</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A4" type="checkbox" name="A_R" value="4">
+	  		<label for="A_R">Organización de los contenidos</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A5" type="checkbox" name="A_R" value="5">
+	  		<label for="A_R">Lenguaje utilizado</label>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">	  	  
+	  	  <button type="button" class="btn-finalizar btn btn-primary btn-small pull-right" style="margin-left: 8px; margin-top: 2px;" disabled>Finalizar</button>
+	  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/oval-white.svg" class="hidden pull-right loading">
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_2_alt" class="hidden">
+		<legend>¿Qué buscabas?</legend>
+	  	<div id="Q_H" class="clearfix">
+	  	  <div class="col-sm-12">
+	  		<textarea id="txtA1" class="form-control" rows="6" maxlength="250" style="font-size: 14px; width: 100%;"></textarea>
+	  		<span class="small">Máximo 250 caracteres</span>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+  	  	  <button type="button" class="Q_H_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  	</div>
+	  </fieldset>
+
+	</div>
+	<p class="hidden survey-thanks" style="text-align: center; color: white; font-weight: 700;">Gracias por tu opinión.</p>
+	</form>
+
+  </div>
+</div>
+</div>
+
+<script type="text/javascript">
+$(function() {
+  var c = 0;
+  var fin = 0;
+  var tipo_cara = "";
+  var page_type = "Articulos";
+  var triggered = false;
+  var answers = {};
+  var properties = {};
+  var organization = "presidencia";
+  var section = "Blog";
+  var lang = "es";
+  properties.published_on = "2023-12-01 09:33:00 -0600";
+  properties.title = "Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 1° de diciembre de 2023";
+  properties.path = "/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-1-de-diciembre-de-2023";
+  properties.referer = "";
+  properties.viewfinder = navigator.userAgent.toLowerCase();
+  properties.screens = screen.width;
+  properties.device = screen.width;
+
+  $.getJSON('https://www.gob.mx/vun/estados?filter[order]=nombre%20ASC', function (selectOptions) {
+    for( var i = 0; i < selectOptions.length; i ++) {
+      var selectOptionsJSON = selectOptions[i];
+      $('#estados').append('<option value="'+ selectOptionsJSON.nombre +'">'+ selectOptionsJSON.nombre +'</option>');
+    }
+    $('#estados').append('<option value="Otro">Otro</option>')
+  });
+
+  $('.fire').click(function(event) {
+    $('.survey-popup').css({'height':'440px'});
+  });
+
+  $('#Q_A').find('button').click(function(event) {
+  	$('#query_s').removeClass('hidden');
+  	$("#query_1").addClass('hidden');
+  	answers.q1 = $(this).attr('id');
+  });
+
+  $(".ga-survey").click(function () {
+    tipo_cara = $(this).val();
+    var interval_time = [30];
+    (function timer () {
+      if (c < 1) {
+        setTimeout(function () {
+           if(fin < 1) {
+             set_ga("Inconclusa");
+             timer();
+           }
+        }, interval_time[c] * 1000);
+      }
+      c++;
+    })();
+  });
+
+  $('.Q_S_btn').click(function(event) {
+    if( answers.q1 === "radEncGood") {
+      $("#query_s").addClass('hidden');
+      $("#query_1_a").removeClass('hidden');
+    } else if(answers.q1 === "radEncReg" || answers.q1 === "radEncBad") {
+      $("#query_s").addClass('hidden');
+      $("#query_2").removeClass('hidden');
+    } else { }
+    // answers.q1 = $('#Q_A').find('button').attr('id');
+  });
+
+  $('#Q_B').find('input').click(function(event) {
+  	if( $(this).attr('id') === 'radEncA_R3' || $(this).attr('id') === 'radEncA_R4' )  {
+  	  $("#query_1_a").addClass('hidden');
+	  $("#query_1_alt").removeClass('hidden');
+  	} else {
+  	  $("#query_1_a").addClass('hidden');
+	  $("#query_1_b").removeClass('hidden');	
+  	}	
+	answers.q2 = $(this).attr('id');
+  });
+
+  $('.Q_I_btn').click(function(event) {
+  	event.preventDefault();
+  	$("#query_1_alt").addClass('hidden');
+	$("#query_1_b").removeClass('hidden');
+	answers.q5 = $('#txtA').val().substring(0, 250);
+  });
+
+  $('#Q_C').find('button').click(function(event) {
+	$("#query_1_b").addClass('hidden');
+	$("#query_1_c").removeClass('hidden');
+	var q3_array = [];
+	$('#Q_C').find('input:checked').each(function(index, el) {
+	  q3_array.push($(el).attr('id'));
+	});
+	answers.q3 = q3_array;
+  });
+
+  $('#Q_D').find('input').change(function(event) {
+  	answers.q4 = $(this).attr('id');
+  	$('.btn-finalizar').attr('disabled', false);
+  });
+
+  $('#Q_F').find('input').click(function(event) {
+	
+	answers.q2 = $(this).attr('id');
+
+	if( $(this).attr('id') === 'rdEncA_R3' || $(this).attr('id') === 'rdEncA_R4' ) {
+	  $("#query_2").addClass('hidden');
+	  $("#query_2_alt").removeClass('hidden');
+	} else {
+	  $("#query_2").addClass('hidden');
+	  $("#query_2_b").removeClass('hidden');
+	}
+  });
+
+  $('#Q_G').find('input').change(function(event) {
+  	if($('#Q_G').find('input:checked').length > 0) {
+	  $('.btn-finalizar').attr('disabled', false);
+    }
+    var q2_array = [];
+    $('#Q_G').find('input:checked').each(function(index, el) {
+	  q2_array.push($(el).attr('id'));
+	});
+	answers.q3 = q2_array;
+  });
+
+  $('.Q_H_btn').click(function(event) {
+  	event.preventDefault();
+  	$("#query_2_alt").addClass('hidden');
+	$("#query_2_b").removeClass('hidden');
+	answers.q5 = $('#txtA1').val().substring(0, 250);
+  });
+
+  $('.btn-finalizar').click(function (event) {
+    fin++;
+    $.ajax({
+      url: '/encuesta-satisfaccion',
+      type: 'post',
+      dataType: 'json',
+      data: { section: section, lang: lang, properties: properties, answers: answers },
+      beforeSend: function() {
+        $('.loading').removeClass('hidden');
+      },
+      success: function(data) {
+        set_ga("Finalizada");
+
+        $('.survey').hide();
+        $('.survey-popup').css({'height':'60px','background-color':'#dff0d8','border':'1px solid #d6e9c6'});
+        $('.survey-popup .title').text('Gracias por tu participación.').css({'color':'#3c763d'});
+        $('#icon-survey').removeClass('fa-file-text-o').addClass('fa-check-circle').css({'color':'#3c763d'});
+        setTimeout(function() {
+          $('.survey-popup').fadeOut('800');
+        }, 1600);
+      }
+    });
+  });
+
+  function set_ga(estatus) {
+    var pages_group = "Gobierno";
+    var organization_name = "presidencia";
+
+    console.log("Entro a apartado de encuesta de satisfacción. Estatus: "+ estatus);
+    console.log("Pages group: "+pages_group);
+    console.log("Sub group: "+organization_name);
+    console.log("Page type: "+page_type);
+    console.log("Face: "+tipo_cara);
+
+      console.log("Rails.env.production");
+      //Código GA para encuesta de satisfacción.
+		gtag('set', 'dimension14', pages_group);
+		gtag('set', 'dimension15', organization_name);
+		gtag('set', 'dimension16', page_type);
+		gtag('send', 'event', 'Encuesta de satisfacción', tipo_cara ,estatus);
+		gtag('set', 'dimension14', null);
+		gtag('set', 'dimension15', null);
+		gtag('set', 'dimension16', null);
+  }
+
+  $('#subscribe-survey').click(function(event) {
+	event.preventDefault();
+    var email = $("#email-survey").val();
+    var state = $('#estados').val();
+
+    if (email !== '' || email !== undefined) {
+	    try {
+	      $.ajax({
+	        url: "/subscribe",
+	        type: 'post',
+	        dataType: 'json',
+	        data : { email: {address: email} },
+	        success: function (data) {
+	            $('#responseSignup').html(data.message);
+	        },
+	        error: function (data) {
+	            $('#responseSignup').html(data.message);
+	        }
+	      });
+	    }catch(e){
+	      $("#responseEmail").innerText(e);
+	    }
+
+	    $.ajax({
+	    	url: '/signups',
+	    	type: 'POST',
+	    	dataType: 'json',
+	    	data: { section: section, lang: lang, properties: properties },
+	    	success: function() {
+	    		//console.log('exito');
+	    	}
+	    });
+	} else {
+		$('#responseSignup').html('Por favor llena todos los campos.');
+	}
+  });
+
+  $('#survey-form').submit(function(event) {
+    event.preventDefault();
+  });
+});
+</script>
+
+      </div>
+      <div class="col-sm-7 pull-left">
+        <div class="share-buttons clearfix vertical-buffer">
+  <div class="col-md-2"> <a class="twitter-share-button" data-url="https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-1-de-diciembre-de-2023" data-text="Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 1° de diciembre de 2023"></a></div>
+  <div class="col-md-2">
+    <div class="fb-share-button" data-href="https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-1-de-diciembre-de-2023" data-layout="button_count" data-size="small" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-1-de-diciembre-de-2023&amp;src=sdkpreparse">Compartir</a></div>
+  </div>
+</div>
+
+  <script type="text/javascript">
+    (function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v2.7";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+    
+    var pages_group = "Gobierno";
+    var page_type = "Artículos";
+    var organization_name = "presidencia";
+    var title_content = "Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 1° de diciembre de 2023";
+
+     window.twttr = (function (d,s,id) {
+       var t, js, fjs = d.getElementsByTagName(s)[0];
+       if (d.getElementById(id)) return; js=d.createElement(s); js.id=id;
+       js.src="//platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs);
+       return window.twttr || (t = { _e: [], ready: function(f){ t._e.push(f) } });
+     }(document, "script", "twitter-wjs"));
+
+     function trackTwitter(intent_event) {
+       if (intent_event) {
+         if (intent_event.target && intent_event.target.nodeName == 'IFRAME') {
+           console.log("Metrica Compartir Twitter - "+title_content);
+           console.log("Organization: "+organization_name);
+           console.log("Page type: "+page_type);
+           console.log("Title content: "+title_content);
+           ga('set', 'dimension14', pages_group);
+           ga('set', 'dimension15', organization_name);
+           ga('set', 'dimension16', page_type);
+           ga('send', 'event', 'Compartir en redes sociales', 'Twitter', title_content);
+           ga('set', 'dimension14', null);
+           ga('set', 'dimension15', null);
+           ga('set', 'dimension16', null);
+         }
+       }
+     }
+  </script>
+  <script type="text/javascript">
+     twttr.ready(function (twttr) {
+       twttr.events.bind('tweet', trackTwitter);
+     });
+  </script>
+
+
+      </div>
+    </div>
+    <div class="row top-buffer">
+  <div class="col-md-8">
+    <hr>
+    <div class="print col-ms-12 col-md-12 col-xs-12">
+      <span class="icon-printing"></span>
+      <a href="#">Imprime la página completa</a>
+        <p class="small" style="font-size: 14px; line-height: 1.6em;">
+          La legalidad, veracidad y la calidad de la información es estricta responsabilidad de la dependencia, entidad o empresa productiva del Estado que la proporcionó en virtud de sus atribuciones y/o facultades normativas.
+        </p>
+    </div>
+  </div>
+</div>
+
+  </div>
+  <input type="hidden" id="page_type" name="page_type" value="Articulos">
+  <input type="hidden" id="organization_name" name="organization_name" value="presidencia">
+</main>
+<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+
+<footer class="main-footer">
+  <div class="list-info">
+    <div class="container">
+
+      <div class="col-sm-3">
+        <img  src="https://framework-gb.cdn.gob.mx/landing/img/logoheader.svg"  href="/" alt="logo gobierno de méxico" class="logo_footer" style="max-width: 90%; margin-left: -27px;   margin-top: 12px;">
+      </div>
+      <div class="col-sm-3">
+        <h2>Enlaces</h2>
+        <ul>
+         <!-- <li><a  href="http://www.participa.gob.mx">Participa</a></li> -->
+          <li><a  href="https://datos.gob.mx/">Datos</a></li>
+          <li><a href="https://www.gob.mx/publicaciones" target="_blank" rel="noopener" title="Enlace abre en ventana nueva">Publicaciones </a></li>
+
+                  <li><a class="footer" href="https://consultapublicamx.plataformadetransparencia.org.mx/vut-web/faces/view/consultaPublica.xhtml?idEntidad=MzM=&amp;idSujetoObligado=MTAwMDE=#inicio" id="Transparencia" target="blank" title="Enlace abre en ventana nueva">Portal de Obligaciones de Transparencia</a></li>
+
+                  <li><a class="footer" href="https://www.infomex.org.mx/gobiernofederal/home.action" id="PNT" target="blank" title="Enlace abre PNT en ventana nueva">PNT</a></li>
+
+                  <li><a class="footer" href="http://www.inai.org.mx/" id="INAI" target="blank" title="Enlace abre sitio INAI en ventana nueva">INAI</a></li>
+
+          <li><a class="footer" id="INAI" href="http://alertadores.funcionpublica.gob.mx/" target="_blank" rel="alertadores">Alerta</a></li>
+          <li><a class="footer" id="SIDEC" href="http://sidec.funcionpublica.gob.mx/" target="_blank" rel="sidec">Denuncia</a></li>
+           </ul>
+      </div>
+      <div class="col-sm-3">
+        <h2>¿Qué es gob.mx?</h2>
+        <p>Es el portal único de trámites, información y participación ciudadana.  <a href="/que-es-gobmx" style="text-decoration: none;">Leer más </a></p>
+        <ul>
+
+        
+            <li><a href='http://www.gob.mx/epn'> Administraciones anteriores  </a></li>
+          <li><a href="/accesibilidad">Declaración de Accesibilidad</a></li>
+          <li><a href="/privacidadintegral">Aviso de privacidad</a></li>
+          <li><a href="/privacidadsimplificado">Aviso de privacidad simplificado</a></li>
+          <li><a href="/terminos">Términos y Condiciones </a></li>
+          <li><a href="/terminos#medidas-seguridad-informacion">Política de seguridad</a></li>
+          <li><a class="footer" id="Marco Juridico" href="http://www.ordenjuridico.gob.mx" target="_blank" rel="noopener" title="Enlace abre en ventana nueva">Marco jurídico</a></li>
+          <li><a href="/sitemap">Mapa de sitio</a></li>
+        </ul>
+      </div>
+      <div class="col-sm-3">
+        </p>
+        <h2>Síguenos en </h2>
+        <ul class="list-inline">
+          <li>
+            <a id="Facebook" href="https://www.facebook.com/gobmexico" target="_blank" rel="noopener" class="sendEst share-info footer" title="enlace a facebook abre en una nueva ventana">
+              <img alt="Facebook" src="https://framework-gb.cdn.gob.mx/landing/img/facebook.png" />
+            </a>
+          </li>
+          <li>
+            <a id="Twitter" href="https://twitter.com/GobiernoMX" target="_blank" rel="noopener" class="sendEst share-info footer" title="Enlace a twitter abre en una nueva ventana">
+              <img alt="Twitter" src="https://framework-gb.cdn.gob.mx/landing/img/twitter.png" />
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+  </div>
+  </div>
+
+  <div class="container-fluid footer-pleca">
+    <div class="row">
+      <div class="col">
+        <br><br>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script type="text/javascript">
+      $("a.footer").click(function () {
+          var pagina_sitio = window.location.pathname;
+          var outbound_link = $(this).attr("id");
+          var subgrupo_paginas = "presidencia";
+          var page_type = "Home";
+          var pages_group = "Gobierno";
+          if($("#page_type").length > 0){ page_type = $("#page_type").val(); }
+
+          console.log("Metrica links externos footer - "+outbound_link);
+          gtag('set', 'dimension14', pages_group);
+          gtag('set', 'dimension15', subgrupo_paginas);
+          gtag('set', 'dimension16', page_type);
+          gtag('send', 'event', 'Outbound link - Footer', outbound_link, pagina_sitio);
+          gtag('set', 'dimension14', null);
+          gtag('set, ‘dimension15', null);
+      })
+  </script>
+
+<input class="hidden" id="route" value="/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-1-de-diciembre-de-2023" type="hidden" >
+<!-- div id="fb-root"></div -->
+
+
+
+
+
+  <!-- Begin comScore Tag -->
+  <script>
+      var _comscore = _comscore || [];
+      _comscore.push({ c1: "2", c2: "17183199" });
+      (function() {
+          var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+          s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+          el.parentNode.insertBefore(s, el);
+      })();
+  </script>
+  <noscript>
+    <img src="https://sb.scorecardresearch.com/p?c1=2&c2=17183199&cv=2.0&cj=1" />
+  </noscript>
+  <!-- End comScore Tag -->
+
+  <script src="https://sb.scorecardresearch.com/c2/17183199/ct.js"></script>
+
+
+  <script type="text/javascript">
+
+      var _sf_startpt=(new Date()).getTime();
+      var _sf_async_config = { uid: 43659, domain: 'www.gob.mx', useCanonical: true } ;
+      (function() {
+          function loadChartbeat() { window._sf_endpt = (new Date()).getTime(); var e = document.createElement('script'); e.setAttribute('language', 'javascript'); e.setAttribute('type', 'text/javascript'); e.setAttribute('src','//static.chartbeat.com/js/chartbeat.js'); document.body.appendChild(e); };
+          var oldonload = window.onload;
+          window.onload = (typeof window.onload != 'function') ?
+              loadChartbeat : function()
+              { oldonload(); loadChartbeat(); };
+      })();
+      var ele = "/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-1-de-diciembre-de-2023";
+      if( "#{(@organization_site.present? ? @organization_site.category : 'gobmx')}" == "Campaña") {
+          var siteEls = 'campaign';
+      } else {
+          var siteEls = 'gobierno';
+      }
+
+      for( var i = 1; i < ele.split('/').length; i++ ) {
+          siteEls = siteEls + '.' + ele.split('/')[i];
+      }
+
+      function udm_(e){var t="comScore=",n=document,r=n.cookie,i="",s="indexOf",o="substring",u="length",a=2048,f,l="&ns_",c="&",h,p,d,v,m=window,g=m.encodeURIComponent||escape;if(r[s](t)+1)for(d=0,p=r.split(";"),v=p[u];d<v;d++)h=p[d][s](t),h+1&&(i=c+unescape(p[d][o](h+t[u])));e+=l+"_t="+ +(new Date)+l+"c="+(n.characterSet||n.defaultCharset||"")+"&c8="+g(n.title)+i+"&c7="+g(n.URL)+"&c9="+g(n.referrer),e[u]>a&&e[s](c)>0&&(f=e[o](0,a-8).lastIndexOf(c),e=(e[o](0,f)+l+"cut="+g(e[o](f+1)))[o](0,a)),n.images?(h=new Image,m.ns_p||(ns_p=h),h.src=e):n.write("<","p","><",'img src="',e,'" height="1" width="1" alt="*"',"><","/p",">")};
+      function uid_call(a, b){
+          ui_c2 = 17183199; // your corporate c2 client value
+          ui_ns_site = 'gobmx'; // your sites identifier
+          window.b_ui_event = window.c_ui_event != null ? window.c_ui_event:"",window.c_ui_event = a;
+          var ui_pixel_url = 'https://sb.scorecardresearch.com/p?c1=2&c2='+ui_c2+'&ns_site='+ui_ns_site+'&name='+a+'&ns_type=hidden&type=hidden&ns_ui_type='+b;
+          var b="comScore=",c=document,d=c.cookie,e="",f="indexOf",g="substring",h="length",i=2048,j,k="&ns_",l="&",m,n,o,p,q=window,r=q.encodeURIComponent||escape;if(d[f](b)+1)for(o=0,n=d.split(";"),p=n[h];o<p;o++)m=n[o][f](b),m+1&&(e=l+unescape(n[o][g](m+b[h])));ui_pixel_url+=k+"_t="+ +(new Date)+k+"c="+(c.characterSet||c.defaultCharset||"")+"&c8="+r(c.title)+e+"&c7="+r(c.URL)+"&c9="+r(c.referrer)+"&b_ui_event="+b_ui_event+"&c_ui_event="+c_ui_event,ui_pixel_url[h]>i&&ui_pixel_url[f](l)>0&&(j=ui_pixel_url[g](0,i-8).lastIndexOf(l),ui_pixel_url=(ui_pixel_url[g](0,j)+k+"cut="+r(ui_pixel_url[g](j+1)))[g](0,i)),c.images?(m=new Image,q.ns_p||(ns_p=m),m.src=ui_pixel_url):c.write("<p><img src='",ui_pixel_url,"' height='1' width='1' alt='*'></p>");
+      }
+      udm_('https://sb.scorecardresearch.com/b?c1=2&c2=17183199&ns_site=gobmx&name='+siteEls);
+  </script>
+
+  <noscript>
+    <img src="https://sb.scorecardresearch.com/p?c1=2&amp;c2=17183199&amp;ns_site=gobmx&amp;name=gobierno.presidencia.es.articulos.version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-1-de-diciembre-de-2023" height="1" width="1" alt="*" />
+  </noscript>
+<script>
+    let key = '';
+    $(function () {
+
+        $.getJSON("https://framework-gb.cdn.gob.mx/applications/cms/configGobmx.json", function(json) {
+            console.log(json.keyAnalytics); // this will show the info it in firebug console
+            key = json.keyAnalytics;
+            ga('create', key , 'auto', 'GobTracker');
+            ga('GobTracker.require', 'linker');
+            ga('GobTracker.linker:autoLink', ['www.gob.mx']);
+            ga('GobTracker.set', 'contentGroup1', 'Gobierno');
+            ga('GobTracker.set', 'contentGroup2', SubGroup);
+            ga('GobTracker.set', 'contentGroup3', PageType);
+            ga('GobTracker.set', 'dimension14', 'Gobierno');
+            ga('GobTracker.set', 'dimension15', SubGroup);
+            ga('GobTracker.set', 'dimension16', PageType);
+            ga('GobTracker.set', 'dimension13', 'No Registrado');
+            ga('GobTracker.send', 'pageview');
+            ga('GobTracker.set', 'contentGroup1', null);
+            ga('GobTracker.set', 'contentGroup2', null);
+            ga('GobTracker.set', 'contentGroup3', null);
+            ga('GobTracker.set', 'dimension14', null);
+            ga('GobTracker.set', 'dimension15', null);
+            ga('GobTracker.set', 'dimension16', null);
+            ga('GobTracker.set', 'dimension13', null);
+        });
+    });
+</script>
+
+<script src="https://framework-gb.cdn.gob.mx/applications/cms/modal_global_cms.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/gm/accesibilidad/js/gobmx-accesibilidad.min.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick.min.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick-lightbox.js"></script>
+<link rel="stylesheet" href="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick-lightbox.css">
+
+
+<script src="https://framework-gb.cdn.gob.mx/applications/cms/config_dependency.js"></script>
+<script type="text/javascript"  src="/0RVTuHxj0/t/mhEICJIQ/YiOkthVkYSfw/PRc4N0sKYQk/PwhFVTt/GPxQB"></script></body>
+
+</html>
+

@@ -1,0 +1,1761 @@
+<!DOCTYPE html>
+<html class='no-js' lang='es'>
+<head>
+    <title>
+  Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 7 de noviembre de 2023 | Presidencia de la República  | Gobierno | gob.mx
+</title>
+
+  <meta charset='UTF-8'>
+  <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#393C3E">
+
+  
+  <meta name="keywords" content="">
+  <meta name="description" content="Acto encabezado por el presidente Andrés Manuel López Obrador desde Palacio Nacional">
+  <meta name="author" content="Presidencia de la República ">
+
+  <meta content="Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 7 de noviembre de 2023" property="og:title" />
+  <meta content="https://www.gob.mxhttps://www.gob.mx/cms/uploads/article/main_image/139416/Conferencia_presidente_08.12.10__1_.jpeg" property="og:image" />
+  <meta content="gob.mx" property="og:site_name" />
+  <meta content="Acto encabezado por el presidente Andrés Manuel López Obrador desde Palacio Nacional" property="og:description" />
+  <meta content="http://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-7-de-noviembre-de-2023?idiom=es" property="og:url" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@gobmx" />
+  <meta name="twitter:title" content="Versión estenográfica. Conferencia de prensa del presidente Andrés..." />
+  <meta name="twitter:description" content="Acto encabezado por el presidente Andrés Manuel López Obrador desde Palacio Nacional" />
+  <meta name="twitter:image" content="https://www.gob.mxhttps://www.gob.mx/cms/uploads/article/main_image/139416/Conferencia_presidente_08.12.10__1_.jpeg" />
+
+
+  <meta content="authenticity_token" name="csrf-param" />
+<meta content="OeGTLwrwtknszAmlx3PjN0d5B1sQvawiRwrK7cn+Jj8=" name="csrf-token" />
+
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700,600,300' rel='stylesheet' type='text/css'>
+  <link href='https://framework-gb.cdn.gob.mx/applications/cms/favicon.png' rel='shortcut icon'>
+  <link data-turbolinks-track="true" href="/cms/assets/application.css" media="all" rel="stylesheet" />
+  <link data-turbolinks-track="true" href="https://framework-gb.cdn.gob.mx/gm/accesibilidad/css/gobmx-accesibilidad.min.css" media="all" rel="stylesheet" />
+  
+
+  <!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+  <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+
+ <![endif]-->
+  <script async src="https://www.googletagmanager.com/gtag/js?id="></script>
+  <script src="https://framework-gb.cdn.gob.mx/applications/cms/carrusel/swiper-bundle.min.js"></script>
+
+  <link rel="stylesheet" href="https://framework-gb.cdn.gob.mx/applications/cms/carrusel/swiper-bundle.min.css">
+
+    <script type="text/javascript">
+
+        var SubGroup = '';
+        if(false || false){
+            SubGroup = 'Temas';
+        }else{
+            SubGroup = 'presidencia';
+        }
+        var PageType = '';
+        if(false){
+            PageType = 'Home'
+        }else{
+            if(false){
+                PageType = '';
+            }else {
+                var site = window.location.pathname;
+                var arrayPageType = ["articulos", "prensa", "agenda", "documentos", "multimedia", "galerias", "videos",
+                    "acciones_y_programas", "acciones-y-programas", "mi-foto-con-el-presidente",
+                    "estructuras", "descargables", "que-hacemos", "finanzas", "infografias"];
+
+                if (site.search("archivo") != -1) {
+                    PageType = "archivo_";
+                }
+                for (var i = 0; i < arrayPageType.length; i++) {
+                    if (site.search(arrayPageType[i]) != -1) {
+                        PageType += arrayPageType[i];
+                        break;
+                    }
+                }
+            }
+        }
+
+
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', '');
+
+        gtag('require', 'linker');
+        gtag('linker:autoLink', ['www.gob.mx']);
+        gtag('set', 'contentGroup1', 'Gobierno');
+        gtag('set', 'contentGroup2', SubGroup);
+        gtag('set', 'contentGroup3', PageType);
+        gtag('set', 'dimension14', 'Gobierno');
+        gtag('set', 'dimension15', SubGroup);
+        gtag('set', 'dimension16', PageType);
+        gtag('set', 'dimension13', 'No Registrado');
+        gtag('send', 'pageview');
+        gtag('set', 'contentGroup1', null);
+        gtag('set', 'contentGroup2', null);
+        gtag('set', 'contentGroup3', null);
+        gtag('set', 'dimension14', null);
+        gtag('set', 'dimension15', null);
+        gtag('set', 'dimension16', null);
+        gtag('set', 'dimension13', null);
+
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-144356475-1', 'auto', {'allowLinker':true});
+        ga('require', 'linker');
+        ga('linker:autoLink', ['www.gob.mx']);
+        ga('set', 'contentGroup1', 'Gobierno');
+        ga('set', 'contentGroup2', SubGroup);
+        ga('set', 'contentGroup3', PageType);
+        ga('set', 'dimension14', 'Gobierno');
+        ga('set', 'dimension15', SubGroup);
+        ga('set', 'dimension16', PageType);
+        ga('set', 'dimension13', 'No Registrado');
+        ga('send', 'pageview');
+        ga('set', 'contentGroup1', null);
+        ga('set', 'contentGroup2', null);
+        ga('set', 'contentGroup3', null);
+        ga('set', 'dimension14', null);
+        ga('set', 'dimension15', null);
+        ga('set', 'dimension16', null);
+        ga('set', 'dimension13', null);
+    </script>
+
+
+  <script type = "text/javascript"> console.log(true);
+  var rails_env_prod = true; </script>
+  <script src="/cms/assets/application.js"></script>
+  <script src="/cms/assets/imageReplace.js"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.js"></script>
+
+                              <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("True"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="N3JQ2-2RVHB-WJQMN-CEYEM-ATMWX",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"N3JQ2-2RVHB-WJQMN-CEYEM-ATMWX",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="xxqo3jv567lbgzxpkhpa-f-a4f85701b-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"37","ak.cp":"413578","ak.ai":parseInt("270161",10),"ak.ol":"0","ak.cr":13,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"20bf7368","ak.r":49405,"ak.a2":e,"ak.m":"b","ak.n":"essl","ak.bpcip":"189.224.237.0","ak.cport":29725,"ak.gh":"189.247.214.15","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"reno","ak.t":"1726960094","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==IAjL5QmMV4qKkGc51lt1c3nEDzFRpY5oCTYz+v2MNifn4U+6obVNmDkAK9AGq3+2DJioD8drx6TS/zDv/PHXfLbUsqUDZG+nUXUBsgtF0UUF8albRuwEywyw+vduVB4XZnFUcP5K05hX4MQl0F/Hl0uaTi5vHcabrylzffu2XBN8IrslOTJ+HKoKmJGVPonEyz7W16p5SeAbrNFrvOC8FLF9rkNQWST/K+KcXC35grkrdopqAqXRblq/R8+bpulI9yq4sFpGvFbFb4fFOH8SOSEfpdCb56bRiu8rgbQ/twFq81LEqQCNaa/R6u9ntt1Fs7LIlCHbAnOTWcQaB6ECGj3FwbmnPcp+4JPDWKoZ9VyX7syYsRyiaQ79MOGpktNc04T4mEpCVOA73Wu9y1k/bHm05QkA3CRpEyRPDoozOCE=","ak.pv":"113","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+<body>
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v13.0" nonce="MZ2GPb2d"></script><!-- a href="#principal" class="skip">Saltar al contenido principal</a -->
+  <header class=" navbar navbar-inverse">
+    <nav class="navbar navbar-inverse  navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-target="#navbarMainCollapse" data-toggle="collapse">
+            <span class="sr-only">Interruptor de Navegación</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a href="/" style="padding: 1px 3px 3px 3px;" class="navbar-brand " title="Ir a la página inicial">
+
+            <div class="logo-main"></div>
+          </a>
+        </div>
+        <div id="navbarMainCollapse" class="collapse navbar-collapse">
+          <ul class="nav navbar-nav navbar-right">
+           <li><a href="/tramites" title="Trámites">Trámites </a></li>
+            <li><a href="/gobierno" title="Gobierno">Gobierno</a></li>
+                  <li><a href="/presidencia/en" title="Versión en inglés del sitio web">English</a>
+                  </li>
+                </li>
+
+
+            <li>
+              <form accept-charset="UTF-8" action="/busqueda" method="get"><div style="display:none"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+                <input type="hidden" name="site" value="presidencia">
+                <button data-v-6394873e="" id="botonbuscar" type="button" class="btn btn-search"><a data-v-6394873e="" href="https://www.gob.mx/busqueda?utf8=✓" target="_blank" id="botbusca"><img data-v-6394873e="" alt="Buscar" src="https://framework-gb.cdn.gob.mx/landing/img/lupa.png"></a></button>
+</form>            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    
+
+
+        <script src="/cms/assets/level_jump.js"></script><section>
+<!-- Subnavegacion -->
+<nav class=" navbar-inverse sub-navbar fixed-top"
+     >
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#subenlaces">
+        <span class="sr-only">Interruptor de Navegación</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="link-name" href="?tab="></a>
+    </div>
+    <div class="collapse navbar-collapse" id="subenlaces">
+      <ul class="nav subnav navbar-nav navbar-right">
+              <li class="landing-btn">
+                    <a href='/presidencia/es/archivo/prensa'>
+                Comunicados            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='/presidencia/es/#5173'>
+                Directorio            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='https://transparencia.presidencia.gob.mx/presidencia/transparencia/politicas-de-tratamiento-de-datos-personales-de-la-oficina-de-la-presidencia-de-la-republica/'>
+                Protección de Datos Personales            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='https://www.gob.mx/presidencia/transparencia/'>
+                Transparencia            </a>
+            </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+<style>
+  .flag-banner {
+  top: 45px  !important;
+  }
+</style>
+<!-- div class="warning-nav" style="margin-top: 0px;">
+  <div class="container">
+    <div class="row clearfix">
+  <div class="col-xs-12 col-sm-12 col-md-12">Este contenido será modificado temporalmente en atención a las disposiciones legales y normativas en materia electoral, con motivo del inicio de periodo de campaña</div>
+  </div>
+  </div>
+</div -->
+</section>
+
+
+  </header>
+
+
+
+
+
+<main class="inner-page interior ficha">
+  <div class="container">
+  	<ol class="breadcrumb">
+  <li><a href="http://www.gob.mx"><span class="icon icon-home"></span><span class="sr-only">Inicio</span></a></li>
+  <li><a href="/presidencia">Presidencia de la República </a></li>
+  <li class="active">Blog</li>
+</ol>
+  	<div class="">
+      <div aria-hidden="true" class="hidden-xs font-changer internal print" tabindex="-1">
+  <button class="inc-font font-modifier">Aa+</button>
+  <button class="dec-font font-modifier">Aa-</button>
+</div>
+      <div class="marquee-padding">
+      <div class='post-list main-post-list'>
+<div class='marque-float-left'>
+<div class='right_arrow'></div>
+<div class='titulo-pub'>
+<small>Publicaciones Recientes</small>
+</div>
+</div>
+<div>
+<div class='container-marque'>
+<div id='headlines'>
+<div class='marquee'>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-19 13:44:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-19-de-septiembre-de-2024' title='Versió'>
+Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 19 de septiembre de 2024
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-18 12:36:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-18-de-septiembre-de-2024' title='Versió'>
+Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 18 de septiembre de 2024
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-17 13:51:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-entrega-de-estimulos-a-delegaciones-mexicanas-participantes-en-juegos-olimpicos-y-paralimpicos-paris-2024' title='Versió'>
+Versión estenográfica. Entrega de estímulos a delegaciones mexicanas participantes en Juegos Olímpicos y Paralímpicos París 2024
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-17 12:21:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-17-de-septiembre-de-2024' title='Versió'>
+Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 17 de septiembre de 2024
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-16 13:56:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-desfile-civico-militar' title='Versió'>
+Versión estenográfica. Desfile Cívico Militar
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+      </div>
+  	  <div class="col-md-7 col-xs-12 col-sm-12 pull-left" tabindex="0">
+  	  	<h1 class="bottom-buffer">Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 7 de noviembre de 2023</h1>
+  	  	<h2>Acto encabezado por el presidente Andrés Manuel López Obrador desde Palacio Nacional</h2>
+        <section class="">
+          <p>Presidencia de la República  | 07 de noviembre de 2023</p>
+        </section>
+  	  <div class="imagen-principal">
+  	      <img alt="Conferencia de prensa del presidente Andrés Manuel López Obrador" class="img-responsive img_curve" src="https://www.gob.mx/cms/uploads/article/main_image/139416/Conferencia_presidente_08.12.10__1_.jpeg" />
+  	      <span class="small">Conferencia de prensa del presidente Andrés Manuel López Obrador</span>
+      </div>
+      <div class="article-body"><p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Buenos d&iacute;as. &Aacute;nimo, &aacute;nimo.</p>
+
+<p>Bueno, pues hoy martes, como lo hacemos cada 15 d&iacute;as, informamos sobre la situaci&oacute;n de salud: el avance que llevamos en el programa de IMSS-Bienestar y tambi&eacute;n lo que estamos haciendo en materia de salud en Acapulco.</p>
+
+<p>Hoy tambi&eacute;n queremos presentar un plan de la Guardia Nacional para seguir garantizando la seguridad en Acapulco y ya dejar establecido un sistema de seguridad que signifique un cambio de fondo en este asunto que tanto preocupa a la gente. Eso es b&aacute;sicamente.</p>
+
+<p>Vamos a comenzar con Zo&eacute; Robledo o con el doctor. &iquest;C&oacute;mo se organizaron? Quien sea.</p>
+
+<p>JORGE ALCOCER VARELA, SECRETARIO DE SALUD:&nbsp;Con su permiso, se&ntilde;or presidente. Muy buenos d&iacute;as a todas, a todos ustedes.</p>
+
+<p>Como ya se&ntilde;al&oacute; el se&ntilde;or presidente, en el &lsquo;Pulso de la salud&rsquo;, hoy 7 de noviembre, vamos a comunicar las acciones del sector&nbsp;Salud frente al hurac&aacute;n Otis,&nbsp;y el maestro Zo&eacute; Robledo les informar&aacute; los avances del IMSS-Bienestar en los 23 estados para atender a la poblaci&oacute;n sin seguridad social, pero adem&aacute;s el tema de la credencializaci&oacute;n para los beneficiarios del IMSS-Bienestar. Con esto podemos empezar.</p>
+
+<p>Como les dec&iacute;a, el plan general de reconstrucci&oacute;n y apoyo a la poblaci&oacute;n afectada en Acapulco y Coyuca de Ben&iacute;tez por el hurac&aacute;n Otis &mdash;me pasan la primera, por favor&mdash; como ustedes saben, la atenci&oacute;n comunitaria es amplia y, de las 110 unidades de primer nivel de atenci&oacute;n, ya se encuentra operando el 80 por ciento; 45 unidades m&eacute;dicas en Acapulco y Coyuca de Ben&iacute;tez y, como ustedes pueden ver, s&oacute;lo en el fin de semana se atendieron 21 mil 65 pacientes.</p>
+
+<p>Aqu&iacute; se&ntilde;alo las primeras causas de mortalidad, donde destacan las infecciones respiratorias agudas, del 25 por ciento; la diabetes mellitus, 23 por ciento; la hipertensi&oacute;n arterial, 20 por ciento de los casos, y les siguen enfermedades diarreicas y agudas, y traumatismos, que eran los que en los primeros d&iacute;as encabezaron esta necesidad de consulta.</p>
+
+<p>Ha sido muy importante el contar con traslados de pacientes. Se estableci&oacute;, por lo tanto, el servicio en el Hospital General de Renacimiento, de Hemodi&aacute;lisis, como al principio de semana; 96 pacientes permanecen hospitalizados en todo el estado por esta raz&oacute;n y 478 atenciones de urgencias, consultas de especialidad en la &uacute;ltima jornada, 227 camas de hospitalizaci&oacute;n disponibles hasta ayer y en el Instituto de Cancerolog&iacute;a se trabaja para poder habilitar en breve la quimioterapia.</p>
+
+<p>Estos 549 pacientes trasladados fueron a&eacute;reos y terrestres. Y como importante&nbsp;se&ntilde;alar&nbsp;que en el sitio donde llegan los traslados se atiende con alimentaci&oacute;n y alojamiento a 356 familias de estos pacientes.</p>
+
+<p>No hemos dejado a un lado el control de vectores; de hecho, es un seguimiento que se ten&iacute;a desde hace dos meses. Se han ejecutado estrategias particulares de nebulizaci&oacute;n espacial y t&eacute;rmica en 589 hect&aacute;reas, en donde se estiman que viven al menos 53 mil personas.</p>
+
+<p>Y en cuanto a la vacunaci&oacute;n, en forma sint&eacute;tica les puedo decir que hasta el fin de semana tres mil 882 dosis fueron aplicadas tanto para COVID, hepatitis B, t&eacute;tanos, difteria, influenza, sarampi&oacute;n, entre otras, con brigadas de vacunaci&oacute;n tanto estatales como jurisdiccionales.</p>
+
+<p>Al igual que en la pandemia, sin la ayuda de las comunidades, sin la ayuda de la poblaci&oacute;n no se lograr&aacute; la reestructuraci&oacute;n, el levantamiento de Acapulco, y lo estamos logrando. Y por ello resalt&oacute;, en la segunda parte de esto, el primer nivel de atenci&oacute;n, para eso se han establecido rutas de supervisi&oacute;n muy pegadas a lo que se hace por las fuerzas de Sedena y Semar para verificar c&oacute;mo est&aacute;n los centros de salud, c&oacute;mo est&aacute; el personal y si ha llegado la entrega de medicamentos, entre otros, el 6 de noviembre, esto se dio por tres equipos, en Acapulco, y entre el 6 y el 7 los de Coyuca de Ben&iacute;tez.</p>
+
+<p>Las unidades m&eacute;dicas m&oacute;viles para estos fines cubren con 37 puntos estrat&eacute;gicos que incluyen los 28 M&oacute;dulos de Atenci&oacute;n Integral para el Bienestar y los albergues.</p>
+
+<p>Y en cuanto a la limpieza de Acapulco, la poblaci&oacute;n se ha sumado a la reconstrucci&oacute;n. Algunos ejemplos r&aacute;pidos est&aacute;n aqu&iacute;, por todos, por 70 voluntarios, estas brigadas para el Centro de Salud de Renacimiento. Y pueden ver c&oacute;mo llegamos, lo que se tuvo que implementar en esta colaboraci&oacute;n de 70 voluntarios, y despu&eacute;s c&oacute;mo qued&oacute; listo para su uso este Centro de Salud de Renacimiento I.&nbsp;Y otro de ellos es el centro de salud de La Venta, donde tambi&eacute;n pueden ver c&oacute;mo antes no se pod&iacute;a pr&aacute;cticamente entrar durante el proceso y despu&eacute;s, que ya est&aacute; en condiciones y ya empez&oacute; dando consulta. En el Centro de Renacimiento III, tambi&eacute;n avanzaron, no se reportan da&ntilde;os estructurales y est&aacute; en condiciones tambi&eacute;n para laborar.&nbsp;</p>
+
+<p>El abastecimiento es otro de los ejes centrales, el que los pacientes cuenten en medicamentos. Se encontraron muchas de las unidades con medicamentos ya no servibles por diferentes razones, pero se est&aacute; trabajando en ello, se cuenta con 76 claves de medicamentos y material de curaci&oacute;n necesarios para estas unidades, llegar&aacute;n m&aacute;s insumos pr&oacute;ximamente y se prioriza tambi&eacute;n medicamentos para enfermedades cr&oacute;nicas no transmisibles.</p>
+
+<p>En cuanto a la protecci&oacute;n de riesgos sanitarios, las brigadas de Cofepris, compuesta por 27 profesionales, han participado en lo que aqu&iacute; se anota, en saneamiento de 32 colonias, 62 mil 37 personas ya han sido protegidas y m&aacute;s de un mill&oacute;n de agua clorada, 14 mil 500 sobres de Vida Suero Oral se han distribuido y se ha asegurado la destrucci&oacute;n de 943 kilos de alimentos en descomposici&oacute;n.</p>
+
+<p>En cuanto a la productividad, &iquest;qu&eacute; se ha hecho en esta semana num&eacute;ricamente?, hemos realizado 33 mil 507 consultas, mil 913 en hospitales, 21 mil 65 en unidades m&oacute;viles y participaci&oacute;n de enfermer&iacute;a en sus acciones en m&aacute;s de 31 mil.</p>
+
+<p>&iquest;Qu&eacute; vamos a hacer, finalmente?</p>
+
+<p>A continuar con el an&aacute;lisis de las claves de medicamentos ya mencionadas, del material de curaci&oacute;n que arribar&aacute; al centro de abasto.&nbsp;</p>
+
+<p>Continuaremos con la supervisi&oacute;n de las consultas, de las atenciones y la notificaci&oacute;n de las enfermedades sujetas a vigilancia epidemiol&oacute;gica, pero que no tienen sustento hasta ahora porque ha habido la prevenci&oacute;n necesaria.</p>
+
+<p>Continuar&aacute;n las brigadas de limpieza y saneamiento con apoyo de la coordinaci&oacute;n de la acci&oacute;n comunitaria del IMSS-Bienestar.</p>
+
+<p>Es&nbsp;cuanto.</p>
+
+<p>ZO&Eacute; ROBLEDO ABURTO, DIRECTOR GENERAL DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL (IMSS):&nbsp;Muchas gracias. Con su permiso, se&ntilde;or presidente. Muy buenos d&iacute;as a todas y a todos, secretarios y a quienes nos escuchan.</p>
+
+<p>Hace una semana inform&aacute;bamos sobre el avance en las diferentes inversiones que se hacen a las unidades del IMSS-Bienestar, las que se est&aacute;n transmitiendo de los estados al IMSS-Bienestar, los 714 hospitales y 13 mil 968 centros de salud.</p>
+
+<p>El d&iacute;a de hoy queremos presentar un reporte de cada uno de los estados respecto al tema del personal, tanto el asunto de los m&eacute;dicos generales y m&eacute;dicos especialistas con los que ya se cuenta el IMSS-Bienestar en cada uno de los estados, as&iacute; como el proceso de&nbsp;basificaci&oacute;n&nbsp;que ha avanzado en esta &uacute;ltima etapa del a&ntilde;o.</p>
+
+<p>En total, IMSS-Bienestar tiene 63 mil 808 m&eacute;dicos, de los cuales 27 mil 779 son especialistas. Tambi&eacute;n importante decir que el proceso de&nbsp;basificaci&oacute;n&nbsp;alcanza otras &aacute;reas, otras categor&iacute;as, de enfermer&iacute;a, &aacute;reas afines al &aacute;rea m&eacute;dica y se est&aacute; iniciando con las personas con contratos precarios que no ten&iacute;an ninguna contrataci&oacute;n por otra instituci&oacute;n, es decir, las personas que prestan sus servicios en unidades m&eacute;dicas transferidas al IMSS-Bienestar y que no contaban con estabilidad laboral. Es lo que queremos reportar el d&iacute;a de hoy.&nbsp;</p>
+
+<p>Entonces, tenemos aqu&iacute; el caso de Nayarit. Los 18 hospitales tienen una capacidad de 365 camas y los 345 centros de salud, una capacidad de 736 consultorios. Actualmente en Nayarit contamos con mil 568 m&eacute;dicos, de los cuales 807 son especialistas, se han basificado a mil 36 trabajadores de la salud en este estado. En la parte de especialistas nos referimos a todos los m&eacute;todos de contrataci&oacute;n y las estrategias que hemos llevado a cabo, m&eacute;dicos cubanos, contrataciones de jubilados, contrataci&oacute;n en el proceso de reclutamiento de marzo del Seguro Social.</p>
+
+<p>En el caso de Tlaxcala, se cuenta con dos mil 26 m&eacute;dicos, de los cuales 998 son especialistas; se han basificado a mil 335 trabajadores de salud de Tlaxcala.</p>
+
+<p>Estos tres primeros estados han tenido el n&uacute;mero m&aacute;s alto de&nbsp;basificaci&oacute;n, son los tres estados con los que iniciamos.</p>
+
+<p>En el caso de Colima, de los seis hospitales con los que se cuenta se tienen 306 camas, 142 centros de salud con 551 consultorios; se cuenta con 771 m&eacute;dicos, de los cuales 511 son especialistas, y se han basificado a 546 trabajadores de la salud.</p>
+
+<p>En Baja California Sur se tienen 866 m&eacute;dicos, de los cuales 471 son m&eacute;dicos de alguna especialidad; se ha basificado a 491 trabajadores de la salud en el estado de Baja California Sur.</p>
+
+<p>El caso de Sonora, tenemos a dos mil 124 m&eacute;dicos trabajando en los 21 hospitales y los 271 centros de salud; de estos dos mil 124 m&eacute;dicos, mil 341 son m&eacute;dicas o m&eacute;dicos especialistas; se ha basificado a mil 60 trabajadores de la salud.</p>
+
+<p>En el caso de Sinaloa, en los 32 hospitales y los 417 centros de salud se tiene un total de dos mil 510 m&eacute;dicos, de los cuales mil 492 son m&eacute;dicos especialistas; ah&iacute; en Sinaloa se ha basificado a mil 157 trabajadores de la salud.&nbsp;</p>
+
+<p>El caso de Campeche, actualmente contamos con 960 m&eacute;dicos, de los cuales 610 son especialistas; se ha basificado a 463 trabajadores de la salud.</p>
+
+<p>En el caso de Guerrero, tan emblem&aacute;tico el d&iacute;a de hoy, tiene 45 hospitales, con una capacidad hospitalaria de mil 169 camas y mil 55 centros de salud con dos mil 122 consultorios. En Guerrero el&nbsp;IMSS-Bienestar cuenta con cuatro mil 172 m&eacute;dicos, de los cuales mil 67 son especialistas. Y el proceso de&nbsp;basificaci&oacute;n&nbsp;no se ha detenido; de hecho, el doctor Alcocer pudo acompa&ntilde;ar en Chilpancingo uno de estos procesos de&nbsp;basificaci&oacute;n, que va a alcanzar a dos mil 272&nbsp;trabajadoras y trabajadores&nbsp;de la salud.</p>
+
+<p>En Veracruz se cuenta con cinco mil 850 m&eacute;dicos, de los cuales dos mil 457 son especialistas. Estamos en esta etapa empezando el proceso de&nbsp;basificaci&oacute;n&nbsp;en Veracruz que va a alcanzar a tres mil 584 trabajadores de la salud. Se pretende hacer este procedimiento en el mes de noviembre.</p>
+
+<p>En el caso de San Luis Potos&iacute;, con 21 hospitales, con una capacidad hospitalaria de 779 camas y 545 centros de salud con mil 60 consultorios, se cuenta con mil 37 m&eacute;dicos, de los cuales 408 son especialistas. San Luis Potos&iacute; iniciar&aacute; tambi&eacute;n su proceso de&nbsp;basificaci&oacute;n&nbsp;para llegar a 674 trabajadores de la salud para basificar en 2023.</p>
+
+<p>En el caso de Zacatecas se cuenta con mil 901 m&eacute;dicos, de los cuales 875 son especialistas. Se ha basificado ya en Zacatecas a 637 trabajadores de la salud.</p>
+
+<p>En Michoac&aacute;n se tiene una capacidad instalada de 36 hospitales y 830 centros de salud con mil 991 consultorios. Actualmente se cuenta con cuatro mil 710 m&eacute;dicos de los cuales dos mil 304 son especialistas. En el proceso de&nbsp;basificaci&oacute;n&nbsp;en Michoac&aacute;n se llegar&aacute; a dos mil 261 trabajadores basificados en 2023.</p>
+
+<p>En Morelos se cuenta con mil 433 m&eacute;dicos, de los cuales 668 son especialistas, y estamos iniciando el proceso de&nbsp;basificaci&oacute;n&nbsp;para 801 trabajadores de la salud de Morelos.</p>
+
+<p>En el caso de Oaxaca se cuenta con 49 hospitales, una capacidad hospitalaria de mil 578 camas y mil 443 centros de salud con dos mil 514 consultorios. Actualmente en Oaxaca se cuenta con cuatro mil 81 m&eacute;dicos, de los cuales mil 682 especialistas. Y hay un c&aacute;lculo de&nbsp;basificaci&oacute;n&nbsp;en Oaxaca para esta etapa que inici&oacute; en noviembre de seis mil 225 trabajadores a basificar.</p>
+
+<p>En el caso de Quintana Roo actualmente se cuenta con mil 509 m&eacute;dicos, de los cuales 631 son especialistas. Y hay 510 trabajadores de la salud a basificar en el mes de noviembre en el estado de Quintana Roo.</p>
+
+<p>En el estado de Hidalgo se cuenta con dos mil 625 m&eacute;dicos, de los cuales 973 con especialistas. Ah&iacute; en Hidalgo se inicia el proceso de&nbsp;basificaci&oacute;n&nbsp;para llegar a mil 724 personas que no tienen hoy certeza laboral, pero que en 2023 tendr&aacute;n una base del IMSS-Bienestar.</p>
+
+<p>En el caso de Tamaulipas tenemos dos mil 229 m&eacute;dicos, de los cuales mil 270 son&nbsp;m&eacute;dicas y m&eacute;dicos&nbsp;especialistas. Hay 966 trabajadores de la salud en el proceso de&nbsp;basificaci&oacute;n&nbsp;para el mes de noviembre.</p>
+
+<p>En la Ciudad de M&eacute;xico tenemos atendiendo los 34 hospitales y los 279 centros de salud a dos mil 764 m&eacute;dicos, de los cuales 979 son especialistas. Ya en la Ciudad de M&eacute;xico se han basificado a seis mil 59 trabajadores de la salud que no contaban con ninguna base en otra instituci&oacute;n.</p>
+
+<p>En el caso de Baja California, uno de los estados m&aacute;s recientes, se cuenta con 10 hospitales, una capacidad hospitalaria de 655 camas y 193 centros de salud con 739 consultorios. Actualmente se cuenta con mil 336 m&eacute;dicos, de los cuales 764 son especialistas. Y tenemos en el proceso de&nbsp;basificaci&oacute;n&nbsp;para 2023 a mil 420&nbsp;trabajadoras y trabajadores&nbsp;de la salud.</p>
+
+<p>En el Estado de M&eacute;xico, un estado muy grande en su capacidad hospitalaria, 77 hospitales, cuatro mil 297 camas y mil 203 centros de salud con cuatro mil 226&nbsp;consultorios,&nbsp;se cuenta con siete mil 70&nbsp;m&eacute;dicos, de los cuales tres mil 542 son m&eacute;dicos especialistas. Estamos iniciando en el Estado de M&eacute;xico con el c&aacute;lculo para las personas a basificar en 2023.</p>
+
+<p>En el caso de Tabasco se cuenta actualmente con dos mil 285 m&eacute;dicos, de los cuales 626 son m&eacute;dicos especialistas. Estamos en el proceso de&nbsp;basificaci&oacute;n&nbsp;de 430 trabajadores de la salud.</p>
+
+<p>En el caso de Chiapas, donde tenemos a 52 hospitales, mil 624 camas y mil 241 centros de salud con dos mil 61 consultorios, se cuenta con cuatro mil 731 m&eacute;dicos, de los cuales mil 578 son especialistas. Ya ha iniciado el proceso de&nbsp;basificaci&oacute;n&nbsp;en Chiapas de cuatro mil 789 trabajadores de la salud que no ten&iacute;an una fuente de financiamiento, es decir, estaban con contratos eventuales precarios.</p>
+
+<p>Y el caso de Puebla, con 61 hospitales, una capacidad hospitalaria de dos mil 311 camas, mil 19 centros de salud que tienen tres mil 32 consultorios, actualmente se cuenta con cuatro mil 250 m&eacute;dicos, de los cuales mil 725 son especialistas. Y se pretende basificar en Puebla a dos mil 712 trabajadores de la salud.</p>
+
+<p>Eso es en cuanto al proceso de avance en personal.&nbsp;</p>
+
+<p>Y tenemos el d&iacute;a de hoy &mdash;si nos pueden poner la siguiente&mdash; el inicio de la credencializaci&oacute;n de IMSS-Bienestar. Se tiene ya con un dise&ntilde;o de la credencial del IMSS-Bienestar en donde se podr&aacute;n tener los datos b&aacute;sicos de las personas beneficiarias de la atenci&oacute;n m&eacute;dica de esta nueva instituci&oacute;n: la CURP, el c&oacute;digo postal para poderlo referir a la unidad en donde estar&aacute; yendo la persona a sus consultas y, lo m&aacute;s importante, el establecimiento de los derechos que cubre el IMSS-Bienestar, es decir, medicamentos gratuitos, consultas, estudios de laboratorio, intervenciones quir&uacute;rgicas, tambi&eacute;n.</p>
+
+<p>Y el d&iacute;a de hoy estamos iniciando con este prerregistro en cinco estados de la rep&uacute;blica: Baja California Sur, Colima, Nayarit, Tlaxcala y Campeche. La idea ―si nos pueden poner el tutorial, que es muy r&aacute;pido― es ingresar a la p&aacute;gina&nbsp;<a href="https://registro.imssbienestar.gob.mx/">https://registro.imssbienestar.gob.mx</a>&nbsp;, ah&iacute; se va a poder consultar toda la informaci&oacute;n sobre los servicios que presta IMSS-Bienestar y a los cuales cualquier persona de nuestro pa&iacute;s tiene derecho, los datos que se requieren para este prerregistro. Y estamos solicitando la carga de una fotograf&iacute;a, de ser posible; de no ser posible, en el lugar en donde se va a llevar a cabo tambi&eacute;n la entrega de las credenciales ah&iacute; tambi&eacute;n se va a poder hacer parte de la fotograf&iacute;a.</p>
+
+<p>El registro requiere dos datos b&aacute;sicos: el c&oacute;digo postal y la CURP. Este c&oacute;digo postal en el momento est&aacute; habilitado para los estados de Baja California Sur, Campeche, Colima, Nayarit y Tlaxcala. Con eso se ingresa al registro, se cargan los datos que se tienen registrados ya con la CURP, se verifican que estos datos sean correctos y, finalmente, se solicita que se llene el lugar de habitaci&oacute;n de la persona, algunos datos que se solicitan por parte de la Secretar&iacute;a de Salud sobre escolaridad y pertenencia a alg&uacute;n grupo &eacute;tnico ind&iacute;gena y el tema de la fotograf&iacute;a, adem&aacute;s de datos m&iacute;nimos de contacto, ya sea un tel&eacute;fono o un correo electr&oacute;nico, uno u otro, si se pueden los dos pues es lo ideal para poder entrar en comunicaci&oacute;n.</p>
+
+<p>A partir de esto se van a hacer 162 m&oacute;dulos en centros de salud y hospitales de estos cinco estados donde iniciamos.</p>
+
+<p>Y, finalmente, se genera una primera imagen, digamos, de la credencial. Con esto se contacta a la persona y se le da la indicaci&oacute;n de cu&aacute;ndo puede ir por esta credencial.&nbsp;</p>
+
+<p>La intenci&oacute;n es que logremos&nbsp;credencializar&nbsp;a m&aacute;s de 50 millones de personas para que tengan con esto conocimiento de c&oacute;mo el Estado mexicano cubre el derecho constitucional a la salud, en particular a la atenci&oacute;n m&eacute;dica, medicamentos gratuitos, consultas, intervenciones quir&uacute;rgicas.</p>
+
+<p>Y con este proceso que inicia de prerregistro vamos a continuar para ir sumando a cada uno de los 23 estado en los pr&oacute;ximos meses y, desde luego, aqu&iacute; en el &lsquo;Pulso de la salud&rsquo; lo estaremos informando.</p>
+
+<p>Muchas gracias, se&ntilde;or presidente.&nbsp;</p>
+
+<p>Es&nbsp;cuanto.&nbsp;</p>
+
+<p>LUIS CRESENCIO SANDOVAL GONZ&Aacute;LEZ, SECRETARIO DE LA DEFENSA NACIONAL:&nbsp;Con su permiso, se&ntilde;or presidente.&nbsp;</p>
+
+<p>Vamos a informar sobre el plan de seguridad para Acapulco. Actualmente las Fuerzas Armadas, Ej&eacute;rcito, Fuerza A&eacute;rea, Armada de M&eacute;xico, as&iacute; como la Guardia Nacional, est&aacute;n concentrados en Acapulco.&nbsp;</p>
+
+<p>Y la Guardia con 10 mil elementos realiza las actividades de seguridad, pero este plan lo que busca es que de manera permanente est&eacute; la Guardia Nacional en el municipio de Acapulco para continuar garantizando esa seguridad, que la paz y la tranquilidad de los ciudadanos contin&uacute;e y que pueda la Guardia, como responsable de la seguridad p&uacute;blica, pues garantizarla a todos los ciudadanos.</p>
+
+<p>Aqu&iacute; vemos la l&aacute;mina. Recibimos la instrucci&oacute;n del se&ntilde;or presidente de que hici&eacute;ramos este plan considerando las colonias con m&aacute;s de mil viviendas y que se determinara el n&uacute;mero de personal que deber&iacute;a de estar ah&iacute; en estas &aacute;reas, 250 elementos por cada &aacute;rea que tuviera o por cada colonia que tuviera m&aacute;s de mil viviendas.</p>
+
+<p>Hicimos el an&aacute;lisis y se ubicaron 234 colonias en Acapulco. De estas 234 colonias, 38 tienen m&aacute;s de mil viviendas, algunas el n&uacute;mero que identificaron fueron cuatro mil viviendas en algunas de las colonias.</p>
+
+<p>Entonces, este n&uacute;mero lo tomamos de base para&nbsp;que&nbsp;en esas colonias de mayor cantidad de viviendas, a partir de ah&iacute; hici&eacute;ramos la delimitaci&oacute;n por sectores de responsabilidad para la Guardia Nacional, de tal manera que tenemos 38 sectores para cubrir todo el municipio.</p>
+
+<p>Aqu&iacute; vemos en n&uacute;meros. Empezamos desde la parte que llega uno de Chilpancingo, ah&iacute; traemos la numeraci&oacute;n hacia Punta Diamante y luego posteriormente hacia Pie de la Cuesta, esa fue la delimitaci&oacute;n.</p>
+
+<p>&iquest;Qu&eacute; tiene el estado de Guerrero actualmente?</p>
+
+<p>En efectivos de la Guardia Nacional tiene cinco mil 120 elementos, tiene 21 compa&ntilde;&iacute;as de la Guardia ya construidas, siete est&aacute;n en proceso de construcci&oacute;n y cuatro est&aacute;n pendientes por construir. El estado, el proyecto de la Guardia era contar con 32 compa&ntilde;&iacute;as y estos cinco mil 120 elementos distribuidos en los diferentes municipios que conforman el estado.</p>
+
+<p>&iquest;Qu&eacute; va a tener Acapulco?</p>
+
+<p>Bien, ya estaban considerados, dentro de estas 32 compa&ntilde;&iacute;as, cinco, de las cuales tres est&aacute;n construidas, dos est&aacute;n pendientes por iniciar esta construcci&oacute;n.</p>
+
+<p>Y tomando en cuenta la delimitaci&oacute;n que hicimos de los 38 sectores, de las 38 &aacute;reas donde hay colonias con m&aacute;s de mil viviendas, aqu&iacute; vamos a establecer instalaciones, 38 instalaciones de dos compa&ntilde;&iacute;as por instalaci&oacute;n, es decir, 250 elementos por cada una de las instalaciones, de tal manera que estas 38 instalaciones tendr&aacute;n 76 compa&ntilde;&iacute;as desplegadas, como est&aacute; aqu&iacute; en el gr&aacute;fico, en cada uno de estos sectores, en estas colonias. Tendr&aacute; Acapulco un total de 81 compa&ntilde;&iacute;as de la Guardia Nacional para&nbsp;generarle la seguridad, sumadas con lo que ya estaba considerado en el estado de Guerrero habr&aacute; 113 compa&ntilde;&iacute;as de Guardia Nacional en Guerrero.</p>
+
+<p>Aqu&iacute; tenemos los efectivos que tiene Guardia Nacional con esas cinco compa&ntilde;&iacute;as, 360 elementos. Las compa&ntilde;&iacute;as que vamos a aumentar para cubrir los 38 sectores ser&aacute;n nueve mil 500 elementos para un total de nueve mil 860 guardias nacionales que estar&aacute;n ah&iacute; en Acapulco cubriendo los 38 sectores. Ya sumados estos nueve mil 800 con los cinco mil 120 que ya tiene el&nbsp;estado asignados&nbsp;tendr&aacute; Guerrero 14 mil 620 elementos, ser&aacute; el estado que mayor cantidad de Guardia Nacional va a tener; Guanajuato, que hab&iacute;a sido el estado con mayor n&uacute;mero, tiene seis mil 670 elementos.</p>
+
+<p>Con este plan, con el cubrimiento que haremos en estos 38 sectores para abarcar todo Acapulco, se va a buscar estos objetivos:</p>
+
+<p>Primero, generar condiciones de seguridad a la poblaci&oacute;n.</p>
+
+<p>Crear condiciones para la reconstrucci&oacute;n.</p>
+
+<p>Y tambi&eacute;n, colaborar en la reactivaci&oacute;n de la econom&iacute;a local y el turismo nacional e internacional, y las actividades laborales.</p>
+
+<p>De hecho, en estos tres objetivos ya se est&aacute; participando con los 10 mil elementos de la Guardia Nacional que ya se encuentran ah&iacute; en Acapulco, est&aacute;n colaborando para alcanzar estos objetivos.</p>
+
+<p>Vamos a necesitar 38 predios, 38 predios en el que ubicaremos, construiremos esas instalaciones de la Guardia Nacional, aproximadamente de una hect&aacute;rea. Buscaremos, a trav&eacute;s de lo que existe, de dependencias federales, estatales o municipales que tengan &aacute;reas o terrenos donde puedan ser construidas estas instalaciones; y tambi&eacute;n la iniciativa privada, nos apoyaremos con ellos a ver si tienen tambi&eacute;n &aacute;reas que podamos emplear y que quieran participar en este gran programa, el plan para darle esta seguridad a Acapulco y cambiar completamente el &aacute;mbito de seguridad para los ciudadanos ah&iacute; en esta &aacute;rea, en este puerto tur&iacute;stico.</p>
+
+<p>Este ser&iacute;a el plan. Repito, ya, de hecho, est&aacute; aplic&aacute;ndose con estos 10 mil elementos, lo que vamos a hacer ese generar, nada m&aacute;s, construir las instalaciones ya permanentes para que se asignen ya al puerto de Acapulco, al municipio de Acapulco, todos estos estos nueve mil 860 elementos para coadyuvar en la seguridad.</p>
+
+<p>Es todo. Muchas gracias. Permiso.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Bueno, pues nada m&aacute;s agregar que se sigue trabajando en Acapulco, ayer ya empezaron a distribuirse enseres en las viviendas, se sigue entregando despensas, comida caliente en comedores de Marina, de Defensa. Y el d&iacute;a de hoy se inicia la entrega de los apoyos a adultos mayores, el programa de la pensi&oacute;n a adultos mayores, a personas con discapacidad, las becas, hoy comienzan; tambi&eacute;n ya se est&aacute;n reabriendo centros comerciales, gasoliner&iacute;as. Se est&aacute; avanzando hacia a la normalidad.&nbsp;</p>
+
+<p>Ma&ntilde;ana tenemos una reuni&oacute;n con empresarios del turismo para avanzar en el programa que tenemos de tener funcionando, cuando menos, 35 hoteles para marzo o abril del a&ntilde;o pr&oacute;ximo. Vamos a tener esta reuni&oacute;n el d&iacute;a de ma&ntilde;ana.</p>
+
+<p>PREGUNTA:&nbsp;&iquest;A qu&eacute; hora es la reuni&oacute;n?</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;&iquest;La reuni&oacute;n de ma&ntilde;ana? A las 10 y media.</p>
+
+<p>PREGUNTA:&nbsp;&iquest;En d&oacute;nde?</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Aqu&iacute;, aqu&iacute;.&nbsp;</p>
+
+<p>Y hoy voy a Acapulco por la tarde, a las 4:00 de la tarde tenemos una reuni&oacute;n para evaluar c&oacute;mo vamos en el plan que se est&aacute; llevando a cabo.</p>
+
+<p>PREGUNTA:&nbsp;&iquest;No va a recorrer colonias?</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;No, no, vamos b&aacute;sicamente a la reuni&oacute;n en la base naval de Acapulco.&nbsp;</p>
+
+<p>Ya hemos estado, creo que,&nbsp;con la visita de hoy, en tres ocasiones en Acapulco. Y lo digo porque los adversarios politiqueros han sostenido que no he ido a Acapulco, y fui desde el primer d&iacute;a y recorr&iacute; todo, y habl&eacute; con la gente y me di cuenta de todos los da&ntilde;os y de lo que hab&iacute;a que hacerse para llevar a cabo el plan de reconstrucci&oacute;n. Y luego regres&eacute; y ahora voy de nuevo. Y estamos avanzando.</p>
+
+<p>Lo que sucede&hellip; Ya ni deber&iacute;a yo de decirlo, pero como no dejan de mentir en los medios de manipulaci&oacute;n, peri&oacute;dicos, estaciones de radio y la televisi&oacute;n, pues tengo que decirle a la gente que est&aacute;n utilizando este lamentable caso de Acapulco con prop&oacute;sitos politiqueros, los que est&aacute;n en campa&ntilde;a, los que quieren regresar por sus fueros, los corruptos, los de la mafia del poder, los conservadores, que no se cansaron de robar, no tienen llenadera y quieren seguir medrando, lucrando, robando, mientras la mayor&iacute;a del pueblo de M&eacute;xico vive en la pobreza. Porque no es que les importe la gente, nunca les ha importado, son muy individualistas, son&nbsp;muy ego&iacute;stas y muy corruptos.</p>
+
+<p>Y el gobierno era un bot&iacute;n; mejor dicho, el presupuesto, que es dinero del pueblo, se quedaba en unas cuantas manos. Y no s&oacute;lo se robaban el presupuesto del pueblo, se robaban los bienes del pueblo y de la naci&oacute;n, se dedicaron a saquear, como nunca en la historia de M&eacute;xico.</p>
+
+<p>Y ahora, como se est&aacute; llevando a cabo una transformaci&oacute;n y es el pueblo el&nbsp;protagonista principal&nbsp;de esta nueva historia, les molesta mucho y utilizan todos los medios para atacarnos. Afortunadamente ya el pueblo despert&oacute;, porque este cambio fue acompa&ntilde;ado de un proceso de toma de conciencia, este cambio es el fruto de una revoluci&oacute;n de las conciencias.&nbsp;</p>
+
+<p>Y siempre he dicho que lo m&aacute;s importante es el cambio de mentalidad del pueblo. Hay veces que se llevan a cabo revoluciones y no cambia la mentalidad del pueblo. Por eso fracasan algunas revoluciones, porque los que llegan traicionan y como no hay un cambio de mentalidad del pueblo se les facilita el mentir, el traicionar al pueblo. Cuando son millones los que toman conciencia es muy dif&iacute;cil que los procesos de transformaci&oacute;n se fracturen, se derrumben, se vengan abajo, y eso es lo m&aacute;s importante que ha habido en M&eacute;xico, es un fen&oacute;meno mundial.</p>
+
+<p>Ya cambi&oacute; la mentalidad del pueblo; entonces, aunque griten en&nbsp;Azteca: &lsquo;&iexcl;Esta noche en&nbsp;Hechos!&rsquo; o digan lo que quieran los analistas sabiondos de&nbsp;Televisa, o los de Loret de Mola, Ciro G&oacute;mez Leyva, Joaqu&iacute;n L&oacute;pez-D&oacute;riga, etc&eacute;tera, etc&eacute;tera, etc&eacute;tera, ya no. S&iacute; llegan a confundir a algunos, pero la verdad siempre se abre paso. Y como dec&iacute;a Lincoln, al pueblo lo pueden enga&ntilde;ar una vez, dos veces, pero no lo van a poder enga&ntilde;ar toda la vida, y ese es el fen&oacute;meno que se est&aacute; dando en M&eacute;xico. Entonces, vamos hacia adelante.&nbsp;</p>
+
+<p>Por lo que preguntas de Acapulco, porque lo que importa es atender a 250 mil familias, eso es lo m&aacute;s importante, que se quedaron sin vivienda, que hay que ayudarlos para construir sus viviendas, no con cr&eacute;ditos, sino con dinero de ellos, con dinero del presupuesto, que se tiene porque ahora no se permite la corrupci&oacute;n.&nbsp;</p>
+
+<p>Siempre he dicho que el principal problema de M&eacute;xico era la corrupci&oacute;n, y no tengo la menor duda. Y hay que combatir la corrupci&oacute;n no s&oacute;lo por razones de &iacute;ndole moral, sino porque es mucho lo que se libera para el desarrollo.&nbsp;</p>
+
+<p>En una circunstancia como esta no tenemos, afortunadamente, falta de presupuesto, tenemos el presupuesto suficiente. Se va a invertir en Acapulco como nunca, sin deuda, lo que le corresponde a la gente.&nbsp;</p>
+
+<p>Imag&iacute;nense que 250 mil viviendas &iquest;cu&aacute;ndo en una tragedia como esta se hab&iacute;a apoyado tanto?, 250 mil familias que van a recibir sus apoyos para mejorar o construir sus viviendas, que ya est&aacute;n recibiendo. No deber&iacute;a yo de decirlo porque lo que da la izquierda no tiene por qu&eacute; saberlo la derecha, pero lo hago, y ofrezco disculpas, porque todos los medios est&aacute;n cooptados, para decirlo finamente.&nbsp;</p>
+
+<p>Entonces, tengo que estar informando para tratar de contrarrestarlos porque es muy desigual la campa&ntilde;a. Pongan la radio y se van a dar cuenta, vean la televisi&oacute;n, vean hoy &mdash;no los he visto, pero me los imagino&mdash; los titulares de los peri&oacute;dicos, las primeras planas: una cosa incre&iacute;ble, tienen un nivel de desesperaci&oacute;n, de ansiedad y de mucho coraje y, algunos, odio.</p>
+
+<p>A ver, &iquest;por qu&eacute; no ponemos donde los elementos de la Defensa est&aacute;n entregando ya? Vamos a entregar 250 mil paquetes de enseres dom&eacute;sticos: 250 mil refrigeradores, 250 mil estufas, 250 mil camas, 250 mil ventiladores. &iquest;C&oacute;mo se le llama en el norte a los ventiladores?</p>
+
+<p>INTERVENCI&Oacute;N:&nbsp;Abanicos.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Abanicos, s&iacute;, y 250 mil vajillas, vajillas o bater&iacute;as, s&iacute;.</p>
+
+<p>A ver, &iquest;por qu&eacute; no pones? Ah&iacute; est&aacute;n ya entregando. Y ofrezco disculpas por mostrarlo, porque la&nbsp;Biblia&nbsp;dice que lo que se da con la izquierda no lo debe de saber la derecha.</p>
+
+<p>PREGUNTA:&nbsp;Nada m&aacute;s un tema: &iquest;hace falta que (inaudible) en la C&aacute;mara de Diputados?</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;No, no hace falta, es que no hay l&iacute;mite, es que el presupuesto es del pueblo,</p>
+
+<p>PREGUNTA:&nbsp;Presidente, tambi&eacute;n Banco Mundial anunci&oacute; que pueda cobrar m&aacute;s de 200 mil millones de d&oacute;lares por da&ntilde;os del hurac&aacute;n. &iquest;Qu&eacute; sabe de eso? El Banco Mundial ya anunci&oacute;.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Puede ser, pero es que esos tambi&eacute;n anuncian y anuncian, son especialistas en emitir comunicados.&nbsp;</p>
+
+<p>Y nosotros lo que queremos es resolver lo m&aacute;s pronto posible, por las necesidades de la gente, no vamos a estar esperando hacer tr&aacute;mite. Ya estamos trabajando, ya son m&aacute;s de 20 mil elementos, s&oacute;lo de las Fuerzas Armadas; ya llevamos como 200 mil visitas a viviendas, 200 mil familias censadas, esto es trabajo casa por casa.&nbsp;</p>
+
+<p>&iquest;Saben cu&aacute;nto tiempo llevamos trabajando para el pueblo?</p>
+
+<p>Desde 1976. &iquest;Cu&aacute;ntos a&ntilde;os son? 47 a&ntilde;os, 45 o 47 a&ntilde;os trabajando para el pueblo, y enfrentando inundaciones y apoyando a damnificados, casi el mismo tiempo que lleva Claudio X. Gonz&aacute;lez trabajando para los pobres.</p>
+
+<p>PREGUNTA:&nbsp;Est&aacute;n denunciando que los precios se dispararon.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Puede ser, pero vamos a entregar tres millones de canastas con 24 productos, incluidos los huevos, 24 productos.</p>
+
+<p>Y ya empezamos tambi&eacute;n. A ver, se los explico de manera sencilla: estamos pensando que hay 250 mil hogares afectados, 250 mil familias afectadas y se est&aacute; contemplando entregar una canasta de 24 productos por semana a cada familia durante tres meses. Hagan la cuenta, y son tres millones de canastas. S&oacute;lo estos tres millones de canastas van a significar una erogaci&oacute;n de dos mil 500 a tres mil millones de pesos.</p>
+
+<p>Hagan la investigaci&oacute;n si en casos parecidos... Cuando afect&oacute; el hurac&aacute;n en Acapulco, el Paulina, &iquest;cu&aacute;nto destinaron? y hubo much&iacute;simos da&ntilde;os. Miren, el pueblo de M&eacute;xico est&aacute; bendito porque un hurac&aacute;n de esa categor&iacute;a era para causar much&iacute;simo m&aacute;s da&ntilde;o que el que se caus&oacute;.</p>
+
+<p>&iquest;Qu&eacute; fue lo que ayud&oacute;, a pesar de la tragedia?</p>
+
+<p>El que fue m&aacute;s viento que lluvia. Si, a diferencia de Paulina, que fue lluvia, aparte de los cientos de m&aacute;s de 300 kil&oacute;metros, nos llueve como entonces, entonces hubi&eacute;semos padecido de derrumbes y eso hubiese significado muchas, muchas p&eacute;rdidas de vidas.</p>
+
+<p>Por eso, tenemos que salir adelante y aceptamos el desaf&iacute;o, el reto. Acabamos de dar a conocer lo de salud, dijimos: vamos a tener el mejor sistema de salud p&uacute;blica del mundo y vamos a cumplir, y vamos a cumplir como hemos cumplido.</p>
+
+<p>&iquest;En qu&eacute; hemos cumplido en esencia?</p>
+
+<p>En reducir la pobreza, como no hab&iacute;a sucedido.</p>
+
+<p>&iquest;En qu&eacute; hemos cumplido, que no cumplieron los gobiernos neoliberales?</p>
+
+<p>En reducir la desigualdad.</p>
+
+<p>&iquest;En qu&eacute; hemos cumplido, que no cumplieron los neoliberales?</p>
+
+<p>En aumentar los salarios, como nunca.</p>
+
+<p>&iquest;En qu&eacute; hemos cumplido?</p>
+
+<p>En garantizar trabajo, empleo, como no se ve&iacute;a en M&eacute;xico en 40 a&ntilde;os.</p>
+
+<p>&iquest;En qu&eacute; hemos cumplido?</p>
+
+<p>En que el peso es la moneda m&aacute;s fuerte con relaci&oacute;n al d&oacute;lar en el mundo.</p>
+
+<p>Hemos cumplido y vamos a seguir cumpliendo en muchas cosas en beneficio de nuestro pueblo. Entonces, eso los trae muy molestos.</p>
+
+<p>&iquest;En qu&eacute; hemos cumplido?</p>
+
+<p>En que le &iacute;bamos a cobrar impuestos a los que no pagaban, que se sent&iacute;an los due&ntilde;os de M&eacute;xico.</p>
+
+<p>&iquest;Qui&eacute;n pagaba impuestos antes?</p>
+
+<p>El pueblo raso, los de arriba no.</p>
+
+<p>Yo no s&eacute; c&oacute;mo se defiende toda esa monstruosa desigualdad y esas injusticias. Y estoy de acuerdo que los due&ntilde;os de los medios de informaci&oacute;n o de manipulaci&oacute;n est&eacute;n en contra, pero que los periodistas, adem&aacute;s de vender su trabajo, vendan tambi&eacute;n su conciencia es un asunto para la reflexi&oacute;n&nbsp;y el an&aacute;lisis, porque hay unos que son m&aacute;s defensores de los potentados que los mismos potentados, son m&aacute;s defensores de los intereses de los potentados que los mismos potentados. Pero tampoco nos vamos a quejar, estamos viviendo tiempos muy interesantes.</p>
+
+<p>&iquest;C&oacute;mo era antes la vida?</p>
+
+<p>As&iacute;, plana, hab&iacute;a un permanente inmovilismo no se mov&iacute;a nada. Ahora no, ahora no nos aburrimos, &iquest;eh?&nbsp;Y&nbsp;todo muy bien, bastante bien. Y con libertades tambi&eacute;n, nadie es perseguido, nadie es censurado, nadie es reprimido, nadie. No es el tiempo de antes. Y as&iacute; vamos a continuar.&nbsp;</p>
+
+<p>Yo ya tambi&eacute;n hasta me acostumbr&eacute;; o sea, si le cambiamos ya no podr&iacute;amos ser objetivos y luego cumplir con nuestra misi&oacute;n de seguir haciendo conciencia. Esto tiene que ver con la pedagog&iacute;a y sobre todo estar pensando en los j&oacute;venes.</p>
+
+<p>Ve&iacute;a yo Acapulco ahorita y me acordaba &mdash;esto,&nbsp;para los j&oacute;venes;&iquest;por qu&eacute; no pones el plano de&nbsp;Acapulco?&mdash;&nbsp;de los negocios de la &eacute;poca de Salinas con Diego Fern&aacute;ndez de Cevallos. Eso no lo saben los j&oacute;venes, de c&oacute;mo se quedaron con los terrenos de Punta Diamante en Acapulco. &iquest;Han escuchado ustedes algo de eso ahora? No, ya tiene tiempo que no se sabe.</p>
+
+<p>No, pero el plano de las colonias. S&iacute;, aqu&iacute; est&aacute;. Es esto. Pero el plano&hellip;</p>
+
+<p>Ve&iacute;a yo el plano, del general &mdash;esto, exactamente&mdash;, viendo c&oacute;mo se fue poblando un &aacute;rea de lo m&aacute;s exclusivo y result&oacute; que en el gobierno de Salinas&hellip; Pero no voy a contar toda la historia, &iquest;eh?,porque ustedes seguramente ya lo saben, pero es para los j&oacute;venes.</p>
+
+<p>Cuando se estaba dando el acuerdo, el contubernio PRI-PAN, estaba surgiendo el&nbsp;Prian. Repetimos, para la historia de los partidos pol&iacute;ticos, en breve:</p>
+
+<p>1919, se cre&oacute; el Partido Comunista.</p>
+
+<p>En 1929, el PNR, que es el Partido Nacional Revolucionario, es el origen del PRI.</p>
+
+<p>1938, Partido de la Revoluci&oacute;n Mexicana, el PNR se transforma en Partido de la Revoluci&oacute;n Mexicana.</p>
+
+<p>1939, en pleno gobierno cardenista, para oponerse a la pol&iacute;tica y patri&oacute;tica del general C&aacute;rdenas surge el PAN en contra del ejido, en contra de la expropiaci&oacute;n petrolera, en contra de la escuela p&uacute;blica.</p>
+
+<p>1946, el Partido de la Revoluci&oacute;n Mexicana se vuelve Partido Revolucionario Institucional, PRI.</p>
+
+<p>Y en 1988 surge el&nbsp;Prian, nada m&aacute;s que no est&aacute; registrado as&iacute;, pero en los hechos as&iacute; funciona.</p>
+
+<p>Bueno, cuando estaba en el 88 por crearse el&nbsp;Prian&hellip; F&iacute;jense cu&aacute;nto tiempo tardaron enga&ntilde;ando de que eran distintos y poniendo a pelear a la gente abajo, porque no les importaba qui&eacute;n ganaba un municipio, incluso un estado;&nbsp;lo que les interesaba era mantener la pol&iacute;tica econ&oacute;mica, esa donde todos los intereses cuentan, menos el inter&eacute;s del pueblo, en eso se pusieron de acuerdo.</p>
+
+<p>Bueno, cuando estaban en ese proceso de fusi&oacute;n se da esto de Punta Diamante y el gobierno de Guerrero le entrega, le facilita la entrega de terrenos a Diego Fern&aacute;ndez de Cevallos.&nbsp;</p>
+
+<p>Posteriormente, entre otros favores, concertaciones, viene la elecci&oacute;n del 94. En el 94 lamentablemente asesinan a Luis Donaldo Colosio y entra de candidato Ernesto Zedillo, y es candidato del PAN Diego Fern&aacute;ndez de Cevallos y por parte de nosotros el ingeniero Cuauht&eacute;moc C&aacute;rdenas. Pero ya Diego ya formaba parte del salinismo como pol&iacute;tica.&nbsp;</p>
+
+<p>En el debate presidencial Diego se le lanza con todo al ingeniero C&aacute;rdenas, &iquest;s&iacute; se acuerdan?&nbsp;Y&nbsp;con el apoyo de los medios Diego se va a las nubes, al grado que sube m&aacute;s, llega a posicionarse mejor que Zedillo, porque todo mundo estaba euf&oacute;rico con Diego.</p>
+
+<p>De repente, desaparece Diego y ya no hace campa&ntilde;a, no se vuelve a saber de &eacute;l, para que Zedillo se mejore y el aparato del r&eacute;gimen lo vuelva a situar por encima de todo.</p>
+
+<p>Viene la elecci&oacute;n.&nbsp;</p>
+
+<p>&iquest;Qui&eacute;n gana?&nbsp;</p>
+
+<p>Zedillo.&nbsp;</p>
+
+<p>&iquest;Qui&eacute;n es el primero en levantarle la mano a Zedillo?</p>
+
+<p>Diego. Bueno, para entonces ya los terrenos de Playa Diamante ya los hab&iacute;an entregado a Diego. Ese era un tiempo de Acapulco, pero de eso no&hellip;&nbsp;</p>
+
+<p>Ahora son defensores de damnificados, pero es pura hipocres&iacute;a, pura hipocres&iacute;a, nada m&aacute;s que el pueblo se cansa de tanta pinche transa.</p>
+
+<p>Bueno, ya, v&aacute;monos.</p>
+
+<p>PREGUNTA:&nbsp;Buenos d&iacute;as, se&ntilde;or presidente.</p>
+
+<p>Alberto Marroqu&iacute;n Espinoza, de&nbsp;JF Informa, desde Canc&uacute;n;&nbsp;Frecuencia CAD.com; y desde el portal en Quer&eacute;taro&nbsp;EsAhoraAm.com.</p>
+
+<p>Se&ntilde;or presidente, all&aacute; en Canc&uacute;n hay una preocupaci&oacute;n de los ciudadanos con la empresa concesionaria de agua potable, de&nbsp;Aguakan, que enfrenta problemas de baja presi&oacute;n y falta de agua, as&iacute; como abusos en el cobro de suministros. Aqu&iacute; nos piden c&oacute;mo podr&iacute;a apoyar el gobierno federal para tratar de solventar o apoyar al gobierno del estado o los municipios para poder dirimir este contrato o esta concesi&oacute;n a hacia&nbsp;Aguakan, porque realmente ya es algo muy, muy constante que est&aacute; ocurriendo all&aacute;. &iquest;Qu&eacute; nos podr&iacute;a decir al respecto, se&ntilde;or presidente?</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Pues est&aacute; incluido en los 20 puntos que se propusieron &mdash;&iquest;est&aacute; la&nbsp;propuesta?&mdash;, lo del agua y el drenaje, y est&aacute; atendi&eacute;ndolo el arquitecto Rom&aacute;n Meyer.</p>
+
+<p>INTERLOCUTOR:&nbsp;Porque es Canc&uacute;n, Playa del Carmen, Isla Mujeres y Puerto Morelos, son los municipios.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Pero t&uacute; hablabas de Acapulco, &iquest;no?</p>
+
+<p>INTERLOCUTOR:&nbsp;No, de Canc&uacute;n, de Canc&uacute;n, Quintana Roo.&nbsp;</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Ah, ah, ah, bien, s&iacute;, s&iacute;, s&iacute;. Son de las concesiones que entregaron. Siempre que vamos para all&aacute; hay esa demanda que no est&aacute;n cumpliendo con el contrato que tienen, y que dan muy mal servicio y que cobran mucho por el agua. Eso lo tiene que ver la gobernadora.</p>
+
+<p>INTERLOCUTOR:&nbsp;Incluso la Profeco tambi&eacute;n tiene que ver parte de eso porque hay muchas denuncias por parte de los usuarios por la mala calidad del agua, que es donde podr&iacute;a intervenir la Profeco para verificar la calidad del agua. Eso ya alguna vez nos lo explic&oacute; el procurador de la Profeco en un tema similar all&aacute;,&nbsp;en Quer&eacute;taro.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Bueno, ya lo expusiste y vamos a ver qu&eacute; podemos hacer.</p>
+
+<p>INTERLOCUTOR:&nbsp;En otros temas que tenemos pendientes, hay un tema que sigue el problema de la ley de educaci&oacute;n superior y los RVOES, que le llaman, que son los permisos que les dan a las universidades para poder dar m&aacute;s materias o m&aacute;s carreras, ampliar sus clases.</p>
+
+<p>Pero se cambi&oacute; la ley en el 2021, ya se lo hab&iacute;a denunciado hace ya tres meses o cuatro meses, que esta nueva ley afect&oacute; mucho a todos ellos porque normalmente la SEP ten&iacute;a un plazo m&aacute;ximo de 90 d&iacute;as para dar las autorizaciones, y en ese periodo las universidades normalmente sab&iacute;an que eran tres meses y empezaban a operar sus nuevas carreras, pero ahora resulta que a ra&iacute;z de la pandemia y todo hubo un atraso por parte de la SEP de dos a&ntilde;os.&nbsp;</p>
+
+<p>Y cuando entr&oacute; en vigor la nueva ley ah&iacute; les afect&oacute; porque les quitaron pr&aacute;cticamente dos a&ntilde;os de estudiantes que ya estaban en la carrera y los&nbsp;dejaron&nbsp;as&iacute; como que a la espera de que dos a&ntilde;os van a perder pr&aacute;cticamente. Y se habla de muchos estudiantes, de muchas universidades, no son casos particulares, son en general, por la nueva ley.</p>
+
+<p>Ya se lo hab&iacute;amos comentado, incluso platicamos con la secretaria de Educaci&oacute;n P&uacute;blica, pero no se ha dado ninguna soluci&oacute;n. Es algo relativamente sencillo que se podr&iacute;a resolver en este caso, a lo mejor por parte de usted, ojal&aacute; se pueda hacer algo al respecto porque s&iacute; es una gran afectaci&oacute;n hacia todas las universidades del pa&iacute;s y en general. Podemos calcular m&aacute;s de 45 mil alumnos que se pueden ver afectados con esta nueva ley. No es que est&eacute; mal la ley, sino nada m&aacute;s es el tiempo que se atras&oacute; la SEP en dar esas autorizaciones, es pr&aacute;cticamente lo que afect&oacute;.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Lo vemos, lo vemos con Leti Ram&iacute;rez de nuevo y te damos una respuesta.</p>
+
+<p>INTERLOCUTOR:&nbsp;Okey.</p>
+
+<p>Y ahorita que comentaba del tema, cuando hubo recursos federales que los diputados federales eran los gestores de estos recursos federales, se dio mucho este tipo de moches con los diputados federales Y vimos un caso en Quer&eacute;taro, cuando el presidente municipal de Quer&eacute;taro, Luis Nava, coment&oacute; que logr&oacute; ejercer el 100 por ciento de los recursos de un programa, que es&nbsp;Fortaseg&nbsp;o&nbsp;Fortamun, cualquiera de los dos, y logr&oacute; construir el C4 m&aacute;s grande del pa&iacute;s porque logr&oacute; utilizar por primera vez el 100 por ciento de los recursos, porque normalmente los diputados se quedaban con un moche del 15 o 30 por ciento. Entonces, ah&iacute; es donde se ve el ejemplo de la buena utilizaci&oacute;n del recurso cuando llega directamente de la federaci&oacute;n hacia los estados y municipios.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;S&iacute;.&nbsp;</p>
+
+<p>Antes &mdash;tambi&eacute;n esto para los j&oacute;venes, no tan j&oacute;venes porque eso acaba de pasar, acaba de suceder&mdash; para que aprobaran el presupuesto a los diputados les daban su&nbsp;moche.</p>
+
+<p>&iquest;C&oacute;mo era esa entrega de recursos?</p>
+
+<p>A trav&eacute;s de un oficio de autorizaci&oacute;n de Hacienda para que cada diputado pudiera disponer de un presupuesto b&aacute;sicamente en tres ramas: deporte, cultura y calles y banquetas. Entonces, le entregaban el oficio por 10, 15, 20 millones de pesos, y ese diputado iba con un presidente municipal, incluso con un delegado, ahora con alcaldes de la Ciudad de M&eacute;xico, y le dec&iacute;a: &lsquo;Tengo esto para que lo uses&rsquo;.</p>
+
+<p>Y hab&iacute;a presidentes municipales y gobernadores que reun&iacute;an 20, 30, 40 oficios porque llegaban al acuerdo con los legisladores. Aunque no se tratara de sus distritos, un diputado de Chiapas pod&iacute;a&nbsp;entregar su oficio de autorizaci&oacute;n para ejercer un presupuesto al gobierno municipal de Tijuana, y era v&aacute;lido.</p>
+
+<p>&iquest;Qu&eacute; recib&iacute;a el diputado?</p>
+
+<p>Pues un&nbsp;moche: si eran 10 millones, un mill&oacute;n; si eran 20 millones, dos millones. Si no, hab&iacute;a otros ya m&aacute;s especializados que dec&iacute;an: &lsquo;No me des los 10 o 20 millones, nada m&aacute;s yo te voy a recomendar la empresa que va a hacer la obra&rsquo;, y ya recomendaba la empresa y esa empresa era la que le entregaba a &eacute;l el&nbsp;moche, el recurso. Eso era lo que se acostumbraba.</p>
+
+<p>Era secretario de Hacienda, entre otros, Carstens, que yo siempre he dicho que era un mago porque de esa forma, como les estoy explicando, sacaba el presupuesto anual por unanimidad.</p>
+
+<p>Ayer se vot&oacute; el presupuesto para el a&ntilde;o pr&oacute;ximo. &iquest;Cu&aacute;ntos votos fueron? 262, contra 220, &iquest;no?</p>
+
+<p>INTERVENCI&Oacute;N:&nbsp;Doscientos diecis&eacute;is&nbsp;</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Contra 216.</p>
+
+<p>Pero imag&iacute;nense que con Carstens tres a&ntilde;os consecutivos todos a favor, ni un voto en contra, ni una abstenci&oacute;n. Claro, el presupuesto se lo repart&iacute;an entre los mismos funcionarios, ya sea del Poder Judicial, del Poder Legislativo o del Ejecutivo. El presupuesto no le llegaba al pueblo, el presupuesto, que es dinero del pueblo, no llegaba al pueblo; al pueblo le entregaban migajas cuando necesitaban los votos: pollos, patos, chivos, borregos, puercos, cochinos, marranos, s&oacute;lo entonces volteaban a ver a la gente.</p>
+
+<p>Eso es lo que los tiene molestos, dicen: &iexcl;C&oacute;mo, si no nos toca nada a nosotros!&nbsp;</p>
+
+<p>Y lo que t&uacute; dices, lo de los fondos a los municipios, lo mismo. Si el presidente municipal es honrado, los fondos los utilizan bien para servicios p&uacute;blicos, para introducir drenaje, para el abasto del agua, para pavimentar las calles, para el alumbrado p&uacute;blico; si no, una remodelaci&oacute;n de la plaza, s&iacute;, porque destruyen y vuelven a construir.</p>
+
+<p>Es como lo de cuando los&nbsp;moches&nbsp;para las calles y las banquetas:estaban bien las banquetas y las destru&iacute;an y las volv&iacute;an a construir porque necesitaban justificar la corrupci&oacute;n. Esto que pasa en las plazas de los pueblos, cada presidente municipal que llega &mdash;antes, qui&eacute;n sabe c&oacute;mo est&eacute; ahora&mdash; lo que hacen es que destruyen la plaza y la vuelven a hacer de nuevo, es lo &uacute;nico, y todo lo dem&aacute;s son sueldos elevad&iacute;simos.</p>
+
+<p>El caso de Acapulco;&nbsp;les comentaba yo que se inscrib&iacute;an m&aacute;s candidatos para ser regidores que para ser presidentes municipales &mdash;y me extra&ntilde;aba mucho en aquel entonces&mdash;,&nbsp;porque resulta que el regidor ganaba lo mismo o m&aacute;s que el presidente, 150, hasta 200 mil pesos mensuales. Adem&aacute;s, recib&iacute;a un presupuesto especial para distribuir materiales de construcci&oacute;n,&nbsp;y cada vez que ten&iacute;a que firmar para autorizar la cuenta p&uacute;blica&hellip;&nbsp;otro&nbsp;moche.</p>
+
+<p>Eso es lo que prevalec&iacute;a y eso es lo que ya se debe de terminar, y es lo que origina pues mucho coraje en quienes estaban acostumbrados a la corrupci&oacute;n.&nbsp;</p>
+
+<p>&iquest;Ya presentaron lo de la votaci&oacute;n?</p>
+
+<p>JES&Uacute;S RAM&Iacute;REZ CUEVAS, COORDINADOR GENERAL DE COMUNICACI&Oacute;N SOCIAL Y VOCERO DE PRESIDENCIA:&nbsp;S&iacute;, los 262&nbsp;a favor, los 216 en contra, una abstenci&oacute;n.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Una abstenci&oacute;n, 216 en contra, 262 a favor.</p>
+
+<p>Pues ya est&aacute; en el presupuesto. Bueno, es en lo general, &iquest;no?Pero ya es el &uacute;ltimo presupuesto que me toca presentar y es un presupuesto que nos permite terminar todas las obras, aumentar los apoyos al pueblo, sobre todo a los pobres.</p>
+
+<p>Va a aumentar la pensi&oacute;n a los adultos mayores a seis mil pesos bimestrales, tres mil mensual, hasta diciembre va a ser cuatro mil 800 y ya a partir de enero seis mil. Y aumento en becas, aumento en pensiones para discapacidad, aumento en salud, en educaci&oacute;n, en seguridad. Va creciendo el apoyo al pueblo.</p>
+
+<p>INTERLOCUTOR:&nbsp;Tambi&eacute;n exist&iacute;an consultor&iacute;as, presidente, que bajaban recursos de ISR y dos por ciento sobre n&oacute;mina para universidades y municipios. Se daba mucho tambi&eacute;n eso, no s&eacute; si todav&iacute;a exista o por ah&iacute; existe todav&iacute;a alguna bolsa.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;No, ya no, ya no. No, es que todo eso era un tinglado, un andamiaje para obtener presupuesto. Hab&iacute;a unos gestores que dec&iacute;an, me acuerdo: &lsquo;Yo te ayudo &mdash;la dec&iacute;an a las autoridades&mdash; a bajar presupuesto&rsquo;. Usaban la palabra esa, &lsquo;a bajar presupuesto&rsquo;.</p>
+
+<p>Y en ese tianguis, cuando repart&iacute;an, cuando se repart&iacute;an ellos el presupuesto, de cada estado en la C&aacute;mara de Diputados llevaban un tianguis de comida para los diputados, era una fiesta y ah&iacute; se llevaba a cabo el intercambio de estas autorizaciones.</p>
+
+<p>INTERLOCUTOR:&nbsp;De hecho, estos recursos lo gestionaban directamente con el SAT porque eran ISR y dos por ciento sobre n&oacute;mina que les promet&iacute;an a las universidades que ese dinero ya estaba para ellos, pero la &uacute;nica forma de que ellos lo pod&iacute;an gestionar era por medio de esas consultor&iacute;as, porque a veces alg&uacute;n rector, rectora, quer&iacute;a ir directo al SAT y le dec&iacute;an que no, que ten&iacute;a que ser por medio de una consultor&iacute;a para recuperar ese recurso.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Si, y eso exist&iacute;a en todo. Por ejemplo, si alguien necesitaba&hellip; &iquest;C&oacute;mo son?Las&nbsp;MIAs&nbsp;famosas.</p>
+
+<p>JES&Uacute;S RAM&Iacute;REZ CUEVAS:&nbsp;Manifiesto de Impacto Ambiental.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Manifiesto de Impacto Ambiental, esos Manifiestos de Impacto Ambiental, los mismos funcionarios de la Secretar&iacute;a del Medio Ambiente ten&iacute;an despachos y entonces se necesitaba una MIA, una Manifestaci&oacute;n de Impacto Ambiental, le dec&iacute;an: &lsquo;Mira, necesitas traer esto, esto, esto; pero no te compliques mucho la vida, se puede arreglar, porque hay gente especializada que te puede ayudar, hay un despacho&rsquo;. Y entonces ya lo recomendaban con el despacho y ya ven&iacute;a con la MIA y autorizado. Y as&iacute; en todo, los permisos de agua.&nbsp;</p>
+
+<p>Y terminaban estos funcionarios trabajando&hellip; Lo que hizo Zedillo, pues, que entrega los ferrocarriles a empresas extranjeras y se va a trabajar como asesor de una empresa extranjera a la que le entreg&oacute; Ferrocarriles Nacionales. O lo que hizo Calder&oacute;n, que entreg&oacute; permisos a Iberdrola y termin&oacute; trabajando de empleado de Iberdrola, como consejero de Iberdrola.&nbsp;</p>
+
+<p>Y digo los dos casos porque siempre tambi&eacute;n hab&iacute;a la mala costumbre de echarle la culpa al de abajo, &iquest;no? No, no, no, si esto se daba de arriba para abajo, entonces es&nbsp;coyotaje.&nbsp;</p>
+
+<p>INTERLOCUTOR:&nbsp;Ya para cerrar, presidente, &iquest;cu&aacute;ndo nos visita a Quer&eacute;taro? Qued&oacute; que nos iba a visitar, sobre todo a la sierra queretana, a Jalpan.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Tengo pendiente eso. Habl&eacute; con el gobernador, voy a procurar ir a Quer&eacute;taro, llevo muy buena relaci&oacute;n con el gobernador de Quer&eacute;taro,&nbsp;estamos trabajando de manera coordinada, y por lo general con todos los gobernadores hay buena relaci&oacute;n.</p>
+
+<p>PREGUNTA:&nbsp;Gracias. Buenos d&iacute;as, se&ntilde;or presidente.&nbsp;</p>
+
+<p>Arturo Pav&oacute;n, de&nbsp;El Chapucero.&nbsp;</p>
+
+<p>Bueno, al parecer este sexenio se distingue por luchar contra la contaminaci&oacute;n de las aguas de muchos r&iacute;os y lagos de nuestro pa&iacute;s. En esta ocasi&oacute;n le traigo un caso del r&iacute;o Cupatitzio, all&aacute; en Michoac&aacute;n, que es el r&iacute;o que le dio origen a la ciudad de Uruapan.&nbsp;</p>
+
+<p>Y lamentablemente, debido a sexenios que se permiti&oacute; much&iacute;simo la extracci&oacute;n de empresas, el robo de terrenos&hellip; Las&nbsp;riberas&nbsp;de los r&iacute;os son propiedad de la naci&oacute;n, son federales, pero se ha permitido, al amparo de muchos gobiernos anteriores, pues la instalaci&oacute;n de empresas, de casas, de industria, todo tipo de industria, sobre todo ahorita el problema mayor es el aguacate&nbsp;hassy algunos empresas trasnacionales de frutos rojos que han empezado a explotar de forma desmedida tomando de los mantos fre&aacute;ticos tomas clandestinas y, de igual manera, regresando los desechos a este r&iacute;o, r&iacute;o que tur&iacute;sticamente era muy atractivo, sobre todo la cascada de&nbsp;Tzar&aacute;u&hellip; de&nbsp;Tzar&aacute;huaca. No, es cierto, perd&oacute;n.&nbsp;</p>
+
+<p>INTERVENCI&Oacute;N:&nbsp;Tzar&aacute;racua.</p>
+
+<p>INTERLOCUTOR:&nbsp;Tzar&aacute;racua, eso.&nbsp;</p>
+
+<p>Bueno, el chiste est&aacute; en que ahora agrupaciones,&nbsp;la universidad de&nbsp;Michoac&aacute;n ha hecho estudios, algunas agrupaciones tambi&eacute;n de cuestiones ambientales y necesitan su apoyo tambi&eacute;n para poner orden en este r&iacute;o que lamentablemente va ya para un m&iacute;nimo, m&aacute;s bien ya tiene un 50 por ciento de caudal, este r&iacute;o ha disminuido much&iacute;simo. Entonces, piden su apoyo all&aacute; en Uruapan.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;S&iacute;, se lo encargamos a Mar&iacute;a Luisa Albores para que nos presente. Seguramente ellos ya tienen un avance de esto, ya deben de tener estudios preliminares o informes, y vemos qu&eacute; se hace; tambi&eacute;n con el gobernador.</p>
+
+<p>INTERLOCUTOR:&nbsp;S&iacute;, gracias, presidente, gracias.</p>
+
+<p>Como segunda pregunta o planteamiento, hay un actor promedio que se hizo muy rico y que quiso contender all&aacute; en Quintana Roo por la gubernatura, Palazuelos, un tal Palazuelos, &iquest;no?&nbsp;Y, bueno, fue bajado porque se qued&oacute; al descubierto su pasado un poquito complicado y muy turbio, efectivamente, y fue bajado de MC, no lo quisieron ah&iacute;, entonces, para que fuera o contendiera para la gubernatura.</p>
+
+<p>Ahora lo vuelven a recibir para contender por una senadur&iacute;a. Este tipo de&nbsp;chapulineo, bueno, ha sido general en nuestro pa&iacute;s, en nuestra pol&iacute;tica. &iquest;Qu&eacute; opina usted de esta situaci&oacute;n?</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Pues no opino porque hablamos &mdash;y la verdad, estoy convencido&mdash; de que la gente est&aacute; muy consciente. Si acaso lo que tenemos que procurar es informar m&aacute;s, que se haga realidad el derecho a la informaci&oacute;n, porque hay muchas cosas que la gente desconoce y que los medios ocultan, much&iacute;simas cosas.</p>
+
+<p>Entonces, ahora que hablamos de&nbsp;playa Punta Diamante, &iquest;ustedes creen que la mayor&iacute;a de la gente sabe? El 90 por ciento de los mexicanos que nos est&aacute; escuchando &mdash;no los que nos est&aacute;n escuchando, el 90 por ciento de todos los mexicanos y de los que nos est&aacute;n escuchando lo mismo&mdash;, o nos est&aacute;n viendo; a lo mejor un 20 por ciento sabe, pero no tiene muy claro qu&eacute; fue lo que pas&oacute;. As&iacute; controlaban.</p>
+
+<p>Entonces, si se da informaci&oacute;n, si la vida p&uacute;blica se hace cada vez m&aacute;s p&uacute;blica, no le hace que se caiga en excesos, pero que se informe, ya con eso la gente sabe qui&eacute;n es qui&eacute;n. El problema es que de repente surge una estrella y no se sabe nada o s&oacute;lo lo que les conviene.</p>
+
+<p>Siempre uso yo el s&iacute;mil de c&oacute;mo los publicistas meten al mercado productos chatarra con publicidad, hacen lo mismo los publicistas con&nbsp;seudopol&iacute;ticos, eso se puso de moda en los &uacute;ltimos tiempos; pero ya la gente est&aacute; muy despierta.</p>
+
+<p>Si acaso es &mdash;y es una recomendaci&oacute;n para quienes ayudan mucho en las redes sociales&mdash; dar m&aacute;s informaci&oacute;n, informar, informar, informar. No orientar, no concientizar, s&oacute;lo informar, con eso, porque ya la gente ya est&aacute; orientada, est&aacute; concientizada y politizada. Es nada m&aacute;s: &lsquo;inf&oacute;rmame, porque me ocultaron mucho&rsquo;.</p>
+
+<p>&iquest;Ustedes creen que la gente sab&iacute;a que los de arriba no pagaban impuestos? No lo sab&iacute;an, no lo sab&iacute;an.&nbsp;Y as&iacute; much&iacute;simas otras cosas.</p>
+
+<p>&iquest;Sab&iacute;an que Genaro Garc&iacute;a Luna se hab&iacute;a formado en el&nbsp;Cisencuando Salinas?</p>
+
+<p>No.</p>
+
+<p>&iquest;Sab&iacute;an los mexicanos que hab&iacute;an comprado un avi&oacute;n presidencial de seis, siete mil millones de pesos? &iquest;Que el avi&oacute;n ten&iacute;a salas de juntas y rec&aacute;mara, y que med&iacute;a 25 metros de ancho por 70 de largo y que le hab&iacute;an hecho un hangar para guardarlo, que hab&iacute;a costado mil millones de pesos s&oacute;lo el hangar? &iquest;Lo sab&iacute;a la gente?</p>
+
+<p>Much&iacute;simas cosas se desconoc&iacute;an porque no se informaba. Entonces, ahora es distinto, pero pues nada m&aacute;s es las redes, la ma&ntilde;anera, algunos medios, muy pocos, se cuentan con los dedos de una mano; todo lo dem&aacute;s se ocultaba.&nbsp;</p>
+
+<p>Entonces, es informar, a ver qu&eacute; sabes, y ya con eso la gente toma conciencia.</p>
+
+<p>INTERLOCUTOR:&nbsp;Y ya, por &uacute;ltimo, se&ntilde;or presidente, dentro de los sondeos que hemos hecho a trav&eacute;s del medio en diferentes lugares, gente de a pie en la Ciudad de M&eacute;xico, hemos resumido una, se puede decir una solicitud para que usted dentro de la pr&oacute;xima iniciativa que presente para modificar al Poder Judicial&hellip; Han dicho que por qu&eacute; no &mdash;digo, si es que se puede meter&mdash; por qu&eacute; no a estos jueces y juzgados que han dejado libres a todas luces a delincuentes, por qu&eacute; no se les separa de inmediato una vez que se les comprueba que lo hicieron de manera dolosa, se les separa de inmediato de sus cargos hasta que se compruebe o que se investigue. Esa ser&iacute;a la&hellip;</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Es que no funciona el Consejo de la Judicatura, est&aacute;n ah&iacute; de floreros, porque eso es lo que deber&iacute;an ellos llevar a cabo.</p>
+
+<p>Hay muchos casos de jueces que deber&iacute;an de ser sancionados, pero no hay ning&uacute;n juez en la c&aacute;rcel, mucho menos un magistrado, ya no hablemos de ministros. Nada m&aacute;s imag&iacute;nense la sanci&oacute;n que deber&iacute;a de haberse aplicado desde la&nbsp;judicatura al ministro que mantuvo 10 meses guardado el expediente del pago de impuestos de Azteca de 26 mil millones, 10 meses. &iquest;Y d&oacute;nde est&aacute; la justicia pronta y expedita?</p>
+
+<p>Porque me van a salir de manera leguleya con que no hay t&eacute;rmino, es decir, no hay tiempo, ellos pueden llevarse el tiempo que quieran. Que, por cierto, despu&eacute;s de 10 meses se vot&oacute; el asunto, se regresa al juzgado y no &mdash;son cuatro juzgados&mdash; y no vaya a suceder que se lleven otros 10 meses, porque ya tienen que resolver en un sentido o en otro, ya tomar la decisi&oacute;n.</p>
+
+<p>Y no es un asunto personal, no es censura, nada, es que hay una deuda de 26 mil millones. La autoridad competente, en este caso el Poder Judicial, tiene que resolver si es justo o no.</p>
+
+<p>Pero esto viene desde la &eacute;poca de Fox. &iquest;Cu&aacute;ntos a&ntilde;os?, ay&uacute;denme. &iquest;Cu&aacute;ntos sexenios? Ya con el de nosotros, cuatro, &iquest;no? Entonces, &iquest;qu&eacute; hace el Consejo de la Judicatura? &iquest;Para qu&eacute; est&aacute;n ah&iacute;?</p>
+
+<p>Y no quise tratar el caso del juez,&nbsp;por lo mismo;&nbsp;quise tratar el caso del ministro, de los de arriba, porque son los que dan el mal ejemplo.&nbsp;Pero&nbsp;&iquest;ustedes creen que es normal que un caso de estos se lleve tanto tiempo?&nbsp;</p>
+
+<p>Y que conste, no es un asunto personal, para nada, nada m&aacute;s que tienen que resolver los ministros. Y ya es definitivo, ser&iacute;a como ellos mismos dicen: cosa juzgada.</p>
+
+<p>Y no voy a quitar el dedo del rengl&oacute;n, voy a estar recordando, ah&iacute; me van a ayudar ustedes a que llevemos la cuenta cu&aacute;nto tiempo sin resolver, porque estamos hablando de 26 mil millones de pesos.</p>
+
+<p>Entonces, si la empresa tiene raz&oacute;n, que los magistrados lo resuelvan. Si son cuatro juzgados cada uno, son tres magistrados, son 12 los que van a resolver sobre los 26 mil millones. Porque la corte regres&oacute;, ya para que decidan sobre este asunto y a uno le toc&oacute; creo que 18 mil millones, a otro dos mil, a otro dos mil, a otro dos mil; entonces, a ver, ah&iacute; es donde quiero saber c&oacute;mo andamos. Y no es un asunto personal, no, no, es que ya no hay, ya no, ya es la &uacute;ltima instancia.</p>
+
+<p>Y no es conmigo, es con la ley, ya ven c&oacute;mo siempre invocan el Estado de derecho, est&aacute; clar&iacute;simo. Ya es cuesti&oacute;n de tiempo, porque no se vayan a llevar 10 meses, porque ya lo tienen adem&aacute;s estudiado, ya ha pasado para llegar a donde est&aacute; durante tantos a&ntilde;os, ya pas&oacute; por much&iacute;simas instancias y ya no se puede de manera descarada aplicar t&aacute;cticas dilatorias, lo que hizo el ministro, de agarrar el expediente y guardarlo.</p>
+
+<p>Est&aacute; interesante &iquest;verdad?&nbsp;No nos aburrimos.</p>
+
+<p>PREGUNTA:&nbsp;Buenos d&iacute;as, se&ntilde;or presidente. Secretarios, maestro Robledo, comandante, buenos d&iacute;as a todas y a todos.</p>
+
+<p>Diego El&iacute;as Cedillo, del&nbsp;Sistema Informativo de Tabasco,&nbsp;Diario Presente.</p>
+
+<p>Se&ntilde;or presidente, con base en el encuentro que va a sostener usted del 14 al 16 de este mes en San Francisco, preguntarle, en el marco del combate al fentanilo, si tendr&iacute;a planeado reunirse con el presidente de la Rep&uacute;blica Popular de China, Xi&hellip; Bueno, con el presidente de China puntualmente, para no cometer alg&uacute;n error.</p>
+
+<p>Y aprovechando ese tema, presidente, en el marco internacional, preguntarle sobre la postura de M&eacute;xico, tambi&eacute;n la postura de M&eacute;xico y la suya, si me lo permite, sobre el conflicto b&eacute;lico que existe en Gaza. Recientemente ha habido muchas marchas.&nbsp;</p>
+
+<p>Entonces, presidente, entiendo que usted siempre basa su respuesta con base en la doctrina Estrada; sin embargo, en su momento cuando se dio este conflicto b&eacute;lico nuevamente entre Rusia y Ucrania, usted propuso que hubiera un consejo, que hubiera una mediaci&oacute;n con tres personas puntualmente: con el papa Francisco, con el secretario general de la ONU y con el presidente de la India.</p>
+
+<p>Presidente, entonces, preguntarle: &iquest;estar&iacute;a usted de acuerdo en que el Gobierno de M&eacute;xico haga una propuesta para la paz en Gaza y tambi&eacute;n al cese al fuego bilateral?</p>
+
+<p>Gracias.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;&iquest;Cu&aacute;l fue la primera?</p>
+
+<p>INTERLOCUTOR:&nbsp;Lo del presidente de China, el encuentro, &iquest;se van a reunir en San Francisco?</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;No hay todav&iacute;a una agenda definida. Yo voy a estar 16 y 17. Voy a llegar a San Francisco el 15 por la noche, estamos el 16 y me regreso al mediod&iacute;a del 17.</p>
+
+<p>La secretaria de Relaciones Exteriores, que es una extraordinaria diplom&aacute;tica, que estoy muy contento con su trabajo, aprovecho para decirlo, Alicia B&aacute;rcena, ella est&aacute; viendo lo de la agenda.</p>
+
+<p>Yo lo que pienso es que, en vez de regresar a la guerra fr&iacute;a, a las tensiones y en vez de estar destinando tanto presupuesto a lo b&eacute;lico, al armamentismo, las potencias, las grandes potencias, en este caso China y Estados Unidos, deber&iacute;an de destinar, ponerse de acuerdo y destinar fondos para apoyar a un mill&oacute;n&hellip; No, a mil millones de seres humanos que sobreviven con menos de un d&oacute;lar diario en el mundo. Eso es lo que deber&iacute;an de hacer, ponerse de acuerdo para eso y declarar una moratoria b&eacute;lica, un gran acuerdo por la paz.</p>
+
+<p>Lo otro pues es s&oacute;lo diplomacia. Que desde luego hay que tener amistad con todos los pueblos, no pelearnos, pero la situaci&oacute;n del mundo amerita el que,&nbsp;en este caso,&nbsp;China y Estados Unidos encabecen una iniciativa en contra de la pobreza de los pueblos, destinando fondos suficientes y con una reducci&oacute;n significativa al gasto armamentista; que los dos, ahora que van a estar juntos,&nbsp;nos propongan eso.</p>
+
+<p>Acerca del conflicto de Israel y del grupo Ham&aacute;s y todo lo que tiene que ver con los palestinos, es muy triste todo lo que est&aacute; sucediendo, muy doloroso, mucho, mucho muy inhumano, es el predominio de lo irracional. Y desde luego que yo estoy por la paz y porque cese el fuego.</p>
+
+<p>&iquest;Qu&eacute; culpa tienen los ciudadanos inocentes de padecer de esta guerra? Una cosa son los gobiernos o los l&iacute;deres de los movimientos y otra cosa son los pueblos. Siempre he sostenido lo mismo, que se debe de hacer a un lado lo pol&iacute;tico, lo ideol&oacute;gico y se debe de pensar en la gente, y eso es lo que considero debe hacerse en el caso de esta lamentable guerra o como se le quiera llamar. Pero van m&aacute;s de 10 mil muertos, muchos ni&ntilde;os. &iquest;Qu&eacute;, no podemos ponernos de acuerdo?</p>
+
+<p>&iquest;Para qu&eacute; es la pol&iacute;tica?</p>
+
+<p>Entre otras cosas, para evitar la guerra.</p>
+
+<p>Al principio que me ped&iacute;an que yo tomara partido; dije:&nbsp;neutralidad, nosotros no nos metemos en eso, nosotros queremos la paz. No se entendi&oacute;.&nbsp;</p>
+
+<p>Porque si nosotros conden&aacute;bamos, de inmediato se estaba tomando una postura, sab&iacute;amos que iba a venir una represalia, como lamentablemente sucedi&oacute;, y por eso dijimos: Como pa&iacute;s no participamos, optamos por el apego a los principios constitucionales de soluci&oacute;n pac&iacute;fica en las controversias, y esa es nuestra postura.</p>
+
+<p>Creo que se tard&oacute; la ONU porque desde los primeros momentos debi&oacute; llamar a todos los pa&iacute;ses miembros. Lo propuse aqu&iacute; un lunes, la confrontaci&oacute;n comenz&oacute; un s&aacute;bado, hace como un mes, y en una reuni&oacute;n ma&ntilde;anera, aqu&iacute;, fij&eacute; mi postura y habl&eacute; de la ONU.</p>
+
+<p>Pero no dimensionaron lo que pod&iacute;a pasar y empezaron con las condenas y las condenas y las condenas, cuando se ten&iacute;a que haber buscado el acuerdo desde el principio.</p>
+
+<p>Y nosotros, tambi&eacute;n quiero decirlo con mucha claridad, no vamos a romper relaciones con Israel ni vamos m&aacute;s all&aacute; de&hellip; No, no vamos a tener una postura m&aacute;s all&aacute; de buscar la paz, de buscar la paz,&nbsp;de evitar que siga la guerra. Y, adem&aacute;s, que se extienda porque es muy riesgoso, muy doloroso lo que est&aacute; sucediendo, y produce hasta impotencia.&nbsp;</p>
+
+<p>Ojal&aacute; y Naciones Unidas haga algo; Estados Unidos, que tiene muy buena relaci&oacute;n con Israel, que intervenga para garantizar una tregua, para proteger a civiles, para evitar masacres; pero todos deber&iacute;amos de ayudar a que se d&eacute; la paz, sin confrontarnos, porque entonces pues caemos en lo mismo.</p>
+
+<p>Al final es como la ley del tali&oacute;n, es diente por diente, ojo por ojo. Y ya lo he dicho muchas veces, se lo copi&eacute; a mi maestro Le&oacute;n Tolst&oacute;i, que dec&iacute;a que, si se aplicaba eso, que est&aacute; en el&nbsp;Antiguo Testamento, nos &iacute;bamos a quedar tuertos o chimuelos todos. Eso no, vamos a hacer todo lo posible para conseguir la paz, esa es mi postura.</p>
+
+<p>INTERLOCUTOR:&nbsp;Gracias, se&ntilde;or presidente.</p>
+
+<p>Si me permite, quiero retomar una frase que hace mucho tiempo me coment&oacute; un paisano suyo, paisano nuestro, don Enrique Gonz&aacute;lez Pedrero, &eacute;l refer&iacute;a que M&eacute;xico son muchos&nbsp;M&eacute;xicos, son una amalgama, un mosaico multicultural.</p>
+
+<p>En este tenor, presidente, una&nbsp;de esas piezas elementales del rompecabezas es la m&aacute;xima casa de estudios, que es la UNAM. Estamos a horas de conocer qui&eacute;n va a ocupar la rector&iacute;a de la UNAM. Dado la decisi&oacute;n de la Junta de Gobierno, tengo entendido que tienen como fecha l&iacute;mite hasta el 16 para dar a conocer el nombre de la persona que suceder&iacute;a a Enrique&nbsp;Graue. Hace ocho y cuatro a&ntilde;os, a esta fecha ya se ten&iacute;a conocimiento de qui&eacute;n ocupar&iacute;a la rector&iacute;a; en su momento fue una elecci&oacute;n y en su momento una reelecci&oacute;n.</p>
+
+<p>Bajo esta premisa, se&ntilde;or presidente, preguntarle: &iquest;qu&eacute; mensaje le dar&iacute;a a quien ocupe ese lugar en la m&aacute;xima casa de estudios?</p>
+
+<p>Y tambi&eacute;n, entiendo que usted respeta mucho la autonom&iacute;a de la UNAM, pero si&nbsp;estar&iacute;a&nbsp;dispuesto el presidente de la Rep&uacute;blica a sostener un encuentro con el nuevo rector de la UNAM en el marco del di&aacute;logo institucional.</p>
+
+<p>Gracias, presidente.&nbsp;</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Pues, la verdad, no conoc&iacute;a yo los tiempos, no s&eacute; cu&aacute;ndo van a resolver. Jes&uacute;s, &iquest;cu&aacute;ndo resuelven lo de la UNAM?</p>
+
+<p>JES&Uacute;S RAM&Iacute;REZ CUEVAS:&nbsp;En estos d&iacute;as, tiene que ser en estas semanas.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;&iquest;Es como lo mencionas t&uacute;, el 16 el l&iacute;mite?</p>
+
+<p>INTERLOCUTOR:&nbsp;S&iacute;.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Pues ojal&aacute; resuelvan bien, eso es lo que yo deseo. Nosotros no intervenimos, somos respetuosos de la autonom&iacute;a.&nbsp;</p>
+
+<p>Y tambi&eacute;n, ojal&aacute; se consolide la UNAM, nuestra&nbsp;alma mater, deseamos eso de todo coraz&oacute;n. Es una gran universidad y merece un buen destino. Ojal&aacute; se resuelva bien.</p>
+
+<p>Y no voy a opinar sobre lo que ha venido sucediendo, precisamente para ser respetuoso, pero yo creo que ya todos los universitarios saben que es muy importante, mucho muy importante, fortalecer a la UNAM. Es una gran universidad, una importante universidad.</p>
+
+<p>INTERLOCUTOR:&nbsp;Gracias, presidente.</p>
+
+<p>JES&Uacute;S RAM&Iacute;REZ CUEVAS:&nbsp;El 17 de noviembre ya hay nuevo rector.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Ah, bueno, ya es en esta semana.</p>
+
+<p>JES&Uacute;S RAM&Iacute;REZ CUEVAS:&nbsp;A m&aacute;s tardar la pr&oacute;xima.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;La pr&oacute;xima.</p>
+
+<p>INTERLOCUTOR:&nbsp;Gracias, presidente.&nbsp;</p>
+
+<p>Y ya nada m&aacute;s para concluir, el 20 de noviembre se va a dar el aniversario de la Revoluci&oacute;n. En este marco siempre hay ascensos dentro del Ej&eacute;rcito, dentro de las Fuerzas Armadas. Preguntarle si usted o el gobierno, la instituci&oacute;n como tal, ascender&iacute;a al general Gustavo Vallejo a general de divisi&oacute;n en el marco del aniversario de la Revoluci&oacute;n.</p>
+
+<p>Gracias.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Mire, ese es un procedimiento de la Secretar&iacute;a de la Defensa. &iquest;Por qu&eacute; no lo explica?&nbsp;Porque no se conoce c&oacute;mo es el procedimiento de ascensos.</p>
+
+<p>LUIS CRESENCIO SANDOVAL GONZ&Aacute;LEZ:&nbsp;S&iacute;, se&ntilde;or. Con su permiso.</p>
+
+<p>Bien, la Secretar&iacute;a de la Defensa Nacional para la obtenci&oacute;n de los ascensos de oficiales, de jefes, de generales, tiene dos procedimientos:</p>
+
+<p>Uno, que es desde subteniente hasta alcanzar el grado de teniente coronel, que es por ex&aacute;menes, ah&iacute; se realizan ex&aacute;menes profesionales sobre lo que debe de tener como capacidades el personal militar, ex&aacute;menes tambi&eacute;n de salud, examen sicol&oacute;gico. Se hace una revisi&oacute;n completa, pero son ex&aacute;menes que ellos presentan.</p>
+
+<p>Para obtener los grados desde coronel hasta general de divisi&oacute;n hay un grupo de generales, un comit&eacute; de generales que preside el subsecretario de la Defensa Nacional, en donde se analiza la carrera de todos los militares que participan en este tipo de promoci&oacute;n, le llamamos promoci&oacute;n superior. Ah&iacute; se ve lo que ha desarrollado en todos los grados, cu&aacute;l ha sido su desempe&ntilde;o profesional, cu&aacute;l ha sido su desempe&ntilde;o en los diferentes cargos que ha tenido; tambi&eacute;n, la parte profesional, su preparaci&oacute;n profesional que ha logrado a trav&eacute;s del tiempo; se analiza tambi&eacute;n su conducta, su comportamiento.&nbsp;</p>
+
+<p>Tambi&eacute;n hay una parte de evaluaci&oacute;n m&eacute;dica en esta promoci&oacute;n, es mucho muy importante que los mandos que vayan obteniendo esos grados pues tengan una condici&oacute;n f&iacute;sica, una salud que les permita cumplir con todas sus tareas.</p>
+
+<p>Una vez que ese comit&eacute; analiza a todos los elementos que participan en esta promoci&oacute;n superior, que es un procedimiento que est&aacute; basado en un sistema, un sistema computarizado donde se va introduciendo en ese sistema la informaci&oacute;n que van analizando y se va convirtiendo en un resultado num&eacute;rico, al final se re&uacute;ne esa parte num&eacute;rica con una evaluaci&oacute;n subjetiva, es decir, la informaci&oacute;n que tienen los generales, que se les hace llegar a los generales sobre el comportamiento, sobre el desempe&ntilde;o profesional de esa gente que est&aacute; siendo evaluada, se re&uacute;nen estas dos puntuaciones y ellos, el comit&eacute; de la promoci&oacute;n superior, hace la propuesta de los que van a obtener el siguiente grado. Esta propuesta va en base a las vacantes que tengamos en cada uno de los grados, para generales de divisi&oacute;n, de brigada, brigadieres y coroneles.&nbsp;</p>
+
+<p>Entonces ellos analizan, ven, hacen su propuesta.&nbsp;Ya una vez que integran la propuesta pasa con el secretario de la Defensa para que se firme esa propuesta y se mande al se&ntilde;or presidente como&nbsp;comandante supremo, firma esas relaciones y se mandan al Congreso para hacer el tr&aacute;mite que corresponde a ellos.</p>
+
+<p>Pero ese es el procedimiento, pr&aacute;cticamente la responsabilidad de la asignaci&oacute;n de los nuevos o de los ascensos es de ese grupo generales que tiene esa responsabilidad. Es un trabajo que se lleva a cabo a trav&eacute;s de 10 meses aproximadamente de trabajo de evaluaci&oacute;n, pr&aacute;cticamente terminan de evaluar una promoci&oacute;n y empiezan la siguiente. Y ponen mucho &eacute;nfasis en lo que se ha desarrollado en la parte de desempe&ntilde;o profesional, de desarrollo profesional, lo que ha hecho durante los &uacute;ltimos a&ntilde;os en el cargo que tiene o en el grado que tiene.</p>
+
+<p>Esa es de manera general el procedimiento que se usa en la Secretar&iacute;a de la Defensa Nacional para ascensos del personal.</p>
+
+<p>Gracias.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Y es similar a la Secretar&iacute;a de Marina, &iquest;no?</p>
+
+<p>JOS&Eacute; RAFAEL OJEDA DUR&Aacute;N, SECRETARIO DE MARINA:&nbsp;S&iacute;, es muy similar.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Similar.</p>
+
+<p>Entonces, yo recibo ya la propuesta y firmo los oficios que se env&iacute;an al&nbsp;Congreso. As&iacute; es el procedimiento.&nbsp;</p>
+
+<p>Y el d&iacute;a 20 se entregan los reconocimientos, aun&hellip; Que me comentaban que&hellip; Yo todav&iacute;a no conozco, no s&eacute; si ya lo enviaron.</p>
+
+<p>LUIS CRESENCIO SANDOVAL GONZ&Aacute;LEZ:&nbsp;Creo que el viernes.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;&iquest;Ya lo enviaron?</p>
+
+<p>LUIS CRESENCIO SANDOVAL GONZ&Aacute;LEZ:&nbsp;El viernes se lo enviaron por la tarde.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Entonces, ya reviso, se firma, y ya una vez que se manda, como se socializa m&aacute;s all&aacute; en la C&aacute;mara de Diputados, en el&nbsp;Congreso, ya se empieza a saber, pero formalmente es hasta el 20 que se entrega el ascenso. Eso es lo que se tiene. Muy bien.&nbsp;</p>
+
+<p>No s&eacute; si sea cierto, pero dice: &lsquo;Dimite el primer ministro de Portugal Ant&oacute;nio Costa tras ser investigado por un caso de corrupci&oacute;n&rsquo;.</p>
+
+<p>PREGUNTA:&nbsp;&iquest;Cu&aacute;ndo se re&uacute;ne con el Consejo Coordinador Empresarial, presidente?</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Ma&ntilde;ana con el presidente del Consejo Coordinador Empresarial, que est&aacute; invitado a la reuni&oacute;n con los empresarios del turismo para lo de Oaxaca, Francisco Cervantes.</p>
+
+<p>PREGUNTA:&nbsp;&iquest;Cu&aacute;ntos vienen?</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Se invit&oacute; creo&nbsp;que&nbsp;a cinco, a seis, porque la idea es que nos ayuden ellos. S&iacute; como cinco o seis: viene Antonio Cos&iacute;o, no s&eacute; si confirm&oacute; a los que se invitaron; Carlos Slim, Daniel Ch&aacute;vez, es Juan Antonio Hern&aacute;ndez, Francisco Cervantes y a lo mejor otros.</p>
+
+<p>Es que ellos nos van a ayudar para invitar a otra reuni&oacute;n pronto ya a un grupo m&aacute;s grande, todo con el compromiso de trabajar para que Tianguis Tur&iacute;stico de Acapulco ya se pueda realizar en mejores&nbsp;condiciones. El Tianguis Tur&iacute;stico es principios de abril, entonces queremos ver si a finales de este a&ntilde;o, ya.&nbsp;</p>
+
+<p>Porque cuando le habl&eacute; al due&ntilde;o de Las Brisas, que va a estar, Antonio Cos&iacute;o hijo, me dijo que ellos estaban pensando abrir el 75 por ciento de sus habitaciones en diciembre y que incluso me mand&oacute; tambi&eacute;n, digo, me mand&oacute; a decir que ya van a tener &mdash;y eso me dio mucho gusto tambi&eacute;n&mdash; resuelto lo de las viviendas de todos sus trabajadores. O sea, es una buena actitud de su parte.</p>
+
+<p>Y Juan Antonio me mand&oacute; a decir que garantizaban creo que mil cuartos para marzo.</p>
+
+<p>PREGUNTA:&nbsp;&iquest;La Convenci&oacute;n Bancaria?</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Eso habr&iacute;a que verlo, eso habr&iacute;a que verlo.</p>
+
+<p>A m&iacute; me gustar&iacute;a hacerla all&aacute;, si siempre se ha hecho. Es que Acapulco requiere de todos, de todos, y todos est&aacute;n ayudando, la verdad; es muy poca la gente que est&aacute; metida en la politiquer&iacute;a, muy pocos, y adem&aacute;s tienen derecho, somos libres.</p>
+
+<p>Nosotros no vamos a silenciar a nadie, a nadie, aunque se pasen. Ayer estaba yo viendo a un se&ntilde;or,&nbsp;Marietto. A ver, ponlo. &iquest;Existe? A ver, ponlo, porque me ment&oacute; la madre, ponlo.</p>
+
+<p>&iquest;Y qui&eacute;n es el se&ntilde;or?</p>
+
+<p>JES&Uacute;S RAM&Iacute;REZ CUEVAS:&nbsp;Pues es un prominente participante de la oposici&oacute;n en las redes, todos los d&iacute;as se dedica a eso, a mandar mensajes contra el gobierno, a hacer denuncias.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Pero &iquest;de qu&eacute; partido es?</p>
+
+<p>JES&Uacute;S RAM&Iacute;REZ CUEVAS:&nbsp;De la oposici&oacute;n, es un empresario.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Pero &iquest;con qui&eacute;n simpatiza?</p>
+
+<p>JES&Uacute;S RAM&Iacute;REZ CUEVAS:&nbsp;Con la oposici&oacute;n, con el PAN.&nbsp;</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Ah, pues no lo pongas.</p>
+
+<p>Pero est&aacute;n muy enojados, no s&eacute; qu&eacute; les pasa. &iquest;No ser&aacute; que es una lectura febril de las encuestas?</p>
+
+<p>Pero, bueno, ya v&aacute;monos a desayunar.</p>
+
+<p>PREGUNTA:&nbsp;M&oacute;nica Romero, de&nbsp;Univisi&oacute;n.&nbsp;</p>
+
+<p>El a&ntilde;o pasado un juez de Boston rechaz&oacute; la demanda del Gobierno de M&eacute;xico en contra de los fabricantes de armas, invoc&oacute; una ley de 2005 que protege a los fabricantes y a los vendedores de armas contra litigios por da&ntilde;os causados por las armas.</p>
+
+<p>El senador Ken Salazar, entonces senador, hoy embajador aqu&iacute; en M&eacute;xico, vot&oacute; a favor de esa ley.</p>
+
+<p>&iquest;Considera usted una desventaja trabajar en un tema como el combate de tr&aacute;fico de armas de Estados Unidos hacia M&eacute;xico con un embajador que vot&oacute; a favor de esa iniciativa? &iquest;Y c&oacute;mo califica usted el trabajo con Estados Unidos en ese sentido?</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Bueno, nosotros&hellip; No conozco, &iquest;eh?, el antecedente, no sab&iacute;a.</p>
+
+<p>INTERLOCUTORA:&nbsp;Son las dos demandas que present&oacute; el Gobierno de M&eacute;xico: una en Boston contra armer&iacute;as y otra en Arizona contra vendedores de armas, contra cinco tiendas de armas.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Pero la&hellip;</p>
+
+<p>INTERLOCUTORA:&nbsp;La canciller&iacute;a.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Pero la anterior, esta de Ken Salazar vota&hellip;</p>
+
+<p>INTERLOCUTORA:&nbsp;Es la ley que se aprob&oacute; en el Congreso en Estados Unidos en 2005 que proh&iacute;be o que impide que v&iacute;ctimas de masacres cometidas con armas demanden a los fabricantes de armas o a los vendedores de armas.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;S&iacute;, s&iacute;, por eso no sab&iacute;a, porque fue en 2005, y pues han cambiado las circunstancias, qu&eacute; bueno que ahora el gobierno del presidente&nbsp;Biden&nbsp;est&eacute; impulsando el control de la venta de armas en Estados Unidos.</p>
+
+<p>Las denuncias que hemos presentado nosotros en este gobierno no han sido rechazadas por el gobierno del presidente&nbsp;Biden. Y ese gobierno est&aacute; representado aqu&iacute; por Ken Salazar y &eacute;l nunca ha expresado estar en contra de nuestra postura</p>
+
+<p>Son circunstancias, &iquest;no? No conozco c&oacute;mo fue que se aprob&oacute; aquella ley del 2005. Ahora s&iacute; me consta&nbsp;de que&nbsp;cada vez que hay asesinatos de personas inocentes en centros comerciales, incluso en escuelas, el presidente&nbsp;Biden&nbsp;se pronuncia por el control de las armas. Esa es una postura muy clara. Y nosotros estamos tambi&eacute;n por lo mismo.&nbsp;</p>
+
+<p>Antes no suced&iacute;a eso, usted tiene raz&oacute;n de que era otra la pol&iacute;tica del Partido&nbsp;Dem&oacute;crata,&nbsp;nos consta.</p>
+
+<p>Todav&iacute;a en el gobierno de Calder&oacute;n, que era un gobierno dem&oacute;crata, fue cuando se cre&oacute; lo del operativo este de R&aacute;pido y Furioso, la introducci&oacute;n de armas de contrabando con se&ntilde;uelos, porque as&iacute; pensaban atrapar a los de las bandas del narcotr&aacute;fico. Eran armas que introdujeron de com&uacute;n acuerdo los gobiernos a M&eacute;xico con supuestos sensores. F&iacute;jense el plan este tan sofisticado y profundo: dejan que las armas entren con estos sensores en un gobierno que estaba completamente &mdash;el gobierno de M&eacute;xico&mdash; penetrado por las bandas, completamente penetrado; llegaron las armas a los delincuentes, les quitaron los sensores y las usaron para quitarle la vida a mexicanos y a estadounidenses. Y lleg&oacute; el caso hasta la corte en Estados Unidos y le dieron carpetazo porque era un asunto que implicaba a altas autoridades. Pero ahora es distinto, ha cambiado.&nbsp;</p>
+
+<p>INTERLOCUTORA:&nbsp;Pero entonces, &iquest;s&iacute; se siente apoyado por este representante del gobierno de Estados Unidos&nbsp;que&nbsp;en aquel entonces, junto con otros nueve dem&oacute;cratas y 51 republicanos, apoy&oacute; esta ley? Y m&aacute;s que la postura de los dem&oacute;cratas o republicanos sobre tiroteos all&aacute;, estas armas que vienen ilegalmente a M&eacute;xico son las que arman al narcotr&aacute;fico.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;S&iacute;, s&iacute;, ahora es distinto.</p>
+
+<p>&iquest;Sabe qui&eacute;n era el presidente cuando lo de R&aacute;pido y Furioso?</p>
+
+<p>Obama, y la postura de Obama ahora es distinta, del expresidente Obama.</p>
+
+<p>Y yo espero que avancemos m&aacute;s en este prop&oacute;sito.</p>
+
+<p>INTERLOCUTORA:&nbsp;&iquest;Est&aacute; trabajando con agentes de&nbsp;ATF,concreto,&nbsp;peri&oacute;dicamente?</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Con el embajador s&iacute;, y es buena la relaci&oacute;n con el embajador Ken Salazar y mucho muy buena con el presidente&nbsp;Biden; y no de subordinaci&oacute;n, sino, como dice el mismo presidente&nbsp;Biden, en pie de igualdad.</p>
+
+<p>Pero necesitamos relacionarnos, cooperar, ayudarnos mutuamente. Somos vecinos; hay 40 millones de mexicanos en Estados Unidos, trabajando honradamente; somos el principal socio econ&oacute;mico, comercial del mundo, o sea, formamos parte de la sociedad comercial m&aacute;s importante en el mundo, tenemos m&aacute;s transacciones comerciales que las que tiene Estados Unidos con Canad&aacute; o Estados Unidos con China, llega mucha inversi&oacute;n extranjera de Estados Unidos a M&eacute;xico.</p>
+
+<p>INTERLOCUTORA:&nbsp;&iquest;Le ve futuro a la demanda en Arizona contra las cinco armer&iacute;as?</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Yo creo que s&iacute;, y en Texas lo mismo, porque cada vez el pueblo estadounidense est&aacute; m&aacute;s convencido de que la soluci&oacute;n no es el armamentismo y que es lo que les ayuda o es lo que lleva a los defensores de la guerra y del armamentismo a actuar sin l&iacute;mites, el que se puedan vender las armas en cualquier centro comercial en Estados Unidos, armas de alto poder, en Texas, en Arizona.</p>
+
+<p>Pero ya la gente en Estados Unidos, los ciudadanos de Estados Unidos est&aacute;n cambiando, afortunadamente tambi&eacute;n como en todo el mundo, y ya no se dejan manipular, porque la industria b&eacute;lica es una industria muy poderosa, maneja much&iacute;simo dinero y maneja tambi&eacute;n mucha publicidad&hellip;</p>
+
+<p>INTERLOCUTORA:&nbsp;Por eso, pero el embajador que est&aacute; ahorita de Estados Unidos en M&eacute;xico apoy&oacute; precisamente a esos comerciantes, a esos que se hacen millonarios con la venta de armas y vienen ilegal a M&eacute;xico.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;A ver, le contesto: hace 18 a&ntilde;os, y pol&iacute;tica es tiempo, no es lo mismo lo que pasaba hace 18 a&ntilde;os que lo que est&aacute; pasando ahora.</p>
+
+<p>No podemos juzgar a la gente por lo que hicieron antes, hay quienes en menos tiempo se portaron o se manifestaron a favor del autoritarismo y luego cambiaron, y son reconocidos por haber cambiado.</p>
+
+<p>La pol&iacute;tica se hace con mujeres y hombres, no con santos. Y la pol&iacute;tica no es maniquea, no es de buenos y malos, la pol&iacute;tica tiene que ver con circunstancias.</p>
+
+<p>Hay gente &mdash;siempre lo planteo, aqu&iacute; lo digo&mdash; muy reaccionaria. Jos&eacute; Clemente Orozco, gran pintor, muralista, revolucionario, antes de ser consecuente, revolucionario, fue porfirista,&nbsp;antimaderista, y cambi&oacute;.</p>
+
+<p>Y hay un caso ―claro, guardadas&nbsp;todas las proporciones, todas, todas, todas, porque luego sacan de contexto lo que digo―,&nbsp;el caso de monse&ntilde;or Romero de El Salvador, era un obispo conservador y se volvi&oacute; un obispo en favor de los derechos humanos de su pueblo y por eso lo asesinaron, y hoy es santo. Por eso hablo de guardadas todas las proporciones, &iquest;eh? Pero no es lo mismo.</p>
+
+<p>Claro, Bertolt Brecht, dec&iacute;a&hellip; A ver, esto es el ideal. A ver si ponen a Bertolt Brecht, que dec&iacute;a que hay hombres que&hellip; A ver, lo ponemos y con eso terminamos.</p>
+
+<p>INTERVENCI&Oacute;N:&nbsp;Presidente, sin lista para ma&ntilde;ana.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Van a ser mujeres porque faltaron, faltaron.</p>
+
+<p>Alg&uacute;n d&iacute;a le vamos a hacer un reconocimiento a ellos, &iquest;verdad? S&iacute;, porque no crean que ensayamos, &iquest;eh?, ni hablamos, pero hacen cosas muy buenas. Jes&uacute;s.</p>
+
+<p>&lsquo;Hay hombres que luchan un d&iacute;a y son buenos, hay otros que luchan un a&ntilde;o y son mejores, hay quienes luchan muchos a&ntilde;os y son muy buenos, pero los hay que luchan toda la vida;&nbsp;esos son los imprescindibles.&rsquo;</p>
+
+<p>Es bell&iacute;simo. Para que no nos cansemos.&nbsp;</p>
+
+<p>Bueno, adi&oacute;s, adi&oacute;s.</p>
+
+<p>---</p>
+</div>
+      </div>
+
+      <div class="col-md-4 col-xs-12 pull-right">
+
+
+
+
+          <div id="survey" class="survey-popup small-top-buffer">
+	<div class="row">
+  <a class="fire">
+    <span class="title">Contesta nuestra encuesta de satisfacción.</span>
+		<i style="color: white" class="fas fa-poll"></i>
+  </a>
+  <hr>
+  
+  <div class="survey col-sm-12 clearfix">
+	<form id="survey-form">
+	  <div class="survey-form">
+	  <fieldset id="query_1">
+		<legend>¿Cómo fue tu experiencia en gob.mx?</legend>
+		<div id="Q_A" class="btn-group row">
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncGood" class="ga-survey" value="Feliz" title="Satisactorio">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-good.svg" alt="">
+		  	</button>
+		  </div>
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncReg" class="ga-survey" value="Neutral" title="Neutral">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-neutral.svg" alt="">
+		  	</button>
+		  </div>
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncBad" class="ga-survey" value="Triste" title="No satisactorio">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-bad.svg" alt="">
+		  	</button>
+		  </div>
+		</div>
+	  </fieldset>
+	  <fieldset id="query_1_a" class="hidden">
+	  	<legend>¿Fue fácil encontrar lo que buscabas?</legend>
+	  	<div id="Q_B" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R1" value="1">
+	  		<label for="A_R">Muy Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R2" value="2">
+	  		<label for="A_R">Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R3" value="3">
+	  		<label for="A_R">Difícil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R4" value="4">
+	  		<label for="A_R">Muy Difícil</label>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_s" class="hidden">
+	  	<legend>¿De qué estado de la República nos visitas?</legend>	  	
+	  	<div class="col-md-12">
+  	  		<div class="form-group" style="margin-bottom: 114px;">
+  	  			<select id="estados" class="form-control"></select>
+  	  		</div>
+  	  		<div class="form-group">
+  	  			<button type="button" class="Q_S_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  		</div>
+  	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_alt" class="hidden">
+		<legend>¿Qué buscabas?</legend>
+	  	<div id="Q_I" class="clearfix">
+	  	  <div class="col-sm-12">
+	  		<textarea id="txtA" class="form-control" rows="6" maxlength="250" style="font-size: 14px; width: 100%;"></textarea>
+	  		<span class="small">Máximo 250 caracteres</span>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+  	  	  <button type="button" class="Q_I_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_b" class="hidden">
+	  	<legend>¿Qué te gustó más?</legend>
+	  	<p class="small">Puedes seleccionar más de uno.</p>
+	  	<div id="Q_C" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R1" type="checkbox" name="A_R" value="1">
+	  		<label for="A_R">La información es clara y precisa</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R2" type="checkbox" name="A_R" value="2">
+	  		<label for="A_R">El diseño es agradable</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R3" type="checkbox" name="A_R" value="3">
+	  		<label for="A_R">Está bien organizado</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R4" type="checkbox" name="A_R" value="4">
+	  		<label for="A_R">Es sencillo navegar</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R5" type="checkbox" name="A_R" value="5">
+	  		<label for="A_R">El lenguaje es amigable</label>
+	  	  </div>
+	  	  <div class="clearfix">
+	  	  	<button type="button" class="Q_C_btn btn btn-primary btn-small pull-right">Siguiente</button>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_c" class="hidden">
+	  	<legend>¿Recomendarías nuestro portal a un amigo o familiar?</legend>
+	  	<div id="Q_D" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="radEncC_R1" type="radio" name="A_R" value="4">
+	  		<label for="A_R">Si</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncC_R2" type="radio" name="A_R" value="1">
+	  		<label for="A_R">No</label>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+        <button type="button" class="btn-finalizar btn btn-primary btn-small pull-right" style="margin-left: 8px; margin-top: 2px;" disabled>Finalizar</button>
+        <img src="https://framework-gb.cdn.gob.mx/assets/images/oval-white.svg" class="pull-right hidden loading">
+      </div>
+	  </fieldset>
+
+	  <fieldset id="query_2" class="hidden">
+		<legend>¿Fue fácil encontrar lo que buscabas?</legend>
+	  	<div id="Q_F" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R1" type="radio" name="A_R" value="1">
+	  		<label for="A_R">Muy Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R2" type="radio" name="A_R" value="2">
+	  		<label for="A_R">Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R3" type="radio" name="A_R" value="3">
+	  		<label for="A_R">Difícil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R4" type="radio" name="A_R" value="4">
+	  		<label for="A_R">Muy Difícil</label>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_2_b" class="hidden">
+	  	<legend>¿Qué mejorarías?</legend>
+	  	<p class="small">Puedes seleccionar más de una opción.</p>
+	  	<div id="Q_G" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A1" type="checkbox" name="A_R" value="1">
+	  		<label for="A_R">Diseño</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A2" type="checkbox" name="A_R" value="2">
+	  		<label for="A_R">Navegación dentro del sitio</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A3" type="checkbox" name="A_R" value="3">
+	  		<label class="too-long" for="A_R">Claridad y precisión de la información</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A4" type="checkbox" name="A_R" value="4">
+	  		<label for="A_R">Organización de los contenidos</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A5" type="checkbox" name="A_R" value="5">
+	  		<label for="A_R">Lenguaje utilizado</label>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">	  	  
+	  	  <button type="button" class="btn-finalizar btn btn-primary btn-small pull-right" style="margin-left: 8px; margin-top: 2px;" disabled>Finalizar</button>
+	  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/oval-white.svg" class="hidden pull-right loading">
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_2_alt" class="hidden">
+		<legend>¿Qué buscabas?</legend>
+	  	<div id="Q_H" class="clearfix">
+	  	  <div class="col-sm-12">
+	  		<textarea id="txtA1" class="form-control" rows="6" maxlength="250" style="font-size: 14px; width: 100%;"></textarea>
+	  		<span class="small">Máximo 250 caracteres</span>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+  	  	  <button type="button" class="Q_H_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  	</div>
+	  </fieldset>
+
+	</div>
+	<p class="hidden survey-thanks" style="text-align: center; color: white; font-weight: 700;">Gracias por tu opinión.</p>
+	</form>
+
+  </div>
+</div>
+</div>
+
+<script type="text/javascript">
+$(function() {
+  var c = 0;
+  var fin = 0;
+  var tipo_cara = "";
+  var page_type = "Articulos";
+  var triggered = false;
+  var answers = {};
+  var properties = {};
+  var organization = "presidencia";
+  var section = "Blog";
+  var lang = "es";
+  properties.published_on = "2023-11-07 10:35:00 -0600";
+  properties.title = "Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 7 de noviembre de 2023";
+  properties.path = "/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-7-de-noviembre-de-2023";
+  properties.referer = "";
+  properties.viewfinder = navigator.userAgent.toLowerCase();
+  properties.screens = screen.width;
+  properties.device = screen.width;
+
+  $.getJSON('https://www.gob.mx/vun/estados?filter[order]=nombre%20ASC', function (selectOptions) {
+    for( var i = 0; i < selectOptions.length; i ++) {
+      var selectOptionsJSON = selectOptions[i];
+      $('#estados').append('<option value="'+ selectOptionsJSON.nombre +'">'+ selectOptionsJSON.nombre +'</option>');
+    }
+    $('#estados').append('<option value="Otro">Otro</option>')
+  });
+
+  $('.fire').click(function(event) {
+    $('.survey-popup').css({'height':'440px'});
+  });
+
+  $('#Q_A').find('button').click(function(event) {
+  	$('#query_s').removeClass('hidden');
+  	$("#query_1").addClass('hidden');
+  	answers.q1 = $(this).attr('id');
+  });
+
+  $(".ga-survey").click(function () {
+    tipo_cara = $(this).val();
+    var interval_time = [30];
+    (function timer () {
+      if (c < 1) {
+        setTimeout(function () {
+           if(fin < 1) {
+             set_ga("Inconclusa");
+             timer();
+           }
+        }, interval_time[c] * 1000);
+      }
+      c++;
+    })();
+  });
+
+  $('.Q_S_btn').click(function(event) {
+    if( answers.q1 === "radEncGood") {
+      $("#query_s").addClass('hidden');
+      $("#query_1_a").removeClass('hidden');
+    } else if(answers.q1 === "radEncReg" || answers.q1 === "radEncBad") {
+      $("#query_s").addClass('hidden');
+      $("#query_2").removeClass('hidden');
+    } else { }
+    // answers.q1 = $('#Q_A').find('button').attr('id');
+  });
+
+  $('#Q_B').find('input').click(function(event) {
+  	if( $(this).attr('id') === 'radEncA_R3' || $(this).attr('id') === 'radEncA_R4' )  {
+  	  $("#query_1_a").addClass('hidden');
+	  $("#query_1_alt").removeClass('hidden');
+  	} else {
+  	  $("#query_1_a").addClass('hidden');
+	  $("#query_1_b").removeClass('hidden');	
+  	}	
+	answers.q2 = $(this).attr('id');
+  });
+
+  $('.Q_I_btn').click(function(event) {
+  	event.preventDefault();
+  	$("#query_1_alt").addClass('hidden');
+	$("#query_1_b").removeClass('hidden');
+	answers.q5 = $('#txtA').val().substring(0, 250);
+  });
+
+  $('#Q_C').find('button').click(function(event) {
+	$("#query_1_b").addClass('hidden');
+	$("#query_1_c").removeClass('hidden');
+	var q3_array = [];
+	$('#Q_C').find('input:checked').each(function(index, el) {
+	  q3_array.push($(el).attr('id'));
+	});
+	answers.q3 = q3_array;
+  });
+
+  $('#Q_D').find('input').change(function(event) {
+  	answers.q4 = $(this).attr('id');
+  	$('.btn-finalizar').attr('disabled', false);
+  });
+
+  $('#Q_F').find('input').click(function(event) {
+	
+	answers.q2 = $(this).attr('id');
+
+	if( $(this).attr('id') === 'rdEncA_R3' || $(this).attr('id') === 'rdEncA_R4' ) {
+	  $("#query_2").addClass('hidden');
+	  $("#query_2_alt").removeClass('hidden');
+	} else {
+	  $("#query_2").addClass('hidden');
+	  $("#query_2_b").removeClass('hidden');
+	}
+  });
+
+  $('#Q_G').find('input').change(function(event) {
+  	if($('#Q_G').find('input:checked').length > 0) {
+	  $('.btn-finalizar').attr('disabled', false);
+    }
+    var q2_array = [];
+    $('#Q_G').find('input:checked').each(function(index, el) {
+	  q2_array.push($(el).attr('id'));
+	});
+	answers.q3 = q2_array;
+  });
+
+  $('.Q_H_btn').click(function(event) {
+  	event.preventDefault();
+  	$("#query_2_alt").addClass('hidden');
+	$("#query_2_b").removeClass('hidden');
+	answers.q5 = $('#txtA1').val().substring(0, 250);
+  });
+
+  $('.btn-finalizar').click(function (event) {
+    fin++;
+    $.ajax({
+      url: '/encuesta-satisfaccion',
+      type: 'post',
+      dataType: 'json',
+      data: { section: section, lang: lang, properties: properties, answers: answers },
+      beforeSend: function() {
+        $('.loading').removeClass('hidden');
+      },
+      success: function(data) {
+        set_ga("Finalizada");
+
+        $('.survey').hide();
+        $('.survey-popup').css({'height':'60px','background-color':'#dff0d8','border':'1px solid #d6e9c6'});
+        $('.survey-popup .title').text('Gracias por tu participación.').css({'color':'#3c763d'});
+        $('#icon-survey').removeClass('fa-file-text-o').addClass('fa-check-circle').css({'color':'#3c763d'});
+        setTimeout(function() {
+          $('.survey-popup').fadeOut('800');
+        }, 1600);
+      }
+    });
+  });
+
+  function set_ga(estatus) {
+    var pages_group = "Gobierno";
+    var organization_name = "presidencia";
+
+    console.log("Entro a apartado de encuesta de satisfacción. Estatus: "+ estatus);
+    console.log("Pages group: "+pages_group);
+    console.log("Sub group: "+organization_name);
+    console.log("Page type: "+page_type);
+    console.log("Face: "+tipo_cara);
+
+      console.log("Rails.env.production");
+      //Código GA para encuesta de satisfacción.
+		gtag('set', 'dimension14', pages_group);
+		gtag('set', 'dimension15', organization_name);
+		gtag('set', 'dimension16', page_type);
+		gtag('send', 'event', 'Encuesta de satisfacción', tipo_cara ,estatus);
+		gtag('set', 'dimension14', null);
+		gtag('set', 'dimension15', null);
+		gtag('set', 'dimension16', null);
+  }
+
+  $('#subscribe-survey').click(function(event) {
+	event.preventDefault();
+    var email = $("#email-survey").val();
+    var state = $('#estados').val();
+
+    if (email !== '' || email !== undefined) {
+	    try {
+	      $.ajax({
+	        url: "/subscribe",
+	        type: 'post',
+	        dataType: 'json',
+	        data : { email: {address: email} },
+	        success: function (data) {
+	            $('#responseSignup').html(data.message);
+	        },
+	        error: function (data) {
+	            $('#responseSignup').html(data.message);
+	        }
+	      });
+	    }catch(e){
+	      $("#responseEmail").innerText(e);
+	    }
+
+	    $.ajax({
+	    	url: '/signups',
+	    	type: 'POST',
+	    	dataType: 'json',
+	    	data: { section: section, lang: lang, properties: properties },
+	    	success: function() {
+	    		//console.log('exito');
+	    	}
+	    });
+	} else {
+		$('#responseSignup').html('Por favor llena todos los campos.');
+	}
+  });
+
+  $('#survey-form').submit(function(event) {
+    event.preventDefault();
+  });
+});
+</script>
+
+      </div>
+      <div class="col-sm-7 pull-left">
+        <div class="share-buttons clearfix vertical-buffer">
+  <div class="col-md-2"> <a class="twitter-share-button" data-url="https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-7-de-noviembre-de-2023" data-text="Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 7 de noviembre de 2023"></a></div>
+  <div class="col-md-2">
+    <div class="fb-share-button" data-href="https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-7-de-noviembre-de-2023" data-layout="button_count" data-size="small" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-7-de-noviembre-de-2023&amp;src=sdkpreparse">Compartir</a></div>
+  </div>
+</div>
+
+  <script type="text/javascript">
+    (function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v2.7";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+    
+    var pages_group = "Gobierno";
+    var page_type = "Artículos";
+    var organization_name = "presidencia";
+    var title_content = "Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 7 de noviembre de 2023";
+
+     window.twttr = (function (d,s,id) {
+       var t, js, fjs = d.getElementsByTagName(s)[0];
+       if (d.getElementById(id)) return; js=d.createElement(s); js.id=id;
+       js.src="//platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs);
+       return window.twttr || (t = { _e: [], ready: function(f){ t._e.push(f) } });
+     }(document, "script", "twitter-wjs"));
+
+     function trackTwitter(intent_event) {
+       if (intent_event) {
+         if (intent_event.target && intent_event.target.nodeName == 'IFRAME') {
+           console.log("Metrica Compartir Twitter - "+title_content);
+           console.log("Organization: "+organization_name);
+           console.log("Page type: "+page_type);
+           console.log("Title content: "+title_content);
+           ga('set', 'dimension14', pages_group);
+           ga('set', 'dimension15', organization_name);
+           ga('set', 'dimension16', page_type);
+           ga('send', 'event', 'Compartir en redes sociales', 'Twitter', title_content);
+           ga('set', 'dimension14', null);
+           ga('set', 'dimension15', null);
+           ga('set', 'dimension16', null);
+         }
+       }
+     }
+  </script>
+  <script type="text/javascript">
+     twttr.ready(function (twttr) {
+       twttr.events.bind('tweet', trackTwitter);
+     });
+  </script>
+
+
+      </div>
+    </div>
+    <div class="row top-buffer">
+  <div class="col-md-8">
+    <hr>
+    <div class="print col-ms-12 col-md-12 col-xs-12">
+      <span class="icon-printing"></span>
+      <a href="#">Imprime la página completa</a>
+        <p class="small" style="font-size: 14px; line-height: 1.6em;">
+          La legalidad, veracidad y la calidad de la información es estricta responsabilidad de la dependencia, entidad o empresa productiva del Estado que la proporcionó en virtud de sus atribuciones y/o facultades normativas.
+        </p>
+    </div>
+  </div>
+</div>
+
+  </div>
+  <input type="hidden" id="page_type" name="page_type" value="Articulos">
+  <input type="hidden" id="organization_name" name="organization_name" value="presidencia">
+</main>
+<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+
+<footer class="main-footer">
+  <div class="list-info">
+    <div class="container">
+
+      <div class="col-sm-3">
+        <img  src="https://framework-gb.cdn.gob.mx/landing/img/logoheader.svg"  href="/" alt="logo gobierno de méxico" class="logo_footer" style="max-width: 90%; margin-left: -27px;   margin-top: 12px;">
+      </div>
+      <div class="col-sm-3">
+        <h2>Enlaces</h2>
+        <ul>
+         <!-- <li><a  href="http://www.participa.gob.mx">Participa</a></li> -->
+          <li><a  href="https://datos.gob.mx/">Datos</a></li>
+          <li><a href="https://www.gob.mx/publicaciones" target="_blank" rel="noopener" title="Enlace abre en ventana nueva">Publicaciones </a></li>
+
+                  <li><a class="footer" href="https://consultapublicamx.plataformadetransparencia.org.mx/vut-web/faces/view/consultaPublica.xhtml?idEntidad=MzM=&amp;idSujetoObligado=MTAwMDE=#inicio" id="Transparencia" target="blank" title="Enlace abre en ventana nueva">Portal de Obligaciones de Transparencia</a></li>
+
+                  <li><a class="footer" href="https://www.infomex.org.mx/gobiernofederal/home.action" id="PNT" target="blank" title="Enlace abre PNT en ventana nueva">PNT</a></li>
+
+                  <li><a class="footer" href="http://www.inai.org.mx/" id="INAI" target="blank" title="Enlace abre sitio INAI en ventana nueva">INAI</a></li>
+
+          <li><a class="footer" id="INAI" href="http://alertadores.funcionpublica.gob.mx/" target="_blank" rel="alertadores">Alerta</a></li>
+          <li><a class="footer" id="SIDEC" href="http://sidec.funcionpublica.gob.mx/" target="_blank" rel="sidec">Denuncia</a></li>
+           </ul>
+      </div>
+      <div class="col-sm-3">
+        <h2>¿Qué es gob.mx?</h2>
+        <p>Es el portal único de trámites, información y participación ciudadana.  <a href="/que-es-gobmx" style="text-decoration: none;">Leer más </a></p>
+        <ul>
+
+        
+            <li><a href='http://www.gob.mx/epn'> Administraciones anteriores  </a></li>
+          <li><a href="/accesibilidad">Declaración de Accesibilidad</a></li>
+          <li><a href="/privacidadintegral">Aviso de privacidad</a></li>
+          <li><a href="/privacidadsimplificado">Aviso de privacidad simplificado</a></li>
+          <li><a href="/terminos">Términos y Condiciones </a></li>
+          <li><a href="/terminos#medidas-seguridad-informacion">Política de seguridad</a></li>
+          <li><a class="footer" id="Marco Juridico" href="http://www.ordenjuridico.gob.mx" target="_blank" rel="noopener" title="Enlace abre en ventana nueva">Marco jurídico</a></li>
+          <li><a href="/sitemap">Mapa de sitio</a></li>
+        </ul>
+      </div>
+      <div class="col-sm-3">
+        </p>
+        <h2>Síguenos en </h2>
+        <ul class="list-inline">
+          <li>
+            <a id="Facebook" href="https://www.facebook.com/gobmexico" target="_blank" rel="noopener" class="sendEst share-info footer" title="enlace a facebook abre en una nueva ventana">
+              <img alt="Facebook" src="https://framework-gb.cdn.gob.mx/landing/img/facebook.png" />
+            </a>
+          </li>
+          <li>
+            <a id="Twitter" href="https://twitter.com/GobiernoMX" target="_blank" rel="noopener" class="sendEst share-info footer" title="Enlace a twitter abre en una nueva ventana">
+              <img alt="Twitter" src="https://framework-gb.cdn.gob.mx/landing/img/twitter.png" />
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+  </div>
+  </div>
+
+  <div class="container-fluid footer-pleca">
+    <div class="row">
+      <div class="col">
+        <br><br>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script type="text/javascript">
+      $("a.footer").click(function () {
+          var pagina_sitio = window.location.pathname;
+          var outbound_link = $(this).attr("id");
+          var subgrupo_paginas = "presidencia";
+          var page_type = "Home";
+          var pages_group = "Gobierno";
+          if($("#page_type").length > 0){ page_type = $("#page_type").val(); }
+
+          console.log("Metrica links externos footer - "+outbound_link);
+          gtag('set', 'dimension14', pages_group);
+          gtag('set', 'dimension15', subgrupo_paginas);
+          gtag('set', 'dimension16', page_type);
+          gtag('send', 'event', 'Outbound link - Footer', outbound_link, pagina_sitio);
+          gtag('set', 'dimension14', null);
+          gtag('set, ‘dimension15', null);
+      })
+  </script>
+
+<input class="hidden" id="route" value="/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-7-de-noviembre-de-2023" type="hidden" >
+<!-- div id="fb-root"></div -->
+
+
+
+
+
+  <!-- Begin comScore Tag -->
+  <script>
+      var _comscore = _comscore || [];
+      _comscore.push({ c1: "2", c2: "17183199" });
+      (function() {
+          var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+          s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+          el.parentNode.insertBefore(s, el);
+      })();
+  </script>
+  <noscript>
+    <img src="https://sb.scorecardresearch.com/p?c1=2&c2=17183199&cv=2.0&cj=1" />
+  </noscript>
+  <!-- End comScore Tag -->
+
+  <script src="https://sb.scorecardresearch.com/c2/17183199/ct.js"></script>
+
+
+  <script type="text/javascript">
+
+      var _sf_startpt=(new Date()).getTime();
+      var _sf_async_config = { uid: 43659, domain: 'www.gob.mx', useCanonical: true } ;
+      (function() {
+          function loadChartbeat() { window._sf_endpt = (new Date()).getTime(); var e = document.createElement('script'); e.setAttribute('language', 'javascript'); e.setAttribute('type', 'text/javascript'); e.setAttribute('src','//static.chartbeat.com/js/chartbeat.js'); document.body.appendChild(e); };
+          var oldonload = window.onload;
+          window.onload = (typeof window.onload != 'function') ?
+              loadChartbeat : function()
+              { oldonload(); loadChartbeat(); };
+      })();
+      var ele = "/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-7-de-noviembre-de-2023";
+      if( "#{(@organization_site.present? ? @organization_site.category : 'gobmx')}" == "Campaña") {
+          var siteEls = 'campaign';
+      } else {
+          var siteEls = 'gobierno';
+      }
+
+      for( var i = 1; i < ele.split('/').length; i++ ) {
+          siteEls = siteEls + '.' + ele.split('/')[i];
+      }
+
+      function udm_(e){var t="comScore=",n=document,r=n.cookie,i="",s="indexOf",o="substring",u="length",a=2048,f,l="&ns_",c="&",h,p,d,v,m=window,g=m.encodeURIComponent||escape;if(r[s](t)+1)for(d=0,p=r.split(";"),v=p[u];d<v;d++)h=p[d][s](t),h+1&&(i=c+unescape(p[d][o](h+t[u])));e+=l+"_t="+ +(new Date)+l+"c="+(n.characterSet||n.defaultCharset||"")+"&c8="+g(n.title)+i+"&c7="+g(n.URL)+"&c9="+g(n.referrer),e[u]>a&&e[s](c)>0&&(f=e[o](0,a-8).lastIndexOf(c),e=(e[o](0,f)+l+"cut="+g(e[o](f+1)))[o](0,a)),n.images?(h=new Image,m.ns_p||(ns_p=h),h.src=e):n.write("<","p","><",'img src="',e,'" height="1" width="1" alt="*"',"><","/p",">")};
+      function uid_call(a, b){
+          ui_c2 = 17183199; // your corporate c2 client value
+          ui_ns_site = 'gobmx'; // your sites identifier
+          window.b_ui_event = window.c_ui_event != null ? window.c_ui_event:"",window.c_ui_event = a;
+          var ui_pixel_url = 'https://sb.scorecardresearch.com/p?c1=2&c2='+ui_c2+'&ns_site='+ui_ns_site+'&name='+a+'&ns_type=hidden&type=hidden&ns_ui_type='+b;
+          var b="comScore=",c=document,d=c.cookie,e="",f="indexOf",g="substring",h="length",i=2048,j,k="&ns_",l="&",m,n,o,p,q=window,r=q.encodeURIComponent||escape;if(d[f](b)+1)for(o=0,n=d.split(";"),p=n[h];o<p;o++)m=n[o][f](b),m+1&&(e=l+unescape(n[o][g](m+b[h])));ui_pixel_url+=k+"_t="+ +(new Date)+k+"c="+(c.characterSet||c.defaultCharset||"")+"&c8="+r(c.title)+e+"&c7="+r(c.URL)+"&c9="+r(c.referrer)+"&b_ui_event="+b_ui_event+"&c_ui_event="+c_ui_event,ui_pixel_url[h]>i&&ui_pixel_url[f](l)>0&&(j=ui_pixel_url[g](0,i-8).lastIndexOf(l),ui_pixel_url=(ui_pixel_url[g](0,j)+k+"cut="+r(ui_pixel_url[g](j+1)))[g](0,i)),c.images?(m=new Image,q.ns_p||(ns_p=m),m.src=ui_pixel_url):c.write("<p><img src='",ui_pixel_url,"' height='1' width='1' alt='*'></p>");
+      }
+      udm_('https://sb.scorecardresearch.com/b?c1=2&c2=17183199&ns_site=gobmx&name='+siteEls);
+  </script>
+
+  <noscript>
+    <img src="https://sb.scorecardresearch.com/p?c1=2&amp;c2=17183199&amp;ns_site=gobmx&amp;name=gobierno.presidencia.es.articulos.version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-7-de-noviembre-de-2023" height="1" width="1" alt="*" />
+  </noscript>
+<script>
+    let key = '';
+    $(function () {
+
+        $.getJSON("https://framework-gb.cdn.gob.mx/applications/cms/configGobmx.json", function(json) {
+            console.log(json.keyAnalytics); // this will show the info it in firebug console
+            key = json.keyAnalytics;
+            ga('create', key , 'auto', 'GobTracker');
+            ga('GobTracker.require', 'linker');
+            ga('GobTracker.linker:autoLink', ['www.gob.mx']);
+            ga('GobTracker.set', 'contentGroup1', 'Gobierno');
+            ga('GobTracker.set', 'contentGroup2', SubGroup);
+            ga('GobTracker.set', 'contentGroup3', PageType);
+            ga('GobTracker.set', 'dimension14', 'Gobierno');
+            ga('GobTracker.set', 'dimension15', SubGroup);
+            ga('GobTracker.set', 'dimension16', PageType);
+            ga('GobTracker.set', 'dimension13', 'No Registrado');
+            ga('GobTracker.send', 'pageview');
+            ga('GobTracker.set', 'contentGroup1', null);
+            ga('GobTracker.set', 'contentGroup2', null);
+            ga('GobTracker.set', 'contentGroup3', null);
+            ga('GobTracker.set', 'dimension14', null);
+            ga('GobTracker.set', 'dimension15', null);
+            ga('GobTracker.set', 'dimension16', null);
+            ga('GobTracker.set', 'dimension13', null);
+        });
+    });
+</script>
+
+<script src="https://framework-gb.cdn.gob.mx/applications/cms/modal_global_cms.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/gm/accesibilidad/js/gobmx-accesibilidad.min.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick.min.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick-lightbox.js"></script>
+<link rel="stylesheet" href="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick-lightbox.css">
+
+
+<script src="https://framework-gb.cdn.gob.mx/applications/cms/config_dependency.js"></script>
+<script type="text/javascript"  src="/0RVTuHxj0/t/mhEICJIQ/YiOkthVkYSfw/PRc4N0sKYQk/PwhFVTt/GPxQB"></script></body>
+
+</html>
+

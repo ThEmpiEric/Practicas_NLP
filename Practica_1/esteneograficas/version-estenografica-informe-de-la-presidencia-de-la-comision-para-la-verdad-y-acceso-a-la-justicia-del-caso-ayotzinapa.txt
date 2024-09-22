@@ -1,0 +1,1455 @@
+<!DOCTYPE html>
+<html class='no-js' lang='es'>
+<head>
+    <title>
+  Versión estenográfica. Informe de la Presidencia de la Comisión para la Verdad y Acceso a la Justicia del caso Ayotzinapa | Presidencia de la República  | Gobierno | gob.mx
+</title>
+
+  <meta charset='UTF-8'>
+  <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#393C3E">
+
+  
+  <meta name="keywords" content="">
+  <meta name="description" content="Acto encabezado por Alejandro Encinas Rodríguez, subsecretario de Derechos Humanos, Población Y Migración de Segob y titular de la Comisi...">
+  <meta name="author" content="Presidencia de la República ">
+
+  <meta content="Versión estenográfica. Informe de la Presidencia de la Comisión para la Verdad y Acceso a la Justicia del caso Ayotzinapa" property="og:title" />
+  <meta content="https://www.gob.mxhttps://www.gob.mx/cms/uploads/article/main_image/123798/IMG_20220818_142032.jpg" property="og:image" />
+  <meta content="gob.mx" property="og:site_name" />
+  <meta content="Acto encabezado por Alejandro Encinas Rodríguez, subsecretario de Derechos Humanos, Población Y Migración de Segob y titular de la Comisión Presidencial Para la Verdad y el Acceso a la Justicia del Caso Ayotzinapa, desde Palacio Nacional
+" property="og:description" />
+  <meta content="http://www.gob.mx/presidencia/es/articulos/version-estenografica-informe-de-la-presidencia-de-la-comision-para-la-verdad-y-acceso-a-la-justicia-del-caso-ayotzinapa?idiom=es" property="og:url" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@gobmx" />
+  <meta name="twitter:title" content="Versión estenográfica. Informe de la Presidencia de la Comisión p..." />
+  <meta name="twitter:description" content="Acto encabezado por Alejandro Encinas Rodríguez, subsecretario de Derechos Humanos, Población Y Migración de Segob y titular de la Comisión Presidencial Para la Verdad y el Acceso a la Ju..." />
+  <meta name="twitter:image" content="https://www.gob.mxhttps://www.gob.mx/cms/uploads/article/main_image/123798/IMG_20220818_142032.jpg" />
+
+
+  <meta content="authenticity_token" name="csrf-param" />
+<meta content="m8zi3aV+0Q0VDCQdEnW4vhljiVcUuKQuWSMcdoogtDU=" name="csrf-token" />
+
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700,600,300' rel='stylesheet' type='text/css'>
+  <link href='https://framework-gb.cdn.gob.mx/applications/cms/favicon.png' rel='shortcut icon'>
+  <link data-turbolinks-track="true" href="/cms/assets/application.css" media="all" rel="stylesheet" />
+  <link data-turbolinks-track="true" href="https://framework-gb.cdn.gob.mx/gm/accesibilidad/css/gobmx-accesibilidad.min.css" media="all" rel="stylesheet" />
+  
+
+  <!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+  <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+
+ <![endif]-->
+  <script async src="https://www.googletagmanager.com/gtag/js?id="></script>
+  <script src="https://framework-gb.cdn.gob.mx/applications/cms/carrusel/swiper-bundle.min.js"></script>
+
+  <link rel="stylesheet" href="https://framework-gb.cdn.gob.mx/applications/cms/carrusel/swiper-bundle.min.css">
+
+    <script type="text/javascript">
+
+        var SubGroup = '';
+        if(false || false){
+            SubGroup = 'Temas';
+        }else{
+            SubGroup = 'presidencia';
+        }
+        var PageType = '';
+        if(false){
+            PageType = 'Home'
+        }else{
+            if(false){
+                PageType = '';
+            }else {
+                var site = window.location.pathname;
+                var arrayPageType = ["articulos", "prensa", "agenda", "documentos", "multimedia", "galerias", "videos",
+                    "acciones_y_programas", "acciones-y-programas", "mi-foto-con-el-presidente",
+                    "estructuras", "descargables", "que-hacemos", "finanzas", "infografias"];
+
+                if (site.search("archivo") != -1) {
+                    PageType = "archivo_";
+                }
+                for (var i = 0; i < arrayPageType.length; i++) {
+                    if (site.search(arrayPageType[i]) != -1) {
+                        PageType += arrayPageType[i];
+                        break;
+                    }
+                }
+            }
+        }
+
+
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', '');
+
+        gtag('require', 'linker');
+        gtag('linker:autoLink', ['www.gob.mx']);
+        gtag('set', 'contentGroup1', 'Gobierno');
+        gtag('set', 'contentGroup2', SubGroup);
+        gtag('set', 'contentGroup3', PageType);
+        gtag('set', 'dimension14', 'Gobierno');
+        gtag('set', 'dimension15', SubGroup);
+        gtag('set', 'dimension16', PageType);
+        gtag('set', 'dimension13', 'No Registrado');
+        gtag('send', 'pageview');
+        gtag('set', 'contentGroup1', null);
+        gtag('set', 'contentGroup2', null);
+        gtag('set', 'contentGroup3', null);
+        gtag('set', 'dimension14', null);
+        gtag('set', 'dimension15', null);
+        gtag('set', 'dimension16', null);
+        gtag('set', 'dimension13', null);
+
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-144356475-1', 'auto', {'allowLinker':true});
+        ga('require', 'linker');
+        ga('linker:autoLink', ['www.gob.mx']);
+        ga('set', 'contentGroup1', 'Gobierno');
+        ga('set', 'contentGroup2', SubGroup);
+        ga('set', 'contentGroup3', PageType);
+        ga('set', 'dimension14', 'Gobierno');
+        ga('set', 'dimension15', SubGroup);
+        ga('set', 'dimension16', PageType);
+        ga('set', 'dimension13', 'No Registrado');
+        ga('send', 'pageview');
+        ga('set', 'contentGroup1', null);
+        ga('set', 'contentGroup2', null);
+        ga('set', 'contentGroup3', null);
+        ga('set', 'dimension14', null);
+        ga('set', 'dimension15', null);
+        ga('set', 'dimension16', null);
+        ga('set', 'dimension13', null);
+    </script>
+
+
+  <script type = "text/javascript"> console.log(true);
+  var rails_env_prod = true; </script>
+  <script src="/cms/assets/application.js"></script>
+  <script src="/cms/assets/imageReplace.js"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.js"></script>
+
+                              <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("True"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="N3JQ2-2RVHB-WJQMN-CEYEM-ATMWX",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"N3JQ2-2RVHB-WJQMN-CEYEM-ATMWX",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="xxqo3jv567lbazxpklsq-f-f97b8bbc1-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"37","ak.cp":"413578","ak.ai":parseInt("270161",10),"ak.ol":"0","ak.cr":13,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"20e2fc7f","ak.r":49405,"ak.a2":e,"ak.m":"b","ak.n":"essl","ak.bpcip":"189.224.237.0","ak.cport":64970,"ak.gh":"189.247.214.15","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"reno","ak.t":"1726960357","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==PqLBBGSqGngz4QjPTNQJHJCjKYXsY2fBol7yTyWK/qMCDM4rGJbxFn0wXNZGvv+OYO5txF2w6qaLWh8gwXVRNN147LJWuEFaFYPPwUruEEA8M0QSpbXJZNO1PXm/W82iCHVkHESYpaEJh7r421yGMkCjOEtehRiUkSM6vogBNIWBFTfswdIX4f4QH9xJxVZu6W7SxG/JEf4gewzg/6MxOoH1/A7GxZnHkf7SpAnsij34pblXWIzZaRVHiEFMuxwGf6SZDXzXC6WVDxMI/6tON+Y/PR35gF3NrDifAKqrabR7fKa8B0gehruURGWg31jaPS+L02Wc1iq60ItI9sLlHrkF16yNI9OUUN9Z079S30zAe+LXeV8AI/dtI92VR7+QWYMCssCu387CSEM8Wp66W4tCEH61w0BYF9QPKC3oIA4=","ak.pv":"113","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+<body>
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v13.0" nonce="MZ2GPb2d"></script><!-- a href="#principal" class="skip">Saltar al contenido principal</a -->
+  <header class=" navbar navbar-inverse">
+    <nav class="navbar navbar-inverse  navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-target="#navbarMainCollapse" data-toggle="collapse">
+            <span class="sr-only">Interruptor de Navegación</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a href="/" style="padding: 1px 3px 3px 3px;" class="navbar-brand " title="Ir a la página inicial">
+
+            <div class="logo-main"></div>
+          </a>
+        </div>
+        <div id="navbarMainCollapse" class="collapse navbar-collapse">
+          <ul class="nav navbar-nav navbar-right">
+           <li><a href="/tramites" title="Trámites">Trámites </a></li>
+            <li><a href="/gobierno" title="Gobierno">Gobierno</a></li>
+                  <li><a href="/presidencia/en" title="Versión en inglés del sitio web">English</a>
+                  </li>
+                </li>
+
+
+            <li>
+              <form accept-charset="UTF-8" action="/busqueda" method="get"><div style="display:none"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+                <input type="hidden" name="site" value="presidencia">
+                <button data-v-6394873e="" id="botonbuscar" type="button" class="btn btn-search"><a data-v-6394873e="" href="https://www.gob.mx/busqueda?utf8=✓" target="_blank" id="botbusca"><img data-v-6394873e="" alt="Buscar" src="https://framework-gb.cdn.gob.mx/landing/img/lupa.png"></a></button>
+</form>            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    
+
+
+        <script src="/cms/assets/level_jump.js"></script><section>
+<!-- Subnavegacion -->
+<nav class=" navbar-inverse sub-navbar fixed-top"
+     >
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#subenlaces">
+        <span class="sr-only">Interruptor de Navegación</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="link-name" href="?tab="></a>
+    </div>
+    <div class="collapse navbar-collapse" id="subenlaces">
+      <ul class="nav subnav navbar-nav navbar-right">
+              <li class="landing-btn">
+                    <a href='/presidencia/es/archivo/prensa'>
+                Comunicados            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='/presidencia/es/#5173'>
+                Directorio            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='https://transparencia.presidencia.gob.mx/presidencia/transparencia/politicas-de-tratamiento-de-datos-personales-de-la-oficina-de-la-presidencia-de-la-republica/'>
+                Protección de Datos Personales            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='https://www.gob.mx/presidencia/transparencia/'>
+                Transparencia            </a>
+            </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+<style>
+  .flag-banner {
+  top: 45px  !important;
+  }
+</style>
+<!-- div class="warning-nav" style="margin-top: 0px;">
+  <div class="container">
+    <div class="row clearfix">
+  <div class="col-xs-12 col-sm-12 col-md-12">Este contenido será modificado temporalmente en atención a las disposiciones legales y normativas en materia electoral, con motivo del inicio de periodo de campaña</div>
+  </div>
+  </div>
+</div -->
+</section>
+
+
+  </header>
+
+
+
+
+
+<main class="inner-page interior ficha">
+  <div class="container">
+  	<ol class="breadcrumb">
+  <li><a href="http://www.gob.mx"><span class="icon icon-home"></span><span class="sr-only">Inicio</span></a></li>
+  <li><a href="/presidencia">Presidencia de la República </a></li>
+  <li class="active">Blog</li>
+</ol>
+  	<div class="">
+      <div aria-hidden="true" class="hidden-xs font-changer internal print" tabindex="-1">
+  <button class="inc-font font-modifier">Aa+</button>
+  <button class="dec-font font-modifier">Aa-</button>
+</div>
+      <div class="marquee-padding">
+      <div class='post-list main-post-list'>
+<div class='marque-float-left'>
+<div class='right_arrow'></div>
+<div class='titulo-pub'>
+<small>Publicaciones Recientes</small>
+</div>
+</div>
+<div>
+<div class='container-marque'>
+<div id='headlines'>
+<div class='marquee'>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-19 13:44:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-19-de-septiembre-de-2024' title='Versió'>
+Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 19 de septiembre de 2024
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-18 12:36:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-18-de-septiembre-de-2024' title='Versió'>
+Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 18 de septiembre de 2024
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-17 13:51:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-entrega-de-estimulos-a-delegaciones-mexicanas-participantes-en-juegos-olimpicos-y-paralimpicos-paris-2024' title='Versió'>
+Versión estenográfica. Entrega de estímulos a delegaciones mexicanas participantes en Juegos Olímpicos y Paralímpicos París 2024
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-17 12:21:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-17-de-septiembre-de-2024' title='Versió'>
+Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 17 de septiembre de 2024
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-16 13:56:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-desfile-civico-militar' title='Versió'>
+Versión estenográfica. Desfile Cívico Militar
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+      </div>
+  	  <div class="col-md-7 col-xs-12 col-sm-12 pull-left" tabindex="0">
+  	  	<h1 class="bottom-buffer">Versión estenográfica. Informe de la Presidencia de la Comisión para la Verdad y Acceso a la Justicia del caso Ayotzinapa</h1>
+  	  	<h2>Acto encabezado por Alejandro Encinas Rodríguez, subsecretario de Derechos Humanos, Población Y Migración de Segob y titular de la Comisión Presidencial Para la Verdad y el Acceso a la Justicia del Caso Ayotzinapa, desde Palacio Nacional
+</h2>
+        <section class="">
+          <p>Presidencia de la República  | 18 de agosto de 2022</p>
+        </section>
+  	  <div class="imagen-principal">
+  	      <img alt="Informe de la Presidencia de la Comisión para la Verdad y Acceso a la Justicia del caso Ayotzinapa." class="img-responsive img_curve" src="https://www.gob.mx/cms/uploads/article/main_image/123798/IMG_20220818_142032.jpg" />
+  	      <span class="small">Informe de la Presidencia de la Comisión para la Verdad y Acceso a la Justicia del caso Ayotzinapa.</span>
+      </div>
+      <div class="article-body"><div>&nbsp;</div>
+
+<div>
+<p><strong>ALEJANDRO ENCINAS RODR&Iacute;GUEZ, </strong><strong>SUBSECRETARIO DE DERECHOS HUMANOS, POBLACI&Oacute;N Y MIGRACI&Oacute;N DE SEGOB Y TITULAR DE LA COMISI&Oacute;N PRESIDENCIAL PARA LA VERDAD Y EL ACCESO A LA JUSTICIA DEL CASO AYOTZINAPA:</strong> Muy buenos tardes tengan todas y todos ustedes. Agradecemos la atenci&oacute;n que han prestado a la realizaci&oacute;n de esta conferencia de prensa, donde vamos a dar cuenta de la reuni&oacute;n que acabamos de sostener, encabezada por el presidente de M&eacute;xico, licenciado Andr&eacute;s Manuel L&oacute;pez Obrador, con los padres y madres de los 43 estudiantes desaparecidos de la Normal Ayotzinapa, en donde estuvieron presentes los cuatro integrantes del Grupo Interdisciplinario de Expertos Internacionales, la organizaciones, los colectivos que nos acompa&ntilde;an: Fundar, Serapaz, Tlachinollan, el Centro Prodh.</p>
+
+<p>Tambi&eacute;n, la representaci&oacute;n de las Naciones Unidas, en particular el titular que coordina las agencias del sistema y el representante de la Oficina de la Alta Comisionada en Materia de Derechos Humanos, y distintas personas, miembros del gabinete.</p>
+
+<p>Por supuesto, junto al presidente estuvo acompa&ntilde;&aacute;ndolo el secretario de Gobernaci&oacute;n, la secretaria de Seguridad y Protecci&oacute;n Ciudadana, el secretario de Relaciones Exteriores, el secretario de la Defensa Nacional, el secretario de Marina.</p>
+
+<p>Hubo, por supuesto, la presencia del se&ntilde;or fiscal general de la Rep&uacute;blica y del titular de la Unidad Especial, Omar G&oacute;mez Trejo, para la investigaci&oacute;n y litigaci&oacute;n del caso de Ayotizinapa.</p>
+
+<p>Y fue una reuni&oacute;n dif&iacute;cil, dolorosa, porque, como lo hemos se&ntilde;alado desde un principio, fue el compromiso que asegur&oacute; el presidente de la Rep&uacute;blica desde antes de la llegada del gobierno, hay que recordar las reuniones que sostuvimos en el Museo de Memoria y Tolerancia en el proceso de transici&oacute;n y c&oacute;mo el primer acto de gobierno, del primer decreto que public&oacute; el presidente de la Rep&uacute;blica el 3 de diciembre, que sign&oacute; el 3 de diciembre, fue justamente el de la creaci&oacute;n de esta Comisi&oacute;n por la Verdad y el Acceso a la Justicia en el caso Ayotzinapa, que surge con el compromiso pol&iacute;tico, moral, &eacute;tico y tambi&eacute;n como responsabilidad de nuestra funci&oacute;n p&uacute;blica el garantizar en estas investigaciones el conocer la verdad y lo sucedido, el conocer el paradero de los estudiantes en encontrar y procesar a los responsables, partiendo de una premisa que se&ntilde;alamos desde el primer d&iacute;a en el sentido de que la &uacute;nica verdad sobre la desaparici&oacute;n de los 43 estudiantes de la Normal de Ayotzinapa es que no hab&iacute;a verdad alguna.</p>
+
+<p>Y un compromiso con los padres y madres de familia en el sentido de que siempre, siempre les vamos a decir la verdad por dolorosa que esta sea.</p>
+
+<p>No voy a repetir la intervenci&oacute;n que tuvimos completa con los padres y madres de familia, no por la extensi&oacute;n, sino particularmente por los datos, los temas que est&aacute;n en estos momentos en un proceso de judicializaci&oacute;n y datos de car&aacute;cter procesal que no queremos entorpecer. A ellos les dimos cuenta justamente de la situaci&oacute;n en que se encuentra este proceso.</p>
+
+<p>Pero s&iacute; quiero darles a conocer, en primer lugar, las acciones que hemos desarrollado de manera estrecha, esto quiero destacarlo, con la Unidad Especial para la Investigaci&oacute;n y Litigaci&oacute;n del Caso Ayotzinapa de la Fiscal&iacute;a General de la Rep&uacute;blica, y con el Grupo Independiente de Expertos Internacionales, el GIEI, con quienes hemos tenido una relaci&oacute;n de confianza y de colaboraci&oacute;n muy importante, con la que pretendemos garantizar el derecho a la verdad que tienen los padres de los muchachos de Ayotzinapa, sus familias, la sociedad mexicana, siempre garantizando absoluta transparencia y acceso a la informaci&oacute;n.</p>
+
+<p>Por eso les vamos a hacer llegar en este instante, bueno, al t&eacute;rmino de la conferencia, toda la informaci&oacute;n, una informaci&oacute;n con las reservas de la ley de la presentaci&oacute;n que hemos hecho y todos los anexos que tambi&eacute;n se les han entregado, dici&eacute;ndoles adem&aacute;s que toda esta informaci&oacute;n, como lo ha instruido el presidente de la Rep&uacute;blica, se ha hecho p&uacute;blica ya en este momento y la pueden encontrar en la p&aacute;gina de la comisi&oacute;n, en la p&aacute;gina de la Secretar&iacute;a de Gobernaci&oacute;n y por supuesto en la p&aacute;gina del Gobierno de M&eacute;xico.</p>
+
+<p>Yo quiero informarles, muchos de ustedes no conocen las l&iacute;neas de trabajo y los avances que hemos tenido. Y digo avances, porque tambi&eacute;n esto quiero subrayar. Hoy hemos presentado un informe de avances de las investigaciones, estando conscientes de que todav&iacute;a tenemos un trabajo, una tarea larga por delante.</p>
+
+<p>No estamos cerrando, como alguien lo ha se&ntilde;alado, la investigaci&oacute;n, sino con toda esa investigaci&oacute;n contin&uacute;a, continuar&aacute;, hasta que encontremos toda la verdad, encontremos a los muchachos y se castigue a los responsables.</p>
+
+<p>Los ejes de trabajo de la comisi&oacute;n se han centrado fundamentalmente en tres &aacute;reas: el acopio y procesamiento de la informaci&oacute;n, la ruptura del pacto de silencio y las labores de b&uacute;squeda de los 43 estudiantes.</p>
+
+<p>Hoy hemos dado cuenta que en materia de acopio y an&aacute;lisis de informaci&oacute;n, a la fecha hemos dispuesto de pr&aacute;cticamente las instituciones, todas las instituciones de la Administraci&oacute;n P&uacute;blica Federal y de otras organizaciones, como el caso del GIEI, la Comisi&oacute;n Nacional de Derechos Humanos, que nos ha permitido contar a la fecha con 41 mil 168 documentos que est&aacute;n analiz&aacute;ndose, la mayor&iacute;a ya han sido analizados y sistematizados dentro de la investigaci&oacute;n.</p>
+
+<p>La mayor parte de estos 41 mil 168 documentos los ha proporcionado la Secretar&iacute;a de la Defensa Nacional, m&aacute;s de 17 mil documentos en este caso; pero tambi&eacute;n ha sido resultado del an&aacute;lisis de los archivos hist&oacute;ricos de tr&aacute;mite, de concentraci&oacute;n y de las &aacute;reas de inteligencia de la Defensa Nacional, de Marina, de Gobernaci&oacute;n, el Centro Nacional de Inteligencia, de la Guardia Nacional y contando tambi&eacute;n con el apoyo de las otras instituciones de los estados, particularmente del gobierno de estado de Guerrero y la fiscal&iacute;a de esa entidad.</p>
+
+<p>Adem&aacute;s de estas 41 mil 168 documentos, hemos tenido acceso pleno al expediente del caso, proporcionado por la Fiscal&iacute;a General de la Rep&uacute;blica, testimonios de sobrevivientes, an&aacute;lisis de comunicaciones telef&oacute;nicas y an&aacute;lisis de los mensajes de personas clave.</p>
+
+<p>Creo que de las informaciones que m&aacute;s destacan es la entrega de la informaci&oacute;n que el presidente de la Rep&uacute;blica solicit&oacute; a la vicepresidenta de los Estados Unidos sobre las intervenciones telef&oacute;nicas que se realizaron en ese pa&iacute;s al grupo de Guerreros Unidos en sus pr&aacute;cticas il&iacute;citas en Chicago, el haber proporcionado por parte del Centro Nacional de Inteligencia m&aacute;s de 100 horas de video con los que la fiscal&iacute;a ha podido acreditar los actos de tortura a los que fueron sometidos diversas personas para obtener las confesiones que fueron la base de la &lsquo;verdad hist&oacute;rica&rsquo;, as&iacute; como los sobrevuelos de dron que la Secretar&iacute;a de Marina proporcion&oacute; tanto a la comisi&oacute;n como al GIEI de la intervenci&oacute;n de distintas autoridades en el basurero de Cocula despu&eacute;s de los hechos.</p>
+
+<p>Dentro de este an&aacute;lisis de informaci&oacute;n tambi&eacute;n hemos tenido acceso a las intervenciones de comunicaciones que en su momento realiz&oacute; la Polic&iacute;a Federal Preventiva en su direcci&oacute;n de Inteligencia, que hoy se encuentra en la Guardia Nacional.</p>
+
+<p>Ah&iacute; se han analizado 17 mil 20 sesiones de audio y transcripciones, que nos han permitido hacer el seguimiento de 133 sujetos y tener un seguimiento particular de hechos posteriores a la desaparici&oacute;n.</p>
+
+<p>Estas intervenciones por supuesto, quiero aclararlo, son las que realiz&oacute; la Polic&iacute;a Federal Preventiva con orden de juez, por eso pudimos tener acceso a las mismas.</p>
+
+<p>Y junto con ello el GIEI y la Covaj hemos intervenido y revisado los archivos de la Secretar&iacute;a de la Defensa Nacional, de la Secretar&iacute;a de Marina, de la Guardia Nacional, donde hemos obtenido nueve mil nueve mil 752 documentos adicionales, todos los cuales han sido digitalizados y han sido entregados ya a la Fiscal&iacute;a General de la Rep&uacute;blica y a la Unidad Especializada en el caso para que se incorpore todo esta informaci&oacute;n, como tambi&eacute;n la que hemos presentado el d&iacute;a de hoy a las carpetas de investigaci&oacute;n.</p>
+
+<p>En lo que corresponde a las acciones de b&uacute;squeda de los estudiantes, las cuales iniciamos en enero de 2019, justamente al momento de instalaci&oacute;n de la comisi&oacute;n, son b&uacute;squedas en las que hemos participado con las distintas autoridades judiciales, por supuesto con la mayor parte de ellas con la Unidad Especial de la Fiscal&iacute;a General de la Rep&uacute;blica, pero tambi&eacute;n con la Fiscal&iacute;a de Desaparici&oacute;n de Personas de la Fiscal&iacute;a General, la Fiscal&iacute;a General del estado de Guerrero, en donde eventualmente hemos tenido acompa&ntilde;amiento de las organizaciones que han acompa&ntilde;ado a los padres y madres de familia desde un inicio del equipo argentino de antropolog&iacute;a forense.</p>
+
+<p>En estas acciones hemos participado muchas instituciones del gobierno federal: la Secretar&iacute;a de Gobernaci&oacute;n, la Secretar&iacute;a de la Defensa Nacional, la Secretar&iacute;a de Marina, la Secretar&iacute;a de Salud, que presta una atenci&oacute;n muy importante en materia victimal a los padres y madres de familia; la Comisi&oacute;n Federal de Electricidad, la Coordinaci&oacute;n Nacional de Protecci&oacute;n Civil. Y en todas estas b&uacute;squedas pues se garantiza no solamente la seguridad, sino el trabajo pericial y profesional para hacer las labores de b&uacute;squeda en campo, desde el desmonte, el cribado, hasta la identificaci&oacute;n de los sitios probables de b&uacute;squeda.</p>
+
+<p>El total de acciones de b&uacute;squeda que hemos realizado hasta la semana pasada, porque... hasta el d&iacute;a de hoy, son 101 acciones de b&uacute;squeda en siete municipios del estado de Guerrero, que han representado 675 jornadas de trabajo. Es decir, de los tres a&ntilde;os y medio que llevamos en el gobierno, en los 50 por ciento de esos d&iacute;as ha habido b&uacute;squedas en campo, en la sierra de Guerrero, en algunos lugares de distintas entidades, donde en estas acciones hemos tenido 17 hallazgos, 27 cuerpos recuperados, 32 indicios bal&iacute;sticos y prendas de vestir, y numerosos restos &oacute;seos.</p>
+
+<p>Del total de restos &oacute;seos, son m&aacute;s de mil los que hemos recuperado en campo; 32, por sus condiciones favorables, fueron remitidos al Laboratorio de Investigaci&oacute;n Gen&eacute;tica de la Universidad de Innsbruck, en Austria, los cuales nos han podido confirmar cient&iacute;ficamente, con una actividad de 99.9999 por ciento, as&iacute; lo dice el resultado de Innsbruck, la identidad de tres de los estudiantes, que ustedes tienen la informaci&oacute;n ya con anterioridad.</p>
+
+<p>Se han enviado m&aacute;s restos, pero no se ha encontrado material gen&eacute;tico suficiente para lograr su identificaci&oacute;n, por lo cual se buscar&aacute;, junto con el laboratorio de Innsbruck, otro sistema de identificaci&oacute;n, que por lo menos nos permita conocer el grupo familiar al que pertenencen los restos que no tuvieron el ADN suficiente.</p>
+
+<p>Dentro de las acciones de b&uacute;squeda, y esto tambi&eacute;n yo quiero destacarlo, hemos solicitado al &aacute;rea de servicios periciales de la Fiscal&iacute;a General de la Rep&uacute;blica el an&aacute;lisis de todos los cuerpos encontrados entre septiembre de 2014 y 2020, estamos hablando de 245 cuerpos, que los colectivos de madres buscadores en Iguala, familiares. Las propias instituciones realizaron despu&eacute;s de los hechos para tratar de identificar si dentro de estos cuerpos podr&iacute;a encontrarse el registro de alguno de los estudiantes desaparecidos.</p>
+
+<p>De los 245 cuerpos de Guerrero se han obtenido, de acuerdo a la informaci&oacute;n que nos proporcion&oacute; la Fiscal&iacute;a General de la Rep&uacute;blica, 191 perfiles gen&eacute;ticos que ha permitido identificar a 30 personas, 16 de las cuales han sido entregadas a sus familiares. Y se&ntilde;alar que no existi&oacute; coincidencia en estos an&aacute;lisis con los estudiantes desaparecidos.</p>
+
+<p>Ustedes van a ver en la siguiente gr&aacute;fica todas las acciones de b&uacute;squeda. Estos son los sitios de fosas clandestinas y de cuerpos exhumados en el per&iacute;metro de Iguala y de Cocula, y de otros municipios aleda&ntilde;os en donde se hizo la intervenci&oacute;n para que ninguno de los hallazgos que se han tenido desde 2014 a la fecha queden sin identificarse.</p>
+
+<p>Y en paralelo se han realizado labores de b&uacute;squeda en vida con el apoyo&hellip; Bueno, primero, acompa&ntilde;ando las iniciativas de los padres y madres de familia, pero tambi&eacute;n con el apoyo de la Comisi&oacute;n Nacional de B&uacute;squeda y el Registro Nacional de Poblaci&oacute;n, permanentemente hacemos el an&aacute;lisis de 177 bases de datos de dependencias p&uacute;blicas e instituciones privadas, en padrones, en hospitales, en centros de reclusi&oacute;n, incluso, movimientos bancarios donde a la fecha no se ha encontrado ning&uacute;n registro de actividades realizadas por alguno de los muchachos.</p>
+
+<p>En lo que corresponde a las acciones de ruptura del pacto de silencio, hemos obtenido testimonios en todos casos voluntarios. Nosotros no somos autoridad ministerial, no somos autoridad judicial, somos una comisi&oacute;n de la verdad. Hemos logrado establecer comunicaci&oacute;n y de tomar testimonios de 115 personas vinculadas con el caso, tres de ellos perpetradores liberadores, cuatro de ellas personas puestas en libertad por tortura, 15 de ellos privados de la libertad, 23 estudiantes sobrevivientes, 11 funcionarios y 59 testigos.</p>
+
+<p>Lamentablemente en este proceso han fallecido o han sido ejecutadas 26 personas clave para obtener informaci&oacute;n. Esas personas fueron integrantes del Guerreros Unidos, tres familiares de Guerreros Unidos, dos integrantes del grupo delictivo Gente Nueva, siete testigos o involucrados que fueron activistas, funcionarios, polic&iacute;as y, dentro de ellos, gente que ven&iacute;a proporcionando informaci&oacute;n significativa, como es el caso de Mario Casarrubias Salgado, quien encabezaba Guerreros Unidos y hab&iacute;a realizado un proceso de colaboraci&oacute;n con esta comisi&oacute;n.</p>
+
+<p>Informo tambi&eacute;n que se ha mantenido en todo el proceso de extradici&oacute;n de Tom&aacute;s Zer&oacute;n, quien se encuentra en el Estado de Israel, con acciones de acompa&ntilde;amiento de la Secretar&iacute;a de Relaciones Exteriores a la Fiscal&iacute;a General de la Rep&uacute;blica para que proceda la extradici&oacute;n.</p>
+
+<p>Independientemente de ello, y eso fue tambi&eacute;n a solicitud de los padres y madres de familia, establecimos contacto con los abogados de Tom&aacute;s Zer&oacute;n de L&uacute;cio, que permiti&oacute; llevar a cabo un encuentro en Tel Aviv los d&iacute;as 16 y 17 de febrero del presente a&ntilde;o, donde se le ofreci&oacute; un criterio de oportunidad, que no acept&oacute;.</p>
+
+<p>Sin embargo, hemos mantenido comunicaci&oacute;n con sus abogados para&hellip; Pues esperamos que pronto pueda avanzar en un acuerdo de colaboraci&oacute;n, no esperar al proceso de extradici&oacute;n y se allane a la legislaci&oacute;n mexicana para encarar los delitos de que se le acusa y, en caso de colaboraci&oacute;n eficaz, obtener alg&uacute;n beneficio de ley.</p>
+
+<p>Hemos informado someramente, ustedes lo van a ver en el documento que les vamos a entregar, los aspectos fundamentales del contexto en el que se da la desaparici&oacute;n de los estudiantes en Ayotizinapa. Evidentemente tenemos en primer lugar un proceso de tensi&oacute;n y de disputa entre distintos c&aacute;rteles delictivos en Guerrero.</p>
+
+<p>En Guerrero, en esos a&ntilde;os, incluso a la fecha, no hay un grupo delictivo dominante, recurrentemente hay procesos de recomposici&oacute;n, y particularmente en el caso de Iguala, que es un &aacute;rea estrat&eacute;gica para el trasiego de la droga.</p>
+
+<p>La disputa que se viv&iacute;a en aquellos momentos se concentraba fundamentalmente entre Guerreros Unidos y Los Rojos, que es un factor muy importante porque justo en las disputas en esos d&iacute;as por el control de las plazas se registraron enfrentamientos importantes entre ambos grupos e incluso, como lo ha acreditado los medios de comunicaci&oacute;n y la propia Secretar&iacute;a de Gobernaci&oacute;n de entonces, el 10 de julio de 2014 hubo un decomiso de droga en la carretera a Puebla, en donde la Procuradur&iacute;a General de la Rep&uacute;blica decomis&oacute; 107 kilos de hero&iacute;na pura, de los cuales los agentes de la procuradur&iacute;a solamente entregaron 24 kilos, y a la fecha este asunto no ha sido esclarecido.</p>
+
+<p>Parte del contexto tiene que ver tambi&eacute;n con el hecho de que, cara a las movilizaciones del 2 de octubre en la Ciudad de M&eacute;xico, la asamblea de las distintas normales rurales del pa&iacute;s, la Federaci&oacute;n de Estudiantes Comunistas Socialistas lleg&oacute; al acuerdo de que la Normal de Ayotzinapa realizara, fuera la sede para la concentraci&oacute;n de los representantes de las distintas normales para acudir a la marcha del 2 de octubre del 2014 a la Ciudad de M&eacute;xico.</p>
+
+<p>Dentro de los compromisos, adem&aacute;s de garantizar el alojamiento y la alimentaci&oacute;n de los estudiantes de las 16 normales rurales, est&aacute; el compromiso de tener los camiones suficientes para su traslado, y es ah&iacute; donde empieza parte de la historia de la desaparici&oacute;n, m&aacute;s a&uacute;n cuando los intentos de la toma de autobuses en Chilpancingo, Zumpango y Tierra Colorada fue impedida por la polic&iacute;a estatal y la Polic&iacute;a Federal, lo cual modific&oacute; la decisi&oacute;n de los dirigentes de la normal, con lo cual toman la decisi&oacute;n de ir en este caso a la ciudad de Iguala.</p>
+
+<p>En un lugar donde exist&iacute;a un antecedente de confrontaci&oacute;n de la escuela normal con el gobierno municipal, derivada de las acciones de la normal, las acciones de protesta por la desaparici&oacute;n de un dirigente social de la regi&oacute;n, Hern&aacute;ndez Cardona, en donde se tom&oacute; el palacio municipal, hubo quema de papeler&iacute;a y de otras acciones, y esto llev&oacute; a que hubiera amenazas directas del presidente municipal y de Guerreros Unidos a la intervenci&oacute;n y presencia de los estudiantes en ese municipio.</p>
+
+<p>Esto quiero traerlo a colaci&oacute;n porque, desde el momento en se estaban haciendo los preparativos de la movilizaci&oacute;n de los estudiantes de cara al 2 de octubre, todas las autoridades, estatales, municipales, federales, estuvieron realizando el seguimiento y las acciones y el movimiento de los estudiantes. Tan es as&iacute;, que impidieron la toma de los autobuses.</p>
+
+<p>Pero, adem&aacute;s, la Secretar&iacute;a de la Defensa Nacional ten&iacute;a dentro de la Normal al soldado Julio C&eacute;sar L&oacute;pez Patolzin, quien estaba realizando informes para la Secretar&iacute;a de la Defensa Nacional, dentro de la Normal, era el responsable de informar de lo que acontec&iacute;a en las asambleas de la Normal y de las movilizaciones de los estudiantes, e incluso estaba informando de los actos preparatorios de la marcha del 2 de octubre.</p>
+
+<p>Este soldado, L&oacute;pez Patolzin, estaba bajo el mando del teniente de Infanter&iacute;a, Marcos Mac&iacute;a Barbosa, del 27 Batall&oacute;n. Su &uacute;ltimo reporte fue al filo de las 10 de la ma&ntilde;ana de ese d&iacute;a y desapareci&oacute;, junto con los otros estudiantes, sin que sus mandos hicieran ninguna acci&oacute;n para garantizar su integridad y su b&uacute;squeda, como lo establece el Protocolo para Militares Desaparecidos, que, de haberse aplicado, hubiera permitido no solamente proteger la integridad y buscar al soldado L&oacute;pez Patolzin, sino a todos los estudiantes.</p>
+
+<p>Por eso, todas las autoridades federales, estatales y municipales estuvieron informadas de la toma de camiones, del traslado de estudiantes a Iguala, de su llegada a Rancho del Cura y a la caseta de Iguala, su llegada a la central de autobuses, de los hechos de persecuci&oacute;n y de violencia de que fueron objeto, lo cual las omisiones en las que incurri&oacute; estas autoridades acreditan un nivel de responsabilidad, ya sea por acci&oacute;n, omisi&oacute;n o negligencia, porque de haber intervenido oportunamente, con la informaci&oacute;n que dispon&iacute;an, se hubiera impedido la desaparici&oacute;n y asesinato de los estudiantes.</p>
+
+<p>Les informamos a los padres de la reconstrucci&oacute;n de los hechos. Quiero decirles a ustedes que hicimos toda una reconstrucci&oacute;n de los hechos, retomando mucho del trabajo que ya se hab&iacute;a realizado, particularmente por seis instituciones: Defensa Nacional, el Centro Nacional de Inteligencia, la Fiscal&iacute;a del estado de Guerrero, la Comisi&oacute;n Nacional de Derechos Humanos, el GIEI, el Centro Prodh, la propia verdad hist&oacute;rica, los testimonios, los an&aacute;lisis de comunicaciones y an&aacute;lisis de mensaje de personas claves.</p>
+
+<p>Los sitios y escenarios donde se dieron todos los hechos fueron evaluados y revisados de nueva cuenta, y junto con ello logramos construir, reconstruir la red de llamadas telef&oacute;nicas que se presentaron entre el 26 y el 28 de septiembre despu&eacute;s de analizar 87 millones de registros en expedientes que nos permitieron depurar una base de 84 mil registros para el periodo en que ocurrieron los hechos violentos del 26 al 28 y ubicar 17 mil n&uacute;meros diferentes que estuvieron participando en las operaciones de ese d&iacute;a.</p>
+
+<p>Con ello, hemos ya demostrado, y esto es un dato que le hemos dado a los padres, toda la red de v&iacute;nculos que se estableci&oacute; entre el grupo delictivo y autoridades de distintos &oacute;rdenes de gobierno. Y esto muestra con toda claridad c&oacute;mo fueron operando en todo el proceso de persecuci&oacute;n, captura y desaparici&oacute;n de los muchachos.</p>
+
+<p>Junto a ello, hemos tenido acceso a 467 capturas de pantalla que nos ha permitido reconstruir 37 conversaciones de cinco n&uacute;meros telef&oacute;nicos distintos entre 36 actores que participaron en los hechos, y que se refieren a 35 personas adicionales.</p>
+
+<p>Estos mensajes fueron objeto de un an&aacute;lisis t&eacute;cnico y de contexto sobre sus contenidos, personajes y ubicaciones en tiempo, lugar y circunstancia, cotej&aacute;ndose con testimonios, documentos, llamadas telef&oacute;nicas y declaraciones ministeriales y judiciales, a fin de corroborar la informaci&oacute;n proporcionada.</p>
+
+<p>Es un esfuerzo t&eacute;cnico de informaci&oacute;n que lleg&oacute; directamente a la comisi&oacute;n y que hoy hemos entregado formalmente a la Fiscal&iacute;a General de la Rep&uacute;blica, quien tiene, adem&aacute;s de las facultades y competencias legales para hacerlo, las capacidades periciales e institucionales para valorar la veracidad de estos datos, porque son mensajes que nos abren nuevas l&iacute;neas de investigaci&oacute;n que facilitan el rompimiento del pacto de silencio, permiten ratificar la corresponsabilidad de distintos actores que participaron en la desaparici&oacute;n y estamos convencidos, por el cruce de llamadas, de estas llamadas, en 98 casos hemos logrado tener los metadatos de la misma coincidiendo con las fechas, hemos cruzado los mensajes con la red de llamadas telef&oacute;nicas en horario y n&uacute;mero telef&oacute;nico que validan gran parte de estos mensajes y que esperemos pronto est&eacute; judicializada plenamente la informaci&oacute;n.</p>
+
+<p>Por supuesto, esta informaci&oacute;n hoy no se las podemos entregar, toda vez de que ya son parte de la carpeta de investigaci&oacute;n y corresponde a la fiscal&iacute;a valorar su importancia, su veracidad y la conclusi&oacute;n de datos que pueden ser contundentes.</p>
+
+<p>Finalmente, dos aspectos presentamos con los padres:</p>
+
+<p>Toda la narrativa de los hechos, desde la salida de los estudiantes de la Normal a Chilpancingo, Tierra Colorada y la escisi&oacute;n a Iguala, el traslado y llegada a Iguala Rancho del Cura y central de autobuses, la salida de la central de autobuses e inicio de la violencia y los actos de desaparici&oacute;n.</p>
+
+<p>Con estos datos&hellip; &mdash;ah&iacute; nos va a faltar esa hojita que quitamos de la presentaci&oacute;n los pap&aacute;s&mdash; se acredita plenamente la colusi&oacute;n y la intervenci&oacute;n de autoridades de distintos &oacute;rdenes de gobierno con los polic&iacute;as municipales de Iguala, Cocula<strong>, </strong>Huitzuco, Tepecoacuilco y, por supuesto, con el grupo delictivo de Guerreros Unidos para llevar a cabo la desaparici&oacute;n de los muchachos.</p>
+
+<p>Ustedes van a recibir textado el documento, es una disposici&oacute;n legal, porque se trata de una carpeta de averiguaci&oacute;n en proceso, en donde van a conocer parte de esta reconstrucci&oacute;n.</p>
+
+<p>Y, finalmente, un balance y conclusiones de lo que a nuestro juicio es la verdad hist&oacute;rica, donde, de acuerdo a la informaci&oacute;n que hemos recabado, que hemos analizado, la verdad hist&oacute;rica la definimos como el resultado de una acci&oacute;n concertada del aparato organizado del poder que se funda, primero, en la llamada de una persona propietaria de una tienda de abarrotes en las cercan&iacute;as de Cocula e Iguala, en los interrogatorios obtenidos mediante tortura a 77 personajes que fueron liberados por ellos por un juez en Tamaulipas, en dos diligencias firmadas por una ministerio p&uacute;blico federal que se encontraba en el mismo lugar y en la misma hora en Guerrero y en la Ciudad de M&eacute;xico, y en la versi&oacute;n de la incineraci&oacute;n de los estudiantes en el basurero de Cocula.</p>
+
+<p>Yo creo que lamentablemente esta versi&oacute;n no s&oacute;lo deriv&oacute; en el entorpecimiento de los procesos de b&uacute;squeda, sino que gener&oacute; vicios y deficiencias, y se configuraron al menos cuatro elementos de violaciones graves a los derechos humanos en materia de desaparici&oacute;n forzada donde concurren: privaci&oacute;n de la libertad, homicidio, participaci&oacute;n e involucramiento de agentes estatales o grupo de personas que actuaron con el apoyo y consentimiento del Estado, y la negativa, ocultamiento y manipulaci&oacute;n de informaci&oacute;n e investigaciones por parte de las autoridades que llevaron a cabo la construcci&oacute;n de esta falsa verdad, que lo pretend&iacute;a era legitimar socialmente hechos, alter&aacute;ndolos, y que privilegi&oacute; una l&oacute;gica jur&iacute;dica ajena al enfoque de derechos humanos, manipulando el sistema de procuraci&oacute;n de justicia.</p>
+
+<p>Hay dos evidencias muy claras de ello:</p>
+
+<p>Son los actos de tortura cometidos, por lo menos hasta ahora acreditados a 77 personas por funcionarios p&uacute;blicos de distintas &aacute;reas de gobierno, y que privaron a su libertad. Esto ha quedado plenamente acreditado con las 50 horas de videos que entreg&oacute; el Centro Nacional de Inteligencia de la fiscal&iacute;a. Dos de esos videos son p&uacute;blicos, se dieron a conocer a trav&eacute;s de los medios de comunicaci&oacute;n.</p>
+
+<p>Pero tambi&eacute;n los sobrevuelos de drones, los videos de los sobrevuelos de drones que la Secretar&iacute;a de Marina entreg&oacute; y pas&oacute; la intervenci&oacute;n de autoridades en el basurero de Cocula y que ha sido ampliamente analizado por el GIEI y que fue presentado en su &uacute;ltimo informe.</p>
+
+<p>Sobre ello, queremos presentar las conclusiones preliminares. Y me gusta subrayar preliminares, porque aqu&iacute; no se cierra ninguna investigaci&oacute;n.</p>
+
+<p>Primera, que la desaparici&oacute;n de los 43 estudiantes de la Normal &lsquo;Isidro Burgos&rsquo; de Ayotzinapa la noche del 26 al 27 de septiembre de 2014 constituy&oacute; un crimen de Estado, en el que concurrieron integrantes del grupo delictivo Guerreros Unidos y agentes de diversas instituciones del Estado mexicano.</p>
+
+<p>Que autoridades federales y estatales del m&aacute;s alto nivel fueron omisas y negligentes existiendo elementos de presunci&oacute;n respecto de alterar hechos y circunstancias para establecer una conclusi&oacute;n ajena a la verdad de los hechos.</p>
+
+<p>Que en todo momento las autoridades federales, estatales y municipales tuvieron conocimiento de la movilizaci&oacute;n de los estudiantes desde la salida de la Escuela Normal &lsquo;Isidro Burgos&rsquo; hasta su desaparici&oacute;n. Y sus acciones, omisiones y participaci&oacute;n permitieron la desaparici&oacute;n y ejecuci&oacute;n de los estudiantes, as&iacute; como el homicidio de otras seis personas.</p>
+
+<p>Que en ning&uacute;n momento la presencia de los estudiantes en Iguala obedeci&oacute; a la intenci&oacute;n de boicotear el acto de la presidenta municipal del DIF en ese municipio.</p>
+
+<p>Que el grupo delictivo actu&oacute; con un amplio n&uacute;mero de sicarios y &lsquo;halcones&rsquo; a partir de un mando central y al menos tres c&eacute;lulas de &lsquo;halcones&rsquo; y sicarios con el apoyo de distintas polic&iacute;as municipales y agentes del estado.</p>
+
+<p>Que en ning&uacute;n momento existi&oacute; comunicaci&oacute;n alguna entre los estudiantes y el grupo delictivo durante los hechos.</p>
+
+<p>Que, tras la salida de la terminal de autobuses de Iguala, en ning&uacute;n momento los estudiantes estuvieron juntos durante su desaparici&oacute;n. Nunca estuvieron los 43 en el basurero de Cocula, como lo vamos a demostrar.</p>
+
+<p>Se confirma la intervenci&oacute;n de la polic&iacute;a de Iguala en el aseguramiento de los estudiantes en el autob&uacute;s 1531.</p>
+
+<p>Se confirma la presencia de polic&iacute;as de Huitzuco en el Palacio de Justicia en Iguala y en Santa Teresa.</p>
+
+<p>Se confirma el traslado del autob&uacute;s EcoTer sin pasaje hacia el estado de Morelos, librando todos los retenes establecidos.</p>
+
+<p>Aqu&iacute; hago una acotaci&oacute;n, la informaci&oacute;n que hemos recuperado nos indica que se establecieron por lo menos 16 retenes en el per&iacute;metro de Iguala en todas sus salidas, a Cocula, a Chilpancingo, a Cuernavaca, a Tepecoacuilco, a todo el per&iacute;metro, a Taxco, y nunca fue detenido este cami&oacute;n donde presuntamente, como algunos de los mensajes se&ntilde;ala, se presume se recuper&oacute; la mercanc&iacute;a, y la mercanc&iacute;a es o droga o dinero.</p>
+
+<p>Se confirma que los mandos militares de la regi&oacute;n no realizaron acciones para la protecci&oacute;n y b&uacute;squeda del soldado Julio C&eacute;sar L&oacute;pez Patolzin, lo cual era su obligaci&oacute;n.</p>
+
+<p>Que al filo de las 22:45 horas del 26 de septiembre de 2014, tras los hechos de violencia y la persecuci&oacute;n, se dio la orden de desaparecer a los estudiantes.</p>
+
+<p>Se confirma la identificaci&oacute;n de tres de los 43 estudiantes desaparecidos.</p>
+
+<p>Que no hay indicio alguno de que los estudiantes se encuentren con vida; por el contrario, todos los testimonios y evidencias acreditan que estos fueron arteramente ultimados y desaparecidos.</p>
+
+<p>Que es necesario continuar en la b&uacute;squeda en la ribera del r&iacute;o Balsas y en la laguna del Nuevo Balsas, en Atzcala, municipio de Cocula; en la barranca de Tonalapa, municipio de Tepecoacuilco; en Brecha de Lobos y en el Paraje Suriano, en Iguala, y en las inmediaciones de Tepehuaje.</p>
+
+<p>Existen elementos suficientes para que la Fiscal&iacute;a General de la Rep&uacute;blica inicie o contin&uacute;e las indagatorias para el deslinde de responsabilidades en contra de 33 personas que hemos se&ntilde;alado y que est&aacute;n llevadas a cabo en estos momentos las diligencias judiciales correspondientes.</p>
+
+<p>Concluyo dici&eacute;ndoles que la creaci&oacute;n de la verdad hist&oacute;rica fue una acci&oacute;n concertada del aparato organizado del poder desde el m&aacute;s alto nivel del gobierno, que ocult&oacute; la verdad de los hechos, alter&oacute; las escenas del crimen, ocult&oacute; los v&iacute;nculos de autoridades con el grupo delictivo y la participaci&oacute;n de agentes del estado, fuerzas de seguridad y autoridades responsables de la procuraci&oacute;n de justicia en la desaparici&oacute;n de los estudiantes.</p>
+
+<p>En resumen, se trat&oacute; de un crimen de Estado.</p>
+
+<p>La investigaci&oacute;n contin&uacute;a, la b&uacute;squeda de los estudiantes contin&uacute;a. Corresponde a la Unidad Especializada para la Investigaci&oacute;n y Litigaci&oacute;n del Caso Ayotzinapa el an&aacute;lisis de la informaci&oacute;n aqu&iacute; proporcionada y, en su caso, proceder a su judicializaci&oacute;n.</p>
+
+<p>Por parte de la Comisi&oacute;n Presidencial por la Verdad y la Justicia en el caso de Ayotzinapa continuar&aacute; con sus labores de investigaci&oacute;n, b&uacute;squeda y coadyuvancia con la fiscal&iacute;a especial con el GIEI. Y como hemos insistido y como es la instrucci&oacute;n del presidente de la Rep&uacute;blica no vamos a solapar ning&uacute;n abuso, violaci&oacute;n a los derechos humanos ni injusticia alguna. Todos los responsables deber&aacute;n ser castigados.</p>
+
+<p>A partir de este momento, el informe presentado y sus anexos son de car&aacute;cter p&uacute;blico.</p>
+
+<p>Publicar esta informaci&oacute;n abre al escrutinio p&uacute;blico nuestro trabajo y busca propiciar que otras personas que cuenten con informaci&oacute;n, hacemos ese llamado, a que todas las personas que cuenten con informaci&oacute;n la aporten en beneficio del esclarecimiento de estos deleznables hechos.</p>
+
+<p>Es cuanto.</p>
+
+<p>Estoy a sus &oacute;rdenes.</p>
+
+<p><strong>PREGUNTA: </strong>Me gustar&iacute;a preguntarle, entre estas 33 personas a las que se solicita por parte de la FGR que lleva a cabo las investigaciones, saber cu&aacute;ntas de estas 33 personas, si se pueden saber cu&aacute;ntas son autoridades municipales, federales, cu&aacute;ntos son elementos militares o de la Secretar&iacute;a de Marina.</p>
+
+<p>Gobernantes, tal vez el gobernador de Guerrero o incluso el mismo expresidente Enrique Pe&ntilde;a Nieto si est&aacute; en la lista de estas 33 personas.</p>
+
+<p>Y precisar nada m&aacute;s, cuando habla de la hora en que se dio la orden de que desapareciera, de la desaparici&oacute;n de los 43 estudiantes, si se tiene determinado de d&oacute;nde parti&oacute; esta orden, de qu&eacute; nivel de gobierno, de qu&eacute; nivel de autoridad.</p>
+
+<p>Y saber en qu&eacute; consiste la prueba pericial con la que se determina que a esa hora se gir&oacute; esta instrucci&oacute;n, y desde qu&eacute; autoridad.</p>
+
+<p style="margin-left:35.4px;">Ser&iacute;an mis preguntas.</p>
+
+<p><strong>ALEJANDRO ENCINAS RODR&Iacute;GUEZ:</strong> Toda la informaci&oacute;n justamente de qui&eacute;nes dieron esa orden es parte de la investigaci&oacute;n judicial, esto desde hace ya varios meses que tenemos acabada todo el an&aacute;lisis y registro de las redes telef&oacute;nicas y los intercambios, forma parte de la investigaci&oacute;n.</p>
+
+<p>De las &oacute;rdenes que est&aacute; procesando la fiscal&iacute;a, yo preferir&iacute;a que es la fiscal&iacute;a quien tiene dar la informaci&oacute;n, pero s&iacute; hay personajes de todos los sectores que mencionaste, de Pe&ntilde;a Nieto no.</p>
+
+<p><strong>INTERLOCUTORA:</strong> (inaudible)</p>
+
+<p><strong>ALEJANDRO ENCINAS RODR&Iacute;GUEZ:</strong> Bueno, esa es la que&hellip; &iquest;Las &oacute;rdenes de aprehensi&oacute;n est&aacute;n trabajando? No. Sigue la investigaci&oacute;n por supuesto, que est&aacute; realizando la fiscal&iacute;a a partir de qui&eacute;n construy&oacute; la verdad hist&oacute;rica y qui&eacute;n orden&oacute; que esta se haya implementado.</p>
+
+<p><strong>INTERLOCUTORA:</strong> Pero el presidente Pe&ntilde;a Nieto&hellip;</p>
+
+<p><strong>ALEJANDRO ENCINAS RODR&Iacute;GUEZ:</strong> &Eacute;l no est&aacute;, en esto no.</p>
+
+<p><strong>INTERLOCUTORA: </strong>(inaudible)</p>
+
+<p><strong>ALEJANDRO ENCINAS RODR&Iacute;GUEZ:</strong> Eso que se los d&eacute; la fiscal&iacute;a, por favor.</p>
+
+<p><strong>INTERLOCUTORA:</strong> Y lo de la orden de&hellip;</p>
+
+<p><strong>ALEJANDRO ENCINAS RODR&Iacute;GUEZ:</strong> Tambi&eacute;n lo tiene la fiscal&iacute;a y lo est&aacute; investigando.</p>
+
+<p>Quiero decir, no voy a dar ning&uacute;n dato vinculado con el proceso de judicializaci&oacute;n en la informaci&oacute;n que se encuentra dentro de la carpeta porque incurrir&iacute;a en responsabilidad.</p>
+
+<p><strong>PREGUNTA:</strong> Subsecretario, buenas tardes.</p>
+
+<p>Emir Olivares, de <em>La Jornada</em>.</p>
+
+<p>Preguntarle, habla de que el Ej&eacute;rcito tuvo conocimiento de la situaci&oacute;n, incluso ten&iacute;an a un soldado, digamos, infiltrado dentro de la Normal. Si hubiera habido una actuaci&oacute;n del Ej&eacute;rcito o de otras autoridades, al saber todo esto, hubieran sido todav&iacute;a capaces de salvar a los j&oacute;venes, de dar con los responsables. &iquest;Qu&eacute; pas&oacute; ah&iacute;? &iquest;Por qu&eacute; no hubo actuaci&oacute;n?</p>
+
+<p><strong>ALEJANDRO ENCINAS RODR&Iacute;GUEZ:</strong> Esa es la responsabilidad del teniente Barbosa, que tendr&aacute; que rendir cuentas de su omisi&oacute;n, en el lanzar la integridad f&iacute;sica y la b&uacute;squeda del soldado Patolzin, que coincido, efectivamente, hubiera sido muy &uacute;til implementar el protocolo de b&uacute;squeda de militares desaparecidos para evitar la desaparici&oacute;n de los muchachos.</p>
+
+<p><strong>PREGUNTA:</strong> Siguiendo la cadena de mando, si ya con este tema de que se identifica a este militar en activo en labores de inteligencia y dem&aacute;s, &iquest;llegar&iacute;a solamente hasta el teniente Barbosa la responsabilidad o escalaria en todo caso al general Cienfuegos o alg&uacute;n otro mando? Digo, sin revelar.</p>
+
+<p><strong>ALEJANDRO ENCINAS RODR&Iacute;GUEZ:</strong> Se est&aacute; revisando la cadena de mando en todos los espacios del &aacute;mbito de la zona, de la regi&oacute;n, lo est&aacute; revisando la fiscal&iacute;a.</p>
+
+<p><strong>INTERLOCUTOR:</strong> Pero, entonces, digamos que en este caso ya a estas alturas de la investigaci&oacute;n que llevan, &iquest;ya hay una plena identificaci&oacute;n de que hubo participaci&oacute;n del Ej&eacute;rcito en el caso, en la desaparici&oacute;n y dem&aacute;s?</p>
+
+<p><strong>ALEJANDRO ENCINAS RODR&Iacute;GUEZ:</strong> S&iacute;.</p>
+
+<p><strong>INTERLOCUTOR:</strong> Tambi&eacute;n preguntarle sobre este tema que hablaba de c&oacute;mo se ha recopilado la informaci&oacute;n. &iquest;Ya se cuenta con la totalidad de toda la informaci&oacute;n, todas las escuchas que hicieron en Estados Unidos respecto a los hechos en el d&iacute;a en que ocurrieron los hechos y posterior? O sea, &iquest;ya hay&hellip;?</p>
+
+<p><strong>ALEJANDRO ENCINAS RODR&Iacute;GUEZ:</strong> Hay un acercamiento en particular de la Unidad Especial para la Investigaci&oacute;n de Caso de Ayotzinapa y la fiscal&iacute;a con el Departamento de Justicia de los Estados Unidos. Han venido trabajando de manera conjunta y le han brindado m&aacute;s informaci&oacute;n a la fiscal&iacute;a.</p>
+
+<p><strong>INTERLOCUTOR:</strong> Pero digamos que ah&iacute; no sabr&iacute;a decirnos si ya se complet&oacute; la entrega de esa informaci&oacute;n que&hellip;</p>
+
+<p><strong>ALEJANDRO ENCINAS RODR&Iacute;GUEZ: </strong>Se est&aacute; llevando a cabo y va por muy buen camino.</p>
+
+<p><strong>INTERLOCUTOR:</strong> Muchas gracias.</p>
+
+<p>Y por &uacute;ltimo nada m&aacute;s preguntarle, digamos que fuentes de informaci&oacute;n se descarta incluso los hallazgos y recomendaciones que hizo la entonces CNDH. &iquest;En este caso ya se descart&oacute; totalmente? Si nos podr&iacute;a decir si s&iacute; se descart&oacute; y por qu&eacute; razones es que ya no se consider&oacute;.</p>
+
+<p><strong>ALEJANDRO ENCINAS RODR&Iacute;GUEZ:</strong> Bueno quien la ha descartado es la propia Comisi&oacute;n Nacional de los Derechos Humanos actualmente.</p>
+
+<p>Sin embargo, creo que queda un asunto pendiente que tiene que tiene que resolver la Fiscal&iacute;a General de la Rep&uacute;blica, que es en an&aacute;lisis de las petrosas<strong><em>,</em></strong> que es de los asuntos que est&aacute;n pendientes de esa recomendaci&oacute;n en donde hay una discusi&oacute;n entre los peritos respecto a si tienen el contenido de ADN suficiente para una identificaci&oacute;n.</p>
+
+<p>En lo personal, creo que debe complementarse esa parte de la recomendaci&oacute;n de la comisi&oacute;n nacional.</p>
+
+<p><strong>INTERLOCUTOR:</strong> (inaudible)</p>
+
+<p><strong>ALEJANDRO ENCINAS RODR&Iacute;GUEZ: </strong>Siempre le tocan, no nos toca a nosotros. Nosotros no somos autoridad ministerial ni judicial.</p>
+
+<p><strong>INTERLOCUTOR:</strong> (inaudible)</p>
+
+<p><strong>ALEJANDRO ENCINAS RODR&Iacute;GUEZ: </strong>Eso est&aacute; en el terreno de la fiscal&iacute;a.</p>
+
+<p><strong>INTERLOCUTOR:</strong> Gracias.</p>
+
+<p><strong>ALEJANDRO ENCINAS RODR&Iacute;GUEZ: S&iacute;.</strong></p>
+
+<p><strong>PREGUNTA:</strong> Hablaba usted de la reconstrucci&oacute;n de llamadas que se entregaron incluso a la fiscal&iacute;a y entiendo que por ser parte de la investigaci&oacute;n no puede hablar o adentrarse mucho en ella, pero le da usted un &eacute;nfasis a estas llamadas.</p>
+
+<p>Y yo quer&iacute;a preguntarle si esta reconstrucci&oacute;n de las llamadas dar&iacute;a un giro a la investigaci&oacute;n o podr&iacute;a dar con el paradero de muchos de los j&oacute;venes.</p>
+
+<p><strong>ALEJANDRO ENCINAS RODR&Iacute;GUEZ:</strong> En el caso del paradero no, hay que recordar que fueron despojados de sus tel&eacute;fonos celulares, incluso algunos tel&eacute;fonos que les fueron despojados a los muchachos fueron utilizados posteriormente con otro chip, tienen un registro del IMEI, eso nos ha permitido ver qu&eacute; otros v&iacute;nculos se desprenden de la gente que particip&oacute;.</p>
+
+<p><strong>INTERLOCUTOR:</strong> &iquest;Y tendr&iacute;a la facultad la comisi&oacute;n de presentar denuncias o pedir o hacer la petici&oacute;n de la apertura de carpetas espec&iacute;ficamente contra algunos funcionarios, por ejemplo?</p>
+
+<p><strong>ALEJANDRO ENCINAS RODR&Iacute;GUEZ:</strong> La informaci&oacute;n que proporcionamos a la fiscal&iacute;a como coadyuvantes hace que toda sea atendida y desahogada por la fiscal&iacute;a.</p>
+
+<p><strong>PREGUNTA:</strong> Yo tengo dos preguntas, y la primera es: &iquest;por qu&eacute; la responsabilidad no abarca al presidente o expresidente Enrique Pe&ntilde;a Nieto?, &iquest;lo est&aacute;n protegiendo?</p>
+
+<p>Y segunda, la pregunta m&aacute;s com&uacute;n y a la mejor la m&aacute;s dif&iacute;cil: &iquest;d&oacute;nde est&aacute;n los estudiantes?, &iquest;cabe la posibilidad de que terminaran muertos en Morelos, en la zona caliente de Guerrero?, &iquest;d&oacute;nde est&aacute;n, si es que no los encuentran o han encontrado otras pistas?</p>
+
+<p>Gracias.</p>
+
+<p><strong>ALEJANDRO ENCINAS RODR&Iacute;GUEZ:</strong> Yo aprecio mucho la primera pregunta para esclarecer cu&aacute;l es nuestra responsabilidad. Nosotros estamos enfocados a dos objetivos fundamentales y es la facultad de competencia que el decreto del presidente me ha mandatado: esclarecer los hechos del 26 y 27 de septiembre y buscar el paradero de los muchachos.</p>
+
+<p>Corresponde a la fiscal&iacute;a, con la aportaci&oacute;n que aportemos y la que ella misma desarrolle, fincar las responsabilidades a los servidores p&uacute;blicos involucrados. Ese es el mandato que nosotros tenemos, creo que hemos avanzado much&iacute;simo el d&iacute;a de hoy.</p>
+
+<p>Y, por supuesto, estamos atendiendo todos los lugares donde recibimos informaci&oacute;n para hacer b&uacute;squeda, 101 b&uacute;squedas es un n&uacute;mero muy significativo y vamos a hacer las que sean necesarias. Si es necesario en otras entidades, lo haremos, pero quiero decirles que en todos los casos en las b&uacute;squedas que hemos tenido ha habido al menos un m&iacute;nimo o una base de informaci&oacute;n para ubicar el sitio.</p>
+
+<p><strong>PREGUNTA:</strong> Gracias. Jorge Buitr&oacute;n, del peri&oacute;dico <em>La Raz&oacute;n</em>.</p>
+
+<p>&iquest;Cu&aacute;l fue&hellip;? Al principio de la conferencia que fue una reuni&oacute;n dolorosa con los padres y en las conclusiones menciona que hay muchos indicios que los j&oacute;venes no est&eacute;n vivos. &iquest;Cu&aacute;l fue la reacci&oacute;n de los padres al decirles esto?</p>
+
+<p>Y, por otra parte, &iquest;qu&eacute; sigue despu&eacute;s de estas investigaciones?, &iquest;seguir&aacute; el GIEI o ya toma completo control la fiscal&iacute;a y el GIEI ya se va a ir? Queremos saber algo al respecto.</p>
+
+<p>Gracias.</p>
+
+<p><strong>ALEJANDRO ENCINAS RODR&Iacute;GUEZ:</strong> Nosotros queremos que el GIEI contin&uacute;e con su trabajo de coadyuvancia, ha sido muy importante su labor y esperemos se refrende su participaci&oacute;n en todo el proceso de trabajo con la fiscal&iacute;a.</p>
+
+<p>Y la relaci&oacute;n con los padres es del mayor respeto, y con mucha carga de dolor y de verdad. Y respetamos mucho a los padres de familia por la situaci&oacute;n que enfrentan.</p>
+
+<p><strong>INTERLOCUTOR:</strong> &iquest;Cu&aacute;l es la postura de los padres?</p>
+
+<p><strong>ALEJANDRO ENCINAS RODR&Iacute;GUEZ:</strong> El acuerdo que tenemos, que fue parte del informe, es que se les entrega el informe, se les dio el detalle, se llevaron el informe para revisarlo, lo va a discutir y tendremos una reuni&oacute;n pr&oacute;xima con el presidente de la Rep&uacute;blica para conocer sus opiniones.</p>
+
+<p><strong>INTERLOCUTOR:</strong> &iquest;Qu&eacute; les dijo el presidente Andr&eacute;s Manuel?</p>
+
+<p><strong>ALEJANDRO ENCINAS RODR&Iacute;GUEZ:</strong> El presidente, b&aacute;sicamente dos mensajes dentro de su intervenci&oacute;n. Por supuesto, el compromiso, la solidaridad, la sensibilidad con lo que est&aacute;n viviendo por ratificar, por convicci&oacute;n, no solamente por obligaci&oacute;n legal, nuestro compromiso con la verdad y la justicia para esclarecer estos hechos.</p>
+
+<p><strong>PREGUNTA:</strong> Para preguntarle si alguna confirmaci&oacute;n de que los estudiantes fueron separados y llevados a distintos lugares en grupos peque&ntilde;os.</p>
+
+<p>Y en segundo lugar, si hay indicios que fue el Ej&eacute;rcito espec&iacute;ficamente que particip&oacute; en esta desaparici&oacute;n y por lo que nos indica matanza de los estudiantes.</p>
+
+<p>Y por tercero, si hay alg&uacute;n avance en la extradici&oacute;n de Tom&aacute;s Zer&oacute;n. Y preguntarle por qu&eacute; esto ha tardado pues bastante tiempo.</p>
+
+<p>Gracias.</p>
+
+<p><strong>ALEJANDRO ENCINAS RODR&Iacute;GUEZ:</strong> Yo tambi&eacute;n quisiera saber por qu&eacute; ha tardado tanto tiempo. Pero por supuesto que ese es un asunto que encabeza la Fiscal&iacute;a General de la Rep&uacute;blica con el apoyo de la Canciller&iacute;a de M&eacute;xico, la embajada de M&eacute;xico en Israel y est&aacute;n trabajando, en los pr&oacute;ximos d&iacute;as seguramente habr&aacute; noticias de los avances de esta relaci&oacute;n con el gobierno de Israel.</p>
+
+<p>Sobre si estuvieron juntos o no, ya lo dije desde un principio, en ning&uacute;n momento estuvieron los estudiantes juntos desde el momento en que se separan a la salida de la terminal de autobuses de Iguala.</p>
+
+<p>Estamos hablando de que operaron c&eacute;lulas, por lo menos tres c&eacute;lulas, seis grupos, seis grupos, tres c&eacute;lulas y un mando central en la tarea de la desaparici&oacute;n en donde fueron trasladados a distintos puntos tanto que estaban en el Palacio de Justicia como estaban en la zona de Perif&eacute;rico y evidentemente no estuvieron juntos, es lo que estamos confirmando.</p>
+
+<p>S&iacute;.</p>
+
+<p><strong>PREGUNTA:</strong> Tambi&eacute;n, con respecto a las reuniones que tuvieron en febrero con Tom&aacute;s Zer&oacute;n, si tiene conocimiento qu&eacute; fue exactamente lo que se le ofreci&oacute; en este criterio de oportunidad, qu&eacute; fue a lo que se neg&oacute; el se&ntilde;or Tom&aacute;s Zer&oacute;n?</p>
+
+<p><strong>ALEJANDRO ENCINAS RODR&Iacute;GUEZ:</strong> Bueno, se neg&oacute; a aceptarlo. &iquest;Y cu&aacute;l es el ofrecimiento?</p>
+
+<p><strong>INTERLOCUTORA:</strong> &iquest;Y qu&eacute; fue lo que se ofreci&oacute;?, que diera informaci&oacute;n sobre los estudiantes.</p>
+
+<p><strong>ALEJANDRO ENCINAS RODR&Iacute;GUEZ:</strong> La ley establece muy claramente cu&aacute;les son los requisitos para poder otorgar un criterio de oportunidad, que son beneficios por colaboraci&oacute;n, por informaci&oacute;n fidedigna y corroborara por la autoridad judicial.</p>
+
+<p><strong>INTERLOCUTORA:</strong> (inaudible)</p>
+
+<p><strong>ALEJANDRO ENCINAS RODR&Iacute;GUEZ:</strong> Yo espero que lo est&eacute; analizando todav&iacute;a.</p>
+
+<p><strong>PREGUNTA:</strong> Subsecretario, comentaba usted como una conclusi&oacute;n que no hay indicios de que est&eacute;n vivos ninguno de los 43 estudiantes, eso era parte de lo que planteaba la verdad hist&oacute;rica, que los 43 hab&iacute;an sido asesinados, que hab&iacute;an sido.</p>
+
+<p><strong>ALEJANDRO ENCINAS RODR&Iacute;GUEZ:</strong> Yo no tomo en cuenta la verdad hist&oacute;rica.</p>
+
+<p><strong>INTERLOCUTOR:</strong> No, lo que &mdash;perm&iacute;tame&mdash; lo que quiero preguntar: &iquest;en qu&eacute; medida entonces&hellip;? Digo, pero es la parte central esa, que hab&iacute;an sido asesinados, que hab&iacute;an sido incinerados. Bueno, &iquest;podr&iacute;a&hellip;? Lo que quer&iacute;a preguntarle es: en ese punto central son parecidos a lo que hab&iacute;a concluido y&hellip;</p>
+
+<p><strong>ALEJANDRO ENCINAS RODR&Iacute;GUEZ:</strong> No, no hay ning&uacute;n parecido.</p>
+
+<p><strong>INTERLOCUTOR:</strong> Pero que me dijera&hellip;</p>
+
+<p><strong>ALEJANDRO ENCINAS RODR&Iacute;GUEZ:</strong> No hay ning&uacute;n parecido, la verdad hist&oacute;rica dice que incineraron a los 43 estudiantes en el basurero de Cocula, nosotros hemos se&ntilde;alado que intervinieron varios grupos y los dispersaron, y que hubo distintas formas de intervenci&oacute;n en las agresiones contra los estudiantes. Yo no veo ning&uacute;n punto de coincidencia en ello.</p>
+
+<p><strong>INTERLOCUTOR:</strong> Muy bien. Yo le preguntaba solamente porque en la parte inicial, en la que hab&iacute;an sido asesinados. Digo, ya despu&eacute;s efectivamente, como comenta, hay esas diferencias.</p>
+
+<p><strong>ALEJANDRO ENCINAS RODR&Iacute;GUEZ:</strong> No hay ning&uacute;n indicio de vida, y eso no es una coincidencia con la verdad hist&oacute;rica, es una triste realidad.</p>
+
+<p>Muy bien.</p>
+
+<p><strong>PREGUNTA:</strong> Buenas tardes. Tengo varias preguntas. La primera, bueno, &iquest;qu&eacute; s&iacute; pas&oacute; la noche de Iguala?, &iquest;qu&eacute; es lo que saben que s&iacute; pas&oacute; despu&eacute;s de que los capturan estas c&eacute;lulas?</p>
+
+<p>Lo otro ser&iacute;a, &iquest;cu&aacute;l fue el papel de la Sedena, de la Marina, de la Polic&iacute;a Federal, de la polic&iacute;a estatal, de la PGR, de la Seido, de servicios periciales? O sea, que nos diga qu&eacute; delitos se cometieron, de qu&eacute; &iacute;ndole qu&eacute; cr&iacute;menes ocurrieron ah&iacute;. Eso, por una parte.</p>
+
+<p>Y la otra si el GIEI ya aval&oacute; este informe, si le van a permitir o se va a presentar algo. &iquest;Por qu&eacute; no est&aacute;n aqu&iacute; avalando o qu&eacute;&hellip;?</p>
+
+<p><strong>ALEJANDRO ENCINAS RODR&Iacute;GUEZ:</strong> Es un informe de la comisi&oacute;n, al GIEI se ha le ha hecho llegar toda la informaci&oacute;n; nos dar&aacute;n, por supuesto, su opini&oacute;n y sus comentarios, creo que es bueno. Y as&iacute; como nosotros conocimos <strong>el</strong> informe del GIEI, trabajamos en ese mismo sentido.</p>
+
+<p>&iquest;Qu&eacute; pas&oacute;?</p>
+
+<p>La desaparici&oacute;n forzada de los muchachos esa noche por agentes del estado y grupos delictivos. Como instituci&oacute;n, particip&oacute; Sedena, Marina. De la Polic&iacute;a Federal no se acredit&oacute; una acci&oacute;n de car&aacute;cter institucional, pero s&iacute; responsabilidades claras de elementos de esas instituciones.</p>
+
+<p><strong>INTERLOCUTORA:</strong> Y bueno, viendo que este es todo un entramado criminal, usted dice que es un crimen de Estado. Como se dec&iacute;a, es de las primeras marchas. Y que no es la primera vez, o sea, lo sabemos que esto pas&oacute; en la masacre de los 72, que se repiti&oacute; en Tlatlaya, que se repiti&oacute; en muchos otros casos.</p>
+
+<p>&iquest;Con esos casos qu&eacute; se va a hacer? &iquest;Se van a revisar? O sea, estamos ahorita nada m&aacute;s hablando de Ayotzinapa. Eso, por una parte.</p>
+
+<p>Y el otro, viendo la participaci&oacute;n tambi&eacute;n de la Sedena &iquest;qu&eacute; piensa de esto que quiere hacer el presidente de pasar la Guardia Nacional a la Sedena?</p>
+
+<p><strong>ALEJANDRO ENCINAS RODR&Iacute;GUEZ:</strong> Esa ya te la contest&eacute; el otro d&iacute;a y no te la voy a repetir hoy&hellip;</p>
+
+<p><strong>INTERLOCUTORA: </strong>No, pero quisiera&hellip;</p>
+
+<p><strong>ALEJANDRO ENCINAS RODR&Iacute;GUEZ: </strong>Y no te la voy a repetir hoy, estamos hablando de Ayotzinapa.</p>
+
+<p><strong>INTERLOCUTORA:</strong> Pero la militarizaci&oacute;n, o sea, bueno &iquest;qu&eacute; piensa de esto?</p>
+
+<p><strong>ALEJANDRO ENCINAS RODR&Iacute;GUEZ:</strong> No, lo digo de manera muy&hellip; Nosotros tenemos dos responsabilidades hoy para esclarecer cr&iacute;menes de Estado, es la primera vez que estamos avanzando en el esclarecimiento de cr&iacute;menes de Estado asumiendo la responsabilidad del Estado mismo: el crimen de Ayotzinapa y los cr&iacute;menes cometidos durante la llamada guerra sucia.</p>
+
+<p>Esperemos, d&eacute;jenos terminas estas y ya veremos otras m&aacute;s que seguramente se llevan a cabo adelante.</p>
+
+<p><strong>INTERVENCI&Oacute;N:</strong> Subsecretario, otro tema creo que no toc&oacute; aqu&iacute;, este asunto del Poder Judicial, y me gustar&iacute;a preguntarle &iquest;no?, porque se han liberado a algunas personas. Entonces, no s&eacute; si eso han avanzado.</p>
+
+<p>Y si se va a unificar en un solo juzgado, ya lo consiguieron.</p>
+
+<p>Y, bueno, si estos jueces si han recibido presiones para liberar personas. &iquest;O qu&eacute; han detectado, pues? Y de ah&iacute;, &iquest;c&oacute;mo lo van a resolver para el acceso a la justicia?</p>
+
+<p><strong>ALEJANDRO ENCINAS RODR&Iacute;GUEZ:</strong> Yo creo que hay un problema de origen desde el momento en que el Poder Judicial radic&oacute; en siete juzgados de siete entidades diferentes 38 procesos penales. Y evidentemente, esto no solamente no permite tener una jurisdicci&oacute;n &uacute;nica para atenderlo, sino lleva a burocracia, a tr&aacute;mites administrativos, a criterios diferenciados entre los jueces, jueces como el de Tamaulipas, Juan Ventura Ramos que liber&oacute; a 77 personas que hab&iacute;an sido torturadas, s&iacute; fueron torturadas, eso hay que decirlo, pero en ning&uacute;n momento dio vista el ministerio p&uacute;blico antes de su liberaci&oacute;n y en ning&uacute;n momento defini&oacute; qui&eacute;nes fueron los torturadores.</p>
+
+<p><strong>INTERVENCI&Oacute;N: &iquest;</strong>Ya se va a unificar el caso o seguir&aacute; fragmentado en varios juzgados?</p>
+
+<p><strong>ALEJANDRO ENCINAS RODR&Iacute;GUEZ:</strong> Hay jueces que consideran que el delito de desaparici&oacute;n forzada prescribe cuando est&aacute; claramente establecido en nuestra legislaci&oacute;n que este delito grave de violaci&oacute;n a los derechos humanos no prescribe.</p>
+
+<p>Hay jueces que nos han soltado a personas que se hab&iacute;an evadido, que fue, por ejemplo, el caso de uno de ellos deportado a los Estados Unidos, que fue vuelto a detener en Ciudad Ju&aacute;rez, que se present&oacute; ante el juez de Iguala y lo solt&oacute; por 10 mil pesos. Hay problemas con el Poder Judicial.</p>
+
+<p>Los padres han pedido una jurisdicci&oacute;n &uacute;nica, no ha habido respuesta. Creo que eso ayudar&iacute;a mucho, no solamente a agilizar toda la parte de judicializaci&oacute;n, sino tambi&eacute;n a transparentar la acci&oacute;n del Poder Judicial.</p>
+
+<p><strong>INTERLOCUTOR: </strong>Oiga y, si me permite tambi&eacute;n, dice Tom&aacute;s Zer&oacute;n, ya rechaz&oacute; este criterio de oportunidad, pero se sigue el di&aacute;logo con sus abogados. &iquest;Qu&eacute; otro beneficio se le podr&iacute;a ofrecer? Si escuch&eacute; bien, dice que todav&iacute;a se han planteado esto. &iquest;Qu&eacute; otro beneficio, si ya no acept&oacute; el criterio de oportunidad? Y si esto&hellip;</p>
+
+<p><strong>ALEJANDRO ENCINAS RODR&Iacute;GUEZ:</strong> No hay mayores beneficios que los que establece la ley, ah&iacute; no es un asunto de negociaci&oacute;n.</p>
+
+<p><strong>INTERLOCUTOR:</strong> &iquest;Y esto no postergar&iacute;a la impunidad, en caso de sancionar a Tom&aacute;s Zer&oacute;n?</p>
+
+<p><strong>ALEJANDRO ENCINAS RODR&Iacute;GUEZ:</strong> Si da la informaci&oacute;n para esclarecer el caso, pues se acabar&aacute; con la impunidad, ese es el objetivo de los criterios de oportunidad en la legislaci&oacute;n.</p>
+
+<p>Bueno, quiero pedirles&hellip; Vamos entregarles el DVD.</p>
+
+<p><strong>PREGUNTA:</strong> Una m&aacute;s.</p>
+
+<p><strong>ALEJANDRO ENCINAS RODR&Iacute;GUEZ: </strong>Una m&aacute;s.</p>
+
+<p>No, el USB, perd&oacute;n. Aqu&iacute; pueden bajar, esta es la p&aacute;gina donde est&aacute; toda la informaci&oacute;n, les vamos a entregar el USB y ah&iacute; viene todos los documentos.</p>
+
+<p><strong>PREGUNTA:</strong> S&iacute;, se&ntilde;or, para preguntarle, usted habl&oacute;&hellip; Bueno, varias cosas. Uno, sobre la Marina, el papel de la Marina. Bueno, vimos los videos. &iquest;Qu&eacute; ocurre con eso? Se ha hablado de que fue la Unidad de Operaciones Especiales la que oper&oacute; en ese momento. &iquest;Qu&eacute; hay sobre eso?</p>
+
+<p>Otra, usted tambi&eacute;n habl&oacute; de que le hicieron llegar o a la comisi&oacute;n v&iacute;nculos de llamadas. &iquest;Puede contarnos la historia de c&oacute;mo fue que le lleg&oacute; a la comisi&oacute;n?</p>
+
+<p><strong>ALEJANDRO ENCINAS RODR&Iacute;GUEZ:</strong> No te la puedo contar, por protecci&oacute;n al testigo que est&aacute; colaborando.</p>
+
+<p><strong>INTERLOCUTORA:</strong> No, bueno, pero la historia, no le estoy pidiendo que me d&eacute; los v&iacute;nculos.</p>
+
+<p><strong>ALEJANDRO ENCINAS RODR&Iacute;GUEZ:</strong> Esa no te lo voy a contar, la otra s&iacute;.</p>
+
+<p><strong>INTERLOCUTORA:</strong> A ver.</p>
+
+<p><strong>ALEJANDRO ENCINAS RODR&Iacute;GUEZ:</strong> Todos los videos que encontramos en una investigaci&oacute;n que hicimos el GIEI y la Covaj en los archivos de la Secretar&iacute;a de Marina nos permiti&oacute; acreditar la existencia de estos vuelos de dron.</p>
+
+<p>El GIEI ha sido muy claro en su &uacute;ltimo informe de la relevancia de estos hechos donde acredita efectivamente la presencia de la Unidad de Operaciones Especiales del &Aacute;rea de Inteligencia de la Secretar&iacute;a de Marina. Estos videos y estas diligencias ya est&aacute;n en la carpeta de investigaci&oacute;n.</p>
+
+<p><strong>INTERLOCUTORA:</strong> Oiga, y sobre la responsabilidad de la Sedena, hablaba usted de, por ejemplo, de este teniente. &iquest;Ya est&aacute; haciendo procesado?</p>
+
+<p><strong>ALEJANDRO ENCINAS RODR&Iacute;GUEZ:</strong> Esperemos que as&iacute; sea, tanto por la justicia civil como tambi&eacute;n por la justicia militar, porque no cumpli&oacute; con sus protocolos.</p>
+
+<p><strong>INTERLOCUTORA:</strong> &iquest;Y ya termin&oacute; de entregar la Sedena la informaci&oacute;n que requer&iacute;a?</p>
+
+<p><strong>ALEJANDRO ENCINAS RODR&Iacute;GUEZ:</strong> No, estamos esperando que nos haya llegar m&aacute;s informaci&oacute;n que hemos solicitado.</p>
+
+<p><strong>INTERLOCUTORA:</strong> Okey, gracias.</p>
+
+<p><strong>ALEJANDRO ENCINAS RODR&Iacute;GUEZ:</strong> Pues muchas gracias. Que tengan un buen d&iacute;a. Con permiso.</p>
+
+<p><strong>---</strong></p>
+</div>
+</div>
+      </div>
+
+      <div class="col-md-4 col-xs-12 pull-right">
+
+
+
+
+          <div id="survey" class="survey-popup small-top-buffer">
+	<div class="row">
+  <a class="fire">
+    <span class="title">Contesta nuestra encuesta de satisfacción.</span>
+		<i style="color: white" class="fas fa-poll"></i>
+  </a>
+  <hr>
+  
+  <div class="survey col-sm-12 clearfix">
+	<form id="survey-form">
+	  <div class="survey-form">
+	  <fieldset id="query_1">
+		<legend>¿Cómo fue tu experiencia en gob.mx?</legend>
+		<div id="Q_A" class="btn-group row">
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncGood" class="ga-survey" value="Feliz" title="Satisactorio">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-good.svg" alt="">
+		  	</button>
+		  </div>
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncReg" class="ga-survey" value="Neutral" title="Neutral">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-neutral.svg" alt="">
+		  	</button>
+		  </div>
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncBad" class="ga-survey" value="Triste" title="No satisactorio">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-bad.svg" alt="">
+		  	</button>
+		  </div>
+		</div>
+	  </fieldset>
+	  <fieldset id="query_1_a" class="hidden">
+	  	<legend>¿Fue fácil encontrar lo que buscabas?</legend>
+	  	<div id="Q_B" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R1" value="1">
+	  		<label for="A_R">Muy Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R2" value="2">
+	  		<label for="A_R">Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R3" value="3">
+	  		<label for="A_R">Difícil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R4" value="4">
+	  		<label for="A_R">Muy Difícil</label>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_s" class="hidden">
+	  	<legend>¿De qué estado de la República nos visitas?</legend>	  	
+	  	<div class="col-md-12">
+  	  		<div class="form-group" style="margin-bottom: 114px;">
+  	  			<select id="estados" class="form-control"></select>
+  	  		</div>
+  	  		<div class="form-group">
+  	  			<button type="button" class="Q_S_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  		</div>
+  	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_alt" class="hidden">
+		<legend>¿Qué buscabas?</legend>
+	  	<div id="Q_I" class="clearfix">
+	  	  <div class="col-sm-12">
+	  		<textarea id="txtA" class="form-control" rows="6" maxlength="250" style="font-size: 14px; width: 100%;"></textarea>
+	  		<span class="small">Máximo 250 caracteres</span>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+  	  	  <button type="button" class="Q_I_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_b" class="hidden">
+	  	<legend>¿Qué te gustó más?</legend>
+	  	<p class="small">Puedes seleccionar más de uno.</p>
+	  	<div id="Q_C" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R1" type="checkbox" name="A_R" value="1">
+	  		<label for="A_R">La información es clara y precisa</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R2" type="checkbox" name="A_R" value="2">
+	  		<label for="A_R">El diseño es agradable</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R3" type="checkbox" name="A_R" value="3">
+	  		<label for="A_R">Está bien organizado</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R4" type="checkbox" name="A_R" value="4">
+	  		<label for="A_R">Es sencillo navegar</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R5" type="checkbox" name="A_R" value="5">
+	  		<label for="A_R">El lenguaje es amigable</label>
+	  	  </div>
+	  	  <div class="clearfix">
+	  	  	<button type="button" class="Q_C_btn btn btn-primary btn-small pull-right">Siguiente</button>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_c" class="hidden">
+	  	<legend>¿Recomendarías nuestro portal a un amigo o familiar?</legend>
+	  	<div id="Q_D" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="radEncC_R1" type="radio" name="A_R" value="4">
+	  		<label for="A_R">Si</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncC_R2" type="radio" name="A_R" value="1">
+	  		<label for="A_R">No</label>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+        <button type="button" class="btn-finalizar btn btn-primary btn-small pull-right" style="margin-left: 8px; margin-top: 2px;" disabled>Finalizar</button>
+        <img src="https://framework-gb.cdn.gob.mx/assets/images/oval-white.svg" class="pull-right hidden loading">
+      </div>
+	  </fieldset>
+
+	  <fieldset id="query_2" class="hidden">
+		<legend>¿Fue fácil encontrar lo que buscabas?</legend>
+	  	<div id="Q_F" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R1" type="radio" name="A_R" value="1">
+	  		<label for="A_R">Muy Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R2" type="radio" name="A_R" value="2">
+	  		<label for="A_R">Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R3" type="radio" name="A_R" value="3">
+	  		<label for="A_R">Difícil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R4" type="radio" name="A_R" value="4">
+	  		<label for="A_R">Muy Difícil</label>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_2_b" class="hidden">
+	  	<legend>¿Qué mejorarías?</legend>
+	  	<p class="small">Puedes seleccionar más de una opción.</p>
+	  	<div id="Q_G" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A1" type="checkbox" name="A_R" value="1">
+	  		<label for="A_R">Diseño</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A2" type="checkbox" name="A_R" value="2">
+	  		<label for="A_R">Navegación dentro del sitio</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A3" type="checkbox" name="A_R" value="3">
+	  		<label class="too-long" for="A_R">Claridad y precisión de la información</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A4" type="checkbox" name="A_R" value="4">
+	  		<label for="A_R">Organización de los contenidos</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A5" type="checkbox" name="A_R" value="5">
+	  		<label for="A_R">Lenguaje utilizado</label>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">	  	  
+	  	  <button type="button" class="btn-finalizar btn btn-primary btn-small pull-right" style="margin-left: 8px; margin-top: 2px;" disabled>Finalizar</button>
+	  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/oval-white.svg" class="hidden pull-right loading">
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_2_alt" class="hidden">
+		<legend>¿Qué buscabas?</legend>
+	  	<div id="Q_H" class="clearfix">
+	  	  <div class="col-sm-12">
+	  		<textarea id="txtA1" class="form-control" rows="6" maxlength="250" style="font-size: 14px; width: 100%;"></textarea>
+	  		<span class="small">Máximo 250 caracteres</span>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+  	  	  <button type="button" class="Q_H_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  	</div>
+	  </fieldset>
+
+	</div>
+	<p class="hidden survey-thanks" style="text-align: center; color: white; font-weight: 700;">Gracias por tu opinión.</p>
+	</form>
+
+  </div>
+</div>
+</div>
+
+<script type="text/javascript">
+$(function() {
+  var c = 0;
+  var fin = 0;
+  var tipo_cara = "";
+  var page_type = "Articulos";
+  var triggered = false;
+  var answers = {};
+  var properties = {};
+  var organization = "presidencia";
+  var section = "Blog";
+  var lang = "es";
+  properties.published_on = "2022-08-18 16:01:00 -0600";
+  properties.title = "Versión estenográfica. Informe de la Presidencia de la Comisión para la Verdad y Acceso a la Justicia del caso Ayotzinapa";
+  properties.path = "/presidencia/es/articulos/version-estenografica-informe-de-la-presidencia-de-la-comision-para-la-verdad-y-acceso-a-la-justicia-del-caso-ayotzinapa";
+  properties.referer = "";
+  properties.viewfinder = navigator.userAgent.toLowerCase();
+  properties.screens = screen.width;
+  properties.device = screen.width;
+
+  $.getJSON('https://www.gob.mx/vun/estados?filter[order]=nombre%20ASC', function (selectOptions) {
+    for( var i = 0; i < selectOptions.length; i ++) {
+      var selectOptionsJSON = selectOptions[i];
+      $('#estados').append('<option value="'+ selectOptionsJSON.nombre +'">'+ selectOptionsJSON.nombre +'</option>');
+    }
+    $('#estados').append('<option value="Otro">Otro</option>')
+  });
+
+  $('.fire').click(function(event) {
+    $('.survey-popup').css({'height':'440px'});
+  });
+
+  $('#Q_A').find('button').click(function(event) {
+  	$('#query_s').removeClass('hidden');
+  	$("#query_1").addClass('hidden');
+  	answers.q1 = $(this).attr('id');
+  });
+
+  $(".ga-survey").click(function () {
+    tipo_cara = $(this).val();
+    var interval_time = [30];
+    (function timer () {
+      if (c < 1) {
+        setTimeout(function () {
+           if(fin < 1) {
+             set_ga("Inconclusa");
+             timer();
+           }
+        }, interval_time[c] * 1000);
+      }
+      c++;
+    })();
+  });
+
+  $('.Q_S_btn').click(function(event) {
+    if( answers.q1 === "radEncGood") {
+      $("#query_s").addClass('hidden');
+      $("#query_1_a").removeClass('hidden');
+    } else if(answers.q1 === "radEncReg" || answers.q1 === "radEncBad") {
+      $("#query_s").addClass('hidden');
+      $("#query_2").removeClass('hidden');
+    } else { }
+    // answers.q1 = $('#Q_A').find('button').attr('id');
+  });
+
+  $('#Q_B').find('input').click(function(event) {
+  	if( $(this).attr('id') === 'radEncA_R3' || $(this).attr('id') === 'radEncA_R4' )  {
+  	  $("#query_1_a").addClass('hidden');
+	  $("#query_1_alt").removeClass('hidden');
+  	} else {
+  	  $("#query_1_a").addClass('hidden');
+	  $("#query_1_b").removeClass('hidden');	
+  	}	
+	answers.q2 = $(this).attr('id');
+  });
+
+  $('.Q_I_btn').click(function(event) {
+  	event.preventDefault();
+  	$("#query_1_alt").addClass('hidden');
+	$("#query_1_b").removeClass('hidden');
+	answers.q5 = $('#txtA').val().substring(0, 250);
+  });
+
+  $('#Q_C').find('button').click(function(event) {
+	$("#query_1_b").addClass('hidden');
+	$("#query_1_c").removeClass('hidden');
+	var q3_array = [];
+	$('#Q_C').find('input:checked').each(function(index, el) {
+	  q3_array.push($(el).attr('id'));
+	});
+	answers.q3 = q3_array;
+  });
+
+  $('#Q_D').find('input').change(function(event) {
+  	answers.q4 = $(this).attr('id');
+  	$('.btn-finalizar').attr('disabled', false);
+  });
+
+  $('#Q_F').find('input').click(function(event) {
+	
+	answers.q2 = $(this).attr('id');
+
+	if( $(this).attr('id') === 'rdEncA_R3' || $(this).attr('id') === 'rdEncA_R4' ) {
+	  $("#query_2").addClass('hidden');
+	  $("#query_2_alt").removeClass('hidden');
+	} else {
+	  $("#query_2").addClass('hidden');
+	  $("#query_2_b").removeClass('hidden');
+	}
+  });
+
+  $('#Q_G').find('input').change(function(event) {
+  	if($('#Q_G').find('input:checked').length > 0) {
+	  $('.btn-finalizar').attr('disabled', false);
+    }
+    var q2_array = [];
+    $('#Q_G').find('input:checked').each(function(index, el) {
+	  q2_array.push($(el).attr('id'));
+	});
+	answers.q3 = q2_array;
+  });
+
+  $('.Q_H_btn').click(function(event) {
+  	event.preventDefault();
+  	$("#query_2_alt").addClass('hidden');
+	$("#query_2_b").removeClass('hidden');
+	answers.q5 = $('#txtA1').val().substring(0, 250);
+  });
+
+  $('.btn-finalizar').click(function (event) {
+    fin++;
+    $.ajax({
+      url: '/encuesta-satisfaccion',
+      type: 'post',
+      dataType: 'json',
+      data: { section: section, lang: lang, properties: properties, answers: answers },
+      beforeSend: function() {
+        $('.loading').removeClass('hidden');
+      },
+      success: function(data) {
+        set_ga("Finalizada");
+
+        $('.survey').hide();
+        $('.survey-popup').css({'height':'60px','background-color':'#dff0d8','border':'1px solid #d6e9c6'});
+        $('.survey-popup .title').text('Gracias por tu participación.').css({'color':'#3c763d'});
+        $('#icon-survey').removeClass('fa-file-text-o').addClass('fa-check-circle').css({'color':'#3c763d'});
+        setTimeout(function() {
+          $('.survey-popup').fadeOut('800');
+        }, 1600);
+      }
+    });
+  });
+
+  function set_ga(estatus) {
+    var pages_group = "Gobierno";
+    var organization_name = "presidencia";
+
+    console.log("Entro a apartado de encuesta de satisfacción. Estatus: "+ estatus);
+    console.log("Pages group: "+pages_group);
+    console.log("Sub group: "+organization_name);
+    console.log("Page type: "+page_type);
+    console.log("Face: "+tipo_cara);
+
+      console.log("Rails.env.production");
+      //Código GA para encuesta de satisfacción.
+		gtag('set', 'dimension14', pages_group);
+		gtag('set', 'dimension15', organization_name);
+		gtag('set', 'dimension16', page_type);
+		gtag('send', 'event', 'Encuesta de satisfacción', tipo_cara ,estatus);
+		gtag('set', 'dimension14', null);
+		gtag('set', 'dimension15', null);
+		gtag('set', 'dimension16', null);
+  }
+
+  $('#subscribe-survey').click(function(event) {
+	event.preventDefault();
+    var email = $("#email-survey").val();
+    var state = $('#estados').val();
+
+    if (email !== '' || email !== undefined) {
+	    try {
+	      $.ajax({
+	        url: "/subscribe",
+	        type: 'post',
+	        dataType: 'json',
+	        data : { email: {address: email} },
+	        success: function (data) {
+	            $('#responseSignup').html(data.message);
+	        },
+	        error: function (data) {
+	            $('#responseSignup').html(data.message);
+	        }
+	      });
+	    }catch(e){
+	      $("#responseEmail").innerText(e);
+	    }
+
+	    $.ajax({
+	    	url: '/signups',
+	    	type: 'POST',
+	    	dataType: 'json',
+	    	data: { section: section, lang: lang, properties: properties },
+	    	success: function() {
+	    		//console.log('exito');
+	    	}
+	    });
+	} else {
+		$('#responseSignup').html('Por favor llena todos los campos.');
+	}
+  });
+
+  $('#survey-form').submit(function(event) {
+    event.preventDefault();
+  });
+});
+</script>
+
+      </div>
+      <div class="col-sm-7 pull-left">
+        <div class="share-buttons clearfix vertical-buffer">
+  <div class="col-md-2"> <a class="twitter-share-button" data-url="https://www.gob.mx/presidencia/articulos/version-estenografica-informe-de-la-presidencia-de-la-comision-para-la-verdad-y-acceso-a-la-justicia-del-caso-ayotzinapa" data-text="Versión estenográfica. Informe de la Presidencia de la Comisión para la Verdad y Acceso a la Justicia del caso Ayotzinapa"></a></div>
+  <div class="col-md-2">
+    <div class="fb-share-button" data-href="https://www.gob.mx/presidencia/articulos/version-estenografica-informe-de-la-presidencia-de-la-comision-para-la-verdad-y-acceso-a-la-justicia-del-caso-ayotzinapa" data-layout="button_count" data-size="small" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://www.gob.mx/presidencia/articulos/version-estenografica-informe-de-la-presidencia-de-la-comision-para-la-verdad-y-acceso-a-la-justicia-del-caso-ayotzinapa&amp;src=sdkpreparse">Compartir</a></div>
+  </div>
+</div>
+
+  <script type="text/javascript">
+    (function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v2.7";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+    
+    var pages_group = "Gobierno";
+    var page_type = "Artículos";
+    var organization_name = "presidencia";
+    var title_content = "Versión estenográfica. Informe de la Presidencia de la Comisión para la Verdad y Acceso a la Justicia del caso Ayotzinapa";
+
+     window.twttr = (function (d,s,id) {
+       var t, js, fjs = d.getElementsByTagName(s)[0];
+       if (d.getElementById(id)) return; js=d.createElement(s); js.id=id;
+       js.src="//platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs);
+       return window.twttr || (t = { _e: [], ready: function(f){ t._e.push(f) } });
+     }(document, "script", "twitter-wjs"));
+
+     function trackTwitter(intent_event) {
+       if (intent_event) {
+         if (intent_event.target && intent_event.target.nodeName == 'IFRAME') {
+           console.log("Metrica Compartir Twitter - "+title_content);
+           console.log("Organization: "+organization_name);
+           console.log("Page type: "+page_type);
+           console.log("Title content: "+title_content);
+           ga('set', 'dimension14', pages_group);
+           ga('set', 'dimension15', organization_name);
+           ga('set', 'dimension16', page_type);
+           ga('send', 'event', 'Compartir en redes sociales', 'Twitter', title_content);
+           ga('set', 'dimension14', null);
+           ga('set', 'dimension15', null);
+           ga('set', 'dimension16', null);
+         }
+       }
+     }
+  </script>
+  <script type="text/javascript">
+     twttr.ready(function (twttr) {
+       twttr.events.bind('tweet', trackTwitter);
+     });
+  </script>
+
+
+      </div>
+    </div>
+    <div class="row top-buffer">
+  <div class="col-md-8">
+    <hr>
+    <div class="print col-ms-12 col-md-12 col-xs-12">
+      <span class="icon-printing"></span>
+      <a href="#">Imprime la página completa</a>
+        <p class="small" style="font-size: 14px; line-height: 1.6em;">
+          La legalidad, veracidad y la calidad de la información es estricta responsabilidad de la dependencia, entidad o empresa productiva del Estado que la proporcionó en virtud de sus atribuciones y/o facultades normativas.
+        </p>
+    </div>
+  </div>
+</div>
+
+  </div>
+  <input type="hidden" id="page_type" name="page_type" value="Articulos">
+  <input type="hidden" id="organization_name" name="organization_name" value="presidencia">
+</main>
+<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+
+<footer class="main-footer">
+  <div class="list-info">
+    <div class="container">
+
+      <div class="col-sm-3">
+        <img  src="https://framework-gb.cdn.gob.mx/landing/img/logoheader.svg"  href="/" alt="logo gobierno de méxico" class="logo_footer" style="max-width: 90%; margin-left: -27px;   margin-top: 12px;">
+      </div>
+      <div class="col-sm-3">
+        <h2>Enlaces</h2>
+        <ul>
+         <!-- <li><a  href="http://www.participa.gob.mx">Participa</a></li> -->
+          <li><a  href="https://datos.gob.mx/">Datos</a></li>
+          <li><a href="https://www.gob.mx/publicaciones" target="_blank" rel="noopener" title="Enlace abre en ventana nueva">Publicaciones </a></li>
+
+                  <li><a class="footer" href="https://consultapublicamx.plataformadetransparencia.org.mx/vut-web/faces/view/consultaPublica.xhtml?idEntidad=MzM=&amp;idSujetoObligado=MTAwMDE=#inicio" id="Transparencia" target="blank" title="Enlace abre en ventana nueva">Portal de Obligaciones de Transparencia</a></li>
+
+                  <li><a class="footer" href="https://www.infomex.org.mx/gobiernofederal/home.action" id="PNT" target="blank" title="Enlace abre PNT en ventana nueva">PNT</a></li>
+
+                  <li><a class="footer" href="http://www.inai.org.mx/" id="INAI" target="blank" title="Enlace abre sitio INAI en ventana nueva">INAI</a></li>
+
+          <li><a class="footer" id="INAI" href="http://alertadores.funcionpublica.gob.mx/" target="_blank" rel="alertadores">Alerta</a></li>
+          <li><a class="footer" id="SIDEC" href="http://sidec.funcionpublica.gob.mx/" target="_blank" rel="sidec">Denuncia</a></li>
+           </ul>
+      </div>
+      <div class="col-sm-3">
+        <h2>¿Qué es gob.mx?</h2>
+        <p>Es el portal único de trámites, información y participación ciudadana.  <a href="/que-es-gobmx" style="text-decoration: none;">Leer más </a></p>
+        <ul>
+
+        
+            <li><a href='http://www.gob.mx/epn'> Administraciones anteriores  </a></li>
+          <li><a href="/accesibilidad">Declaración de Accesibilidad</a></li>
+          <li><a href="/privacidadintegral">Aviso de privacidad</a></li>
+          <li><a href="/privacidadsimplificado">Aviso de privacidad simplificado</a></li>
+          <li><a href="/terminos">Términos y Condiciones </a></li>
+          <li><a href="/terminos#medidas-seguridad-informacion">Política de seguridad</a></li>
+          <li><a class="footer" id="Marco Juridico" href="http://www.ordenjuridico.gob.mx" target="_blank" rel="noopener" title="Enlace abre en ventana nueva">Marco jurídico</a></li>
+          <li><a href="/sitemap">Mapa de sitio</a></li>
+        </ul>
+      </div>
+      <div class="col-sm-3">
+        </p>
+        <h2>Síguenos en </h2>
+        <ul class="list-inline">
+          <li>
+            <a id="Facebook" href="https://www.facebook.com/gobmexico" target="_blank" rel="noopener" class="sendEst share-info footer" title="enlace a facebook abre en una nueva ventana">
+              <img alt="Facebook" src="https://framework-gb.cdn.gob.mx/landing/img/facebook.png" />
+            </a>
+          </li>
+          <li>
+            <a id="Twitter" href="https://twitter.com/GobiernoMX" target="_blank" rel="noopener" class="sendEst share-info footer" title="Enlace a twitter abre en una nueva ventana">
+              <img alt="Twitter" src="https://framework-gb.cdn.gob.mx/landing/img/twitter.png" />
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+  </div>
+  </div>
+
+  <div class="container-fluid footer-pleca">
+    <div class="row">
+      <div class="col">
+        <br><br>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script type="text/javascript">
+      $("a.footer").click(function () {
+          var pagina_sitio = window.location.pathname;
+          var outbound_link = $(this).attr("id");
+          var subgrupo_paginas = "presidencia";
+          var page_type = "Home";
+          var pages_group = "Gobierno";
+          if($("#page_type").length > 0){ page_type = $("#page_type").val(); }
+
+          console.log("Metrica links externos footer - "+outbound_link);
+          gtag('set', 'dimension14', pages_group);
+          gtag('set', 'dimension15', subgrupo_paginas);
+          gtag('set', 'dimension16', page_type);
+          gtag('send', 'event', 'Outbound link - Footer', outbound_link, pagina_sitio);
+          gtag('set', 'dimension14', null);
+          gtag('set, ‘dimension15', null);
+      })
+  </script>
+
+<input class="hidden" id="route" value="/presidencia/es/articulos/version-estenografica-informe-de-la-presidencia-de-la-comision-para-la-verdad-y-acceso-a-la-justicia-del-caso-ayotzinapa" type="hidden" >
+<!-- div id="fb-root"></div -->
+
+
+
+
+
+  <!-- Begin comScore Tag -->
+  <script>
+      var _comscore = _comscore || [];
+      _comscore.push({ c1: "2", c2: "17183199" });
+      (function() {
+          var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+          s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+          el.parentNode.insertBefore(s, el);
+      })();
+  </script>
+  <noscript>
+    <img src="https://sb.scorecardresearch.com/p?c1=2&c2=17183199&cv=2.0&cj=1" />
+  </noscript>
+  <!-- End comScore Tag -->
+
+  <script src="https://sb.scorecardresearch.com/c2/17183199/ct.js"></script>
+
+
+  <script type="text/javascript">
+
+      var _sf_startpt=(new Date()).getTime();
+      var _sf_async_config = { uid: 43659, domain: 'www.gob.mx', useCanonical: true } ;
+      (function() {
+          function loadChartbeat() { window._sf_endpt = (new Date()).getTime(); var e = document.createElement('script'); e.setAttribute('language', 'javascript'); e.setAttribute('type', 'text/javascript'); e.setAttribute('src','//static.chartbeat.com/js/chartbeat.js'); document.body.appendChild(e); };
+          var oldonload = window.onload;
+          window.onload = (typeof window.onload != 'function') ?
+              loadChartbeat : function()
+              { oldonload(); loadChartbeat(); };
+      })();
+      var ele = "/presidencia/es/articulos/version-estenografica-informe-de-la-presidencia-de-la-comision-para-la-verdad-y-acceso-a-la-justicia-del-caso-ayotzinapa";
+      if( "#{(@organization_site.present? ? @organization_site.category : 'gobmx')}" == "Campaña") {
+          var siteEls = 'campaign';
+      } else {
+          var siteEls = 'gobierno';
+      }
+
+      for( var i = 1; i < ele.split('/').length; i++ ) {
+          siteEls = siteEls + '.' + ele.split('/')[i];
+      }
+
+      function udm_(e){var t="comScore=",n=document,r=n.cookie,i="",s="indexOf",o="substring",u="length",a=2048,f,l="&ns_",c="&",h,p,d,v,m=window,g=m.encodeURIComponent||escape;if(r[s](t)+1)for(d=0,p=r.split(";"),v=p[u];d<v;d++)h=p[d][s](t),h+1&&(i=c+unescape(p[d][o](h+t[u])));e+=l+"_t="+ +(new Date)+l+"c="+(n.characterSet||n.defaultCharset||"")+"&c8="+g(n.title)+i+"&c7="+g(n.URL)+"&c9="+g(n.referrer),e[u]>a&&e[s](c)>0&&(f=e[o](0,a-8).lastIndexOf(c),e=(e[o](0,f)+l+"cut="+g(e[o](f+1)))[o](0,a)),n.images?(h=new Image,m.ns_p||(ns_p=h),h.src=e):n.write("<","p","><",'img src="',e,'" height="1" width="1" alt="*"',"><","/p",">")};
+      function uid_call(a, b){
+          ui_c2 = 17183199; // your corporate c2 client value
+          ui_ns_site = 'gobmx'; // your sites identifier
+          window.b_ui_event = window.c_ui_event != null ? window.c_ui_event:"",window.c_ui_event = a;
+          var ui_pixel_url = 'https://sb.scorecardresearch.com/p?c1=2&c2='+ui_c2+'&ns_site='+ui_ns_site+'&name='+a+'&ns_type=hidden&type=hidden&ns_ui_type='+b;
+          var b="comScore=",c=document,d=c.cookie,e="",f="indexOf",g="substring",h="length",i=2048,j,k="&ns_",l="&",m,n,o,p,q=window,r=q.encodeURIComponent||escape;if(d[f](b)+1)for(o=0,n=d.split(";"),p=n[h];o<p;o++)m=n[o][f](b),m+1&&(e=l+unescape(n[o][g](m+b[h])));ui_pixel_url+=k+"_t="+ +(new Date)+k+"c="+(c.characterSet||c.defaultCharset||"")+"&c8="+r(c.title)+e+"&c7="+r(c.URL)+"&c9="+r(c.referrer)+"&b_ui_event="+b_ui_event+"&c_ui_event="+c_ui_event,ui_pixel_url[h]>i&&ui_pixel_url[f](l)>0&&(j=ui_pixel_url[g](0,i-8).lastIndexOf(l),ui_pixel_url=(ui_pixel_url[g](0,j)+k+"cut="+r(ui_pixel_url[g](j+1)))[g](0,i)),c.images?(m=new Image,q.ns_p||(ns_p=m),m.src=ui_pixel_url):c.write("<p><img src='",ui_pixel_url,"' height='1' width='1' alt='*'></p>");
+      }
+      udm_('https://sb.scorecardresearch.com/b?c1=2&c2=17183199&ns_site=gobmx&name='+siteEls);
+  </script>
+
+  <noscript>
+    <img src="https://sb.scorecardresearch.com/p?c1=2&amp;c2=17183199&amp;ns_site=gobmx&amp;name=gobierno.presidencia.es.articulos.version-estenografica-informe-de-la-presidencia-de-la-comision-para-la-verdad-y-acceso-a-la-justicia-del-caso-ayotzinapa" height="1" width="1" alt="*" />
+  </noscript>
+<script>
+    let key = '';
+    $(function () {
+
+        $.getJSON("https://framework-gb.cdn.gob.mx/applications/cms/configGobmx.json", function(json) {
+            console.log(json.keyAnalytics); // this will show the info it in firebug console
+            key = json.keyAnalytics;
+            ga('create', key , 'auto', 'GobTracker');
+            ga('GobTracker.require', 'linker');
+            ga('GobTracker.linker:autoLink', ['www.gob.mx']);
+            ga('GobTracker.set', 'contentGroup1', 'Gobierno');
+            ga('GobTracker.set', 'contentGroup2', SubGroup);
+            ga('GobTracker.set', 'contentGroup3', PageType);
+            ga('GobTracker.set', 'dimension14', 'Gobierno');
+            ga('GobTracker.set', 'dimension15', SubGroup);
+            ga('GobTracker.set', 'dimension16', PageType);
+            ga('GobTracker.set', 'dimension13', 'No Registrado');
+            ga('GobTracker.send', 'pageview');
+            ga('GobTracker.set', 'contentGroup1', null);
+            ga('GobTracker.set', 'contentGroup2', null);
+            ga('GobTracker.set', 'contentGroup3', null);
+            ga('GobTracker.set', 'dimension14', null);
+            ga('GobTracker.set', 'dimension15', null);
+            ga('GobTracker.set', 'dimension16', null);
+            ga('GobTracker.set', 'dimension13', null);
+        });
+    });
+</script>
+
+<script src="https://framework-gb.cdn.gob.mx/applications/cms/modal_global_cms.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/gm/accesibilidad/js/gobmx-accesibilidad.min.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick.min.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick-lightbox.js"></script>
+<link rel="stylesheet" href="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick-lightbox.css">
+
+
+<script src="https://framework-gb.cdn.gob.mx/applications/cms/config_dependency.js"></script>
+<script type="text/javascript"  src="/0RVTuHxj0/t/mhEICJIQ/YiOkthVkYSfw/PRc4N0sKYQk/PwhFVTt/GPxQB"></script></body>
+
+</html>
+

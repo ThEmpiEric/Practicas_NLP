@@ -1,0 +1,1317 @@
+<!DOCTYPE html>
+<html class='no-js' lang='es'>
+<head>
+    <title>
+  Versión estenográfica. Supervisión del Plan de Salud IMSS-Bienestar | Presidencia de la República  | Gobierno | gob.mx
+</title>
+
+  <meta charset='UTF-8'>
+  <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#393C3E">
+
+  
+  <meta name="keywords" content="">
+  <meta name="description" content="Acto encabezado por el presidente Andrés Manuel López Obrador desde Manzanillo, Colima ">
+  <meta name="author" content="Presidencia de la República ">
+
+  <meta content="Versión estenográfica. Supervisión del Plan de Salud IMSS-Bienestar" property="og:title" />
+  <meta content="https://www.gob.mxhttps://www.gob.mx/cms/uploads/article/main_image/123389/61FDAE17-AA44-48F4-9D69-843894F361F8.jpeg" property="og:image" />
+  <meta content="gob.mx" property="og:site_name" />
+  <meta content="Acto encabezado por el presidente Andrés Manuel López Obrador desde Manzanillo, Colima " property="og:description" />
+  <meta content="http://www.gob.mx/presidencia/es/articulos/version-estenografica-supervision-del-plan-de-salud-imss-bienestar?idiom=es" property="og:url" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@gobmx" />
+  <meta name="twitter:title" content="Versión estenográfica. Supervisión del Plan de Salud IMSS-Bienestar" />
+  <meta name="twitter:description" content="Acto encabezado por el presidente Andrés Manuel López Obrador desde Manzanillo, Colima " />
+  <meta name="twitter:image" content="https://www.gob.mxhttps://www.gob.mx/cms/uploads/article/main_image/123389/61FDAE17-AA44-48F4-9D69-843894F361F8.jpeg" />
+
+
+  <meta content="authenticity_token" name="csrf-param" />
+<meta content="YX9wGLUklYaDdmCb+gs5D17QQDPzjyERDdkMbKVZEuc=" name="csrf-token" />
+
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700,600,300' rel='stylesheet' type='text/css'>
+  <link href='https://framework-gb.cdn.gob.mx/applications/cms/favicon.png' rel='shortcut icon'>
+  <link data-turbolinks-track="true" href="/cms/assets/application.css" media="all" rel="stylesheet" />
+  <link data-turbolinks-track="true" href="https://framework-gb.cdn.gob.mx/gm/accesibilidad/css/gobmx-accesibilidad.min.css" media="all" rel="stylesheet" />
+  
+
+  <!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+  <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+
+ <![endif]-->
+  <script async src="https://www.googletagmanager.com/gtag/js?id="></script>
+  <script src="https://framework-gb.cdn.gob.mx/applications/cms/carrusel/swiper-bundle.min.js"></script>
+
+  <link rel="stylesheet" href="https://framework-gb.cdn.gob.mx/applications/cms/carrusel/swiper-bundle.min.css">
+
+    <script type="text/javascript">
+
+        var SubGroup = '';
+        if(false || false){
+            SubGroup = 'Temas';
+        }else{
+            SubGroup = 'presidencia';
+        }
+        var PageType = '';
+        if(false){
+            PageType = 'Home'
+        }else{
+            if(false){
+                PageType = '';
+            }else {
+                var site = window.location.pathname;
+                var arrayPageType = ["articulos", "prensa", "agenda", "documentos", "multimedia", "galerias", "videos",
+                    "acciones_y_programas", "acciones-y-programas", "mi-foto-con-el-presidente",
+                    "estructuras", "descargables", "que-hacemos", "finanzas", "infografias"];
+
+                if (site.search("archivo") != -1) {
+                    PageType = "archivo_";
+                }
+                for (var i = 0; i < arrayPageType.length; i++) {
+                    if (site.search(arrayPageType[i]) != -1) {
+                        PageType += arrayPageType[i];
+                        break;
+                    }
+                }
+            }
+        }
+
+
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', '');
+
+        gtag('require', 'linker');
+        gtag('linker:autoLink', ['www.gob.mx']);
+        gtag('set', 'contentGroup1', 'Gobierno');
+        gtag('set', 'contentGroup2', SubGroup);
+        gtag('set', 'contentGroup3', PageType);
+        gtag('set', 'dimension14', 'Gobierno');
+        gtag('set', 'dimension15', SubGroup);
+        gtag('set', 'dimension16', PageType);
+        gtag('set', 'dimension13', 'No Registrado');
+        gtag('send', 'pageview');
+        gtag('set', 'contentGroup1', null);
+        gtag('set', 'contentGroup2', null);
+        gtag('set', 'contentGroup3', null);
+        gtag('set', 'dimension14', null);
+        gtag('set', 'dimension15', null);
+        gtag('set', 'dimension16', null);
+        gtag('set', 'dimension13', null);
+
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-144356475-1', 'auto', {'allowLinker':true});
+        ga('require', 'linker');
+        ga('linker:autoLink', ['www.gob.mx']);
+        ga('set', 'contentGroup1', 'Gobierno');
+        ga('set', 'contentGroup2', SubGroup);
+        ga('set', 'contentGroup3', PageType);
+        ga('set', 'dimension14', 'Gobierno');
+        ga('set', 'dimension15', SubGroup);
+        ga('set', 'dimension16', PageType);
+        ga('set', 'dimension13', 'No Registrado');
+        ga('send', 'pageview');
+        ga('set', 'contentGroup1', null);
+        ga('set', 'contentGroup2', null);
+        ga('set', 'contentGroup3', null);
+        ga('set', 'dimension14', null);
+        ga('set', 'dimension15', null);
+        ga('set', 'dimension16', null);
+        ga('set', 'dimension13', null);
+    </script>
+
+
+  <script type = "text/javascript"> console.log(true);
+  var rails_env_prod = true; </script>
+  <script src="/cms/assets/application.js"></script>
+  <script src="/cms/assets/imageReplace.js"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.js"></script>
+
+                              <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("True"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="N3JQ2-2RVHB-WJQMN-CEYEM-ATMWX",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"N3JQ2-2RVHB-WJQMN-CEYEM-ATMWX",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="xxqo3jv567lbgzxpklwa-f-876e5015c-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"37","ak.cp":"413578","ak.ai":parseInt("270161",10),"ak.ol":"0","ak.cr":12,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"20e3f081","ak.r":49405,"ak.a2":e,"ak.m":"b","ak.n":"essl","ak.bpcip":"189.224.237.0","ak.cport":30247,"ak.gh":"189.247.214.15","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"reno","ak.t":"1726960364","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==TPqpczYygSEqcDT+eNn1aKDzWikM4efVkZwf1ilwv26fsmivp6A14tC2TvlkiIciEwg/U6+oiHu4TYsKcj7PSbewHdxJf6dmllTan0FJkpgZTJRZrfhF2Gi+6NJw40uQevG3i4G7NNakIDP5JW6JIGw0dMfZHdiDVM3KjcjRlXw/XaUBW9dTRE/TGXgLkZvvdYND1p3Yry1Afn8UNwGUTNblWU9/hf8N7RvbDUwFyV8xKI5wwfmM4/4pgd0hn3KS4X76LsUy4iJp8B40cEncOd8ffpOlLckflqqArHJq3cujwmZZ20dxGjQM+iiZDgFaP8raBmWTSvfAJkeBjs1Nc2JGr6W/h5uH6//OToexYAz5w0poC5i/TtDVNvV3+CK9tvq1hkmr0IKGdyi6ksXE+WHU6+o2zDiprDG5/E8Tqi8=","ak.pv":"113","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+<body>
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v13.0" nonce="MZ2GPb2d"></script><!-- a href="#principal" class="skip">Saltar al contenido principal</a -->
+  <header class=" navbar navbar-inverse">
+    <nav class="navbar navbar-inverse  navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-target="#navbarMainCollapse" data-toggle="collapse">
+            <span class="sr-only">Interruptor de Navegación</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a href="/" style="padding: 1px 3px 3px 3px;" class="navbar-brand " title="Ir a la página inicial">
+
+            <div class="logo-main"></div>
+          </a>
+        </div>
+        <div id="navbarMainCollapse" class="collapse navbar-collapse">
+          <ul class="nav navbar-nav navbar-right">
+           <li><a href="/tramites" title="Trámites">Trámites </a></li>
+            <li><a href="/gobierno" title="Gobierno">Gobierno</a></li>
+                  <li><a href="/presidencia/en" title="Versión en inglés del sitio web">English</a>
+                  </li>
+                </li>
+
+
+            <li>
+              <form accept-charset="UTF-8" action="/busqueda" method="get"><div style="display:none"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+                <input type="hidden" name="site" value="presidencia">
+                <button data-v-6394873e="" id="botonbuscar" type="button" class="btn btn-search"><a data-v-6394873e="" href="https://www.gob.mx/busqueda?utf8=✓" target="_blank" id="botbusca"><img data-v-6394873e="" alt="Buscar" src="https://framework-gb.cdn.gob.mx/landing/img/lupa.png"></a></button>
+</form>            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    
+
+
+        <script src="/cms/assets/level_jump.js"></script><section>
+<!-- Subnavegacion -->
+<nav class=" navbar-inverse sub-navbar fixed-top"
+     >
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#subenlaces">
+        <span class="sr-only">Interruptor de Navegación</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="link-name" href="?tab="></a>
+    </div>
+    <div class="collapse navbar-collapse" id="subenlaces">
+      <ul class="nav subnav navbar-nav navbar-right">
+              <li class="landing-btn">
+                    <a href='/presidencia/es/archivo/prensa'>
+                Comunicados            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='/presidencia/es/#5173'>
+                Directorio            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='https://transparencia.presidencia.gob.mx/presidencia/transparencia/politicas-de-tratamiento-de-datos-personales-de-la-oficina-de-la-presidencia-de-la-republica/'>
+                Protección de Datos Personales            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='https://www.gob.mx/presidencia/transparencia/'>
+                Transparencia            </a>
+            </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+<style>
+  .flag-banner {
+  top: 45px  !important;
+  }
+</style>
+<!-- div class="warning-nav" style="margin-top: 0px;">
+  <div class="container">
+    <div class="row clearfix">
+  <div class="col-xs-12 col-sm-12 col-md-12">Este contenido será modificado temporalmente en atención a las disposiciones legales y normativas en materia electoral, con motivo del inicio de periodo de campaña</div>
+  </div>
+  </div>
+</div -->
+</section>
+
+
+  </header>
+
+
+
+
+
+<main class="inner-page interior ficha">
+  <div class="container">
+  	<ol class="breadcrumb">
+  <li><a href="http://www.gob.mx"><span class="icon icon-home"></span><span class="sr-only">Inicio</span></a></li>
+  <li><a href="/presidencia">Presidencia de la República </a></li>
+  <li class="active">Blog</li>
+</ol>
+  	<div class="">
+      <div aria-hidden="true" class="hidden-xs font-changer internal print" tabindex="-1">
+  <button class="inc-font font-modifier">Aa+</button>
+  <button class="dec-font font-modifier">Aa-</button>
+</div>
+      <div class="marquee-padding">
+      <div class='post-list main-post-list'>
+<div class='marque-float-left'>
+<div class='right_arrow'></div>
+<div class='titulo-pub'>
+<small>Publicaciones Recientes</small>
+</div>
+</div>
+<div>
+<div class='container-marque'>
+<div id='headlines'>
+<div class='marquee'>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-19 13:44:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-19-de-septiembre-de-2024' title='Versió'>
+Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 19 de septiembre de 2024
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-18 12:36:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-18-de-septiembre-de-2024' title='Versió'>
+Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 18 de septiembre de 2024
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-17 13:51:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-entrega-de-estimulos-a-delegaciones-mexicanas-participantes-en-juegos-olimpicos-y-paralimpicos-paris-2024' title='Versió'>
+Versión estenográfica. Entrega de estímulos a delegaciones mexicanas participantes en Juegos Olímpicos y Paralímpicos París 2024
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-17 12:21:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-17-de-septiembre-de-2024' title='Versió'>
+Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 17 de septiembre de 2024
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-16 13:56:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-desfile-civico-militar' title='Versió'>
+Versión estenográfica. Desfile Cívico Militar
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+      </div>
+  	  <div class="col-md-7 col-xs-12 col-sm-12 pull-left" tabindex="0">
+  	  	<h1 class="bottom-buffer">Versión estenográfica. Supervisión del Plan de Salud IMSS-Bienestar</h1>
+  	  	<h2>Acto encabezado por el presidente Andrés Manuel López Obrador desde Manzanillo, Colima </h2>
+        <section class="">
+          <p>Presidencia de la República  | 06 de agosto de 2022</p>
+        </section>
+  	  <div class="imagen-principal">
+  	      <img alt="Supervisión del Plan de Salud IMSS-Bienestar" class="img-responsive img_curve" src="https://www.gob.mx/cms/uploads/article/main_image/123389/61FDAE17-AA44-48F4-9D69-843894F361F8.jpeg" />
+  	      <span class="small">Supervisión del Plan de Salud IMSS-Bienestar</span>
+      </div>
+      <div class="article-body"><p>MODERADORA:&nbsp;Preside este evento,&nbsp;Supervisi&oacute;n del Plan de Salud IMSS-Bienestar,&nbsp;el presidente constitucional de los Estados Unidos Mexicanos, licenciado Andr&eacute;s Manuel L&oacute;pez Obrador.</p>
+
+<p>Lo acompa&ntilde;an:</p>
+
+<p>La&nbsp;gobernadora del estado de Colima, Indira Vizca&iacute;no&nbsp;Silva</p>
+
+<p>El director general del Instituto Mexicano del Seguro Social,&nbsp;Zo&eacute;Robledo.</p>
+
+<p>La titular del programa&nbsp;IMSS-Bienestar, doctora Gisela Lara Salda&ntilde;a.</p>
+
+<p>El coordinador de Infraestructura del Instituto de Salud para elBienestar, Carlos S&aacute;nchez Meneses.</p>
+
+<p>El subsecretario de Egresos de la Secretar&iacute;a de Hacienda y Cr&eacute;dito P&uacute;blico, Juan Pablo de&nbsp;Botton&nbsp;Falc&oacute;n.</p>
+
+<p>El coordinador general de Comunicaci&oacute;n Social y vocero del Gobierno de M&eacute;xico, Jes&uacute;s Ram&iacute;rez Cuevas.</p>
+
+<p>El director&nbsp;del Hospital IMSS-Bienestar Manzanillo, doctor Edgar Jes&uacute;s Gudi&ntilde;o Ch&aacute;vez.</p>
+
+<p>La presidenta municipal de Manzanillo, Griselda Mart&iacute;nez&nbsp;Mart&iacute;nez.</p>
+
+<p>Asimismo, damos la bienvenida a los representantes de los medios de comunicaci&oacute;n y a quienes nos siguen a&nbsp;trav&eacute;s de las redes sociales.</p>
+
+<p>Todas y todos ustedes, sean bienvenidos.</p>
+
+<p>Procedemos con las palabras de bienvenida de la gobernadora del estado de Colima, maestra&nbsp;Indira&nbsp;Vizca&iacute;no, Silva.</p>
+
+<p>&Iacute;NDIRA VIZCA&Iacute;NO,&nbsp;SILVA, GOBERNADORA DE COLIMA:Presidente, se lo expres&eacute; en corto hace unos minutos, pero quiero decirlo de cara a la sociedad:</p>
+
+<p>Realmente nos alegra y estamos profundamente agradecidas y agradecidos de su presencia en Manzanillo y en Colima. Y no s&oacute;lo se trata de que seamos admiradoras y admiradores de su trayectoria, proyecto y convicciones, que lo somos, sino que se trata de que cada que viene como cabeza del Gobierno de M&eacute;xico&nbsp;implica que en esta tierra pasan&nbsp;cosas buenas, avanzas proyectos, obras, programas y llegan muchos beneficios para las y los colimenses, y hoy no es la excepci&oacute;n.&nbsp;</p>
+
+<p>Con usted viene su convicci&oacute;n, su disciplina de trabajo, su aut&eacute;ntico deseo de servir, y eso lo notamos quienes vemos de cerca y se nota tambi&eacute;n a kil&oacute;metros. As&iacute; que gracias, presidente, por estar aqu&iacute;, por su esfuerzo y por su deseo de ayudar a este peque&ntilde;o rinc&oacute;n del Pac&iacute;fico mexicano y de quienes aqu&iacute; somos para que podamos avanzar y mejorar. Gracias, infinitas gracias, presidente.&nbsp;</p>
+
+<p>Hoy estamos en el Hospital General de Manzanillo. Hicimos un recorrido, vimos lo mucho que hemos avanzado, pero tambi&eacute;n lo que hay por hacer.</p>
+
+<p>D&eacute;jenme decirles que siempre tuvimos la intuici&oacute;n de que hab&iacute;a grandes carencias en servicios de salud en la costa colimense, pero la pandemia del COVID lo demostr&oacute; con n&uacute;meros.</p>
+
+<p>Aqu&iacute; la mortalidad de personas que llegaron a ser hospitalizadas fue mayor por una sencilla raz&oacute;n: el acceso a los servicios de salud es m&aacute;s limitado y m&aacute;s complicado, y eso que es el municipio m&aacute;s poblado y de mayor dinamismo econ&oacute;mico al tener el puerto m&aacute;s importante del pa&iacute;s.</p>
+
+<p>Pero el sector Salud por mucho tiempo trat&oacute; a Manzanillo y a las y los&nbsp;manzanillenses&nbsp;como un municipio y como ciudadanos de segunda, y eso es inaceptable. Todos merecemos lo mismo y todos merecemos servicios de salud de calidad.&nbsp;</p>
+
+<p>Alguna vez un amigo me dijo que estar en la sala de espera de un hospital p&uacute;blico en una zona marginada del pa&iacute;s le hab&iacute;a hecho reflexionar que ah&iacute;, en un hospital p&uacute;blico, era en donde de verdad se ve&iacute;an las necesidades de un pueblo y que, si un gobernante o un pol&iacute;tico quer&iacute;a entender lo que de verdad le duele a su pueblo, ten&iacute;a que ir a una sala de espera de un hospital p&uacute;blico.</p>
+
+<p>Si quienes estamos en el servicio p&uacute;blico no nos conmovemos y no hacemos nada para mejorar las condiciones con que se atiende a quien est&aacute;, literal, jug&aacute;ndose la vida, entonces &iquest;qu&eacute; clase de servidores p&uacute;blicos somos o para qu&eacute;&nbsp;estamos?</p>
+
+<p>No hay mayor superficialidad, no hay superficialidad m&aacute;s indignante que no tomar con seriedad las&nbsp;problem&aacute;ticas del sector Salud. No hay profundidad m&aacute;s significativa en el servicio p&uacute;blico que hacer lo necesario para entender, atender y resolver las problem&aacute;ticas del sector Salud.</p>
+
+<p>Con esta idea en mente, en el estado de Colima pasamos por una reflexi&oacute;n: o busc&aacute;bamos presupuestos que controlar y cotos de poder,&nbsp;o mejor busc&aacute;bamos sinergias para mejorar los servicios de salud para la gente, sin importar a qui&eacute;n o qui&eacute;n administrar&iacute;a ese presupuesto.&nbsp;</p>
+
+<p>Se trata de que haya mejores servicios de salud para todas y todos los colimenses, no se trata de que ganemos posiciones en t&eacute;rminos pol&iacute;ticos, se trata que nadie muera de algo curable, de algo atendible, porque no tiene recursos para recibir los servicios que constitucionalmente tiene garantizados y que merece.</p>
+
+<p>Por eso optamos por Operaci&oacute;n Salud Colima, que no es m&aacute;s que el camino en que concentramos todos los esfuerzos en el sector Salud, muchos de los cuales implican la transici&oacute;n del modelo IMSS-Bienestar; pero hay otros que se hacen desde lo estatal y se resume de la siguiente manera:</p>
+
+<p>Inversi&oacute;n para mejorar la infraestructura.</p>
+
+<p>Incremento del abasto de medicamentos.</p>
+
+<p>M&aacute;s personal m&eacute;dico y con certeza laboral.</p>
+
+<p>M&aacute;s y mejores servicios m&eacute;dicos.</p>
+
+<p>Y esto pudiera sonar a&nbsp;rollo, pero aqu&iacute; en Manzanillo es una realidad. Hoy funciona de nuevo el&nbsp;mast&oacute;grafo&nbsp;y el c&aacute;ncer de mama se puede detectar y abordar desde momentos oportunos.</p>
+
+<p>Aqu&iacute;, en el Hospital General de Manzanillo, se reactiv&oacute; y fortaleci&oacute; el &aacute;rea de hemodi&aacute;lisis, cuyos servicios ahora son totalmente gratuitos, y muchas otras acciones que se traducen en salud y bienestar para las y los&nbsp;manzanilllenses.</p>
+
+<p>Por &uacute;ltimo, s&oacute;lo quisiera decir que, como en todas las &aacute;reas del gobierno, no se pueden dar buenos resultados si no hay gente buena que ponga su empe&ntilde;o para que as&iacute; suceda. Por&nbsp;eso es importante decirles que, as&iacute; como no puede haber gobierno rico con pueblo pobre, tampoco puede haber pacientes bien tratados en el sector salud, si tenemos enfermeras, enfermeros, doctores, doctoras, que sean maltratados en condiciones laborales.&nbsp;Por eso, aplaudimos lo que hoy aqu&iacute; se oficializar&aacute;.&nbsp;</p>
+
+<p>Y les recuerdo tambi&eacute;n que,&nbsp;en unos cuantos meses,&nbsp;735 trabajadoras y trabajadores&nbsp;del sector Salud han iniciado ya su proceso&nbsp;de&nbsp;basificaci&oacute;n&nbsp;en IMSS-Bienestar, lo que sin duda es un avance y un logro hist&oacute;rico.</p>
+
+<p>Porque si nos importa lo que le&nbsp;pasa&nbsp;al pueblo en un hospital p&uacute;blico, entonces estaremos dando pasos hacia adelante. Si nos importa, y desde aqu&iacute;, desde el Hospital General de Manzanillo les digo a todas y a todos los colimenses que nos importa su salud, porque nos importa su vida, porque nos importan ustedes y en ese sentido dejaremos el alma&nbsp;en que el sector Salud de nuestra Colima preste los servicios que las y los colimenses merecemos.</p>
+
+<p>Much&iacute;simas gracias.</p>
+
+<p>MODERADOR:&nbsp;Procedemos con la proyecci&oacute;n del video&nbsp;Avances del Programa IMSS-Bienestar en el estado de Colima.</p>
+
+<p>(INICIA VIDEO)</p>
+
+<p>VOZ HOMBRE:&nbsp;El 25 de mayo de 2022 arranc&oacute; la transformaci&oacute;n de salud en Colima.</p>
+
+<p>Hoy el modelo integral del programa IMSS-Bienestar ya opera en el 100 por ciento de las unidades m&eacute;dicas en el estado, cinco hospitales de segundo nivel, 118 unidades fijas y un Centro Regional de Desarrollo Infantil.</p>
+
+<p>En Colima ya se tienen m&aacute;s del 80 por ciento de cobertura de m&eacute;dicos y m&eacute;dicas especialistas, 729 trabajadores y trabajadoras han iniciado el proceso de&nbsp;basificaci&oacute;n&nbsp;y se ha capacitado al 100 por ciento de personal de hospitales y unidades de salud.</p>
+
+<p>Con recursos del IMSS-Bienestar y el&nbsp;Insabi, se ha invertido m&aacute;s de 130 millones de pesos en acciones de conservaci&oacute;n y dignificaci&oacute;n de espacios.</p>
+
+<p>En el Hospital Materno Infantil se pusieron en marcha dos quir&oacute;fanos, luego de un a&ntilde;o sin funcionar.</p>
+
+<p>En el Hospital de Tecom&aacute;n se habilit&oacute; el &aacute;rea de cuneros.</p>
+
+<p>Y en el Centro Estatal de Hemodi&aacute;lisis se instalaron 14 m&aacute;quinas y 14 sillones para brindar servicios gratuitos a la poblaci&oacute;n sin seguridad social.</p>
+
+<p>Con el sistema de abasto institucional, las recetas surtidas de medicamentos superan el 94 por ciento y 94 equipos de distinta &iacute;ndole han sido reparados.</p>
+
+<p>Y durante junio y julio en Colima se han realizado m&aacute;s de&nbsp;cuatro mil detecciones de diabetes e hipertensi&oacute;n, mil 615 consultas de medicina familiar, 12 mil 196 consultas de especialidad y mil 238 cirug&iacute;as.&nbsp;</p>
+
+<p>Y todo esto lo hicimos juntos, echamos mano de voluntad, trabajo en equipo, convencimiento y emoci&oacute;n social.</p>
+
+<p>En Colima hay plan y rumbo, el plan es la transformaci&oacute;n y el rumbo el porvenir.</p>
+
+<p>VOZ DE MUJER:&nbsp;Gobierno de M&eacute;xico.</p>
+
+<p>(FINALIZA VIDEO)</p>
+
+<p>MODERADOR:&nbsp;A continuaci&oacute;n, hace uso de la palabra el director del Hospital IMSS-Bienestar Manzanillo, doctor Edgar Jes&uacute;s Gudi&ntilde;o Ch&aacute;vez.</p>
+
+<p>EDGAR JES&Uacute;S GUDI&Ntilde;O CH&Aacute;VEZ, DIRECTOR DEL HOSPITAL IMSS-BIENESTAR MANZANILLO:&nbsp;Los cambios son retos que abren puertas a nuevas oportunidades.</p>
+
+<p>Buen d&iacute;a.</p>
+
+<p>Es un honor recibirlo, se&ntilde;or presidente, licenciado Andr&eacute;s Manuel, y el resto del pres&iacute;dium acompa&ntilde;&aacute;ndonos.</p>
+
+<p>Sean bienvenidos todos al hermoso puerto de Manzanillo, de nuestra bella Colima.</p>
+
+<p>Es un deber y enorme reto saldar la deuda hist&oacute;rica en tema de salud con la comunidad&nbsp;manzanillense, ya que, a pesar de ser considerado el motor econ&oacute;mico del estado y el puerto interior m&aacute;s importante del pa&iacute;s, la atenci&oacute;n en salud no iba acorde a la calidad que se esperar&iacute;a por tales t&iacute;tulos.</p>
+
+<p>Es por ello que me enorgullece ser parte de este suceso hist&oacute;rico, en el cual la transferencia de servicios de salud a IMSS-Bienestar nos brinda la oportunidad de ofrecerle a la poblaci&oacute;n un espacio digo parar recibir atenci&oacute;n m&eacute;dica, con personal profesional, humanista, as&iacute; como insumos y medicamentos, todo de manera gratuita.</p>
+
+<p>Quiero resaltar que, a pesar de todos los desaf&iacute;os a los que nos hemos enfrentado, el personal del ahora Hospital IMSS-BienestarManzanillo jam&aacute;s renunci&oacute; a su vocaci&oacute;n, dando lo mejor de s&iacute; en beneficio del pr&oacute;jimo. Gracias, compa&ntilde;eros, por su compromiso y labor invaluable en todo momento.&nbsp;</p>
+
+<p>Me alegra poder compartirles de los logros realizados hasta el momento:</p>
+
+<p>Se han recuperado servicios que desde meses atr&aacute;s fueron ocupados por contingencia COVID-19, como la Unidad de Cuidados Intensivos de adultos y Urgencias Pedi&aacute;tricas.</p>
+
+<p>Asimismo, con la remodelaci&oacute;n y ampliaci&oacute;n de la farmacia del hospital se ha mejorado el abastecimiento de medicamentos.</p>
+
+<p>Adem&aacute;s, se realiz&oacute; la ampliaci&oacute;n de las salas en hospitalizaci&oacute;n para atenci&oacute;n m&eacute;dica de patolog&iacute;as generales&nbsp;y la rehabilitaci&oacute;n del&nbsp;mast&oacute;grafo, para realizar medicina preventiva.</p>
+
+<p>Sin duda, una de las mejores satisfacciones como servidores de salud es ver dibujada la sonrisa en los rostros de los pacientes agradecidos por recibir atenci&oacute;n m&eacute;dica oportuna, de calidad y sin tener que afectar su bolsillo. Ejemplo de ello es nuestra unidad de hemodi&aacute;lisis, en la cual los pacientes reciben tres sesiones por semana completamente gratis, cosa que no suced&iacute;a hace un par de semanas, ya que deb&iacute;an cubrir el costo del material necesario parapoder realiz&aacute;rselas.</p>
+
+<p>Este es s&oacute;lo el comienzo, es una se&ntilde;al de que estamos avanzando con paso firme y en la direcci&oacute;n correcta hacia nuestro &uacute;nico objetivo: que la poblaci&oacute;n colimense reciba atenci&oacute;n m&eacute;dica y medicamentos gratuitos. Y juntos, con el apoyo que hemos recibido de usted, se&ntilde;or presidente, lo haremos realidad.</p>
+
+<p>Muchas gracias.</p>
+
+<p>MODERADOR:&nbsp;Solicitamos al presidente constitucional de los Estados Unidos Mexicanos, licenciado Andr&eacute;s Manuel L&oacute;pez Obrador, llevar a cabo la entrega simb&oacute;lica de bases incorporadas a IMSS-Bienestar a la auxiliar de enfermer&iacute;a general Elvia Selene Arias Ramos, al m&eacute;dico general Jos&eacute; Romeo Almanza Silva.&nbsp;</p>
+
+<p>(ENTREGA SIMB&Oacute;LICA DE BASES)</p>
+
+<p>MODERADOR:&nbsp;Procedemos con la intervenci&oacute;n del director general del Instituto Mexicano del Seguro Social, maestro&nbsp;Zo&eacute;Robledo.</p>
+
+<p>ZO&Eacute; ROBLEDO ABURTO, DIRECTOR GENERAL DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL (IMSS):Muchas gracias y muy buenos d&iacute;as a todos los amigos, amigas de Manzanillo y de todo Colima.</p>
+
+<p>Con su permiso, se&ntilde;or presidente, gobernadora Indira Vizca&iacute;no, a todos los que nos acompa&ntilde;an el d&iacute;a de hoy.</p>
+
+<p>La historia de&nbsp;la salud en Manzanillo es larga, desde aquel hospital que inaugur&oacute; aqu&iacute; el general L&aacute;zaro C&aacute;rdenas del R&iacute;o, que inici&oacute; en 1938,&nbsp;en 1940&nbsp;estaba operando. Y la verdad,&nbsp;que desde entonces la caracter&iacute;stica del personal de todas las instituciones&nbsp;de salud ha sido enfrentar la adversidad, la adversidad, cuando se ha presentado en forma de temblores, el temblor que justamente llev&oacute;&nbsp;a la construcci&oacute;n de este hospital en el a&ntilde;o 2004, 2005, que empez&oacute; su operaci&oacute;n; inundaciones, como las que ha tenido este&nbsp;hospital tambi&eacute;n muy recientemente, apenas en 2020; y desde luego la pandemia por COVID-19.</p>
+
+<p>Y en todo ese proceso, a pesar de ese modelo fragmentado de la salud, los trabajadores siempre han&nbsp;estado al frente, dando todo&nbsp;de s&iacute;. Por eso es que esta nueva historia, esta nueva etapa tiene que ser de beneficio para todas y para todos.</p>
+
+<p>Y aqu&iacute; en este&nbsp;hospital hay personal&nbsp;que as&iacute; lo manifiesta y que han vivido todos estos sucesos y eventos. El doctor Luis Felipe Gonz&aacute;lez del Monte, actual subdirector m&eacute;dico, que recuerda lo que sucedi&oacute; en 2020, cuando pas&oacute; ese hurac&aacute;n, que desafortunadamente desde entonces estaba inhabilitado el&nbsp;mast&oacute;grafo, que hoy ya est&aacute; funcionando. O Mar&iacute;a &Aacute;lvarez Rodr&iacute;guez, presidenta del Comit&eacute; de Salud, que asegura que ya se puede respirar un nuevo momento, y que se respira y se debe respirar la paz y la tranquilidad que merecen las personas que aqu&iacute; se atienden.</p>
+
+<p>Pero tambi&eacute;n est&aacute; en la voz de los&nbsp;usuarios&nbsp;como Jes&uacute;s Hern&aacute;ndez de Cruz, originario de la comunidad de&nbsp;Canoitas, que inici&oacute; su tratamiento de hemodi&aacute;lisis aqu&iacute; hace cinco meses y que para &eacute;l no solamente significaba el traslado para recibir dos veces su tratamiento, sino que ten&iacute;a que pagar para recibirlo. Nos dice &eacute;l que en total ten&iacute;a que gastar cinco mil pesos semanales; hoy recibe ese tratamiento de manera completamente gratuita.</p>
+
+<p>&iquest;C&oacute;mo ocurri&oacute; esto?&nbsp;&iquest;C&oacute;mo est&aacute; este inicio de la transformaci&oacute;n?</p>
+
+<p>Primero,&nbsp;tomando decisiones, implementando el modelo IMSS-Bienestar&nbsp;en Colima, que sali&oacute; de este estado hace ya muchos, muchos a&ntilde;os, y convertir las unidades y los hospitales empezando por la atenci&oacute;n m&eacute;dica. Esa fue nuestra meta, nuestro encargo por parte del presidente L&oacute;pez Obrador.</p>
+
+<p>Y hemos contado aqu&iacute; con una aliada en la gobernadora Indira Vizca&iacute;no, que nos ha ayudado a que este proceso ocurra sin pensar en ego&iacute;smos y parcelas, como antes era, la fragmentaci&oacute;n, sinopensando por la gente de Colima y su salud. A ella por su confianza, a todo el equipo de trabajo de Colima se lo refrendamos aqu&iacute;, nos han dado su confianza y no la vamos a defraudar y no le vamos a fallar.</p>
+
+<p>Segundo, ten&iacute;amos que venir a conocer la realidad, por eso en enero hicimos un levantamiento en las unidades de primer nivel y en los hospitales, en el segundo nivel, 145 centros de salud que visitamos, cinco hospitales con personal para revisar qu&eacute; es lo que nos hac&iacute;a falta. Y lo que encontramos fue carencias, hac&iacute;an falta equipos m&eacute;dicos, hac&iacute;a falta mantenimiento de las unidades y, lo m&aacute;s importante, hab&iacute;a que buscar c&oacute;mo crecer&nbsp;en las plantillas de personal.</p>
+
+<p>Y en eso estamos, hay una identificaci&oacute;n en este estado de una necesidad de cuatro mil 568 equipos, desde los m&aacute;s grandes, como los tom&oacute;grafos o los rayos X, hasta cosas tan sencillas que se necesitan en el primer nivel de atenci&oacute;n, como estuches de diagn&oacute;stico o&nbsp;fonodetectores&nbsp;de latidos fetales o incluso las propias camas de hospital.&nbsp;</p>
+
+<p>Y lo que segu&iacute;a era poner manos a la obra, no esperarnos a los procesos administrativos, sino empezar a trabajar. Y as&iacute; lo hicimos aqu&iacute;, en este lugar, juntos, pintando, limpiando, ordenando, impermeabilizando, que es algo tan importante en un lugar como Manzanillo, implementando acciones de infraestructura, de conservaci&oacute;n, reparando los plafones, los pisos, sustituyendo equipos inservibles, ampliando &aacute;reas como la farmacia, que afortunadamente hoy puede contar con m&aacute;s n&uacute;mero de claves.</p>
+
+<p>S&oacute;lo para darles una idea, en este hospital ten&iacute;an 357 claves de medicamentos; hoy tienen 468.&nbsp;</p>
+
+<p>Y pasamos de un abasto del 41 por ciento a uno que est&aacute; entre el 80 y el 92 por ciento. No estamos satisfechos con eso, tenemos que llegar al 100.</p>
+
+<p>Y, desde luego, en ese proceso hacerlo en equipo, primero, en donde hay una necesidad estructural en el pa&iacute;s con los m&eacute;dicos especialistas. Hay una necesidad en Colima de contar con 319 m&eacute;dicos especialistas y ya tenemos 254, es decir, estamos al 80 por ciento. Pero con acciones que estamos implementando ya vamos a llegar al 96 por ciento de m&eacute;dicos especialistas. Queremos que Colima sea el primer estado con una cobertura al 100 en todos los turnos y en todas las especialidades que hace falta.</p>
+
+<p>Y parte de ese proceso no solamente son los especialistas, ustedes lo saben mejor, hay que tener a toda la plantilla de personal: m&eacute;dicos, generales, enfermeras, param&eacute;dicos, camilleros, personal de laboratorio, de farmacias.</p>
+
+<p>Y por eso nos da tanto gusto que hoy esas 759 personas en atenci&oacute;n m&eacute;dica ya est&eacute;n en su proceso de&nbsp;basificaci&oacute;n&nbsp;y hoy el primer grupo, los 250 que est&aacute;n el d&iacute;a de hoy est&eacute;n recibiendo su base.</p>
+
+<p>Se lo deben a su esfuerzo, a su trabajo, a su paciencia, porque pasaron muchos a&ntilde;os y hoy es una realidad. Muchas felicidades, porque es el reconocimiento a esto.</p>
+
+<p>Y, sin duda, sin duda queremos pensar que va a haber un antes y despu&eacute;s con un sistema mucho m&aacute;s integrado entre todas las instituciones y que logremos detener los procesos que el modelo neoliberal nos dej&oacute;, que se deje de ser privado lo que debe de ser p&uacute;blico. Por eso es un orgullo decir que en Colima ya no se deben de cobrar las hemodi&aacute;lisis y que debemos de ampliar los servicios para que m&aacute;s gente tenga una oportunidad de tener este tratamiento de sustituci&oacute;n de la funci&oacute;n renal.</p>
+
+<p>Garantizar lo que es un derecho, que no se piense que la relaci&oacute;n con la federaci&oacute;n es&nbsp;c&oacute;mo pedir m&aacute;s recursos, sino c&oacute;mo la federaci&oacute;n aporta para mejorar la salud y la atenci&oacute;n m&eacute;dica, ir a las causas de la enfermedad y no solamente a sus consecuencias, enfocarnos en el primer nivel en el tema preventivo.</p>
+
+<p>Y por eso estamos seguros que trabajando en equipo entre la Secretar&iacute;a de Hacienda, el&nbsp;Insabi, la Secretar&iacute;a de Salud y el gobierno de Colima, esos equipos nuevos en primero y segundo nivel pronto, pronto estar&aacute;n aqu&iacute;.</p>
+
+<p>Dar esos pasos firmes en este que sin duda es un hermoso desaf&iacute;o: construir un sistema de salud que otorgue atenci&oacute;n m&eacute;dica de calidad para los que menos tienen y los que m&aacute;s sufren.</p>
+
+<p>Desde Colima damos una respuesta. Hoy es un estado que entra en la vanguardia, que entra en un plan que es esta transformaci&oacute;n hacia el IMSS-Bienestar y que entra con un rumbo, el rumbo que nosotros siempre vemos, el del porvenir.</p>
+
+<p>Much&iacute;simas gracias a todas y a todos. Que tengan muy buen d&iacute;a.</p>
+
+<p>MODERADOR:&nbsp;Estimado p&uacute;blico, escuchemos el mensaje que nos dirige el presidente constitucional de los Estados Unidos Mexicanos, licenciado Andr&eacute;s Manuel L&oacute;pez Obrador.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:Amigas, amigos de Manzanillo, de Colima:</p>
+
+<p>Me da mucho gusto estar con ustedes de nuevo aqu&iacute; en Manzanillo.</p>
+
+<p>Quiero adelantarles que, como hay peticiones, demandas, protestas, le voy a pedir al secretario de Gobernaci&oacute;n que se ponga de acuerdo con la gobernadora y que venga a aqu&iacute;&nbsp;a Manzanillo, que dialogue con todos ustedes, van a atenderles y todo lo que tiene que ver con la justicia est&aacute; garantizado, todo.</p>
+
+<p>Nada m&aacute;s no nos pidan cosas que tengan que ver con utilizar el presupuesto, que es dinero del pueblo, dinero sagrado, para mantener privilegios o corrupci&oacute;n.</p>
+
+<p>Todos los trabajadores van a ser reconocidos como lo estamos haciendo aqu&iacute;. Es un compromiso, la&nbsp;basificaci&oacute;n. Ahora que entregu&eacute; este certificado al doctor, me dec&iacute;a que llevaba 10 a&ntilde;os trabajando por contrato y que ya tiene su base. Eso lo vamos a hacer en todo el sector Salud, pero no se va a permitir que haya influyentes, que l&iacute;deres sindicales&nbsp;charros&nbsp;saquen, como siempre, provecho, raja. Ya saben, los caciques duran hasta que el pueblo quiere y ya no quiere el pueblo. Nada de&nbsp;aviadores, de los que cobran sin trabajar, hablando en plata. Pero, repito, justicia total, plena, para el pueblo.</p>
+
+<p>Dicho lo anterior, ahora s&iacute; entro en materia.&nbsp;</p>
+
+<p>Nos da mucho gusto venir al hospital de Manzanillo, constatar que se est&aacute; mejorando para que al mismo tiempo se d&eacute;, como lo merece el pueblo, un servicio de calidad.</p>
+
+<p>Ten&iacute;amos este pendiente, era una asignatura pendiente el mejorar los sistemas de salud p&uacute;blica de nuestro pa&iacute;s.</p>
+
+<p>Se habl&oacute; mucho de que estaba mal la educaci&oacute;n y casi no se escuchaba nada de lo mal que estaba, lo peor que estaba la salud p&uacute;blica.</p>
+
+<p>&iquest;Por qu&eacute; se hablaba m&aacute;s de la mala educaci&oacute;n y no del mal servicio de salud?</p>
+
+<p>Porque en lo educativo quer&iacute;an avasallar a los maestros con la mal llamada reforma educativa, ech&aacute;ndoles la culpa de la baja calidad en la ense&ntilde;anza, porque ten&iacute;an el prop&oacute;sito de privatizar la educaci&oacute;n. Avanzaron bastante en ese perverso prop&oacute;sito.</p>
+
+<p>Porque la educaci&oacute;n no debe ser, como la salud, un privilegio, son derechos de nuestro pueblo y lo que buscaban era poner al mercado la educaci&oacute;n y la salud, que se curara y que estudiara el que tuviese dinero para pagar colegiatura o para pagar a m&eacute;dicos particulares o ir a cl&iacute;nicas privadas. Ahora es distinto.</p>
+
+<p>Y nos encontramos que&nbsp;estaba el sector Salud en el m&aacute;s completo abandono. Desde que inici&oacute; el gobierno hice un recorrido por 80 hospitales del programa IMSS-Bienestar y constat&eacute; que estaban muy mal los servicios. Ya &iacute;bamos a actuar para sacar adelante el sistema de salud cuando nos lleg&oacute; desgraciadamente la pandemia y tuvimos que actuar en la emergencia para salvar vidas.</p>
+
+<p>Aprovecho para agradecerles a todos los m&eacute;dicos, las enfermeras, los trabajadores del sector Salud que arriesgaron hasta su propia vida por salvar la vida de los dem&aacute;s. Nuestro reconocimiento permanente.</p>
+
+<p>Nos dedicamos a eso, a que no faltara lo b&aacute;sico, m&eacute;dicos. Se capacitaron miles, se contrataron tambi&eacute;n m&eacute;dicos, se compraron equipos.</p>
+
+<p>Se compraron alrededor de 250 millones de dosis de vacunas. M&eacute;xico es de los pa&iacute;ses con m&aacute;s vacunaci&oacute;n a su pueblo, de los pa&iacute;ses del mundo, esto nos ayud&oacute; mucho a salvar vidas, esa vacuna que se aplic&oacute;. Lo estamos viendo ahora, sigue afectando la pandemia, siguen los contagios, pero ya, si se est&aacute; vacunado, ya se tiene protecci&oacute;n.&nbsp;</p>
+
+<p>Donde tenemos todav&iacute;a problemas es quienes no se vacunan. El porcentaje mayor desgraciadamente de fallecimientos est&aacute; en las personas no vacunadas, por eso no voy a dejar de llamar a que todos nos vacunemos y si se requiere refuerzo y hay vacunas suficientes, pero no confiarnos para terminar ya con esta pesadilla.</p>
+
+<p>Y como ya les dec&iacute;a, est&aacute; bajando el efecto negativo de la&nbsp;pandemia, pues ya retomamos el programa original de levantar el sector Salud para hacer realidad lo que establece el art&iacute;culo 4&ordm; de la Constituci&oacute;n, el derecho del pueblo a la salud, que est&aacute; convertido todav&iacute;a en letra muerta.</p>
+
+<p>&iquest;Qu&eacute; es el derecho a la salud?</p>
+
+<p>Pues es atenci&oacute;n m&eacute;dica, son an&aacute;lisis, son medicamentos gratuitos, no el cuadro b&aacute;sico, todos los medicamentos, todos los estudios, toda la atenci&oacute;n m&eacute;dica, desde los centros de salud, hospitales como este, hospitales de tercer nivel. Y ese es el prop&oacute;sito, que la poblaci&oacute;n que no tiene seguridad social, que&nbsp;no tiene&nbsp;Issste, que no tiene seguro, que es m&aacute;s de la mitad de los mexicanos, tengan este derecho a la salud. Y ya empezamos, ya comenzamos en Nayarit, ayer estuve en Tlaxcala y ahora aqu&iacute; en Manzanillo, Colima. Empezamos con tres estados.</p>
+
+<p>&iquest;Cu&aacute;l es el m&eacute;todo de trabajo?</p>
+
+<p>Se est&aacute; haciendo una especie de inventario, de censo, para tener un diagn&oacute;stico de c&oacute;mo est&aacute;n los centros de salud, c&oacute;mo est&aacute;n los hospitales, y ya cuando se tiene conocimiento de esa realidad empezamos a actuar:</p>
+
+<p>Primero, rehabilitando las instalaciones que estaban en el abandono, muchas instalaciones, hospitales incompletos. Porque antes se les hac&iacute;a f&aacute;cil para robar,&nbsp;iniciar la construcci&oacute;n de un hospital o de una escuela, de alguna obra y de esa manera se quedaban con el dinero o con una parte del presupuesto, y las obras quedaban inconclusas. Bueno, estamos ahora levantando, construyendo, terminando, esas obras, rehabilitando las que estaban funcionando, pero les hac&iacute;a faltan servicios, eso se est&aacute; haciendo y comenzamos, repito, en estos tres estados.&nbsp;</p>
+
+<p>Lo segundo son los equipos, que se tengan en hospitales todos los equipos que se requieren, que no falten equipos especializados. Por ejemplo, el&nbsp;mast&oacute;grafo&nbsp;que vimos ahora, que estuvo fuera de servicio por la inundaci&oacute;n durante mucho tiempo, que ya se repara, y as&iacute; otros equipos que funcionen. Eso es lo segundo.&nbsp;</p>
+
+<p>Lo tercero es que no falten las medicinas, que haya abasto suficiente de medicamentos. Queremos que sea al 100 por ciento todo, no 90 por ciento.</p>
+
+<p>Ayer estuvimos en Tlaxcala y estaban relativamente contentos porque pas&oacute; de 50 al 80 por ciento el abasto de medicamentos, pero dijimos: No, queremos al 100.</p>
+
+<p>Y lo mismo aqu&iacute; en Manzanillo, en Colima, en todos los estados, que no falten los medicamentos, que se ampl&iacute;en las llamadas claves para que haya todos los medicamentos, no s&oacute;lo, repito, el llamado cuadro b&aacute;sico, y que sea gratuito.</p>
+
+<p>Estamos quitando las cajas de los hospitales, no van a encontrar ustedes ya cajas. Y esto no es culpa de los administradores o de los cajeros, sino que ten&iacute;an que pedir una cuota de recuperaci&oacute;n, porque como no hab&iacute;a presupuesto, con eso daban un mantenimiento b&aacute;sico.</p>
+
+<p>Es como lo que sucede en las escuelas, que la educaci&oacute;n tiene que ser gratuita, pero hay como una cuota, porque as&iacute; es como se obtienen recursos para el mantenimiento de las escuelas. Ya tambi&eacute;n en eso estamos cambiando, les estamos entregando a las sociedades de madres, de padres de familia su presupuesto de manera directa para el mantenimiento de las escuelas. Vamos en los hospitales a que no haya estas cajas, no se va a cobrar nada absolutamente.</p>
+
+<p>Y vamos tambi&eacute;n, que es otra cuesti&oacute;n important&iacute;sima y ten&iacute;amos, y tenemos, un problema estructural de fondo: faltan m&eacute;dicos y sobre todo faltan especialistas.</p>
+
+<p>Yo nada m&aacute;s quiero que piensen unos segundos. Con el modelo que quer&iacute;an imponer, que, bueno, lo aplicaron durante 36 a&ntilde;os, este de poner al mercado la salud y la educaci&oacute;n, y que s&oacute;lo los que tuviesen dinero pudiesen estudiar o pudiesen curarse o salir adelante, con ese modelo nos dejaron sin m&eacute;dicos.</p>
+
+<p>Porque algunos de ustedes, yo creo que la mayor&iacute;a internaliz&oacute;, se acuerda de que cuando un familiar o una hija o un hijo quer&iacute;a ingresar a estudiar en&nbsp;Medicina no pasaba el examen supuestamente, lo rechazaban. Y no es que no pasara el examen, es que no hab&iacute;a cupo, porque no hab&iacute;a presupuesto en las universidades p&uacute;blicas.</p>
+
+<p>Y si presentaban examen en la UNAM para Medicina cinco mil, entraban 500, cuatro mil 500 rechazados. Y repito, no es que no pasaran el examen. Les hac&iacute;an 125 preguntas, pero dec&iacute;an los directivos: &lsquo;Tenemos espacio para 500 y hay cinco mil solicitudes. &iquest;C&oacute;mo le hacemos? Pues de las 125 preguntas vamos a dejar entrar, que pasen los que contesten bien 124 de las 125, que nada m&aacute;s falle en una&rsquo;, el que fallaba en dos, que sacaba 123, no pas&oacute; el examen.</p>
+
+<p>Entonces &iquest;qu&eacute; hicieron con eso?</p>
+
+<p>Dejarnos sin m&eacute;dicos, porque M&eacute;xico no tiene en la actualidad los m&eacute;dicos que necesita y mucho menos los especialistas, ah&iacute; estamos peor.</p>
+
+<p>Aqu&iacute; me encontr&eacute; a un pediatra, un hombre mayor, extraordinario, con sensibilidad social, muy humano el pediatra de este hospital y le digo: &iquest;C&oacute;mo est&aacute; en especialistas de pediatr&iacute;a? &lsquo;Pues nos hacen falta seis&rsquo;. Imag&iacute;nense, porque ya no solo est&aacute;n sacando a ni&ntilde;os de partos dif&iacute;ciles, que no salen con el peso adecuado, sino que ya los est&aacute;n tratando para que no tengan ning&uacute;n efecto, que no tengan ning&uacute;n da&ntilde;o sicol&oacute;gico y se requieren los pediatras.</p>
+
+<p>Bueno y estamos hablando del puerto de Manzanillo, imag&iacute;nense si hay un hospital en Minatitl&aacute;n, vamos a tener all&aacute; pediatra menos, y adem&aacute;s no hay.</p>
+
+<p>&iquest;Qu&eacute; estamos haciendo?</p>
+
+<p>Estamos abriendo escuelas de medicina, de enfermer&iacute;a, como nunca, en todo el pa&iacute;s.</p>
+
+<p>Y estamos aumentando las becas para que haya m&aacute;s estudiantes de especialidades en nuestro pa&iacute;s, pasamos de ocho mil a m&aacute;s de 20 mil este a&ntilde;o, y vamos a seguir formando especialistas.</p>
+
+<p>En tanto terminamos de tener los especialistas que se necesitan, porque la salud es primero y es un asunto que tiene que ver con derechos humanos, estamos contratando especialistas. Agradecemos mucho al pueblo y al gobierno de Cuba porque nos va a ayudar con especialistas.</p>
+
+<p>No les gusta mucho a algunos conservadores, pero, &iquest;saben qu&eacute;?&nbsp;Esto es un asunto humanitario. Ellos son muy fan&aacute;ticos, muy individualistas, no se ponen a ver que lo m&aacute;s importante de todo es salvar vidas, lo m&aacute;s importante de todo. Vamos a tener todos los m&eacute;dicos, todos los m&eacute;dicos.&nbsp;</p>
+
+<p>Y siempre vamos a respetar, siempre vamos a respetar el derecho a disentir, es decir, la libertad, pero yo soy presidente por voluntad del pueblo para llevar a cabo una transformaci&oacute;n en M&eacute;xico. Si hubiese ganado&nbsp;Meade&nbsp;o hubiese ganado Anaya, &eacute;l o los dos, pero m&aacute;s Anaya, estar&iacute;a en la misma postura, rechazando que vengan cubanos a ayudarnos ahora que lo necesitamos; pero ganamos nosotros y nosotros venimos de un movimiento popular, venimos de luchar con el pueblo y queremos democracia. Poder del pueblo, para el pueblo y con el pueblo, eso es muy importante de aclararlo.</p>
+
+<p>Tambi&eacute;n decirles, como ya qued&oacute; expresado, que lo m&aacute;s importante de todo es darle seguridad a los trabajadores, que se&nbsp;basifique&nbsp;a todos los trabajadores.</p>
+
+<p>Ahora s&iacute; los veo muy&nbsp;gallitos&nbsp;a los l&iacute;deres&nbsp;charros, defendiendo supuestamente a los trabajadores. &iquest;Y qu&eacute; hac&iacute;an cuando hab&iacute;a 80 mil trabajadores trabajando por contrato? &iquest;Qu&eacute; hac&iacute;an en favor de los trabajadores? Nada. Robar y robar.</p>
+
+<p>Vamos a garantizar la&nbsp;basificaci&oacute;n&nbsp;de todos los trabajadores del sector&nbsp;Salud.</p>
+
+<p>Y me dio mucho gusto estar aqu&iacute; en Manzanillo. Miren que con el calor estamos como all&aacute;, como en mi tierra, como en mi agua, que hay tambi&eacute;n mucho calor. Pero ayuda mucho porque la pol&iacute;tica no es nada m&aacute;s raz&oacute;n, es tambi&eacute;n pasi&oacute;n, es el equilibrio perfecto entre la raz&oacute;n y la pasi&oacute;n. Las grandes cosas se hacen con la cabeza, pero tambi&eacute;n con el coraz&oacute;n. Y por eso me siento muy contento aqu&iacute; en Manzanillo.</p>
+
+<p>Ya quedamos, la semana que viene est&aacute; aqu&iacute; en Manzanillo el secretario de Gobernaci&oacute;n con la gobernadora, y tambi&eacute;n para atenderles a todos los que plantearon sobre el desalojo, los que plantean sobre las plazas, todos los problemas, lo que me dijeron acerca del mercado, todo se va a atender.</p>
+
+<p>Y quiero tambi&eacute;n que quede muy claro aqu&iacute; en Manzanillo, para que no se confundan los caciques pol&iacute;ticos de Colima, un mensaje muy claro: le tenemos toda la confianza, absoluta confianza a la gobernadora de Colima, Indira Vizca&iacute;no.</p>
+
+<p>&iexcl;Que viva Manzanillo!</p>
+
+<p>&iexcl;Que viva Colima!&nbsp;</p>
+
+<p>&iexcl;Viva M&eacute;xico!&nbsp;</p>
+
+<p>&iexcl;Viva M&eacute;xico!</p>
+
+<p>&iexcl;Viva M&eacute;xico!</p>
+
+<p>---</p>
+</div>
+      </div>
+
+      <div class="col-md-4 col-xs-12 pull-right">
+
+
+
+
+          <div id="survey" class="survey-popup small-top-buffer">
+	<div class="row">
+  <a class="fire">
+    <span class="title">Contesta nuestra encuesta de satisfacción.</span>
+		<i style="color: white" class="fas fa-poll"></i>
+  </a>
+  <hr>
+  
+  <div class="survey col-sm-12 clearfix">
+	<form id="survey-form">
+	  <div class="survey-form">
+	  <fieldset id="query_1">
+		<legend>¿Cómo fue tu experiencia en gob.mx?</legend>
+		<div id="Q_A" class="btn-group row">
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncGood" class="ga-survey" value="Feliz" title="Satisactorio">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-good.svg" alt="">
+		  	</button>
+		  </div>
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncReg" class="ga-survey" value="Neutral" title="Neutral">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-neutral.svg" alt="">
+		  	</button>
+		  </div>
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncBad" class="ga-survey" value="Triste" title="No satisactorio">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-bad.svg" alt="">
+		  	</button>
+		  </div>
+		</div>
+	  </fieldset>
+	  <fieldset id="query_1_a" class="hidden">
+	  	<legend>¿Fue fácil encontrar lo que buscabas?</legend>
+	  	<div id="Q_B" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R1" value="1">
+	  		<label for="A_R">Muy Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R2" value="2">
+	  		<label for="A_R">Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R3" value="3">
+	  		<label for="A_R">Difícil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R4" value="4">
+	  		<label for="A_R">Muy Difícil</label>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_s" class="hidden">
+	  	<legend>¿De qué estado de la República nos visitas?</legend>	  	
+	  	<div class="col-md-12">
+  	  		<div class="form-group" style="margin-bottom: 114px;">
+  	  			<select id="estados" class="form-control"></select>
+  	  		</div>
+  	  		<div class="form-group">
+  	  			<button type="button" class="Q_S_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  		</div>
+  	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_alt" class="hidden">
+		<legend>¿Qué buscabas?</legend>
+	  	<div id="Q_I" class="clearfix">
+	  	  <div class="col-sm-12">
+	  		<textarea id="txtA" class="form-control" rows="6" maxlength="250" style="font-size: 14px; width: 100%;"></textarea>
+	  		<span class="small">Máximo 250 caracteres</span>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+  	  	  <button type="button" class="Q_I_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_b" class="hidden">
+	  	<legend>¿Qué te gustó más?</legend>
+	  	<p class="small">Puedes seleccionar más de uno.</p>
+	  	<div id="Q_C" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R1" type="checkbox" name="A_R" value="1">
+	  		<label for="A_R">La información es clara y precisa</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R2" type="checkbox" name="A_R" value="2">
+	  		<label for="A_R">El diseño es agradable</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R3" type="checkbox" name="A_R" value="3">
+	  		<label for="A_R">Está bien organizado</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R4" type="checkbox" name="A_R" value="4">
+	  		<label for="A_R">Es sencillo navegar</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R5" type="checkbox" name="A_R" value="5">
+	  		<label for="A_R">El lenguaje es amigable</label>
+	  	  </div>
+	  	  <div class="clearfix">
+	  	  	<button type="button" class="Q_C_btn btn btn-primary btn-small pull-right">Siguiente</button>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_c" class="hidden">
+	  	<legend>¿Recomendarías nuestro portal a un amigo o familiar?</legend>
+	  	<div id="Q_D" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="radEncC_R1" type="radio" name="A_R" value="4">
+	  		<label for="A_R">Si</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncC_R2" type="radio" name="A_R" value="1">
+	  		<label for="A_R">No</label>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+        <button type="button" class="btn-finalizar btn btn-primary btn-small pull-right" style="margin-left: 8px; margin-top: 2px;" disabled>Finalizar</button>
+        <img src="https://framework-gb.cdn.gob.mx/assets/images/oval-white.svg" class="pull-right hidden loading">
+      </div>
+	  </fieldset>
+
+	  <fieldset id="query_2" class="hidden">
+		<legend>¿Fue fácil encontrar lo que buscabas?</legend>
+	  	<div id="Q_F" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R1" type="radio" name="A_R" value="1">
+	  		<label for="A_R">Muy Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R2" type="radio" name="A_R" value="2">
+	  		<label for="A_R">Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R3" type="radio" name="A_R" value="3">
+	  		<label for="A_R">Difícil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R4" type="radio" name="A_R" value="4">
+	  		<label for="A_R">Muy Difícil</label>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_2_b" class="hidden">
+	  	<legend>¿Qué mejorarías?</legend>
+	  	<p class="small">Puedes seleccionar más de una opción.</p>
+	  	<div id="Q_G" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A1" type="checkbox" name="A_R" value="1">
+	  		<label for="A_R">Diseño</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A2" type="checkbox" name="A_R" value="2">
+	  		<label for="A_R">Navegación dentro del sitio</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A3" type="checkbox" name="A_R" value="3">
+	  		<label class="too-long" for="A_R">Claridad y precisión de la información</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A4" type="checkbox" name="A_R" value="4">
+	  		<label for="A_R">Organización de los contenidos</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A5" type="checkbox" name="A_R" value="5">
+	  		<label for="A_R">Lenguaje utilizado</label>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">	  	  
+	  	  <button type="button" class="btn-finalizar btn btn-primary btn-small pull-right" style="margin-left: 8px; margin-top: 2px;" disabled>Finalizar</button>
+	  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/oval-white.svg" class="hidden pull-right loading">
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_2_alt" class="hidden">
+		<legend>¿Qué buscabas?</legend>
+	  	<div id="Q_H" class="clearfix">
+	  	  <div class="col-sm-12">
+	  		<textarea id="txtA1" class="form-control" rows="6" maxlength="250" style="font-size: 14px; width: 100%;"></textarea>
+	  		<span class="small">Máximo 250 caracteres</span>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+  	  	  <button type="button" class="Q_H_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  	</div>
+	  </fieldset>
+
+	</div>
+	<p class="hidden survey-thanks" style="text-align: center; color: white; font-weight: 700;">Gracias por tu opinión.</p>
+	</form>
+
+  </div>
+</div>
+</div>
+
+<script type="text/javascript">
+$(function() {
+  var c = 0;
+  var fin = 0;
+  var tipo_cara = "";
+  var page_type = "Articulos";
+  var triggered = false;
+  var answers = {};
+  var properties = {};
+  var organization = "presidencia";
+  var section = "Blog";
+  var lang = "es";
+  properties.published_on = "2022-08-06 12:48:00 -0600";
+  properties.title = "Versión estenográfica. Supervisión del Plan de Salud IMSS-Bienestar";
+  properties.path = "/presidencia/es/articulos/version-estenografica-supervision-del-plan-de-salud-imss-bienestar";
+  properties.referer = "";
+  properties.viewfinder = navigator.userAgent.toLowerCase();
+  properties.screens = screen.width;
+  properties.device = screen.width;
+
+  $.getJSON('https://www.gob.mx/vun/estados?filter[order]=nombre%20ASC', function (selectOptions) {
+    for( var i = 0; i < selectOptions.length; i ++) {
+      var selectOptionsJSON = selectOptions[i];
+      $('#estados').append('<option value="'+ selectOptionsJSON.nombre +'">'+ selectOptionsJSON.nombre +'</option>');
+    }
+    $('#estados').append('<option value="Otro">Otro</option>')
+  });
+
+  $('.fire').click(function(event) {
+    $('.survey-popup').css({'height':'440px'});
+  });
+
+  $('#Q_A').find('button').click(function(event) {
+  	$('#query_s').removeClass('hidden');
+  	$("#query_1").addClass('hidden');
+  	answers.q1 = $(this).attr('id');
+  });
+
+  $(".ga-survey").click(function () {
+    tipo_cara = $(this).val();
+    var interval_time = [30];
+    (function timer () {
+      if (c < 1) {
+        setTimeout(function () {
+           if(fin < 1) {
+             set_ga("Inconclusa");
+             timer();
+           }
+        }, interval_time[c] * 1000);
+      }
+      c++;
+    })();
+  });
+
+  $('.Q_S_btn').click(function(event) {
+    if( answers.q1 === "radEncGood") {
+      $("#query_s").addClass('hidden');
+      $("#query_1_a").removeClass('hidden');
+    } else if(answers.q1 === "radEncReg" || answers.q1 === "radEncBad") {
+      $("#query_s").addClass('hidden');
+      $("#query_2").removeClass('hidden');
+    } else { }
+    // answers.q1 = $('#Q_A').find('button').attr('id');
+  });
+
+  $('#Q_B').find('input').click(function(event) {
+  	if( $(this).attr('id') === 'radEncA_R3' || $(this).attr('id') === 'radEncA_R4' )  {
+  	  $("#query_1_a").addClass('hidden');
+	  $("#query_1_alt").removeClass('hidden');
+  	} else {
+  	  $("#query_1_a").addClass('hidden');
+	  $("#query_1_b").removeClass('hidden');	
+  	}	
+	answers.q2 = $(this).attr('id');
+  });
+
+  $('.Q_I_btn').click(function(event) {
+  	event.preventDefault();
+  	$("#query_1_alt").addClass('hidden');
+	$("#query_1_b").removeClass('hidden');
+	answers.q5 = $('#txtA').val().substring(0, 250);
+  });
+
+  $('#Q_C').find('button').click(function(event) {
+	$("#query_1_b").addClass('hidden');
+	$("#query_1_c").removeClass('hidden');
+	var q3_array = [];
+	$('#Q_C').find('input:checked').each(function(index, el) {
+	  q3_array.push($(el).attr('id'));
+	});
+	answers.q3 = q3_array;
+  });
+
+  $('#Q_D').find('input').change(function(event) {
+  	answers.q4 = $(this).attr('id');
+  	$('.btn-finalizar').attr('disabled', false);
+  });
+
+  $('#Q_F').find('input').click(function(event) {
+	
+	answers.q2 = $(this).attr('id');
+
+	if( $(this).attr('id') === 'rdEncA_R3' || $(this).attr('id') === 'rdEncA_R4' ) {
+	  $("#query_2").addClass('hidden');
+	  $("#query_2_alt").removeClass('hidden');
+	} else {
+	  $("#query_2").addClass('hidden');
+	  $("#query_2_b").removeClass('hidden');
+	}
+  });
+
+  $('#Q_G').find('input').change(function(event) {
+  	if($('#Q_G').find('input:checked').length > 0) {
+	  $('.btn-finalizar').attr('disabled', false);
+    }
+    var q2_array = [];
+    $('#Q_G').find('input:checked').each(function(index, el) {
+	  q2_array.push($(el).attr('id'));
+	});
+	answers.q3 = q2_array;
+  });
+
+  $('.Q_H_btn').click(function(event) {
+  	event.preventDefault();
+  	$("#query_2_alt").addClass('hidden');
+	$("#query_2_b").removeClass('hidden');
+	answers.q5 = $('#txtA1').val().substring(0, 250);
+  });
+
+  $('.btn-finalizar').click(function (event) {
+    fin++;
+    $.ajax({
+      url: '/encuesta-satisfaccion',
+      type: 'post',
+      dataType: 'json',
+      data: { section: section, lang: lang, properties: properties, answers: answers },
+      beforeSend: function() {
+        $('.loading').removeClass('hidden');
+      },
+      success: function(data) {
+        set_ga("Finalizada");
+
+        $('.survey').hide();
+        $('.survey-popup').css({'height':'60px','background-color':'#dff0d8','border':'1px solid #d6e9c6'});
+        $('.survey-popup .title').text('Gracias por tu participación.').css({'color':'#3c763d'});
+        $('#icon-survey').removeClass('fa-file-text-o').addClass('fa-check-circle').css({'color':'#3c763d'});
+        setTimeout(function() {
+          $('.survey-popup').fadeOut('800');
+        }, 1600);
+      }
+    });
+  });
+
+  function set_ga(estatus) {
+    var pages_group = "Gobierno";
+    var organization_name = "presidencia";
+
+    console.log("Entro a apartado de encuesta de satisfacción. Estatus: "+ estatus);
+    console.log("Pages group: "+pages_group);
+    console.log("Sub group: "+organization_name);
+    console.log("Page type: "+page_type);
+    console.log("Face: "+tipo_cara);
+
+      console.log("Rails.env.production");
+      //Código GA para encuesta de satisfacción.
+		gtag('set', 'dimension14', pages_group);
+		gtag('set', 'dimension15', organization_name);
+		gtag('set', 'dimension16', page_type);
+		gtag('send', 'event', 'Encuesta de satisfacción', tipo_cara ,estatus);
+		gtag('set', 'dimension14', null);
+		gtag('set', 'dimension15', null);
+		gtag('set', 'dimension16', null);
+  }
+
+  $('#subscribe-survey').click(function(event) {
+	event.preventDefault();
+    var email = $("#email-survey").val();
+    var state = $('#estados').val();
+
+    if (email !== '' || email !== undefined) {
+	    try {
+	      $.ajax({
+	        url: "/subscribe",
+	        type: 'post',
+	        dataType: 'json',
+	        data : { email: {address: email} },
+	        success: function (data) {
+	            $('#responseSignup').html(data.message);
+	        },
+	        error: function (data) {
+	            $('#responseSignup').html(data.message);
+	        }
+	      });
+	    }catch(e){
+	      $("#responseEmail").innerText(e);
+	    }
+
+	    $.ajax({
+	    	url: '/signups',
+	    	type: 'POST',
+	    	dataType: 'json',
+	    	data: { section: section, lang: lang, properties: properties },
+	    	success: function() {
+	    		//console.log('exito');
+	    	}
+	    });
+	} else {
+		$('#responseSignup').html('Por favor llena todos los campos.');
+	}
+  });
+
+  $('#survey-form').submit(function(event) {
+    event.preventDefault();
+  });
+});
+</script>
+
+      </div>
+      <div class="col-sm-7 pull-left">
+        <div class="share-buttons clearfix vertical-buffer">
+  <div class="col-md-2"> <a class="twitter-share-button" data-url="https://www.gob.mx/presidencia/articulos/123389" data-text="Versión estenográfica. Supervisión del Plan de Salud IMSS-Bienestar"></a></div>
+  <div class="col-md-2">
+    <div class="fb-share-button" data-href="https://www.gob.mx/presidencia/articulos/123389" data-layout="button_count" data-size="small" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://www.gob.mx/presidencia/articulos/123389&amp;src=sdkpreparse">Compartir</a></div>
+  </div>
+</div>
+
+  <script type="text/javascript">
+    (function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v2.7";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+    
+    var pages_group = "Gobierno";
+    var page_type = "Artículos";
+    var organization_name = "presidencia";
+    var title_content = "Versión estenográfica. Supervisión del Plan de Salud IMSS-Bienestar";
+
+     window.twttr = (function (d,s,id) {
+       var t, js, fjs = d.getElementsByTagName(s)[0];
+       if (d.getElementById(id)) return; js=d.createElement(s); js.id=id;
+       js.src="//platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs);
+       return window.twttr || (t = { _e: [], ready: function(f){ t._e.push(f) } });
+     }(document, "script", "twitter-wjs"));
+
+     function trackTwitter(intent_event) {
+       if (intent_event) {
+         if (intent_event.target && intent_event.target.nodeName == 'IFRAME') {
+           console.log("Metrica Compartir Twitter - "+title_content);
+           console.log("Organization: "+organization_name);
+           console.log("Page type: "+page_type);
+           console.log("Title content: "+title_content);
+           ga('set', 'dimension14', pages_group);
+           ga('set', 'dimension15', organization_name);
+           ga('set', 'dimension16', page_type);
+           ga('send', 'event', 'Compartir en redes sociales', 'Twitter', title_content);
+           ga('set', 'dimension14', null);
+           ga('set', 'dimension15', null);
+           ga('set', 'dimension16', null);
+         }
+       }
+     }
+  </script>
+  <script type="text/javascript">
+     twttr.ready(function (twttr) {
+       twttr.events.bind('tweet', trackTwitter);
+     });
+  </script>
+
+
+      </div>
+    </div>
+    <div class="row top-buffer">
+  <div class="col-md-8">
+    <hr>
+    <div class="print col-ms-12 col-md-12 col-xs-12">
+      <span class="icon-printing"></span>
+      <a href="#">Imprime la página completa</a>
+        <p class="small" style="font-size: 14px; line-height: 1.6em;">
+          La legalidad, veracidad y la calidad de la información es estricta responsabilidad de la dependencia, entidad o empresa productiva del Estado que la proporcionó en virtud de sus atribuciones y/o facultades normativas.
+        </p>
+    </div>
+  </div>
+</div>
+
+  </div>
+  <input type="hidden" id="page_type" name="page_type" value="Articulos">
+  <input type="hidden" id="organization_name" name="organization_name" value="presidencia">
+</main>
+<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+
+<footer class="main-footer">
+  <div class="list-info">
+    <div class="container">
+
+      <div class="col-sm-3">
+        <img  src="https://framework-gb.cdn.gob.mx/landing/img/logoheader.svg"  href="/" alt="logo gobierno de méxico" class="logo_footer" style="max-width: 90%; margin-left: -27px;   margin-top: 12px;">
+      </div>
+      <div class="col-sm-3">
+        <h2>Enlaces</h2>
+        <ul>
+         <!-- <li><a  href="http://www.participa.gob.mx">Participa</a></li> -->
+          <li><a  href="https://datos.gob.mx/">Datos</a></li>
+          <li><a href="https://www.gob.mx/publicaciones" target="_blank" rel="noopener" title="Enlace abre en ventana nueva">Publicaciones </a></li>
+
+                  <li><a class="footer" href="https://consultapublicamx.plataformadetransparencia.org.mx/vut-web/faces/view/consultaPublica.xhtml?idEntidad=MzM=&amp;idSujetoObligado=MTAwMDE=#inicio" id="Transparencia" target="blank" title="Enlace abre en ventana nueva">Portal de Obligaciones de Transparencia</a></li>
+
+                  <li><a class="footer" href="https://www.infomex.org.mx/gobiernofederal/home.action" id="PNT" target="blank" title="Enlace abre PNT en ventana nueva">PNT</a></li>
+
+                  <li><a class="footer" href="http://www.inai.org.mx/" id="INAI" target="blank" title="Enlace abre sitio INAI en ventana nueva">INAI</a></li>
+
+          <li><a class="footer" id="INAI" href="http://alertadores.funcionpublica.gob.mx/" target="_blank" rel="alertadores">Alerta</a></li>
+          <li><a class="footer" id="SIDEC" href="http://sidec.funcionpublica.gob.mx/" target="_blank" rel="sidec">Denuncia</a></li>
+           </ul>
+      </div>
+      <div class="col-sm-3">
+        <h2>¿Qué es gob.mx?</h2>
+        <p>Es el portal único de trámites, información y participación ciudadana.  <a href="/que-es-gobmx" style="text-decoration: none;">Leer más </a></p>
+        <ul>
+
+        
+            <li><a href='http://www.gob.mx/epn'> Administraciones anteriores  </a></li>
+          <li><a href="/accesibilidad">Declaración de Accesibilidad</a></li>
+          <li><a href="/privacidadintegral">Aviso de privacidad</a></li>
+          <li><a href="/privacidadsimplificado">Aviso de privacidad simplificado</a></li>
+          <li><a href="/terminos">Términos y Condiciones </a></li>
+          <li><a href="/terminos#medidas-seguridad-informacion">Política de seguridad</a></li>
+          <li><a class="footer" id="Marco Juridico" href="http://www.ordenjuridico.gob.mx" target="_blank" rel="noopener" title="Enlace abre en ventana nueva">Marco jurídico</a></li>
+          <li><a href="/sitemap">Mapa de sitio</a></li>
+        </ul>
+      </div>
+      <div class="col-sm-3">
+        </p>
+        <h2>Síguenos en </h2>
+        <ul class="list-inline">
+          <li>
+            <a id="Facebook" href="https://www.facebook.com/gobmexico" target="_blank" rel="noopener" class="sendEst share-info footer" title="enlace a facebook abre en una nueva ventana">
+              <img alt="Facebook" src="https://framework-gb.cdn.gob.mx/landing/img/facebook.png" />
+            </a>
+          </li>
+          <li>
+            <a id="Twitter" href="https://twitter.com/GobiernoMX" target="_blank" rel="noopener" class="sendEst share-info footer" title="Enlace a twitter abre en una nueva ventana">
+              <img alt="Twitter" src="https://framework-gb.cdn.gob.mx/landing/img/twitter.png" />
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+  </div>
+  </div>
+
+  <div class="container-fluid footer-pleca">
+    <div class="row">
+      <div class="col">
+        <br><br>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script type="text/javascript">
+      $("a.footer").click(function () {
+          var pagina_sitio = window.location.pathname;
+          var outbound_link = $(this).attr("id");
+          var subgrupo_paginas = "presidencia";
+          var page_type = "Home";
+          var pages_group = "Gobierno";
+          if($("#page_type").length > 0){ page_type = $("#page_type").val(); }
+
+          console.log("Metrica links externos footer - "+outbound_link);
+          gtag('set', 'dimension14', pages_group);
+          gtag('set', 'dimension15', subgrupo_paginas);
+          gtag('set', 'dimension16', page_type);
+          gtag('send', 'event', 'Outbound link - Footer', outbound_link, pagina_sitio);
+          gtag('set', 'dimension14', null);
+          gtag('set, ‘dimension15', null);
+      })
+  </script>
+
+<input class="hidden" id="route" value="/presidencia/es/articulos/version-estenografica-supervision-del-plan-de-salud-imss-bienestar" type="hidden" >
+<!-- div id="fb-root"></div -->
+
+
+
+
+
+  <!-- Begin comScore Tag -->
+  <script>
+      var _comscore = _comscore || [];
+      _comscore.push({ c1: "2", c2: "17183199" });
+      (function() {
+          var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+          s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+          el.parentNode.insertBefore(s, el);
+      })();
+  </script>
+  <noscript>
+    <img src="https://sb.scorecardresearch.com/p?c1=2&c2=17183199&cv=2.0&cj=1" />
+  </noscript>
+  <!-- End comScore Tag -->
+
+  <script src="https://sb.scorecardresearch.com/c2/17183199/ct.js"></script>
+
+
+  <script type="text/javascript">
+
+      var _sf_startpt=(new Date()).getTime();
+      var _sf_async_config = { uid: 43659, domain: 'www.gob.mx', useCanonical: true } ;
+      (function() {
+          function loadChartbeat() { window._sf_endpt = (new Date()).getTime(); var e = document.createElement('script'); e.setAttribute('language', 'javascript'); e.setAttribute('type', 'text/javascript'); e.setAttribute('src','//static.chartbeat.com/js/chartbeat.js'); document.body.appendChild(e); };
+          var oldonload = window.onload;
+          window.onload = (typeof window.onload != 'function') ?
+              loadChartbeat : function()
+              { oldonload(); loadChartbeat(); };
+      })();
+      var ele = "/presidencia/es/articulos/version-estenografica-supervision-del-plan-de-salud-imss-bienestar";
+      if( "#{(@organization_site.present? ? @organization_site.category : 'gobmx')}" == "Campaña") {
+          var siteEls = 'campaign';
+      } else {
+          var siteEls = 'gobierno';
+      }
+
+      for( var i = 1; i < ele.split('/').length; i++ ) {
+          siteEls = siteEls + '.' + ele.split('/')[i];
+      }
+
+      function udm_(e){var t="comScore=",n=document,r=n.cookie,i="",s="indexOf",o="substring",u="length",a=2048,f,l="&ns_",c="&",h,p,d,v,m=window,g=m.encodeURIComponent||escape;if(r[s](t)+1)for(d=0,p=r.split(";"),v=p[u];d<v;d++)h=p[d][s](t),h+1&&(i=c+unescape(p[d][o](h+t[u])));e+=l+"_t="+ +(new Date)+l+"c="+(n.characterSet||n.defaultCharset||"")+"&c8="+g(n.title)+i+"&c7="+g(n.URL)+"&c9="+g(n.referrer),e[u]>a&&e[s](c)>0&&(f=e[o](0,a-8).lastIndexOf(c),e=(e[o](0,f)+l+"cut="+g(e[o](f+1)))[o](0,a)),n.images?(h=new Image,m.ns_p||(ns_p=h),h.src=e):n.write("<","p","><",'img src="',e,'" height="1" width="1" alt="*"',"><","/p",">")};
+      function uid_call(a, b){
+          ui_c2 = 17183199; // your corporate c2 client value
+          ui_ns_site = 'gobmx'; // your sites identifier
+          window.b_ui_event = window.c_ui_event != null ? window.c_ui_event:"",window.c_ui_event = a;
+          var ui_pixel_url = 'https://sb.scorecardresearch.com/p?c1=2&c2='+ui_c2+'&ns_site='+ui_ns_site+'&name='+a+'&ns_type=hidden&type=hidden&ns_ui_type='+b;
+          var b="comScore=",c=document,d=c.cookie,e="",f="indexOf",g="substring",h="length",i=2048,j,k="&ns_",l="&",m,n,o,p,q=window,r=q.encodeURIComponent||escape;if(d[f](b)+1)for(o=0,n=d.split(";"),p=n[h];o<p;o++)m=n[o][f](b),m+1&&(e=l+unescape(n[o][g](m+b[h])));ui_pixel_url+=k+"_t="+ +(new Date)+k+"c="+(c.characterSet||c.defaultCharset||"")+"&c8="+r(c.title)+e+"&c7="+r(c.URL)+"&c9="+r(c.referrer)+"&b_ui_event="+b_ui_event+"&c_ui_event="+c_ui_event,ui_pixel_url[h]>i&&ui_pixel_url[f](l)>0&&(j=ui_pixel_url[g](0,i-8).lastIndexOf(l),ui_pixel_url=(ui_pixel_url[g](0,j)+k+"cut="+r(ui_pixel_url[g](j+1)))[g](0,i)),c.images?(m=new Image,q.ns_p||(ns_p=m),m.src=ui_pixel_url):c.write("<p><img src='",ui_pixel_url,"' height='1' width='1' alt='*'></p>");
+      }
+      udm_('https://sb.scorecardresearch.com/b?c1=2&c2=17183199&ns_site=gobmx&name='+siteEls);
+  </script>
+
+  <noscript>
+    <img src="https://sb.scorecardresearch.com/p?c1=2&amp;c2=17183199&amp;ns_site=gobmx&amp;name=gobierno.presidencia.es.articulos.version-estenografica-supervision-del-plan-de-salud-imss-bienestar" height="1" width="1" alt="*" />
+  </noscript>
+<script>
+    let key = '';
+    $(function () {
+
+        $.getJSON("https://framework-gb.cdn.gob.mx/applications/cms/configGobmx.json", function(json) {
+            console.log(json.keyAnalytics); // this will show the info it in firebug console
+            key = json.keyAnalytics;
+            ga('create', key , 'auto', 'GobTracker');
+            ga('GobTracker.require', 'linker');
+            ga('GobTracker.linker:autoLink', ['www.gob.mx']);
+            ga('GobTracker.set', 'contentGroup1', 'Gobierno');
+            ga('GobTracker.set', 'contentGroup2', SubGroup);
+            ga('GobTracker.set', 'contentGroup3', PageType);
+            ga('GobTracker.set', 'dimension14', 'Gobierno');
+            ga('GobTracker.set', 'dimension15', SubGroup);
+            ga('GobTracker.set', 'dimension16', PageType);
+            ga('GobTracker.set', 'dimension13', 'No Registrado');
+            ga('GobTracker.send', 'pageview');
+            ga('GobTracker.set', 'contentGroup1', null);
+            ga('GobTracker.set', 'contentGroup2', null);
+            ga('GobTracker.set', 'contentGroup3', null);
+            ga('GobTracker.set', 'dimension14', null);
+            ga('GobTracker.set', 'dimension15', null);
+            ga('GobTracker.set', 'dimension16', null);
+            ga('GobTracker.set', 'dimension13', null);
+        });
+    });
+</script>
+
+<script src="https://framework-gb.cdn.gob.mx/applications/cms/modal_global_cms.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/gm/accesibilidad/js/gobmx-accesibilidad.min.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick.min.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick-lightbox.js"></script>
+<link rel="stylesheet" href="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick-lightbox.css">
+
+
+<script src="https://framework-gb.cdn.gob.mx/applications/cms/config_dependency.js"></script>
+<script type="text/javascript"  src="/0RVTuHxj0/t/mhEICJIQ/YiOkthVkYSfw/PRc4N0sKYQk/PwhFVTt/GPxQB"></script></body>
+
+</html>
+

@@ -1,0 +1,1673 @@
+<!DOCTYPE html>
+<html class='no-js' lang='es'>
+<head>
+    <title>
+  Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 20 de junio de 2022 | Presidencia de la República  | Gobierno | gob.mx
+</title>
+
+  <meta charset='UTF-8'>
+  <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#393C3E">
+
+  
+  <meta name="keywords" content="">
+  <meta name="description" content="Acto encabezado por el presidente Andrés Manuel López Obrador desde Palacio Nacional">
+  <meta name="author" content="Presidencia de la República ">
+
+  <meta content="Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 20 de junio de 2022" property="og:title" />
+  <meta content="https://www.gob.mxhttps://www.gob.mx/cms/uploads/article/main_image/121810/Conferencia_presidente__6_.jpeg" property="og:image" />
+  <meta content="gob.mx" property="og:site_name" />
+  <meta content="Acto encabezado por el presidente Andrés Manuel López Obrador desde Palacio Nacional" property="og:description" />
+  <meta content="http://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-20-de-junio-de-2022?idiom=es" property="og:url" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@gobmx" />
+  <meta name="twitter:title" content="Versión estenográfica. Conferencia de prensa del presidente Andrés..." />
+  <meta name="twitter:description" content="Acto encabezado por el presidente Andrés Manuel López Obrador desde Palacio Nacional" />
+  <meta name="twitter:image" content="https://www.gob.mxhttps://www.gob.mx/cms/uploads/article/main_image/121810/Conferencia_presidente__6_.jpeg" />
+
+
+  <meta content="authenticity_token" name="csrf-param" />
+<meta content="e6qtlr+BJ4vZXypqAnz/iusAZYis28zdHgsVg1blPE8=" name="csrf-token" />
+
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700,600,300' rel='stylesheet' type='text/css'>
+  <link href='https://framework-gb.cdn.gob.mx/applications/cms/favicon.png' rel='shortcut icon'>
+  <link data-turbolinks-track="true" href="/cms/assets/application.css" media="all" rel="stylesheet" />
+  <link data-turbolinks-track="true" href="https://framework-gb.cdn.gob.mx/gm/accesibilidad/css/gobmx-accesibilidad.min.css" media="all" rel="stylesheet" />
+  
+
+  <!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+  <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+
+ <![endif]-->
+  <script async src="https://www.googletagmanager.com/gtag/js?id="></script>
+  <script src="https://framework-gb.cdn.gob.mx/applications/cms/carrusel/swiper-bundle.min.js"></script>
+
+  <link rel="stylesheet" href="https://framework-gb.cdn.gob.mx/applications/cms/carrusel/swiper-bundle.min.css">
+
+    <script type="text/javascript">
+
+        var SubGroup = '';
+        if(false || false){
+            SubGroup = 'Temas';
+        }else{
+            SubGroup = 'presidencia';
+        }
+        var PageType = '';
+        if(false){
+            PageType = 'Home'
+        }else{
+            if(false){
+                PageType = '';
+            }else {
+                var site = window.location.pathname;
+                var arrayPageType = ["articulos", "prensa", "agenda", "documentos", "multimedia", "galerias", "videos",
+                    "acciones_y_programas", "acciones-y-programas", "mi-foto-con-el-presidente",
+                    "estructuras", "descargables", "que-hacemos", "finanzas", "infografias"];
+
+                if (site.search("archivo") != -1) {
+                    PageType = "archivo_";
+                }
+                for (var i = 0; i < arrayPageType.length; i++) {
+                    if (site.search(arrayPageType[i]) != -1) {
+                        PageType += arrayPageType[i];
+                        break;
+                    }
+                }
+            }
+        }
+
+
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', '');
+
+        gtag('require', 'linker');
+        gtag('linker:autoLink', ['www.gob.mx']);
+        gtag('set', 'contentGroup1', 'Gobierno');
+        gtag('set', 'contentGroup2', SubGroup);
+        gtag('set', 'contentGroup3', PageType);
+        gtag('set', 'dimension14', 'Gobierno');
+        gtag('set', 'dimension15', SubGroup);
+        gtag('set', 'dimension16', PageType);
+        gtag('set', 'dimension13', 'No Registrado');
+        gtag('send', 'pageview');
+        gtag('set', 'contentGroup1', null);
+        gtag('set', 'contentGroup2', null);
+        gtag('set', 'contentGroup3', null);
+        gtag('set', 'dimension14', null);
+        gtag('set', 'dimension15', null);
+        gtag('set', 'dimension16', null);
+        gtag('set', 'dimension13', null);
+
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-144356475-1', 'auto', {'allowLinker':true});
+        ga('require', 'linker');
+        ga('linker:autoLink', ['www.gob.mx']);
+        ga('set', 'contentGroup1', 'Gobierno');
+        ga('set', 'contentGroup2', SubGroup);
+        ga('set', 'contentGroup3', PageType);
+        ga('set', 'dimension14', 'Gobierno');
+        ga('set', 'dimension15', SubGroup);
+        ga('set', 'dimension16', PageType);
+        ga('set', 'dimension13', 'No Registrado');
+        ga('send', 'pageview');
+        ga('set', 'contentGroup1', null);
+        ga('set', 'contentGroup2', null);
+        ga('set', 'contentGroup3', null);
+        ga('set', 'dimension14', null);
+        ga('set', 'dimension15', null);
+        ga('set', 'dimension16', null);
+        ga('set', 'dimension13', null);
+    </script>
+
+
+  <script type = "text/javascript"> console.log(true);
+  var rails_env_prod = true; </script>
+  <script src="/cms/assets/application.js"></script>
+  <script src="/cms/assets/imageReplace.js"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.js"></script>
+
+                              <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("True"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="N3JQ2-2RVHB-WJQMN-CEYEM-ATMWX",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"N3JQ2-2RVHB-WJQMN-CEYEM-ATMWX",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="xxqo3jv567lbazxpkmeq-f-50cdf7643-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"37","ak.cp":"413578","ak.ai":parseInt("270161",10),"ak.ol":"0","ak.cr":12,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"c12c2f9d","ak.r":49405,"ak.a2":e,"ak.m":"b","ak.n":"essl","ak.bpcip":"189.224.237.0","ak.cport":65042,"ak.gh":"189.247.214.12","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"reno","ak.t":"1726960393","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==Z4TBbUR1UB2etoSlTLJ/mW1/hgljHrw4NZR7uALd/+XjmKwsCTesk/Rv3OhMZNC7c/n07hf4KPAWHlLZkQMDizQF4E9hEkYTwRMQTxGcU4RFdVPKpMzgM23g7x1nscPQs7cmX1E8qX6HW/VFcaCjNpgEZzBVavB2w1xlG6qV5F1TH+9l5dH65LLr8TSbfCT6fu5pTZfW2ypg3fQq5Gx2TwJN8QAYmBvCVcEZtwMDVzGnnrOeeRt8Z1NtYxFzzbCAtEBN/N6DHihFNaoRitMj+Fd3xPByOvDlPDlsrUHFQDURWhRIMYnKqdTZzcwD0tXeg3xPFPgl2b9RmEvTuAd83P6yibQz9ZA1xNJNwOeLbbKAMn720tuI20qmHLV08QDJ5zQCWdXGkbVy2WNisQ3Tfov7C6Z6fGPEeDijmojd4cQ=","ak.pv":"113","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+<body>
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v13.0" nonce="MZ2GPb2d"></script><!-- a href="#principal" class="skip">Saltar al contenido principal</a -->
+  <header class=" navbar navbar-inverse">
+    <nav class="navbar navbar-inverse  navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-target="#navbarMainCollapse" data-toggle="collapse">
+            <span class="sr-only">Interruptor de Navegación</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a href="/" style="padding: 1px 3px 3px 3px;" class="navbar-brand " title="Ir a la página inicial">
+
+            <div class="logo-main"></div>
+          </a>
+        </div>
+        <div id="navbarMainCollapse" class="collapse navbar-collapse">
+          <ul class="nav navbar-nav navbar-right">
+           <li><a href="/tramites" title="Trámites">Trámites </a></li>
+            <li><a href="/gobierno" title="Gobierno">Gobierno</a></li>
+                  <li><a href="/presidencia/en" title="Versión en inglés del sitio web">English</a>
+                  </li>
+                </li>
+
+
+            <li>
+              <form accept-charset="UTF-8" action="/busqueda" method="get"><div style="display:none"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+                <input type="hidden" name="site" value="presidencia">
+                <button data-v-6394873e="" id="botonbuscar" type="button" class="btn btn-search"><a data-v-6394873e="" href="https://www.gob.mx/busqueda?utf8=✓" target="_blank" id="botbusca"><img data-v-6394873e="" alt="Buscar" src="https://framework-gb.cdn.gob.mx/landing/img/lupa.png"></a></button>
+</form>            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    
+
+
+        <script src="/cms/assets/level_jump.js"></script><section>
+<!-- Subnavegacion -->
+<nav class=" navbar-inverse sub-navbar fixed-top"
+     >
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#subenlaces">
+        <span class="sr-only">Interruptor de Navegación</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="link-name" href="?tab="></a>
+    </div>
+    <div class="collapse navbar-collapse" id="subenlaces">
+      <ul class="nav subnav navbar-nav navbar-right">
+              <li class="landing-btn">
+                    <a href='/presidencia/es/archivo/prensa'>
+                Comunicados            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='/presidencia/es/#5173'>
+                Directorio            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='https://transparencia.presidencia.gob.mx/presidencia/transparencia/politicas-de-tratamiento-de-datos-personales-de-la-oficina-de-la-presidencia-de-la-republica/'>
+                Protección de Datos Personales            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='https://www.gob.mx/presidencia/transparencia/'>
+                Transparencia            </a>
+            </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+<style>
+  .flag-banner {
+  top: 45px  !important;
+  }
+</style>
+<!-- div class="warning-nav" style="margin-top: 0px;">
+  <div class="container">
+    <div class="row clearfix">
+  <div class="col-xs-12 col-sm-12 col-md-12">Este contenido será modificado temporalmente en atención a las disposiciones legales y normativas en materia electoral, con motivo del inicio de periodo de campaña</div>
+  </div>
+  </div>
+</div -->
+</section>
+
+
+  </header>
+
+
+
+
+
+<main class="inner-page interior ficha">
+  <div class="container">
+  	<ol class="breadcrumb">
+  <li><a href="http://www.gob.mx"><span class="icon icon-home"></span><span class="sr-only">Inicio</span></a></li>
+  <li><a href="/presidencia">Presidencia de la República </a></li>
+  <li class="active">Blog</li>
+</ol>
+  	<div class="">
+      <div aria-hidden="true" class="hidden-xs font-changer internal print" tabindex="-1">
+  <button class="inc-font font-modifier">Aa+</button>
+  <button class="dec-font font-modifier">Aa-</button>
+</div>
+      <div class="marquee-padding">
+      <div class='post-list main-post-list'>
+<div class='marque-float-left'>
+<div class='right_arrow'></div>
+<div class='titulo-pub'>
+<small>Publicaciones Recientes</small>
+</div>
+</div>
+<div>
+<div class='container-marque'>
+<div id='headlines'>
+<div class='marquee'>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-19 13:44:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-19-de-septiembre-de-2024' title='Versió'>
+Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 19 de septiembre de 2024
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-18 12:36:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-18-de-septiembre-de-2024' title='Versió'>
+Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 18 de septiembre de 2024
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-17 13:51:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-entrega-de-estimulos-a-delegaciones-mexicanas-participantes-en-juegos-olimpicos-y-paralimpicos-paris-2024' title='Versió'>
+Versión estenográfica. Entrega de estímulos a delegaciones mexicanas participantes en Juegos Olímpicos y Paralímpicos París 2024
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-17 12:21:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-17-de-septiembre-de-2024' title='Versió'>
+Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 17 de septiembre de 2024
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-16 13:56:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-desfile-civico-militar' title='Versió'>
+Versión estenográfica. Desfile Cívico Militar
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+      </div>
+  	  <div class="col-md-7 col-xs-12 col-sm-12 pull-left" tabindex="0">
+  	  	<h1 class="bottom-buffer">Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 20 de junio de 2022</h1>
+  	  	<h2>Acto encabezado por el presidente Andrés Manuel López Obrador desde Palacio Nacional</h2>
+        <section class="">
+          <p>Presidencia de la República  | 20 de junio de 2022</p>
+        </section>
+  	  <div class="imagen-principal">
+  	      <img alt="Conferencia de prensa del presidente Andrés Manuel López Obrador" class="img-responsive img_curve" src="https://www.gob.mx/cms/uploads/article/main_image/121810/Conferencia_presidente__6_.jpeg" />
+  	      <span class="small">Conferencia de prensa del presidente Andrés Manuel López Obrador</span>
+      </div>
+      <div class="article-body"><p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:Buenos d&iacute;as.&nbsp;</p>
+
+<p>Bueno, pues vamos a iniciar la semana con la informaci&oacute;n de qui&eacute;n es qui&eacute;n en los precios,&nbsp;y tambi&eacute;n, hoy 20 es el d&iacute;a de mes que se dedica a informar sobre seguridad, lo que hacemos mes con mes.</p>
+
+<p>Quiero aprovechar para enviar un saludo, una felicitaci&oacute;n a Juan Jos&eacute; Toscano Anderson, primer basquetbolista mexicano en obtener el campeonato de la NBA, en San Francisco, nuestro paisano. Felicidades, muchas felicidades.</p>
+
+<p>Y pues hoy vamos a escuchar cumbia por el triunfo de Gustavo&nbsp;Petro, que nos da mucho gusto;&nbsp;no lo puedo ocultar, estoy muy contento. Pero vamos primero con Ricardo Sheffield.</p>
+
+<p>RICARDO SHEFFIELD PADILLA, PROCURADOR FEDERAL DEL CONSUMIDOR:&nbsp;Buenos d&iacute;as, se&ntilde;or presidente; muy buenos d&iacute;as a todas y a todos ustedes.</p>
+
+<p>Qui&eacute;n es qui&eacute;n en el precio de los combustibles. Continuamos viendo en el mercado internacional&nbsp;una alza, desde diciembre del a&ntilde;o pasado, continua en el precio del petr&oacute;leo. Con corte el 16 de junio, la mezcla mexicana de petr&oacute;leo, 112 d&oacute;lares con 40 centavos el barril.</p>
+
+<p>Y tenemos que el precio promedio la semana pasada para la gasolina regular fue de 21.94 el litro, para la Premium 23.86 el litro y 23 pesos con 25 centavos el litro de di&eacute;sel. Esta semana incentivo fiscal del 100 por ciento en los tres tipos de combustibles, esto quiere decir que no estaremos pagando el impuesto especial&nbsp;sobre productos y servicios.</p>
+
+<p>Las tres marcas que dieron m&aacute;s cara la gasolina&nbsp;y el di&eacute;sel la semana pasada fue Valero, otra vez Oxxo Gas lamentablemente y&nbsp;PetroSeven&nbsp;que se suma a los tres que dan m&aacute;s caros, sobre todo recargado los precios caros en el norte del pa&iacute;s, que estas tres dominan mucho el mercado en el norte del pa&iacute;s; mientras que las tres m&aacute;s econ&oacute;micas, que, por cierto, est&aacute;n en la zona centro y sur del pa&iacute;s, Repsol, G500 y&nbsp;Orsan, que contin&uacute;an siendo aliados de los consumidores.&nbsp;</p>
+
+<p>En la gasolina regular, la que encontramos con el precio m&aacute;s alto y adem&aacute;s el margen m&aacute;s alto, es en la Benito Ju&aacute;rez, en Quintana Roo, de franquicia Pemex, 23 pesos con 48 centavos, un margen estos angelitos de tres pesos con 60 centavos por litro, muy alto. Y Arco es la m&aacute;s econ&oacute;mica con el margen m&aacute;s alto, esto en Ahumada, Chihuahua, un precio al p&uacute;blico de 21 pesos con 37 centavos, 18 centavos de margen en comparaci&oacute;n.</p>
+
+<p>Y la gasolina Premium, la m&aacute;s cara con el margen m&aacute;s alto,&nbsp;Mobilen Monterrey, Nuevo Le&oacute;n, 25 pesos con 99 centavos, un margen muy&nbsp;pasado de rosca,&nbsp;tres pesos con 53 centavos, comparados con cinco centavos de margen de franquicia Pemex en L&aacute;zaro C&aacute;rdenas, Michoac&aacute;n, precio al p&uacute;blico en consecuencia de 22 pesos con 40 centavos.</p>
+
+<p>Y, por &uacute;ltimo, en el di&eacute;sel, tenemos una estaci&oacute;n con un nombre muy raro, se llama&nbsp;Indian&nbsp;Gas&nbsp;Station, en Mazatl&aacute;n, Sinaloa, un precio al p&uacute;blico de 24.99, un margen de dos pesos con 24 centavos.</p>
+
+<p>Y franquicia Pemex en Tampico, Tamaulipas, 22 pesos con 23 centavos. Ahora aqu&iacute; en la presentaci&oacute;n le pusieron medio curioso, ser&aacute; porque es del norte, le pusieron &lsquo;Pemez&rsquo;, en vez de Pemex, 18 centavos de margen.</p>
+
+<p>Recibimos a trav&eacute;s de la app de Litro por Litro 166 quejas o denuncias, de las cuales las atendimos a trav&eacute;s de 148 visitas.&nbsp;</p>
+
+<p>Y encontramos en la app en esta semana que cerr&oacute; que la m&aacute;s barata sin tomar en cuenta el margen fue en Coatzacoalcos,&nbsp;Servif&aacute;cil&nbsp;19.59 por litro; y G500 en Centro, Tabasco, a 20 pesos con 39 centavos el litro; mientras que la m&aacute;s cara, sin tomar en cuenta el margen, en Hermosillo, Sonora,&nbsp;Windstar&nbsp;24.99 y Total de San Pancho, Aguascalientes, 24 pesos con 33 centavos el litro.</p>
+
+<p>Para la Premium la m&aacute;s barata 21.89 de&nbsp;Servif&aacute;cil, en Coatzacoalcos, Veracruz, y 21.99 de franquicia Pemex, en Altamira, Tamaulipas, 26.79 de Shell, la m&aacute;s cara, en Naucalpan, aqu&iacute; en el Estado de M&eacute;xico, y 26.50 de Franquicia Pemex, en Guadalajara, Jalisco.</p>
+
+<p>Y las m&aacute;s baratas del di&eacute;sel, 22.19 de BP, en Coatzacoalcos, Veracruz, y 22.24, de Pemex, en Tampico, Tamaulipas.</p>
+
+<p>Las m&aacute;s caras es&nbsp;Servitec, a 24.99 el litro, en G&oacute;mez Palacios, Durango, y 24.99 de Cargo Gas, en Matamoros, Coahuila.</p>
+
+<p>Y seguimos tambi&eacute;n verificando los servicios sanitarios en las estaciones de servicio donde se expende la gasolina.</p>
+
+<p>Vamos ahora al gas LP. Tenemos que, si hacemos un corte el 15 de junio y convertimos a pesos y a kilos el gas LP, el precio internacional fue de 27 pesos con 99 centavos, cuando el promedio de las 145 regiones en M&eacute;xico fue en esa misma semana de 24 pesos con 54 centavos por kilo, esto es para cilindros de gas.</p>
+
+<p>Y ese mismo d&iacute;a, 14.94 pesos por litro para tanques estacionarios, cuando el promedio en el pa&iacute;s fue de 13 pesos con 23 centavos de tanques estacionarios. As&iacute; tenemos un referente para darnos cuenta quienes son los proveedores que dan el mejor precio que son aliados de los consumidores en las distintas regiones del pa&iacute;s.</p>
+
+<p>Gas Premium est&aacute; dando por abajo del precio m&aacute;ximo, en Tepeji del R&iacute;o, Hidalgo, tiene un precio al p&uacute;blico de 12 pesos 30 centavos por litro, cuando el precio m&aacute;ximo es de 13 pesos con 78 centavos en esa regi&oacute;n. Y tambi&eacute;n tenemos ejemplos en Oaxaca, en Coahuila, en el Estado de M&eacute;xico, en Jalisco, en Michoac&aacute;n, en Guerrero, en Sinaloa y en Zacatecas.</p>
+
+<p>Y si vemos cilindros de gas, un poquito m&aacute;s complicado el mercado, no hay tantos ejemplos, pero tambi&eacute;n los encontramos, como es el de Flama Azul, en San Andr&eacute;s, en Oaxaca, a 22 pesos 97 centavos el kilo, cuando el precio m&aacute;ximo es de 25 pesos 56 centavos el kilo. Y tenemos ejemplos en Puebla, en San Luis Potos&iacute;, en Michoac&aacute;n, en Zacatecas, en Veracruz, en Guanajuato, en Jalisco y en el Estado de M&eacute;xico.</p>
+
+<p>Realizamos 137 visitas y pudimos constatar&nbsp;que en todas las regiones del pa&iacute;s se est&aacute; respetando los precios m&aacute;ximos y, como mencionamos, incluso en algunos casos dando por abajo del precio m&aacute;ximo en algunas de las 145 regiones.</p>
+
+<p>Vamos ahora ver las despensas. De los 24 elementos de estos art&iacute;culos de esta despensa, se hizo un cambio en esta semana, se cambi&oacute; la naranja por el pl&aacute;tano, esta fruta se intercambi&oacute; porque la naranja ya est&aacute; saliendo de estacionalidad, en consecuencia subiendo de precio, y la que est&aacute; entrando en&nbsp;mayor producci&oacute;n por la misma estaci&oacute;n y los climas es el pl&aacute;tano, entonces se hace el cambio, que es algo que debemos de hacer todas las familias irnos a frutas, a verduras que son las que las que est&aacute;n m&aacute;s disponibles, que son nacionales y que por estar en abundancia tienen los mejores precios en ese momento, y se hace ajuste ya por unos cuantos meses de la naranja por el pl&aacute;tano.</p>
+
+<p>Tenemos el &Iacute;ndice Nacional de Precios al Consumidor, que es la raya negra, que ha venido subiendo, esto es s&oacute;lo alimentos y bebidas, como ha venido subiendo lamentablemente en todo el mundo; sin embargo, estos 24 productos se ha venido logrando en esta alianza con productores y distribuidores nacionales que se mantenga cierta estabilidad en los precios altos, el promedio de precios altos, que es la raya roja, se ha venido poco a poco una reducci&oacute;n, y una franca estabilidad en los precios bajos, y esto es ya tomando en cuenta el ajuste que mencionamos hace un momento.</p>
+
+<p>En esta semana que concluy&oacute; en la zona centro, el precio m&aacute;s alto lo encontramos en&nbsp;Walmart&nbsp;Expr&eacute;ss&nbsp;en Quer&eacute;taro, Quer&eacute;taro, a mil 128 pesos con 90 centavos el paquete, mientras&nbsp;que&nbsp;en comparaci&oacute;n en Chedraui, en Coacalco, en el Estado de M&eacute;xico, este mismo paquete est&aacute; en mil 17 pesos. Y tenemos otro ejemplo de Chedraui en Tlaxcala, en Apizaco, a mil 24 pesos con 40 centavos. Pueden ustedes buscar en su regi&oacute;n qui&eacute;nes tienen el paquete al mejor precio para que puedan aprovechar precisamente esos precios.</p>
+
+<p>En la zona centro norte tenemos que&nbsp;Walmart&nbsp;Expr&eacute;ss&nbsp;otra vez fue el m&aacute;s caro, tiene este paquete a mil 144 pesos con 10 centavos, mientras&nbsp;que&nbsp;en la Central de Abastos de Durango, Durango, el mismo paquete a 978 pesos&nbsp;con 50 centavos, m&aacute;s de 150 pesos de diferencia.</p>
+
+<p>Y en la zona norte vemos c&oacute;mo&nbsp;Abarrey&nbsp;Ya&ntilde;ez, que es una comercializadora, una distribuidora regional en Hermosillo, Sonora, tiene el paquete al precio m&aacute;s caro de esta zona, a mil 183 pesos con 72 centavos, mientras que Merco&nbsp;Aramberri, que es otra distribuidora regional, sobre todo con presencia en Nuevo Le&oacute;n, en Monterrey, Nuevo Le&oacute;n, tiene el mismo paquete a 997 pesos con 75 centavos. Esta distribuidora Merco&nbsp;Aramberri&nbsp;le gan&oacute; a la Central de Abastos de Monterrey. Qu&eacute; bueno que se al&iacute;an con los consumidores, estos 997 pesos con 75 centavos son un ahorro casi de 200 pesos en comparaci&oacute;n con el paquete en su precio m&aacute;s caro de esta canasta b&aacute;sica.</p>
+
+<p>Y, por &uacute;ltimo, en la zona sur, sureste, Chedraui tiene el paquete en mil 128 pesos con 70 centavos, mientras que Bodega Aurrera, en M&eacute;rida, Yucat&aacute;n, tambi&eacute;n lo tiene en mil 39 pesos con 75 centavos. Los habitantes de M&eacute;rida pueden ahorrarse una buena cantidad, ven ustedes, pr&aacute;cticamente 100 pesos dentro de la misma plaza. Y tenemos ejemplos tambi&eacute;n econ&oacute;micos como la Central de Abastos de Villahermosa, Tabasco, que ha estado saliendo varios meses como la opci&oacute;n m&aacute;s econ&oacute;mica, hasta esta semana le gan&oacute; Bodega Aurrera en M&eacute;rida, lo tiene a mil 40 pesos con 50 centavos.</p>
+
+<p>Si le buscamos, encontramos d&oacute;nde podemos ahorrar, d&oacute;nde podemos comprar m&aacute;s econ&oacute;mico este paquete y muchas otras cosas.</p>
+
+<p>Por cierto, felicidades a los pap&aacute;s por el d&iacute;a de ayer.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Ah, los videos.</p>
+
+<p>(INICIA VIDEO&nbsp;AVANCES EN LA CONSTRUCCI&Oacute;N DE LA REFINER&Iacute;A DOS BOCAS &lsquo;OLMECA&rsquo;)</p>
+
+<p>ROC&Iacute;O NAHLE GARC&Iacute;A, SECRETAR&Iacute;A DE ENERG&Iacute;A:&nbsp;Es viernes 17 de junio y estamos en la planta reformadora, como ustedes ven, ya en la etapa final de la construcci&oacute;n de esta y de las 17 plantas. Todos los trabajadores, toda la gente muy motivada, con mucha energ&iacute;a, trabajando para la inauguraci&oacute;n de esta primera etapa.</p>
+
+<p>Va el reporte de esta semana.</p>
+
+<p>VOZ HOMBRE:&nbsp;Dentro de los compromisos establecidos se pidi&oacute; que los equipos estuvieran en el sitio en este mes. Es por eso que esta semana arribaron al puerto de Dos Bocas los reactores fabricados en Italia para las plantas&nbsp;hidrotratadora&nbsp;de di&eacute;sel&nbsp;y reformadora, con lo que se realiz&oacute; su respectiva descarga y traslado para su montaje.</p>
+
+<p>De igual manera, se realizaron maniobras de descarga y traslado de los m&oacute;dulos correspondientes a la planta&nbsp;hidrotratadora&nbsp;de naftas.</p>
+
+<p>En los paquetes de ICA-Fl&uacute;or se instal&oacute; en la planta de butanos la torre&nbsp;desisodesbunetizadora&nbsp;y en la planta&nbsp;isomerizadora&nbsp;de pentanos y hexanos se realiz&oacute; el&nbsp;izaje&nbsp;de la &uacute;ltima torre&nbsp;desiosinexadora.</p>
+
+<p>De igual manera, se instal&oacute; el m&oacute;dulo 14 del quemador elevado del sistema de desfogue y se concluy&oacute; el montaje de la torre de barrenado de la mesa 3 de los tambores de coque, estableciendo una altura de 126 metros en su estructura.</p>
+
+<p>En la planta de desintegraci&oacute;n catal&iacute;tica que construye Samsung se llev&oacute; a cabo el montaje de las columnas DF21401 y DF21402 en sus cimentaciones respectivas.</p>
+
+<p>Se realiz&oacute; el montaje de un domo geod&eacute;sico por parte de&nbsp;Techint&nbsp;de la planta de aguas amargas con un peso de casi nueve toneladas en un tanque con capacidad de 55 mil barriles.</p>
+
+<p>Contin&uacute;an tambi&eacute;n los trabajos de aislamiento t&eacute;rmico en montaje de internos en sus torres.</p>
+
+<p>En la planta de cogeneraci&oacute;n se instalan m&oacute;dulos de m&aacute;s de 80 toneladas en la zona de recuperadores de calor y contin&uacute;a el montaje de tuber&iacute;as en el &aacute;rea de efluentes.</p>
+
+<p>En las zonas de racks se trabaja en la colocaci&oacute;n de puente y tuber&iacute;as, y avanza la colocaci&oacute;n de pavimento en el &aacute;rea de plantas, una vez que se desocupe el &aacute;rea de gr&uacute;as y equipo rodantes.</p>
+
+<p>En el cuarto de control central se instalan las consolas de operaci&oacute;n de proceso como &uacute;ltima parte para dar inicio al encendido del control del sistema e iniciar con la capacitaci&oacute;n y pruebas del manejo del proceso central.</p>
+
+<p>Contin&uacute;a el cultivo y trasplante de plantas de ornato desde el vivero hacia&nbsp;las &aacute;reas verdes de la refiner&iacute;a.</p>
+
+<p>(FINALIZA VIDEO)</p>
+
+<p>(INICIA VIDEO&nbsp;AVANCES EN LA CONSTRUCCI&Oacute;N DEL TREN MAYA)</p>
+
+<p>VOZ MUJER:&nbsp;Tren Maya, reporte de avances, 20 de junio de 2022.</p>
+
+<p>En el tramo 1, en Tenosique, Tabasco, concluy&oacute; el proceso de cimentaci&oacute;n del viaducto que cruzar&aacute; la ciudad y que tendr&aacute; una longitud de casi tres kil&oacute;metros. Ahora contin&uacute;an los trabajos de construcci&oacute;n que dar&aacute;n soporte a esa estructura.</p>
+
+<p>En el almac&eacute;n ubicado en El Triunfo,&nbsp;Balanc&aacute;n, avanza el acopio de rieles que ser&aacute;n usados en la v&iacute;a del Tren Maya. Hasta ahora se han recibido 17 mil 274 toneladas, lo que representa casi 60 por ciento del total de rieles requerido para todo el Tramo 1.</p>
+
+<p>En el tramo 2 a la altura de&nbsp;Pomuch, en Campeche, avanzan los trabajos de un paso inferior vehicular, as&iacute; como los colados de obras de drenaje transversal que permitir&aacute;n un adecuado flujo pluvial.</p>
+
+<p>Tambi&eacute;n arrib&oacute; a Campeche una locomotora para el armado de v&iacute;a. Esta unidad ser&aacute; pieza clave en el proceso de tendido de balasto, colocaci&oacute;n de durmientes e instalaci&oacute;n de rieles.</p>
+
+<p>En el tramo 3 contin&uacute;an los trabajos de habilitado de zapata y cimentaci&oacute;n para los muros de un paso general ubicado cerca de la localidad de San Pedro&nbsp;Kopom&aacute;, en Yucat&aacute;n.&nbsp;</p>
+
+<p>En el tramo 4, tambi&eacute;n en Yucat&aacute;n, inici&oacute; la conformaci&oacute;n de la plataforma sobre la cual se construir&aacute; la estaci&oacute;n del tren en Valladolid.</p>
+
+<p>Ya son 112 mil los empleos generados en el sureste de M&eacute;xico por el proyecto del Tren Maya.</p>
+
+<p>El Tren Maya avanza.</p>
+
+<p>(FINALIZA VIDEO)</p>
+
+<p>(INICIA VIDEO&nbsp;AVANCES EN LA CONSTRUCCI&Oacute;N DEL PARQUE ECOL&Oacute;GICO LAGO DE TEXCOCO)</p>
+
+<p>VOZ MUJER:&nbsp;La Comisi&oacute;n Nacional del Agua informa los avances en la construcci&oacute;n del Parque Ecol&oacute;gico Lago de Texcoco.</p>
+
+<p>Contin&uacute;an los trabajos para la producci&oacute;n de vegetaci&oacute;n hal&oacute;fila, herb&aacute;cea y acu&aacute;tica para la cobertura de suelos en espacios del parque.</p>
+
+<p>Se realiza la propagaci&oacute;n de dos millones 366 mil plantas herb&aacute;ceas.</p>
+
+<p>En las instalaciones del pabell&oacute;n demostrativo se han comenzado a recibir visitas escolares con el objetivo de difundir el valor biocultural del Lago de Texcoco.</p>
+
+<p>En el jard&iacute;n central se realizan trabajos preliminares para la construcci&oacute;n de barreras&nbsp;rompevientos&nbsp;y brechas cortafuego en la zona oeste del parque.</p>
+
+<p>Asimismo, se contin&uacute;a con el riego y mantenimiento de la paleta vegetal en la superficie del parque central.</p>
+
+<p>Contin&uacute;an los trabajos de topograf&iacute;a del espacio p&uacute;blico y senderos en las plataformas, que a la fecha llevan un acumulado de 285 mil metros cuadrados de avance.</p>
+
+<p>Iniciaron los trabajos de excavaci&oacute;n para la construcci&oacute;n de cimentaciones de las edificaciones aleda&ntilde;as a las zonas deportivas.</p>
+
+<p>Se realiza el colado de espacios deportivos, los cuales albergar&aacute;n campos de f&uacute;tbol r&aacute;pido, f&uacute;tbol siete y b&aacute;squetbol, as&iacute; como espacios para uso l&uacute;dico.</p>
+
+<p>En la zona de senderos y plazoletas contin&uacute;an los trabajos de afine y compactaci&oacute;n del material base de estas plataformas.</p>
+
+<p>Se lleva a cabo la canalizaci&oacute;n de redes principales en las instalaciones del parque, as&iacute; como de redes interiores para la alimentaci&oacute;n de los servicios de operaci&oacute;n de cada una de las plataformas.</p>
+
+<p>De forma permanente se realiza el monitoreo, rescate y banqueo de la vegetaci&oacute;n nativa, adem&aacute;s del seguimiento y conservaci&oacute;n de la avifauna dentro del parque.</p>
+
+<p>A la fecha se han generado m&aacute;s de tres mil 500 empleos en la construcci&oacute;n del parque.</p>
+
+<p>Con estas acciones se contin&uacute;a con la recuperaci&oacute;n ambiental de la regi&oacute;n en beneficio de los habitantes del Valle de M&eacute;xico.</p>
+
+<p>(FINALIZA VIDEO)</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Ahora s&iacute;.</p>
+
+<p>ROSA ICELA RODR&Iacute;GUEZ VEL&Aacute;ZQUEZ, SECRETARIA DE SEGURIDAD Y PROTECCI&Oacute;N CIUDADANA:&nbsp;Con su permiso, se&ntilde;or presidente. Muy buenos d&iacute;as a todas y a todos, y muy buenos d&iacute;as a mis compa&ntilde;eros de gabinete y tambi&eacute;n al procurador del Consumidor.</p>
+
+<p>Como hacemos cada mes, hoy presentamos el informe mensual con resultados del esfuerzo conjunto del Gabinete de Seguridad que encabeza el presidente Andr&eacute;s Manuel L&oacute;pez Obrador. Este informe recoge puntualmente los reportes que env&iacute;an las 32 fiscal&iacute;as y procuradur&iacute;as estatales que env&iacute;an al Secretariado Ejecutivo del Sistema Nacional de Seguridad P&uacute;blica, por lo que refleja el trabajo coordinado entre el gobierno federal y los gobiernos estatales y municipales.</p>
+
+<p>Hoy presentamos los resultados hasta el mes de mayo que reflejan la baja en la incidencia delictiva en la mayor&iacute;a de los delitos. Hoy se trabaja con estrategia, con inteligencia y con acciones concretas para dar tiros de precisi&oacute;n a las estructuras criminales. Estamos en el camino correcto en el que se considera&nbsp;cero impunidad&nbsp;y cero corrupci&oacute;n.</p>
+
+<p>Pasemos a las cifras. En primer lugar, decir que al inicio de esta administraci&oacute;n se comet&iacute;an nueve mil 62 delitos del fuero federal y en mayo se registraron 26.6 por ciento menos. Estamos en los niveles m&aacute;s bajos de los delitos del fuero federal desde hace cuatro a&ntilde;os. En la mayor&iacute;a de los delitos tuvimos reducciones en los delitos federales.</p>
+
+<p>En relaci&oacute;n con el homicidio doloso, aument&oacute; entre el pasado mes de abril y mayo; sin embargo, este mayo de 2022 es el m&aacute;s bajo desde hace cinco a&ntilde;os, se mantiene la tendencia a la baja con una disminuci&oacute;n de 7.8 por ciento en comparaci&oacute;n con el m&aacute;ximo hist&oacute;rico de 2018. Seguimos trabajando con mucha coordinaci&oacute;n y estrategia contra la delincuencia organizada.</p>
+
+<p>En este cuadro se ve muy claramente que, del promedio diario de 2019, el promedio diario de 2020 y del 21, en enero-mayo, los cinco meses, llevamos un promedio de 84 v&iacute;ctimas diarias y esto representa una reducci&oacute;n de 10.8 con respecto al 2021 de 13.2 con respecto al 2020 y de 10.4 respecto a 2019.</p>
+
+<p>Siguen seis entidades concentrando casi el 50 por ciento de los homicidios dolosos, este es Guanajuato, Michoac&aacute;n, Estado de M&eacute;xico, Baja California, Jalisco y Sonora.</p>
+
+<p>En el caso de Guanajuato hemos ido en incremento en el &uacute;ltimo mes con un alza de 72 v&iacute;ctimas m&aacute;s, en el caso de Michoac&aacute;n van dos meses que baja este delito de homicidio doloso en esta entidad, en el Estado de M&eacute;xico tambi&eacute;n tenemos un incremento de 36 v&iacute;ctimas m&aacute;s; en el caso de Baja California, a pesar de que hab&iacute;a venido en un claro descenso, tenemos tres meses en el que este delito se ha incrementado; en el caso de Jalisco se mantiene con una tendencia a la baja y en el caso de Sonora tuvimos un incremento de 20 v&iacute;ctimas m&aacute;s.</p>
+
+<p>En el caso de los 50 municipios prioritarios se ha tenido un descenso en 33 municipios que registraron una disminuci&oacute;n de 28 por ciento; sin embargo, en 16 hay un incremento del 20 por ciento, un municipio permaneci&oacute; sin cambios y el promedio de la disminuci&oacute;n de los 50 municipios es de 16 por ciento en comparaci&oacute;n con el mismo periodo del a&ntilde;o anterior.</p>
+
+<p>En general en los delitos del fuero com&uacute;n, se ha bajado en la mayor&iacute;a de los delitos, excepto el delito de extorsi&oacute;n, que tiene un incremento de m&aacute;s de 28 por ciento.</p>
+
+<p>Los robos que son delitos del fuero com&uacute;n ha bajado durante este gobierno, seg&uacute;n el reporte de las fiscal&iacute;as estatales, y en mayo con respecto al inicio de la administraci&oacute;n se redujo 29 por ciento.</p>
+
+<p>Y tambi&eacute;n el robo de veh&iacute;culo es un delito que durante esta administraci&oacute;n ha venido claramente a la baja, en mayo se redujo 45.8 respecto al m&aacute;ximo hist&oacute;rico de 2018.</p>
+
+<p>El feminicidio tambi&eacute;n es un delito que baj&oacute; 31.2 por ciento respecto a su m&aacute;ximo hist&oacute;rico. Hay que recordar que este delito no se tipificaba, no se contabilizaba y fue hasta el 2019 que empezaron a contabilizarse, y en estos meses, en este a&ntilde;o ha venido claramente a la baja.</p>
+
+<p>Con respecto al delito de secuestro se ha tenido una baja de 58.3 en esta administraci&oacute;n. Y en el &uacute;ltimo mes se tuvo un incremento relacionado con los migrantes, con la poblaci&oacute;n migrantes que se tienen secuestros expr&eacute;s, pero queda de todas maneras la denuncia.</p>
+
+<p>Aqu&iacute; tambi&eacute;n se ve los resultados del trabajo de la Coordinaci&oacute;n Nacional Antisecuestro y de las unidades antisecuestros de los estados, de los 32 estados del pa&iacute;s, en donde se ve por qu&eacute; el delito de secuestro baja, porque hay un n&uacute;mero importantes de detenidos, de bandas desarticuladas y de v&iacute;ctimas liberadas, esto es el trabajo de&nbsp;cero impunidad.</p>
+
+<p>Aqu&iacute; vienen, no lo voy a detallar, solamente lo dejo aqu&iacute;, algunas de las acciones que se hacen para el fortalecimiento de la estrategia nacional de seguridad del Estado mexicano en conjunto con los municipios.</p>
+
+<p>En relaci&oacute;n con el robo de hidrocarburos y el desv&iacute;o de miles de barriles al d&iacute;a por el mercado il&iacute;cito, se tiene un ahorro estimado del 1&ordm; de diciembre al 31 de mayo de 2022 de m&aacute;s de 211 mil millones de pesos por el trabajo que realizan las Fuerzas Armadas en este tema, y esto equivale a un ahorro de m&aacute;s de 165 millones de pesos diarios.</p>
+
+<p>Aqu&iacute; tambi&eacute;n es un programa importante para el gobierno federal, la prevenci&oacute;n de la toma de casetas con el Plan Caseta Segura, y en esto se ha evitado la p&eacute;rdida de siete mil 845 millones de pesos durante 2022, y en un acumulado de 31 mil 554 millones de pesos del 2020 al 2022.</p>
+
+<p>Y aqu&iacute; se detallan algunos de los ahorros que se tienen al evitar la toma de casetas. Y seguimos trabajando de manera coordinada con las fiscal&iacute;as de los estados.</p>
+
+<p>Y este es el resultado del trabajo conjunto con el Gabinete de Seguridad. Ahora le doy la palabra al general Rodr&iacute;guez&nbsp;Bucio.</p>
+
+<p>LUIS RODR&Iacute;GUEZ BUCIO, COMANDANTE DE LA GUARDIA NACIONAL:&nbsp;Con su permiso, se&ntilde;or presidente. Buenos d&iacute;as.</p>
+
+<p>Me voy a permitir informar sobre el avance de la Guardia Nacional, principalmente en lo que tiene que ver con efectivos disponibles, el reclutamiento, la capacitaci&oacute;n, la construcci&oacute;n de cuarteles para la Guardia Nacional y algunas de las actividades m&aacute;s relevantes que se realizaron por parte de la Guardia Nacional en el mes que se informa.</p>
+
+<p>Seguimos con un estado de fuerza de 118 mil 188 elementos, la fuerza operativa es de 105 mil y tres elementos, todos desplegados en las 266 coordinaciones regionales.</p>
+
+<p>En cuanto a reclutamiento, se cumplieron los tres a&ntilde;os anteriores la meta, en este a&ntilde;o tenemos una meta de 10 mil 45 elementos para poder terminar el a&ntilde;o 2022 con 128 mil 233 elementos en la Guardia Nacional.</p>
+
+<p>En cuanto a capacitaci&oacute;n, que esto es muy importante. Mientras mejor capacitado est&eacute; el personal de la Guardia Nacional, mejor podr&aacute; cumplir con sus funciones. Tuvimos la clausura o la culminaci&oacute;n de dos cursos:</p>
+
+<p>Uno para elementos de nuevo ingreso, fue el primer escal&oacute;n de este a&ntilde;o, ah&iacute; se graduaron tres mil dos elementos.</p>
+
+<p>Y el curso de veteranos, que fue el segundo escal&oacute;n de este a&ntilde;o cumplieron ya con esta capacitaci&oacute;n mil 478 elementos.</p>
+
+<p>Continuamos con este curso de formaci&oacute;n inicial, que es el curso b&aacute;sico, tenemos actualmente seis mil 194 elementos en el segundo, tercero, cuarto, quinto escal&oacute;n, que est&aacute;n actualmente en capacitaci&oacute;n.</p>
+
+<p>En capacitaci&oacute;n o formaci&oacute;n inicial para veteranos, que es de ocho semanas, tenemos actualmente mil 214 elementos que constituyen el tercer escal&oacute;n de este a&ntilde;o.</p>
+
+<p>Y la capacitaci&oacute;n continua, que se da despu&eacute;s de la formaci&oacute;n inicial para las funciones ya especializadas que realizan los elementos de la Guardia Nacional tenemos actualmente cinco mil 965 elementos&nbsp;y reciben esta capacitaci&oacute;n tanto a nivel presencial como en l&iacute;nea. En esta ocasi&oacute;n destaca la participaci&oacute;n de un elemento en un curso que nos imparti&oacute; la polic&iacute;a de Ecuador.</p>
+
+<p>En cuanto a construcci&oacute;n de cuarteles, de los 248 cuarteles considerados para los primeros tres a&ntilde;os, ya est&aacute;n totalmente construidos 241; es decir, solamente nos faltan siete, que son cinco del 2021, uno del 2020 y uno del 2021 que est&aacute; pendiente por iniciar.</p>
+
+<p>Entonces, en construcci&oacute;n actualmente, aparte de los seis, uno de 2020 y del 2021, ya se inici&oacute; con 51 cuarteles que corresponden al a&ntilde;o 2022. En total, tenemos 57 cuarteles en construcci&oacute;n.</p>
+
+<p>De las proyectadas para el 2022 y 23 tenemos 195 pendientes.</p>
+
+<p>De las compa&ntilde;&iacute;as que el Ej&eacute;rcito asignar&aacute; o ya asign&oacute; a la Guardia Nacional, tenemos 100 instalaciones del Ej&eacute;rcito donde se aloja al personal de la Guardia Nacional.&nbsp;</p>
+
+<p>Al final del a&ntilde;o, de acuerdo a este programa, tendremos 594 instalaciones propias para la Guardia Nacional.</p>
+
+<p>Algunas de las actividades importantes de este mes fue la participaci&oacute;n de la Guardia Nacional en la seguridad y el traslado de documentaci&oacute;n electoral en los seis estados donde se llevaron elecciones el pasado 5 de junio, para esta tarea se asignaron ocho mil 30 elementos.</p>
+
+<p>En cuanto a los apoyos que la Guardia Nacional proporciona al programa de distribuci&oacute;n, perd&oacute;n, al programa de dispersi&oacute;n de los programas sociales, en este mes se dieron 349 apoyos de seguridad, se dispersaron recursos que beneficiaron a 40 mil 763 personas en los programas Pensi&oacute;n para Adultos Mayores, Personas con Discapacidad, en las becas &lsquo;Benito Ju&aacute;rez&rsquo;, en el programa de Bienestar de Ni&ntilde;os y Ni&ntilde;as de Madres Trabajadores, y el programa de Producci&oacute;n para el Bienestar.</p>
+
+<p>La Guardia Nacional proporciona seguridad tambi&eacute;n al programa de distribuci&oacute;n de fertilizantes en apoyo a la Secretar&iacute;a de Agricultura y Desarrollo Rural. En este mes se proporcion&oacute; seguridad a mil 122 viajes en los cuales se transportaron 47 mil 483 toneladas de fertilizantes.</p>
+
+<p>Esta seguridad se da principalmente partiendo del puerto de L&aacute;zaro C&aacute;rdenas y del puerto de Coatzacoalcos hacia los estados de Tlaxcala, Morelos, Guerrero, Oaxaca y Chiapas.</p>
+
+<p>Por &uacute;ltimo, hay un apoyo que la Guardia Nacional tambi&eacute;n proporciona normalmente a la comisi&oacute;n y comisiones de b&uacute;squeda de personas. A la Comisi&oacute;n Nacional de B&uacute;squeda de Personas se le dieron 30 apoyos, a las comisiones estatales de b&uacute;squeda de personas desaparecidas tres y a la Fiscal&iacute;a Especializada en Atenci&oacute;n a Denuncias por personas desaparecidas del estado de Veracruz tambi&eacute;n tres. En total, 36 apoyos en los estados que se muestran en la l&aacute;mina.</p>
+
+<p>En este programa o en este apoyo se emplearon 689 elementos de la Guardia Nacional, los cuales tienen a su cargo principalmente la seguridad en el traslado y trabajos de b&uacute;squeda de personas&nbsp;desaparecidas, algunos peritajes forenses y el empleo de binomios&nbsp;can&oacute;filos&nbsp;para la b&uacute;squeda de personas desaparecidas.</p>
+
+<p>Ser&iacute;a&nbsp;cuanto. Me permito ceder la palabra a mi almirante secretario.</p>
+
+<p>JOS&Eacute; RAFAEL OJEDA DUR&Aacute;N, SECRETARIO DE MARINA:Gracias.</p>
+
+<p>Con su permiso, se&ntilde;or presidente.&nbsp;</p>
+
+<p>Siguiendo con el informe mensual, los efectivos desplegados en el territorio nacional, estamos hablando de un aproximado de 250 mil elementos, de los cuales 215 mil 697 son los que operan y el resto son del apoyo log&iacute;stico.</p>
+
+<p>De estas siete acciones que se ven aqu&iacute;, est&aacute;n desplegados 26 mil 777 elementos, las vamos a ir viendo una por una.</p>
+
+<p>En lo que se refiere al mantenimiento del Estado de derecho en la mar, podemos decir que en la tierra tenemos ocho brigadas de Infanter&iacute;a de Marina, una brigada anfibia, una unidad de Fuerzas Especiales, una brigada de Polic&iacute;a Naval y seis compa&ntilde;&iacute;as independientes, en el aire tenemos nueve bases aeronavales, tres escuadrones independientes y en el mar 13 flotillas y unidades de superficie desplegadas en todo el territorio.</p>
+
+<p>En la tierra se han llevado a cabo 687 operaciones, en el aire 998 y en el mar 884.</p>
+
+<p>Lo que se logr&oacute;: cinco embarcaciones menores implicadas en el trasiego de drogas, seis mil 548 kil&oacute;gramos de coca&iacute;na decomisadas, afectaci&oacute;n econ&oacute;mica m&aacute;s o menos de mil 500, dos millones de pesos, mil 225 litros de combustible en estas embarcaciones y 26 personas detenidas, dos de ellas extranjeras.</p>
+
+<p>En lo que se refiere a protecci&oacute;n mar&iacute;tima y portuaria de seguridad en los puertos, aqu&iacute; tenemos todas las inspecciones que se han llevado a cabo, tenemos mil 665 elementos desplegados en todos nuestros puertos, los veh&iacute;culos que se han inspeccionado, los contenedores, los buques, embarcaciones, etc&eacute;tera.</p>
+
+<p>En lo que se refiere a aduanas mar&iacute;timas en el interior, tenemos nosotros 17 aduanas mar&iacute;timas en las costas y dos interiores, una en la Ciudad de M&eacute;xico en el aeropuerto y otra aqu&iacute; en&nbsp;Pantaco.&nbsp;</p>
+
+<p>Estas son las armas decomisadas en lo que va de este periodo de 21 de mayo al 20 de junio del 22, siete armas cortas, 10 cargadores, 108 cartuchos. En los numerarios, 147 mil d&oacute;lares aproximadamente, dos mil 550 piezas de pirater&iacute;a diversas.</p>
+
+<p>En lo que se refiere a recaudaci&oacute;n de impuestos, del mes de mayo del a&ntilde;o pasado a este mes de mayo hubo un aumento de un seis por ciento aproximadamente.</p>
+
+<p>Tambi&eacute;n la estrategia de seguridad en el aeropuerto, tenemos desplegados mil 500 elementos ah&iacute;. Y es todo lo que se ha hecho a trav&eacute;s del mes: acciones y apoyos totales, han sido dos mil 324; coca&iacute;na, 35 kilos; metanfetaminas, 62; ayahuasca, 141.7 kil&oacute;gramos; municiones, apoyo a migraci&oacute;n, no hay inadmitidos, cuatro mil 646 personas que se entregan al Instituto Nacional de Migraci&oacute;n; y los diferentes delitos aqu&iacute;.</p>
+
+<p>En las operaciones de b&uacute;squeda y rescata, salvaguarda de la vida humana en la mar, aqu&iacute; tenemos 33 estaciones navales de b&uacute;squeda y rescate, tenemos 22 en el Pac&iacute;fico, 11 en el golfo y tenemos un equipo y b&uacute;squeda y rescate urbano aqu&iacute; en la Ciudad de M&eacute;xico, y un Centro de Coordinaci&oacute;n&nbsp;Nacional, cuatro centros y 28&nbsp;subcentroscoordinadores regionales de B&uacute;squeda y Rescate y A&eacute;reo de la Secretar&iacute;a de la Defensa Nacional.</p>
+
+<p>Est&aacute;n desplegados 597 personas, se llevaron a cabo 194 rescates diversos y 12 evacuaciones m&eacute;dicas.</p>
+
+<p>En lo que se refiere a la seguridad en el ferrocarril Interoce&aacute;nico del Istmo de Tehuantepec, tenemos desplegados cuatro mil 362 elementos para la seguridad en los tres tramos que est&aacute;n, digamos, que en construcci&oacute;n y en licitaci&oacute;n, y pronto se va a actuar ya para empezar a hacer los trabajos.</p>
+
+<p>En lo que se refiere a atenci&oacute;n m&eacute;dica de emergencia sanitaria y vacunaci&oacute;n contra el COVID, tenemos desplegados en lo que es vacunaci&oacute;n 14 mil 388 elementos. Este es el n&uacute;mero de vacunas transportadas: v&iacute;a a&eacute;rea, 117 mil 260, 53 millones de vacunas transportadas v&iacute;a terrestre, dos aeronaves empleadas, ocho operaciones a&eacute;reas, 11.25 horas de vuelo, 11 rutas terrestres.</p>
+
+<p>Y en atenci&oacute;n a la emergencia sanitaria tambi&eacute;n para el COVID, hay 59 pacientes atendidos en diferentes instalaciones, tanto militares como navales, y tenemos un personal de 10 mil 728 elementos desplegados para esta situaci&oacute;n.</p>
+
+<p>Creo que es la &uacute;ltima. Y ya ahorita le cedo la palabra al general.</p>
+
+<p>LUIS CRESENCIO SANDOVAL GONZ&Aacute;LEZ, SECRETARIO DE LA DEFENSA NACIONAL:&nbsp;Con su permiso, se&ntilde;or presidente.</p>
+
+<p>Continuando con el informe mensual, aqu&iacute; est&aacute;n ocho misiones que se cumplen tambi&eacute;n por lo que son Ej&eacute;rcito, Fuerza A&eacute;rea, Armada y Guardia Nacional, que son Estrategia nacional de seguridad p&uacute;blica, Seguridad a instalaciones estrat&eacute;gicas, Operaciones para el combate al mercado il&iacute;cito de combustibles, Plan de migraci&oacute;n y desarrollo de la frontera norte sur,&nbsp;Atenci&oacute;n a desastres y fase de recuperaci&oacute;n,&nbsp;Erradicaci&oacute;n intensiva de plant&iacute;os, Estrategia para el fortalecimiento de aduanas, la Vigilancia del territorio y espacio a&eacute;reo nacional.</p>
+
+<p>En estas ocho misiones se tienen desplegados 157 mil 672 elementos, tambi&eacute;n informar que se tiene presencia en 61 instalaciones aeroportuarias dando seguridad o vigilancia.</p>
+
+<p>En cuanto al empleo de la inteligencia, en este mes el uso de la inteligencia nos permiti&oacute; tener 24 detenidos. De estos 24 detenidos, cinco son relevantes, aqu&iacute; los tenemos en la l&aacute;mina:</p>
+
+<p>Se detuvo a un jefe regional de la alianza c&aacute;rtel del Golfo con c&aacute;rtel Jalisco Nueva Generaci&oacute;n que operan en Zacatecas.</p>
+
+<p>En Ciudad Obreg&oacute;n se detuvo a tres personas que son los generadores de violencia en el estado de Baja California y pertenecen a la c&eacute;lula delictiva de&nbsp;Arellano F&eacute;lix.</p>
+
+<p>Y tambi&eacute;n en Coatepec de Hinojosa se detuvo a un operador relevante del robo de hidrocarburos que pertenece al grupo delictivo de &lsquo;los Cenobios&rsquo;.</p>
+
+<p>En cuanto a resultados, en lo que comprende este informe, este mes se tuvieron seis mil 642 kil&oacute;gramos de marihuana aseguradas, mil 753 kil&oacute;gramos de metanfetaminas, 13 kil&oacute;gramos de hero&iacute;na, cinco mil 314 de coca&iacute;na, 53 de&nbsp;fentanilo, dos de goma de opio, seis mil 570 plant&iacute;os de marihuana que corresponden a 749 hect&aacute;reas, 323 plant&iacute;os de marihuana que corresponden a 42 hect&aacute;reas, un plant&iacute;o de coca con una hect&aacute;rea, 553 armas de fuego, m&aacute;s de 35 mil cartuchos, mil 469 cargadores, 397 veh&iacute;culos asegurados, 36 granadas, 622 detenidos, 46 inmuebles asegurados, 9.5 millones de pesos asegurados, 172 mil 738 d&oacute;lares americanos. Esto es todo el esfuerzo de todas las instancias de seguridad del Estado mexicano.</p>
+
+<p>En cuanto a laboratorios clandestinos, en este mes se tuvo el aseguramiento de 72 laboratorios: uno en Baja California, 65 en Sinaloa, uno en Jalisco, cuatro en Michoac&aacute;n y uno m&aacute;s en Guerrero, emple&aacute;ndose 370 elementos en esta actividad.</p>
+
+<p>Esto es lo que se asegur&oacute; en esos laboratorios: dos mil 631 litros de metanfetaminas, tres mil 292 recipientes en los que se encontraron 29 mil 677 litros de sustancias qu&iacute;micas para elaborar las metanfetaminas, 21 mil 481 kil&oacute;gramos de sosa caustica que tambi&eacute;n se emplea para ese motivo, mil 50 litros de &aacute;cido clorh&iacute;drico tambi&eacute;n empleado para la elaboraci&oacute;n de esta drogas, 204 reactores de s&iacute;ntesis org&aacute;nicas, que es lo que se producen, y 60 condensadores, que es tambi&eacute;n parte del proceso para la producci&oacute;n de metanfetaminas. Se evit&oacute; que las organizaciones delictivas obtuvieran aproximadamente 82 mil 390 millones de pesos con todos estos laboratorios localizados y destruidos.</p>
+
+<p>En cuanto al combate mercado il&iacute;cito de combustibles, se emplearon en este mes dos mil 309 elementos, actuando en siete ductos prioritarios, mil 564 kil&oacute;metros, en los estados de Tamaulipas, Veracruz, Hidalgo, M&eacute;xico, Puebla, Nuevo Le&oacute;n, Jalisco y Michoac&aacute;n.</p>
+
+<p>Se detectaron 812 tomas clandestinas en esos estados y se recuperaron 514 mil 223 litros de combustible, 84 veh&iacute;culos asegurados que son empleados por los grupos delincuenciales para esta actividad, 16 detenidos, 14 predios asegurados.</p>
+
+<p>En el plan de transporte de apoyo a Pemex, con siete mil 418&nbsp;autotanques&nbsp;se trasladaron 156.1 millones de litros de combustible en 191 rutas de abastecimiento en todo el pa&iacute;s.</p>
+
+<p>En cuanto a la desviaci&oacute;n volum&eacute;trica, aqu&iacute; tenemos una gr&aacute;fica de c&oacute;mo ha ido reduciendo. Esta reducci&oacute;n, aunque es poca, pero la tendencia es hacia lograr una mayor reducci&oacute;n, se ha logrado bajas gracias a la reorientaci&oacute;n de la estrategia, se fortalecieron el despliegue con mayor n&uacute;mero de efectivos, reconocimientos a&eacute;reos tambi&eacute;n fueron incrementados, se emplearon medios tecnol&oacute;gicos, drones y otro tipo de instrumentos que nos permiten poder localizar las tomas clandestinas o el lugar donde van estas tomas para poder hacer el robo.</p>
+
+<p>La revista de la documentaci&oacute;n de&nbsp;autotanques&nbsp;que transitan en carreteras, visitas administrativas a gasolineras, tambi&eacute;n el incremento de la campa&ntilde;a de denuncia ciudadana, que ah&iacute; pedimos que la sociedad nos ayude para poder identificar esta actividad il&iacute;cita; la reducci&oacute;n del tiempo para atender las alertas por parte del equipo de Pemex, Fuerzas Armadas y Guardia Nacional, y el monitoreo del sistema de control de flujo de hidrocarburos desde la Torre de Pemex.</p>
+
+<p>En cuanto al fortalecimiento de las aduanas, se tienen dos mil 326 elementos realizando esta actividad en 31 aduanas, 10 interiores, 21 aduanas fronterizas.</p>
+
+<p>Lo que hemos tenido de resultados ah&iacute; en las aduanas: 28.9 kil&oacute;gramos de marihuana asegurada, 1.5 de coca&iacute;na; cargadores, 57; 74 detenidos, 31 armas, tres mil 755 cartuchos, dos mil 784 d&oacute;lares y un mill&oacute;n 92 mil pesos.</p>
+
+<p>En cuanto al plan de migraci&oacute;n y desarrollo de la frontera norte y sur, durante este mes se mantienen los 28 mil 463 elementos realizando esta misi&oacute;n en las cuatro l&iacute;neas de contenci&oacute;n, lo que aqu&iacute; vemos en la gr&aacute;fica lo que es la frontera, lo que es el Istmo de Tehuantepec, en la parte un poco m&aacute;s arriba donde est&aacute; el estado entre Veracruz, Tlaxcala, Puebla, ah&iacute; tenemos la siguiente l&iacute;nea. Y la &uacute;ltima pues en lo que es la frontera norte del pa&iacute;s.</p>
+
+<p>En lo que va de la administraci&oacute;n, en la parte norte, en la frontera norte se han rescatado 82 mil 813 migrantes por parte de las fuerzas que tenemos ah&iacute;, Guardia Nacional, el Ej&eacute;rcito, la Armada. Y en la frontera sur 435 mil 855 migrantes rescatados.</p>
+
+<p>Se contin&uacute;a con el apoyo de cocinas comunitarias para darles la atenci&oacute;n en esta parte de alimentaci&oacute;n a los migrantes. Tenemos un total de migrantes de 518 mil 668 rescatados.</p>
+
+<p>Finalmente, en la atenci&oacute;n a desastres, el auxilio a la poblaci&oacute;n civil, en los diferentes planes, el Plan de Asistencia de la Guardia Nacional, el Plan Marina y el Plan DN-III-E, se atendieron en este mes 81 eventos empleando nueve mil 404 elementos en 43 incendios forestales, en 19 incendios urbanos, cinco lluvias severas, cinco explosiones, tres accidentes vehiculares, dos fugas de gas butano, un hurac&aacute;n, el Agatha, una granizada, un deslave y un accidente ferroviario.</p>
+
+<p>Esa es la actividad que se realiz&oacute; en este mes.</p>
+
+<p>Es todo, se&ntilde;or presidente. Gracias.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:Vamos con ustedes dos, tres, cuatro, cinco y seis, mujeres; ma&ntilde;ana seis hombres. Adelante.</p>
+
+<p>PREGUNTA:&nbsp;Gracias, presidente. Buenos d&iacute;as.&nbsp;</p>
+
+<p>Judith S&aacute;nchez Reyes, corresponsal de&nbsp;Imagen del Golfo, de Veracruz.&nbsp;</p>
+
+<p>Si bien la semana pasada se inform&oacute; sobre el caso de Daniel Picazo, quisiera preguntarle c&oacute;mo han sido analizados estos acontecimientos, tomando en cuenta que el a&ntilde;o pasado se suscitaron 82 y en lo que va de este a&ntilde;o suman nueve.</p>
+
+<p>&iquest;Qu&eacute; se va a hacer desde el gobierno federal en coordinaci&oacute;n con los gobiernos estatales, con los gobiernos municipales para impedir este tipo de situaciones?</p>
+
+<p>Vimos&nbsp;que&nbsp;en este caso, como en algunos otros, los polic&iacute;as, bueno, no intervinieron o no pudieron detener a este grupo de personas.</p>
+
+<p>&iquest;Qu&eacute; mensaje le env&iacute;a usted a esta poblaci&oacute;n para que no hagan justicia de esta manera? &iquest;C&oacute;mo hacerle entender a la poblaci&oacute;n que no es la v&iacute;a para buscar justicia? &iquest;Y qu&eacute; apoyo se les da a las familias de estas personas que son v&iacute;ctimas de linchamiento?</p>
+
+<p>El fin de semana la mam&aacute; de Daniel declaraba que ninguna autoridad se hab&iacute;a acercado a ellos.</p>
+
+<p>Me gustar&iacute;a conocer su opini&oacute;n, presidente.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:Bueno, decirle a toda la gente, a todo el pueblo, a las comunidades, que se tenga confianza en las autoridades, nosotros no somos iguales a las autoridades anteriores;&nbsp;as&iacute;, de manera categ&oacute;rica lo puedo decir, nosotros no protegemos a delincuentes, se castiga al que comete un delito.</p>
+
+<p>Y no debe hacerse justicia por propia mano, eso est&aacute; prohibido, pero adem&aacute;s significa un acto injusto, inhumano, no corresponde a lo que debe ser una sociedad responsable.</p>
+
+<p>Entonces, pedirles a todos que tengan confianza, que puede ser que por alguna autoridad menor se libere a un delincuente, pero de inmediato se act&uacute;a&nbsp;y se repone el procedimiento, nadie queda impune. No hay protecci&oacute;n para ning&uacute;n potentado, para ning&uacute;n influyente, para ninguna persona, y as&iacute; se ha ido entendiendo.&nbsp;</p>
+
+<p>La gente tiene confianza en la autoridad, hemos ganado en ese terreno; sin embargo, lamentablemente se siguen presentando estos hechos que vienen de lejos, pero que vamos a seguir insistiendo para que haya justicia.</p>
+
+<p>Creo que Rosa&nbsp;Icela&nbsp;podr&iacute;a explicarnos sobre el apoyo a v&iacute;ctimas y a familiares.</p>
+
+<p>ROSA ICELA RODR&Iacute;GUEZ VEL&Aacute;ZQUEZ:&nbsp;S&iacute;, se&ntilde;or. Con su permiso, se&ntilde;or presidente.&nbsp;</p>
+
+<p>Solamente ponerme a la disposici&oacute;n personalmente para que cualquier tema relacionado con la parte de las v&iacute;ctimas de estos lamentables acontecimientos podamos nosotros en la secretar&iacute;a atenderlos.</p>
+
+<p>Hemos recibido pocas llamadas de personas que quieren ser atendidos por este motivo. No lo&nbsp;tengo&nbsp;as&iacute; como de memoria, pero con mucho gusto aquellas personas que necesiten un apoyo de parte del gobierno federal, que sus familias hayan sido v&iacute;ctimas de estos cr&iacute;menes atroces, con mucho gusto los atendemos.</p>
+
+<p>INTERLOCUTORA:&nbsp;Presidente, usted hablaba de la profesionalizaci&oacute;n de los efectivos policiacos. En ese sentido, justamente en este tipo de hechos, &iquest;qu&eacute; es lo que est&aacute; haciendo falta para poder realmente ellos contener este tipo de situaciones?</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:Miren, el pa&iacute;s estaba en decadencia, eso fue lo que heredaron los gobiernos neoliberales, m&aacute;s de tres d&eacute;cadas de malos gobiernos, de gobiernos dedicados al saqueo o a facilitar el saqueo, ese era el objetivo principal del gobierno, participar como un instrumento facilitador para el atraco, para el robo de bienes nacionales, de bienes de la naci&oacute;n, no les importaba nada m&aacute;s, todo era simulaci&oacute;n.</p>
+
+<p>Hasta creaban instituciones aut&oacute;nomas para la transparencia, para la defensa de los derechos humanos, para que se defendiera a los ciudadanos, pero todo era formalidad y en el fondo el gobierno, repito, estaba dedicado a facilitar el saqueo de una minor&iacute;a. Era un comit&eacute; al servicio de una minor&iacute;a, un gobierno faccioso, no un gobierno del pueblo.</p>
+
+<p>Entonces, por eso, entre otras cosas, no les importaba la seguridad de la gente y el ejemplo m&aacute;s claro es que no hab&iacute;a polic&iacute;as federales. Crearon en el periodo neoliberal la Polic&iacute;a Federal de manera ineficiente y como algo no importante. Se desatendi&oacute;, todo lo quer&iacute;an resolver con presupuesto porque se robaban el dinero destinado a garantizar la seguridad p&uacute;blica. De ah&iacute; sali&oacute; Garc&iacute;a Luna y muchos otros que est&aacute;n incluso en la c&aacute;rcel.</p>
+
+<p>&iquest;Cu&aacute;ntos elementos llegaron a tener?</p>
+
+<p>Cuarenta mil en el mejor momento, y m&aacute;s de la mitad en funciones administrativas, en aparatos burocr&aacute;ticos, 20 mil para proteger a 27 millones&hellip; a un mill&oacute;n 27 millones&hellip; perd&oacute;n, a 127 millones de mexicanos, 20 mil polic&iacute;as federales, porque el Ej&eacute;rcito no pod&iacute;a, por ley, participar en tareas de seguridad, la Secretar&iacute;a de Marina tampoco, as&iacute; estaba, 20 mil elementos de la Polic&iacute;a Federal para todo el pa&iacute;s.</p>
+
+<p>&iquest;Cu&aacute;ntos hay ahora de la Guardia Nacional?</p>
+
+<p>Pongamos la l&aacute;mina. Son m&aacute;s de 100 mil, profesionales, 118 mil en total; operativos, 105 mil.</p>
+
+<p>&iquest;Qu&eacute; significa esto?</p>
+
+<p>Que en menos de cuatro a&ntilde;os cinco veces m&aacute;s. A&ntilde;&aacute;dase que ahora ya puede el Ej&eacute;rcito y la Secretar&iacute;a de Marina ayudar en labores de seguridad p&uacute;blica.</p>
+
+<p>Entonces, me preguntas: &lsquo;&iquest;Por qu&eacute; todav&iacute;a esta situaci&oacute;n de inseguridad, de falta de profesionalismo?&rsquo; Bueno porque es mucho el rezago, mucho el atraso, muchas polic&iacute;as estatales, municipales, no estaban completas, todav&iacute;a hoy hay estados en donde tenemos m&aacute;s elementos federales que polic&iacute;as estatales y municipales, en algunos estados.</p>
+
+<p>Y tambi&eacute;n mal organizados, sin disciplina, sin profesionalismo, sin sueldos justos, sin prestaciones y en municipios sobre todo polic&iacute;as cooptados por la delincuencia.</p>
+
+<p>Durante mucho tiempo las bandas de criminales financiaban campa&ntilde;as y al principio lo que ped&iacute;an a cambio era al secretario de Seguridad P&uacute;blica del municipio, ellos lo pon&iacute;an.&nbsp;</p>
+
+<p>Me cont&oacute; un gobernador que estaba entrando y llegaron dos empresarios a verlo, uno conocido en su estado y otro desconocido, que quer&iacute;an invertir en el estado los empresarios. Pues como hacen todos los gobernadores y todos los gobernantes, debemos de preocuparnos porque haya inversi&oacute;n, porque eso es empleo, es bienestar, y los atendi&oacute;. Pero ya a la salida del despacho se sale r&aacute;pido, se despide y se sale r&aacute;pido el empresario conocido y se queda el otro, y le dice al gobernador: &lsquo;Pues &iquest;sabe qu&eacute;? Nosotros tenemos aqu&iacute; un arreglo con el gobierno y pasamos una cantidad. Nos dice ahora a qui&eacute;n le entregamos el dinero&rsquo;, as&iacute;, frente a frente.</p>
+
+<p>Y este gobernador&hellip;</p>
+
+<p>INTERVENCI&Oacute;N:&nbsp;&iquest;A qui&eacute;n?</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Eso es trabajo de ustedes, que son mirones profesionales.</p>
+
+<p>Le dijo, dice: &lsquo;Pues me decid&iacute; a enfrentarlo&rsquo;,&nbsp;y le dije: No va a haber ning&uacute;n tipo de acuerdo con ustedes, se van de inmediato&rsquo;. Y &eacute;l contest&oacute;: &lsquo;No, no nos vamos ir, tenemos que organizarnos para irnos&rsquo;.&nbsp;Y todav&iacute;a le dijo: &lsquo;Diga cu&aacute;nto, vamos a arreglarnos,&nbsp;as&iacute; lo hacemos en otras partes&rsquo;;&nbsp;esto,&nbsp;en el periodo neoliberal, y le dijo: &lsquo;No, se van&rsquo;. &lsquo;Bueno, pero en tres meses&rsquo;, le dijo el capo. &lsquo;Est&aacute; bien, pero se van&rsquo;.</p>
+
+<p>Y s&iacute; cumplieron, se fueron en tres meses. Pero, y a eso iba, a partir de ah&iacute; se quedaron sin polic&iacute;as, empezaron a renunciar los polic&iacute;as. Eso exist&iacute;a y no dudo que sigue existiendo en algunos lugares, pero ya no es la regla, es la excepci&oacute;n.</p>
+
+<p>Limpiar es un proceso,&nbsp;y lo hemos dicho muchas veces, aqu&iacute; lo principal es acabar con la corrupci&oacute;n y con la impunidad, y eso se hace de arriba para abajo, como se barren las escaleras. Y ah&iacute; vamos poco a poco, pero todav&iacute;a nos faltan dos a&ntilde;os y dos o tres meses, entonces vamos a seguir limpiando.</p>
+
+<p>Y se ha ido avanzando bastante porque no hay corrupci&oacute;n, porque no hay impunidad, aunque les duela a nuestros adversarios, los conservadores. No es lo mismo Rosa&nbsp;Icela&nbsp;que Garc&iacute;a Luna, porque todav&iacute;a no notan la diferencia.</p>
+
+<p>Ahora que los fiscales de Estados Unidos declaran que Garc&iacute;a Luna ten&iacute;a sobornado a periodistas y que adem&aacute;s ten&iacute;a pensado eliminar a c&oacute;mplices o testigos, era para que se transmitiera la noticia en todos los medios. No sali&oacute; en los programas de radio, no sali&oacute; en los peri&oacute;dicos, no sali&oacute; en la &lsquo;telera&rsquo;, no fue nota. Creo que uno o dos periodistas fueron los &uacute;nicos que lo defendieron o que hablaron del tema defendi&eacute;ndolo.</p>
+
+<p>INTERVENCI&Oacute;N:&nbsp;Mar&iacute;n</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;S&iacute;, pero, digo, cuando menos hay que reconocerle que dieron la cara, pero otros&hellip; El mismo Calder&oacute;n no habl&oacute;. Qu&eacute; ingratitud.</p>
+
+<p>Entonces, s&iacute; hay diferencia y vamos a seguir as&iacute;. Lo importante es que no se permita el contubernio, que no se asocie la autoridad con la delincuencia, que se marque bien la raya, una cosa es la autoridad, otra cosa es la delincuencia. Cuando se da una relaci&oacute;n estrecha por corrupci&oacute;n, si hay contubernio, pues ya no se avanza. Eso no existe en el gobierno, tan no existe que, para atacarnos, inventan.&nbsp;</p>
+
+<p>El otro d&iacute;a estaba viendo un estudio, que ojal&aacute; y se los presentes, sobre c&oacute;mo empezaron a manejar de que el gobierno, yo ten&iacute;a v&iacute;nculos con el crimen organizado. No pueden probar nada porque sencillamente nosotros tenemos principios, tenemos ideales y lo que estimo m&aacute;s importante en mi vida es la honestidad. Pero no hay ninguna prueba.</p>
+
+<p>Pero lo interesante de este estudio es que le dio seguimiento al movimiento de las cuentas en redes sociales y fue una campa&ntilde;a que se ech&oacute; a andar en ese sentido, y se puede probar. Una empresa hizo el estudio, un grupo hizo el estudio. Hoy mismo, yo te doy los detalles para que se les entregue la informaci&oacute;n. Primero en las redes sociales y luego la repetici&oacute;n de los expertos del conservadurismo, los voceros.</p>
+
+<p>INTERVENCI&Oacute;N:&nbsp;&iquest;De d&oacute;nde, presidente?</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;De aqu&iacute;, pero tambi&eacute;n es posible que esto se maneje desde el extranjero.</p>
+
+<p>INTERVENCI&Oacute;N:&nbsp;&iquest;A qui&eacute;n ve?</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:Ay&uacute;denme, porque ven que tengo que atender otros asuntos.</p>
+
+<p>PREGUNTA:&nbsp;Gracias, presidente.</p>
+
+<p>Dos temas que quisiera plantearle de acuerdo a su gira que hizo en Veracruz.</p>
+
+<p>El primero, preguntarle sobre el caso de&nbsp;Pasiano&nbsp;Palomino, alcalde electo en Jes&uacute;s Carranza en marzo de este a&ntilde;o, pero quien no ha podido tomar posesi&oacute;n porque fue encarcelado en octubre pasado por el delito de ultrajes a la autoridad.</p>
+
+<p>Familiares y pobladores lo consideran preso pol&iacute;tico; de hecho, lo comparan con el&nbsp;excoordinador&nbsp;de asesores de la bancada de Morena, Jos&eacute; Manuel del R&iacute;o Virgen, que ya logr&oacute; su libertad a trav&eacute;s de confirmar un tribunal su amparo.</p>
+
+<p>En el caso de Palomino,&nbsp;los familiares denuncian irregularidades en la carpeta de investigaci&oacute;n ya que a pesar de que el delito de ultrajes a la autoridad fue derogado en febrero de este a&ntilde;o, ahora lo acusan de tentativa de homicidio, portaci&oacute;n de arma y delitos contra la salud para que siga encarcelado.</p>
+
+<p>Ante la solicitud que le hicieron las personas que lo abordaron ahora en su gira, presidente, preguntarle qu&eacute; acciones se van a tomar para este y otros casos similares&nbsp;que existen en el estado. Y si usted considera que esto tiene una connotaci&oacute;n pol&iacute;tica y qu&eacute; instancias deber&aacute;n analizar este caso y otros que existen en Veracruz.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;S&iacute;, primero, le tenemos confianza al gobernador de Veracruz, no es como los otros, &eacute;l es incapaz de fabricar delitos para castigar a adversarios.</p>
+
+<p>Entonces, yo le plante&eacute; este asunto y le ped&iacute; que se investigara a fondo, y que se aclarara. Es algo que tiene que ver con la detenci&oacute;n de una persona ac&aacute; en la Ciudad de M&eacute;xico, con delitos graves, pero no se puede hacer un juicio sumario, se tienen que presentar las pruebas y tiene que haber justicia.</p>
+
+<p>Entonces, eso fue lo que yo ofrec&iacute; a los familiares y a los simpatizantes de esta persona. Entonces, se va a hacer y aqu&iacute; vamos a informarles.</p>
+
+<p>INTERLOCUTORA:&nbsp;Y, finalmente, presidente, en el municipio de San Juan Evangelista, tambi&eacute;n all&aacute; en sur de Veracruz, este &uacute;ltimo a&ntilde;o se han registrado m&uacute;ltiples casos graves de abigeato, lo que ha preocupado en gran medida a los ganaderos de esa zona.</p>
+
+<p>El m&aacute;s reciente de hecho se llev&oacute; a cabo hace dos semanas y en este sentido, tomando en cuenta que, de acuerdo al Informe de Incidencia Delictiva del Fuero Com&uacute;n 2022, reportan 37 casos de robo de ganado en enero y 30 en febrero, todos registrados sin violencia, mientras que el Secretariado Ejecutivo del Sistema Nacional de Seguridad contabiliza aproximadamente 67 s&oacute;lo en lo que va del primer, bueno, de lo que fue el primer bimestre de este a&ntilde;o, y Veracruz es uno de los cinco estados en donde se comete este delito, preguntarle, presidente qu&eacute; acciones se est&aacute;n tomando por parte del gobierno federal y las instancias correspondientes para implementar alguna acci&oacute;n que proteja a este sector productivo.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:Bueno, aqu&iacute; est&aacute; el comandante&nbsp;Bucio, de la Guardia Nacional, y Rosa&nbsp;Icela, y se va a actuar.</p>
+
+<p>Si vemos la l&aacute;mina, hay una disminuci&oacute;n desde que llegamos en robo de ganado.</p>
+
+<p>A ver, &iquest;por qu&eacute; no la pones? Y me gustar&iacute;a tambi&eacute;n que inform&aacute;ramos sobre el robo de ganado en Veracruz.</p>
+
+<p>Ah&iacute; est&aacute;, pero es 21-22, 9.7 menos, pero ser&iacute;a conveniente&hellip; No s&eacute; si tienes toda la l&aacute;mina.</p>
+
+<p>INTERVENCI&Oacute;N:&nbsp;No tengo la l&aacute;mina aqu&iacute;, no la tengo aqu&iacute;.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Pero ha habido una disminuci&oacute;n en robo de veh&iacute;culo. Digo, de ganado. Tambi&eacute;n en robo de veh&iacute;culo, pero en este delito en el pa&iacute;s.</p>
+
+<p>INTERVENCI&Oacute;N:&nbsp;(Inaudible)</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;S&iacute;, tu denuncia va a ser tomada en cuenta.&nbsp;</p>
+
+<p>Por eso es importante esta conferencia, nos ayuda a nosotros mucho, porque ustedes andan en la calle y recogen los sentimientos de la gente y nos ayudan. Bueno, es nuestro trabajo, tambi&eacute;n hacemos lo mismo.&nbsp;</p>
+
+<p>Yo voy casi todos los fines de semana a recorrer los pueblos y ah&iacute; estoy escuchando a la gente y estoy recibiendo denuncias y peticiones, y constantemente estamos atendiendo al pueblo.</p>
+
+<p>&iquest;Cu&aacute;ntos vienen aqu&iacute; diariamente?</p>
+
+<p>LETICIA REM&Iacute;REZ AMAYA,&nbsp;DIRECTORA GENERAL&nbsp;DE ATENCI&Oacute;N CIUDADANA:&nbsp;Trescientos cincuenta diarios.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:Trescientos cincuenta ciudadanos.</p>
+
+<p>LETICIA REM&Iacute;REZ AMAYA:&nbsp;Llevamos 332 mil.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:Trescientos treinta y dos mil atendidos aqu&iacute; en Palacio. Pero ustedes nos ayudan mucho. Entonces, estos casos se investigan.</p>
+
+<p>&iquest;Terminaste ya?</p>
+
+<p>INTERVENCI&Oacute;N:&nbsp;Sobre el tema, presidente.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;S&iacute;, no, pero vamos a&hellip;&nbsp;</p>
+
+<p>PREGUNTA:&nbsp;Gracias, presidente. Buenos d&iacute;as. Buenos d&iacute;as, secretaria, secretarios.</p>
+
+<p>Y yo le quiero preguntar &mdash;Adriana Estela Flores, de&nbsp;IMER Noticias&mdash;&nbsp;en primer lugar, acerca de este triunfo electoral de Gustavo&nbsp;Petro,all&aacute;,&nbsp;en Colombia, y ante las elecciones tambi&eacute;n que vienen en Brasil.</p>
+
+<p>Yo le quiero preguntar, presidente: con este escenario que se est&aacute; viendo en Am&eacute;rica Latina, en primer lugar, &iquest;qu&eacute; posibilidades ve usted de que se s&iacute; se pueda formar este bloque regional que usted ha planteado desde el a&ntilde;o pasado?</p>
+
+<p>Tambi&eacute;n preguntarle: &iquest;c&oacute;mo cambia esta situaci&oacute;n o este escenario la relaci&oacute;n de M&eacute;xico con Estados Unidos?, sobre todo considerando lo que pas&oacute; recientemente en la Cumbre de las Am&eacute;ricas.</p>
+
+<p>&iquest;Y c&oacute;mo queda tambi&eacute;n China dentro de toda esta ecuaci&oacute;n que se est&aacute; viendo aqu&iacute; con esta reconfiguraci&oacute;n de fuerzas aqu&iacute; en el continente, presidente?</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:Bueno, yo estoy contento porque nosotros iniciamos una nueva etapa en el resurgimiento de los movimientos democr&aacute;ticos con dimensi&oacute;n social en nuestra Am&eacute;rica, es decir, en Am&eacute;rica Latina y en el Caribe.</p>
+
+<p>Debemos de recordar que hace poco los gobiernos progresistas ten&iacute;an la responsabilidad en varios pa&iacute;ses de Am&eacute;rica Latina y el Caribe;&nbsp;hubo,&nbsp;as&iacute; como un esplendor de gobiernos progresistas en Am&eacute;rica Latina. Por distintas circunstancias se fue apagando ese movimiento, esa corriente, ese ambiente, se fueron perdiendo pa&iacute;ses y fue regresando el conservadurismo.</p>
+
+<p>Cuando llegamos nosotros eran pocos los pa&iacute;ses que ten&iacute;an gobiernos progresistas. A partir de nuestra llegada se inicia una etapa nueva y empiezan a haber triunfos importantes, y el&nbsp;de ayer fue hist&oacute;rico, as&iacute; lo expres&eacute; en un texto &mdash;a ver si lo pones&mdash; que nos va a ayudar a entender lo que fue el triunfo de Gustavo&nbsp;Petro&nbsp;ayer en Colombia.</p>
+
+<p>INTERVENCI&Oacute;N:&nbsp;&iquest;Cu&aacute;ndo&nbsp;le va a marcar?</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Ayer le habl&eacute; para felicitarlo y puse en mi&nbsp;Face&nbsp;y en el Twitter este texto:&nbsp;</p>
+
+<p>&lsquo;El triunfo de Gustavo&nbsp;Petro&nbsp;es hist&oacute;rico. Los conservadores de Colombia siempre han sido tenaces y duros. El escritor Jos&eacute; Mar&iacute;a Vargas Vila relataba que los dictadores de su pa&iacute;s&hellip;&rsquo;&nbsp;Esto,&nbsp;a finales del siglo XIX, que el conservadurismo estaba en su apogeo, cuando todav&iacute;a Panam&aacute; pertenec&iacute;a a Colombia.</p>
+
+<p>Dec&iacute;a Vargas Vila, un gran escritor: &lsquo;Los dictadores de Colombia &mdash;hablaba de uno en especial, que le llamaban&nbsp;&lsquo;la Pantera Blanca&rsquo;&mdash; mojaban&nbsp;en agua bendita su pu&ntilde;al antes de matar&rsquo;.</p>
+
+<p>Es una historia de esta &eacute;poca ese personaje de la novela de&nbsp;Gabo, era real, Aureliano Buend&iacute;a, era un militar liberal, Uribe y Uribe, y es el prototipo que utiliza&nbsp;Gabo&nbsp;para describir al personaje&nbsp;Aureliano Buend&iacute;a, de esa &eacute;poca.&nbsp;</p>
+
+<p>Se independiza Panam&aacute;, esto tiene que ver con el canal, con otros intereses.</p>
+
+<p>&lsquo;En 1948 ese mismo proceder &mdash;esa misma mentalidad conservadora&mdash; caus&oacute; el asesinato del gran l&iacute;der liberal Jorge Eli&eacute;cer&nbsp;Gait&aacute;n&rsquo;.Este abogado, que era un gran l&iacute;der, un gran orador, a ver si encontramos un fragmento de un discurso de Gait&aacute;n: &lsquo;Yo soy Colombia&rsquo;. Un gran dirigente liberal que enfrenta a los conservadores.</p>
+
+<p>Y saliendo de su despacho lo asesinan y &lsquo;el pueblo, enardecido por el crimen de su l&iacute;der, destruye todos los edificios p&uacute;blicos de Bogot&aacute; &mdash;le llaman el bogotazo&mdash;&nbsp;y hubo miles de muertos&rsquo;.&nbsp;Fue una revoluci&oacute;n popular espont&aacute;nea y cruel, porque perdieron la vida muchos.</p>
+
+<p>Gabriel Garc&iacute;a M&aacute;rquez escribi&oacute;&hellip; &iquest;C&oacute;mo se llama su libro de memoria?&nbsp;Vivir para contarlo, ah&iacute; &eacute;l describe que su amigo Wilfrido&nbsp;Mathieu&nbsp;le fue avisar del asesinato de Gayt&aacute;n, y su amigo le expres&oacute;: &lsquo;Se jodi&oacute; este pa&iacute;s&rsquo;. Y a partir de entonces se desata una represi&oacute;n y surgen movimientos guerrilleros, y toda la historia &uacute;ltima de violencia y tambi&eacute;n de malos gobiernos.</p>
+
+<p>Por eso puse al final &lsquo;el triunfo de hoy puede ser el fin de ese maleficio y la aurora para ese pueblo hermano y digno. Felicidades&rsquo;.&nbsp;</p>
+
+<p>Es muy importante, es un triunfo hist&oacute;rico.</p>
+
+<p>Ayer me criticaron que por qu&eacute; tan r&aacute;pido felicit&eacute; a Gustavo&nbsp;Petro,&nbsp;si me tard&eacute; para&nbsp;felicitar&nbsp;al presidente&nbsp;Biden. Son cosas distintas. Cuando la elecci&oacute;n del presidente&nbsp;Biden&nbsp;no hab&iacute;a todav&iacute;a resultados, estaba un recuento de votos y cuando lo felicit&eacute; ya hab&iacute;a salido a reconocer su triunfo el presidente actual, Duque, y otros presidentes.</p>
+
+<p>Y, la verdad, estaba yo muy contento, y sab&iacute;a que hab&iacute;a triunfado legal, leg&iacute;timamente.</p>
+
+<p>Y un abrazo, un saludo cari&ntilde;os&iacute;simo al pueblo de Colombia. Pusieron el ejemplo, pusieron el ejemplo.</p>
+
+<p>Yo voy a poner aqu&iacute; una cumbia, porque vallenato no, una cumbia. &iquest;No tienes por ah&iacute;&hellip;? Est&aacute; Margarita, &lsquo;la reina de la cumbia&rsquo;, que es&nbsp;colombia-mexicana, pero tambi&eacute;n est&aacute; la Sonora Dinamita. La que m&aacute;s se escucha, la que m&aacute;s se conoce en el mundo, es&nbsp;La pollera&nbsp;color&aacute;.&nbsp;&iquest;Se puede? La ponemos &iquest;no? Se puede, tenemos tiempo, eh, todav&iacute;a, eh.</p>
+
+<p>(PIEZA MUSICAL:&nbsp;LA POLLERA COLOR&Aacute;, MARGARITA &lsquo;LA DIOSA DE LA CUMBIA&rsquo;)</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Es &lsquo;la Diosa de la Cumbia&rsquo;, Margarita, que le agradecemos mucho, porque cuando est&aacute;bamos en la oposici&oacute;n acept&oacute; cantar aqu&iacute; en el Z&oacute;calo. Y a veces invit&aacute;bamos a artistas y no quer&iacute;an, pero ella s&iacute;.</p>
+
+<p>Bueno, imag&iacute;nense el fragmento del&nbsp;Carnaval de R&iacute;o,&nbsp;cuando las elecciones de Brasil, lo contento que vamos a estar, bueno.</p>
+
+<p>INTERLOCUTORA:&nbsp;&iquest;Qu&eacute; le dijo&nbsp;Petro, presidente? &iquest;Qu&eacute; le dijo&nbsp;Petro?</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:Bueno, pues que vamos a trabajar juntos todos los gobiernos de Am&eacute;rica Latina, del Caribe. Creo que coincidimos en que debe de buscarse la integraci&oacute;n en todo el continente, y que se debe de incluir a Canad&aacute; y a Estados Unidos, integraci&oacute;n de toda Am&eacute;rica para conformar una regi&oacute;n en el mundo, que podamos complementarnos con recursos naturales, fuerza de trabajo, tecnolog&iacute;a, mercados, una regi&oacute;n, lo que hemos estado planteando, todos juntos, es una etapa nueva, con respeto a las autonom&iacute;as y a las soberan&iacute;as de los pueblos, como fue la Comunidad Europea, que luego se convirti&oacute; en Uni&oacute;n Europea. Ese es nuestro planteamiento.</p>
+
+<p>INTERVENCI&Oacute;N:&nbsp;(inaudible).</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:Estamos buscando eso, y vamos a insistir en que nos unamos en toda Am&eacute;rica.</p>
+
+<p>Hay muy buenos diplom&aacute;ticos, hay muy buenos pol&iacute;ticos en Am&eacute;rica y debe de haber voluntad para no excluir, para unirnos, para convivir en beneficio de nuestros pueblos, no castigar por cuestiones&nbsp;ideol&oacute;gicas, dogmatismos, por discriminaci&oacute;n a nuestros pueblos y buscar la hermandad en toda Am&eacute;rica.</p>
+
+<p>Por eso mi felicidad por lo que hicieron los colombianos ayer. Un ejemplo, porque no estamos hablando de cualquier cosa, estamos hablando de siglos de dominaci&oacute;n de grupos que no les importaba en realidad el pueblo y estamos ante la posibilidad de inaugurar una etapa nueva en Colombia, de una aut&eacute;ntica democracia, un gobierno del pueblo, para el pueblo y con el pueblo.</p>
+
+<p>Entonces, s&iacute; fue todo un acontecimiento el d&iacute;a de ayer, un hecho hist&oacute;rico y estamos muy contentos.</p>
+
+<p>INTERLOCUTORA:&nbsp;&iquest;Se consolida este bloque progresista, presidente, aqu&iacute; en el continente?</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;S&iacute;, avanza el movimiento progresista.</p>
+
+<p>INTERLOCUTORA:&nbsp;Le quiero preguntar tambi&eacute;n, presidente, sobre un tema nacional en cuesti&oacute;n de la econom&iacute;a, si me permite. La Asociaci&oacute;n Nacional de Peque&ntilde;os Comerciantes habl&oacute; de que 20 de los 24 productos de la canasta b&aacute;sica en realidad s&iacute; han tenido incrementos, o sea, s&iacute; se han registrado incrementos, y tambi&eacute;n alertaban sobre un posible escenario de desabasto en insumos como el papel higi&eacute;nico, refrescos, granos.</p>
+
+<p>Y yo le quiero preguntar, presidente, cu&aacute;l es la evaluaci&oacute;n que tiene el gobierno federal respecto a esta aplicaci&oacute;n del plan contra la inflaci&oacute;n y la carest&iacute;a.</p>
+
+<p>Y tambi&eacute;n si nos pudiera detallar acerca de esta propuesta que delineaba la semana pasada sobre comprar alimentos a Estados Unidos, presidente.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:Bueno, estamos atendiendo el tema del abasto de alimentos. No hay problema, tenemos alimentos en el pa&iacute;s y tenemos mercanc&iacute;as suficientes.</p>
+
+<p>Y estamos en un acuerdo con productores, con distribuidores, con comerciantes. Han cumplido el acuerdo que hicimos de&nbsp;mantener los precios de una canasta b&aacute;sica. Aqu&iacute; lo acabamos de ver y Ricardo lo podr&iacute;a explicar m&aacute;s, de c&oacute;mo hay un control de precios en alimentos.</p>
+
+<p>El caso de los energ&eacute;ticos, no hay ning&uacute;n problema en cuanto al abasto y en cuanto al precio, les dir&iacute;a que se van a mantener los precios de las gasolinas, del gas, del di&eacute;sel, de la luz, ya tomamos esa decisi&oacute;n.</p>
+
+<p>Y en el caso de los alimentos estamos tambi&eacute;n llevando a cabo acciones, una de ellas es este acuerdo con los distribuidores, con los comerciantes de alimentos.</p>
+
+<p>&iquest;Puedes explicarlo? Desde que se tom&oacute; el acuerdo se ha respetado y hemos logrado buenos resultados.</p>
+
+<p>RICARDO SHEFFIELD PADILLA:&nbsp;Primero, comentar que en particular del papel de ba&ntilde;o no hay desabasto, ojal&aacute; no empecemos como hace dos a&ntilde;os con el&nbsp;fake&nbsp;news&nbsp;aquel que corri&oacute; a nivel mundial. Somos un importante productor del papel del ba&ntilde;o, incluso se exporta. Entonces, no hay ning&uacute;n tema a ese respecto.</p>
+
+<p>Platicamos con los principales productores de este producto que est&aacute;n en M&eacute;xico establecidos y adem&aacute;s hemos estado verificando, constatando en todos los distribuidores grandes y medianos en todo el pa&iacute;s y no hay ning&uacute;n desabasto.</p>
+
+<p>Hubo, hubo mucho cuento, ahora s&iacute; que como dicen popularmente, mucho cuento chino con el agua potable embotellada en Monterrey. Y tambi&eacute;n, con todo que ha aumentado la demanda por el agua potable embotellada, hemos estado viendo que todos los d&iacute;as se vac&iacute;an los anaqueles, pero a&uacute;n queda&nbsp;algo de producto en la noche y a la ma&ntilde;ana siguiente otra vez est&aacute; resurtido, lo cual ha implicado un gran esfuerzo para muchos distribuidores de la zona metropolitana de Monterrey, pero ni en ese caso ha habido desabasto.</p>
+
+<p>Adem&aacute;s, por instrucciones del se&ntilde;or presidente, tenemos una reuni&oacute;n, esperemos en esta misma semana, para ir dando seguimiento con productores y con distribuidores sobre esta gran alianza que est&aacute; haciendo el gobierno federal y que el gobierno federal ya ha puesto el ejemplo.&nbsp;</p>
+
+<p>No se le pide a los productores y a los distribuidores que hagan m&aacute;s esfuerzo que el de no ganar lo que ganaban antes. Si pueden, pues que le bajen un poquito. El esfuerzo lo est&aacute; haciendo el gobierno empezando por la exenci&oacute;n del Impuesto especial a productos y servicios para gasolina, la pol&iacute;tica de precios m&aacute;ximos en el gas LP.</p>
+
+<p>Gracias a estas medidas que ha tomado el se&ntilde;or presidente Andr&eacute;s Manuel L&oacute;pez Obrador, se ha podido controlar a manera tal que somos de los pa&iacute;ses con los precios m&aacute;s bajos o, en otras palabras, con la menor inflaci&oacute;n en los energ&eacute;ticos a pesar de la presi&oacute;n internacional que existe con el petr&oacute;leo y con el gas.</p>
+
+<p>En el tema de alimentos, estos 24 productos que semana con semana estamos monitoreando, no s&oacute;lo se constata que hay estabilidad en los precios y en algunos casos una libera baja, a pesar del alza que hay a nivel mundial, porque eso luego es lo que no se ve.</p>
+
+<p>Dicen: &lsquo;Oiga &iquest;por qu&eacute; nos comparamos con otros pa&iacute;ses?&rsquo; Porque hay un proceso inflacionario en todo el mundo y afortunadamente las medidas que se han tomado en M&eacute;xico han favorecido que ese proceso inflacionario sea mucho menor en M&eacute;xico que en otras partes del planeta, y eso lo vamos a seguir haciendo, no con un control de precios, sino con una alianza en favor de los consumidores, de las consumidoras en nuestro pa&iacute;s, en los 24 productos y en la mayor&iacute;a de los que producimos en M&eacute;xico.</p>
+
+<p>INTERVENCI&Oacute;N:&nbsp;(inaudible) la canasta b&aacute;sica de un incremento de m&aacute;s del 30 por ciento de los productos de la canasta b&aacute;sica.</p>
+
+<p>En el s&uacute;per, en el mercado sobre ruedas, se ve la carne c&oacute;mo ha subido, ya supera los 200 pesos, el aguacate nuevamente por los cielos, por cuestiones climatol&oacute;gicas, pero al final s&iacute; hay un incremento en los productos, tanto de la canasta b&aacute;sica como en el consumo diario. Eso es, digamos, la preocupaci&oacute;n y malestar de la poblaci&oacute;n.&nbsp;</p>
+
+<p>RICARDO SHEFFIELD PADILLA:&nbsp;T&uacute; lo viste en la tabla que presentamos, hay un incremento en el &Iacute;ndice Nacional de Precios de Alimentos y Bebidas, eso no se est&aacute; soslayando, lo que estamos indicando es que ese es menor&nbsp;que a esos mismos productos en el mercado internacional, porque no podemos lamentablemente estar exentos a un proceso inflacionario que hay en todo el mundo, pero no son del 30 por ciento.</p>
+
+<p>Y en el caso de los 24 productos que estamos monitoreando de manera muy espec&iacute;fica, que se ha dado en&nbsp;llamar la Canasta Profeco, son los productos que m&aacute;s consumimos las familias mexicanas en una proporci&oacute;n tal para una familia de cuatro personas que ya comen como adultos, o sea, ya en edad de secundaria, de prepa, los dos hijos de esta familia, que es la familia prototipo de acuerdo al censo del 2020.</p>
+
+<p>Entonces, lo que podemos hablar es de estabilidad dentro de un proceso inflacionario mundial. Y ning&uacute;n desabasto, &iquest;eh?</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Y lo importante tambi&eacute;n es que&hellip; Bueno, agradecerles mucho a los distribuidores porque est&aacute;n cumpliendo con el acuerdo.</p>
+
+<p>Y hoy precisamente en la ma&ntilde;ana se decidi&oacute; tener una reuni&oacute;n con ellos para evaluar y continuar con el programa de ofrecer esta canasta b&aacute;sica a precios justos. Lo va a hacer el secretario de Hacienda, la secretaria de Econom&iacute;a y la procuradur&iacute;a, vamos a continuar.</p>
+
+<p>Pero hay otras acciones. Este a&ntilde;o nos hemos propuesto beneficiar a 800 mil productores con fertilizantes gratuitos, 800 mil productores. Voy a hacer una gira por las plantas de fertilizantes que heredamos en muy mal estado, porque son las plantas de corrupci&oacute;n, entonces las estamos reparando. Y voy a estar en&nbsp;Cosoleacaque, voy a estar en Coatzacoalcos, voy a estar en L&aacute;zaro C&aacute;rdenas, s&oacute;lo en las plantas, porque vamos a incrementar la producci&oacute;n de fertilizante, esto para producir m&aacute;s alimentos.</p>
+
+<p>Tambi&eacute;n, como ya saben, se quitaron los aranceles para poder importar alimentos de todo el mundo y estamos llevando a cabo otra pol&iacute;tica tambi&eacute;n orientada a reducir los precios de los alimentos. Pero no quisiera yo adelantar nada todav&iacute;a. Va a ser algo bastante, bastante importante.</p>
+
+<p>Estamos trabajando en eso.</p>
+
+<p>No olviden porque, con todo respeto, esto no aparece en&nbsp;El Financiero, tenemos un punto menos de inflaci&oacute;n con relaci&oacute;n a Estados Unidos, un punto menos, y lo mismo, es menor la inflaci&oacute;n en M&eacute;xico que en Europa. Y como esto no aparece en los medios convencionales, ni en los peri&oacute;dicos ni en la radio, en la televisi&oacute;n, lo tengo que decir aqu&iacute;.</p>
+
+<p>Y ya tenemos la l&aacute;mina del robo de ganado, que la queremos poner por lo de tu pregunta. Este es el 15, el 16, el 17, el 18, aqu&iacute; entramos nosotros, aqu&iacute;. Y as&iacute; se ha comportado, a la baja el robo de ganado. Por eso nos importa mucho</p>
+
+<p>Por ejemplo, en mayo, 219. Y ac&aacute; estaba como en 400, en noviembre del 18. En septiembre, 500, antes de que lleg&aacute;ramos. Aqu&iacute; tambi&eacute;n, ya estando nosotros, 500 y empez&oacute; a bajar, 219.</p>
+
+<p>Pero vamos a analizarlo.</p>
+
+<p>INTERVENCI&Oacute;N:&nbsp;(Inaudible)&nbsp;la presencia de la Guardia Nacional.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Esto es por la presencia de la Guardia Nacional y porque estamos trabajando todos los d&iacute;as, y juntos, es por la presencia de Marina y de la Secretar&iacute;a de la Defensa, estamos unidos.</p>
+
+<p>Y s&iacute; nos importan estados, en este caso como Veracruz, que es un estado ganadero, pero s&iacute; se ha avanzado.</p>
+
+<p>En el robo de veh&iacute;culo much&iacute;simo. A ver si pones la l&aacute;mina. &iquest;No la tendr&aacute;n completa?</p>
+
+<p>Miren, aqu&iacute; en la Ciudad de M&eacute;xico, esta es una de las ciudades &mdash;lo voy a volver a decir porque ya no les da tanto coraje a los adversarios, ya se controlan, no se ofuscan tanto&mdash; esta es una de las ciudades m&aacute;s seguras de mundo, la Ciudad de M&eacute;xico. Vienen del extranjero a vivir en la Ciudad de M&eacute;xico, yo creo que es de las ciudades del extranjero en donde hay m&aacute;s estadounidenses, y eso tiene que ver con la seguridad. No hay pr&aacute;cticamente homicidios, son muy pocos, dos diarios para toda la ciudad, muy pocos son los que se ten&iacute;an hace 20 a&ntilde;os.</p>
+
+<p>Cuando yo fui jefe de gobierno dej&eacute; en 1.8, 1.7, y ahora&nbsp;est&aacute;&nbsp;as&iacute; como 1.7.</p>
+
+<p>A ver, la ciudad. Y todo esto lo digo porque nuestros adversarios quisieran&hellip; Aqu&iacute; est&aacute;, 1.6, s&iacute;, en el 22, 1.6 homicidios diarios en la ciudad. Desde luego, que, con todo respeto, menos que en Nueva York y que en otras grandes ciudades del mundo.</p>
+
+<p>Miren, aqu&iacute; hubo 6.1 en el 20.</p>
+
+<p>JES&Uacute;S RAM&Iacute;REZ CUEVAS, COORDINADOR GENERAL DE COMUNICACI&Oacute;N SOCIAL Y VOCERO DE PRESIDENCIA:El azul es 2019.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Azul es 19.</p>
+
+<p>JES&Uacute;S RAM&Iacute;REZ CUEVAS:&nbsp;Verde es 2021, amarillo es 2022.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;As&iacute; es, s&iacute;, es cuando se subi&oacute; m&aacute;s.</p>
+
+<p>Entonces, ah&iacute; vamos.</p>
+
+<p>Y yo ya termino porque&hellip; Ah, aqu&iacute; est&aacute;, miren, ese es hasta abril.</p>
+
+<p>Nada m&aacute;s para decir que nos doli&oacute; much&iacute;simo la p&eacute;rdida de un compa&ntilde;ero, David Cervantes Peredo, un arquitecto, el subsecretario de la&nbsp;Sedatu. Una gente de izquierda, aut&eacute;ntico, honesto, trabajador, con convicciones, en favor del pueblo y nos deja su ejemplo de congruencia David.</p>
+
+<p>Lo conoc&iacute; en 1988 y desde entonces siempre trabajando juntos por la transformaci&oacute;n y el bienestar del pueblo. &Eacute;l trabaj&oacute; conmigo cuando fui jefe de gobierno y fue, y lo pueden ustedes constatar, cuando m&aacute;s viviendas se hicieron en la Ciudad de M&eacute;xico, m&aacute;s departamentos en toda la historia, para los pobres.</p>
+
+<p>Saben que se hac&iacute;an departamentos de 60, 80 metros cuadrados en 120 mil pesos a pagar en 25 a&ntilde;os, y &eacute;l me ayud&oacute;, hicimos como mil unidades habitacionales en la ciudad.</p>
+
+<p>Un abrazo para sus familiares y para sus amigos y sus compa&ntilde;eros.</p>
+
+<p>Y ya terminamos, pero ma&ntilde;ana&hellip;</p>
+
+<p>INTERVENCI&Oacute;N:&nbsp;(Inaudible)&nbsp;</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;S&iacute;, s&iacute;, s&iacute;.&nbsp;Platica con Jes&uacute;s y a ver si ma&ntilde;ana lo vemos.</p>
+
+<p>Ma&ntilde;ana van a ser puros hombres, pasado ma&ntilde;ana mujeres.&nbsp;</p>
+
+<p>INTERVENCI&Oacute;N:&nbsp;(Inaudible)&nbsp;</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Hoy tengo bastante trabajo.</p>
+
+<p>INTERVENCI&Oacute;N:&nbsp;Puros hombres.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:Mujeres y hombres.</p>
+
+<p>---</p>
+</div>
+      </div>
+
+      <div class="col-md-4 col-xs-12 pull-right">
+
+
+
+
+          <div id="survey" class="survey-popup small-top-buffer">
+	<div class="row">
+  <a class="fire">
+    <span class="title">Contesta nuestra encuesta de satisfacción.</span>
+		<i style="color: white" class="fas fa-poll"></i>
+  </a>
+  <hr>
+  
+  <div class="survey col-sm-12 clearfix">
+	<form id="survey-form">
+	  <div class="survey-form">
+	  <fieldset id="query_1">
+		<legend>¿Cómo fue tu experiencia en gob.mx?</legend>
+		<div id="Q_A" class="btn-group row">
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncGood" class="ga-survey" value="Feliz" title="Satisactorio">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-good.svg" alt="">
+		  	</button>
+		  </div>
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncReg" class="ga-survey" value="Neutral" title="Neutral">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-neutral.svg" alt="">
+		  	</button>
+		  </div>
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncBad" class="ga-survey" value="Triste" title="No satisactorio">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-bad.svg" alt="">
+		  	</button>
+		  </div>
+		</div>
+	  </fieldset>
+	  <fieldset id="query_1_a" class="hidden">
+	  	<legend>¿Fue fácil encontrar lo que buscabas?</legend>
+	  	<div id="Q_B" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R1" value="1">
+	  		<label for="A_R">Muy Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R2" value="2">
+	  		<label for="A_R">Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R3" value="3">
+	  		<label for="A_R">Difícil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R4" value="4">
+	  		<label for="A_R">Muy Difícil</label>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_s" class="hidden">
+	  	<legend>¿De qué estado de la República nos visitas?</legend>	  	
+	  	<div class="col-md-12">
+  	  		<div class="form-group" style="margin-bottom: 114px;">
+  	  			<select id="estados" class="form-control"></select>
+  	  		</div>
+  	  		<div class="form-group">
+  	  			<button type="button" class="Q_S_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  		</div>
+  	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_alt" class="hidden">
+		<legend>¿Qué buscabas?</legend>
+	  	<div id="Q_I" class="clearfix">
+	  	  <div class="col-sm-12">
+	  		<textarea id="txtA" class="form-control" rows="6" maxlength="250" style="font-size: 14px; width: 100%;"></textarea>
+	  		<span class="small">Máximo 250 caracteres</span>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+  	  	  <button type="button" class="Q_I_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_b" class="hidden">
+	  	<legend>¿Qué te gustó más?</legend>
+	  	<p class="small">Puedes seleccionar más de uno.</p>
+	  	<div id="Q_C" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R1" type="checkbox" name="A_R" value="1">
+	  		<label for="A_R">La información es clara y precisa</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R2" type="checkbox" name="A_R" value="2">
+	  		<label for="A_R">El diseño es agradable</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R3" type="checkbox" name="A_R" value="3">
+	  		<label for="A_R">Está bien organizado</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R4" type="checkbox" name="A_R" value="4">
+	  		<label for="A_R">Es sencillo navegar</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R5" type="checkbox" name="A_R" value="5">
+	  		<label for="A_R">El lenguaje es amigable</label>
+	  	  </div>
+	  	  <div class="clearfix">
+	  	  	<button type="button" class="Q_C_btn btn btn-primary btn-small pull-right">Siguiente</button>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_c" class="hidden">
+	  	<legend>¿Recomendarías nuestro portal a un amigo o familiar?</legend>
+	  	<div id="Q_D" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="radEncC_R1" type="radio" name="A_R" value="4">
+	  		<label for="A_R">Si</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncC_R2" type="radio" name="A_R" value="1">
+	  		<label for="A_R">No</label>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+        <button type="button" class="btn-finalizar btn btn-primary btn-small pull-right" style="margin-left: 8px; margin-top: 2px;" disabled>Finalizar</button>
+        <img src="https://framework-gb.cdn.gob.mx/assets/images/oval-white.svg" class="pull-right hidden loading">
+      </div>
+	  </fieldset>
+
+	  <fieldset id="query_2" class="hidden">
+		<legend>¿Fue fácil encontrar lo que buscabas?</legend>
+	  	<div id="Q_F" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R1" type="radio" name="A_R" value="1">
+	  		<label for="A_R">Muy Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R2" type="radio" name="A_R" value="2">
+	  		<label for="A_R">Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R3" type="radio" name="A_R" value="3">
+	  		<label for="A_R">Difícil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R4" type="radio" name="A_R" value="4">
+	  		<label for="A_R">Muy Difícil</label>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_2_b" class="hidden">
+	  	<legend>¿Qué mejorarías?</legend>
+	  	<p class="small">Puedes seleccionar más de una opción.</p>
+	  	<div id="Q_G" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A1" type="checkbox" name="A_R" value="1">
+	  		<label for="A_R">Diseño</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A2" type="checkbox" name="A_R" value="2">
+	  		<label for="A_R">Navegación dentro del sitio</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A3" type="checkbox" name="A_R" value="3">
+	  		<label class="too-long" for="A_R">Claridad y precisión de la información</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A4" type="checkbox" name="A_R" value="4">
+	  		<label for="A_R">Organización de los contenidos</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A5" type="checkbox" name="A_R" value="5">
+	  		<label for="A_R">Lenguaje utilizado</label>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">	  	  
+	  	  <button type="button" class="btn-finalizar btn btn-primary btn-small pull-right" style="margin-left: 8px; margin-top: 2px;" disabled>Finalizar</button>
+	  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/oval-white.svg" class="hidden pull-right loading">
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_2_alt" class="hidden">
+		<legend>¿Qué buscabas?</legend>
+	  	<div id="Q_H" class="clearfix">
+	  	  <div class="col-sm-12">
+	  		<textarea id="txtA1" class="form-control" rows="6" maxlength="250" style="font-size: 14px; width: 100%;"></textarea>
+	  		<span class="small">Máximo 250 caracteres</span>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+  	  	  <button type="button" class="Q_H_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  	</div>
+	  </fieldset>
+
+	</div>
+	<p class="hidden survey-thanks" style="text-align: center; color: white; font-weight: 700;">Gracias por tu opinión.</p>
+	</form>
+
+  </div>
+</div>
+</div>
+
+<script type="text/javascript">
+$(function() {
+  var c = 0;
+  var fin = 0;
+  var tipo_cara = "";
+  var page_type = "Articulos";
+  var triggered = false;
+  var answers = {};
+  var properties = {};
+  var organization = "presidencia";
+  var section = "Blog";
+  var lang = "es";
+  properties.published_on = "2022-06-20 07:41:00 -0600";
+  properties.title = "Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 20 de junio de 2022";
+  properties.path = "/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-20-de-junio-de-2022";
+  properties.referer = "";
+  properties.viewfinder = navigator.userAgent.toLowerCase();
+  properties.screens = screen.width;
+  properties.device = screen.width;
+
+  $.getJSON('https://www.gob.mx/vun/estados?filter[order]=nombre%20ASC', function (selectOptions) {
+    for( var i = 0; i < selectOptions.length; i ++) {
+      var selectOptionsJSON = selectOptions[i];
+      $('#estados').append('<option value="'+ selectOptionsJSON.nombre +'">'+ selectOptionsJSON.nombre +'</option>');
+    }
+    $('#estados').append('<option value="Otro">Otro</option>')
+  });
+
+  $('.fire').click(function(event) {
+    $('.survey-popup').css({'height':'440px'});
+  });
+
+  $('#Q_A').find('button').click(function(event) {
+  	$('#query_s').removeClass('hidden');
+  	$("#query_1").addClass('hidden');
+  	answers.q1 = $(this).attr('id');
+  });
+
+  $(".ga-survey").click(function () {
+    tipo_cara = $(this).val();
+    var interval_time = [30];
+    (function timer () {
+      if (c < 1) {
+        setTimeout(function () {
+           if(fin < 1) {
+             set_ga("Inconclusa");
+             timer();
+           }
+        }, interval_time[c] * 1000);
+      }
+      c++;
+    })();
+  });
+
+  $('.Q_S_btn').click(function(event) {
+    if( answers.q1 === "radEncGood") {
+      $("#query_s").addClass('hidden');
+      $("#query_1_a").removeClass('hidden');
+    } else if(answers.q1 === "radEncReg" || answers.q1 === "radEncBad") {
+      $("#query_s").addClass('hidden');
+      $("#query_2").removeClass('hidden');
+    } else { }
+    // answers.q1 = $('#Q_A').find('button').attr('id');
+  });
+
+  $('#Q_B').find('input').click(function(event) {
+  	if( $(this).attr('id') === 'radEncA_R3' || $(this).attr('id') === 'radEncA_R4' )  {
+  	  $("#query_1_a").addClass('hidden');
+	  $("#query_1_alt").removeClass('hidden');
+  	} else {
+  	  $("#query_1_a").addClass('hidden');
+	  $("#query_1_b").removeClass('hidden');	
+  	}	
+	answers.q2 = $(this).attr('id');
+  });
+
+  $('.Q_I_btn').click(function(event) {
+  	event.preventDefault();
+  	$("#query_1_alt").addClass('hidden');
+	$("#query_1_b").removeClass('hidden');
+	answers.q5 = $('#txtA').val().substring(0, 250);
+  });
+
+  $('#Q_C').find('button').click(function(event) {
+	$("#query_1_b").addClass('hidden');
+	$("#query_1_c").removeClass('hidden');
+	var q3_array = [];
+	$('#Q_C').find('input:checked').each(function(index, el) {
+	  q3_array.push($(el).attr('id'));
+	});
+	answers.q3 = q3_array;
+  });
+
+  $('#Q_D').find('input').change(function(event) {
+  	answers.q4 = $(this).attr('id');
+  	$('.btn-finalizar').attr('disabled', false);
+  });
+
+  $('#Q_F').find('input').click(function(event) {
+	
+	answers.q2 = $(this).attr('id');
+
+	if( $(this).attr('id') === 'rdEncA_R3' || $(this).attr('id') === 'rdEncA_R4' ) {
+	  $("#query_2").addClass('hidden');
+	  $("#query_2_alt").removeClass('hidden');
+	} else {
+	  $("#query_2").addClass('hidden');
+	  $("#query_2_b").removeClass('hidden');
+	}
+  });
+
+  $('#Q_G').find('input').change(function(event) {
+  	if($('#Q_G').find('input:checked').length > 0) {
+	  $('.btn-finalizar').attr('disabled', false);
+    }
+    var q2_array = [];
+    $('#Q_G').find('input:checked').each(function(index, el) {
+	  q2_array.push($(el).attr('id'));
+	});
+	answers.q3 = q2_array;
+  });
+
+  $('.Q_H_btn').click(function(event) {
+  	event.preventDefault();
+  	$("#query_2_alt").addClass('hidden');
+	$("#query_2_b").removeClass('hidden');
+	answers.q5 = $('#txtA1').val().substring(0, 250);
+  });
+
+  $('.btn-finalizar').click(function (event) {
+    fin++;
+    $.ajax({
+      url: '/encuesta-satisfaccion',
+      type: 'post',
+      dataType: 'json',
+      data: { section: section, lang: lang, properties: properties, answers: answers },
+      beforeSend: function() {
+        $('.loading').removeClass('hidden');
+      },
+      success: function(data) {
+        set_ga("Finalizada");
+
+        $('.survey').hide();
+        $('.survey-popup').css({'height':'60px','background-color':'#dff0d8','border':'1px solid #d6e9c6'});
+        $('.survey-popup .title').text('Gracias por tu participación.').css({'color':'#3c763d'});
+        $('#icon-survey').removeClass('fa-file-text-o').addClass('fa-check-circle').css({'color':'#3c763d'});
+        setTimeout(function() {
+          $('.survey-popup').fadeOut('800');
+        }, 1600);
+      }
+    });
+  });
+
+  function set_ga(estatus) {
+    var pages_group = "Gobierno";
+    var organization_name = "presidencia";
+
+    console.log("Entro a apartado de encuesta de satisfacción. Estatus: "+ estatus);
+    console.log("Pages group: "+pages_group);
+    console.log("Sub group: "+organization_name);
+    console.log("Page type: "+page_type);
+    console.log("Face: "+tipo_cara);
+
+      console.log("Rails.env.production");
+      //Código GA para encuesta de satisfacción.
+		gtag('set', 'dimension14', pages_group);
+		gtag('set', 'dimension15', organization_name);
+		gtag('set', 'dimension16', page_type);
+		gtag('send', 'event', 'Encuesta de satisfacción', tipo_cara ,estatus);
+		gtag('set', 'dimension14', null);
+		gtag('set', 'dimension15', null);
+		gtag('set', 'dimension16', null);
+  }
+
+  $('#subscribe-survey').click(function(event) {
+	event.preventDefault();
+    var email = $("#email-survey").val();
+    var state = $('#estados').val();
+
+    if (email !== '' || email !== undefined) {
+	    try {
+	      $.ajax({
+	        url: "/subscribe",
+	        type: 'post',
+	        dataType: 'json',
+	        data : { email: {address: email} },
+	        success: function (data) {
+	            $('#responseSignup').html(data.message);
+	        },
+	        error: function (data) {
+	            $('#responseSignup').html(data.message);
+	        }
+	      });
+	    }catch(e){
+	      $("#responseEmail").innerText(e);
+	    }
+
+	    $.ajax({
+	    	url: '/signups',
+	    	type: 'POST',
+	    	dataType: 'json',
+	    	data: { section: section, lang: lang, properties: properties },
+	    	success: function() {
+	    		//console.log('exito');
+	    	}
+	    });
+	} else {
+		$('#responseSignup').html('Por favor llena todos los campos.');
+	}
+  });
+
+  $('#survey-form').submit(function(event) {
+    event.preventDefault();
+  });
+});
+</script>
+
+      </div>
+      <div class="col-sm-7 pull-left">
+        <div class="share-buttons clearfix vertical-buffer">
+  <div class="col-md-2"> <a class="twitter-share-button" data-url="https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-20-de-junio-de-2022" data-text="Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 20 de junio de 2022"></a></div>
+  <div class="col-md-2">
+    <div class="fb-share-button" data-href="https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-20-de-junio-de-2022" data-layout="button_count" data-size="small" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-20-de-junio-de-2022&amp;src=sdkpreparse">Compartir</a></div>
+  </div>
+</div>
+
+  <script type="text/javascript">
+    (function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v2.7";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+    
+    var pages_group = "Gobierno";
+    var page_type = "Artículos";
+    var organization_name = "presidencia";
+    var title_content = "Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 20 de junio de 2022";
+
+     window.twttr = (function (d,s,id) {
+       var t, js, fjs = d.getElementsByTagName(s)[0];
+       if (d.getElementById(id)) return; js=d.createElement(s); js.id=id;
+       js.src="//platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs);
+       return window.twttr || (t = { _e: [], ready: function(f){ t._e.push(f) } });
+     }(document, "script", "twitter-wjs"));
+
+     function trackTwitter(intent_event) {
+       if (intent_event) {
+         if (intent_event.target && intent_event.target.nodeName == 'IFRAME') {
+           console.log("Metrica Compartir Twitter - "+title_content);
+           console.log("Organization: "+organization_name);
+           console.log("Page type: "+page_type);
+           console.log("Title content: "+title_content);
+           ga('set', 'dimension14', pages_group);
+           ga('set', 'dimension15', organization_name);
+           ga('set', 'dimension16', page_type);
+           ga('send', 'event', 'Compartir en redes sociales', 'Twitter', title_content);
+           ga('set', 'dimension14', null);
+           ga('set', 'dimension15', null);
+           ga('set', 'dimension16', null);
+         }
+       }
+     }
+  </script>
+  <script type="text/javascript">
+     twttr.ready(function (twttr) {
+       twttr.events.bind('tweet', trackTwitter);
+     });
+  </script>
+
+
+      </div>
+    </div>
+    <div class="row top-buffer">
+  <div class="col-md-8">
+    <hr>
+    <div class="print col-ms-12 col-md-12 col-xs-12">
+      <span class="icon-printing"></span>
+      <a href="#">Imprime la página completa</a>
+        <p class="small" style="font-size: 14px; line-height: 1.6em;">
+          La legalidad, veracidad y la calidad de la información es estricta responsabilidad de la dependencia, entidad o empresa productiva del Estado que la proporcionó en virtud de sus atribuciones y/o facultades normativas.
+        </p>
+    </div>
+  </div>
+</div>
+
+  </div>
+  <input type="hidden" id="page_type" name="page_type" value="Articulos">
+  <input type="hidden" id="organization_name" name="organization_name" value="presidencia">
+</main>
+<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+
+<footer class="main-footer">
+  <div class="list-info">
+    <div class="container">
+
+      <div class="col-sm-3">
+        <img  src="https://framework-gb.cdn.gob.mx/landing/img/logoheader.svg"  href="/" alt="logo gobierno de méxico" class="logo_footer" style="max-width: 90%; margin-left: -27px;   margin-top: 12px;">
+      </div>
+      <div class="col-sm-3">
+        <h2>Enlaces</h2>
+        <ul>
+         <!-- <li><a  href="http://www.participa.gob.mx">Participa</a></li> -->
+          <li><a  href="https://datos.gob.mx/">Datos</a></li>
+          <li><a href="https://www.gob.mx/publicaciones" target="_blank" rel="noopener" title="Enlace abre en ventana nueva">Publicaciones </a></li>
+
+                  <li><a class="footer" href="https://consultapublicamx.plataformadetransparencia.org.mx/vut-web/faces/view/consultaPublica.xhtml?idEntidad=MzM=&amp;idSujetoObligado=MTAwMDE=#inicio" id="Transparencia" target="blank" title="Enlace abre en ventana nueva">Portal de Obligaciones de Transparencia</a></li>
+
+                  <li><a class="footer" href="https://www.infomex.org.mx/gobiernofederal/home.action" id="PNT" target="blank" title="Enlace abre PNT en ventana nueva">PNT</a></li>
+
+                  <li><a class="footer" href="http://www.inai.org.mx/" id="INAI" target="blank" title="Enlace abre sitio INAI en ventana nueva">INAI</a></li>
+
+          <li><a class="footer" id="INAI" href="http://alertadores.funcionpublica.gob.mx/" target="_blank" rel="alertadores">Alerta</a></li>
+          <li><a class="footer" id="SIDEC" href="http://sidec.funcionpublica.gob.mx/" target="_blank" rel="sidec">Denuncia</a></li>
+           </ul>
+      </div>
+      <div class="col-sm-3">
+        <h2>¿Qué es gob.mx?</h2>
+        <p>Es el portal único de trámites, información y participación ciudadana.  <a href="/que-es-gobmx" style="text-decoration: none;">Leer más </a></p>
+        <ul>
+
+        
+            <li><a href='http://www.gob.mx/epn'> Administraciones anteriores  </a></li>
+          <li><a href="/accesibilidad">Declaración de Accesibilidad</a></li>
+          <li><a href="/privacidadintegral">Aviso de privacidad</a></li>
+          <li><a href="/privacidadsimplificado">Aviso de privacidad simplificado</a></li>
+          <li><a href="/terminos">Términos y Condiciones </a></li>
+          <li><a href="/terminos#medidas-seguridad-informacion">Política de seguridad</a></li>
+          <li><a class="footer" id="Marco Juridico" href="http://www.ordenjuridico.gob.mx" target="_blank" rel="noopener" title="Enlace abre en ventana nueva">Marco jurídico</a></li>
+          <li><a href="/sitemap">Mapa de sitio</a></li>
+        </ul>
+      </div>
+      <div class="col-sm-3">
+        </p>
+        <h2>Síguenos en </h2>
+        <ul class="list-inline">
+          <li>
+            <a id="Facebook" href="https://www.facebook.com/gobmexico" target="_blank" rel="noopener" class="sendEst share-info footer" title="enlace a facebook abre en una nueva ventana">
+              <img alt="Facebook" src="https://framework-gb.cdn.gob.mx/landing/img/facebook.png" />
+            </a>
+          </li>
+          <li>
+            <a id="Twitter" href="https://twitter.com/GobiernoMX" target="_blank" rel="noopener" class="sendEst share-info footer" title="Enlace a twitter abre en una nueva ventana">
+              <img alt="Twitter" src="https://framework-gb.cdn.gob.mx/landing/img/twitter.png" />
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+  </div>
+  </div>
+
+  <div class="container-fluid footer-pleca">
+    <div class="row">
+      <div class="col">
+        <br><br>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script type="text/javascript">
+      $("a.footer").click(function () {
+          var pagina_sitio = window.location.pathname;
+          var outbound_link = $(this).attr("id");
+          var subgrupo_paginas = "presidencia";
+          var page_type = "Home";
+          var pages_group = "Gobierno";
+          if($("#page_type").length > 0){ page_type = $("#page_type").val(); }
+
+          console.log("Metrica links externos footer - "+outbound_link);
+          gtag('set', 'dimension14', pages_group);
+          gtag('set', 'dimension15', subgrupo_paginas);
+          gtag('set', 'dimension16', page_type);
+          gtag('send', 'event', 'Outbound link - Footer', outbound_link, pagina_sitio);
+          gtag('set', 'dimension14', null);
+          gtag('set, ‘dimension15', null);
+      })
+  </script>
+
+<input class="hidden" id="route" value="/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-20-de-junio-de-2022" type="hidden" >
+<!-- div id="fb-root"></div -->
+
+
+
+
+
+  <!-- Begin comScore Tag -->
+  <script>
+      var _comscore = _comscore || [];
+      _comscore.push({ c1: "2", c2: "17183199" });
+      (function() {
+          var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+          s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+          el.parentNode.insertBefore(s, el);
+      })();
+  </script>
+  <noscript>
+    <img src="https://sb.scorecardresearch.com/p?c1=2&c2=17183199&cv=2.0&cj=1" />
+  </noscript>
+  <!-- End comScore Tag -->
+
+  <script src="https://sb.scorecardresearch.com/c2/17183199/ct.js"></script>
+
+
+  <script type="text/javascript">
+
+      var _sf_startpt=(new Date()).getTime();
+      var _sf_async_config = { uid: 43659, domain: 'www.gob.mx', useCanonical: true } ;
+      (function() {
+          function loadChartbeat() { window._sf_endpt = (new Date()).getTime(); var e = document.createElement('script'); e.setAttribute('language', 'javascript'); e.setAttribute('type', 'text/javascript'); e.setAttribute('src','//static.chartbeat.com/js/chartbeat.js'); document.body.appendChild(e); };
+          var oldonload = window.onload;
+          window.onload = (typeof window.onload != 'function') ?
+              loadChartbeat : function()
+              { oldonload(); loadChartbeat(); };
+      })();
+      var ele = "/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-20-de-junio-de-2022";
+      if( "#{(@organization_site.present? ? @organization_site.category : 'gobmx')}" == "Campaña") {
+          var siteEls = 'campaign';
+      } else {
+          var siteEls = 'gobierno';
+      }
+
+      for( var i = 1; i < ele.split('/').length; i++ ) {
+          siteEls = siteEls + '.' + ele.split('/')[i];
+      }
+
+      function udm_(e){var t="comScore=",n=document,r=n.cookie,i="",s="indexOf",o="substring",u="length",a=2048,f,l="&ns_",c="&",h,p,d,v,m=window,g=m.encodeURIComponent||escape;if(r[s](t)+1)for(d=0,p=r.split(";"),v=p[u];d<v;d++)h=p[d][s](t),h+1&&(i=c+unescape(p[d][o](h+t[u])));e+=l+"_t="+ +(new Date)+l+"c="+(n.characterSet||n.defaultCharset||"")+"&c8="+g(n.title)+i+"&c7="+g(n.URL)+"&c9="+g(n.referrer),e[u]>a&&e[s](c)>0&&(f=e[o](0,a-8).lastIndexOf(c),e=(e[o](0,f)+l+"cut="+g(e[o](f+1)))[o](0,a)),n.images?(h=new Image,m.ns_p||(ns_p=h),h.src=e):n.write("<","p","><",'img src="',e,'" height="1" width="1" alt="*"',"><","/p",">")};
+      function uid_call(a, b){
+          ui_c2 = 17183199; // your corporate c2 client value
+          ui_ns_site = 'gobmx'; // your sites identifier
+          window.b_ui_event = window.c_ui_event != null ? window.c_ui_event:"",window.c_ui_event = a;
+          var ui_pixel_url = 'https://sb.scorecardresearch.com/p?c1=2&c2='+ui_c2+'&ns_site='+ui_ns_site+'&name='+a+'&ns_type=hidden&type=hidden&ns_ui_type='+b;
+          var b="comScore=",c=document,d=c.cookie,e="",f="indexOf",g="substring",h="length",i=2048,j,k="&ns_",l="&",m,n,o,p,q=window,r=q.encodeURIComponent||escape;if(d[f](b)+1)for(o=0,n=d.split(";"),p=n[h];o<p;o++)m=n[o][f](b),m+1&&(e=l+unescape(n[o][g](m+b[h])));ui_pixel_url+=k+"_t="+ +(new Date)+k+"c="+(c.characterSet||c.defaultCharset||"")+"&c8="+r(c.title)+e+"&c7="+r(c.URL)+"&c9="+r(c.referrer)+"&b_ui_event="+b_ui_event+"&c_ui_event="+c_ui_event,ui_pixel_url[h]>i&&ui_pixel_url[f](l)>0&&(j=ui_pixel_url[g](0,i-8).lastIndexOf(l),ui_pixel_url=(ui_pixel_url[g](0,j)+k+"cut="+r(ui_pixel_url[g](j+1)))[g](0,i)),c.images?(m=new Image,q.ns_p||(ns_p=m),m.src=ui_pixel_url):c.write("<p><img src='",ui_pixel_url,"' height='1' width='1' alt='*'></p>");
+      }
+      udm_('https://sb.scorecardresearch.com/b?c1=2&c2=17183199&ns_site=gobmx&name='+siteEls);
+  </script>
+
+  <noscript>
+    <img src="https://sb.scorecardresearch.com/p?c1=2&amp;c2=17183199&amp;ns_site=gobmx&amp;name=gobierno.presidencia.es.articulos.version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-20-de-junio-de-2022" height="1" width="1" alt="*" />
+  </noscript>
+<script>
+    let key = '';
+    $(function () {
+
+        $.getJSON("https://framework-gb.cdn.gob.mx/applications/cms/configGobmx.json", function(json) {
+            console.log(json.keyAnalytics); // this will show the info it in firebug console
+            key = json.keyAnalytics;
+            ga('create', key , 'auto', 'GobTracker');
+            ga('GobTracker.require', 'linker');
+            ga('GobTracker.linker:autoLink', ['www.gob.mx']);
+            ga('GobTracker.set', 'contentGroup1', 'Gobierno');
+            ga('GobTracker.set', 'contentGroup2', SubGroup);
+            ga('GobTracker.set', 'contentGroup3', PageType);
+            ga('GobTracker.set', 'dimension14', 'Gobierno');
+            ga('GobTracker.set', 'dimension15', SubGroup);
+            ga('GobTracker.set', 'dimension16', PageType);
+            ga('GobTracker.set', 'dimension13', 'No Registrado');
+            ga('GobTracker.send', 'pageview');
+            ga('GobTracker.set', 'contentGroup1', null);
+            ga('GobTracker.set', 'contentGroup2', null);
+            ga('GobTracker.set', 'contentGroup3', null);
+            ga('GobTracker.set', 'dimension14', null);
+            ga('GobTracker.set', 'dimension15', null);
+            ga('GobTracker.set', 'dimension16', null);
+            ga('GobTracker.set', 'dimension13', null);
+        });
+    });
+</script>
+
+<script src="https://framework-gb.cdn.gob.mx/applications/cms/modal_global_cms.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/gm/accesibilidad/js/gobmx-accesibilidad.min.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick.min.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick-lightbox.js"></script>
+<link rel="stylesheet" href="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick-lightbox.css">
+
+
+<script src="https://framework-gb.cdn.gob.mx/applications/cms/config_dependency.js"></script>
+<script type="text/javascript"  src="/0RVTuHxj0/t/mhEICJIQ/YiOkthVkYSfw/PRc4N0sKYQk/PwhFVTt/GPxQB"></script></body>
+
+</html>
+

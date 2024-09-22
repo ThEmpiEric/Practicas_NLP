@@ -1,0 +1,1343 @@
+<!DOCTYPE html>
+<html class='no-js' lang='es'>
+<head>
+    <title>
+  Versión estenográfica. Evaluación del Programa Nacional de Reconstrucción | Presidencia de la República  | Gobierno | gob.mx
+</title>
+
+  <meta charset='UTF-8'>
+  <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#393C3E">
+
+  
+  <meta name="keywords" content="">
+  <meta name="description" content="Acto encabezado por el presidente Andrés Manuel López Obrador, desde Tlaquiltenango, Morelos
+">
+  <meta name="author" content="Presidencia de la República ">
+
+  <meta content="Versión estenográfica. Evaluación del Programa Nacional de Reconstrucción" property="og:title" />
+  <meta content="https://www.gob.mxhttps://www.gob.mx/cms/uploads/article/main_image/147817/65117191-eb6a-4976-85a8-af12d8a9e6cd.jpeg" property="og:image" />
+  <meta content="gob.mx" property="og:site_name" />
+  <meta content="Acto encabezado por el presidente Andrés Manuel López Obrador, desde Tlaquiltenango, Morelos
+" property="og:description" />
+  <meta content="http://www.gob.mx/presidencia/es/articulos/version-estenografica-evaluacion-del-programa-nacional-de-reconstruccion?idiom=es" property="og:url" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@gobmx" />
+  <meta name="twitter:title" content="Versión estenográfica. Evaluación del Programa Nacional de Reconst..." />
+  <meta name="twitter:description" content="Acto encabezado por el presidente Andrés Manuel López Obrador, desde Tlaquiltenango, Morelos
+" />
+  <meta name="twitter:image" content="https://www.gob.mxhttps://www.gob.mx/cms/uploads/article/main_image/147817/65117191-eb6a-4976-85a8-af12d8a9e6cd.jpeg" />
+
+
+  <meta content="authenticity_token" name="csrf-param" />
+<meta content="PUImeIUAB2xdaLh2BVR3Eq56YqG9U6cASVclNbLCHjw=" name="csrf-token" />
+
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700,600,300' rel='stylesheet' type='text/css'>
+  <link href='https://framework-gb.cdn.gob.mx/applications/cms/favicon.png' rel='shortcut icon'>
+  <link data-turbolinks-track="true" href="/cms/assets/application.css" media="all" rel="stylesheet" />
+  <link data-turbolinks-track="true" href="https://framework-gb.cdn.gob.mx/gm/accesibilidad/css/gobmx-accesibilidad.min.css" media="all" rel="stylesheet" />
+  
+
+  <!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+  <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+
+ <![endif]-->
+  <script async src="https://www.googletagmanager.com/gtag/js?id="></script>
+  <script src="https://framework-gb.cdn.gob.mx/applications/cms/carrusel/swiper-bundle.min.js"></script>
+
+  <link rel="stylesheet" href="https://framework-gb.cdn.gob.mx/applications/cms/carrusel/swiper-bundle.min.css">
+
+    <script type="text/javascript">
+
+        var SubGroup = '';
+        if(false || false){
+            SubGroup = 'Temas';
+        }else{
+            SubGroup = 'presidencia';
+        }
+        var PageType = '';
+        if(false){
+            PageType = 'Home'
+        }else{
+            if(false){
+                PageType = '';
+            }else {
+                var site = window.location.pathname;
+                var arrayPageType = ["articulos", "prensa", "agenda", "documentos", "multimedia", "galerias", "videos",
+                    "acciones_y_programas", "acciones-y-programas", "mi-foto-con-el-presidente",
+                    "estructuras", "descargables", "que-hacemos", "finanzas", "infografias"];
+
+                if (site.search("archivo") != -1) {
+                    PageType = "archivo_";
+                }
+                for (var i = 0; i < arrayPageType.length; i++) {
+                    if (site.search(arrayPageType[i]) != -1) {
+                        PageType += arrayPageType[i];
+                        break;
+                    }
+                }
+            }
+        }
+
+
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', '');
+
+        gtag('require', 'linker');
+        gtag('linker:autoLink', ['www.gob.mx']);
+        gtag('set', 'contentGroup1', 'Gobierno');
+        gtag('set', 'contentGroup2', SubGroup);
+        gtag('set', 'contentGroup3', PageType);
+        gtag('set', 'dimension14', 'Gobierno');
+        gtag('set', 'dimension15', SubGroup);
+        gtag('set', 'dimension16', PageType);
+        gtag('set', 'dimension13', 'No Registrado');
+        gtag('send', 'pageview');
+        gtag('set', 'contentGroup1', null);
+        gtag('set', 'contentGroup2', null);
+        gtag('set', 'contentGroup3', null);
+        gtag('set', 'dimension14', null);
+        gtag('set', 'dimension15', null);
+        gtag('set', 'dimension16', null);
+        gtag('set', 'dimension13', null);
+
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-144356475-1', 'auto', {'allowLinker':true});
+        ga('require', 'linker');
+        ga('linker:autoLink', ['www.gob.mx']);
+        ga('set', 'contentGroup1', 'Gobierno');
+        ga('set', 'contentGroup2', SubGroup);
+        ga('set', 'contentGroup3', PageType);
+        ga('set', 'dimension14', 'Gobierno');
+        ga('set', 'dimension15', SubGroup);
+        ga('set', 'dimension16', PageType);
+        ga('set', 'dimension13', 'No Registrado');
+        ga('send', 'pageview');
+        ga('set', 'contentGroup1', null);
+        ga('set', 'contentGroup2', null);
+        ga('set', 'contentGroup3', null);
+        ga('set', 'dimension14', null);
+        ga('set', 'dimension15', null);
+        ga('set', 'dimension16', null);
+        ga('set', 'dimension13', null);
+    </script>
+
+
+  <script type = "text/javascript"> console.log(true);
+  var rails_env_prod = true; </script>
+  <script src="/cms/assets/application.js"></script>
+  <script src="/cms/assets/imageReplace.js"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.js"></script>
+
+                              <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("True"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="N3JQ2-2RVHB-WJQMN-CEYEM-ATMWX",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"N3JQ2-2RVHB-WJQMN-CEYEM-ATMWX",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="xxqo3jv567lbazxpklqq-f-5ac06b937-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"37","ak.cp":"413578","ak.ai":parseInt("270161",10),"ak.ol":"0","ak.cr":12,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"c1273c3a","ak.r":49405,"ak.a2":e,"ak.m":"b","ak.n":"essl","ak.bpcip":"189.224.237.0","ak.cport":64962,"ak.gh":"189.247.214.12","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"reno","ak.t":"1726960353","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==LGtr8c4FPaNMM6XWyQaOTkI1izy27O7pYXYeFxQRKyyPkb+xzVMRlE5Xdk11BYQTwbMssKQTBbVVHHhOkVBQTFqZNFbiJwKnfCWp/tfZqbZwLKDL8OdkXat/pKhgTjdCjgH9VXOGvIJZT0BsOfheAd8aYaJXmSCf51ErhrVHCED9+HS8GA8G7z+JThEt+NjHGJ5kkybdD/9Z8xdblHVL02hOqmCzFrXpfIrm1yfqXnuJFFx1tSR2Fh8RCKxtRv6+TxBmi1gkmpUyCOWJZfm6o8BcVclSeQ6obud6VyaE9r0tXebzbkFDK/7DUTlWOeW40+b/oEMOl1FJfP3n7yGc3iZ8BucG/CoVWwiKsX86k82gHaLZ6noTNGY5KUkl/trc7Re/xwMOFF7NvyopcuAASXJzZdDrVd1vNgQdt2khEBY=","ak.pv":"113","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+<body>
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v13.0" nonce="MZ2GPb2d"></script><!-- a href="#principal" class="skip">Saltar al contenido principal</a -->
+  <header class=" navbar navbar-inverse">
+    <nav class="navbar navbar-inverse  navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-target="#navbarMainCollapse" data-toggle="collapse">
+            <span class="sr-only">Interruptor de Navegación</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a href="/" style="padding: 1px 3px 3px 3px;" class="navbar-brand " title="Ir a la página inicial">
+
+            <div class="logo-main"></div>
+          </a>
+        </div>
+        <div id="navbarMainCollapse" class="collapse navbar-collapse">
+          <ul class="nav navbar-nav navbar-right">
+           <li><a href="/tramites" title="Trámites">Trámites </a></li>
+            <li><a href="/gobierno" title="Gobierno">Gobierno</a></li>
+                  <li><a href="/presidencia/en" title="Versión en inglés del sitio web">English</a>
+                  </li>
+                </li>
+
+
+            <li>
+              <form accept-charset="UTF-8" action="/busqueda" method="get"><div style="display:none"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+                <input type="hidden" name="site" value="presidencia">
+                <button data-v-6394873e="" id="botonbuscar" type="button" class="btn btn-search"><a data-v-6394873e="" href="https://www.gob.mx/busqueda?utf8=✓" target="_blank" id="botbusca"><img data-v-6394873e="" alt="Buscar" src="https://framework-gb.cdn.gob.mx/landing/img/lupa.png"></a></button>
+</form>            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    
+
+
+        <script src="/cms/assets/level_jump.js"></script><section>
+<!-- Subnavegacion -->
+<nav class=" navbar-inverse sub-navbar fixed-top"
+     >
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#subenlaces">
+        <span class="sr-only">Interruptor de Navegación</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="link-name" href="?tab="></a>
+    </div>
+    <div class="collapse navbar-collapse" id="subenlaces">
+      <ul class="nav subnav navbar-nav navbar-right">
+              <li class="landing-btn">
+                    <a href='/presidencia/es/archivo/prensa'>
+                Comunicados            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='/presidencia/es/#5173'>
+                Directorio            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='https://transparencia.presidencia.gob.mx/presidencia/transparencia/politicas-de-tratamiento-de-datos-personales-de-la-oficina-de-la-presidencia-de-la-republica/'>
+                Protección de Datos Personales            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='https://www.gob.mx/presidencia/transparencia/'>
+                Transparencia            </a>
+            </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+<style>
+  .flag-banner {
+  top: 45px  !important;
+  }
+</style>
+<!-- div class="warning-nav" style="margin-top: 0px;">
+  <div class="container">
+    <div class="row clearfix">
+  <div class="col-xs-12 col-sm-12 col-md-12">Este contenido será modificado temporalmente en atención a las disposiciones legales y normativas en materia electoral, con motivo del inicio de periodo de campaña</div>
+  </div>
+  </div>
+</div -->
+</section>
+
+
+  </header>
+
+
+
+
+
+<main class="inner-page interior ficha">
+  <div class="container">
+  	<ol class="breadcrumb">
+  <li><a href="http://www.gob.mx"><span class="icon icon-home"></span><span class="sr-only">Inicio</span></a></li>
+  <li><a href="/presidencia">Presidencia de la República </a></li>
+  <li class="active">Blog</li>
+</ol>
+  	<div class="">
+      <div aria-hidden="true" class="hidden-xs font-changer internal print" tabindex="-1">
+  <button class="inc-font font-modifier">Aa+</button>
+  <button class="dec-font font-modifier">Aa-</button>
+</div>
+      <div class="marquee-padding">
+      <div class='post-list main-post-list'>
+<div class='marque-float-left'>
+<div class='right_arrow'></div>
+<div class='titulo-pub'>
+<small>Publicaciones Recientes</small>
+</div>
+</div>
+<div>
+<div class='container-marque'>
+<div id='headlines'>
+<div class='marquee'>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-19 13:44:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-19-de-septiembre-de-2024' title='Versió'>
+Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 19 de septiembre de 2024
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-18 12:36:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-18-de-septiembre-de-2024' title='Versió'>
+Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 18 de septiembre de 2024
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-17 13:51:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-entrega-de-estimulos-a-delegaciones-mexicanas-participantes-en-juegos-olimpicos-y-paralimpicos-paris-2024' title='Versió'>
+Versión estenográfica. Entrega de estímulos a delegaciones mexicanas participantes en Juegos Olímpicos y Paralímpicos París 2024
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-17 12:21:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-17-de-septiembre-de-2024' title='Versió'>
+Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 17 de septiembre de 2024
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-16 13:56:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-desfile-civico-militar' title='Versió'>
+Versión estenográfica. Desfile Cívico Militar
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+      </div>
+  	  <div class="col-md-7 col-xs-12 col-sm-12 pull-left" tabindex="0">
+  	  	<h1 class="bottom-buffer">Versión estenográfica. Evaluación del Programa Nacional de Reconstrucción</h1>
+  	  	<h2>Acto encabezado por el presidente Andrés Manuel López Obrador, desde Tlaquiltenango, Morelos
+</h2>
+        <section class="">
+          <p>Presidencia de la República  | 26 de julio de 2024</p>
+        </section>
+  	  <div class="imagen-principal">
+  	      <img alt="Evaluación del Programa Nacional de Reconstrucción" class="img-responsive img_curve" src="https://www.gob.mx/cms/uploads/article/main_image/147817/65117191-eb6a-4976-85a8-af12d8a9e6cd.jpeg" />
+  	      <span class="small">Evaluación del Programa Nacional de Reconstrucción</span>
+      </div>
+      <div class="article-body"><p>MODERADORA:&nbsp;Preside este evento, Evaluaci&oacute;n del Programa Nacional de Reconstrucci&oacute;n, el presidente constitucional de los Estados Unidos Mexicanos, licenciado Andr&eacute;s Manuel L&oacute;pez Obrador.</p>
+
+<p>Lo acompa&ntilde;an:</p>
+
+<p>La virtual presidenta electa de los Estados Unidos Mexicanos, doctora Claudia Sheinbaum Pardo.</p>
+
+<p>El gobernador constitucional del estado de Morelos, Cuauht&eacute;moc Blanco Bravo.</p>
+
+<p>La gobernadora electa del estado de Morelos, Margarita Gonz&aacute;lez Sarabia.&nbsp;</p>
+
+<p>La secretaria de Cultura, Alejandra Frausto Guerrero.</p>
+
+<p>El secretario de Desarrollo Agrario, Territorial y Urbano, Rom&aacute;n Meyer Falc&oacute;n.&nbsp;</p>
+
+<p>La pr&oacute;xima secretaria de Cultura, Claudia Curiel de Icaza.&nbsp;</p>
+
+<p>La subsecretaria de Ordenamiento Territorial y Agrario, Edna Elena Vega Rangel.</p>
+
+<p>El director general del Instituto Nacional de Antropolog&iacute;a e Historia, Diego Prieto Hern&aacute;ndez.</p>
+
+<p>El director general de Sitios y Monumentos del INAH, Arturo Balandrano Campos.&nbsp;</p>
+
+<p>El subsecretario de Egresos de la Secretar&iacute;a de Hacienda y Cr&eacute;dito P&uacute;blico, Juan Pablo de Botton Falc&oacute;n.</p>
+
+<p>La directora de Estudios y Proyectos de la Secretar&iacute;a de Cultura, Elisa Ruiz Covarrubias.&nbsp;</p>
+
+<p>El p&aacute;rroco del templo,&nbsp;H&eacute;ctor G&oacute;mez Rodr&iacute;guez.</p>
+
+<p>Presidente municipal de Tlaquiltenango, maestro Carlos Franco Ruiz.&nbsp;</p>
+
+<p>El trabajador de la construcci&oacute;n,&nbsp;Miguel &Aacute;ngel S&aacute;nchez Canto.</p>
+
+<p>La restauradora Luz Eugenia Salgado Ch&aacute;vez.</p>
+
+<p>Asimismo, damos la bienvenida a los representantes de los medios de comunicaci&oacute;n y a quienes nos siguen a trav&eacute;s de las redes sociales.</p>
+
+<p>Todas y todos ustedes sean bienvenidos.</p>
+
+<p>Procedemos con el mensaje de bienvenida a cargo del gobernador constitucional del estado de Morelos, Cuauht&eacute;moc Blanco Bravo.</p>
+
+<p>CUAUHT&Eacute;MOC BLANCO BRAVO, GOBERNADOR DE MORELOS:&nbsp;Muy buenas tardes.&nbsp;</p>
+
+<p>Se&ntilde;or presidente Andr&eacute;s Manuel L&oacute;pez Obrador.</p>
+
+<p>Reiteramos la bienvenida a la doctora Claudia Sheinbaum Pardo, presidenta electa de los Estados Unidos Mexicanos.</p>
+
+<p>A la licenciada Margarita Gonz&aacute;lez Sarabia, gobernadora electa del estado libre y soberano de Morelos.</p>
+
+<p>A la licenciada Alejandra Frausto Guerrero, secretaria de Cultura del Gobierno de M&eacute;xico.</p>
+
+<p>Al arquitecto Rom&aacute;n Meyer Falc&oacute;n, secretario de Desarrollo Agrario Territorial y Urbano.</p>
+
+<p>A la licenciada Claudia Curiel de Icaza, pr&oacute;xima secretaria de Cultura del Gobierno de M&eacute;xico.</p>
+
+<p>A la doctora Edna Elena Vega Rangel, subsecretaria de Ordenamiento Territorio y Agrario de la Sedatu</p>
+
+<p>Al licenciado Juan Pablo de Botton Falc&oacute;n, subsecretario de Egresos de la Secretar&iacute;a de Hacienda y Cr&eacute;dito P&uacute;blico.</p>
+
+<p>Al antrop&oacute;logo Diego Prieto Hern&aacute;ndez, director general del Instituto Nacional de Antropolog&iacute;a e Historia.</p>
+
+<p>Al maestro Carlos Franco Ruiz, presidente municipal de Tlaquiltenango.</p>
+
+<p>Elisa Ru&iacute;z Covarrubias, directora de Estudios y Proyectos de la Secretar&iacute;a de Cultura.</p>
+
+<p>A H&eacute;ctor G&oacute;mez Rodr&iacute;guez, p&aacute;rroco de la parroquia de Santo Domingo de Guzm&aacute;n.</p>
+
+<p>Invitados especiales.</p>
+
+<p>Atendemos los avances en rehabilitaci&oacute;n de escuelas, hospitales, templos, edificios hist&oacute;ricos afectados por el sismo de 2017. Son muy significativos en esta materia.</p>
+
+<p>Desde el inicio, que usted instruy&oacute; como prioridad atender subsanar los da&ntilde;os del sismo de 2017, hemos cumplido en tiempo y forma, y esta labor ha sido todo un reto por la magnitud de aquel evento y por los da&ntilde;os que dej&oacute;, pero gracias al Plan Nacional de Reconstrucci&oacute;n y al trabajo en conjunto logramos levantarlo.</p>
+
+<p>Se&ntilde;or presidente, aprovecho el momento para agradecer su apoyo para superar esta eventualidad.</p>
+
+<p>Agradezco tambi&eacute;n a todos los que se sumaron a hacer posible. Cuando hay voluntad y liderazgo, M&eacute;xico es m&aacute;s fuertes que cualquier adversidad.</p>
+
+<p>Valoramos mucho su visita y el motivo de&nbsp;la misma. Seguiremos trabajando en el tiempo que resta de esta gesti&oacute;n a esta causa. Sabemos que el gobierno entrante contribuir&aacute; avanzando hasta alcanzar las metas trazadas.</p>
+
+<p>Muchas gracias, se&ntilde;or presidente. Morelos lo recibe con los brazos abiertos. Y yo, de antemano, le quiero agradecer todo el apoyo que me brind&oacute; para el apoyo de los 36 municipios.</p>
+
+<p>Muchas gracias, se&ntilde;or presidente, y siempre voy a estar agradecido con usted. Muchas gracias.</p>
+
+<p>MODERADORA:&nbsp;A continuaci&oacute;n, hace uso de la palabra la subsecretaria de Ordenamiento, Territorial y Agrario, doctora Edna Elena Vega Rangel.&nbsp;</p>
+
+<p>EDNA ELENA VEGA RANGEL, SUBSECRETARIA DE ORDENAMIENTO, TERRITORIAL Y AGRARIO&nbsp;DE LA SECRETAR&Iacute;A DE DESARROLLO AGRARIO, TERRITORIAL Y URBANO (SEDATU):&nbsp;Muy buenas tardes a todas y a todos.</p>
+
+<p>Presidente, con su permiso.</p>
+
+<p>Presidenta electa, gobernador, gobernadora electa y a todos quienes nos acompa&ntilde;an el d&iacute;a de hoy.</p>
+
+<p>Es muy importante este evento de apertura de un templo que estuvo que estuvo cerrado durante tantos a&ntilde;os.</p>
+
+<p>Pero, quisiera se&ntilde;alar, hoy nos encontramos al final de un camino, muy pronto terminaremos este ciclo con uno de los proyectos m&aacute;s esperanzadores de esta administraci&oacute;n.&nbsp;</p>
+
+<p>Han pasado seis a&ntilde;os desde que el presidente Andr&eacute;s Manuel L&oacute;pez Obrador instruy&oacute; en las ciudades de Ixtepec y Juchit&aacute;n, Oaxaca, la tarea hist&oacute;rica de atender a las personas y comunidades afectadas por los sismos de septiembre de 2017 y de febrero de 2018.</p>
+
+<p>En ese momento se presentaron de manera general los lineamientos b&aacute;sicos de lo que posteriormente ser&iacute;a el Programa Nacional de Reconstrucci&oacute;n.</p>
+
+<p>Sab&iacute;amos que la tarea ser&iacute;a compleja, no s&oacute;lo por un n&uacute;mero de afectaciones, sino tambi&eacute;n por el gran rezago y el sentir de las comunidades. La gente se sent&iacute;a abandonada por el Gobierno de M&eacute;xico.</p>
+
+<p>Durante la etapa de transici&oacute;n, el equipo responsable para la reconstrucci&oacute;n por los sismos del 17 y 18 en la regi&oacute;n centro sur de pa&iacute;s se enfrent&oacute; a la dificultad de no contar con informaci&oacute;n precisa sobre los da&ntilde;os, se encontr&oacute; un proceso desordenado y en algunos casos con problemas administrativos graves.</p>
+
+<p>A casi un a&ntilde;o de los sismos, la reconstrucci&oacute;n material no hab&iacute;a avanzado, comunidades enteras donde ni siquiera hab&iacute;an sido reconocidas como da&ntilde;adas, no era posible en ese momento definir con claridad qu&eacute; se hab&iacute;a hecho en la administraci&oacute;n anterior.</p>
+
+<p>En marzo de 2019 se public&oacute; en el&nbsp;Diario Oficial de la Federaci&oacute;n&nbsp;la creaci&oacute;n de la Comisi&oacute;n Intersecretarial para la Reconstrucci&oacute;n, misma que signific&oacute; un muy importante esfuerzo de los sectores de educaci&oacute;n, salud, vivienda y cultura, bajo la coordinaci&oacute;n de la Secretar&iacute;a de Desarrollo Agrario, Territorial y Urbano, y de manera muy espec&iacute;fica y contundente del arquitecto David Cervantes Peredo, quien lamentablemente perdi&oacute; la vida en junio de 2022, se encabez&oacute; esta extraordinaria labor.</p>
+
+<p>Fueron m&aacute;s de 40 sesiones de trabajo, infinidad de recorridos, de visitas, de reuniones, de convenios de colaboraci&oacute;n entre distintas instituciones, evaluaci&oacute;n permanente y directa por parte del presidente de M&eacute;xico, del licenciado L&oacute;pez Obrador.</p>
+
+<p>Este programa fue conducido por el gobierno federal y ha contado con la participaci&oacute;n de las comunidades afectadas. El Estado asumi&oacute; su responsabilidad en todo el proceso de reconstrucci&oacute;n a trav&eacute;s de un trabajo territorial coordinado e interinstitucional con los tres &oacute;rdenes de gobierno, y la participaci&oacute;n fundamental de la sociedad.</p>
+
+<p>Esta perspectiva de trabajo fue uno de los cambios fundamentales del proceso de reconstrucci&oacute;n, pues era la primera vez que un gobierno lo hac&iacute;a de esta manera, involucrando directamente a las personas y a las comunidades, que se convirtieron en el centro de la acci&oacute;n de este proceso.</p>
+
+<p>Esta cercan&iacute;a con la gente no s&oacute;lo nos permiti&oacute; entender mejor las necesidades de cada comunidad, sino construir relaciones de confianza y de solidaridad que han sido esenciales para el logro de los objetivos del programa. As&iacute; iniciamos.</p>
+
+<p>&iquest;Cu&aacute;les son los resultados cuantitativos de esta forma de trabajar, de este Programa Nacional de Reconstrucci&oacute;n?</p>
+
+<p>Setenta y dos mil 295 acciones, construcciones, viviendas, apoyos, templos, escuelas, hospitales. Una inversi&oacute;n superior a los 33 mil 600 millones de pesos en 10 estados, 889 municipios. El programa ha realizado estas acciones con esta inversi&oacute;n de 2019 a 2024 con este monto de inversi&oacute;n.</p>
+
+<p>El avance que tenemos&nbsp;al d&iacute;a de hoy, a pr&aacute;cticamente dos d&iacute;as de concluir, es el 99 por ciento de avance y el resto est&aacute; en proceso.</p>
+
+<p>De vivienda, 62 mil 865 acciones, 10 mil 155 millones de pesos.</p>
+
+<p>En salud, 172 acciones y una inversi&oacute;n superior a cuatro mil millones de pesos.&nbsp;No, perd&oacute;n, millones de pesos.&nbsp;</p>
+
+<p>En educaci&oacute;n, cinco mil 534 acciones, nueve mil millones de pesos.</p>
+
+<p>En cultura, de lo cual nos dar&aacute; cuenta la secretaria Alejandra Frausto, m&aacute;s de dos mil 700 acciones y una inversi&oacute;n de nueve mil 800 millones de pesos.</p>
+
+<p>Para Morelos fueron en total nueve mil 653 acciones y una inversi&oacute;n cercana a los siete mil 200 millones de pesos.</p>
+
+<p>Si me lo permiten, quisiera cerrar esta intervenci&oacute;n recordando las palabras del arquitecto Cervantes en uno de los eventos de evaluaci&oacute;n con el presidente, y dec&iacute;a as&iacute;: &lsquo;Nuestro principal objetivo es el colocar a las personas y comunidades en el centro de la acci&oacute;n del gobierno, nuestro paciente. Si hici&eacute;ramos una analog&iacute;a con la atenci&oacute;n a la salud, no son las casas, no son los edificios, sino la gente&rsquo;.</p>
+
+<p>No se trata s&oacute;lo de hacer obras, sino de ayudar a quienes lo requieren con la protecci&oacute;n del Estado a recuperar y en mejores condiciones aquello que ten&iacute;an y que de repente perdieron parcial o totalmente por la ocurrencia del desastre.</p>
+
+<p>A lo largo de este periodo se han superado muchas dificultades, inercias del pasado, corregir nuestras propias fallas, m&aacute;s all&aacute; de lo que hemos avanzado en la reconstrucci&oacute;n se ha logrado un cambio muy importante, la incredulidad, el malestar y sobre todo la desesperanza que encontramos en las comunidades han ido desapareciendo, se ha logrado generar confianza y tranquilidad.</p>
+
+<p>Por eso en este programa decimos que, adem&aacute;s, se est&aacute;nreconstruyendo hospitales, escuelas, casas, templos, estamos reconstruyendo esperanzas para transformaci&oacute;n del pa&iacute;s.</p>
+
+<p>Gracias a todas las personas, familias, comunidades, instituciones, asistentes t&eacute;cnicos, trabajadores de la construcci&oacute;n, por supuesto, a cada uno de los servidores p&uacute;blicos que han intervenido, que se comprometieron con este gran programa.</p>
+
+<p>Gracias, presidente, por tanto. Ya estamos a punto de decir: misi&oacute;n cumplida. Gracias.</p>
+
+<p>MODERADORA:&nbsp;Solicitamos la intervenci&oacute;n de la secretaria de Cultura, licenciada Alejandra Frausto Guerrero.</p>
+
+<p>ALEJANDRA FRAUSTO GUERRERO, SECRETARIA DE CULTURA:&nbsp;Muy buenas tardes.&nbsp;</p>
+
+<p>Querida comunidad de Tlaquiltenango, Morelos, bravo a ustedes por su paciencia.</p>
+
+<p>Querido presidente Andr&eacute;s Manuel L&oacute;pez Obrador, para nosotros como servidores p&uacute;blicos es una emoci&oacute;n muy profunda estar entregando las misiones cumplidas a su lado. Muchas gracias por darnos esta tarde para mostrar un poco de lo que es el Programa Nacional de Reconstrucci&oacute;n en el sector cultura.</p>
+
+<p>No solamente son n&uacute;meros, no solamente son inmuebles hist&oacute;ricos, patrimonio edificado, es el coraz&oacute;n de las comunidades. Los templos son los lugares en donde, adem&aacute;s de la fe, son los centros de reuni&oacute;n, son los centros en donde una sociedad se reconoce, en donde se le da la bienvenida a una vida, en donde se despide a alguien que ya no est&aacute; con nosotros, en donde se unen las vidas.</p>
+
+<p>Y durante mucho tiempo, despu&eacute;s de los sismos del 2017, que fueron tremendos, est&aacute;n volviendo a latir estos corazones. Gracias a su compromiso, presidente, gracias, gracias al trabajo de miles de personas porque cuando llegamos a esta administraci&oacute;n, como bien dijo Edna, la subsecretaria, no ten&iacute;amos ni siquiera la informaci&oacute;n clara de cu&aacute;ntos da&ntilde;os hab&iacute;a.</p>
+
+<p>Los sismos del 17 pareciera que hubieran pasado justamente por donde m&aacute;s patrimonio edificado hab&iacute;a, pareciera que hubieran tenido un doloroso radar, y as&iacute; se da&ntilde;&oacute; much&iacute;simo en ocho estados, en 11 estados en un inicio, nada m&aacute;s que tres estados salieron pronto de la emergencia, el caso de Hidalgo, de Veracruz y de Tabasco; pero en Chiapas, en la Ciudad de M&eacute;xico, en el Estado de M&eacute;xico, en Guerrero, en Oaxaca, en Puebla, en Tlaxcala y, por supuesto, en Morelos, un n&uacute;mero de tres mil 269 sitios fueron afectados.</p>
+
+<p>Esto signific&oacute; una cat&aacute;strofe, la m&aacute;s grande que hayamos conocido en el patrimonio. Y no solamente, como les digo, se tratan de edificaciones, es el lugar en donde qued&oacute; la vida social interrumpida por tanto tiempo.</p>
+
+<p>Una muy mala respuesta de los seguros que en ese momento tendr&iacute;an que haber dado la cara. Falta de documentos y de memoria de lo que hab&iacute;a sucedido en estos inmuebles y los templos cerrados. Ah&iacute; es que el presidente dise&ntilde;a el PNR, el Plan Nacional de Reconstrucci&oacute;n, que reconstruye, como se dice, esperanza.</p>
+
+<p>Pero ten&iacute;a que llegar este presidente, que ha reconstruido la dignidad de M&eacute;xico, para que se recuperaran as&iacute; los templos, y ten&iacute;a que llegar nuestra primera presidenta para cuidar este legado.</p>
+
+<p>Por primera vez vamos a conocer en nuestra historia un gobierno entrante que cuida, que respeta un legado. Y, aparte, el cuidado se nos da bien a las mujeres, as&iacute; que esta semilla de la dignidad va a quedar en muy buenas manos. Gracias, presidenta, Claudia Sheinbaum.</p>
+
+<p>Para reconstruir este extraordinario patrimonio no se puede solo, no es una sola instituci&oacute;n, tenemos que trabajar como un solo equipo, en primer lugar, la voluntad clara del presidente para darnos recursos extraordinarios para terminar este encargo.&nbsp;</p>
+
+<p>Voy a hablar del &uacute;ltimo a&ntilde;o, en donde ten&iacute;amos a&uacute;n 974 inmuebles por terminar.&nbsp;Ah&iacute;&nbsp;la Secretar&iacute;a de Hacienda y Cr&eacute;dito P&uacute;blico, justo con quien trabajamos, Juan Pablo de Botton, hicimos &lsquo;el&nbsp;firmat&oacute;n&rsquo;, donde 121 servidores p&uacute;blicos nos dimos cita ah&iacute; en el Centro Hist&oacute;rico, en Palacio Nacional, para en una ma&ntilde;ana firmar todo, porque ustedes saben que la burocracia y el elefante es canijo y toma mucho tiempo, y no le pod&iacute;a quitar tiempo un solo de obra la burocracia Entonces, as&iacute;, en una ma&ntilde;ana sacamos los convenios de ocho estados.</p>
+
+<p>Ah&iacute; logramos que se detonara esta extraordinaria haza&ntilde;a de las 974 obras. Tenemos 729 concluidas&nbsp;al d&iacute;a de hoy&nbsp;y 245 en proceso.</p>
+
+<p>Presidente, presidenta electa:</p>
+
+<p>Vamos en un 93.9 por ciento y vamos a concluir antes de terminar esta administraci&oacute;n.</p>
+
+<p>Adem&aacute;s de eso, como les dec&iacute;a, los templos son el coraz&oacute;n de la comunidad, pero dentro est&aacute;, dentro de los templos, est&aacute; lo que es el coraz&oacute;n del templo, las im&aacute;genes a las que se profesa fe, la pintura mural. Este inmueble es en todo el pa&iacute;s, al parecer, bueno, seguramente en Morelos, el que mayor pintura mural tiene. Por eso hemos invitado al representante de Unesco en M&eacute;xico, Andr&eacute;s Morales. Gracias por visitar, porque bien merece estar como patrimonio cultural de la humanidad registrado. Esperemos que as&iacute; sea.</p>
+
+<p>A la hora de restaurar siempre hay regalos, y aqu&iacute; encontramos m&aacute;s pintura mural que se pint&oacute; en el siglo XVI Imaginen en el 1570, ustedes conocen bien, y esto debe de permanecer, la parte del claustro tambi&eacute;n como un espacio para que la comunidad conozca esta memoria, la memoria franciscana, la memoria dominica, pero antes aqu&iacute; est&aacute; la memoria tlahuica, tambi&eacute;n nuestra cultura viva, que est&aacute; viva en cada uno de ustedes.</p>
+
+<p>Estos espacios nos dan identidad, estos espacios nos dan comunidad, estos espacios hace que nos unamos como morelenses, como la comunidad de Tlaquiltenango, como mexicanos, y as&iacute; queremos que se contin&uacute;e en un programa que hemos platicado ya con mi sucesora Claudia Curiel, con mi querida Edna, que ser&aacute; la pr&oacute;xima secretaria de Sedatu; por supuesto, con ustedes, presidente y presidenta electa. El mantenimiento preventivo, el mantenimiento es como la medicina, la preventiva es la mejor.</p>
+
+<p>Si nosotros hubi&eacute;ramos tenido mantenimiento en estos tesoros, no hubi&eacute;ramos sufrido la cat&aacute;strofe que sufrimos. La lecci&oacute;n ha sido muy dura, as&iacute; que hay que seguir cuidando y restaurando, y atendiendo de manera preventiva este tesoro extraordinario que es nuestro pa&iacute;s, edificado, porque somos una potencia cultural gracias a esto.</p>
+
+<p>Gracias, por supuesto, presidente, por permitirme servir a su lado, es el mayor honor que he tenido en mi vida.&nbsp;</p>
+
+<p>Y hasta los muros hablan. En los estados en los que hemos estado restaurando y encontrando tesoros de la restauraci&oacute;n, regalos de la restauraci&oacute;n, como c&oacute;dices que aparecieron aqu&iacute;, partituras, en el convento, en la iglesia de Tepoztl&aacute;n apareci&oacute; un chimalli, la mano ind&iacute;gena presente en el presbiterio y as&iacute; han aparecido tesoros.</p>
+
+<p>En una iglesia de Santa Luc&iacute;a del Camino, en Oaxaca, aparece una pintura en el dintel de una puerta del siglo XIX que reza: &lsquo;Amor con amor se paga&rsquo;.</p>
+
+<p>Gracias, presidente.</p>
+
+<p>MODERADORA:&nbsp;Procedemos con el mensaje de la virtual presidenta electa de los Estados Unidos Mexicanos, doctora Claudia Sheinbaum Pardo.</p>
+
+<p>CLAUDIA SHEINBAUM PARDO, VIRTUAL PRESIDENTA ELECTA:&nbsp;Gracias a todos, a todas.&nbsp;</p>
+
+<p>Muchas gracias, presidente Andr&eacute;s Manuel L&oacute;pez Obrador, gobernador Cuauht&eacute;moc Blanco, Margarita, a todo el equipo del presidente.&nbsp;</p>
+
+<p>No saben lo emotivo que es esta transici&oacute;n. Llevamos ya varios fines de semana, este es el estado n&uacute;mero 22, si mal no me equivoco, o 21. Y es una generosidad enorme la de nuestro presidente el mostrarme en territorio las distintas obras, acciones;el fondo, la profundidad, la causa; lo que pens&oacute; cuando desarroll&oacute; el Tren Maya, el&nbsp;interoce&aacute;nico, la historia que hay detr&aacute;s de cada programa, de cada proyecto.</p>
+
+<p>As&iacute; que el d&iacute;a de hoy, una vez m&aacute;s, hacemos esta transici&oacute;n, &uacute;nica, hist&oacute;rica, no solamente porque formamos parte del mismo proyecto, sino porque el informe, la transici&oacute;n se hace de frente, de cara al pueblo de M&eacute;xico. Antes ni se reun&iacute;an los expresidentes y el nuevo presidente; o a veces quiz&aacute; lo hac&iacute;an, eran los equipos de gobierno que se reun&iacute;an en las oficinas. Aqu&iacute; no, aqu&iacute; somos parte de esta transformaci&oacute;n y todo se hace de frente al pueblo de M&eacute;xico.</p>
+
+<p>As&iacute; que el d&iacute;a de hoy estamos en esta revisi&oacute;n que pocos conocen. Porque se conoce mucho de lo que ha hecho el presidente, pero a veces esto que es la reconstrucci&oacute;n de todos los templos da&ntilde;ados por el sismo del 2017 se conoce poco. Y detr&aacute;s de esta&nbsp;reconstrucci&oacute;n,&nbsp;pues hay mentes, creatividad, profesionalismo, historia. As&iacute; que quiero felicitar aqu&iacute; a quien ha encabezado estos trabajos, que es Alejandra, la secretaria de Cultura, que lo ha hecho de una manera, no solamente profesional, sino con cari&ntilde;o y amor, como siempre lo hace; del INAH, por supuesto, de Diego, y de todos los que han participado en este proceso.</p>
+
+<p>La Cuarta Transformaci&oacute;n es un antes y un despu&eacute;s. As&iacute; como hubo un antes y un despu&eacute;s de la primera, de la Independencia; un antes y un despu&eacute;s de la Reforma con Benito Ju&aacute;rez, un antes y un despu&eacute;s de la Revoluci&oacute;n, aqu&iacute; en Morelos siempre recordamos al gran Emiliano Zapata.</p>
+
+<p>Tambi&eacute;n en la Cuarta Transformaci&oacute;n hay un antes y un despu&eacute;s. El pueblo de M&eacute;xico en 2018 tom&oacute; la decisi&oacute;n de cambiar su historia, tom&oacute; la decisi&oacute;n de tener en sus manos su destino, y despu&eacute;s de seis a&ntilde;os el pueblo de M&eacute;xico una vez m&aacute;s ratific&oacute; que quiere seguir gobernando su patria, que quiere seguir gobernando su naci&oacute;n.</p>
+
+<p>Y por eso hablamos de continuidad, porque tenemos los mismos principios, las mismas causas.&nbsp;</p>
+
+<p>Nuestros adversarios quisieran que nos diferenci&aacute;ramos, pero &iquest;por qu&eacute; nos vamos a diferenciar, si venimos luchando desde hace muchos a&ntilde;os juntos por una causa principal que es la justicia, la justicia social, la justicia ambiental, la justicia cultural tambi&eacute;n, todas las justicias que engloban en este momento lo que es la Cuarta Transformaci&oacute;n?</p>
+
+<p>Vengo aqu&iacute; a comprometerme con ustedes, a decirles que vamos a guardar esos principios, que vamos a gobernar con el principio de por el bien de todos primero los pobres, que no va a haber corrupci&oacute;n, que no vamos a regresar al pasado, que vamos a gobernar con el pueblo y para el pueblo, que esa es la esencia de la Cuarta Transformaci&oacute;n.</p>
+
+<p>Vengo a comprometerme a decirles, como lo dije en campa&ntilde;a &mdash;adem&aacute;s, vamos a regresar ya con Margarita como gobernadora&mdash; que vamos a continuar con todos los&nbsp;Programas del Bienestar: la pensi&oacute;n al adulto mayor, el apoyo a las personas con discapacidad, el apoyo a los j&oacute;venes de preparatoria, el Sembrando Vida, el apoyo al campo, los fertilizantes gratuitos.</p>
+
+<p>Y, adem&aacute;s, seguramente ya lo saben porque lo dijimos en campa&ntilde;a, les informo que vamos a tener tres nuevos programas, ahora digo tres, lo voy a explicar:</p>
+
+<p>El primero, el apoyo a todas las mujeres de 60 a 64&nbsp;a&ntilde;os de edad.</p>
+
+<p>&iquest;Por qu&eacute; a las mujeres?</p>
+
+<p>Porque,&nbsp;aunque no deber&iacute;a ser as&iacute;, las mujeres somos las que nos hemos dedicado al cuidado de nuestras familias y nunca se ha reconocido ese trabajo, pero como ahora va a venir una mujer presidenta,&nbsp;pues vamos a reconocer el trabajo de las mujeres mexicanas.</p>
+
+<p>Vamos tambi&eacute;n a hacer universal, es decir, para todos y para todas, las&nbsp;becas &lsquo;Benito Ju&aacute;rez&rsquo;, las becas del&nbsp;bienestar para los ni&ntilde;os y para las ni&ntilde;as de escuela p&uacute;blica, de preescolar, de primaria y secundaria. El a&ntilde;o que entra iniciamos con secundaria y vamos a ir as&iacute; cada a&ntilde;o.</p>
+
+<p>Y tambi&eacute;n, lo anunci&eacute; hace poco, el programa de la pensi&oacute;n aladulto mayor lo vamos a incorporar con un programa que llamamos &lsquo;Hoy por ustedes, ma&ntilde;ana por nosotros&rsquo;, que va a llevar salud a cada hogar de las y los adultos mayores de nuestro pa&iacute;s, a los 12 millones. Van a visitar enfermeras, m&eacute;dicos, las casas, van a atender a las personas, van a llevar los medicamentos. Ya estamos trabajando con todo el equipo para que esto sea as&iacute; a partir de enero del 2025.</p>
+
+<p>Y vamos a seguir con todos los proyectos de construcci&oacute;n: de trenes, de vialidades. Lo m&aacute;s importante: va a seguir habiendo separaci&oacute;n entre el poder pol&iacute;tico y el poder econ&oacute;mico. Vamos a seguir gobernando por el pueblo y para el pueblo.</p>
+
+<p>Muchas gracias a todos y a todas.</p>
+
+<p>&iexcl;Que viva el presidente Andr&eacute;s Manuel L&oacute;pez Obrador!</p>
+
+<p>&iexcl;Que viva Morelos!</p>
+
+<p>&iexcl;Que viva M&eacute;xico!</p>
+
+<p>&iexcl;Que viva M&eacute;xico!</p>
+
+<p>&iexcl;Que viva M&eacute;xico!</p>
+
+<p>MODERADORA:&nbsp;Estimado p&uacute;blico, escuchemos el mensaje que nos dirige el presidente constitucional de los Estados Unidos Mexicanos, licenciado Andr&eacute;s Manuel L&oacute;pez Obrador.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Amigas, amigos:</p>
+
+<p>Me da mucho gusto estar con ustedes esta tarde, regresar a Tlaquiltenango, a Morelos, este estado con tanta historia y con tanta cultura, y estar aqu&iacute; con ustedes en compa&ntilde;&iacute;a de la presidenta electa de M&eacute;xico.</p>
+
+<p>Nada m&aacute;s, si recordamos que&hellip; Hasta donde sabemos, porque puede ser que sea desde mucho tiempo atr&aacute;s, pero s&oacute;lo lo que nos consta, porque hay pruebas documentales: desde hace 500 a&ntilde;os no gobernaba nuestro pa&iacute;s una mujer.</p>
+
+<p>Imag&iacute;nense el momento que estamos viviendo: 300 a&ntilde;os de dominaci&oacute;n colonial, nos mandan de Espa&ntilde;a los reyes a los llamados virreyes para gobernar lo que se conoc&iacute;a como la Nueva Espa&ntilde;a; nunca se dignaron los monarcas espa&ntilde;oles, nunca visit&oacute; nuestro pa&iacute;s un rey en 300 a&ntilde;os, en tres siglos, siempre eran virreyes y, desde luego, hombres.</p>
+
+<p>Afortunadamente, llegaron las &oacute;rdenes franciscanas y dominicas, y gracias a eso se mantuvieron tradiciones, costumbres que hoy nos han salvado de muchas calamidades, porque son nuestras culturas, el M&eacute;xico profundo lo que nos ha ayudado siempre a enfrentar adversidades, inundaciones, temblores, epidemias, malos gobiernos y siempre M&eacute;xico sale adelante por su fortaleza cultural.</p>
+
+<p>Cuando se logr&oacute; la Independencia, porque dos curas buenos, rebeldes, lucharon por la justicia y tambi&eacute;n para que M&eacute;xico se convirtiera en un pa&iacute;s libre y soberano, Hidalgo y Morelos.</p>
+
+<p>Hidalgo, no hay que olvidarlo, no s&oacute;lo luch&oacute; por la independencia pol&iacute;tica; fue el primero en proclamar la abolici&oacute;n de la esclavitud.Por eso con sa&ntilde;a los oligarcas de ese entonces lo asesinaron y le cortaron&nbsp;la cabeza, y como escarmiento exhibieron su cabeza 10 a&ntilde;os en la plaza principal de Guanajuato, porque se hab&iacute;a atrevido a luchar por la justicia, se hab&iacute;a atrevido a plantear que se aboliera la esclavitud.</p>
+
+<p>Y el otro cura, Morelos, que este estado lleva su nombre, lo mismo, &eacute;l lo sustituy&oacute; y dict&oacute;, porque no lo escribi&oacute;, dict&oacute; un documento que se llama los&nbsp;Sentimientos de la naci&oacute;n, se lo dict&oacute; a un abogado, Andr&eacute;s Quintana Roo, y f&iacute;jense lo que dice ese documento, de manera muy sencilla le dec&iacute;a: &lsquo;Licenciado, usted que es un hombre de letras, ponga ah&iacute;, pero h&aacute;galo como usted sabe escribirlo, ponga ah&iacute; que se modere la indigencia y la opulencia&rsquo;. Le dec&iacute;a Quintana Roo: &lsquo;Pero no hace falta agregarle nada, as&iacute; lo voy a escribir&rsquo;.</p>
+
+<p>Y le dec&iacute;a: &lsquo;Ponga que se eleve el salario del pe&oacute;n&rsquo;. F&iacute;jense cu&aacute;ntas palabras. Si se le pide a un economista ahora, &iquest;no?, que justifique que hay que aumentar los salarios de los trabajadores, a lo mejor se lleva un a&ntilde;o escribiendo un tratado, o dos tomos, y ac&aacute; de manera sencilla, &lsquo;que se eleve el salario del pe&oacute;n&rsquo;.</p>
+
+<p>Le dice Morelos: &lsquo;Que se eduque al hijo del campesino y al hijo del barretero &mdash;los que trabajaban en las minas&mdash; que se eduque al hijo del campesino, al hijo del barretero igual que al hijo del m&aacute;s rico hacendado;&nbsp;que haya tribunales que defiendan al d&eacute;bil de los abusos que comete el fuerte&rsquo;. Eso es lo que dec&iacute;a Morelos.</p>
+
+<p>Por eso, cuando lucha aqu&iacute;, en Cuautla&hellip; &iquest;Se acuerdan del versito ese de que &lsquo;por un cabo doy un real, por un soldado un tost&oacute;n, por mi general Morelos doy todo mi coraz&oacute;n&rsquo;?</p>
+
+<p>Por eso nos da mucho gusto estar aqu&iacute;.</p>
+
+<p>Aqu&iacute; tambi&eacute;n estuvo Ju&aacute;rez, aqu&iacute; luch&oacute; por la justicia en Tetecala, estuvo Ju&aacute;rez con Juan &Aacute;lvarez, de Guerrero que tambi&eacute;n luch&oacute; en contra de la tiran&iacute;a de Santa Anna para liberar a nuestro pueblo. Y, desde luego, Emiliano Zapata.</p>
+
+<p>F&iacute;jense c&oacute;mo era Zapata, que ten&iacute;a al principio muy buena amistad con el Ap&oacute;stol de la Democracia, con Francisco I. Madero, pero las intrigas los separaron. Adem&aacute;s, Madero era un hombre bueno que cre&iacute;a que todo se pod&iacute;a resolver solo garantizando la libertad y no le daba la importancia que ten&iacute;a la lucha de los campesinos por la tierra, porque &eacute;l era norte&ntilde;o, y es otra la cultura agraria en el norte que en el sur o en el sureste.</p>
+
+<p>Se llevaban bien al principio, muy bien, y los separaron, y era la &uacute;nica posibilidad que ten&iacute;a Madero de que triunfara la democracia y que no lo asesinaran, como lo hicieron una pandilla de rufianes que lo sacrific&oacute;;&nbsp;s&oacute;lo teniendo la base campesina pod&iacute;a llevar a cabo su transformaci&oacute;n. Esa lecci&oacute;n nosotros la aprendimos muy bien, porque no se puede transformar sin el apoyo del pueblo, s&oacute;lo el pueblo puede salvar al pueblo. Con el pueblo,&nbsp;todo;&nbsp;sin el pueblo,nada.</p>
+
+<p>Madero,&nbsp;siendo un hombre bueno, se qued&oacute; solo porque no se cumplieron los postulados del Plan de San Luis de devolver la tierra que los hacendados le hab&iacute;an quitado a los campesinos.</p>
+
+<p>Y cuando se llevaban bien, sin malas intenciones, Madero le dice a Zapata: &lsquo;Oiga, usted ha ayudado mucho, mucho, mucho en la revoluci&oacute;n&rsquo;. Y de manera ingenua, y yo digo que sin ofender y sin querer comprarlo, le dice: &iquest;Por qu&eacute; no consigue, por qu&eacute; no busca una hacienda en Morelos?&nbsp;Y&nbsp;el gobierno la va a comprar para usted&rsquo;.</p>
+
+<p>Y la respuesta de Zapata fue&nbsp;muy fuerte y muy clara: &lsquo;Se&ntilde;or Madero, yo no fui a la revoluci&oacute;n para hacerme hacendado, yo estoy en la revoluci&oacute;n para que se les entregue la tierra a los campesinos&rsquo;. Ese era Zapata.&nbsp;</p>
+
+<p>Entonces, nos da mucho gusto estar aqu&iacute; con ustedes esta tarde y venir a constatar la reconstrucci&oacute;n de este convento bell&iacute;simo, &uacute;nico, de lo mejor del pa&iacute;s, de la &eacute;poca inicial de la Colonia.</p>
+
+<p>Y decirles tambi&eacute;n que estamos muy contentos. Yo confieso que estoy muy contento porque la gente supo defender la causa de la justicia, como se demostr&oacute; hace dos meses. Imag&iacute;nense, ya ando un poco mal de la carrocer&iacute;a, porque estoy aflojado en terracer&iacute;a, pero hace dos meses me cambiaron el motor, traigo motor nuevo.</p>
+
+<p>Estoy muy contento porque van a continuar todos los&nbsp;Programas de Bienestar. Y el pa&iacute;s queda en muy buenas manos. Conozco a Claudia desde hace bastante tiempo. Es una mujer con convicciones, con principios, una mujer honesta. Y por eso me voy yo a jubilar y me voy a contento, s&iacute;, porque ya cierro mi ciclo.</p>
+
+<p>Hoy est&aacute;bamos haciendo cuentas, y ya llevamos bastante tiempo, desde que sal&iacute; de la escuela, desde 1976, ya voy a cumplir, en dos a&ntilde;os, 50 de trabajo con el pueblo. Y, adem&aacute;s de que queda el pa&iacute;s en muy buenas manos, avanzamos mucho con la revoluci&oacute;n de las conciencias, entre todos vamos a defender lo que se ha alcanzado.</p>
+
+<p>Y tambi&eacute;n, no hay que tenerle mucho apego ni al dinero, ni al poder. La felicidad es estar bien con uno mismo, estar con bien con nuestra conciencia y estar bien con el pr&oacute;jimo;&nbsp;esa es la verdadera felicidad.</p>
+
+<p>Por eso me da mucho gusto estar con ustedes.&nbsp;Decirles que es una garant&iacute;a el gobierno que viene, de que van a continuar todos los&nbsp;Programas de Bienestar: el programa de adultos&nbsp;mayores, el programa para personas con discapacidad, las becas para los estudiantes, el apoyo a los campesinos, el apoyo a los j&oacute;venes. Van a continuar todos los programas, pero,&nbsp;adem&aacute;s, ya esos programas,&nbsp;ahora enviamos un paquete de iniciativas de reformas a la Constituci&oacute;n para que se eleven esos programas a derechos constitucionales, se eleven a rango constitucional.</p>
+
+<p>Y ya no tengamos que estar pensando que puede darse un retroceso &mdash;toco este pl&aacute;stico&mdash;, que van a regresar los corruptos, los reaccionarios, no, no, no.</p>
+
+<p>Por eso hay ahora una pol&eacute;mica, no quieren aceptar que el movimiento de transformaci&oacute;n obtuvo mayor&iacute;a calificada para&nbsp;el&nbsp;plan C, para reformar la Constituci&oacute;n en beneficio del pueblo.&nbsp;</p>
+
+<p>Porque ya hasta les deber&iacute;a de dar verg&uuml;enza. Durante todo el periodo neoliberal o&nbsp;neoporfirista, 36 a&ntilde;os, desde 1983 hasta el 2018, 36 a&ntilde;os &mdash;porque Porfirio D&iacute;az, el porfiriato fueron 34 a&ntilde;os, estos fueron 36 a&ntilde;os&mdash;,&nbsp;todas las reformas que hicieron a la Constituci&oacute;n fueron para beneficiar a una minor&iacute;a rapaz, todas en contra del pueblo; y ya lleg&oacute; la hora de que sea al rev&eacute;s, que primero el pueblo.</p>
+
+<p>La democracia aut&eacute;ntica, el poder del pueblo y para el pueblo. Porque nos hablaban de que viv&iacute;amos en una democracia; mentira, era una oligarqu&iacute;a, era el gobierno en beneficio de una minor&iacute;a con fachada de democracia,&nbsp;nada m&aacute;s con elecciones cada tres, cada seis a&ntilde;os, y eso con todos los riesgos de que hicieran fraude, como nos lo hicieron varias veces.</p>
+
+<p>Bueno, pero solamente para legalizar, legitimar, el poder de una minor&iacute;a. Eso no era democracia aut&eacute;ntica. Solamente cuando hab&iacute;a elecciones es que volteaban a ver al pueblo, era cuando llegaban a las comunidades, a los ejidos, a las colonias, a entregar migajas, a repartir despensas, frijol con&nbsp;gorgojo, pollos, patos, chivos, borregos, puercos, cochinos, marranos, cerdos. Pasaba la elecci&oacute;n &mdash;hasta dinero en efectivo&mdash;,&nbsp;pasaba la elecci&oacute;n y ya no le volv&iacute;an a ver ni el pelo a los gobernantes, hasta humillaban despu&eacute;s a la gente cuando iba a los palacios municipales o al palacio de gobierno, o a hacer una gesti&oacute;n en el gobierno federal. Entonces, eso ya se acab&oacute;, ahora es el pueblo de M&eacute;xico el que manda, esta es la Cuarta Transformaci&oacute;n.&nbsp;</p>
+
+<p>&iexcl;Que viva Morelos!</p>
+
+<p>&iexcl;Que viva Zapata!</p>
+
+<p>&iexcl;Viva M&eacute;xico!</p>
+
+<p>&iexcl;Viva M&eacute;xico!</p>
+
+<p>&iexcl;Viva M&eacute;xico!</p>
+
+<p>MODERADORA:&nbsp;Procedemos con el corte de list&oacute;n inaugurar de la parroquia Santo Domingo de Guzm&aacute;n a cargo del presidente de los Estados Unidos Mexicanos, licenciado Andr&eacute;s Manuel L&oacute;pez Obrador; la presidenta electa, doctora Claudia Sheinbaum Pardo, e integrantes del pres&iacute;dium.</p>
+
+<p>(CORTE DE LIST&Oacute;N)</p>
+
+<p>MODERADORA:&nbsp;Les solicitamos guardar el debido respeto para entonar nuestro Himno Nacional Mexicano.</p>
+
+<p>(HIMNO NACIONAL MEXICANO)</p>
+
+<p>---</p>
+</div>
+      </div>
+
+      <div class="col-md-4 col-xs-12 pull-right">
+
+
+
+
+          <div id="survey" class="survey-popup small-top-buffer">
+	<div class="row">
+  <a class="fire">
+    <span class="title">Contesta nuestra encuesta de satisfacción.</span>
+		<i style="color: white" class="fas fa-poll"></i>
+  </a>
+  <hr>
+  
+  <div class="survey col-sm-12 clearfix">
+	<form id="survey-form">
+	  <div class="survey-form">
+	  <fieldset id="query_1">
+		<legend>¿Cómo fue tu experiencia en gob.mx?</legend>
+		<div id="Q_A" class="btn-group row">
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncGood" class="ga-survey" value="Feliz" title="Satisactorio">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-good.svg" alt="">
+		  	</button>
+		  </div>
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncReg" class="ga-survey" value="Neutral" title="Neutral">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-neutral.svg" alt="">
+		  	</button>
+		  </div>
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncBad" class="ga-survey" value="Triste" title="No satisactorio">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-bad.svg" alt="">
+		  	</button>
+		  </div>
+		</div>
+	  </fieldset>
+	  <fieldset id="query_1_a" class="hidden">
+	  	<legend>¿Fue fácil encontrar lo que buscabas?</legend>
+	  	<div id="Q_B" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R1" value="1">
+	  		<label for="A_R">Muy Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R2" value="2">
+	  		<label for="A_R">Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R3" value="3">
+	  		<label for="A_R">Difícil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R4" value="4">
+	  		<label for="A_R">Muy Difícil</label>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_s" class="hidden">
+	  	<legend>¿De qué estado de la República nos visitas?</legend>	  	
+	  	<div class="col-md-12">
+  	  		<div class="form-group" style="margin-bottom: 114px;">
+  	  			<select id="estados" class="form-control"></select>
+  	  		</div>
+  	  		<div class="form-group">
+  	  			<button type="button" class="Q_S_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  		</div>
+  	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_alt" class="hidden">
+		<legend>¿Qué buscabas?</legend>
+	  	<div id="Q_I" class="clearfix">
+	  	  <div class="col-sm-12">
+	  		<textarea id="txtA" class="form-control" rows="6" maxlength="250" style="font-size: 14px; width: 100%;"></textarea>
+	  		<span class="small">Máximo 250 caracteres</span>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+  	  	  <button type="button" class="Q_I_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_b" class="hidden">
+	  	<legend>¿Qué te gustó más?</legend>
+	  	<p class="small">Puedes seleccionar más de uno.</p>
+	  	<div id="Q_C" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R1" type="checkbox" name="A_R" value="1">
+	  		<label for="A_R">La información es clara y precisa</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R2" type="checkbox" name="A_R" value="2">
+	  		<label for="A_R">El diseño es agradable</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R3" type="checkbox" name="A_R" value="3">
+	  		<label for="A_R">Está bien organizado</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R4" type="checkbox" name="A_R" value="4">
+	  		<label for="A_R">Es sencillo navegar</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R5" type="checkbox" name="A_R" value="5">
+	  		<label for="A_R">El lenguaje es amigable</label>
+	  	  </div>
+	  	  <div class="clearfix">
+	  	  	<button type="button" class="Q_C_btn btn btn-primary btn-small pull-right">Siguiente</button>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_c" class="hidden">
+	  	<legend>¿Recomendarías nuestro portal a un amigo o familiar?</legend>
+	  	<div id="Q_D" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="radEncC_R1" type="radio" name="A_R" value="4">
+	  		<label for="A_R">Si</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncC_R2" type="radio" name="A_R" value="1">
+	  		<label for="A_R">No</label>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+        <button type="button" class="btn-finalizar btn btn-primary btn-small pull-right" style="margin-left: 8px; margin-top: 2px;" disabled>Finalizar</button>
+        <img src="https://framework-gb.cdn.gob.mx/assets/images/oval-white.svg" class="pull-right hidden loading">
+      </div>
+	  </fieldset>
+
+	  <fieldset id="query_2" class="hidden">
+		<legend>¿Fue fácil encontrar lo que buscabas?</legend>
+	  	<div id="Q_F" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R1" type="radio" name="A_R" value="1">
+	  		<label for="A_R">Muy Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R2" type="radio" name="A_R" value="2">
+	  		<label for="A_R">Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R3" type="radio" name="A_R" value="3">
+	  		<label for="A_R">Difícil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R4" type="radio" name="A_R" value="4">
+	  		<label for="A_R">Muy Difícil</label>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_2_b" class="hidden">
+	  	<legend>¿Qué mejorarías?</legend>
+	  	<p class="small">Puedes seleccionar más de una opción.</p>
+	  	<div id="Q_G" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A1" type="checkbox" name="A_R" value="1">
+	  		<label for="A_R">Diseño</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A2" type="checkbox" name="A_R" value="2">
+	  		<label for="A_R">Navegación dentro del sitio</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A3" type="checkbox" name="A_R" value="3">
+	  		<label class="too-long" for="A_R">Claridad y precisión de la información</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A4" type="checkbox" name="A_R" value="4">
+	  		<label for="A_R">Organización de los contenidos</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A5" type="checkbox" name="A_R" value="5">
+	  		<label for="A_R">Lenguaje utilizado</label>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">	  	  
+	  	  <button type="button" class="btn-finalizar btn btn-primary btn-small pull-right" style="margin-left: 8px; margin-top: 2px;" disabled>Finalizar</button>
+	  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/oval-white.svg" class="hidden pull-right loading">
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_2_alt" class="hidden">
+		<legend>¿Qué buscabas?</legend>
+	  	<div id="Q_H" class="clearfix">
+	  	  <div class="col-sm-12">
+	  		<textarea id="txtA1" class="form-control" rows="6" maxlength="250" style="font-size: 14px; width: 100%;"></textarea>
+	  		<span class="small">Máximo 250 caracteres</span>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+  	  	  <button type="button" class="Q_H_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  	</div>
+	  </fieldset>
+
+	</div>
+	<p class="hidden survey-thanks" style="text-align: center; color: white; font-weight: 700;">Gracias por tu opinión.</p>
+	</form>
+
+  </div>
+</div>
+</div>
+
+<script type="text/javascript">
+$(function() {
+  var c = 0;
+  var fin = 0;
+  var tipo_cara = "";
+  var page_type = "Articulos";
+  var triggered = false;
+  var answers = {};
+  var properties = {};
+  var organization = "presidencia";
+  var section = "Blog";
+  var lang = "es";
+  properties.published_on = "2024-07-26 18:07:00 -0600";
+  properties.title = "Versión estenográfica. Evaluación del Programa Nacional de Reconstrucción";
+  properties.path = "/presidencia/es/articulos/version-estenografica-evaluacion-del-programa-nacional-de-reconstruccion";
+  properties.referer = "";
+  properties.viewfinder = navigator.userAgent.toLowerCase();
+  properties.screens = screen.width;
+  properties.device = screen.width;
+
+  $.getJSON('https://www.gob.mx/vun/estados?filter[order]=nombre%20ASC', function (selectOptions) {
+    for( var i = 0; i < selectOptions.length; i ++) {
+      var selectOptionsJSON = selectOptions[i];
+      $('#estados').append('<option value="'+ selectOptionsJSON.nombre +'">'+ selectOptionsJSON.nombre +'</option>');
+    }
+    $('#estados').append('<option value="Otro">Otro</option>')
+  });
+
+  $('.fire').click(function(event) {
+    $('.survey-popup').css({'height':'440px'});
+  });
+
+  $('#Q_A').find('button').click(function(event) {
+  	$('#query_s').removeClass('hidden');
+  	$("#query_1").addClass('hidden');
+  	answers.q1 = $(this).attr('id');
+  });
+
+  $(".ga-survey").click(function () {
+    tipo_cara = $(this).val();
+    var interval_time = [30];
+    (function timer () {
+      if (c < 1) {
+        setTimeout(function () {
+           if(fin < 1) {
+             set_ga("Inconclusa");
+             timer();
+           }
+        }, interval_time[c] * 1000);
+      }
+      c++;
+    })();
+  });
+
+  $('.Q_S_btn').click(function(event) {
+    if( answers.q1 === "radEncGood") {
+      $("#query_s").addClass('hidden');
+      $("#query_1_a").removeClass('hidden');
+    } else if(answers.q1 === "radEncReg" || answers.q1 === "radEncBad") {
+      $("#query_s").addClass('hidden');
+      $("#query_2").removeClass('hidden');
+    } else { }
+    // answers.q1 = $('#Q_A').find('button').attr('id');
+  });
+
+  $('#Q_B').find('input').click(function(event) {
+  	if( $(this).attr('id') === 'radEncA_R3' || $(this).attr('id') === 'radEncA_R4' )  {
+  	  $("#query_1_a").addClass('hidden');
+	  $("#query_1_alt").removeClass('hidden');
+  	} else {
+  	  $("#query_1_a").addClass('hidden');
+	  $("#query_1_b").removeClass('hidden');	
+  	}	
+	answers.q2 = $(this).attr('id');
+  });
+
+  $('.Q_I_btn').click(function(event) {
+  	event.preventDefault();
+  	$("#query_1_alt").addClass('hidden');
+	$("#query_1_b").removeClass('hidden');
+	answers.q5 = $('#txtA').val().substring(0, 250);
+  });
+
+  $('#Q_C').find('button').click(function(event) {
+	$("#query_1_b").addClass('hidden');
+	$("#query_1_c").removeClass('hidden');
+	var q3_array = [];
+	$('#Q_C').find('input:checked').each(function(index, el) {
+	  q3_array.push($(el).attr('id'));
+	});
+	answers.q3 = q3_array;
+  });
+
+  $('#Q_D').find('input').change(function(event) {
+  	answers.q4 = $(this).attr('id');
+  	$('.btn-finalizar').attr('disabled', false);
+  });
+
+  $('#Q_F').find('input').click(function(event) {
+	
+	answers.q2 = $(this).attr('id');
+
+	if( $(this).attr('id') === 'rdEncA_R3' || $(this).attr('id') === 'rdEncA_R4' ) {
+	  $("#query_2").addClass('hidden');
+	  $("#query_2_alt").removeClass('hidden');
+	} else {
+	  $("#query_2").addClass('hidden');
+	  $("#query_2_b").removeClass('hidden');
+	}
+  });
+
+  $('#Q_G').find('input').change(function(event) {
+  	if($('#Q_G').find('input:checked').length > 0) {
+	  $('.btn-finalizar').attr('disabled', false);
+    }
+    var q2_array = [];
+    $('#Q_G').find('input:checked').each(function(index, el) {
+	  q2_array.push($(el).attr('id'));
+	});
+	answers.q3 = q2_array;
+  });
+
+  $('.Q_H_btn').click(function(event) {
+  	event.preventDefault();
+  	$("#query_2_alt").addClass('hidden');
+	$("#query_2_b").removeClass('hidden');
+	answers.q5 = $('#txtA1').val().substring(0, 250);
+  });
+
+  $('.btn-finalizar').click(function (event) {
+    fin++;
+    $.ajax({
+      url: '/encuesta-satisfaccion',
+      type: 'post',
+      dataType: 'json',
+      data: { section: section, lang: lang, properties: properties, answers: answers },
+      beforeSend: function() {
+        $('.loading').removeClass('hidden');
+      },
+      success: function(data) {
+        set_ga("Finalizada");
+
+        $('.survey').hide();
+        $('.survey-popup').css({'height':'60px','background-color':'#dff0d8','border':'1px solid #d6e9c6'});
+        $('.survey-popup .title').text('Gracias por tu participación.').css({'color':'#3c763d'});
+        $('#icon-survey').removeClass('fa-file-text-o').addClass('fa-check-circle').css({'color':'#3c763d'});
+        setTimeout(function() {
+          $('.survey-popup').fadeOut('800');
+        }, 1600);
+      }
+    });
+  });
+
+  function set_ga(estatus) {
+    var pages_group = "Gobierno";
+    var organization_name = "presidencia";
+
+    console.log("Entro a apartado de encuesta de satisfacción. Estatus: "+ estatus);
+    console.log("Pages group: "+pages_group);
+    console.log("Sub group: "+organization_name);
+    console.log("Page type: "+page_type);
+    console.log("Face: "+tipo_cara);
+
+      console.log("Rails.env.production");
+      //Código GA para encuesta de satisfacción.
+		gtag('set', 'dimension14', pages_group);
+		gtag('set', 'dimension15', organization_name);
+		gtag('set', 'dimension16', page_type);
+		gtag('send', 'event', 'Encuesta de satisfacción', tipo_cara ,estatus);
+		gtag('set', 'dimension14', null);
+		gtag('set', 'dimension15', null);
+		gtag('set', 'dimension16', null);
+  }
+
+  $('#subscribe-survey').click(function(event) {
+	event.preventDefault();
+    var email = $("#email-survey").val();
+    var state = $('#estados').val();
+
+    if (email !== '' || email !== undefined) {
+	    try {
+	      $.ajax({
+	        url: "/subscribe",
+	        type: 'post',
+	        dataType: 'json',
+	        data : { email: {address: email} },
+	        success: function (data) {
+	            $('#responseSignup').html(data.message);
+	        },
+	        error: function (data) {
+	            $('#responseSignup').html(data.message);
+	        }
+	      });
+	    }catch(e){
+	      $("#responseEmail").innerText(e);
+	    }
+
+	    $.ajax({
+	    	url: '/signups',
+	    	type: 'POST',
+	    	dataType: 'json',
+	    	data: { section: section, lang: lang, properties: properties },
+	    	success: function() {
+	    		//console.log('exito');
+	    	}
+	    });
+	} else {
+		$('#responseSignup').html('Por favor llena todos los campos.');
+	}
+  });
+
+  $('#survey-form').submit(function(event) {
+    event.preventDefault();
+  });
+});
+</script>
+
+      </div>
+      <div class="col-sm-7 pull-left">
+        <div class="share-buttons clearfix vertical-buffer">
+  <div class="col-md-2"> <a class="twitter-share-button" data-url="https://www.gob.mx/presidencia/articulos/version-estenografica-evaluacion-del-programa-nacional-de-reconstruccion" data-text="Versión estenográfica. Evaluación del Programa Nacional de Reconstrucción"></a></div>
+  <div class="col-md-2">
+    <div class="fb-share-button" data-href="https://www.gob.mx/presidencia/articulos/version-estenografica-evaluacion-del-programa-nacional-de-reconstruccion" data-layout="button_count" data-size="small" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://www.gob.mx/presidencia/articulos/version-estenografica-evaluacion-del-programa-nacional-de-reconstruccion&amp;src=sdkpreparse">Compartir</a></div>
+  </div>
+</div>
+
+  <script type="text/javascript">
+    (function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v2.7";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+    
+    var pages_group = "Gobierno";
+    var page_type = "Artículos";
+    var organization_name = "presidencia";
+    var title_content = "Versión estenográfica. Evaluación del Programa Nacional de Reconstrucción";
+
+     window.twttr = (function (d,s,id) {
+       var t, js, fjs = d.getElementsByTagName(s)[0];
+       if (d.getElementById(id)) return; js=d.createElement(s); js.id=id;
+       js.src="//platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs);
+       return window.twttr || (t = { _e: [], ready: function(f){ t._e.push(f) } });
+     }(document, "script", "twitter-wjs"));
+
+     function trackTwitter(intent_event) {
+       if (intent_event) {
+         if (intent_event.target && intent_event.target.nodeName == 'IFRAME') {
+           console.log("Metrica Compartir Twitter - "+title_content);
+           console.log("Organization: "+organization_name);
+           console.log("Page type: "+page_type);
+           console.log("Title content: "+title_content);
+           ga('set', 'dimension14', pages_group);
+           ga('set', 'dimension15', organization_name);
+           ga('set', 'dimension16', page_type);
+           ga('send', 'event', 'Compartir en redes sociales', 'Twitter', title_content);
+           ga('set', 'dimension14', null);
+           ga('set', 'dimension15', null);
+           ga('set', 'dimension16', null);
+         }
+       }
+     }
+  </script>
+  <script type="text/javascript">
+     twttr.ready(function (twttr) {
+       twttr.events.bind('tweet', trackTwitter);
+     });
+  </script>
+
+
+      </div>
+    </div>
+    <div class="row top-buffer">
+  <div class="col-md-8">
+    <hr>
+    <div class="print col-ms-12 col-md-12 col-xs-12">
+      <span class="icon-printing"></span>
+      <a href="#">Imprime la página completa</a>
+        <p class="small" style="font-size: 14px; line-height: 1.6em;">
+          La legalidad, veracidad y la calidad de la información es estricta responsabilidad de la dependencia, entidad o empresa productiva del Estado que la proporcionó en virtud de sus atribuciones y/o facultades normativas.
+        </p>
+    </div>
+  </div>
+</div>
+
+  </div>
+  <input type="hidden" id="page_type" name="page_type" value="Articulos">
+  <input type="hidden" id="organization_name" name="organization_name" value="presidencia">
+</main>
+<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+
+<footer class="main-footer">
+  <div class="list-info">
+    <div class="container">
+
+      <div class="col-sm-3">
+        <img  src="https://framework-gb.cdn.gob.mx/landing/img/logoheader.svg"  href="/" alt="logo gobierno de méxico" class="logo_footer" style="max-width: 90%; margin-left: -27px;   margin-top: 12px;">
+      </div>
+      <div class="col-sm-3">
+        <h2>Enlaces</h2>
+        <ul>
+         <!-- <li><a  href="http://www.participa.gob.mx">Participa</a></li> -->
+          <li><a  href="https://datos.gob.mx/">Datos</a></li>
+          <li><a href="https://www.gob.mx/publicaciones" target="_blank" rel="noopener" title="Enlace abre en ventana nueva">Publicaciones </a></li>
+
+                  <li><a class="footer" href="https://consultapublicamx.plataformadetransparencia.org.mx/vut-web/faces/view/consultaPublica.xhtml?idEntidad=MzM=&amp;idSujetoObligado=MTAwMDE=#inicio" id="Transparencia" target="blank" title="Enlace abre en ventana nueva">Portal de Obligaciones de Transparencia</a></li>
+
+                  <li><a class="footer" href="https://www.infomex.org.mx/gobiernofederal/home.action" id="PNT" target="blank" title="Enlace abre PNT en ventana nueva">PNT</a></li>
+
+                  <li><a class="footer" href="http://www.inai.org.mx/" id="INAI" target="blank" title="Enlace abre sitio INAI en ventana nueva">INAI</a></li>
+
+          <li><a class="footer" id="INAI" href="http://alertadores.funcionpublica.gob.mx/" target="_blank" rel="alertadores">Alerta</a></li>
+          <li><a class="footer" id="SIDEC" href="http://sidec.funcionpublica.gob.mx/" target="_blank" rel="sidec">Denuncia</a></li>
+           </ul>
+      </div>
+      <div class="col-sm-3">
+        <h2>¿Qué es gob.mx?</h2>
+        <p>Es el portal único de trámites, información y participación ciudadana.  <a href="/que-es-gobmx" style="text-decoration: none;">Leer más </a></p>
+        <ul>
+
+        
+            <li><a href='http://www.gob.mx/epn'> Administraciones anteriores  </a></li>
+          <li><a href="/accesibilidad">Declaración de Accesibilidad</a></li>
+          <li><a href="/privacidadintegral">Aviso de privacidad</a></li>
+          <li><a href="/privacidadsimplificado">Aviso de privacidad simplificado</a></li>
+          <li><a href="/terminos">Términos y Condiciones </a></li>
+          <li><a href="/terminos#medidas-seguridad-informacion">Política de seguridad</a></li>
+          <li><a class="footer" id="Marco Juridico" href="http://www.ordenjuridico.gob.mx" target="_blank" rel="noopener" title="Enlace abre en ventana nueva">Marco jurídico</a></li>
+          <li><a href="/sitemap">Mapa de sitio</a></li>
+        </ul>
+      </div>
+      <div class="col-sm-3">
+        </p>
+        <h2>Síguenos en </h2>
+        <ul class="list-inline">
+          <li>
+            <a id="Facebook" href="https://www.facebook.com/gobmexico" target="_blank" rel="noopener" class="sendEst share-info footer" title="enlace a facebook abre en una nueva ventana">
+              <img alt="Facebook" src="https://framework-gb.cdn.gob.mx/landing/img/facebook.png" />
+            </a>
+          </li>
+          <li>
+            <a id="Twitter" href="https://twitter.com/GobiernoMX" target="_blank" rel="noopener" class="sendEst share-info footer" title="Enlace a twitter abre en una nueva ventana">
+              <img alt="Twitter" src="https://framework-gb.cdn.gob.mx/landing/img/twitter.png" />
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+  </div>
+  </div>
+
+  <div class="container-fluid footer-pleca">
+    <div class="row">
+      <div class="col">
+        <br><br>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script type="text/javascript">
+      $("a.footer").click(function () {
+          var pagina_sitio = window.location.pathname;
+          var outbound_link = $(this).attr("id");
+          var subgrupo_paginas = "presidencia";
+          var page_type = "Home";
+          var pages_group = "Gobierno";
+          if($("#page_type").length > 0){ page_type = $("#page_type").val(); }
+
+          console.log("Metrica links externos footer - "+outbound_link);
+          gtag('set', 'dimension14', pages_group);
+          gtag('set', 'dimension15', subgrupo_paginas);
+          gtag('set', 'dimension16', page_type);
+          gtag('send', 'event', 'Outbound link - Footer', outbound_link, pagina_sitio);
+          gtag('set', 'dimension14', null);
+          gtag('set, ‘dimension15', null);
+      })
+  </script>
+
+<input class="hidden" id="route" value="/presidencia/es/articulos/version-estenografica-evaluacion-del-programa-nacional-de-reconstruccion" type="hidden" >
+<!-- div id="fb-root"></div -->
+
+
+
+
+
+  <!-- Begin comScore Tag -->
+  <script>
+      var _comscore = _comscore || [];
+      _comscore.push({ c1: "2", c2: "17183199" });
+      (function() {
+          var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+          s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+          el.parentNode.insertBefore(s, el);
+      })();
+  </script>
+  <noscript>
+    <img src="https://sb.scorecardresearch.com/p?c1=2&c2=17183199&cv=2.0&cj=1" />
+  </noscript>
+  <!-- End comScore Tag -->
+
+  <script src="https://sb.scorecardresearch.com/c2/17183199/ct.js"></script>
+
+
+  <script type="text/javascript">
+
+      var _sf_startpt=(new Date()).getTime();
+      var _sf_async_config = { uid: 43659, domain: 'www.gob.mx', useCanonical: true } ;
+      (function() {
+          function loadChartbeat() { window._sf_endpt = (new Date()).getTime(); var e = document.createElement('script'); e.setAttribute('language', 'javascript'); e.setAttribute('type', 'text/javascript'); e.setAttribute('src','//static.chartbeat.com/js/chartbeat.js'); document.body.appendChild(e); };
+          var oldonload = window.onload;
+          window.onload = (typeof window.onload != 'function') ?
+              loadChartbeat : function()
+              { oldonload(); loadChartbeat(); };
+      })();
+      var ele = "/presidencia/es/articulos/version-estenografica-evaluacion-del-programa-nacional-de-reconstruccion";
+      if( "#{(@organization_site.present? ? @organization_site.category : 'gobmx')}" == "Campaña") {
+          var siteEls = 'campaign';
+      } else {
+          var siteEls = 'gobierno';
+      }
+
+      for( var i = 1; i < ele.split('/').length; i++ ) {
+          siteEls = siteEls + '.' + ele.split('/')[i];
+      }
+
+      function udm_(e){var t="comScore=",n=document,r=n.cookie,i="",s="indexOf",o="substring",u="length",a=2048,f,l="&ns_",c="&",h,p,d,v,m=window,g=m.encodeURIComponent||escape;if(r[s](t)+1)for(d=0,p=r.split(";"),v=p[u];d<v;d++)h=p[d][s](t),h+1&&(i=c+unescape(p[d][o](h+t[u])));e+=l+"_t="+ +(new Date)+l+"c="+(n.characterSet||n.defaultCharset||"")+"&c8="+g(n.title)+i+"&c7="+g(n.URL)+"&c9="+g(n.referrer),e[u]>a&&e[s](c)>0&&(f=e[o](0,a-8).lastIndexOf(c),e=(e[o](0,f)+l+"cut="+g(e[o](f+1)))[o](0,a)),n.images?(h=new Image,m.ns_p||(ns_p=h),h.src=e):n.write("<","p","><",'img src="',e,'" height="1" width="1" alt="*"',"><","/p",">")};
+      function uid_call(a, b){
+          ui_c2 = 17183199; // your corporate c2 client value
+          ui_ns_site = 'gobmx'; // your sites identifier
+          window.b_ui_event = window.c_ui_event != null ? window.c_ui_event:"",window.c_ui_event = a;
+          var ui_pixel_url = 'https://sb.scorecardresearch.com/p?c1=2&c2='+ui_c2+'&ns_site='+ui_ns_site+'&name='+a+'&ns_type=hidden&type=hidden&ns_ui_type='+b;
+          var b="comScore=",c=document,d=c.cookie,e="",f="indexOf",g="substring",h="length",i=2048,j,k="&ns_",l="&",m,n,o,p,q=window,r=q.encodeURIComponent||escape;if(d[f](b)+1)for(o=0,n=d.split(";"),p=n[h];o<p;o++)m=n[o][f](b),m+1&&(e=l+unescape(n[o][g](m+b[h])));ui_pixel_url+=k+"_t="+ +(new Date)+k+"c="+(c.characterSet||c.defaultCharset||"")+"&c8="+r(c.title)+e+"&c7="+r(c.URL)+"&c9="+r(c.referrer)+"&b_ui_event="+b_ui_event+"&c_ui_event="+c_ui_event,ui_pixel_url[h]>i&&ui_pixel_url[f](l)>0&&(j=ui_pixel_url[g](0,i-8).lastIndexOf(l),ui_pixel_url=(ui_pixel_url[g](0,j)+k+"cut="+r(ui_pixel_url[g](j+1)))[g](0,i)),c.images?(m=new Image,q.ns_p||(ns_p=m),m.src=ui_pixel_url):c.write("<p><img src='",ui_pixel_url,"' height='1' width='1' alt='*'></p>");
+      }
+      udm_('https://sb.scorecardresearch.com/b?c1=2&c2=17183199&ns_site=gobmx&name='+siteEls);
+  </script>
+
+  <noscript>
+    <img src="https://sb.scorecardresearch.com/p?c1=2&amp;c2=17183199&amp;ns_site=gobmx&amp;name=gobierno.presidencia.es.articulos.version-estenografica-evaluacion-del-programa-nacional-de-reconstruccion" height="1" width="1" alt="*" />
+  </noscript>
+<script>
+    let key = '';
+    $(function () {
+
+        $.getJSON("https://framework-gb.cdn.gob.mx/applications/cms/configGobmx.json", function(json) {
+            console.log(json.keyAnalytics); // this will show the info it in firebug console
+            key = json.keyAnalytics;
+            ga('create', key , 'auto', 'GobTracker');
+            ga('GobTracker.require', 'linker');
+            ga('GobTracker.linker:autoLink', ['www.gob.mx']);
+            ga('GobTracker.set', 'contentGroup1', 'Gobierno');
+            ga('GobTracker.set', 'contentGroup2', SubGroup);
+            ga('GobTracker.set', 'contentGroup3', PageType);
+            ga('GobTracker.set', 'dimension14', 'Gobierno');
+            ga('GobTracker.set', 'dimension15', SubGroup);
+            ga('GobTracker.set', 'dimension16', PageType);
+            ga('GobTracker.set', 'dimension13', 'No Registrado');
+            ga('GobTracker.send', 'pageview');
+            ga('GobTracker.set', 'contentGroup1', null);
+            ga('GobTracker.set', 'contentGroup2', null);
+            ga('GobTracker.set', 'contentGroup3', null);
+            ga('GobTracker.set', 'dimension14', null);
+            ga('GobTracker.set', 'dimension15', null);
+            ga('GobTracker.set', 'dimension16', null);
+            ga('GobTracker.set', 'dimension13', null);
+        });
+    });
+</script>
+
+<script src="https://framework-gb.cdn.gob.mx/applications/cms/modal_global_cms.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/gm/accesibilidad/js/gobmx-accesibilidad.min.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick.min.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick-lightbox.js"></script>
+<link rel="stylesheet" href="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick-lightbox.css">
+
+
+<script src="https://framework-gb.cdn.gob.mx/applications/cms/config_dependency.js"></script>
+<script type="text/javascript"  src="/0RVTuHxj0/t/mhEICJIQ/YiOkthVkYSfw/PRc4N0sKYQk/PwhFVTt/GPxQB"></script></body>
+
+</html>
+

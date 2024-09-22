@@ -1,0 +1,1283 @@
+<!DOCTYPE html>
+<html class='no-js' lang='es'>
+<head>
+    <title>
+  Versión estenográfica. Programas para el Bienestar desde Toluca, Estado de México | Presidencia de la República  | Gobierno | gob.mx
+</title>
+
+  <meta charset='UTF-8'>
+  <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#393C3E">
+
+  
+  <meta name="keywords" content="">
+  <meta name="description" content="Acto encabezado por el presidente Andrés Manuel López Obrador desde Toluca, Estado de México
+">
+  <meta name="author" content="Presidencia de la República ">
+
+  <meta content="Versión estenográfica. Programas para el Bienestar desde Toluca, Estado de México" property="og:title" />
+  <meta content="https://www.gob.mxhttps://www.gob.mx/cms/uploads/article/main_image/140537/WhatsApp_Image_2023-12-10_at_3.15.03_PM.jpeg" property="og:image" />
+  <meta content="gob.mx" property="og:site_name" />
+  <meta content="Acto encabezado por el presidente Andrés Manuel López Obrador desde Toluca, Estado de México
+" property="og:description" />
+  <meta content="http://www.gob.mx/presidencia/es/articulos/version-estenografica-programas-para-el-bienestar-desde-toluca-estado-de-mexico?idiom=es" property="og:url" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@gobmx" />
+  <meta name="twitter:title" content="Versión estenográfica. Programas para el Bienestar desde Toluca, E..." />
+  <meta name="twitter:description" content="Acto encabezado por el presidente Andrés Manuel López Obrador desde Toluca, Estado de México
+" />
+  <meta name="twitter:image" content="https://www.gob.mxhttps://www.gob.mx/cms/uploads/article/main_image/140537/WhatsApp_Image_2023-12-10_at_3.15.03_PM.jpeg" />
+
+
+  <meta content="authenticity_token" name="csrf-param" />
+<meta content="tYICdzan0nfL43Kk2LfAQVt1IjLRXXbGCZjT9EHaxM4=" name="csrf-token" />
+
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700,600,300' rel='stylesheet' type='text/css'>
+  <link href='https://framework-gb.cdn.gob.mx/applications/cms/favicon.png' rel='shortcut icon'>
+  <link data-turbolinks-track="true" href="/cms/assets/application.css" media="all" rel="stylesheet" />
+  <link data-turbolinks-track="true" href="https://framework-gb.cdn.gob.mx/gm/accesibilidad/css/gobmx-accesibilidad.min.css" media="all" rel="stylesheet" />
+  
+
+  <!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+  <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+
+ <![endif]-->
+  <script async src="https://www.googletagmanager.com/gtag/js?id="></script>
+  <script src="https://framework-gb.cdn.gob.mx/applications/cms/carrusel/swiper-bundle.min.js"></script>
+
+  <link rel="stylesheet" href="https://framework-gb.cdn.gob.mx/applications/cms/carrusel/swiper-bundle.min.css">
+
+    <script type="text/javascript">
+
+        var SubGroup = '';
+        if(false || false){
+            SubGroup = 'Temas';
+        }else{
+            SubGroup = 'presidencia';
+        }
+        var PageType = '';
+        if(false){
+            PageType = 'Home'
+        }else{
+            if(false){
+                PageType = '';
+            }else {
+                var site = window.location.pathname;
+                var arrayPageType = ["articulos", "prensa", "agenda", "documentos", "multimedia", "galerias", "videos",
+                    "acciones_y_programas", "acciones-y-programas", "mi-foto-con-el-presidente",
+                    "estructuras", "descargables", "que-hacemos", "finanzas", "infografias"];
+
+                if (site.search("archivo") != -1) {
+                    PageType = "archivo_";
+                }
+                for (var i = 0; i < arrayPageType.length; i++) {
+                    if (site.search(arrayPageType[i]) != -1) {
+                        PageType += arrayPageType[i];
+                        break;
+                    }
+                }
+            }
+        }
+
+
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', '');
+
+        gtag('require', 'linker');
+        gtag('linker:autoLink', ['www.gob.mx']);
+        gtag('set', 'contentGroup1', 'Gobierno');
+        gtag('set', 'contentGroup2', SubGroup);
+        gtag('set', 'contentGroup3', PageType);
+        gtag('set', 'dimension14', 'Gobierno');
+        gtag('set', 'dimension15', SubGroup);
+        gtag('set', 'dimension16', PageType);
+        gtag('set', 'dimension13', 'No Registrado');
+        gtag('send', 'pageview');
+        gtag('set', 'contentGroup1', null);
+        gtag('set', 'contentGroup2', null);
+        gtag('set', 'contentGroup3', null);
+        gtag('set', 'dimension14', null);
+        gtag('set', 'dimension15', null);
+        gtag('set', 'dimension16', null);
+        gtag('set', 'dimension13', null);
+
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-144356475-1', 'auto', {'allowLinker':true});
+        ga('require', 'linker');
+        ga('linker:autoLink', ['www.gob.mx']);
+        ga('set', 'contentGroup1', 'Gobierno');
+        ga('set', 'contentGroup2', SubGroup);
+        ga('set', 'contentGroup3', PageType);
+        ga('set', 'dimension14', 'Gobierno');
+        ga('set', 'dimension15', SubGroup);
+        ga('set', 'dimension16', PageType);
+        ga('set', 'dimension13', 'No Registrado');
+        ga('send', 'pageview');
+        ga('set', 'contentGroup1', null);
+        ga('set', 'contentGroup2', null);
+        ga('set', 'contentGroup3', null);
+        ga('set', 'dimension14', null);
+        ga('set', 'dimension15', null);
+        ga('set', 'dimension16', null);
+        ga('set', 'dimension13', null);
+    </script>
+
+
+  <script type = "text/javascript"> console.log(true);
+  var rails_env_prod = true; </script>
+  <script src="/cms/assets/application.js"></script>
+  <script src="/cms/assets/imageReplace.js"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.js"></script>
+
+                              <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("True"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="N3JQ2-2RVHB-WJQMN-CEYEM-ATMWX",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"N3JQ2-2RVHB-WJQMN-CEYEM-ATMWX",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="xxqo3jv567lbgzxpkhda-f-962843601-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"37","ak.cp":"413578","ak.ai":parseInt("270161",10),"ak.ol":"0","ak.cr":12,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"20bcb27e","ak.r":49405,"ak.a2":e,"ak.m":"b","ak.n":"essl","ak.bpcip":"189.224.237.0","ak.cport":29681,"ak.gh":"189.247.214.15","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"reno","ak.t":"1726960070","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==Q0uQRfd6KIuMZN/bfunrjs/QqZIAmMHeG0csEMRmsR0IWnm9Cf/uyKn/8TzlSKtUyXmMJbS7ONLdd1GgrJqEG8ITxWVZBy1pG9gJgrcsB1h9Mt9lNvIkq499mzkNYQnla14zePXI6outtb+wpGogXxJ/Rn8hGWl+VgrBmv2Yr0I0JOHnhU3whiH075kqJlzmVfDwppqt8RSF9Y/8UigEc2kl+IDSij8YR3AvofVlNvKysGGT4dnUpUB0LAhey/Rs9YkX6rDthy6cM+X8q0tBJ9Muigp9DG6KIrFxI0D+a35lCvf/DeVuGkkWt1uZNge+EMNNn8rb0ppNivDFzccpqOSytM/wnGe6PN8olfK1ICdvQmRy1pqVXVnM0TWd5ZHHmq2kSjqAL8tiT7BSaaLMTTm2NjDeXSGuI1w7Vw27hdw=","ak.pv":"113","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+<body>
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v13.0" nonce="MZ2GPb2d"></script><!-- a href="#principal" class="skip">Saltar al contenido principal</a -->
+  <header class=" navbar navbar-inverse">
+    <nav class="navbar navbar-inverse  navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-target="#navbarMainCollapse" data-toggle="collapse">
+            <span class="sr-only">Interruptor de Navegación</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a href="/" style="padding: 1px 3px 3px 3px;" class="navbar-brand " title="Ir a la página inicial">
+
+            <div class="logo-main"></div>
+          </a>
+        </div>
+        <div id="navbarMainCollapse" class="collapse navbar-collapse">
+          <ul class="nav navbar-nav navbar-right">
+           <li><a href="/tramites" title="Trámites">Trámites </a></li>
+            <li><a href="/gobierno" title="Gobierno">Gobierno</a></li>
+                  <li><a href="/presidencia/en" title="Versión en inglés del sitio web">English</a>
+                  </li>
+                </li>
+
+
+            <li>
+              <form accept-charset="UTF-8" action="/busqueda" method="get"><div style="display:none"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+                <input type="hidden" name="site" value="presidencia">
+                <button data-v-6394873e="" id="botonbuscar" type="button" class="btn btn-search"><a data-v-6394873e="" href="https://www.gob.mx/busqueda?utf8=✓" target="_blank" id="botbusca"><img data-v-6394873e="" alt="Buscar" src="https://framework-gb.cdn.gob.mx/landing/img/lupa.png"></a></button>
+</form>            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    
+
+
+        <script src="/cms/assets/level_jump.js"></script><section>
+<!-- Subnavegacion -->
+<nav class=" navbar-inverse sub-navbar fixed-top"
+     >
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#subenlaces">
+        <span class="sr-only">Interruptor de Navegación</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="link-name" href="?tab="></a>
+    </div>
+    <div class="collapse navbar-collapse" id="subenlaces">
+      <ul class="nav subnav navbar-nav navbar-right">
+              <li class="landing-btn">
+                    <a href='/presidencia/es/archivo/prensa'>
+                Comunicados            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='/presidencia/es/#5173'>
+                Directorio            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='https://transparencia.presidencia.gob.mx/presidencia/transparencia/politicas-de-tratamiento-de-datos-personales-de-la-oficina-de-la-presidencia-de-la-republica/'>
+                Protección de Datos Personales            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='https://www.gob.mx/presidencia/transparencia/'>
+                Transparencia            </a>
+            </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+<style>
+  .flag-banner {
+  top: 45px  !important;
+  }
+</style>
+<!-- div class="warning-nav" style="margin-top: 0px;">
+  <div class="container">
+    <div class="row clearfix">
+  <div class="col-xs-12 col-sm-12 col-md-12">Este contenido será modificado temporalmente en atención a las disposiciones legales y normativas en materia electoral, con motivo del inicio de periodo de campaña</div>
+  </div>
+  </div>
+</div -->
+</section>
+
+
+  </header>
+
+
+
+
+
+<main class="inner-page interior ficha">
+  <div class="container">
+  	<ol class="breadcrumb">
+  <li><a href="http://www.gob.mx"><span class="icon icon-home"></span><span class="sr-only">Inicio</span></a></li>
+  <li><a href="/presidencia">Presidencia de la República </a></li>
+  <li class="active">Blog</li>
+</ol>
+  	<div class="">
+      <div aria-hidden="true" class="hidden-xs font-changer internal print" tabindex="-1">
+  <button class="inc-font font-modifier">Aa+</button>
+  <button class="dec-font font-modifier">Aa-</button>
+</div>
+      <div class="marquee-padding">
+      <div class='post-list main-post-list'>
+<div class='marque-float-left'>
+<div class='right_arrow'></div>
+<div class='titulo-pub'>
+<small>Publicaciones Recientes</small>
+</div>
+</div>
+<div>
+<div class='container-marque'>
+<div id='headlines'>
+<div class='marquee'>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-19 13:44:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-19-de-septiembre-de-2024' title='Versió'>
+Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 19 de septiembre de 2024
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-18 12:36:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-18-de-septiembre-de-2024' title='Versió'>
+Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 18 de septiembre de 2024
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-17 13:51:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-entrega-de-estimulos-a-delegaciones-mexicanas-participantes-en-juegos-olimpicos-y-paralimpicos-paris-2024' title='Versió'>
+Versión estenográfica. Entrega de estímulos a delegaciones mexicanas participantes en Juegos Olímpicos y Paralímpicos París 2024
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-17 12:21:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-17-de-septiembre-de-2024' title='Versió'>
+Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 17 de septiembre de 2024
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-16 13:56:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-desfile-civico-militar' title='Versió'>
+Versión estenográfica. Desfile Cívico Militar
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+      </div>
+  	  <div class="col-md-7 col-xs-12 col-sm-12 pull-left" tabindex="0">
+  	  	<h1 class="bottom-buffer">Versión estenográfica. Programas para el Bienestar desde Toluca, Estado de México</h1>
+  	  	<h2>Acto encabezado por el presidente Andrés Manuel López Obrador desde Toluca, Estado de México
+</h2>
+        <section class="">
+          <p>Presidencia de la República  | 10 de diciembre de 2023</p>
+        </section>
+  	  <div class="imagen-principal">
+  	      <img alt="Programas para el Bienestar desde Toluca, Estado de México" class="img-responsive img_curve" src="https://www.gob.mx/cms/uploads/article/main_image/140537/WhatsApp_Image_2023-12-10_at_3.15.03_PM.jpeg" />
+  	      <span class="small">Programas para el Bienestar desde Toluca, Estado de México</span>
+      </div>
+      <div class="article-body"><p><strong>MODERADORA:</strong> Preside este evento, Programas para el Bienestar, el presidente constitucional de los Estados Unidos Mexicanos, licenciado Andr&eacute;s Manuel L&oacute;pez Obrador.</p>
+
+<p>Lo acompa&ntilde;an:</p>
+
+<p>La gobernadora constitucional del Estado de M&eacute;xico, Delfina G&oacute;mez &Aacute;lvarez.</p>
+
+<p>La secretaria de Educaci&oacute;n P&uacute;blica, Leticia Ram&iacute;rez Amaya.</p>
+
+<p>El secretario del Trabajo y Previsi&oacute;n Social, Marath Bola&ntilde;os L&oacute;pez.</p>
+
+<p>El director general de Ingenieros de la Secretar&iacute;a de la Defensa Nacional, general Salvador Fernando Cervantes Loza.</p>
+
+<p>El subsecretario de Egresos de la Secretar&iacute;a de Hacienda y Cr&eacute;dito P&uacute;blico, Juan Pablo de Botton Falc&oacute;n.</p>
+
+<p>La subsecretaria de Ordenamiento Territorial y Agrario, responsable del programa de vivienda, Edna Elena Vega Rangel.</p>
+
+<p>El director general del Banco del Bienestar, V&iacute;ctor Manuel Lamoyi Bocanegra.</p>
+
+<p>La directora general del programa La Escuela es Nuestra, Pamela L&oacute;pez Ruiz.</p>
+
+<p>El coordinador nacional del programa Becas para el Bienestar &lsquo;Benito Ju&aacute;rez&rsquo;, Abraham V&aacute;zquez Piceno</p>
+
+<p>Asimismo, damos la bienvenida a los representantes de los medios de comunicaci&oacute;n y a quienes nos siguen a trav&eacute;s de las redes sociales.</p>
+
+<p>Todas y todos ustedes sean bienvenidos.</p>
+
+<p>Procedemos con el mensaje de bienvenida a cargo de la gobernadora constitucional del Estado de M&eacute;xico, maestra Delfina G&oacute;mez &Aacute;lvarez.</p>
+
+<p><strong>DELFINA G&Oacute;MEZ &Aacute;LVAREZ, GOBERNADORA DEL ESTADO DE M&Eacute;XICO:</strong> Gracias, muchas, muchas gracias. Buenas tardes a todas, a todos ustedes. Muchas gracias. Estoy muy contenta y muy emocionada por estar aqu&iacute; en la capital de nuestro querido estado, y m&aacute;s a&uacute;n, alegre y contenta porque tenemos un invitado muy especial, que es nuestro presidente de la Rep&uacute;blica, el licenciado Andr&eacute;s Manuel L&oacute;pez Obrador.</p>
+
+<p>Presidente, muchas, muchas gracias por acompa&ntilde;arnos hoy, no solamente para saludarnos, sino tambi&eacute;n para hacer una evaluaci&oacute;n de los programas de Bienestar, y tambi&eacute;n para, como siempre lo hace, traernos buenas noticias que ahorita van a escuchar.</p>
+
+<p>Hemos tenido el gusto de tenerlo esta semana, el viernes en Atlacomulco e Ixtlahuaca, el s&aacute;bado en Tejupilco y hoy domingo en Almoloya y ahora aqu&iacute; en Toluca. Muchas gracias por esas visitas que hace al Estado de M&eacute;xico.</p>
+
+<p>Durante las &uacute;ltimas semanas hemos visitado varios municipios para supervisar la ejecuci&oacute;n de los programas de Bienestar en el estado. Esta acci&oacute;n refleja por qu&eacute; la transformaci&oacute;n ha avanzado tanto y ha tenido tanto &eacute;xito en el pa&iacute;s, ya que contamos con un presidente que trabaja incansablemente, y que d&iacute;a con d&iacute;a nos pone el ejemplo. Y no tenemos otra m&aacute;s que echarle tambi&eacute;n nosotros ganas y tener ese compromiso como servidores p&uacute;blicos de trabajar para el pueblo.</p>
+
+<p>Son innumerables las acciones que ha generado en beneficio del pueblo. Pero no se queda ah&iacute;, tambi&eacute;n, adem&aacute;s de esto, se supervisan los trabajos de los programas, tambi&eacute;n supervisa personalmente para garantizar el correcto funcionamiento y trabajo de los proyectos que tiene en movilidad, que se tiene tambi&eacute;n en lo que es el campo, en educaci&oacute;n, en fin. Ha supervisado todas y cada una de las acciones para verificar que se est&aacute; llevando en tiempo y forma. Y esa es la clave, trabajar y revisar de manera directa cada una de las acciones.</p>
+
+<p>Presidente, reconocemos y apreciamos su dedicaci&oacute;n diaria. Y para expresar nuestro reconocimiento, como dicen por ah&iacute;, amor con amor se paga, y vea el reconocimiento que le hace nuestro querido pueblo mexiquense.</p>
+
+<p>El legado hist&oacute;rico que usted est&aacute; dejando en el pa&iacute;s es innegable, y parte de ese legado, insisto, son los programas de Bienestar, que ha sido una herramienta poderosa que ha demostrado ser eficaz para la transformaci&oacute;n, para brindar apoyos directos en favor de la dignidad del pueblo, pero sobre todo para hacer justicia, una justicia que desde hace mucho tiempo no se ve&iacute;a, sobre todo para los m&aacute;s necesitados.</p>
+
+<p>Y entre ellos destacan el programa Pensi&oacute;n para el Bienestar de las Personas Adultas Mayores, que ha beneficiado a casi un mill&oacute;n y medio de personas en el estado y a m&aacute;s de 73 mil aqu&iacute; en Toluca; as&iacute; como los programas de La Escuela es Nuestra, de J&oacute;venes Construyendo el Futuro, de lo que es el Programa para Personas con Discapacidad o lo que es Producci&oacute;n para el Bienestar, fertilizantes, ni&ntilde;as y ni&ntilde;as, Tantas para el Bienestar, Inapam, Conavi, entre otros, todos estos programas.</p>
+
+<p>Nos enorgullece informar que recientemente tambi&eacute;n hemos firmado un convenio con el gobierno, con el presidente, para poder aportar la mitad el Estado de M&eacute;xico, la mitad la federaci&oacute;n, y apoyar a nuestras personas con discapacidad, que ahorita el presidente nos va a comentar c&oacute;mo est&aacute; de manera precisa. Y con este convenio vamos a garantizar el apoyo a personas con discapacidad de manera universal.</p>
+
+<p>Tambi&eacute;n, me complace mucho informarles que recientemente en el Estado de M&eacute;xico lanzamos el programa Mujeres con Bienestar, en donde queremos apoyar en una primera etapa a 400 mil mujeres que realmente lo necesitan y que en pr&oacute;ximos d&iacute;as estaremos entregando este apoyo, y que me da mucho gusto porque es un esfuerzo que se hace para apoyar a nuestras mujeres mexiquenses. Y les pido de favor que difundan esta informaci&oacute;n y que apoyemos a aquellas mujeres que por diversas razones no tuvieron&hellip; O una dificultad para registrarse. Es importante destacar que este beneficio es gratuito y que no tenemos intermediarios para el beneficio de lograr este programa.</p>
+
+<p>Vamos a brindar apoyo tambi&eacute;n a nuestras mujeres, no solamente con una aportaci&oacute;n econ&oacute;mica, sino apoyo sicol&oacute;gico, la cuesti&oacute;n de salud, atenci&oacute;n jur&iacute;dica. Ustedes van a ver que tiene varios beneficios esa tarjeta, y la intenci&oacute;n es para apoyar a las m&aacute;s necesitadas.</p>
+
+<p>Hemos tambi&eacute;n atendido al llamado que nos hace nuestro presidente, de apoyar a nuestros campesinos, apoya a nuestros ejidatarios y a los ciudadanos que no tienen la legalidad o la certeza jur&iacute;dica de contar con un instrumento que es un poderoso factor que permite asegurar la propiedad de una tenencia de tierra. Por eso, se han entregado m&aacute;s de mil 500 t&iacute;tulos de propiedad, proporcionando esa certeza jur&iacute;dica. Y decirles que vamos por m&aacute;s, vamos a seguir trabajando en esas entregas de t&iacute;tulos de propiedad.</p>
+
+<p>Otro trabajo que tambi&eacute;n nos ha pedido nuestro presidente es asegurar y trabajar lo que es el apoyo al desempleo, por eso estamos trabajando el seguro al desempleo, que es otra iniciativa que busca ofrecer tranquilidad a los que no tienen trabajo en tanto se tiene la oportunidad de conseguir un empleo, que eso es lo que est&aacute; haciendo a trav&eacute;s de las ferias del empleo.</p>
+
+<p>Nuestra administraci&oacute;n ha trabajado arduamente en la colaboraci&oacute;n con el gobierno federal en proyectos de infraestructura para fortalecer el Estado de M&eacute;xico. Como maestra, tambi&eacute;n estoy comprometida en la importancia de darle atenci&oacute;n a la educaci&oacute;n, no solamente con lo que es el programa de La Escuela es Nuestra o J&oacute;venes Construyendo el Futuro o becas, sino tambi&eacute;n en la basificaci&oacute;n de nuestros maestros.</p>
+
+<p>Y, por eso, agradezco mucho el esfuerzo que ha hecho el gobierno federal a trav&eacute;s de la Secretar&iacute;a de Educaci&oacute;n P&uacute;blica, en donde han sido beneficiados alrededor siete mil 652 maestras y maestros para poder atender esta deuda hist&oacute;rica que tenemos con nuestros maestros.</p>
+
+<p>Y me complace mucho contar con la presencia del magisterio estatal. Muchas gracias que est&aacute;n aqu&iacute; nuestros maestros del Estado de M&eacute;xico, a quienes tambi&eacute;n les informo que en pr&oacute;ximos d&iacute;as realizaremos un trabajo para basificar tambi&eacute;n e iniciar con los trabajos de basificaci&oacute;n a nuestros maestros estatales que tambi&eacute;n lo merecen.</p>
+
+<p>Y junto con ello tambi&eacute;n estamos trabajando la cuesti&oacute;n de la participaci&oacute;n ciudadana. Estamos haciendo los foros y ha tenido un &eacute;xito muy grande porque es la participaci&oacute;n ciudadana. Agradezco a los cerca de 113 mil 400 asistentes que de manera presencia y de manera virtual han asistido a estos foros.</p>
+
+<p>Y tambi&eacute;n agradezco a los cerca de seis mil 51 mexiquenses que han entregado ponencias relacionadas con la tem&aacute;tica que estamos desarrollando en estos foros y que el d&iacute;a de ma&ntilde;ana en Valle de Bravo se va a llevar el Foro de Bienestar Ambiental y Acceso Universal al Agua, que es algo que tambi&eacute;n nuestro presidente nos ha pedido que demos especial atenci&oacute;n a lo que es el campo y lo que es nuestra necesidad que tenemos de cuidar y preservar el agua.</p>
+
+<p>Por eso, &iquest;qu&eacute; les puedo decir? Hay mucho trabajo de parte del gobierno federal. E insisto, es un ejemplo y una motivaci&oacute;n para nuestra administraci&oacute;n. Por ello, se&ntilde;or presidente, aprovecho la ocasi&oacute;n para refrendar mi compromiso de trabajar como usted lo ha hecho. Yo espero, en alg&uacute;n momento y en alg&uacute;n tiempo, tener ese honor de poder llegarle un poquito a lo que ha hecho usted en toda esta administraci&oacute;n. Muchas gracias por ponernos el ejemplo y muchas gracias por estar aqu&iacute;, muchas gracias.</p>
+
+<p>Y gracias a usted, muchas gracias.</p>
+
+<p><strong>MODERADOR: </strong>Solicitamos la palabra al coordinador nacional del programa Becas para el Bienestar &lsquo;Benito Ju&aacute;rez&rsquo;, licenciado Abraham V&aacute;zquez Piceno.</p>
+
+<p><strong>ABRAHAM V&Aacute;ZQUEZ PICENO COORDINADOR NACIONAL DEL PROGRAMA BECAS PARA EL BIENESTAR &lsquo;BENITO JU&Aacute;REZ&rsquo; DE LA SECRETAR&Iacute;A DE EDUCACI&Oacute;N P&Uacute;BLICA (SEP):</strong> Muy buenas tardes a todas y todos. &iquest;C&oacute;mo estamos el d&iacute;a de hoy aqu&iacute; en Toluca? &iquest;Bien, bien o requetebi&eacute;n? &iquest;Y c&oacute;mo no vamos a estar requetebi&eacute;n, si estamos aqu&iacute; con el presidente Andr&eacute;s Manuel y la gobernadora, la maestra Delfina G&oacute;mez &Aacute;lvarez? Con su permiso buenas tardes</p>
+
+<p>La Coordinaci&oacute;n Nacional del programa Becas para el Bienestar &lsquo;Benito Ju&aacute;rez&rsquo; tiene a su cargo tres programas prioritarios para el Gobierno de M&eacute;xico, que en conjunto tienen como objetivo combatir la deserci&oacute;n escolar, es decir, que las ni&ntilde;as, ni&ntilde;os, adolescentes y j&oacute;venes de menores recursos a abandonen sus estudios.</p>
+
+<p>Estos programas nacen en el a&ntilde;o 2019, con el triunfo del pueblo y con la llegada del licenciado a la Presidencia de nuestro pa&iacute;s.</p>
+
+<p>Hoy, cada a&ntilde;o, m&aacute;s de 12 millones de estudiantes reciben una beca educativa. En la educaci&oacute;n b&aacute;sica, s&oacute;lo en las escuelas p&uacute;blicas escolarizadas hay m&aacute;s de 22 millones de ni&ntilde;as y ni&ntilde;os inscritos, de los cuales m&aacute;s de 5.6 millones ya cuentan cada a&ntilde;o con una beca educativa.</p>
+
+<p>Y podemos decir con toda certeza en las 50 mil escuelas m&aacute;s pobres del pa&iacute;s, que son las ubicadas en las localidades ind&iacute;genas y de muy alta marginaci&oacute;n atendemos a todos los ni&ntilde;os y ni&ntilde;as con una beca familiar de 875 pesos mensuales. Con ello, no s&oacute;lo se combate el abandono escolar, tambi&eacute;n se combate la pobreza.</p>
+
+<p>En el caso del programa de educaci&oacute;n media superior, atendemos cada a&ntilde;o a 5.8 millones de estudiantes de todas las escuelas p&uacute;blicas escolarizadas. Este programa es universal, es decir, que atiende a todos los estudiantes del bachillerato p&uacute;blico escolarizado, porque en este nivel educativo se presentaba la mayor tasa de abandono escolar.</p>
+
+<p>Desde el a&ntilde;o 2019 y hasta la fecha son ya un mill&oacute;n 200 mil j&oacute;venes que hab&iacute;an abandonado sus estudios de preparatoria y que no se hab&iacute;an inscrito a este nivel educativo, pero hoy ya regresaron a los salones de clases.</p>
+
+<p>En el nivel licenciatura m&aacute;s de medio mill&oacute;n de estudiantes de las escuelas m&aacute;s marginadas del pa&iacute;s reciben una beca educativa de dos mil 575 pesos mensuales, entre ellas las Universidades para el Bienestar &lsquo;Benito Ju&aacute;rez&rsquo; y las escuelas normales rurales y normales ind&iacute;genas.</p>
+
+<p>Sin ninguna duda, nunca en la historia se hab&iacute;an invertido tanto en la educaci&oacute;n en nuestro pa&iacute;s. En total, desde el a&ntilde;o 2019 hasta la fecha se han becado a 22 millones de estudiantes de todos los niveles educativos, desde preescolar hasta licenciatura, con una inversi&oacute;n social acumulada de m&aacute;s de 345 mil millones de pesos.</p>
+
+<p>En las mismas fechas, desde el a&ntilde;o 2019 a la actualidad, en todo el Estado de M&eacute;xico han sido becados 2.3 millones de estudiantes y se han invertido m&aacute;s de 39 mil millones de pesos s&oacute;lo en el Estado de M&eacute;xico.</p>
+
+<p>Para finalizar, es muy grato poderles decir, dar la noticia, que el pr&oacute;ximo a&ntilde;o la Coordinaci&oacute;n Nacional de Becas para el Bienestar &lsquo;Benito Ju&aacute;rez&rsquo; recibir&aacute; un incremento presupuestal de poco m&aacute;s de 13 mil millones de pesos, con lo cual vamos a poder llegar alrededor de dos millones de estudiantes m&aacute;s en todo el pa&iacute;s, de los cuales 300 mil van a ser aqu&iacute; en el Estado de M&eacute;xico. Con esto agregaremos 68 escuelas m&aacute;s a las 50 mil antes mencionados, como escuelas prioritarias, sumando un total de 118 mil planteles donde atenderemos a todas las ni&ntilde;as y los ni&ntilde;os.</p>
+
+<p>Es por todo esto que el d&iacute;a de hoy en el Gobierno de M&eacute;xico buscamos becar para transformar la vida de los estudiantes, de sus familias, de sus comunidades y del pa&iacute;s, porque la educaci&oacute;n es un derecho, no es un privilegio.</p>
+
+<p>Much&iacute;simas gracias.</p>
+
+<p><strong>MODERADOR</strong>: A continuaci&oacute;n, hace uso de la palabra el director general de Ingenieros de la Secretar&iacute;a de la Defensa Nacional, general Salvador Fernando Cervantes Loza.</p>
+
+<p><strong>GENERAL SALVADOR FERNANDO CERVANTES LOZA, DIRECTOR GENERAL DE INGENIEROS DE LA SECRETAR&Iacute;A DE LA DEFENSA NACIONAL (SEDENA):</strong> Licenciado Andr&eacute;s Manuel L&oacute;pez Obrador, presidente constitucional de los Estados Unidos Mexicanos y comandante supremo de las Fuerzas Armadas.</p>
+
+<p>Maestra Delfina G&oacute;mez &Aacute;lvarez, gobernadora del Estado de M&eacute;xico.</p>
+
+<p>Funcionarios integrantes del pres&iacute;dium.</p>
+
+<p>Ciudadanos del municipio de Toluca de Lerdo, Estado de M&eacute;xico.</p>
+
+<p>Representantes de los medios de comunicaci&oacute;n.</p>
+
+<p>A todos, muy buenos d&iacute;as.</p>
+
+<p>La Secretar&iacute;a de la Defensa Nacional es una instituci&oacute;n comprometida a realizar obras sociales que tiendan al progreso del pa&iacute;s, por lo cual colabora con diversos programas sociales del gobierno de la Rep&uacute;blica, tal como la construcci&oacute;n de las sucursales del Banco del Bienestar, el cual es un proyecto prioritario destinado a las familias mexicanas, concebido e impulsado por el se&ntilde;or presidente de la Rep&uacute;blica.</p>
+
+<p>Por lo anterior, me es grato informar que, como resultado de la suma de los esfuerzos de los tres niveles de gobierno y diversas instituciones que compartimos el orgullo y la responsabilidad de trabajar en favor de los mexicanos, a la fecha se han concluido dos mil 749 sucursales de las dos mil 750 contempladas para todo el pa&iacute;s.</p>
+
+<p>La Secretar&iacute;a de la Defensa Nacional ha colaborado con este importante proyecto a trav&eacute;s del incesante trabajo de nuestros ingenieros militares, quienes, con firme determinaci&oacute;n han puesto su conocimiento, experiencia y capacidad t&eacute;cnica al servicio de las necesidades colectivas y el inter&eacute;s superior del pueblo de M&eacute;xico para edificar y equipar las sucursales en todo el pa&iacute;s.</p>
+
+<p>De igual forma, es necesario destacar la valiosa colaboraci&oacute;n de los trabajadores locales de la construcci&oacute;n y de los servidores p&uacute;blicos de distintas dependencias, quienes pusieron todo su empe&ntilde;o y dedicaci&oacute;n para lograr que las sucursales del Banco del Bienestar se encuentran en poblaciones m&aacute;s alejadas del territorio nacional, tal como sucede aqu&iacute;, en el Estado de M&eacute;xico, donde hay 230 sucursales y en Toluca se tienen cuatro de estas, todas previstas con los medios de seguridad, inform&aacute;ticos, de enlace y comunicaci&oacute;n para asegurar su correcto funcionamiento.</p>
+
+<p>Estas sucursales son necesarias para lograr los apoyos econ&oacute;micos de los programas sociales que el gobierno de la Rep&uacute;blica destina en beneficio de la poblaci&oacute;n para que lleguen directamente a las manos de las familias mexicanas que habitan en las comunidades m&aacute;s apartadas de la geograf&iacute;a nacional.</p>
+
+<p>Para los soldados de tierra y aire de M&eacute;xico, siempre ser&aacute; motivo de orgullo y satisfacci&oacute;n contribuir, desde nuestro &aacute;mbito, al progreso de nuestra patria, demostrando con esto nuestra incansable lealtad al pueblo de M&eacute;xico.</p>
+
+<p>Estamos convencidos que la mejor forma de corresponder y agradecer la confianza que los mexicanos depositan en sus Fuerzas Armadas es seguir cumpliendo eficazmente las misiones que tenemos asignadas, porque somos conscientes de que estos programas sociales tienen como prioridad a las familias mexicanas. En consecuencia, quienes integramos el Ej&eacute;rcito, la Fuerza A&eacute;rea, la Guardia Nacional, refrendamos nuestro compromiso institucional con las mejores causas de M&eacute;xico.</p>
+
+<p>Muchas gracias.</p>
+
+<p><strong>MODERADOR</strong>: Estimado p&uacute;blico, escuchemos el mensaje que nos dirige el presidente constitucional de los Estados Unidos Mexicanos, licenciado Andr&eacute;s Manuel L&oacute;pez Obrador.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR: </strong>Amigas, amigos de Toluca, de pueblos, comunidades, tambi&eacute;n de municipios de este valle de Toluca:</p>
+
+<p>Me da mucho gusto estar con ustedes. Ya lo saben, vengo a refrendar nuestro compromiso de seguir trabajando en beneficio de nuestro pueblo.</p>
+
+<p>Vamos bien y de buenas, va avanzando la transformaci&oacute;n del pa&iacute;s, enfrentando dificultades. Nos toc&oacute; padecer la pandemia, eso nos caus&oacute; mucho da&ntilde;o, mucho dolor, sobre todo por las p&eacute;rdidas de vidas humanas, se nos cay&oacute; la econom&iacute;a, pero estamos saliendo adelante, ya estamos logrando el que nuestro pa&iacute;s se sit&uacute;e entre los pa&iacute;ses con m&aacute;s potencial econ&oacute;mico, con m&aacute;s posibilidades de desarrollo en el mundo.</p>
+
+<p>Ya somos, siempre hemos sido, pero ahora se ha subrayado, se ha destacado m&aacute;s, somos una potencia porque M&eacute;xico tiene una gran reserva de valores culturales, morales, espirituales. Es un gran pa&iacute;s con un gran pueblo.</p>
+
+<p>Pero tambi&eacute;n ya en lo econ&oacute;mico se reconoce el avance de nuestro pa&iacute;s. Y tenemos buenos resultados, les dir&iacute;a que en materia econ&oacute;mica se han obtenido r&eacute;cord en varias cuestiones:</p>
+
+<p>Por ejemplo, somos de los pa&iacute;ses del mundo con menos desempleo; es decir, hay trabajo en nuestro pa&iacute;s como no suced&iacute;a antes. Ahora est&aacute;n inscritos en el Seguro Social 22 millones 400 mil trabajadores, y el promedio de salario de esos 22 millones 400 mil trabajadores es de 16 mil pesos mensuales. Esto no hab&iacute;a pasado, es r&eacute;cord en creaci&oacute;n de empleo.</p>
+
+<p>R&eacute;cord tambi&eacute;n en cuanto a aumento al salario. Llevaban d&eacute;cadas los salarios estancados, sin aumento. Cuando llegamos, el salario m&iacute;nimo eran 88 pesos diarios, dos mil 600 pesos al mes, cuando llegamos, de lo m&aacute;s bajo del mundo, lamentablemente.</p>
+
+<p>Ahora, el salario m&iacute;nimo, que se acaba de acordar para que entre en vigor a partir de enero, 249 pesos diarios, al mes seis mil 500&hellip; Siete mil 500 pesos al mes, y en la frontera 11 mil 400 mensuales. Ha aumentado m&aacute;s del doble en el pa&iacute;s y en la frontera m&aacute;s del triple el salario m&iacute;nimo, esto no se ve&iacute;a antes.</p>
+
+<p>Y est&aacute; llegando inversi&oacute;n extranjera a M&eacute;xico, como tampoco se ve&iacute;a antes, es un r&eacute;cord en cuanto a la inversi&oacute;n extranjera. Se est&aacute;n reubicando plantas; empresas que se hab&iacute;an instalado en Asia, se est&aacute;n instalando en M&eacute;xico y esto est&aacute; significando m&aacute;s inversi&oacute;n y m&aacute;s empleo y mejores salarios. En eso tambi&eacute;n r&eacute;cord.</p>
+
+<p>Tenemos r&eacute;cord en cuanto a las reservas del Banco de M&eacute;xico: 205 mil millones de d&oacute;lares de reserva en el Banco de M&eacute;xico.</p>
+
+<p>R&eacute;cord en fortalecimiento de nuestro peso. Los que son m&aacute;s grandes, as&iacute; como el que est&aacute; hablando, de los que tienen m&aacute;s edad, no m&aacute;s grande, ya saben c&oacute;mo cada sexenio devaluaciones del peso. Bueno, ahora ya no; al contrario, el peso es la moneda que m&aacute;s se ha fortalecido en el mundo con relaci&oacute;n al d&oacute;lar. Superpeso.</p>
+
+<p>Otro dato importante: ya M&eacute;xico, principal socio econ&oacute;mico</p>
+
+<p>-comercial de Estados Unidos.</p>
+
+<p>Otro r&eacute;cord, que eso s&iacute; tiene que ver con nuestros paisanos, que desde aqu&iacute; les mandamos un saludo, una felicitaci&oacute;n a todos los migrantes. &iquest;Saben que est&aacute;n enviando a sus familiares? Este a&ntilde;o va a llegar el env&iacute;o de remesas de nuestros paisanos a sus familiares en M&eacute;xico a 63 mil millones de d&oacute;lares. R&eacute;cord, nunca se hab&iacute;a visto.</p>
+
+<p>Por eso, va bien la econom&iacute;a. Pero esos son buenos, lo mejor de lo mejor es que ya logramos reducir la pobreza. En el gobierno nuestro, a pesar de la pandemia, salieron de pobres ya cinco millones de mexicanos.</p>
+
+<p>Y logramos tambi&eacute;n reducir la desigualdad econ&oacute;mica y social, que era monstruosa, porque unos cuantos ten&iacute;an mucho y los muchos ten&iacute;an poco y nada. Ahora es distinto, hay m&aacute;s justicia en nuestro pa&iacute;s.</p>
+
+<p>Por eso, me da mucho gusto estar en Toluca con ustedes, en compa&ntilde;&iacute;a de mi maestra. Vengo a decirles que van a continuar todos los Programas de Bienestar. Ya logramos la aprobaci&oacute;n del presupuesto para el a&ntilde;o pr&oacute;ximo, ya no hay nada de qu&eacute; preocuparnos porque van a continuar todos los Programas de Bienestar.</p>
+
+<p>Aqu&iacute; en Toluca se va a seguir apoyando a los j&oacute;venes del programa J&oacute;venes Construyendo el Futuro. Son mil 153 j&oacute;venes que est&aacute;n recibiendo su apoyo para que trabajen de aprendices en talleres, en comercios, en empresas, y se les paga un salario m&iacute;nimo para que se formen y que no se los lleven los de la delincuencia, que no los enganchen, que los j&oacute;venes tengan garantizado el derecho al estudio y el derecho al trabajo.</p>
+
+<p>Y tambi&eacute;n, hablando del estudio, nada m&aacute;s aqu&iacute; en Toluca son tres mil 385 j&oacute;venes universitarios que tiene beca de cinco mil 150 pesos bimestrales, y a partir de enero va a haber un aumento; este s&iacute; va a ser un aumento, no mucho, poquito porque es bendito, pero s&iacute; va a haber aumento.</p>
+
+<p>Todos los que estudian preparatoria en el municipio de Toluca tienen su beca, son 39 mil 908, ya est&aacute; garantizado que todos van a seguir recibiendo sus becas.</p>
+
+<p>Una buena noticia: nos est&aacute;bamos quedando rezagados en las becas para nivel b&aacute;sico, prescolar, primaria y secundaria, nada m&aacute;s hab&iacute;a 23 mil 839 familias que recib&iacute;an este apoyo. Aqu&iacute; est&aacute; Abraham. &iquest;Cu&aacute;nto va a aumentar ahora? 13 mil familias m&aacute;s van a recibir becas.</p>
+
+<p>Vamos muy atrasados, aqu&iacute; tenemos tache. No es Pamela, sino todos, porque Pamela es muy buena, pero es que son muchas escuelas aqu&iacute;, en Toluca, son 503 escuelas y s&oacute;lo hemos entregado presupuesto en 116, nada m&aacute;s llevamos 23 por ciento, aqu&iacute; s&iacute; vamos atrasados; pero tenemos que apurarnos, antes de que yo termine nos vamos a encontrar y ya van a ser m&aacute;s las escuelas atendidas.</p>
+
+<p>En la pensi&oacute;n para adultos mayores, aqu&iacute; s&iacute; vamos bien, requetebi&eacute;n dir&iacute;a la maestra, son 66 mil 916 adultos mayores que reciben pensi&oacute;n, y la buena noticia es que, ya a partir de enero, en unos d&iacute;as m&aacute;s, pasa de cuatro mil 800 bimestrales a seis mil pesos bimestrales, ah&iacute; s&iacute; es un aumento de 25 por ciento.</p>
+
+<p>Tambi&eacute;n, aqu&iacute; en Toluca, como lo dijo la maestra, ya todos los discapacitados de todas las edades tienen garantizada su pensi&oacute;n; porque antes, cuando empezamos el gobierno, s&oacute;lo se entregaba a ni&ntilde;as, ni&ntilde;os y hasta a 29 a&ntilde;os, pero de 29 a 64 no recib&iacute;an nada. Ahora que lleg&oacute; la maestra llegamos a un acuerdo, de que ella aporta con el presupuesto del gobierno del estado, que es el presupuesto del pueblo, como es el presupuesto federal, dinero del pueblo, van a aportar aqu&iacute; del presupuesto estatal 50 por ciento; el otro 50 por ciento el presupuesto federal y ya queda la pensi&oacute;n para todas y todos, va a ser universal para todos los discapacitados.</p>
+
+<p>Vamos a seguir apoyando a ni&ntilde;as, a ni&ntilde;os de madres solteras, va a continuar ese programa.</p>
+
+<p>Y lo mismo el apoyo a los productores del campo, porque en Toluca hay zona rural, son dos mil 369 productores. Lo que era el Procampo ya es Producci&oacute;n para el Bienestar y se va a seguir entregando el apoyo.</p>
+
+<p>Y ya tambi&eacute;n otra buena noticia es de que los fertilizantes ya llegaron para quedarse, se van a entregar siempre de manera gratuita a todos los productores.</p>
+
+<p>Y, como aqu&iacute; se dijo, todos los apoyos se van a cobrar, ya se est&aacute; haciendo, pero cada vez se va a mejorar m&aacute;s la operaci&oacute;n para que, con la tarjeta, ya sean adultos mayores, discapacitados, becarios, vayan a las sucursales del Banco del Bienestar, de acuerdo al calendario, a las letras de los apellidos. Todo esto se va a informar con los servidores de la naci&oacute;n ―que les env&iacute;o un agradecimiento y un aplauso, porque ayudan mucho― se les va a estar informando con la tarjeta, van al Banco del Bienestar, sacan lo que por derecho les corresponde.</p>
+
+<p>Ya no hay intermediarios, nada m&aacute;s es la tarjeta. Porque hay organizaciones de buena fe, pero hab&iacute;a unas muy ventajosas y ped&iacute;an en nombre de la gente; se les entregaban los apoyos y no llegaba el apoyo o no llegaba completo, llegaba con <em>moche</em> o con <em>piquete de ojo</em>. Ya eso se acab&oacute;, ahora todo es directo.</p>
+
+<p>Y vamos a seguir apoyando a las maestras, a los maestros, mejorando los sueldos, basificando.</p>
+
+<p>Y algo que es muy importante, que no tiene que ver con lo material, pero que tiene que ver con la dignidad: nunca m&aacute;s se va a ofender a nuestras maestras y a nuestros maestros, nunca.</p>
+
+<p>Tambi&eacute;n antes de terminar, decirles que tengo el compromiso de no esperar a que yo entregue la banda, desde antes que entregue la banda presidencial voy a dejar terminado el sistema de salud p&uacute;blica, centros de salud, hospitales con m&eacute;dicos, especialistas, medicinas, atenci&oacute;n m&eacute;dica, estudios, intervenciones quir&uacute;rgicas; todo gratuito, todo gratuito.</p>
+
+<p>Aqu&iacute; en el&hellip;</p>
+
+<p><strong>INTERVENCI&Oacute;N:</strong> (inaudible)&nbsp;</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR: </strong>Ahora les voy a contestar eso, esp&eacute;renme.</p>
+
+<p>Aqu&iacute;, en el Estado de M&eacute;xico, en Huehuetoca va a existir &mdash;ya estamos arreglando, porque se compraron unos almacenes, son cuatro hect&aacute;reas techadas de bodegas&mdash; vamos a tener la farmacia m&aacute;s grande del mundo. Van a estar todas las medicinas, para que cuando se necesite una medicina en el hospital, la cl&iacute;nica, el centro de salud, la unidad m&eacute;dica m&aacute;s apartada, se va a hablar, va a haber un sistema de comunicaci&oacute;n a ese almac&eacute;n y en 24 horas va a llegar el medicamento.</p>
+
+<p>Dicen mis adversarios que no lo vamos a lograr, porque dije que &iacute;bamos a tener un sistema de salud p&uacute;blica como el de Dinamarca. No, no va a ser como el Dinamarca, va a ser mejor, de los mejores del mundo. Me canso ganso.</p>
+
+<p>Y vamos a dejar terminadas obras importantes en el Estado de M&eacute;xico. Va a quedar completamente terminado el Parque Ecol&oacute;gico de Texcoco, del lago de Texcoco, con centros recreativos. Ya se est&aacute;n recuperando los lagos, la laguna, ya est&aacute;n llegando de nuevo los p&aacute;jaros, se est&aacute; recuperando el medio ambiente en el lago de Texcoco, pero tambi&eacute;n ah&iacute; se est&aacute; ya por iniciar la construcci&oacute;n de una universidad dedicada a la salud y van a haber much&iacute;simas canchas de voleibol, de basquetbol, de b&eacute;isbol, de futbol, de todos los deportes, va a ser un centro deportivo y cultural, y tambi&eacute;n un centro para preservar el medio ambiente, el lago de Texcoco,</p>
+
+<p>Vamos tambi&eacute;n a terminar antes de que yo concluya, vamos a terminar el troleb&uacute;s desde Ixtapaluca, de Chalco hasta Santa Martha, es un compromiso. Ya vamos a ir ahora en enero a una supervisi&oacute;n. Ah&iacute; nos est&aacute;n ayudando los ingenieros militares y son muy buenos.</p>
+
+<p>Miren, en dos a&ntilde;os y medio hicieron el aeropuerto, que est&aacute; tambi&eacute;n en el Estado de M&eacute;xico, el &lsquo;Felipe &Aacute;ngeles&rsquo;, en Santa Luc&iacute;a. Acabamos de inaugurar un aeropuerto internacional en Tulum, Quintana Roo, de primera.</p>
+
+<p>&iquest;Saben en cu&aacute;nto tiempo lo hicieron los ingenieros militares?</p>
+
+<p>Un a&ntilde;o cinco meses hicieron ese nuevo aeropuerto.</p>
+
+<p>Aqu&iacute; se acaba de informar: en dos a&ntilde;os y medio, dos mil 749 sucursales del Banco del Bienestar que hicieron ellos, m&aacute;s de 400 cuarteles para la Guardia Nacional. Y nos ayudan mucho.</p>
+
+<p>Dicen que estamos militarizando el pa&iacute;s. No, se olvidan de que el Ej&eacute;rcito, el soldado, es pueblo uniformado.</p>
+
+<p>&iquest;De d&oacute;nde son los soldados?</p>
+
+<p>Hasta los generales de divisi&oacute;n, hijos de campesinos, hijos de obreros, hijos de comerciantes, hijos de militares.</p>
+
+<p>De modo que nos est&aacute;n ayudando, cumplen con su misi&oacute;n de garantizar la paz y la tranquilidad, y tambi&eacute;n de auxiliar al pueblo en momentos dif&iacute;ciles cuando hay desastres, como ahora el hurac&aacute;n que afect&oacute; en Guerrero, en Acapulco, los primeros en llegar, y ah&iacute; est&aacute;n repartiendo despensas y comida, y refrigeradores, y estufas, y limpiando, y cuidando, los integrantes de las Fuerzas Armadas. Entonces, ellos nos est&aacute;n ayudando.</p>
+
+<p>Y aqu&iacute; vamos, repito, a que se terminen todas las obras pendientes, que se termine el troleb&uacute;s de Ixtapaluca de Chalco a Santa Martha.</p>
+
+<p>Tambi&eacute;n vamos a terminar el tren del aeropuerto &acute;Felipe &Aacute;ngeles&#39; a Lecher&iacute;a para que se pueda ir del nuevo aeropuerto hasta Buenavista, hasta el centro de la Ciudad de M&eacute;xico en 45 minutos.</p>
+
+<p>E hicimos el compromiso, y lo voy a cumplir, que se va a inaugurar antes de que yo termine, inauguramos todo el tren &lsquo;Insurgente&rsquo;, de Toluca a la Ciudad de M&eacute;xico. Ayer y hoy se cerr&oacute; la autopista para la Ciudad de M&eacute;xico, porque estamos poniendo, se est&aacute;n montando las &uacute;ltimas trabes que cruzan la autopista. Ahora que ya me voy de regreso ojal&aacute; ya est&eacute;n, ya est&eacute; abierta, para no irnos por la libre. Pero lo importante es que ya con esas trabes ya se tiene todo el tramo.</p>
+
+<p>Se est&aacute;n construyendo ya las estaciones que hac&iacute;an falta en Santa Fe. Y ya est&aacute; tambi&eacute;n una nueva estaci&oacute;n en construcci&oacute;n en Santa Fe, en lo que era la Ermita de &lsquo;Tata&rsquo; Vasco, ah&iacute; tambi&eacute;n en el poblado va a haber otra estaci&oacute;n hasta llegar a la Ciudad de M&eacute;xico, en este tren &lsquo;Insurgente&rsquo;.</p>
+
+<p>Se va a cumplir el compromiso que el boleto del tren de &lsquo;El Insurgente&rsquo;&hellip; &iquest;Saben por qu&eacute; le pusimos &lsquo;El Insurgente&rsquo;? Por Miguel Hidalgo, porque &eacute;l, que era un cura bueno, rebelde, humanista, gan&oacute; en el Cerro de las Cruces la batalla y estaba a punto de tomar la Ciudad de M&eacute;xico. Y pod&iacute;a hacerlo, pero pens&oacute; que iban a haber muchos muertos, miles de muertos, y como era un hombre de buenos sentimientos, prefiri&oacute; no tomar la Ciudad de M&eacute;xico, se fue de nuevo, se vino ac&aacute;, luego a Morelia, se fue a Jalisco y ya de ah&iacute; fue derrotado.</p>
+
+<p>Se iba a proteger al norte; lo detuvieron en Coahuila. Luego, lo llevaron a Chihuahua, ah&iacute; lo fusilaron, le cortaron la cabeza y como hab&iacute;a tenido el atrevimiento, tuvo el atrevimiento de que se aboliera la esclavitud, porque era un hombre de buenos sentimientos, por eso es el padre de nuestra patria, bueno, los poderosos de entonces como escarmiento no s&oacute;lo le cortaron la cabeza, sino la exhibieron 10 a&ntilde;os como escarmiento en la plaza principal de Guanajuato. Cuando triunfa ya el movimiento de independencia, 1821, ya le dan cristina sepultura y ahora es el padre de nuestra patria.</p>
+
+<p>Por eso, cuando me dijeron: &lsquo;&iquest;C&oacute;mo le vamos a poner al tren de Toluca a la Ciudad de M&eacute;xico?&rsquo;, dije &lsquo;El Insurgente&rsquo;, pensando en Miguel Hidalgo. &iexcl;Que viva Hidalgo!</p>
+
+<p>Bueno, vamos a terminar esa obra, no vamos a dejar nada pendiente y, adem&aacute;s, les vamos a dejar algo que vale much&iacute;simo, porque yo termino en nueve meses, pero a ella le falta, a la maestra, que va a quedar con ustedes le faltan casi seis a&ntilde;os, est&aacute; empezando. Se <em>rayaron</em>, les felicito, porque s&iacute; supieron elegir bien. Buena gobernadora, trabajadora, honesta, de buenos sentimientos. &iexcl;Que viva la maestra Delfina!</p>
+
+<p>Adem&aacute;s, no se preocupen porque hay relevo tambi&eacute;n en lo federal, va a seguir la transformaci&oacute;n.</p>
+
+<p>Yo tengo que terminar ya mi mandato, porque soy maderista. &iquest;Y qu&eacute; dec&iacute;a el Ap&oacute;stol de la Democracia? Sufragio efectivo, no reelecci&oacute;n.</p>
+
+<p>No hay que encari&ntilde;arse tanto, ni con el poder ni con el dinero, no hay que tenerle mucho apego ni al poder, ni al dinero, eso no es la felicidad, la felicidad es estar bien con uno mismo, estar bien con nuestra consciencia y estar bien con el pr&oacute;jimo, esa es la verdadera felicidad.</p>
+
+<p>Adem&aacute;s, les digo: estoy contento, porque quien va a llegar va a ser mejor, va a ser mejor. Ya empez&oacute; la transformaci&oacute;n.</p>
+
+<p>Les digo otra cosa: es un honor gobernar para ustedes, porque amor con amor se paga. As&iacute; como ustedes me quieren, as&iacute; les quiero yo, pero yo todav&iacute;a les quiero m&aacute;s, un poquito m&aacute;s. Esto es lo que me permite resistir, lo que me ha permitido luchar durante muchos a&ntilde;os por mis ideales, por mis principios, y poder decir casi al final de mi mandato que me siento muy feliz y que estoy, la verdad, estoy muy tranquilo con mi conciencia, con el tribunal de mi conciencia, gracias al pueblo. Y ya saben que la voz del pueblo es la voz del Creador y es la voz de la historia.</p>
+
+<p>&iexcl;Que viva Toluca!</p>
+
+<p>&iexcl;Que viva el Estado de M&eacute;xico!</p>
+
+<p>&iexcl;Viva M&eacute;xico!</p>
+
+<p>&iexcl;Viva M&eacute;xico!</p>
+
+<p>&iexcl;Viva M&eacute;xico!</p>
+
+<p>---</p>
+</div>
+      </div>
+
+      <div class="col-md-4 col-xs-12 pull-right">
+
+
+
+
+          <div id="survey" class="survey-popup small-top-buffer">
+	<div class="row">
+  <a class="fire">
+    <span class="title">Contesta nuestra encuesta de satisfacción.</span>
+		<i style="color: white" class="fas fa-poll"></i>
+  </a>
+  <hr>
+  
+  <div class="survey col-sm-12 clearfix">
+	<form id="survey-form">
+	  <div class="survey-form">
+	  <fieldset id="query_1">
+		<legend>¿Cómo fue tu experiencia en gob.mx?</legend>
+		<div id="Q_A" class="btn-group row">
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncGood" class="ga-survey" value="Feliz" title="Satisactorio">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-good.svg" alt="">
+		  	</button>
+		  </div>
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncReg" class="ga-survey" value="Neutral" title="Neutral">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-neutral.svg" alt="">
+		  	</button>
+		  </div>
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncBad" class="ga-survey" value="Triste" title="No satisactorio">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-bad.svg" alt="">
+		  	</button>
+		  </div>
+		</div>
+	  </fieldset>
+	  <fieldset id="query_1_a" class="hidden">
+	  	<legend>¿Fue fácil encontrar lo que buscabas?</legend>
+	  	<div id="Q_B" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R1" value="1">
+	  		<label for="A_R">Muy Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R2" value="2">
+	  		<label for="A_R">Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R3" value="3">
+	  		<label for="A_R">Difícil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R4" value="4">
+	  		<label for="A_R">Muy Difícil</label>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_s" class="hidden">
+	  	<legend>¿De qué estado de la República nos visitas?</legend>	  	
+	  	<div class="col-md-12">
+  	  		<div class="form-group" style="margin-bottom: 114px;">
+  	  			<select id="estados" class="form-control"></select>
+  	  		</div>
+  	  		<div class="form-group">
+  	  			<button type="button" class="Q_S_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  		</div>
+  	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_alt" class="hidden">
+		<legend>¿Qué buscabas?</legend>
+	  	<div id="Q_I" class="clearfix">
+	  	  <div class="col-sm-12">
+	  		<textarea id="txtA" class="form-control" rows="6" maxlength="250" style="font-size: 14px; width: 100%;"></textarea>
+	  		<span class="small">Máximo 250 caracteres</span>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+  	  	  <button type="button" class="Q_I_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_b" class="hidden">
+	  	<legend>¿Qué te gustó más?</legend>
+	  	<p class="small">Puedes seleccionar más de uno.</p>
+	  	<div id="Q_C" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R1" type="checkbox" name="A_R" value="1">
+	  		<label for="A_R">La información es clara y precisa</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R2" type="checkbox" name="A_R" value="2">
+	  		<label for="A_R">El diseño es agradable</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R3" type="checkbox" name="A_R" value="3">
+	  		<label for="A_R">Está bien organizado</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R4" type="checkbox" name="A_R" value="4">
+	  		<label for="A_R">Es sencillo navegar</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R5" type="checkbox" name="A_R" value="5">
+	  		<label for="A_R">El lenguaje es amigable</label>
+	  	  </div>
+	  	  <div class="clearfix">
+	  	  	<button type="button" class="Q_C_btn btn btn-primary btn-small pull-right">Siguiente</button>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_c" class="hidden">
+	  	<legend>¿Recomendarías nuestro portal a un amigo o familiar?</legend>
+	  	<div id="Q_D" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="radEncC_R1" type="radio" name="A_R" value="4">
+	  		<label for="A_R">Si</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncC_R2" type="radio" name="A_R" value="1">
+	  		<label for="A_R">No</label>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+        <button type="button" class="btn-finalizar btn btn-primary btn-small pull-right" style="margin-left: 8px; margin-top: 2px;" disabled>Finalizar</button>
+        <img src="https://framework-gb.cdn.gob.mx/assets/images/oval-white.svg" class="pull-right hidden loading">
+      </div>
+	  </fieldset>
+
+	  <fieldset id="query_2" class="hidden">
+		<legend>¿Fue fácil encontrar lo que buscabas?</legend>
+	  	<div id="Q_F" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R1" type="radio" name="A_R" value="1">
+	  		<label for="A_R">Muy Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R2" type="radio" name="A_R" value="2">
+	  		<label for="A_R">Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R3" type="radio" name="A_R" value="3">
+	  		<label for="A_R">Difícil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R4" type="radio" name="A_R" value="4">
+	  		<label for="A_R">Muy Difícil</label>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_2_b" class="hidden">
+	  	<legend>¿Qué mejorarías?</legend>
+	  	<p class="small">Puedes seleccionar más de una opción.</p>
+	  	<div id="Q_G" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A1" type="checkbox" name="A_R" value="1">
+	  		<label for="A_R">Diseño</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A2" type="checkbox" name="A_R" value="2">
+	  		<label for="A_R">Navegación dentro del sitio</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A3" type="checkbox" name="A_R" value="3">
+	  		<label class="too-long" for="A_R">Claridad y precisión de la información</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A4" type="checkbox" name="A_R" value="4">
+	  		<label for="A_R">Organización de los contenidos</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A5" type="checkbox" name="A_R" value="5">
+	  		<label for="A_R">Lenguaje utilizado</label>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">	  	  
+	  	  <button type="button" class="btn-finalizar btn btn-primary btn-small pull-right" style="margin-left: 8px; margin-top: 2px;" disabled>Finalizar</button>
+	  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/oval-white.svg" class="hidden pull-right loading">
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_2_alt" class="hidden">
+		<legend>¿Qué buscabas?</legend>
+	  	<div id="Q_H" class="clearfix">
+	  	  <div class="col-sm-12">
+	  		<textarea id="txtA1" class="form-control" rows="6" maxlength="250" style="font-size: 14px; width: 100%;"></textarea>
+	  		<span class="small">Máximo 250 caracteres</span>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+  	  	  <button type="button" class="Q_H_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  	</div>
+	  </fieldset>
+
+	</div>
+	<p class="hidden survey-thanks" style="text-align: center; color: white; font-weight: 700;">Gracias por tu opinión.</p>
+	</form>
+
+  </div>
+</div>
+</div>
+
+<script type="text/javascript">
+$(function() {
+  var c = 0;
+  var fin = 0;
+  var tipo_cara = "";
+  var page_type = "Articulos";
+  var triggered = false;
+  var answers = {};
+  var properties = {};
+  var organization = "presidencia";
+  var section = "Blog";
+  var lang = "es";
+  properties.published_on = "2023-12-10 16:34:00 -0600";
+  properties.title = "Versión estenográfica. Programas para el Bienestar desde Toluca, Estado de México";
+  properties.path = "/presidencia/es/articulos/version-estenografica-programas-para-el-bienestar-desde-toluca-estado-de-mexico";
+  properties.referer = "";
+  properties.viewfinder = navigator.userAgent.toLowerCase();
+  properties.screens = screen.width;
+  properties.device = screen.width;
+
+  $.getJSON('https://www.gob.mx/vun/estados?filter[order]=nombre%20ASC', function (selectOptions) {
+    for( var i = 0; i < selectOptions.length; i ++) {
+      var selectOptionsJSON = selectOptions[i];
+      $('#estados').append('<option value="'+ selectOptionsJSON.nombre +'">'+ selectOptionsJSON.nombre +'</option>');
+    }
+    $('#estados').append('<option value="Otro">Otro</option>')
+  });
+
+  $('.fire').click(function(event) {
+    $('.survey-popup').css({'height':'440px'});
+  });
+
+  $('#Q_A').find('button').click(function(event) {
+  	$('#query_s').removeClass('hidden');
+  	$("#query_1").addClass('hidden');
+  	answers.q1 = $(this).attr('id');
+  });
+
+  $(".ga-survey").click(function () {
+    tipo_cara = $(this).val();
+    var interval_time = [30];
+    (function timer () {
+      if (c < 1) {
+        setTimeout(function () {
+           if(fin < 1) {
+             set_ga("Inconclusa");
+             timer();
+           }
+        }, interval_time[c] * 1000);
+      }
+      c++;
+    })();
+  });
+
+  $('.Q_S_btn').click(function(event) {
+    if( answers.q1 === "radEncGood") {
+      $("#query_s").addClass('hidden');
+      $("#query_1_a").removeClass('hidden');
+    } else if(answers.q1 === "radEncReg" || answers.q1 === "radEncBad") {
+      $("#query_s").addClass('hidden');
+      $("#query_2").removeClass('hidden');
+    } else { }
+    // answers.q1 = $('#Q_A').find('button').attr('id');
+  });
+
+  $('#Q_B').find('input').click(function(event) {
+  	if( $(this).attr('id') === 'radEncA_R3' || $(this).attr('id') === 'radEncA_R4' )  {
+  	  $("#query_1_a").addClass('hidden');
+	  $("#query_1_alt").removeClass('hidden');
+  	} else {
+  	  $("#query_1_a").addClass('hidden');
+	  $("#query_1_b").removeClass('hidden');	
+  	}	
+	answers.q2 = $(this).attr('id');
+  });
+
+  $('.Q_I_btn').click(function(event) {
+  	event.preventDefault();
+  	$("#query_1_alt").addClass('hidden');
+	$("#query_1_b").removeClass('hidden');
+	answers.q5 = $('#txtA').val().substring(0, 250);
+  });
+
+  $('#Q_C').find('button').click(function(event) {
+	$("#query_1_b").addClass('hidden');
+	$("#query_1_c").removeClass('hidden');
+	var q3_array = [];
+	$('#Q_C').find('input:checked').each(function(index, el) {
+	  q3_array.push($(el).attr('id'));
+	});
+	answers.q3 = q3_array;
+  });
+
+  $('#Q_D').find('input').change(function(event) {
+  	answers.q4 = $(this).attr('id');
+  	$('.btn-finalizar').attr('disabled', false);
+  });
+
+  $('#Q_F').find('input').click(function(event) {
+	
+	answers.q2 = $(this).attr('id');
+
+	if( $(this).attr('id') === 'rdEncA_R3' || $(this).attr('id') === 'rdEncA_R4' ) {
+	  $("#query_2").addClass('hidden');
+	  $("#query_2_alt").removeClass('hidden');
+	} else {
+	  $("#query_2").addClass('hidden');
+	  $("#query_2_b").removeClass('hidden');
+	}
+  });
+
+  $('#Q_G').find('input').change(function(event) {
+  	if($('#Q_G').find('input:checked').length > 0) {
+	  $('.btn-finalizar').attr('disabled', false);
+    }
+    var q2_array = [];
+    $('#Q_G').find('input:checked').each(function(index, el) {
+	  q2_array.push($(el).attr('id'));
+	});
+	answers.q3 = q2_array;
+  });
+
+  $('.Q_H_btn').click(function(event) {
+  	event.preventDefault();
+  	$("#query_2_alt").addClass('hidden');
+	$("#query_2_b").removeClass('hidden');
+	answers.q5 = $('#txtA1').val().substring(0, 250);
+  });
+
+  $('.btn-finalizar').click(function (event) {
+    fin++;
+    $.ajax({
+      url: '/encuesta-satisfaccion',
+      type: 'post',
+      dataType: 'json',
+      data: { section: section, lang: lang, properties: properties, answers: answers },
+      beforeSend: function() {
+        $('.loading').removeClass('hidden');
+      },
+      success: function(data) {
+        set_ga("Finalizada");
+
+        $('.survey').hide();
+        $('.survey-popup').css({'height':'60px','background-color':'#dff0d8','border':'1px solid #d6e9c6'});
+        $('.survey-popup .title').text('Gracias por tu participación.').css({'color':'#3c763d'});
+        $('#icon-survey').removeClass('fa-file-text-o').addClass('fa-check-circle').css({'color':'#3c763d'});
+        setTimeout(function() {
+          $('.survey-popup').fadeOut('800');
+        }, 1600);
+      }
+    });
+  });
+
+  function set_ga(estatus) {
+    var pages_group = "Gobierno";
+    var organization_name = "presidencia";
+
+    console.log("Entro a apartado de encuesta de satisfacción. Estatus: "+ estatus);
+    console.log("Pages group: "+pages_group);
+    console.log("Sub group: "+organization_name);
+    console.log("Page type: "+page_type);
+    console.log("Face: "+tipo_cara);
+
+      console.log("Rails.env.production");
+      //Código GA para encuesta de satisfacción.
+		gtag('set', 'dimension14', pages_group);
+		gtag('set', 'dimension15', organization_name);
+		gtag('set', 'dimension16', page_type);
+		gtag('send', 'event', 'Encuesta de satisfacción', tipo_cara ,estatus);
+		gtag('set', 'dimension14', null);
+		gtag('set', 'dimension15', null);
+		gtag('set', 'dimension16', null);
+  }
+
+  $('#subscribe-survey').click(function(event) {
+	event.preventDefault();
+    var email = $("#email-survey").val();
+    var state = $('#estados').val();
+
+    if (email !== '' || email !== undefined) {
+	    try {
+	      $.ajax({
+	        url: "/subscribe",
+	        type: 'post',
+	        dataType: 'json',
+	        data : { email: {address: email} },
+	        success: function (data) {
+	            $('#responseSignup').html(data.message);
+	        },
+	        error: function (data) {
+	            $('#responseSignup').html(data.message);
+	        }
+	      });
+	    }catch(e){
+	      $("#responseEmail").innerText(e);
+	    }
+
+	    $.ajax({
+	    	url: '/signups',
+	    	type: 'POST',
+	    	dataType: 'json',
+	    	data: { section: section, lang: lang, properties: properties },
+	    	success: function() {
+	    		//console.log('exito');
+	    	}
+	    });
+	} else {
+		$('#responseSignup').html('Por favor llena todos los campos.');
+	}
+  });
+
+  $('#survey-form').submit(function(event) {
+    event.preventDefault();
+  });
+});
+</script>
+
+      </div>
+      <div class="col-sm-7 pull-left">
+        <div class="share-buttons clearfix vertical-buffer">
+  <div class="col-md-2"> <a class="twitter-share-button" data-url="https://www.gob.mx/presidencia/articulos/140537" data-text="Versión estenográfica. Programas para el Bienestar desde Toluca, Estado de México"></a></div>
+  <div class="col-md-2">
+    <div class="fb-share-button" data-href="https://www.gob.mx/presidencia/articulos/140537" data-layout="button_count" data-size="small" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://www.gob.mx/presidencia/articulos/140537&amp;src=sdkpreparse">Compartir</a></div>
+  </div>
+</div>
+
+  <script type="text/javascript">
+    (function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v2.7";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+    
+    var pages_group = "Gobierno";
+    var page_type = "Artículos";
+    var organization_name = "presidencia";
+    var title_content = "Versión estenográfica. Programas para el Bienestar desde Toluca, Estado de México";
+
+     window.twttr = (function (d,s,id) {
+       var t, js, fjs = d.getElementsByTagName(s)[0];
+       if (d.getElementById(id)) return; js=d.createElement(s); js.id=id;
+       js.src="//platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs);
+       return window.twttr || (t = { _e: [], ready: function(f){ t._e.push(f) } });
+     }(document, "script", "twitter-wjs"));
+
+     function trackTwitter(intent_event) {
+       if (intent_event) {
+         if (intent_event.target && intent_event.target.nodeName == 'IFRAME') {
+           console.log("Metrica Compartir Twitter - "+title_content);
+           console.log("Organization: "+organization_name);
+           console.log("Page type: "+page_type);
+           console.log("Title content: "+title_content);
+           ga('set', 'dimension14', pages_group);
+           ga('set', 'dimension15', organization_name);
+           ga('set', 'dimension16', page_type);
+           ga('send', 'event', 'Compartir en redes sociales', 'Twitter', title_content);
+           ga('set', 'dimension14', null);
+           ga('set', 'dimension15', null);
+           ga('set', 'dimension16', null);
+         }
+       }
+     }
+  </script>
+  <script type="text/javascript">
+     twttr.ready(function (twttr) {
+       twttr.events.bind('tweet', trackTwitter);
+     });
+  </script>
+
+
+      </div>
+    </div>
+    <div class="row top-buffer">
+  <div class="col-md-8">
+    <hr>
+    <div class="print col-ms-12 col-md-12 col-xs-12">
+      <span class="icon-printing"></span>
+      <a href="#">Imprime la página completa</a>
+        <p class="small" style="font-size: 14px; line-height: 1.6em;">
+          La legalidad, veracidad y la calidad de la información es estricta responsabilidad de la dependencia, entidad o empresa productiva del Estado que la proporcionó en virtud de sus atribuciones y/o facultades normativas.
+        </p>
+    </div>
+  </div>
+</div>
+
+  </div>
+  <input type="hidden" id="page_type" name="page_type" value="Articulos">
+  <input type="hidden" id="organization_name" name="organization_name" value="presidencia">
+</main>
+<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+
+<footer class="main-footer">
+  <div class="list-info">
+    <div class="container">
+
+      <div class="col-sm-3">
+        <img  src="https://framework-gb.cdn.gob.mx/landing/img/logoheader.svg"  href="/" alt="logo gobierno de méxico" class="logo_footer" style="max-width: 90%; margin-left: -27px;   margin-top: 12px;">
+      </div>
+      <div class="col-sm-3">
+        <h2>Enlaces</h2>
+        <ul>
+         <!-- <li><a  href="http://www.participa.gob.mx">Participa</a></li> -->
+          <li><a  href="https://datos.gob.mx/">Datos</a></li>
+          <li><a href="https://www.gob.mx/publicaciones" target="_blank" rel="noopener" title="Enlace abre en ventana nueva">Publicaciones </a></li>
+
+                  <li><a class="footer" href="https://consultapublicamx.plataformadetransparencia.org.mx/vut-web/faces/view/consultaPublica.xhtml?idEntidad=MzM=&amp;idSujetoObligado=MTAwMDE=#inicio" id="Transparencia" target="blank" title="Enlace abre en ventana nueva">Portal de Obligaciones de Transparencia</a></li>
+
+                  <li><a class="footer" href="https://www.infomex.org.mx/gobiernofederal/home.action" id="PNT" target="blank" title="Enlace abre PNT en ventana nueva">PNT</a></li>
+
+                  <li><a class="footer" href="http://www.inai.org.mx/" id="INAI" target="blank" title="Enlace abre sitio INAI en ventana nueva">INAI</a></li>
+
+          <li><a class="footer" id="INAI" href="http://alertadores.funcionpublica.gob.mx/" target="_blank" rel="alertadores">Alerta</a></li>
+          <li><a class="footer" id="SIDEC" href="http://sidec.funcionpublica.gob.mx/" target="_blank" rel="sidec">Denuncia</a></li>
+           </ul>
+      </div>
+      <div class="col-sm-3">
+        <h2>¿Qué es gob.mx?</h2>
+        <p>Es el portal único de trámites, información y participación ciudadana.  <a href="/que-es-gobmx" style="text-decoration: none;">Leer más </a></p>
+        <ul>
+
+        
+            <li><a href='http://www.gob.mx/epn'> Administraciones anteriores  </a></li>
+          <li><a href="/accesibilidad">Declaración de Accesibilidad</a></li>
+          <li><a href="/privacidadintegral">Aviso de privacidad</a></li>
+          <li><a href="/privacidadsimplificado">Aviso de privacidad simplificado</a></li>
+          <li><a href="/terminos">Términos y Condiciones </a></li>
+          <li><a href="/terminos#medidas-seguridad-informacion">Política de seguridad</a></li>
+          <li><a class="footer" id="Marco Juridico" href="http://www.ordenjuridico.gob.mx" target="_blank" rel="noopener" title="Enlace abre en ventana nueva">Marco jurídico</a></li>
+          <li><a href="/sitemap">Mapa de sitio</a></li>
+        </ul>
+      </div>
+      <div class="col-sm-3">
+        </p>
+        <h2>Síguenos en </h2>
+        <ul class="list-inline">
+          <li>
+            <a id="Facebook" href="https://www.facebook.com/gobmexico" target="_blank" rel="noopener" class="sendEst share-info footer" title="enlace a facebook abre en una nueva ventana">
+              <img alt="Facebook" src="https://framework-gb.cdn.gob.mx/landing/img/facebook.png" />
+            </a>
+          </li>
+          <li>
+            <a id="Twitter" href="https://twitter.com/GobiernoMX" target="_blank" rel="noopener" class="sendEst share-info footer" title="Enlace a twitter abre en una nueva ventana">
+              <img alt="Twitter" src="https://framework-gb.cdn.gob.mx/landing/img/twitter.png" />
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+  </div>
+  </div>
+
+  <div class="container-fluid footer-pleca">
+    <div class="row">
+      <div class="col">
+        <br><br>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script type="text/javascript">
+      $("a.footer").click(function () {
+          var pagina_sitio = window.location.pathname;
+          var outbound_link = $(this).attr("id");
+          var subgrupo_paginas = "presidencia";
+          var page_type = "Home";
+          var pages_group = "Gobierno";
+          if($("#page_type").length > 0){ page_type = $("#page_type").val(); }
+
+          console.log("Metrica links externos footer - "+outbound_link);
+          gtag('set', 'dimension14', pages_group);
+          gtag('set', 'dimension15', subgrupo_paginas);
+          gtag('set', 'dimension16', page_type);
+          gtag('send', 'event', 'Outbound link - Footer', outbound_link, pagina_sitio);
+          gtag('set', 'dimension14', null);
+          gtag('set, ‘dimension15', null);
+      })
+  </script>
+
+<input class="hidden" id="route" value="/presidencia/es/articulos/version-estenografica-programas-para-el-bienestar-desde-toluca-estado-de-mexico" type="hidden" >
+<!-- div id="fb-root"></div -->
+
+
+
+
+
+  <!-- Begin comScore Tag -->
+  <script>
+      var _comscore = _comscore || [];
+      _comscore.push({ c1: "2", c2: "17183199" });
+      (function() {
+          var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+          s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+          el.parentNode.insertBefore(s, el);
+      })();
+  </script>
+  <noscript>
+    <img src="https://sb.scorecardresearch.com/p?c1=2&c2=17183199&cv=2.0&cj=1" />
+  </noscript>
+  <!-- End comScore Tag -->
+
+  <script src="https://sb.scorecardresearch.com/c2/17183199/ct.js"></script>
+
+
+  <script type="text/javascript">
+
+      var _sf_startpt=(new Date()).getTime();
+      var _sf_async_config = { uid: 43659, domain: 'www.gob.mx', useCanonical: true } ;
+      (function() {
+          function loadChartbeat() { window._sf_endpt = (new Date()).getTime(); var e = document.createElement('script'); e.setAttribute('language', 'javascript'); e.setAttribute('type', 'text/javascript'); e.setAttribute('src','//static.chartbeat.com/js/chartbeat.js'); document.body.appendChild(e); };
+          var oldonload = window.onload;
+          window.onload = (typeof window.onload != 'function') ?
+              loadChartbeat : function()
+              { oldonload(); loadChartbeat(); };
+      })();
+      var ele = "/presidencia/es/articulos/version-estenografica-programas-para-el-bienestar-desde-toluca-estado-de-mexico";
+      if( "#{(@organization_site.present? ? @organization_site.category : 'gobmx')}" == "Campaña") {
+          var siteEls = 'campaign';
+      } else {
+          var siteEls = 'gobierno';
+      }
+
+      for( var i = 1; i < ele.split('/').length; i++ ) {
+          siteEls = siteEls + '.' + ele.split('/')[i];
+      }
+
+      function udm_(e){var t="comScore=",n=document,r=n.cookie,i="",s="indexOf",o="substring",u="length",a=2048,f,l="&ns_",c="&",h,p,d,v,m=window,g=m.encodeURIComponent||escape;if(r[s](t)+1)for(d=0,p=r.split(";"),v=p[u];d<v;d++)h=p[d][s](t),h+1&&(i=c+unescape(p[d][o](h+t[u])));e+=l+"_t="+ +(new Date)+l+"c="+(n.characterSet||n.defaultCharset||"")+"&c8="+g(n.title)+i+"&c7="+g(n.URL)+"&c9="+g(n.referrer),e[u]>a&&e[s](c)>0&&(f=e[o](0,a-8).lastIndexOf(c),e=(e[o](0,f)+l+"cut="+g(e[o](f+1)))[o](0,a)),n.images?(h=new Image,m.ns_p||(ns_p=h),h.src=e):n.write("<","p","><",'img src="',e,'" height="1" width="1" alt="*"',"><","/p",">")};
+      function uid_call(a, b){
+          ui_c2 = 17183199; // your corporate c2 client value
+          ui_ns_site = 'gobmx'; // your sites identifier
+          window.b_ui_event = window.c_ui_event != null ? window.c_ui_event:"",window.c_ui_event = a;
+          var ui_pixel_url = 'https://sb.scorecardresearch.com/p?c1=2&c2='+ui_c2+'&ns_site='+ui_ns_site+'&name='+a+'&ns_type=hidden&type=hidden&ns_ui_type='+b;
+          var b="comScore=",c=document,d=c.cookie,e="",f="indexOf",g="substring",h="length",i=2048,j,k="&ns_",l="&",m,n,o,p,q=window,r=q.encodeURIComponent||escape;if(d[f](b)+1)for(o=0,n=d.split(";"),p=n[h];o<p;o++)m=n[o][f](b),m+1&&(e=l+unescape(n[o][g](m+b[h])));ui_pixel_url+=k+"_t="+ +(new Date)+k+"c="+(c.characterSet||c.defaultCharset||"")+"&c8="+r(c.title)+e+"&c7="+r(c.URL)+"&c9="+r(c.referrer)+"&b_ui_event="+b_ui_event+"&c_ui_event="+c_ui_event,ui_pixel_url[h]>i&&ui_pixel_url[f](l)>0&&(j=ui_pixel_url[g](0,i-8).lastIndexOf(l),ui_pixel_url=(ui_pixel_url[g](0,j)+k+"cut="+r(ui_pixel_url[g](j+1)))[g](0,i)),c.images?(m=new Image,q.ns_p||(ns_p=m),m.src=ui_pixel_url):c.write("<p><img src='",ui_pixel_url,"' height='1' width='1' alt='*'></p>");
+      }
+      udm_('https://sb.scorecardresearch.com/b?c1=2&c2=17183199&ns_site=gobmx&name='+siteEls);
+  </script>
+
+  <noscript>
+    <img src="https://sb.scorecardresearch.com/p?c1=2&amp;c2=17183199&amp;ns_site=gobmx&amp;name=gobierno.presidencia.es.articulos.version-estenografica-programas-para-el-bienestar-desde-toluca-estado-de-mexico" height="1" width="1" alt="*" />
+  </noscript>
+<script>
+    let key = '';
+    $(function () {
+
+        $.getJSON("https://framework-gb.cdn.gob.mx/applications/cms/configGobmx.json", function(json) {
+            console.log(json.keyAnalytics); // this will show the info it in firebug console
+            key = json.keyAnalytics;
+            ga('create', key , 'auto', 'GobTracker');
+            ga('GobTracker.require', 'linker');
+            ga('GobTracker.linker:autoLink', ['www.gob.mx']);
+            ga('GobTracker.set', 'contentGroup1', 'Gobierno');
+            ga('GobTracker.set', 'contentGroup2', SubGroup);
+            ga('GobTracker.set', 'contentGroup3', PageType);
+            ga('GobTracker.set', 'dimension14', 'Gobierno');
+            ga('GobTracker.set', 'dimension15', SubGroup);
+            ga('GobTracker.set', 'dimension16', PageType);
+            ga('GobTracker.set', 'dimension13', 'No Registrado');
+            ga('GobTracker.send', 'pageview');
+            ga('GobTracker.set', 'contentGroup1', null);
+            ga('GobTracker.set', 'contentGroup2', null);
+            ga('GobTracker.set', 'contentGroup3', null);
+            ga('GobTracker.set', 'dimension14', null);
+            ga('GobTracker.set', 'dimension15', null);
+            ga('GobTracker.set', 'dimension16', null);
+            ga('GobTracker.set', 'dimension13', null);
+        });
+    });
+</script>
+
+<script src="https://framework-gb.cdn.gob.mx/applications/cms/modal_global_cms.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/gm/accesibilidad/js/gobmx-accesibilidad.min.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick.min.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick-lightbox.js"></script>
+<link rel="stylesheet" href="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick-lightbox.css">
+
+
+<script src="https://framework-gb.cdn.gob.mx/applications/cms/config_dependency.js"></script>
+<script type="text/javascript"  src="/0RVTuHxj0/t/mhEICJIQ/YiOkthVkYSfw/PRc4N0sKYQk/PwhFVTt/GPxQB"></script></body>
+
+</html>
+

@@ -1,0 +1,1819 @@
+<!DOCTYPE html>
+<html class='no-js' lang='es'>
+<head>
+    <title>
+  Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 8 de noviembre de 2023 | Presidencia de la República  | Gobierno | gob.mx
+</title>
+
+  <meta charset='UTF-8'>
+  <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#393C3E">
+
+  
+  <meta name="keywords" content="">
+  <meta name="description" content="Acto encabezado por el presidente Andrés Manuel López Obrador desde Palacio Nacional">
+  <meta name="author" content="Presidencia de la República ">
+
+  <meta content="Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 8 de noviembre de 2023" property="og:title" />
+  <meta content="https://www.gob.mxhttps://www.gob.mx/cms/uploads/article/main_image/139458/Conferencia_presidente_08.45.54__1_.jpeg" property="og:image" />
+  <meta content="gob.mx" property="og:site_name" />
+  <meta content="Acto encabezado por el presidente Andrés Manuel López Obrador desde Palacio Nacional" property="og:description" />
+  <meta content="http://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-8-de-noviembre-de-2023?idiom=es" property="og:url" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@gobmx" />
+  <meta name="twitter:title" content="Versión estenográfica. Conferencia de prensa del presidente Andrés..." />
+  <meta name="twitter:description" content="Acto encabezado por el presidente Andrés Manuel López Obrador desde Palacio Nacional" />
+  <meta name="twitter:image" content="https://www.gob.mxhttps://www.gob.mx/cms/uploads/article/main_image/139458/Conferencia_presidente_08.45.54__1_.jpeg" />
+
+
+  <meta content="authenticity_token" name="csrf-param" />
+<meta content="DuHG8xW3EHhS0PJucjrJiv1lrkw3Ydv0opIVrWyQIrE=" name="csrf-token" />
+
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700,600,300' rel='stylesheet' type='text/css'>
+  <link href='https://framework-gb.cdn.gob.mx/applications/cms/favicon.png' rel='shortcut icon'>
+  <link data-turbolinks-track="true" href="/cms/assets/application.css" media="all" rel="stylesheet" />
+  <link data-turbolinks-track="true" href="https://framework-gb.cdn.gob.mx/gm/accesibilidad/css/gobmx-accesibilidad.min.css" media="all" rel="stylesheet" />
+  
+
+  <!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+  <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+
+ <![endif]-->
+  <script async src="https://www.googletagmanager.com/gtag/js?id="></script>
+  <script src="https://framework-gb.cdn.gob.mx/applications/cms/carrusel/swiper-bundle.min.js"></script>
+
+  <link rel="stylesheet" href="https://framework-gb.cdn.gob.mx/applications/cms/carrusel/swiper-bundle.min.css">
+
+    <script type="text/javascript">
+
+        var SubGroup = '';
+        if(false || false){
+            SubGroup = 'Temas';
+        }else{
+            SubGroup = 'presidencia';
+        }
+        var PageType = '';
+        if(false){
+            PageType = 'Home'
+        }else{
+            if(false){
+                PageType = '';
+            }else {
+                var site = window.location.pathname;
+                var arrayPageType = ["articulos", "prensa", "agenda", "documentos", "multimedia", "galerias", "videos",
+                    "acciones_y_programas", "acciones-y-programas", "mi-foto-con-el-presidente",
+                    "estructuras", "descargables", "que-hacemos", "finanzas", "infografias"];
+
+                if (site.search("archivo") != -1) {
+                    PageType = "archivo_";
+                }
+                for (var i = 0; i < arrayPageType.length; i++) {
+                    if (site.search(arrayPageType[i]) != -1) {
+                        PageType += arrayPageType[i];
+                        break;
+                    }
+                }
+            }
+        }
+
+
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', '');
+
+        gtag('require', 'linker');
+        gtag('linker:autoLink', ['www.gob.mx']);
+        gtag('set', 'contentGroup1', 'Gobierno');
+        gtag('set', 'contentGroup2', SubGroup);
+        gtag('set', 'contentGroup3', PageType);
+        gtag('set', 'dimension14', 'Gobierno');
+        gtag('set', 'dimension15', SubGroup);
+        gtag('set', 'dimension16', PageType);
+        gtag('set', 'dimension13', 'No Registrado');
+        gtag('send', 'pageview');
+        gtag('set', 'contentGroup1', null);
+        gtag('set', 'contentGroup2', null);
+        gtag('set', 'contentGroup3', null);
+        gtag('set', 'dimension14', null);
+        gtag('set', 'dimension15', null);
+        gtag('set', 'dimension16', null);
+        gtag('set', 'dimension13', null);
+
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-144356475-1', 'auto', {'allowLinker':true});
+        ga('require', 'linker');
+        ga('linker:autoLink', ['www.gob.mx']);
+        ga('set', 'contentGroup1', 'Gobierno');
+        ga('set', 'contentGroup2', SubGroup);
+        ga('set', 'contentGroup3', PageType);
+        ga('set', 'dimension14', 'Gobierno');
+        ga('set', 'dimension15', SubGroup);
+        ga('set', 'dimension16', PageType);
+        ga('set', 'dimension13', 'No Registrado');
+        ga('send', 'pageview');
+        ga('set', 'contentGroup1', null);
+        ga('set', 'contentGroup2', null);
+        ga('set', 'contentGroup3', null);
+        ga('set', 'dimension14', null);
+        ga('set', 'dimension15', null);
+        ga('set', 'dimension16', null);
+        ga('set', 'dimension13', null);
+    </script>
+
+
+  <script type = "text/javascript"> console.log(true);
+  var rails_env_prod = true; </script>
+  <script src="/cms/assets/application.js"></script>
+  <script src="/cms/assets/imageReplace.js"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.js"></script>
+
+                              <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("True"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="N3JQ2-2RVHB-WJQMN-CEYEM-ATMWX",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"N3JQ2-2RVHB-WJQMN-CEYEM-ATMWX",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="xxqo3jv567lbgzxpkhoq-f-a8a94c5d7-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"37","ak.cp":"413578","ak.ai":parseInt("270161",10),"ak.ol":"0","ak.cr":13,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"c106bc6f","ak.r":49405,"ak.a2":e,"ak.m":"b","ak.n":"essl","ak.bpcip":"189.224.237.0","ak.cport":29723,"ak.gh":"189.247.214.12","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"reno","ak.t":"1726960093","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==JzX+TqBU+e3ElNjCEMoWC9VgOl0w+dKtsnIc9TH1m03Kf/23DlU8i+tGCxKoZPO2YORyyFPkA9rN1LPPbQUrehcu5bZa8kSj/+Gg8ArkauCHED0wkw6TTxQ0t4pNAAruwF3Cg3zzqfFmT+H7PK6IqMBPGyZBfIAqoiLnP7Pi/EWaMselBwW3BqcObdgXr/ckC5/zWUZ/9svGZUV/RuoAJQM5w7QpemhaaIrqEVXlipjY/Nl0aeP69ky2mGJtUF/rJrjaHBvWoOMHzo+Z9yq4CU/yvSpO3qHVqWpBWFY8ltad9ttxW9MsouI0tJLDueH1cij+gbtmAuJd6OkRR287G7d108FLOpvZmpEYecETo2YfeB/4R/6LyYSTZTHO2BQsBU0ZczokCSt5mJTdbiUM+4Q/Gpdtmj/HWJBj2jIv9aU=","ak.pv":"113","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+<body>
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v13.0" nonce="MZ2GPb2d"></script><!-- a href="#principal" class="skip">Saltar al contenido principal</a -->
+  <header class=" navbar navbar-inverse">
+    <nav class="navbar navbar-inverse  navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-target="#navbarMainCollapse" data-toggle="collapse">
+            <span class="sr-only">Interruptor de Navegación</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a href="/" style="padding: 1px 3px 3px 3px;" class="navbar-brand " title="Ir a la página inicial">
+
+            <div class="logo-main"></div>
+          </a>
+        </div>
+        <div id="navbarMainCollapse" class="collapse navbar-collapse">
+          <ul class="nav navbar-nav navbar-right">
+           <li><a href="/tramites" title="Trámites">Trámites </a></li>
+            <li><a href="/gobierno" title="Gobierno">Gobierno</a></li>
+                  <li><a href="/presidencia/en" title="Versión en inglés del sitio web">English</a>
+                  </li>
+                </li>
+
+
+            <li>
+              <form accept-charset="UTF-8" action="/busqueda" method="get"><div style="display:none"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+                <input type="hidden" name="site" value="presidencia">
+                <button data-v-6394873e="" id="botonbuscar" type="button" class="btn btn-search"><a data-v-6394873e="" href="https://www.gob.mx/busqueda?utf8=✓" target="_blank" id="botbusca"><img data-v-6394873e="" alt="Buscar" src="https://framework-gb.cdn.gob.mx/landing/img/lupa.png"></a></button>
+</form>            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    
+
+
+        <script src="/cms/assets/level_jump.js"></script><section>
+<!-- Subnavegacion -->
+<nav class=" navbar-inverse sub-navbar fixed-top"
+     >
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#subenlaces">
+        <span class="sr-only">Interruptor de Navegación</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="link-name" href="?tab="></a>
+    </div>
+    <div class="collapse navbar-collapse" id="subenlaces">
+      <ul class="nav subnav navbar-nav navbar-right">
+              <li class="landing-btn">
+                    <a href='/presidencia/es/archivo/prensa'>
+                Comunicados            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='/presidencia/es/#5173'>
+                Directorio            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='https://transparencia.presidencia.gob.mx/presidencia/transparencia/politicas-de-tratamiento-de-datos-personales-de-la-oficina-de-la-presidencia-de-la-republica/'>
+                Protección de Datos Personales            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='https://www.gob.mx/presidencia/transparencia/'>
+                Transparencia            </a>
+            </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+<style>
+  .flag-banner {
+  top: 45px  !important;
+  }
+</style>
+<!-- div class="warning-nav" style="margin-top: 0px;">
+  <div class="container">
+    <div class="row clearfix">
+  <div class="col-xs-12 col-sm-12 col-md-12">Este contenido será modificado temporalmente en atención a las disposiciones legales y normativas en materia electoral, con motivo del inicio de periodo de campaña</div>
+  </div>
+  </div>
+</div -->
+</section>
+
+
+  </header>
+
+
+
+
+
+<main class="inner-page interior ficha">
+  <div class="container">
+  	<ol class="breadcrumb">
+  <li><a href="http://www.gob.mx"><span class="icon icon-home"></span><span class="sr-only">Inicio</span></a></li>
+  <li><a href="/presidencia">Presidencia de la República </a></li>
+  <li class="active">Blog</li>
+</ol>
+  	<div class="">
+      <div aria-hidden="true" class="hidden-xs font-changer internal print" tabindex="-1">
+  <button class="inc-font font-modifier">Aa+</button>
+  <button class="dec-font font-modifier">Aa-</button>
+</div>
+      <div class="marquee-padding">
+      <div class='post-list main-post-list'>
+<div class='marque-float-left'>
+<div class='right_arrow'></div>
+<div class='titulo-pub'>
+<small>Publicaciones Recientes</small>
+</div>
+</div>
+<div>
+<div class='container-marque'>
+<div id='headlines'>
+<div class='marquee'>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-19 13:44:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-19-de-septiembre-de-2024' title='Versió'>
+Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 19 de septiembre de 2024
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-18 12:36:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-18-de-septiembre-de-2024' title='Versió'>
+Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 18 de septiembre de 2024
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-17 13:51:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-entrega-de-estimulos-a-delegaciones-mexicanas-participantes-en-juegos-olimpicos-y-paralimpicos-paris-2024' title='Versió'>
+Versión estenográfica. Entrega de estímulos a delegaciones mexicanas participantes en Juegos Olímpicos y Paralímpicos París 2024
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-17 12:21:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-17-de-septiembre-de-2024' title='Versió'>
+Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 17 de septiembre de 2024
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-16 13:56:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-desfile-civico-militar' title='Versió'>
+Versión estenográfica. Desfile Cívico Militar
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+      </div>
+  	  <div class="col-md-7 col-xs-12 col-sm-12 pull-left" tabindex="0">
+  	  	<h1 class="bottom-buffer">Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 8 de noviembre de 2023</h1>
+  	  	<h2>Acto encabezado por el presidente Andrés Manuel López Obrador desde Palacio Nacional</h2>
+        <section class="">
+          <p>Presidencia de la República  | 08 de noviembre de 2023</p>
+        </section>
+  	  <div class="imagen-principal">
+  	      <img alt="Conferencia de prensa del presidente Andrés Manuel López Obrador" class="img-responsive img_curve" src="https://www.gob.mx/cms/uploads/article/main_image/139458/Conferencia_presidente_08.45.54__1_.jpeg" />
+  	      <span class="small">Conferencia de prensa del presidente Andrés Manuel López Obrador</span>
+      </div>
+      <div class="article-body"><p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Buenos d&iacute;as. &Aacute;nimo, &aacute;nimo.</p>
+
+<p>Bueno, pues hoy mi&eacute;rcoles es la secci&oacute;n de &#39;Qui&eacute;n es qui&eacute;n en las mentiras&#39;, de modo que comenzamos porque hay bastante material. A ver, Elizabeth.</p>
+
+<p>ANA ELIZABETH GARC&Iacute;A VILCHIS:&nbsp;Con su permiso, se&ntilde;or presidente. Buenos d&iacute;as a todas, a todos.</p>
+
+<p>Hoy es 8 de noviembre del a&ntilde;o 2023, esta es la secci&oacute;n de &#39;Qui&eacute;n es qui&eacute;n en las mentiras de la semana&#39;.</p>
+
+<p>Y vamos a iniciar. Como dice el presidente, hoy traemos mucha informaci&oacute;n. Vamos con la primera. Falso que&nbsp;Segalmex&nbsp;haya tenido algo que ver con la droga incautada en Hong Kong. Hay que decir, no tiene relaciones con China.</p>
+
+<p>El martes 7 de noviembre circularon notas acerca de que la aduana de Hong Kong hab&iacute;a detectado un presunto caso de tr&aacute;fico a gran escala y confiscado 1.1 toneladas de metanfetamina con un valor de mercado estimado de alrededor de 640 millones de d&oacute;lares en el complejo de inspecci&oacute;n de carga de la aduana Kwai Chung. La metanfetamina iba guardada en conchas de caracol que se transportaban en costales de ma&iacute;z y frijol, las cuales ten&iacute;an el logotipo de&nbsp;Segalmex. A partir de ese dato, en medios de comunicaci&oacute;n y en redes sociales dijeron que funcionarios del gobierno traficaban metanfetaminas a China a trav&eacute;s de costales de Seguridad Alimentaria Mexicana.</p>
+
+<p>Todo esto es falso. A trav&eacute;s de un comunicado la&nbsp;Segalmex&nbsp;inform&oacute; que no realiza exportaciones de productos a ning&uacute;n pa&iacute;s y deslind&oacute; al organismo p&uacute;blico de cualquier mal uso que se haga de las siglas&nbsp;Segalmex&nbsp;en otros pa&iacute;ses. Adem&aacute;s, la dependencia indic&oacute; que denunciar&aacute; penalmente a quienes resulten responsables por el mal uso del nombre y logotipos del organismo.</p>
+
+<p>Al nado sincronizado, que ya es deporte nacional, se unieron&nbsp;TV Azteca&nbsp;y&nbsp;ADN 40, Noticieros Televisa N+, Reporte &Iacute;ndigo, Proceso, Infobae, El Sol de M&eacute;xico, Imagen Televisi&oacute;n,&nbsp;revista&nbsp;Emeequis, Milenio,&nbsp;Pol&iacute;ticoMX, El Universal, Pol&iacute;tica Expansi&oacute;n, Reforma&nbsp;por supuesto, entre muchos otros. Pero no solamente fueron los medios de comunicaci&oacute;n, sino tambi&eacute;n le entraron al nado sincronizado Joaqu&iacute;n L&oacute;pez-D&oacute;riga, Salvador Garc&iacute;a Soto, Denise&nbsp;Dresser, Jorge Triana, la sociedad civil y&nbsp;Mexicanos&nbsp;a Favor de la Corrupci&oacute;n de Claudio X. Gonz&aacute;lez, Manuel Clouthier, entre muchos otros. Yo dir&iacute;a que esta es uno de los nados sincronizados con m&aacute;s cobertura, fue&nbsp;trending&nbsp;topic&nbsp;en minutos en cuanto se dio a conocer, primero por un medio de comunicaci&oacute;n en Hong Kong y despu&eacute;s lo retom&oacute;&nbsp;EFE&nbsp;y&nbsp;Aristegui Noticias.</p>
+
+<p>Vamos con la siguiente. La maldad siempre se revierte. Medios y periodistas han aprovechado la tragedia de Acapulco para atacar al gobierno. Es verdaderamente lamentable ver c&oacute;mo medios de comunicaci&oacute;n y opositores han usado la tragedia en Acapulco causada por el hurac&aacute;n Otis para buscar lucrar pol&iacute;ticamente con el sufrimiento del pueblo de Guerrero.</p>
+
+<p>Por 14 d&iacute;as hemos visto en la mayor&iacute;a de&nbsp;medios&nbsp;de comunicaci&oacute;n una campa&ntilde;a intensa contra el gobierno, que tiene como prop&oacute;sito sembrar desconfianza, incertidumbre y enojo contra el gobierno con mentiras de todo tipo.</p>
+
+<p>Presentamos aqu&iacute; en la secci&oacute;n &lsquo;Qui&eacute;n es qui&eacute;n en las mentiras de la semana&rsquo; una selecci&oacute;n de falsedades desde que el hurac&aacute;n Otis toc&oacute; tierra el pasado mi&eacute;rcoles 25 de octubre:</p>
+
+<p>La primera. Es mentira que el Gobierno de M&eacute;xico haya omitido dar informaci&oacute;n sobre el hurac&aacute;n Otis. Esta fue la&nbsp;primer noticia&nbsp;que se difundi&oacute; tras que el hurac&aacute;n Otis en la costa de Acapulco, Guerrero. Medios de comunicaci&oacute;n y en redes sociales aseguraron que el gobierno del presidente L&oacute;pez Obrador no hab&iacute;a dado informaci&oacute;n sobre la magnitud del siniestro a la poblaci&oacute;n, lo cual es absolutamente falso.</p>
+
+<p>Pero vamos a desmentirlos. Instituciones internacionales especializadas en huracanes, revistas cient&iacute;ficas y medios de comunicaci&oacute;n internacionales, no opinadores de ocasi&oacute;n ah&iacute; en las redes sociales, han destacado durante los &uacute;ltimos d&iacute;as la excepcionalidad de Otis, hasta el Centro de Huracanes de Estados Unidos acept&oacute; que ning&uacute;n modelo predictivo pudo prever la fuerza con la que Otis tocar&iacute;a tierra en el Pac&iacute;fico mexicano, ya que pas&oacute; de tormenta tropical a hurac&aacute;n categor&iacute;a 5 en menos de 24 horas.</p>
+
+<p>Comparemos con lo que ocurri&oacute; con otro desastre natural, el hurac&aacute;n Catrina en 2005, que ha sido uno de los m&aacute;s destructivos en la historia de Estados Unidos, tambi&eacute;n categor&iacute;a 5; adem&aacute;s, es el sexto m&aacute;s intenso de todos los huracanes del Atl&aacute;ntico registrados: pas&oacute; de ser categor&iacute;a 1 a 5 en 72 horas, mientras que Otis en menos de 24 horas pas&oacute; de tormenta tropical a hurac&aacute;n categor&iacute;a 5 con vientos de hasta 250 kil&oacute;metros por hora, ning&uacute;n modelo cient&iacute;fico dise&ntilde;ado hasta nuestros d&iacute;as pudo predecir la magnitud de Otis.&nbsp;</p>
+
+<p>Sin embargo, periodistas como Carlos Loret de Mola y en redes sociales se asegur&oacute; que el gobierno federal no habr&iacute;a dado informaci&oacute;n y que no se&nbsp;dio aviso&nbsp;a la poblaci&oacute;n de que el hurac&aacute;n tocar&iacute;a tierra, lo cual es absolutamente falso.</p>
+
+<p>Pero veamos qu&eacute; dijo Loret de Mola.</p>
+
+<p>(INICIA VIDEO)</p>
+
+<p>CARLOS LORET DE MOLA, PERIODISTA:&nbsp;El hurac&aacute;n Otis ha dejado a la vista otro desastre, el desastre del gobierno del presidente L&oacute;pez Obrador. Tanto que habla de que &eacute;l s&oacute;lo piensa en el pueblo; pues el presidente no le avis&oacute; a su pueblo de los que se le ven&iacute;a encima.</p>
+
+<p>Ayer en la ma&ntilde;anera habl&oacute; dos horas con 40 minutos. &iquest;Sabe cu&aacute;nto tiempo dedic&oacute; a advertir que vendr&iacute;a un hurac&aacute;n categor&iacute;a 5? Cero minutos con cero segundos, nada, no digo una sola palabra.</p>
+
+<p>(FINALIZA VIDEO)</p>
+
+<p>ANA ELIZABETH GARC&Iacute;A VILCHIS:&nbsp;&iquest;C&oacute;mo se iba a informar de un hurac&aacute;n de categor&iacute;a 5 durante la ma&ntilde;ana cuando no pod&iacute;a preverse que eso ocurrir&iacute;a?</p>
+
+<p>Esta mentira fue parte de una intensa campa&ntilde;a de desinformaci&oacute;n.Es falso que no se haya&nbsp;dado aviso&nbsp;a los habitantes y visitantes del Puerto de Acapulco. Tanto protecci&oacute;n civil federal y el gobierno del estado de Guerrero desplegaron recursos para la publicaci&oacute;n de alertas, por lo que en ese momento era una tormenta tropical y fueron alertando a la poblaci&oacute;n para que acudiera a centros de refugio en redes sociales, radio, televisi&oacute;n, as&iacute; como alarmas en la ciudad y&nbsp;perifoneos&nbsp;en la costa y en las calles.&nbsp;</p>
+
+<p>Y tanto hab&iacute;a m&aacute;s informaci&oacute;n sobre la intensidad de Otis los mensajes se actualizaban. El martes por la tarde, por ejemplo, se suspendieron las clases y por la noche ya se difund&iacute;a por todos los medios guerrerenses que el hurac&aacute;n era extremadamente peligroso y se conminaba a la poblaci&oacute;n a resguardarse por los vientos de 240 kil&oacute;metros por hora y las lluvias torrenciales.</p>
+
+<p>Pero esto que, por supuesto, no lo dijeron los periodistas, ni los columnistas, los medios de comunicaci&oacute;n, esta vez, en particular cuando m&aacute;s los necesitaban sus audiencias no fueron sus aliados; al contrario, al tratar de encontrar los usuarios informaci&oacute;n veraz, se encontraron con mentiras y desinformaci&oacute;n.</p>
+
+<p>A esta campa&ntilde;a tambi&eacute;n le entraron Carlos Loret de Mola, como lo acabamos de ver; al d&iacute;a siguiente&nbsp;Peniley&nbsp;Ram&iacute;rez, en&nbsp;Reforma; Joaqu&iacute;n L&oacute;pez-D&oacute;riga, monero Rictus y hasta Pamela Cerdeira. Una m&aacute;s quien se lanz&oacute; directamente contra el presidente sin argumentos, pero tampoco con evidencia cient&iacute;fica, puras descalificaciones y la mentira gratuita, fue la se&ntilde;ora Denise&nbsp;Dresser, quien desde sus redes sociales acus&oacute; al presidente de la indiferencia ante el paso del hurac&aacute;n y tergivers&oacute; datos.</p>
+
+<p>La segunda mentira de muchas que se difundieron y que seleccionamos para esta secci&oacute;n, es que es falso que no haya recursos suficientes para atender&hellip; Antes de esta me gustar&iacute;a si podemos pasar el video de la presidenta municipal de Acapulco, donde ella personalmente est&aacute; alertando a la poblaci&oacute;n a que vaya a centros de acopio, digo, perd&oacute;n, centros de refugio, perd&oacute;n.</p>
+
+<p>(INICIA VIDEO)</p>
+
+<p>ABELINA L&Oacute;PEZ RODR&Iacute;GUEZ, PRESIDENTA MUNICIPAL DE ACAPULCO:&nbsp;Me encuentro en el Canal del Perro, este es Canal del Perro y el que atraviesa es Canal del Muerto.</p>
+
+<p>&iquest;Qu&eacute; estoy haciendo aqu&iacute;?</p>
+
+<p>Vine hablar con los ciudadanos de esta colonia que se llama Libertadores y le vine a decir que,&nbsp;de acuerdo a&nbsp;los datos que nos ha compartido los expertos en materia de protecci&oacute;n civil, que, de acuerdo a la tormenta Otis, en este momento es categor&iacute;a 3 y con todas las probabilidades que por la noche se convierta en categor&iacute;a 4.</p>
+
+<p>&iquest;Qu&eacute; quiere decir?</p>
+
+<p>Que m&aacute;s de 200 kil&oacute;metros por hora ser&aacute;n el recorrido de los vientos y que eso alarma, alarma, estamos en alarma roja. Vine a decirles que se tienen que salir de aqu&iacute;, les vine a decir que se vayan al refugio que est&aacute; en la Unidad Campos y que nos ayuden. Sola no puedo. Primero es la vida antes que la cuesti&oacute;n material.</p>
+
+<p>Aqu&iacute; estoy de manera personal tomando las medidas preventivas, pero tambi&eacute;n ellos tendr&aacute;n que hacernos caso, porque esto no es lluvia, esto es viento y lluvia, y por supuesto que esto va a crecer, este canal va a crecer y entonces lo que buscamos es de manera preventiva a que caminemos juntos.</p>
+
+<p>Les sigo informando.</p>
+
+<p>(FINALIZA VIDEO)</p>
+
+<p>ANA ELIZABETH GARC&Iacute;A VILCHIS:&nbsp;Bueno, aqu&iacute; est&aacute;n las autoridades municipales, pero tambi&eacute;n tenemos que decir que hubo perifoneo, mensajes en radio, televisi&oacute;n, no solamente del gobierno de Guerrero, sino tambi&eacute;n de las personas de Protecci&oacute;n Civil, tanto nacional como del gobierno de Guerrero, en el puerto y tambi&eacute;n en las colonias de alto riesgo.&nbsp;</p>
+
+<p>Se pueden no solamente consultar en las redes sociales del estado de Guerrero, sino tambi&eacute;n existen los audios y los videos que confirman esta informaci&oacute;n. Hay un video que le comentaba en la ma&ntilde;ana al presidente en donde los mismos turistas en la bah&iacute;a dec&iacute;an que estaban hartos de la alarma. Entonces, es absolutamente falso que no se haya alertado a la poblaci&oacute;n.&nbsp;</p>
+
+<p>Vamos con la segunda mentira. Dec&iacute;a, es falso que no haya recursos suficientes para atender la emergencia en Acapulco y su reconstrucci&oacute;n. Tras el impacto en la costa guerrerense del hurac&aacute;n categor&iacute;a 5, Otis, actores pol&iacute;ticos, opinadores y medios de comunicaci&oacute;n organizaron otro nado sincronizado para pregonar al un&iacute;sono que, por la supuesta desaparici&oacute;n del fondo de desastres, el famoso&nbsp;Fonden, que el gobierno no contaba recursos para ayudar a las familias damnificadas por el desastre natural, lo cual es absolutamente falso.</p>
+
+<p>Primero,&nbsp;decir&nbsp;que en el presupuesto para este a&ntilde;o que el Senado aprob&oacute; en 2023 el programa para desastres recibi&oacute; 17 mil 156 millones 826 mil 205 pesos de presupuesto federal.</p>
+
+<p>Adem&aacute;s, el gobierno del presidente L&oacute;pez Obrador anunci&oacute; una inversi&oacute;n de 62 mil millones de pesos para la emergencia y la reconstrucci&oacute;n de Acapulco. Se comprometi&oacute; a que no habr&aacute; un l&iacute;mite presupuestal para atender a los damnificados por el hurac&aacute;n en Acapulco y que se atender&aacute; a todos, a todos, sin distinci&oacute;n.</p>
+
+<p>Adem&aacute;s, por si esto fuera poco, el gobierno cuenta con 600 mil millones en&nbsp;caja&nbsp;gracias a las finanzas sanas de esta administraci&oacute;n para que nadie, nadie se quede sin apoyo ante el paso del hurac&aacute;n.</p>
+
+<p>Pero el nado sincronizado sobre la desaparici&oacute;n del&nbsp;Fonden&nbsp;incluy&oacute; una variedad de personajes que vamos a mencionar, desde Roberto Madrazo, Denise&nbsp;Dresser, el expresidente Felipe Calder&oacute;n, el presidente nacional del PRI, Alejandro Moreno; Jes&uacute;s Zambrano, del PRD;&nbsp;Marko&nbsp;Cort&eacute;s, del PAN; Kenia L&oacute;pez Rabad&aacute;n, Jorge Fern&aacute;ndez Men&eacute;ndez en su columna para&nbsp;Exc&eacute;lsior, el hijo de Enrique&nbsp;Krauze, Le&oacute;n&nbsp;Krauze, as&iacute; como medios como&nbsp;Milenio,&nbsp;El Universal. Todos repitieron la supuesta de que el&nbsp;Fonden&nbsp;y la falta de recursos para Acapulco era una verdad, pero pues result&oacute; falso.</p>
+
+<p>A manera de contexto queremos contarles que en 2020 el Senado de la Rep&uacute;blica elimin&oacute; 109 fideicomisos nacionales, incluyendo el&nbsp;Fonden; este supuestamente serv&iacute;a para reconstrucci&oacute;n y apoyos en caso de desastre o siniestro, pero en realidad dicho fideicomiso serv&iacute;a para llenar las bolsas de pol&iacute;ticos corruptos, quienes se aprovechaban de la tragedia para enriquecerse, como consta en los documentos de la Auditor&iacute;a Superior de la Federaci&oacute;n con datos de los resultados de la fiscalizaci&oacute;n del proceso de reconstrucci&oacute;n de los sismos de septiembre de 2017 para recursos ejecutados 2017 y 2018, esta fue la revisi&oacute;n que hizo la Auditor&iacute;a Superior de la Federaci&oacute;n.</p>
+
+<p>Dice:</p>
+
+<p>&lsquo;Fonden, recursos autorizados para atenci&oacute;n de desastres naturales.</p>
+
+<p>&lsquo;La Auditor&iacute;a Superior de la Federaci&oacute;n encontr&oacute; 66 millones de pesos que no se acreditaron en Chiapas y Oaxaca por la entrega y/o instalaci&oacute;n de 221 aulas m&oacute;viles, mientras que 356.7 millones de pesos autorizados en 2017 para atender da&ntilde;os escolares no fueron supervisados correctamente por la SEP, pues en abril de 2018 no hab&iacute;an comenzado ni siquiera los procesos de contrataci&oacute;n.&rsquo;</p>
+
+<p>Pero eso no es todo porque, como se ve en la siguiente gr&aacute;fica, en sexenios pasados los recursos del&nbsp;Fonden&nbsp;no representaban ni una tercera parte de los da&ntilde;os provocados por los fen&oacute;menos naturales, incluso el 65 por ciento era para reparar carreteras, eso era lo que les importaban los contratos de las carreteras y s&oacute;lo el dos por ciento para atender las viviendas da&ntilde;adas, seg&uacute;n consta en datos del&nbsp;Cenapred.</p>
+
+<p>Las administraciones pasadas utilizaban el&nbsp;Fonden&nbsp;en carreteras que, bueno, o no se constru&iacute;an o si medio la constru&iacute;an por ah&iacute; eran contrataciones opacas y contrataban deuda. Ahora con el gobierno del presidente L&oacute;pez Obrador el presupuesto para el fondo de desastres est&aacute; destinado para ayudar a la poblaci&oacute;n damnificada de manera directa, el 29 por ciento son apoyos directos a vivienda, enseres y&nbsp;alimentaci&oacute;n y el uno por ciento para carreteras, reparaci&oacute;n o construcci&oacute;n. Hechos, no palabras. Adem&aacute;s, ahora se destinan tres millones de canastas b&aacute;sicas durante tres meses a los damnificados al hurac&aacute;n Otis, 24 veces m&aacute;s que las despensas otorgadas a los damnificados del hurac&aacute;n&nbsp;Wilma.&nbsp;</p>
+
+<p>Entonces, les preguntamos a esos que se lamentan por la supuesta desaparici&oacute;n del&nbsp;Fonden: &iquest;para qu&eacute; lo usaban?, &iquest;para qu&eacute; lo quer&iacute;an?&nbsp;Pues para robar.</p>
+
+<p>Vamos con la siguiente. Esta es una lamentable noticia falsa porque hasta el momento en el que una servidora habla sigue corriendo a trav&eacute;s de las redes sociales y en mensajes de aplicaciones de mensajer&iacute;a instant&aacute;nea. Es falso, les decimos, que murieran 16 personas por falta de atenci&oacute;n en un hospital de Acapulco.</p>
+
+<p>Latinus,&nbsp;de Loret de Mola, ha utilizado la desgracia por el paso del hurac&aacute;n Otis en las costas de Guerrero para ser uno de los principales protagonistas de la desinformaci&oacute;n. A tan s&oacute;lo unas horas del desastre natural public&oacute; una nota titulada: &lsquo;En el hospital del IMSS de Acapulco murieron al menos 16 pacientes por falta de luz provocada por el hurac&aacute;n Otis&rsquo;, la cual refiere que 16 personas supuestamente perdieron la vida en el Hospital General Regional del IMSS N&uacute;mero 1 &lsquo;Vicente Guerrero&rsquo;, en Acapulco, pero result&oacute; falso. Inmediatamente, a trav&eacute;s de un comunicado, el Instituto Mexicano del Seguro Social desminti&oacute; las versiones publicadas y agreg&oacute; que tampoco hubo afectaciones al suministro el&eacute;ctrico. Esto, adem&aacute;s de ser falso, es un ejemplo de lo carro&ntilde;ero que puede ser este medio de comunicaci&oacute;n.&nbsp;</p>
+
+<p>Vamos con la siguiente de este recuento sobre las mentiras del hurac&aacute;n Otis. En lugar de pedir ayuda y sumarse al llamado a la solidaridad, opositores difunden mentiras de que el gobierno habr&iacute;a bloqueado ayuda humanitaria para Guerrero y la estaba decomisando.</p>
+
+<p>No bien apenas se organizaba la ayuda de la sociedad para los hermanos de Acapulco y Coyuca cuando ya circulaban mentiras que se diseminaron a trav&eacute;s de redes sociales y cuentas de Twitter de opinadores opositores al presidente L&oacute;pez Obrador con el prop&oacute;sito, dec&iacute;amos, de generar enojo hacia el gobierno frente a lo ocurrido en Acapulco, Guerrero. Hasta dijeron que la gente no donara, hicieron ese llamado, que la ayuda se la robaba el gobierno. Estas son puras mentiras, como dice la canci&oacute;n.</p>
+
+<p>Nada de eso sucedi&oacute;, la ayuda ha llegado y sigue llegando libremente hacia Acapulco, porque nuestro pueblo es muy solidario. Y se puede entregar directamente a la poblaci&oacute;n a trav&eacute;s de las v&iacute;as oficiales. Un ejemplo de ello fue la rapidez con la que se propagaron audios falsos a trav&eacute;s de WhatsApp que alertaban sobre un supuesto bloqueo y hasta robos por parte del Ej&eacute;rcito a la ayuda humanitaria que se entregar&iacute;a en Guerrero.</p>
+
+<p>Otro ejemplo fue el comunicado falso de la Cruz Roja que entre sus l&iacute;neas se podr&iacute;a leer: &lsquo;Efectivamente, el presidente del patronato, a trav&eacute;s de&nbsp;Latinus&nbsp;―qu&eacute; raro, &iquest;no?―&nbsp;denunci&oacute; que ten&iacute;an detenida la ayuda humanitaria en Chilpancingo. Gracias a la presi&oacute;n social generada por todos nuestros mensajes y a&nbsp;Latinus&nbsp;―reitera― los transportes con ayuda ya fueron liberados y ya est&aacute;n en Acapulco. Nos pide la Cruz Roja canalizar la donaci&oacute;n a su centro de acopio, ahora que ya permitieron la entrada a Acapulco&rsquo;.</p>
+
+<p>Adem&aacute;s, en este mismo comunicado se pidi&oacute; donar a una cuenta. Miren, no nada m&aacute;s son&nbsp;desinformadores, tambi&eacute;n son fraudulentos. Al respecto, en sus cuentas oficiales verificadas, la Cruz Roja nacional desminti&oacute; que se tratara de un comunicado emitido por la instituci&oacute;n e hizo un llamado a la poblaci&oacute;n a seguir sus canales oficiales para consultar la informaci&oacute;n relacionada con la entrega y recepci&oacute;n de apoyos.</p>
+
+<p>Ah&iacute; no par&oacute;.&nbsp;Reforma&nbsp;public&oacute; una nota el 27 de octubre que llevaba por t&iacute;tulo: &lsquo;Ej&eacute;rcito toma control sobre ayuda en Acapulco&rsquo;. Esto es muy importante porque el diario&nbsp;Reforma&nbsp;p&uacute;blica esta nota y ahorita vamos a ver c&oacute;mo la oposici&oacute;n se hizo bolas y como dicen una cosa, dicen otra; pero vamos con&nbsp;Reforma, primero.</p>
+
+<p>El expresidente Vicente Fox, a la publicaci&oacute;n de esta nota, reaccion&oacute; en su red social X que, bueno, por respeto a la audiencia de esta conferencia no vamos a repetir, pero se trat&oacute; de un reclamo hacia el gobierno infundado y malicioso.</p>
+
+<p>Por su parte, Alfredo &Aacute;lvarez, Luis Pazos y Lilly T&eacute;llez hicieron lo suyo, repartieron la mentira esperando que se volviera verdad, pero, bueno, pobrecitos, porque no lo consiguieron.</p>
+
+<p>Destacar&nbsp;a Salvador Garc&iacute;a Soto, columnista de&nbsp;El Universal, que, miren, este s&iacute; se vol&oacute; la barda de la desinformaci&oacute;n al publicar, voy a citarlo: &lsquo;&iquest;Qu&eacute; ley o art&iacute;culo de la Constituci&oacute;n autoriza al presidente y al Ej&eacute;rcito impedir el libre tr&aacute;nsito de los ciudadanos si no hay un Estado de excepci&oacute;n?&rsquo;, se pregunta.</p>
+
+<p>Y contin&uacute;a: &iquest;Y con qu&eacute; derecho le quitan a la gente la ayuda que con esfuerzo y solidaridad quieren compartir con los damnificados? L&oacute;pez Obrador y los militares est&aacute;n violando la Constituci&oacute;n y cometiendo abuso de autoridad&rsquo;. &lsquo;Hashtag &mdash;desde la comodidad de su casa, seguramente&mdash; no al autoritarismo de AMLO&rsquo;. As&iacute; se las gastan.</p>
+
+<p>Al respecto de todas estas mentiras, el general de brigada Enrique Mart&iacute;nez L&oacute;pez, comandante de la 35 Zona Militar y jefe del centro de acopio de Acapulco para la atenci&oacute;n de la emergencia por el cicl&oacute;n Otis, desminti&oacute; que la ayuda humanitaria que va dirigida para los damnificados por el hurac&aacute;n Otis sea incautada por personal militar. Adem&aacute;s, inform&oacute; que el personal de las Fuerzas Armadas auxilia en la distribuci&oacute;n de despensas a la poblaci&oacute;n de Guerrero, traslados m&eacute;dicos y distribuci&oacute;n de agua, as&iacute; como de alimentos. Hasta aqu&iacute; el desmentido del Ej&eacute;rcito.</p>
+
+<p>Pero, como les dec&iacute;a, la oposici&oacute;n como dice una cosa dice otra, como que no se ponen de acuerdo, y&nbsp;Chumel&nbsp;Torres, fiel a su estilo, contradijo a Salvador Garc&iacute;a Soto y compa&ntilde;&iacute;a y dijo en su cuenta de X que la Secretar&iacute;a de la Defensa Nacional no envi&oacute; soldados a Acapulco tras el paso del hurac&aacute;n Otis, lo cual tambi&eacute;n es falso, la Sedena, Semar y Guardia Nacional han desplegado m&aacute;s de 16 mil elementos para la atenci&oacute;n de la poblaci&oacute;n en Guerrero, como consta en videos, no solamente de las cuentas oficiales del gobierno, sino tambi&eacute;n de los usuarios de las redes sociales y de las personas que han ido solidariamente a ayudar al pueblo de Guerrero.</p>
+
+<p>As&iacute; que, bueno, es falso, por un lado, que el Ej&eacute;rcito haya acaparado la ayuda y, por otro lado, tambi&eacute;n es mentira que no haya soldados en Acapulco.</p>
+
+<p>Vamos con la siguiente. Falso que el uso de electrodom&eacute;sticos sea peligroso en Acapulco por fallas en transformadores de luz. Tal vez a la oposici&oacute;n no le gust&oacute; que en tiempo r&eacute;cord la Comisi&oacute;n Federal de Electricidad restableciera el servicio el&eacute;ctrico.</p>
+
+<p>Hay que recordar que en el 2005 con el paso del hurac&aacute;n Catrina, en Estados Unidos la energ&iacute;a el&eacute;ctrica estaba privatizada por una empresa, tardaron m&aacute;s de tres semanas en reconectar la luz y adem&aacute;s la empresa que otorgaba el servicio quebr&oacute;; y aqu&iacute;, en una semana, el servicio estaba restablecido casi al 100 por ciento. Pues tengan para que aprendan, &iquest;no?</p>
+
+<p>Como de lo que se trata es de crear miedo y desconfianza, a trav&eacute;s de redes sociales han circulado publicaciones en los que se menciona descomposturas de ciertos aparatos electrodom&eacute;sticos al conectarlos a la luz en Acapulco tras reconexi&oacute;n del servicio por el hurac&aacute;n Otis, pero eso no es verdad. Como decimos, difunden mentiras porque est&aacute;n muy enojados.</p>
+
+<p>Sin embargo, el 3 de noviembre la CFE emiti&oacute; un comunicado se&ntilde;alando que, una vez restablecido el suministro el&eacute;ctrico, es seguro conectar los siguientes electrodom&eacute;sticos, pongan atenci&oacute;n: planchas, lavadoras, licuadoras, aires acondicionados, hornos de microondas, motobombas y compresores.</p>
+
+<p>Cabe resaltar que la Comisi&oacute;n Federal de Electricidad, a trav&eacute;s de sus redes sociales, ha compartido los avances de la reparaci&oacute;n realizados desde el paso del hurac&aacute;n Otis por el puerto de Acapulco para evitar la desinformaci&oacute;n que corre en las redes sociales.</p>
+
+<p>Vamos con la &uacute;ltima nota de esta secci&oacute;n, porque Pascal Beltr&aacute;n del R&iacute;o miente sobre supuestos asaltos por parte de autoridades en Guerrero. Esta noticia falsa no tiene un final feliz para Pascal Beltr&aacute;n del R&iacute;o y compa&ntilde;&iacute;a.</p>
+
+<p>El pasado 29 de octubre circul&oacute; un video a trav&eacute;s de redes sociales en el que se observa a unos supuestos militares que retienen a unas personas en lo que parece una carretera. Usuarios aseguraron que se trata de elementos del Ej&eacute;rcito asaltando a conductores y regres&aacute;ndolos a Chilpancingo bajo el contexto de la entrada de v&iacute;veres y despensas a los damnificados del hurac&aacute;n Otis en Guerrero. Pero esto es falso. Dicho video fue compartido, dec&iacute;amos, por el periodista Pascal Beltr&aacute;n del R&iacute;o y cuentas que se dedican a difundir desinformaci&oacute;n, pero result&oacute; falso. Al respecto, la Secretar&iacute;a de Seguridad y Protecci&oacute;n Ciudadana inform&oacute; que el video que circula en redes sociales no corresponde a Chilpancingo, sino a Aguascalientes en septiembre de 2023.</p>
+
+<p>Adem&aacute;s, la dependencia agreg&oacute; que ya se procedi&oacute; a restablecer, a establecer la sanci&oacute;n correspondiente a los elementos que participaron en el hecho. Y aunque la informaci&oacute;n que desmiente este bulo se encuentra disponible, incluso debajo del tuit de Pascal Beltr&aacute;n del R&iacute;o, ni el periodista, ni las otras cuentas, por falta de responsabilidad con sus audiencias o por irresponsabilidad y falta de moral, no han borrado la publicaci&oacute;n.</p>
+
+<p>Con esto concluimos el recuento que hicimos. Por supuesto, faltan muchas, muchas noticias que no estamos pasando por falta de tiempo.&nbsp;</p>
+
+<p>Pero vamos a presentarles, por &uacute;ltimo, la colaboraci&oacute;n con Infodemia acerca de las mentiras difundidas sobre el Presupuesto de la Federaci&oacute;n 2024, aprobado en lo general por la C&aacute;mara de Diputados. Vamos a verlo.</p>
+
+<p>(INICIA VIDEO)</p>
+
+<p>VOZ HOMBRE:&nbsp;Cuatro partidas de mentiras sobre el presupuesto 2024.</p>
+
+<p>La Secretar&iacute;a de Hacienda y Cr&eacute;dito P&uacute;blico present&oacute; el Proyecto de Presupuesto de Egresos de la Federaci&oacute;n correspondiente al ejercicio fiscal 2024 y desde medios de comunicaci&oacute;n y redes sociales comentaristas proyectaron cuatro partidas de mentiras sobre el presupuesto:</p>
+
+<p>Uno. Falso que no haya recursos para atender a los damnificados de Acapulco en 2024. Diversos pol&iacute;ticos y comentaristas han argumentado falsamente que como el Presupuesto de Egresos de la Federaci&oacute;n 2024 no tiene etiquetados recursos para la reconstrucci&oacute;n de Acapulco no habr&aacute; presupuesto disponible para este fin. Sin embargo, el presidente L&oacute;pez Obrador ha aclarado que ya se destinaron 61 mil millones de pesos en 2023 para la reconstrucci&oacute;n de Acapulco y la atenci&oacute;n de damnificados sin que estos recursos estuvieran etiquetados en el presupuesto 2023; adem&aacute;s, detall&oacute; que no hay l&iacute;mite de recursos para este fin.&nbsp;</p>
+
+<p>Dos. Falso que se reduzca el presupuesto de salud. Para 2024 el Presupuesto de Egresos tiene contemplado 990 mil millones de pesos para el sector salud, seg&uacute;n datos del Centro de Investigaci&oacute;n&nbsp;Econ&oacute;mica y Presupuestaria. Lo conforman 457 mil millones del IMSS, 76 mil millones del Issste, 19 mil millones de Pemex, 96 mil millones de la Secretar&iacute;a de Salud, 128 mil millones de IMSS-Bienestar, 135 mil millones del Fondo de Aportaciones para los Servicios de Salud, 65 mil millones de aportaciones de seguridad social, ocho mil millones de la Sedena y tres mil millones de la Secretar&iacute;a de Marina.</p>
+
+<p>Tres. Falso que el presupuesto 2024 ser&aacute; usado con fines electorales. Las becas a estudiantes, pensiones para personas con discapacidad y para adultos mayores son derechos establecidos en la Constituci&oacute;n Pol&iacute;tica&nbsp;de los Estados Unidos Mexicanos y su entrega no est&aacute; condicionada por lo que no puede hacerse uso electoral de estos programas. Adem&aacute;s, por ley el monto de los recursos asignados para los programas sociales no puede ser disminuido respecto al a&ntilde;o anterior, la raz&oacute;n por la cual el presupuesto 2024 contempla aumento en estos rubros.</p>
+
+<p>Cuatro. Falso que el presupuesto sea una venganza del presidente L&oacute;pez Obrador contra los &oacute;rganos aut&oacute;nomos. El dictamen de Presupuesto de Egresos enviado a la C&aacute;mara de Diputados contempla una reducci&oacute;n en t&eacute;rminos nominales a algunos &oacute;rganos aut&oacute;nomos; sin embargo, seg&uacute;n el diputado Ignacio Mier, la reducci&oacute;n no representa un recorte en t&eacute;rminos reales, pues considerando la inflaci&oacute;n el presupuesto asignado a los &oacute;rganos aut&oacute;nomos se mantiene igual que el presupuesto asignado en 2023.</p>
+
+<p>IGNACIO MIER VELAZCO, DIPUTADO:&nbsp;No hay ning&uacute;n recorte. Recorte es si solicitaran 10 pesos a valor presente y se les diera ocho. A ninguno, lo puedo decir categ&oacute;ricamente, a ning&uacute;n organismo constitucionalmente aut&oacute;nomo, ni a ning&uacute;n poder van a recibir a valor presente un presupuesto que apruebe la c&aacute;mara inferior al que tienen en este momento. Con el cuatro por ciento que se est&aacute; proyectando de inflaci&oacute;n todos van a tener en t&eacute;rminos reales el mismo presupuesto a valor presente. Ninguna se les disminuye.</p>
+
+<p>VOZ HOMBRE:&nbsp;Infodemia.</p>
+
+<p>(FINALIZA VIDEO)</p>
+
+<p>ANA ELIZABETH GARC&Iacute;A VILCHIS:&nbsp;Es cuanto, se&ntilde;or presidente. Que todas y todos tengan un buen d&iacute;a.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Bueno, vamos, quedaron mujeres, mujeres, vamos a las tres mujeres.</p>
+
+<p>PREGUNTA:&nbsp;Zald&iacute;var.</p>
+
+<p>PREGUNTA:&nbsp;Lo del anuncio del ministro.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Tranquilos, no griten. Ya hasta parecen de los voceros del conservadurismo, que andan alterados. Tranquilos.</p>
+
+<p>PREGUNTA:&nbsp;Buenos d&iacute;as, presidente.</p>
+
+<p>Lo de Zald&iacute;var lo va a preguntar mi compa&ntilde;era&nbsp;Zeltzin. Yo le quiero preguntar &mdash;porque ya nos pusimos de acuerdo&mdash; yo le quiero preguntar: ayer en Puebla fue el secretario de Infraestructura Comunicaciones y Transportes, Jorge Nu&ntilde;o, por el aniversario del 150 aniversario, perd&oacute;n, del 150 aniversario de la primera red f&eacute;rrea. &Eacute;l coment&oacute; que ya se est&aacute; pidiendo a los empresarios, pues a los que pueden, un modelo de negocios para ver si se podr&iacute;a o, m&aacute;s bien, para que se haga dentro de estas varias l&iacute;neas que se est&aacute;n proyectando para los pr&oacute;ximos a&ntilde;os estas l&iacute;neas de trenes, si se puede impulsar la de Puebla-Ciudad de M&eacute;xico-Veracruz.</p>
+
+<p>&iquest;Habr&iacute;a posibilidad, digamos, antes de que usted concluya de tener alg&uacute;n proyecto ejecutivo en ese sentido? El secretario se&ntilde;alaba que se proyectar&iacute;a esta l&iacute;nea para en unos tres a&ntilde;os, est&aacute;n pidiendo el modelo de negocios. Pero &iquest;qu&eacute; nos podr&iacute;a opinar al respecto?</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Bueno, que con motivo un aniversario m&aacute;s de nuestra Revoluci&oacute;n&hellip; Que es un acontecimiento hist&oacute;rico excepcional, &uacute;nico, es el primero en el mundo, es la primera revoluci&oacute;n social del mundo y tambi&eacute;n la primera constituci&oacute;n, la de 1917, con dimensi&oacute;n social a favor del pueblo, de los campesinos, de los obreros, de la mayor&iacute;a de nuestro pueblo.</p>
+
+<p>Por eso no debemos de olvidar nunca lo que fue la Revoluci&oacute;n mexicana, que se convoc&oacute; en 1910 por el Ap&oacute;stol de la Democracia, Francisco I. Madero. Y luego, por su cobarde asesinato, se desat&oacute; con m&aacute;s fuerza por todo el pa&iacute;s.</p>
+
+<p>Cost&oacute; la vida de un mill&oacute;n de mexicanos que lucharon por la justicia, por la democracia, por las libertades;&nbsp;murieron por violencia, por epidemias, por hambre, pero no fue en vano. Gracias a eso en la Constituci&oacute;n del 17 se establecieron derechos sociales como no suced&iacute;a en ninguna parte del mundo, todav&iacute;a no se consumaba la revoluci&oacute;n rusa, para poner un ejemplo, y ya nuestros constituyentes hab&iacute;an establecido el derecho de los campesinos a la tierra, el derecho a jornadas justas de trabajo de ocho horas, el salario m&iacute;nimo, prestaciones y, algo que fue muy importante, el dominio de la naci&oacute;n sobre los recursos naturales, en especial el petr&oacute;leo. Entonces, no podemos olvidar eso.</p>
+
+<p>Tambi&eacute;n, en esa Revoluci&oacute;n se tom&oacute; la decisi&oacute;n de mexicanizar los ferrocarriles. Ya lo coment&eacute;, de c&oacute;mo se hab&iacute;an entregado concesiones en el porfiriato a empresas extranjeras. Luego, se les rescat&oacute;, fue como un Fobaproa;&nbsp;pero ya rescatados&nbsp;los ferrocarriles, ya siendo de M&eacute;xico, f&iacute;jense la mentalidad que prevalec&iacute;a, lo siguieron manejando administradores estadounidenses y hasta los operadores, los maquinistas eran estadounidenses. Es hasta que triunfa la revoluci&oacute;n maderista que se decide que los trabajadores de los ferrocarriles, que ya eran de M&eacute;xico, iban a ser operados por mexicanos. Eso se lo debemos a Francisco I. Madero.</p>
+
+<p>Entonces, yo quiero que para el 20 de noviembre se d&eacute; a conocer un decreto por el cual vamos a tomar la decisi&oacute;n de utilizar, convocando a los que tienen ahora las concesiones que entreg&oacute; Ernesto Zedillo, convoc&aacute;ndolos para que todas las v&iacute;as de los ferrocarriles de M&eacute;xico de carga puedan utilizarse &mdash;porque hay facultad legal&mdash; para trenes de pasajeros. M&aacute;s de 20 mil kil&oacute;metros de v&iacute;as f&eacute;rreas.</p>
+
+<p>Vamos a darle primero la preferencia a quienes ya tienen las concesiones de trenes de carga para que,&nbsp;en un tiempo razonable,nos presenten un proyecto y se conviertan esas v&iacute;as, que se utilizan para trenes de carga, desde luego mediante su reparaci&oacute;n, modernizaci&oacute;n, electrificaci&oacute;n, porque nos va a ayudar mucho a enfrentar el problema de la contaminaci&oacute;n.</p>
+
+<p>Esta decisi&oacute;n,&nbsp;va a entregarse a ellos la posibilidad, primero, de que se comprometan a poner trenes de pasajeros. Si en un tiempo razonable ellos deciden que no van a participar en otorgar el servicio de trenes de pasajeros y van a seguir con el servicio de carga, nosotros vamos entonces a tomar la decisi&oacute;n de que el Estado mexicano inicie un programa para la adquisici&oacute;n de trenes de pasajeros y se utilicen las mismas v&iacute;as para que vuelva el servicio de trenes a M&eacute;xico.</p>
+
+<p>Estamos cumpliendo 150 a&ntilde;os desde el inicio de la construcci&oacute;n del primer ferrocarril o, mejor dicho, de la inauguraci&oacute;n del primer tren, que fue en 1873, 1873 que se inaugur&oacute; el tren de M&eacute;xico a Veracruz, entonces es un a&ntilde;o hist&oacute;rico, y estos tecn&oacute;cratas irresponsables, corruptos, acabaron en un abrir y cerrar de ojos con los trenes de pasajeros.</p>
+
+<p>Entonces, queremos que se pueda viajar desde Canc&uacute;n hasta la Ciudad de M&eacute;xico en tren; desde la Ciudad de M&eacute;xico a Guadalajara, a Nayarit, a Sinaloa, Sonora, hasta la frontera; de la Ciudad de M&eacute;xico a Quer&eacute;taro, San Luis Potos&iacute;, Monterrey, hasta Nuevo Laredo; de la Ciudad de M&eacute;xico hasta Chihuahua, en tren.</p>
+
+<p>Y de una vez, &iquest;eh?&nbsp;Porque me tengo que adelantar, no es expropiaci&oacute;n, &iquest;eh?, est&aacute; en la Constituci&oacute;n y en la ley, es nada m&aacute;s hacer uso del derecho que tenemos para que se utilice toda esa infraestructura en beneficio del pueblo de M&eacute;xico.</p>
+
+<p>Entonces, voy a dar a conocer antes del d&iacute;a 20 de noviembre el decreto. Ya lo estamos trabajando, inclusive ya se enviaron cartas a los concesionarios invit&aacute;ndolos a que vayan preparando sus proyectos, considerando de que,&nbsp;como ellos tienen la concesi&oacute;n de los trenes de carga, que puedan tambi&eacute;n recibir la concesi&oacute;n para trenes de pasajeros si se comprometen a prestar este servicio.</p>
+
+<p>INTERLOCUTORA:&nbsp;&iquest;Cu&aacute;ntos son? &iquest;Y m&aacute;s o menos qu&eacute; tiempo razonable podr&iacute;a ser darse para estos concesionarios?</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Pues yo creo que para enero ya sabemos. Por eso lo quiero hacer pronto, para que en enero ya sepamos si hay inter&eacute;s o no, y nos d&eacute; tiempo de tomar una decisi&oacute;n.</p>
+
+<p>INTERLOCUTORA:&nbsp;&iquest;Cu&aacute;ntos concesionarios hay actualmente, aproximadamente? &iquest;Cu&aacute;ntos concesionarios hay actualmente m&aacute;s o menos?</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Grandes, grandes, tres.&nbsp;</p>
+
+<p>Es que con Ernesto Zedillo se privatizaron los ferrocarriles, desaparecieron los trenes de pasajeros y se privatizaron los trenes de carga. Milagrosamente no quitaron un art&iacute;culo, una fracci&oacute;n, donde se establece que, si el Estado mexicano, en beneficio del pueblo, considera necesario el restablecer el servicio de trenes de pasajeros, puede hacerlo en cualquier momento. A lo mejor nunca imaginaron que nos iban a hacer falta los trenes de pasajeros, que ayudan much&iacute;simo, porque es quitarles tr&aacute;fico a las carreteras, es menos contaminaci&oacute;n, es un transporte c&oacute;modo, barato.&nbsp;</p>
+
+<p>Y, adem&aacute;s, tenemos una f&aacute;brica de trenes en Ciudad Sahag&uacute;n, Alstom, que es una f&aacute;brica que hace trenes para todo el mundo.&nbsp;</p>
+
+<p>Y ya se est&aacute; recuperando toda la ingenier&iacute;a ferroviaria que se estaba perdiendo con la construcci&oacute;n del Tren Maya, con la rehabilitaci&oacute;n del tren del istmo.&nbsp;Les comentaba yo que hicieron un tren en Florida, en Orlando, tardaron 12 a&ntilde;os haciendo 380 kil&oacute;metros, y el&nbsp;maya son cinco a&ntilde;os, menos, porque empezamos realmente en el 19 y lo vamos a inaugurar a finales de este a&ntilde;o, y son como dos mil 400 kil&oacute;metros de v&iacute;a,&nbsp;y en distancia mil 554 kil&oacute;metros, y en costos much&iacute;simo menos, y lo que se va a cobrar al pasajero aqu&iacute; con relaci&oacute;n a lo que van a cobrar all&aacute;, con lo que ya est&aacute;n cobrando, no hay comparaci&oacute;n. Los t&eacute;cnicos mexicanos, los ingenieros mexicanos, los trabajadores mexicanos son mucha pieza.</p>
+
+<p>INTERLOCUTORA:&nbsp;Y si estos concesionarios no aceptaran, entonces&nbsp;&iquest;el Estado mexicano convocar&iacute;a a otros empresarios a invertir?</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;S&iacute;, hay dos opciones, pero eso va a decidirlo, creo&hellip; Porque ya nosotros no tendr&iacute;amos tiempo, pero s&iacute; decidir&iacute;amos que el Estado mexicano se hace cargo. Nada m&aacute;s que para la entrega de las concesiones hay dos opciones:</p>
+
+<p>Una, el que se convoque a otros empresarios que quieran y se les d&eacute; la concesi&oacute;n para convivir en el uso de las v&iacute;as.</p>
+
+<p>Tambi&eacute;n,&nbsp;de acuerdo a&nbsp;la ley, tienen prioridad los trenes de pasajeros, tambi&eacute;n que se sepa, &iquest;eh?, eso. Los horarios para trenes de pasajeros.</p>
+
+<p>Si no se decide eso, entonces puede ser el Estado directamente, como se va a administrar el Tren Maya, como se va a administrar el tren del istmo.</p>
+
+<p>INTERLOCUTORA:&nbsp;Gracias, presidente.</p>
+
+<p>La otra pregunta es respecto al tema de estrategia de seguridad, es respecto al robo de gasolina y huachicol en algunos estados.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;A ver, a ver, nada m&aacute;s. Es que es muy interesante.&nbsp;</p>
+
+<p>Esto es Kansas, el rojo. &iquest;Aqu&iacute; fue a donde se fue a trabajar Zedillo o no fue a esta? S&iacute;, a Kansas, &iquest;no?, despu&eacute;s que entreg&oacute; la concesi&oacute;n se fue a trabajar de asesor.</p>
+
+<p>La azul es Ferromex, es esta, miren. Entonces, tambi&eacute;n se entreg&oacute; en ese tiempo, creo que fueron las dos m&aacute;s grandes.</p>
+
+<p>Estas son tambi&eacute;n de algunos empresarios, creo que es una sociedad tambi&eacute;n de Ferromex con otros empresarios.</p>
+
+<p>Y la verde tambi&eacute;n es Ferromex, pero se les llama Ferrosur, es de los mismos due&ntilde;os. Que, dicho sea de paso, tambi&eacute;n Grupo M&eacute;xico, que es la empresa que tiene que ver con todos estos ferrocarriles, menos con esta de Kansas, ya acept&oacute; el acuerdo del istmo, este tramo, ya se lleg&oacute; a un acuerdo con ellos de la recuperaci&oacute;n de la concesi&oacute;n.</p>
+
+<p>Tengo que reconocer que aceptaron entregar por cuestiones de seguridad nacional esta l&iacute;nea, que es la del istmo, que esta es la franja que une a dos oc&eacute;anos, que ahora que hay problemas con el canal de Panam&aacute; esta es estrat&eacute;gica hacia el futuro. Entonces,&nbsp;reconocerles&nbsp;que ya aceptaron este acuerdo.</p>
+
+<p>Y tambi&eacute;n&nbsp;reconocer&nbsp;que ya devolvieron mil millones de pesos de un anticipo que hab&iacute;an recibido en el Tren Maya y una obra que qued&oacute; inconclusa, y ya hay voluntad de arreglo.</p>
+
+<p>Y hay ya una mesa en Gobernaci&oacute;n donde tambi&eacute;n se est&aacute; trabajando lo de la contaminaci&oacute;n de lo del r&iacute;o Sonora y otros temas. Pero ya hay acuerdo, ya se est&aacute; negociando.</p>
+
+<p>Bueno, pues todo esto, todo, va a pasar de nuevo a ser utilizado. Yo espero que, al continuar la transformaci&oacute;n, este proyecto siga adelante. Nosotros, con esto que estamos haciendo m&aacute;s otros dos o tres trenes, vamos a dejar tres mil kil&oacute;metros de trenes de pasajeros. Iniciamos la recuperaci&oacute;n de los trenes de pasajeros porque no hab&iacute;an dejado nada, s&oacute;lo hab&iacute;an dejado ac&aacute; arriba El Chepe, este, tur&iacute;stico, y el de Tequila;&nbsp;todo lo dem&aacute;s lo hab&iacute;an entregado y se hab&iacute;an convertido en trenes de carga.</p>
+
+<p>Acu&eacute;rdense que se iba de la Ciudad de M&eacute;xico a Guadalajara, que se iba a Monterrey en tren, o sea, los que tienen m&aacute;s edad se acuerdan de eso.&nbsp;</p>
+
+<p>Entonces, &iquest;qu&eacute; ventajas tenemos pensando en el transporte hacia el futuro?&nbsp;Pues que se tiene todos los derechos de v&iacute;a, ya no hay que abrir ning&uacute;n tramo, no hay que afectar ninguna zona de humedales, ya es por donde han pasado los ferrocarriles desde hace m&aacute;s de 100 a&ntilde;os, porque el primer ferrocarril, dec&iacute;a yo, fue el de la Ciudad de M&eacute;xico a Veracruz, que son 600 kil&oacute;metros.</p>
+
+<p>Pero, luego, con Porfirio D&iacute;az se dieron todas las concesiones, m&aacute;s de 20 mil kil&oacute;metros en los 34 a&ntilde;os de Porfirio D&iacute;az, incluidos los cuatro en que estuvo su compadre Manuel Gonz&aacute;lez, y se comunic&oacute; todo.</p>
+
+<p>Antes del porfiriato los liberales hicieron esto, pero no quer&iacute;an la comunicaci&oacute;n para el norte. Hay una frase que se le atribuye a Sebasti&aacute;n Lerdo de Tejada, liberal juarista, que fue el que lo sustituye cuando fallece aqu&iacute;, en este Palacio, Benito Ju&aacute;rez, en 1872. El que entra a sustituirlo fue Sebasti&aacute;n Lerdo de Tejada, por eso le toca a &eacute;l inaugurar el ferrocarril que ya hab&iacute;a empezado el presidente Ju&aacute;rez, un a&ntilde;o despu&eacute;s de la muerte de Ju&aacute;rez se inaugura el ferrocarril a Veracruz. Pero Lerdo dec&iacute;a o se le atribuye la frase de que,&nbsp;entre un pueblo d&eacute;bil y uno fuerte,&nbsp;el desierto, es mejor el desierto.</p>
+
+<p>Entonces, con Porfirio D&iacute;az se dice: &lsquo;No, no, no, vamos a comunicarnos&rsquo;, y todas estas redes tienen comunicaci&oacute;n con ciudades de Estados Unidos, con redes que comunican a estados de la Uni&oacute;n Americana.&nbsp;</p>
+
+<p>Entonces, este es un poco la historia de los ferrocarriles. Y es lo que queremos ahora, vamos de nuevo a recuperarlos poco a poco, pero ya tenemos un proyecto de comunicaci&oacute;n para el futuro.</p>
+
+<p>F&iacute;jate lo que ocasion&oacute; tu pregunta.&nbsp;S&iacute;, este es el de Veracruz, pero todos. Cada vez que&hellip; Cuando lleg&oacute; el&hellip; Si hay inter&eacute;s y buscan en las hemerotecas, cuando se inaugura el ferrocarril de Guadalajara, cuando llega el ferrocarril a Guadalajara es una fiesta, era todo un acontecimiento;&nbsp;esto,&nbsp;durante el porfiriato.</p>
+
+<p>Y s&iacute;, esto es&hellip;Hay en el libro de Vasconcelos, de Jos&eacute; Vasconcelos,&nbsp;Ulises criollo, hay una descripci&oacute;n &mdash;&eacute;l ten&iacute;a muy buena prosa, escrib&iacute;a muy bien&mdash; sobre c&oacute;mo viaja de Veracruz a la Ciudad de M&eacute;xico. Hab&iacute;a los Pullman, empezaba a haber&hellip; Bueno, no voy a hablar de eso.</p>
+
+<p>INTERLOCUTORA:&nbsp;Presidente, la segunda pregunta: hab&iacute;a comentado que desde la federaci&oacute;n trabajaba en una nueva estrategia para seguir&nbsp;combatiendo&nbsp;el huachicol;&nbsp;el huachicol en estados como Puebla, Hidalgo, Veracruz, el Estado de M&eacute;xico. &iquest;Ya la tienen definida? Lo comento porque tambi&eacute;n de este delito se desprenden otros y en algunos estados se percibe como un reacomodo de grupos delictivos. &iquest;Qu&eacute; se est&aacute; pensando al respecto desde la federaci&oacute;n?</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Seguimos avanzando, se ha venido reduciendo el huachicol. Podemos dar el dato de ayer, para que vean c&oacute;mo no se ha incrementado; al contrario, aunque sea poco, pero sigue bajando.</p>
+
+<p>La gente se est&aacute; portando muy bien. Es que,&nbsp;cuando llegamos,&nbsp;los que se dedicaban al robo de combustible, que eran pandillas, bandas de delincuentes, ten&iacute;an bases sociales porque les daban apoyos o les permit&iacute;an que llenaran algunos bidones, tambi&eacute;n, de gasolinas;&nbsp;por eso esa desgracia que hubo en Hidalgo. Todo eso lo encontramos y ya afortunadamente todo eso ha ido cambiando, ya no tienen apoyo de la gente, porque el pueblo est&aacute; recibiendo ahora lo que por derecho le correspond&iacute;a y no le entregaban:&nbsp;sus&nbsp;Programas de Bienestar, hay trabajo, ha mejorado el salario.</p>
+
+<p>Entonces, por eso tambi&eacute;n hemos logrado esto, es una disminuci&oacute;n, vamos a llegar a los 300 mil millones de pesos de ahorro. Esto funcion&oacute;.</p>
+
+<p>Y ahora tomamos otra decisi&oacute;n, tambi&eacute;n la informo &mdash;ya despu&eacute;s a detalle&mdash;:&nbsp;de&nbsp;que en la frontera&hellip; Porque estaban metiendo tambi&eacute;n gasolina, mejor dicho, aditivos para gasolinas de contrabando, pipas tambi&eacute;n, y ya se tom&oacute; una decisi&oacute;n de no permitir ese contrabando. Y&nbsp;no permitir el robo, porque esto es lo que nos ayuda a tener presupuesto.</p>
+
+<p>Ahora que se ve&iacute;a lo de Acapulco, dicen: &lsquo;Fonden&rsquo;. Adem&aacute;s de que se robaban lo del dinero del&nbsp;Fonden, que nunca le llegaba a la gente, era muy poco para lo que nosotros destinamos a apoyar a damnificados, lo que destinamos para apoyar a los damnificados en Tabasco, en Veracruz, en Guerrero. Lo que estamos destinando y vamos a ejercer en Acapulco, hablaba yo de 60 mil millones, pero puede ser que sean 100 mil. &iquest;Cu&aacute;ndo estos corruptos iban a estar pensando que, en el caso de Acapulco, los 250 damnificados, apoyos para sus viviendas? 250 familias damnificadas, 250 paquetes de enseres, es decir, 250 mil refrigeradores, 250 mil estufas, 250 mil licuadoras, 250 mil camas, 250 mil ventiladores, 250 mil vajillas, sartenes? &iquest;Cu&aacute;ndo?</p>
+
+<p>Nada m&aacute;s lo de estos d&iacute;as, me llena de tranquilidad, de satisfacci&oacute;n el que la gente tenga comida, no le falte agua, porque estamos entregando como 60 mil, 70 mil comidas diarias; estamos distribuyendo como 40, 50 mil despensas diarias.</p>
+
+<p>Ayer fui, porque son muy perversos nuestros adversarios los conservadores. Estoy cada vez m&aacute;s convencido de que son malos de&nbsp;Malolandia, que mienten como respiran, que son muy hip&oacute;critas, que aparenten ser gente de bien y tienen una doble moral. Ya se hab&iacute;a difundido &mdash;y con la idea hitleriana de que una mentira que se repite muchas veces puede convertirse en verdad, y como tienen el control de los medios, pues ejerc&iacute;an as&iacute; una dictadura medi&aacute;tica&mdash; que no hab&iacute;a yo estado en Acapulco. Llevo cuatro viajes a Acapulco, cuatro.</p>
+
+<p>INTERVENCI&Oacute;N:&nbsp;&iquest;Y c&oacute;mo le fue?</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Bien. Y estamos avanzando, ya el 65 por ciento del agua de la red ya est&aacute; funcionando, est&aacute; funcionando la energ&iacute;a el&eacute;ctrica, ya hay cerca de 70 gasolineras abiertas, ya est&aacute;n abriendo comercios; estamos avanzando en la limpia porque la gente est&aacute; ayudando y est&aacute; limpiando, y tenemos que buscar dep&oacute;sitos para la basura; y sigue la b&uacute;squeda de desaparecidos, y estamos ayudando en todo.</p>
+
+<p>Ayer ya se empezaron a entregar los apoyos para adultos mayores, para personas con discapacidad. Ya llevamos alrededor de 200 mil viviendas censadas. Ya empezamos a entregar enseres, no vamos a parar.</p>
+
+<p>Ahora lo que estamos previendo&hellip; Bueno, lo primero es que no nos falte alimentaci&oacute;n, o sea, los v&iacute;veres; afortunadamente, ya las tiendas est&aacute;n abriendo; se est&aacute; dando seguridad en toda la ciudad; que no nos falte&nbsp;la comida, que no nos falte el agua.</p>
+
+<p>Ya se cuenta con la luz. Va a llevar alg&uacute;n tiempo lo de la conexi&oacute;n, todo esto que est&aacute;n manejando, de que todav&iacute;a falta la reconexi&oacute;n a las casas; porque est&aacute; todo el sistema ya restablecido, pero falta ir conectando casa por casa; ya se ha avanzado bastante, pero falta todav&iacute;a.</p>
+
+<p>Y vamos bastante bien. La gente se ha portado mucho muy bien. Como antecedente, nada m&aacute;s decirles que yo cada vez que he sido candidato, y fui varias veces &mdash;ya no voy a volver ser a nada, a nada&mdash; siempre he ganado en Acapulco; o sea, hay mucha identificaci&oacute;n, conozco mucho a la gente de Acapulco, me conocen.</p>
+
+<p>Antes de esto, ya Guerrero &mdash;les muestro, a ver, &iquest;por qu&eacute; no pones los&nbsp;Programas de Bienestar que se aplican en&nbsp;Guerrero?&mdash;Guerrero, Chiapas y Oaxaca, esos tres estados son los que reciben m&aacute;s apoyo del gobierno federal. La gente m&aacute;s necesitada es la que m&aacute;s apoyo recibe.</p>
+
+<p>Acaba de pasar el censo de ingresos por familia y Guerrero redujo la pobreza en el tiempo que llevamos. Ah&iacute; est&aacute;n los datos del Inegi. Chiapas fue el primer estado con m&aacute;s reducci&oacute;n de pobreza. &iquest;Ustedes creen que&hellip;?&nbsp;</p>
+
+<p>Hay una que&hellip; Todo esto se aplica en Guerrero. Esto es antes de; ahora va a ser mucho m&aacute;s. Pero hay 327 mil adultos mayores que tienen pensi&oacute;n, casi 10 mil millones al a&ntilde;o. Y ahora, aprovechando que ya se ha aprob&oacute; el presupuesto, porque recib&iacute;an cuatro mil 800, ahora van a recibir seis mil a partir de enero.</p>
+
+<p>Cincuenta y cuatro mil 308 ni&ntilde;as, ni&ntilde;os. Aqu&iacute; todav&iacute;a no se contempla a personas con discapacidad de 29 a 64 a&ntilde;os, que ya llegamos a un acuerdo y ya va a ser universal en Guerrero, todos los discapacitados de Guerrero van a tener su pensi&oacute;n.</p>
+
+<p>Veintiocho mil 731 estudiantes de madres trabajadoras, de madres solas, solteras.</p>
+
+<p>Treinta y seis mil 227 campesinos, ejidatarios, peque&ntilde;os propietarios reciben un jornal equivalente a un salario m&iacute;nimo para que cultiven sus parcelas.&nbsp;</p>
+
+<p>Ayer, que habl&eacute; con el presidente municipal de Coyuca, lo que me plante&oacute;, entre otras cosas, es que el programa de Coyuca, que llega como a 20, 30 ejidos del municipio, se ampl&iacute;e&nbsp;a todo el municipio, porque hubo tambi&eacute;n, con el hurac&aacute;n, muchos da&ntilde;os a &aacute;rboles, o sea, se arrancaron los &aacute;rboles, se afect&oacute; mucho, entonces hay que reforestar, entonces esto va a ampliarse.&nbsp;</p>
+
+<p>Becas para el nivel b&aacute;sico, aqu&iacute; tambi&eacute;n hay una muy buena noticia, mucho muy buena,&nbsp;estas becas de nivel b&aacute;sico es&nbsp;para 259 mil estudiantes, va a aumentar al doble ya en el presupuesto para el a&ntilde;o pr&oacute;ximo, o sea, porque tenemos aqu&iacute; la preocupaci&oacute;n de que no son todos los estudiantes, porque el nivel b&aacute;sico es el que tiene m&aacute;s estudiantes, y pues es muy discriminatorio, donde hay tanta pobreza, que en un sal&oacute;n de clase la mitad tenga la beca y la otra mitad no la tenga. Ya nosotros no vamos a poder hacer universal este programa, pero yo espero que el pr&oacute;ximo gobierno, que va a seguir con la transformaci&oacute;n, va a ser universal la beca para nivel b&aacute;sico. Pero s&iacute; vamos a dejar al 100 por ciento en las zonas pobres el nivel b&aacute;sico.</p>
+
+<p>Luego, en el nivel medio superior ah&iacute; s&iacute; son todos, son 121 mil 21 estudiantes de nivel preparatoria, ah&iacute; s&iacute; es universal, es a todos. Ah&iacute; nada m&aacute;s en todos los casos, donde no aumenta considerablemente como adultos mayores o el n&uacute;mero de personas o de estudiantes beneficiados, en todos los casos hay incremento cuando menos por inflaci&oacute;n. O sea, la beca va a ser m&aacute;s a partir de enero.</p>
+
+<p>Becas a nivel superior, estos son los que estudian nivel universitario, casi 20 mil ellos est&aacute;n recibiendo como cinco mil 500, a ver, bimestrales. &iquest;Cu&aacute;nto?</p>
+
+<p>INTERVENCI&Oacute;N:&nbsp;Dos mil 800 por mes.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Dos mil 800 por mes. T&uacute; est&aacute;s&hellip; Dos mil 800 por mes reciben los de nivel superior, estos 19 mil 654.</p>
+
+<p>Estos son pescadores. Ah, no, J&oacute;venes Construyendo el Futuro, 15 mil 415, esto aumenta 10 mil m&aacute;s. Ayer ya me informaron que ya se hab&iacute;an contratado mil de los 10 mil en Acapulco, y ya est&aacute;n en labores de limpieza ayudando a limpiar: brocha, pintura, pala, escoba, vamos a limpiar.</p>
+
+<p>Otros est&aacute;n en talleres capacit&aacute;ndose, form&aacute;ndose, los j&oacute;venes, y reciben un salario m&iacute;nimo, que ya el salario m&iacute;nimo es de un poco m&aacute;s de seis mil pesos al mes, ya no es como antes.</p>
+
+<p>Y aprovecho tambi&eacute;n para decir que ya estoy por recibir a los miembros de la Comisi&oacute;n de Salarios M&iacute;nimos, porque entrando diciembre decidimos de cu&aacute;nto va a ser el aumento al salario m&iacute;nimo, y va a ser un aumento considerable. Nada m&aacute;s hay que buscar el consenso, el acuerdo, con el sector empresarial, porque con el sector obrero pues con ellos no hay mucho problema, pero el sector empresarial por lo general ayuda, s&oacute;lo un a&ntilde;o no han estado de acuerdo, y como son tres partes&nbsp;votamos dos a favor y as&iacute; qued&oacute; ahora s&iacute; que los&nbsp;mayoriteamos, pero solamente un a&ntilde;o, siempre el sector empresarial ha ayudado en los incrementos salariales.</p>
+
+<p>Luego, bueno, los pescadores, tambi&eacute;n les aviso que van a recibir apoyo. En el caso de Acapulco, en el caso de Guerrero, son 11 mil 857 todos los pescadores de Acapulco y Coyuca tambi&eacute;n van a recibir su apoyo directo.</p>
+
+<p>Va a continuar el programa de Precios de Garant&iacute;a. Los campesinos, son 302 mil 798 que reciben de manera directa apoyo, todos los que perdieron sus cosechas. Me toc&oacute; ver las afectaciones en milpas cuando fui a Acapulco al primer d&iacute;a, que me atasqu&eacute;, que les consta a todos, porque hicieron un esc&aacute;ndalo, &iquest;s&iacute;?, pero luego, como son unos&nbsp;cinicazos&nbsp;se olvidaron de todo y empezaron a decir: &lsquo;No ha visitado Acapulco&rsquo;. Todav&iacute;a aqu&iacute; vinieron ayer, creo, s&iacute;, que tra&iacute;an carteles de la se&ntilde;ora X&oacute;chitl G&aacute;lvez y hab&iacute;a m&aacute;s periodistas que manifestantes, estaba as&iacute;, as&iacute; estaba, como arroz hab&iacute;a periodistas.</p>
+
+<p>Y tambi&eacute;n aprovecho para agradecer que trajeron&nbsp;Ma&ntilde;anitas. Muchas gracias a toda la gente. Ya voy a cumplir 70 a&ntilde;os el 13 de noviembre, que es lunes. Voy a estar en Sonora. Muchas gracias. No hace falta lo de&nbsp;Las ma&ntilde;anitas&nbsp;y todo; o sea, por telepat&iacute;a. Ahora van a decir que invoco al gran dirigente de la democracia, el Ap&oacute;stol de la Democracia, c&oacute;mo lo fastidiaron con lo del espiritismo a Madero.</p>
+
+<p>Entonces, decirles: No, esa es una cosa amorosa, es rec&iacute;proco, nos queremos mucho. Ya lo doy pues por sabido y tambi&eacute;n que todos lo reciban as&iacute;, porque es sincero. &iquest;C&oacute;mo no voy yo a querer al pueblo si, entre otras cosas, bueno, me hacen ser muy dichoso, muy dichoso? Me siento muy orgulloso, muy humano. Me hacen ser de lo m&aacute;s privilegiado que puede haber el poder servir a los que lo necesitan, a los pobres, a todos. Eso me lo da el pueblo.</p>
+
+<p>Pero, adem&aacute;s, por si fuese poco, son los que me defienden, son como mi &aacute;ngel de la guarda. Si no fuese por el pueblo, &iquest;ustedes creen que los de las televisoras, los de la radio, los peri&oacute;dicos, los potentados, me defender&iacute;an? No, no. Si fue un milagro del pueblo llegar hasta ac&aacute;, fue la gente. Y agradecerles mucho por&nbsp;Lasma&ntilde;anitas.</p>
+
+<p>Bueno,&nbsp;decir&nbsp;que vamos a seguir ayudando en Acapulco, vamos bien, se va normalizando la situaci&oacute;n. Fue muy fuerte, mucho muy fuerte, es categor&iacute;a 5.</p>
+
+<p>F&iacute;jense, hoy habl&aacute;bamos, yo recib&iacute; el&hellip; estaba yo pendiente por la evoluci&oacute;n de tormenta tropical, luego a 3, luego a 4 y luego que va a entrar a 5, y estaba pendiente. Y recib&iacute; el reporte de las 6:00, luego otro reporte con aviones de estos,&nbsp;cazahuracanes, hablando de que se iba a intensificar. Y puse un mensaje como a las 8:00 de la noche, pero me apoy&eacute; en lo que se estaba informando, de que iba a entrar de 4:00 a 6:00 de la ma&ntilde;ana. Y en la franja costera de Acapulco a Tecpan, esto un poco m&aacute;s de las ocho de la noche. &iquest;Por qu&eacute; no pones mi mensaje?</p>
+
+<p>Pero me qued&eacute; todav&iacute;a&hellip; Bueno, a partir de &hellip; Ya unos d&iacute;as antes ya ten&iacute;amos trabajo. Esta imagen es de las 6:00. S&iacute;, aqu&iacute; est&aacute;. Esta es de las 8:00, no ten&iacute;amos otra, pero esto fue a las 8:00 de la noche un poco m&aacute;s, y miren lo que pongo:</p>
+
+<p>&lsquo;Atento aviso a toda la poblaci&oacute;n de la Costa Grande de Guerrero&rsquo;. Estoy hablando de la Costa Grande porque esa era la informaci&oacute;n a las 6:00,&nbsp;y estaba yo esperando el otro reporte. Me habl&oacute; Germ&aacute;n Mart&iacute;nez como a las 7:00 de la noche y fue cuando me dijo que le estaban informando por tel&eacute;fono desde el Centro de Control de Huracanes en Estados Unidos que se estaba precipitando y que iba a entrar, que pod&iacute;a entrar con categor&iacute;a 5.</p>
+
+<p>&lsquo;Con la informaci&oacute;n disponible se pronostica que el hurac&aacute;n Otis entrar&aacute; al territorio con categor&iacute;a 5, entre Acapulco y Tecpan&rsquo;, porque esa era la informaci&oacute;n que ten&iacute;amos.</p>
+
+<p>Y esto tambi&eacute;n: &lsquo;De las 4:00 a las 6:00 de la ma&ntilde;ana&rsquo;, y no, entr&oacute; a las 12 y media de la noche o iniciando la ma&ntilde;ana del d&iacute;a siguiente.</p>
+
+<p>&lsquo;Est&aacute; en marcha el Plan DN-III-E y el Plan Marina, en coordinaci&oacute;n con el gobierno del estado. Acepten trasladarse a refugios, mantenerse en lugares seguros &mdash;cuando estaba yo escribiendo esto, pens&eacute; en decirlo m&aacute;s fuerte, o sea, viene ca&ntilde;&oacute;n, o sea, algo as&iacute;, pero dije: no, con esto basta&mdash;,&nbsp;en coordinaci&oacute;n con el gobierno del estado;&nbsp;acepten trasladarse a refugios, mantenerse en lugares seguros alejados de r&iacute;os, arroyos, barrancas y est&eacute;n alerta, sin confiarse&rsquo;. Casi era: no hay que dormirse.</p>
+
+<p>&lsquo;Nosotros tambi&eacute;n estamos pendientes.&rsquo;</p>
+
+<p>Bueno, todo esto lo explico porque mis malquerientes, con el prop&oacute;sito de da&ntilde;arnos, mienten de que no se avis&oacute; y&hellip; Pues ten&iacute;amos la informaci&oacute;n disponible hasta entonces.</p>
+
+<p>Pero hoy, porque siempre me qued&oacute; la duda, a ver, qu&eacute; inform&oacute;&nbsp;Azteca&nbsp;y qu&eacute; inform&oacute;&nbsp;Televisa. Pues s&iacute; informaron: despu&eacute;s de este informe, ellos informan. P&oacute;nganlo, por favor.&nbsp;</p>
+
+<p>&iquest;Est&eacute; de qui&eacute;n es? Este es de&nbsp;Azteca. Miren, es 09:38 que est&aacute;n informando.&nbsp;</p>
+
+<p>(INICIA VIDEO)</p>
+
+<p>URIEL BENJAM&Iacute;N ESTRADA, CONDUCTOR:&nbsp;Informamos de la alerta que hay en el Pac&iacute;fico por el poderoso hurac&aacute;n Otis que ya alcanz&oacute; la m&aacute;xima categor&iacute;a, la n&uacute;mero 5, un hurac&aacute;n peligroso&nbsp;de acuerdo al&nbsp;reporte de las autoridades.</p>
+
+<p>Justamente vamos a enlazarnos hasta el estado de Guerrero con nuestra compa&ntilde;era Lucero Rodr&iacute;guez, que nos informa sobre la situaci&oacute;n que se vive ante la proximidad de Otis. Lucero, hacemos contacto en vivo contigo a las nueve de la noche con 38 minutos. &iquest;D&oacute;nde te encuentras?</p>
+
+<p>LUCERO RODR&Iacute;GUEZ, REPORTERA:&nbsp;Uriel, buenas noches. Completamente en vivo desde Tecpan de Galeana, Guerrero, es como la guardarraya en donde va a pasar este hurac&aacute;n que en algunas horas podemos mencionar que pas&oacute; de tormenta tropical a hurac&aacute;n categor&iacute;a 5, en menos de 12 horas se convirti&oacute; en un poderoso hurac&aacute;n con vientos sostenidos de hasta 257 kil&oacute;metros por hora.</p>
+
+<p>Estamos viendo en pantalla c&oacute;mo el Ej&eacute;rcito Mexicano est&aacute; implementando el Plan DN-III en su fase preventiva. Los vemos en veh&iacute;culos recorrer las calles de Tecpan de Galeana.</p>
+
+<p>Invitar a la gente a que se vaya a sus casas, decirles que no est&eacute;n en ninguna zona peligrosa, que si su casa es endeble se vayan a uno de los m&aacute;s de 500 refugios que hay habilitados en todo el estado de Guerrero.</p>
+
+<p>Se prev&eacute; que el impacto sea en Acapulco. Cabe destacar que hasta hace unos minutos el impacto directo iba a ser en Tecpan de Galeana, ahora se habla de que se desvi&oacute; y ser&aacute; en Acapulco, pero esto no quiere decir que no se vayan a presentar fuertes vientos, que no se vayan a presentar lluvias intensas aqu&iacute;,&nbsp;en Tecpan de Galeana.&nbsp;</p>
+
+<p>Y hay que recordar, Uriel, que Tecpan ha sido golpeado, hace 15 d&iacute;as Max como tormenta tropical lo golpe&oacute;. Est&aacute; endeble, se cayeron algunas carreteras que fueron reparadas solamente pues,con tierra compactada; hay tambi&eacute;n r&iacute;os que est&aacute;n muy llenos luego del paso de Max, el azolve. As&iacute; es que le piden a la gente que no tome esto a la ligera, Uriel, y que se prevenga de Otis tanto aqu&iacute;,&nbsp;en Tecpan de Galeana,&nbsp;como en Acapulco, Guerrero.</p>
+
+<p>Uriel.</p>
+
+<p>URIEL BENJAM&Iacute;N ESTRADA:&nbsp;Muy bien. Lucero, lo que estamos viendo atr&aacute;s, atr&aacute;s, a tu espalda, es el Plan DN-III-E que est&aacute; aplicando ya la Sedena, que se activ&oacute;, lo anunci&oacute; el presidente de la Rep&uacute;blica, Andr&eacute;s Manuel L&oacute;pez Obrador, esto a manera preventiva.</p>
+
+<p>LUCERO RODR&Iacute;GUEZ:&nbsp;As&iacute; es. El Plan DN-III-E, como ves, por parte de la Secretar&iacute;a de la Defensa Nacional, del Ej&eacute;rcito Mexicano; el Plan Marina por parte de la Secretar&iacute;a de Marina;tambi&eacute;n est&aacute; el Plan Guardia Nacional, todos ellos est&aacute;n trabajando, est&aacute;n recorriendo las calles, est&aacute;n haciendo rondines para que la gente permanezca en casa.</p>
+
+<p>Cabe destacar que hay personas que todav&iacute;a podemos ver en la calle, hay coches que todav&iacute;a vemos circulando. Recordarle a la gente que la autoridad recomienda permanecer en casa, no atraves&aacute;rsele a la corriente de r&iacute;os y arroyos, pero tampoco a calles que se puedan inundar porque menos de un metro de agua puede arrastrar no solamente a una persona, sino tambi&eacute;n a un veh&iacute;culo con personas y no queremos contar otra historia.</p>
+
+<p>Por lo pronto, nosotros vamos a permanecer aqu&iacute; mientras la se&ntilde;al y Otis nos lo permita. Y recordarle a la gente permanecer en casa, Uriel, resguardarse.</p>
+
+<p>Quien tenga una casa endeble... Ve&iacute;amos que, por ejemplo, en&nbsp;puerto Vicente Guerrero, aqu&iacute; muy cerca, las casas que est&aacute;n sobre la playa son de madera muy delgada, algunas de carrizo; entonces, todas esas casas son las primeras a las que les vuelan los techos.</p>
+
+<p>Lo material se recupera, Uriel, pero quienes tienen ni&ntilde;os, quienes adultos mayores, es mejor acudir a&nbsp;uno&nbsp;de estos 500 albergues que est&aacute;n en diferentes lugares como escuelas primarias, secundarias, centros de salud, algunos DIF, para que la gente pueda pasar esta noche.</p>
+
+<p>M&aacute;s vale pecar de que nos asustamos o que tal vez no pasa nada, pero estar resguardados en casa para evitar pues contar despu&eacute;s una tragedia, Uriel.</p>
+
+<p>URIEL BENJAM&Iacute;N ESTRADA:&nbsp;Oye, Lucero, &iquest;ya hay gente, ya hay poblaci&oacute;n que ha acudido a estos albergues que est&aacute;n habilitados o todav&iacute;a no?</p>
+
+<p>LUCERO RODR&Iacute;GUEZ:&nbsp;Aqu&iacute; en Tecpan de Galeana, nadie. Nosotros platic&aacute;bamos con la gente y, bueno, dec&iacute;an que ya pas&oacute; Max y que esperar&iacute;an tambi&eacute;n a Otis.&nbsp;</p>
+
+<p>Cabe destacar que Max dej&oacute; grandes desastres como tormenta tropical. Ahora Otis viene como hurac&aacute;n categor&iacute;a 5, por lo que la gente debe estar prevenida, saber d&oacute;nde est&aacute;n estos albergues y llegar. Hasta el momento nadie, Uriel. Cada&nbsp;quien&nbsp;en su casa, vemos negocios todav&iacute;a abiertos, hasta hace unos minutos hab&iacute;a gente vendiendo elotes, es por eso que lo que es el Ej&eacute;rcito, la Guardia Nacional, la Marina, est&aacute;n calle por calle con&nbsp;perifoneos, invitando&nbsp;a la gente a que se resguarde en casa.</p>
+
+<p>Si no tienen nada que hacer en la calle, v&aacute;yase a su casa, porque Otis ya est&aacute; muy cerca de Acapulco y tambi&eacute;n de aqu&iacute;, de este lugar donde, te digo, es la segunda embestida en menos de 15 d&iacute;as que dar&aacute; aqu&iacute;,&nbsp;en Tecpan de Galeana, Uriel.</p>
+
+<p>URIEL BENJAM&Iacute;N ESTRADA:&nbsp;Muy bien, Lucero. Agradecemos este reporte. Cu&iacute;dense mucho tambi&eacute;n ustedes. Vamos a estar atentos ante cualquier situaci&oacute;n, si nos permites. Y como bien dec&iacute;as, si la se&ntilde;al tambi&eacute;n nos lo permite, mantenemos la comunicaci&oacute;n abierta con ustedes ante cualquier novedad.</p>
+
+<p>(FINALIZA VIDEO)</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;A ver, el otro.</p>
+
+<p>(INICIA VIDEO)</p>
+
+<p>ENRIQUE ACEVEDO QUINTANA, CONDUCTOR:&nbsp;Muy buenas noches. Yo soy Enrique Acevedo. Estas son las noticias En punto.</p>
+
+<p>En tan s&oacute;lo unas horas se espera que el poderoso hurac&aacute;n Otis impacte en las costas de Guerrero con vientos sostenidos de m&aacute;s de 260 kil&oacute;metros por hora y rachas de hasta 315 kil&oacute;metros por hora.&nbsp;</p>
+
+<p>Estamos, no lo dude, frente a un fen&oacute;meno extremadamente peligroso para los millones de personas que viven en el cono de preocupaci&oacute;n, que abarca desde el puerto de Acapulco, hasta Tecpan de Galeana.</p>
+
+<p>Le quiero mostrar c&oacute;mo se ven a esta hora las bandas cicl&oacute;nicas en la imagen satelital del Centro Nacional de Huracanes de Estados Unidos;&nbsp;esto,&nbsp;para darnos una idea de la escala del fen&oacute;meno que impactar&aacute; las costas de Guerrero esta madrugada.</p>
+
+<p>Por la noche,&nbsp;el presidente L&oacute;pez Obrador exhort&oacute; a los habitantes del estado de Guerrero a trasladarse a refugios y mantenerse en lugares seguros.</p>
+
+<p>Vamos hasta a Acapulco, esta noche ah&iacute; se encuentra nuestro compa&ntilde;ero Isaac Flores con toda la informaci&oacute;n. Isaac, buenas noches.</p>
+
+<p>ISAAC FLORES PINEDA&nbsp;Qu&eacute; tal, Enrique, buenas noches.</p>
+
+<p>Efectivamente, Otis se acerca muy lentamente a la l&iacute;nea de costa. Son cinco los municipios que est&aacute;n en la trayectoria de impacto: el puerto de Acapulco, principalmente: Coyuca de Ben&iacute;tez, que es colindante con el municipio de Acapulco; tambi&eacute;n Benito Ju&aacute;rez, Atoyac de &Aacute;lvarez y Tecpan de Galeana.</p>
+
+<p>Las clases est&aacute;n suspendidas, tambi&eacute;n los puertos est&aacute;n cerrados a todo tipo de navegaci&oacute;n y el estado de Guerrero, Enrique, se encuentra en alerta m&aacute;xima por la proximidad de este fen&oacute;meno hidrometeorol&oacute;gico que durante el d&iacute;a evolucion&oacute; hasta categor&iacute;a 5.</p>
+
+<p>Ya se sienten fuertes rachas de viento, tambi&eacute;n hay oleaje elevado y en la costera Miguel Alem&aacute;n, aqu&iacute; en el puerto de Acapulco, ya se registran encharcamientos.</p>
+
+<p>La hoteler&iacute;a&nbsp;ha informado a sus hu&eacute;spedes que no salgan de sus instalaciones y que se mantengan atentos.</p>
+
+<p>Y en cuanto a la poblaci&oacute;n civil, hay un monitoreo permanente por parte del Ej&eacute;rcito, de la Marina, que han activado sus planes de emergencia como el Plan Marina y el Plan DN-III en su fase de prevenci&oacute;n, para poder llevar a cualquier damnificado, a cualquiera que lo requiera, a uno de los&nbsp;700 refugios temporales que est&aacute;n habilitados en todo el estado de Guerrero; pero la atenci&oacute;n se concentra, sin duda, en estos cinco municipios.</p>
+
+<p>Enrique, son 200 kil&oacute;metros de l&iacute;nea de costa entre el puerto de Acapulco y Tecpan de Galena: est&aacute; Coyuca de Ben&iacute;tez, est&aacute; Benito Ju&aacute;rez, Atoyac de &Aacute;lvarez y Tecpan que pudieran impactar en algunos de esos lugares entre las 4:00 y 6:00 de la ma&ntilde;ana, Enrique.</p>
+
+<p>ENRIQUE:&nbsp;Pues s&iacute;, Isaac Flores, lo que describes como el cono de preocupaci&oacute;n en la trayectoria que seguir&iacute;a este hurac&aacute;n. Es el primer hurac&aacute;n categor&iacute;a 5 en impactar las costas del Pac&iacute;fico mexicano, el primero en impactar las costas del Pac&iacute;fico mexicano.</p>
+
+<p>Entre los de mayor intensidad est&aacute;n el hurac&aacute;n Madeleine, con vientos de hasta 230 kil&oacute;metros por hora en la bah&iacute;a de&nbsp;Petacalco, en los l&iacute;mites con Michoac&aacute;n, esto fue en octubre del 76, imag&iacute;nense hace 47 a&ntilde;os.</p>
+
+<p>Tambi&eacute;n, en la categor&iacute;a 4m en el Pac&iacute;fico, Lisa, en La Paz, en Baja California, en 1976.</p>
+
+<p>Ken, en San Blas, Nayarit, en 2002.</p>
+
+<p>Patricia, en las bah&iacute;as cercanas a Navidad, en Jalisco, la parte de Careyes en 2015.</p>
+
+<p>Y tambi&eacute;n, recientemente Lidia, en Tomatl&aacute;n, Jalisco, en 2023.</p>
+
+<p>Todos,&nbsp;hurac&aacute;n 4, categor&iacute;a 4, nunca&nbsp;un categor&iacute;a&nbsp;5 ha llegado a las costas del Pac&iacute;fico mexicano.</p>
+
+<p>Vamos con Ismael Marcelo, del Servicio Meteorol&oacute;gico Nacional. Dos cosas: lo que dec&iacute;a nuestro corresponsal en Guerrero, este fen&oacute;meno se intensifica de una tormenta tropical hoy a las 9:00 de la ma&ntilde;ana a un hurac&aacute;n categor&iacute;a 5. &iquest;Cu&aacute;les son las condiciones que contribuyen a este fortalecimiento&nbsp;tan r&aacute;pido y tan inesperado?</p>
+
+<p>ISMAEL MARCELO DOM&Iacute;NGUEZ, METEOR&Oacute;LOGO DEL SERVICIO METEOROL&Oacute;GICO NACIONAL&nbsp;(SMN):&nbsp;Hola, qu&eacute; tal, Enrique. Muy buenas noches. Un gusto saludarte a ti y a tu amable auditorio.</p>
+
+<p>Pues bien, como observamos a las seis de la tarde aproximadamente el Centro Nacional de Huracanes, con sede en Miami, Florida, realiz&oacute; un vuelo de reconocimiento sobre este hurac&aacute;n. Este fen&oacute;meno Otis que actualmente se presenta al sur de las costas de Guerrero, aproximadamente a 260 kil&oacute;metros al suroeste de Acapulco, Guerrero.</p>
+
+<p>Este fen&oacute;meno lleva consigo vientos intensos. Pero hay algo importante, el Centro Nacional de Huracanes, con sede en Miami, se coordin&oacute; con el Servicio Meteorol&oacute;gico Nacional alrededor de las seis, siete de la tarde para determinar y decirnos que este fen&oacute;meno iba a tener una r&aacute;pida intensificaci&oacute;n.</p>
+
+<p>De hecho, solamente dos ciclones tropicales de 1966 a la fecha han tenido una r&aacute;pida intensificaci&oacute;n: el primero de ellos fue Patricia, en el 2015 precisamente en el mes de octubre, y hoy tenemos a Otis Ismael Marcelo, del Servicio Meteorol&oacute;gico Nacional que, como t&uacute; lo mencionas, de la ma&ntilde;ana a la noche se intensific&oacute; de tormenta tropical a hurac&aacute;n de categor&iacute;a 5.</p>
+
+<p>Este fen&oacute;meno presenta vientos m&aacute;ximos sostenidos de 270 kil&oacute;metros por hora con rachas superiores&nbsp;a esta velocidad. Este fen&oacute;meno se dirige, se desplaza hacia el nornoreste a raz&oacute;n de 15 kil&oacute;metros por hora y,&nbsp;de acuerdo al&nbsp;pron&oacute;stico oficial, este fen&oacute;meno se dirige, y entre las cuatro de la ma&ntilde;ana y seis de la ma&ntilde;ana podr&iacute;a impactar en las inmediaciones de Acapulco, Guerrero. Sin embargo, vemos el cono de incertidumbre, ese cono de color amarillo, el cual indica que los efectos de hurac&aacute;n se sentir&aacute;n desde Tecpan de Galeana hasta San Marcos, all&aacute; en Guerrero.</p>
+
+<p>ENRIQUE ACEVEDO QUINTANA:&nbsp;Pues, Ismael Marcelo, much&iacute;simas gracias por este informe desde el Servicio Meteorol&oacute;gico Nacional.</p>
+
+<p>Lo reitero porque es importante, estamos frente a un fen&oacute;meno sumamente peligroso, un hurac&aacute;n de mucha potencia, de mucho poder. Y no solamente es el viento que ve&iacute;amos, r&aacute;fagas de hasta 315&nbsp;kil&oacute;metros por hora, es la cantidad de agua y la marejada cicl&oacute;nica, es decir, c&oacute;mo empuja la parte del mar hacia adentro de la costa.</p>
+
+<p>Estaremos muy pendientes de lo que ocurra, aunque la atenci&oacute;n estar&aacute; puesta en Guerrero, en el hurac&aacute;n Otis.</p>
+
+<p>Sigue la emergencia por la tormenta Norma, en Sinaloa, lo que pas&oacute; el fin de semana&hellip;</p>
+
+<p>(FINALIZA VIDEO)</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Nada m&aacute;s para seguir informando, informando, informando, no nos queda m&aacute;s que contrarrestar y contrarrestar la campa&ntilde;a de mentiras, de desinformaci&oacute;n con prop&oacute;sitos politiqueros, porque quieren debilitarnos pol&iacute;ticamente, es ese su prop&oacute;sito; entonces, agarraron lo de Otis, pero ayer encontraron en Hong Kong, en un puerto, bueno ya se inform&oacute; aqu&iacute;, droga en costales de&nbsp;Segalmex, bueno, ya somos nosotros hasta narcotraficantes.</p>
+
+<p>Y todos, es L&oacute;pez-D&oacute;riga, Ciro, Loret de Mola, Denise&nbsp;Dresser, este &Aacute;lvarez Icaza est&aacute; en todo, los del bloque conservador, todos, todos; conductores de radio, este que pronostic&oacute; que se iba a ir el peso a 25,&nbsp;Chumel&nbsp;Torres, el experto este en temas econ&oacute;micos; todos, todos, todos, ah&iacute; est&aacute; este Soto, el director de&nbsp;Exc&eacute;lsior.</p>
+
+<p>Bueno, pero ya yo le he dicho y lo voy a&nbsp;volver a repetir, no son ellos, ellos son mandados, son sus jefes, que est&aacute;n molestos porque estaban acostumbrados a robar y a robar y a robar a manos llenas porque no hac&iacute;an negocios.</p>
+
+<p>Un gran secretario de Hacienda, Antonio Ortiz Mena, que fue secretario de Hacienda dos sexenios, cuando mejor funcion&oacute; la econom&iacute;a en M&eacute;xico con el famoso desarrollo estabilizador, tasas de crecimiento del seis por ciento anual, sin devaluaci&oacute;n y sin inflaci&oacute;n, y desde luego sin deuda, dec&iacute;a que eran necesarios los negocios privados con ganancias razonables. O sea, claro que se puede hacer negocios con ganancias razonables, pero &iquest;qu&eacute; era lo que hac&iacute;an en el periodo neoliberal?&nbsp;Eran robos.</p>
+
+<p>&iquest;Qu&eacute; cosa puede ser una ganancia razonable?</p>
+
+<p>Pues una utilidad del 30 por ciento, pero yo les puedo mostrar &mdash;&iquest;por qu&eacute; no pones lo de los&nbsp;hospitales?&mdash;&nbsp;de c&oacute;mo construyen un hospital&hellip; Pero esto lo podemos replicar con una c&aacute;rcel o con la concesi&oacute;n de una carretera,&nbsp;con la concesi&oacute;n de un banco, con lo que sea; es m&aacute;s, con el pago de impuestos, y d&iacute;ganme si es razonable. &iquest;D&oacute;nde est&aacute; el 30 por ciento razonable de utilidad?</p>
+
+<p>Miren, 180 camas, un hospital as&iacute;, cuando yo fui jefe de&nbsp;Gobierno constru&iacute; un hospital, construimos un hospital en Iztapalapa, ah&iacute; est&aacute;, se llama &lsquo;Belisario Dom&iacute;nguez&rsquo;, 150 camas, cost&oacute; en ese entonces 350 millones de pesos, 350 millones de pesos. Bueno, eso fue como en el 2003, 2005; este es de 180.</p>
+
+<p>&iquest;En cu&aacute;nto se hace?</p>
+
+<p>Bueno, estamos haciendo uno as&iacute;, el&nbsp;O&#39;Hor&aacute;n, incluso m&aacute;s camas que este, como dos mil 500 millones, dos mil millones, bien hecho, equipado y todo. Se hace un contrato por 17 mil 364 millones;&nbsp;de dos mil que cuesta a 17 mil.</p>
+
+<p>Hoy se hace un aval&uacute;o de cu&aacute;nto cuesta el hospital. &iquest;D&oacute;nde est&aacute; el aval&uacute;o? M&iacute;nimo,&nbsp;186 millones;&nbsp;m&aacute;ximo 603, es lo que vale, esto es un aval&uacute;o oficial.</p>
+
+<p>Bueno, &iquest;cu&aacute;nto se tiene que pagar a&ntilde;o con a&ntilde;o hasta cubrir los 17 mil millones que contrataron? Regr&eacute;salo. Seiscientos treinta y tres millones. Lo que vale es lo que hay&nbsp;que&nbsp;pagar&nbsp;un a&ntilde;o, s&iacute;, nada&nbsp;m&aacute;s que esto por 20 o 25 a&ntilde;os. Pero si lo llevamos a los hospitales, digo, a los reclusorios, es lo mismo; y lo llevamos a que no pagaban impuestos, es igual.</p>
+
+<p>Entonces, por eso es el enojo. O sea, no es Joaqu&iacute;n L&oacute;pez-D&oacute;riga o Ciro, a ellos les pagan, pero&hellip; Les pagan bien, pues, pero hay nivelitos, s&iacute;, los de mero arriba esos eran los due&ntilde;os del pa&iacute;s. Por eso es el enojo.</p>
+
+<p>Pero &iquest;qu&eacute; dicen ustedes? &iquest;Aguantamos el enojo o que regrese la corrupci&oacute;n? &iquest;Aguantamos el enojo? S&iacute;, nada m&aacute;s que ustedes no reciben las mentadas. Bueno, de todas maneras, aguantamos el enojo solidariamente.&nbsp;</p>
+
+<p>Pero, en fin, esto es lo que sucede. Nada m&aacute;s entenderlo, nada m&aacute;s entenderlo, no pelearnos, mucho menos odiar. Es decir, son intereses, es la lucha por la defensa de intereses y de privilegios, y es lo que vamos a legar, a heredar a las nuevas generaciones.</p>
+
+<p>Que esto nunca m&aacute;s vuelva a suceder en M&eacute;xico, porque esto era lo que nos imped&iacute;a avanzar, esto era la principal barrera para que toda la creatividad de M&eacute;xico, de su pueblo, permitiera vivir con felicidad a todos, con tranquilidad, con paz social.&nbsp;</p>
+
+<p>Este es el principal problema, por eso digo: no es una pandemia, es una peste la corrupci&oacute;n. Y hay que seguir limpiando, y no le hace que se enojen en el Poder Judicial y que se enojen en todos lados.&nbsp;</p>
+
+<p>Que, por cierto, no he escuchado nada de&hellip;</p>
+
+<p>INTERVENCI&Oacute;N:&nbsp;&iquest;Del ministro Zald&iacute;var?</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;No, lo de la devoluci&oacute;n, eso es lo que me importa, lo de los 15 mil millones para Acapulco.</p>
+
+<p>INTERVENCI&Oacute;N:&nbsp;&iquest;Ya hubo alg&uacute;n (inaudible) con la ministra Pi&ntilde;a?</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Lo est&aacute; viendo la secretaria de Gobernaci&oacute;n, pero no me ha informado. Quiero ver, porque ya eso se puede resolver pronto y va a ayudar mucho.</p>
+
+<p>Y tambi&eacute;n aprovecho para contestarles lo del ministro Zald&iacute;var: present&oacute; su renuncia y ya hoy env&iacute;o el oficio.</p>
+
+<p>INTERVENCI&Oacute;N:&nbsp;&iquest;Si la va a aceptar, presidente?</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;S&iacute;, s&iacute;, la acepto y env&iacute;o el oficio al Senado, que es al que le corresponde decidir si se acepta o no se acepta.</p>
+
+<p>Entonces, el procedimiento es:&nbsp;de acuerdo a&nbsp;la Constituci&oacute;n, se presenta la renuncia, yo ya la acept&eacute; y falta que la apruebe el Senado. Despu&eacute;s de eso, si la aprueban, yo voy a enviar una terna para la sustituci&oacute;n. Entonces, ya voy a empezar a ver a qui&eacute;n propongo, a ver si tengo suerte y le atino porque he propuesto cuatro y dos salieron&nbsp;conservas,&nbsp;conservas.</p>
+
+<p>INTERVENCI&Oacute;N:&nbsp;&iquest;Cu&aacute;l fue la causa grave? &iquest;Cu&aacute;l fue la causa grave, presidente? La Constituci&oacute;n establece que s&oacute;lo por causa grave puede renunciar un ministro.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Pues eso es cuesti&oacute;n de interpretaci&oacute;n, &iquest;no? Si una persona ya no quiere continuar en un cargo, no se le puede obligar.&nbsp;</p>
+
+<p>Ya lo hice con el ministro Medina Mora. Envi&eacute; igual el oficio y el Senado decidi&oacute;.</p>
+
+<p>&iquest;Qui&eacute;n va a tener la &uacute;ltima palabra?</p>
+
+<p>Pues el Senado.</p>
+
+<p>INTERVENCI&Oacute;N:&nbsp;&iquest;Pero es correcto que entonces ya haya anunciado que se suma a la campa&ntilde;a de Sheinbaum si todav&iacute;a no concluye el procedimiento de la renuncia?</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Pues ya eso es otra cosa, ya no me quiero meter porque&hellip; Eso vamos a dejarlo a los analistas, a los expertos.</p>
+
+<p>INTERVENCI&Oacute;N:&nbsp;&iquest;Habr&aacute; mujer en la terna? &iquest;Ya pens&oacute; en la terna?</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;S&iacute;, s&iacute;, s&iacute;, estoy pensando en la terna y f&iacute;jense que me estoy inclinando por presentar tres mujeres, porque tengo m&aacute;s ventajas con las mujeres, porque la mujer es m&aacute;s honesta, m&aacute;s definida, es muy trabajadora, tiene muchas virtudes. Y a m&iacute;, en la administraci&oacute;n p&uacute;blica desde el gobierno de la ciudad, que eran m&aacute;s mujeres las del gabinete que hombres,&nbsp;me ayudaron mucho, y ahora las mujeres me est&aacute;n ayudando much&iacute;simo.</p>
+
+<p>INTERVENCI&Oacute;N:&nbsp;&iquest;Nos puede adelantar algunos nombres?</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;No todav&iacute;a, es que est&aacute; empezando. Adem&aacute;s, lo voy a analizar bien porque no es como antes.</p>
+
+<p>&iquest;Saben c&oacute;mo era antes?</p>
+
+<p>Se enviaba la terna ya con la l&iacute;nea; es decir: &lsquo;Ah&iacute; van tres, pero quiero que sea ella o &eacute;l&rsquo;, entonces hac&iacute;an la faramalla que discut&iacute;an y hasta un examen. &lsquo;No, pues la mejor calificada, la de m&aacute;s m&eacute;ritos, la m&aacute;s preparada, la de la trayectoria m&aacute;s intachable, es&nbsp;fulana o es fulano&rsquo;;&nbsp;era la simulaci&oacute;n que hab&iacute;a.</p>
+
+<p>Yo nunca he enviado una terna, nunca he enviado una terna diciendo: Va la terna, pero quiero que quede este de la terna, no. Aun cuando tenemos en nuestro movimiento mayor&iacute;a, ellos deciden. En ning&uacute;n caso, por eso puedo decir que no somos iguales. Les molesta mucho.&nbsp;</p>
+
+<p>Para los j&oacute;venes, para los j&oacute;venes: no se puede transformar una realidad de injusticias, de opresi&oacute;n, de corrupci&oacute;n, si no se tiene autoridad moral; si no, no se aguanta, no se resiste. Para poder ser un dirigente y transformar un r&eacute;gimen opresivo, injusto, se necesita tener autoridad moral; si no, no se aguanta, destruye a cualquiera.&nbsp;</p>
+
+<p>Pero eso es un apostolado;&nbsp;la pol&iacute;tica, la verdadera pol&iacute;tica, que no tiene nada que ver con la grilla, con la politiquer&iacute;a,&nbsp;es entender que el poder s&oacute;lo tiene sentido y se convierte en virtud cuando se pone al servicio de los dem&aacute;s.</p>
+
+<p>Entonces, por esto de las ternas, ojal&aacute; y&hellip; Lo que s&iacute; debe de haber es lealtad al proyecto, o sea, no es una lealtad personal. A quienes propuse y nos traicionaron, no me traicionaron a m&iacute;, traicionaron al pueblo, traicionaron al proyecto de transformaci&oacute;n, porque fue votar en contra de los libros de texto, fue votar en contra de las empresas p&uacute;blicas, que son empresas del pueblo.</p>
+
+<p>Bueno, me acuerdo&nbsp;que&nbsp;s&oacute;lo en una ocasi&oacute;n, porque me interesaba much&iacute;simo, habl&eacute; con dos de los que cambiaron de opini&oacute;n y de parecer, porque me interesaba mucho sobre el destino de la Guardia Nacional, que nos ha costado mucho levantarla.</p>
+
+<p>Ya es una instituci&oacute;n. Ahora en Acapulco hay orden, ah&iacute; est&aacute; la Guardia Nacional en los bancos, est&aacute;n abriendo ya las tiendas de Chedraui y otros comercios, y las gasoliner&iacute;as ya tambi&eacute;n abiertas y todo, y ah&iacute; est&aacute; la Guardia Nacional; y se est&aacute; cuidando a la gente y todo.</p>
+
+<p>Entonces, no quiero que quede como sucedi&oacute; cuando se cre&oacute; la Polic&iacute;a Federal, que, se imaginan, qued&oacute; en manos de Garc&iacute;a Luna y en manos de Gobernaci&oacute;n, y se hizo un desastre, se corrompi&oacute; por completo, porque los jefes ni son profesionales&nbsp;&mdash;los que fueron jefes&mdash;&nbsp;ni mucho menos;&nbsp;hay gente con principios, con ideales, honestos; entonces, acabaron con la Polic&iacute;a Federal.</p>
+
+<p>Entonces la Guardia, que nos ha costado tanto levantar, que tiene ya a 120 mil elementos formados, disciplinados, pues quiero que quede como una rama de la Secretar&iacute;a de la Defensa para que no regrese lo mismo.</p>
+
+<p>&iquest;De d&oacute;nde sali&oacute; Garc&iacute;a Luna?</p>
+
+<p>Del&nbsp;Cisen.</p>
+
+<p>&iquest;Ten&iacute;a alg&uacute;n antecedente, alguna experiencia en cuestiones policiacas?</p>
+
+<p>No. Ah&iacute; entr&oacute; como ingeniero, pero ah&iacute; hab&iacute;a. Era la &eacute;poca de Salinas, imag&iacute;nense lo que hab&iacute;a ah&iacute;.&nbsp;</p>
+
+<p>Entonces, empiezan a tener poder, y poder, y poder, y poder, y se vuelven locos, porque cuando no hay ideales el poder atonta a los inteligentes y a los tontos los vuelve locos.</p>
+
+<p>Y habilidoso, que llevaba a Ciro, llevaba a L&oacute;pez-D&oacute;riga, llevaba a todos all&aacute; al b&uacute;nker y sal&iacute;an de ah&iacute;: &lsquo;&iexcl;Oh!&nbsp;&iexcl;Cu&aacute;nta tecnolog&iacute;a!&rsquo;, por las pantallas, cuando al mismo tiempo ten&iacute;a los acuerdos con las organizaciones del narcotr&aacute;fico.</p>
+
+<p>Yo no quiero eso para la Guardia Nacional y antes de que yo me vaya voy a hacer el &uacute;ltimo intento de enviar la iniciativa de reforma para que quede dependiendo de la Secretar&iacute;a de la Defensa, para que no se eche&nbsp;a perder, para que no se corrompa. Y si ya no se puede, bueno, cuando menos hay la constancia.</p>
+
+<p>Y en una de esas, si quien llegue tiene mayor&iacute;a calificada en el Congreso va a poder reformar la Constituci&oacute;n y s&iacute; se va a lograr eso. Que eso yo lo recomendar&iacute;a, yo no le dar&iacute;a la Guardia Nacional, no la dejar&iacute;a ni en la Secretar&iacute;a de Seguridad P&uacute;blica ni en Gobernaci&oacute;n;&nbsp;es la Secretar&iacute;a de la Defensa, as&iacute; de claro.&nbsp;</p>
+
+<p>Y que no me vengan con el cuento de la militarizaci&oacute;n, &iquest;eh?, porque ya han enga&ntilde;ado mucho y manipulado mucho con eso.</p>
+
+<p>Y que no se olvide que nuestro Ej&eacute;rcito es distinto a otros ej&eacute;rcitos, este es un ej&eacute;rcito que surge del movimiento revolucionario. Vean ustedes, ac&eacute;rquense, platiquen con los soldados, mujeres y hombres, platiquen con ellos, incluso con los mandos; o sea, no pongan una barrera de por medio, no act&uacute;en de manera dogm&aacute;tica, apliquen el juicio pr&aacute;ctico y hablen con la gente. Son hijos de campesinos, son hijos de obreros, son hijos de comerciantes, hijos de profesionales, hijos de militares.</p>
+
+<p>Y ya para terminar, no saben lo que nos han ayudado para lograr lo que hemos alcanzado, marinos y soldados;&nbsp;no hubiese yo podido salir adelante.&nbsp;</p>
+
+<p>Les estoy mostrando lo de los hospitales, lo que cobraban por un hospital.</p>
+
+<p>El d&iacute;a 14 de septiembre, la semana pr&oacute;xima, 14 de noviembre, la semana pr&oacute;xima vamos a inaugurar dos mil 700 sucursales del Banco del Bienestar construidas por los ingenieros militares. Ya es la red bancaria m&aacute;s grande de M&eacute;xico, bancos que llegan a todos los pueblos.</p>
+
+<p>Porque, &iquest;d&oacute;nde estaban las sucursales o d&oacute;nde siguen estando las sucursales de los bancos comerciales?&nbsp;En las ciudades, y nosotros tenemos que distribuir los apoyos a trav&eacute;s de los bancos con&nbsp;una tarjeta. Imag&iacute;nense a un adulto mayor en un pueblo apartado que ten&iacute;a que ir tres horas, cinco horas y llegaba al banco y no hab&iacute;a dinero, y que regresara en tres d&iacute;as, en cinco d&iacute;as.</p>
+
+<p>&iquest;Y saben ustedes qu&eacute;&nbsp;les ofrec&iacute; a los due&ntilde;os de los bancos? A tres o cuatro les dije: &lsquo;Necesitamos nosotros este servicio, pero lo necesitamos cerca de la gente. Vamos a dispersar como 600, 800 millones por a&ntilde;o. Pero, adem&aacute;s, si ustedes construyen las sucursales en los pueblos m&aacute;s apartados, vamos a ayudarles tambi&eacute;n entreg&aacute;ndoles las n&oacute;minas para el pago a maestros, para el pago a servidores p&uacute;blicos. Y vamos a pactar una comisi&oacute;n, de modo que ustedes van a obtener muy pronto lo que invierten. Adem&aacute;s, les va a servir para recibir remesas.&nbsp;</p>
+
+<p>No quisieron, y ya no tuve m&aacute;s, no tuvimos m&aacute;s remedio que decir: Lo hacemos nosotros.</p>
+
+<p>Son cosas que las platico porque ahora se enojan, que porque existe el Banco del Bienestar. Dijo alguien por ah&iacute;: &lsquo;&iquest;Qu&eacute; necesidad hab&iacute;a de hacer un banco o que el gobierno tuviese bancos?&rsquo; Pues s&iacute;, s&iacute; tenemos necesidad, la gente tiene necesidad, ahora van con su tarjeta y ah&iacute; sacan lo que por derecho les corresponde.</p>
+
+<p>Pero, bueno, ya pas&oacute;. Esto es Zald&iacute;var, and&aacute;bamos all&aacute;.&nbsp;</p>
+
+<p>PREGUNTA:&nbsp;&iquest;La terna que env&iacute;a es porque,&nbsp;lo que faltaba del periodo de Zald&iacute;var?</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;S&iacute;, es para el periodo, pienso que es as&iacute;.</p>
+
+<p>PREGUNTA:&nbsp;&iquest;Es un a&ntilde;o?</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;S&iacute;, concluir el periodo de un a&ntilde;o, pero el que quiere servir lo va a hacer.</p>
+
+<p>PREGUNTA:&nbsp;(inaudible) Consejer&iacute;a Jur&iacute;dica sobre los tiempos?</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;S&iacute;, s&iacute;, parece que es para que concluya el periodo.</p>
+
+<p>INTERLOCUTOR:&nbsp;Esa la duda que ten&iacute;amos en el Senado con la presidenta de la c&aacute;mara alta.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Ah, s&iacute;, pues yo ten&iacute;a la informaci&oacute;n, tengo la informaci&oacute;n que es para que concluya el periodo; pero si se puede para m&aacute;s tiempo, mejor. Pero, de todas maneras, ya estamos.</p>
+
+<p>Y le deseo a Arturo Zald&iacute;var que le vaya bien. Con &eacute;l tuvimos buena relaci&oacute;n, de respeto. Siempre lo he dicho aqu&iacute;, iba yo a sus informes y, como nunca hab&iacute;a pasado, en sus discursos hablaba de la corrupci&oacute;n que prevalec&iacute;a y prevalece en el Poder Judicial, y del nepotismo. Ya ahora ya,&nbsp;pues ya se relaj&oacute; todo ah&iacute;.&nbsp;</p>
+
+<p>Claro que a los conservadores no les gust&oacute;, nada m&aacute;s que, Arturo Zald&iacute;var, aguanta, el pueblo se levanta, porque ya me imagino, &iquest;no?, el bombardeo de todo el bloque conservador o &iquest;no? &iquest;Me equivoco? A ver, a ver, a ver, pon los peri&oacute;dicos, el&nbsp;Reforma&nbsp;a ver si no est&aacute; ah&iacute;, el&nbsp;Milenio, el&nbsp;Exc&eacute;lsior.&nbsp;</p>
+
+<p>&iexcl;Ay, mi amigo Francisco Gonz&aacute;lez! Es que como ya est&aacute; grande mi amigo Francisco Gonz&aacute;lez, es grande y est&aacute; grande, y lo respeto mucho, le deja &mdash;y adem&aacute;s no est&aacute; pendiente&mdash; y los que hacen el peri&oacute;dico no nos quieren. Pero, regr&eacute;sale, regr&eacute;same a&nbsp;Milenio, s&iacute;, de la &lsquo;transformaci&oacute;n&rsquo;, entre comillas.</p>
+
+<p>PREGUNTA:&nbsp;&iquest;Vino ayer Zald&iacute;var a despedirse de usted, a presentarle su&hellip;? &iquest;S&oacute;lo lo envi&oacute;?</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;No, no, me lo envi&oacute;.</p>
+
+<p>A ver, otro. &iquest;Est&aacute; ah&iacute;? Ah, s&iacute;: &lsquo;Se sube al tren de&hellip;&rsquo; S&iacute;&nbsp;puedo mencionar a Claudia, &iquest;verdad? Claudia Sheinbaum &iquest;s&iacute; la puedo mencionar? O sea, a ella s&iacute; la puedo mencionar y le mando un abrazo.</p>
+
+<p>Adelante, este, s&iacute;: &lsquo;El jaloneo por recursos para Acapulco&rsquo;. El jaloneo est&aacute; en otro lado, &iquest;eh?, tambi&eacute;n est&aacute; ah&iacute;.</p>
+
+<p>Pero, a ver, pon el&nbsp;Reforma, que es el que&hellip; A lo mejor ah&iacute; no hay nada. &iexcl;Ah, c&oacute;mo no! Est&aacute;n molest&iacute;simos, molestos, molestos. Quiere decir que vamos bien.</p>
+
+<p>Bueno, hasta ah&iacute; deja.</p>
+
+<p>PREGUNTA:&nbsp;Gracias, presidente.&nbsp;</p>
+
+<p>Zeltzin&nbsp;Ju&aacute;rez, de&nbsp;Sin L&iacute;nea.mx</p>
+
+<p>Rapid&iacute;simo, el lunes tuve la oportunidad de visitar Acapulco, retomando un poco este tema, tuve la oportunidad de visitar la colonia Luis Donaldo Colosio y, como bien ahorita mencion&oacute;, pues hay mucha acumulaci&oacute;n de basura, ya son toneladas, ahorita mencion&oacute; esta crisis que hay. No s&eacute; si usted ya tenga una fecha prevista de su gobierno para recoger esta basura, esta crisis de dep&oacute;sitos que dice que est&aacute;n pasando.</p>
+
+<p>Y tambi&eacute;n tuve la oportunidad de platicar con una familia que ya de por s&iacute; la estaba pasando muy mal desde antes del hurac&aacute;n Otis. Ahorita, bueno, su situaci&oacute;n se ha agravado.</p>
+
+<p>Con este tema de las escuelas de los ni&ntilde;os, de las ni&ntilde;as, se ha extendido esta suspensi&oacute;n de clases.</p>
+
+<p>No s&eacute; si ya la SEP, el gobierno federal, tengan un plan para que no haya retraso escolar.</p>
+
+<p>Y tengo una &uacute;ltima nada m&aacute;s.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;S&iacute;, ya estamos trabajando en eso. Se da&ntilde;aron alrededor de 20 escuelas,&nbsp;de acuerdo a&nbsp;este censo, a estas visitas que se est&aacute;n haciendo, y se est&aacute; elaborado un plan de desarrollo urbano integral, que tiene que ver con agua; o sea, a finales de este mes vamos a tener en la red la misma agua que se ten&iacute;a antes del hurac&aacute;n, lo cual no significa que se vaya a tener agua en todo Acapulco, porque antes del hurac&aacute;n no se ten&iacute;a agua en todo Acapulco.</p>
+
+<p>Entonces, el plan es: el reporte de ayer, 65 por ciento ya de agua en la red de lo que se ten&iacute;a antes del hurac&aacute;n; a noviembre, a finales, el 100; y luego, un plan para ampliar el abasto de agua. De todas maneras, s&oacute;lo manejados por el Ej&eacute;rcito son 144 pipas, cisternas, de distribuci&oacute;n de agua para las colonias.</p>
+
+<p>El caso de la basura, a ver si no me manda el general, por favor, la localizaci&oacute;n que tenemos de dep&oacute;sitos y c&oacute;mo.</p>
+
+<p>INTERLOCUTORA:&nbsp;S&iacute;, porque lo que me contaban estos habitantes de esta colonia era que &uacute;nicamente el gobierno municipal hab&iacute;a echado cal en estas toneladas de basura. Ya hay moscas, me toc&oacute; pasar por ah&iacute; y verlo; hay ni&ntilde;os, hay ni&ntilde;as, hay mujeres embarazadas.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Puede ser que en una primera etapa lo que se busque&hellip; Pues se est&aacute; fumigando para evitar enfermedades, pero no, se va a limpiar todo y se est&aacute;n buscando los nuevos dep&oacute;sitos y es un plan de limpieza, basura, eso lo tenemos. O sea, en prioridad, que no falte la comida y el agua a la gente, lo de la limpieza, lo que tiene que ver con basura.</p>
+
+<p>INTERLOCUTORA:&nbsp;La suspensi&oacute;n de clases, entonces ser&aacute; hasta que est&eacute; el agua.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;No, no, no, ya se est&aacute; viendo la posibilidad, no hay condiciones ahora, vamos a seguir avanzando para que se d&eacute; el reinicio a clases.</p>
+
+<p>INTERLOCUTORA:&nbsp;Muy bien.&nbsp;</p>
+
+<p>Presidente, tambi&eacute;n conocer su opini&oacute;n sobre la inversi&oacute;n de la empresa espa&ntilde;ola Iberdrola y el gobierno de Oaxaca. Recientemente el gobernador anunci&oacute; esta inversi&oacute;n de un mill&oacute;n de d&oacute;lares para iluminar monumentos de la capital de Oaxaca, esta empresa espa&ntilde;ola que ha sido bastante cuestionada por su actuar en gobiernos anteriores, y adem&aacute;s no solamente de Oaxaca, sino tambi&eacute;n esta mira que tiene Iberdrola en estados como Guanajuato, Durango, tambi&eacute;n para desarrollar energ&iacute;as renovables. Si me puede dar su opini&oacute;n al respecto.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Pues llegamos ya a un acuerdo con Iberdrola.</p>
+
+<p>Tenemos con ellos diferencias porque era como la empresa favorita de los neoliberales, del panismo;&nbsp;tan es&nbsp;as&iacute;,&nbsp;que cuando termin&oacute; Calder&oacute;n se fue a trabajar con Iberdrola. Yo se lo reclam&eacute; al due&ntilde;o de Iberdrola, porque dec&iacute;an que ellos actuaban conforme a la ley y dem&aacute;s, y ya cuando estaba muy insistente en que estaban haciendo bien las cosas y dem&aacute;s, le dije: Miren, ustedes nos ofendieron porque, independientemente del se&ntilde;or, ustedes contrataron de empleado al presidente de M&eacute;xico. Y no es el se&ntilde;or, es la investidura presidencial; entonces, eso es una burla. Y eso ustedes lo hacen en Espa&ntilde;a, porque contratan a dirigentes tanto de Partido Popular como del Partido Socialista, el PSOE, los contratan.&nbsp;</p>
+
+<p>O sea, esa mescolanza, ese contubernio entre poder econ&oacute;mico y poder pol&iacute;tico para tener influencias, lo que no se debe de permitir, porque una cosa es el gobierno y otra cosa son los intereses particulares. Los &uacute;nicos negocios que deben interesar a los funcionarios son los negocios p&uacute;blicos.</p>
+
+<p>Entonces, a pesar de eso, se nos hizo una propuesta.</p>
+
+<p>INTERLOCUTORA:&nbsp;Es lo que iba a preguntar: &iquest;c&oacute;mo es que ahora se da este acuerdo?</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;S&iacute;, s&iacute;, se nos hizo una propuesta de que quer&iacute;an vendernos 14 plantas y nosotros dijimos: S&iacute;, se las compramos, porque nosotros necesitamos fortalecer a la Comisi&oacute;n Federal de Electricidad, que ya estaba&hellip; El plan de los neoliberales corruptos era acabar con las empresas p&uacute;blicas, con Pemex y con la Comisi&oacute;n Federal de Electricidad.</p>
+
+<p>Entonces, si no rescatamos a Pemex y si no rescatamos a la Comisi&oacute;n Federal&hellip; O se&nbsp;los planteo&nbsp;de otra manera: si no hubi&eacute;semos ganado nosotros, ya no existir&iacute;a o existir&iacute;a la Comisi&oacute;n Federal y Pemex nada m&aacute;s como cascarones, de manera testimonial, porque &iacute;bamos a estar en el caso de la Comisi&oacute;n Federal de Electricidad generando hoy,&nbsp;cuando mucho,&nbsp;el 10 por ciento de la energ&iacute;a el&eacute;ctrica que consume el pa&iacute;s;&nbsp;y el 90, las empresas particulares, sobre todo extranjeras como Iberdrola. Ese era el plan, para all&aacute; iban.</p>
+
+<p>Entonces, con todo el esfuerzo que hicimos &mdash;en contra del Poder Judicial,&nbsp;porque ten&iacute;an y tienen todav&iacute;a muchas&nbsp;agarraderas, muchas influencias, porque amparos, &iquest;no?, en contra de la Comisi&oacute;n Federal de Electricidad, con el apoyo del Poder Judicial, jueces, magistrados, ministros&mdash; con todo el esfuerzo, apenas llegamos a tener 38 por ciento de la energ&iacute;a producida. Y cuando nos ofrecen las 14 plantas nos significaba subir al 54 por ciento, y dijimos: Vamos.</p>
+
+<p>De ah&iacute; nos olvidamos. Esa es la diferencia que hay entre la pol&iacute;tica y otro tipo de profesiones, otro tipo de actividades.</p>
+
+<p>El pol&iacute;tico &mdash;y esto es para los j&oacute;venes&mdash;&nbsp;tiene que tener&nbsp;un ideal.</p>
+
+<p>&iquest;Cu&aacute;l es el ideal? &iquest;En qu&eacute; se debe de pensar?</p>
+
+<p>En el pueblo, en la naci&oacute;n. Todo lo que sea bueno para el pueblo, todo lo que sea bueno para la naci&oacute;n se debe de hacer.</p>
+
+<p>Cuando no se es pol&iacute;tico y hay diferencias, es como cuando hay pleitos en lo particular: &lsquo;No te vuelvo a ver&rsquo;, &lsquo;no quiero volver a saber de ti&rsquo;, &lsquo;ya conmigo no cuentes&rsquo;, &lsquo;es como si te hubieses muerto&rsquo;. En la pol&iacute;tica no, s&iacute; hay un inter&eacute;s superior.&nbsp;</p>
+
+<p>Por ejemplo, ahora est&aacute; el bombardeo, la guerra, estos asesinatos en Israel, en Gaza;&nbsp;hay que unirse, hay que sentarse, hay que dialogar, hay que conseguir la paz, hay que pensar en la gente; no puede ser algo destructivo porque eso no es la pol&iacute;tica, la pol&iacute;tica se invent&oacute; para evitar la guerra.</p>
+
+<p>Entonces, con Iberdrola llegamos a ese acuerdo. Se portaron muy bien, hay hasta una foto en donde yo me estoy abrazando con el se&ntilde;or, y ya estamos a punto de cerrar la operaci&oacute;n y de pagarles.</p>
+
+<p>Y con la rehabilitaci&oacute;n de las hidroel&eacute;ctricas y con las nuevas plantas que est&aacute; construyendo la Comisi&oacute;n Federal de Electricidad, cuando termine en septiembre del a&ntilde;o pr&oacute;ximo nuestro gobierno, va la Comisi&oacute;n Federal de Electricidad a estar generando m&aacute;s del 60 por ciento de la energ&iacute;a el&eacute;ctrica, va a quedar consolidada.</p>
+
+<p>Pemex,&nbsp;lo mismo:&nbsp;de un mill&oacute;n 650 mil barriles a un mill&oacute;n 900 mil barriles. Iba as&iacute;, 15 a&ntilde;os consecutivos de ca&iacute;da en la producci&oacute;n, estar&iacute;amos hoy comprando petr&oacute;leo crudo, as&iacute; estar&iacute;amos hoy. Por eso yo no s&eacute; qui&eacute;nes son los que,&nbsp;con toda esta informaci&oacute;n, o que la busquen, desean que regresemos a lo de antes; pues solamente los que se dedicaban a robar y a saquear.</p>
+
+<p>INTERLOCUTORA:&nbsp;&iquest;Ve bien entonces esta inversi&oacute;n de Iberdrola en estos estados en los que tambi&eacute;n su gobierno se ha concentrado?</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;No, no sab&iacute;a yo, no sab&iacute;a yo. Corresponde a los gobiernos de los estados; si no los van a timar, pues adelante, no hay ning&uacute;n problema.</p>
+
+<p>Hablaba yo de las ganancias razonables de don Antonio Ortiz Mena como regla, &iquest;por qu&eacute; no? Nosotros no estamos por el estatismo, nosotros lo que buscamos es que haya una sociedad mejor con la participaci&oacute;n de los tres sectores de la econom&iacute;a: el sector social, el sector p&uacute;blico y el sector privado, pero en equilibrio y el Estado planeando y promoviendo el desarrollo.</p>
+
+<p>Nada que el Estado debe diluirse y dejar todo al mercado, nada del cuento ese de la libertad de comercio, el dejar hacer, el dejar pasar;eso es como la libertad del zorro en el gallinero, esa no.&nbsp;</p>
+
+<p>Pero no sab&iacute;a yo lo de Oaxaca, &iquest;eh?&nbsp;Es la primera vez que me entero.</p>
+
+<p>INTERLOCUTORA:&nbsp;S&iacute;, es para alumbrar monumentos hist&oacute;ricos. De hecho, el gobernador dijo que&hellip;</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Pero a lo mejor&nbsp;se&nbsp;los&nbsp;van a aportar, porque los de Iberdrola tienen bastante. All&aacute; en Espa&ntilde;a&hellip;</p>
+
+<p>INTERLOCUTORA:&nbsp;Es una inversi&oacute;n de un mill&oacute;n de d&oacute;lares ah&iacute;,en Oaxaca de Ju&aacute;rez,&nbsp;y, bueno, el gobernador dijo que esta inversi&oacute;n iba a convertir el estado en el faro cultural del pa&iacute;s,&nbsp;poresta iluminaci&oacute;n que se va a dar de estos monumentos&hellip;</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Oaxaca es grande, grande, grande. No quiero herir susceptibilidades, ni promover, crear celos y sentimientos, pero Oaxaca es de los pueblos con m&aacute;s cultura en el mundo.</p>
+
+<p>INTERLOCUTORA:&nbsp;&iquest;Cu&aacute;ndo viaja a Oaxaca, presidente?</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Ya pronto. Voy muy seguido. Iba yo a ir a inaugurar la carretera, la de Oaxaca a&hellip;</p>
+
+<p>INTERLOCUTORA:&nbsp;Puerto Escondido.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;S&iacute;. Pero tuvimos un problema en unos taludes, en unos derrumbes. Me va a llevar, nos va a llevar m&aacute;s tiempo.&nbsp;</p>
+
+<p>Pero, de todas maneras, voy a Oaxaca porque necesito ir a ver lo del avance de obra, sobre todo lo de caminos artesanales, que quiero que se concluyan antes de que yo termine, porque fue mi compromiso. Y ya llevamos much&iacute;simos, como 150, 170.&nbsp;</p>
+
+<p>Ahora estamos haciendo un camino que se los recomiendo mucho para cuando tenga posibilidad de viajar; adem&aacute;s, no es caro. Se va a poder ir de Oaxaca a Guelatao en un camino que estamos haciendo artesanal, para bicicleta y para ir a pie.</p>
+
+<p>Entonces, a la mitad del camino&hellip; Fue el camino, estamos reconstruyendo el camino que sigui&oacute; Ju&aacute;rez cuando sali&oacute; de Guelatao hacia Oaxaca. Entonces, pasa por bosques bell&iacute;simos. Entonces, a la mitad &mdash;porque son como 50 kil&oacute;metros, se llama &lsquo;El camino de Benito&rsquo;&mdash; a la mitad se van a construir caba&ntilde;as en el bosque.</p>
+
+<p>Entonces, 25 kil&oacute;metros de espacio, se puede a pie y en bicicleta tambi&eacute;n, o sea, y quedarse ah&iacute; y luego llegar a Guelatao y conocer Guelatao, donde naci&oacute; el mejor presidente de M&eacute;xico. Y, adem&aacute;s, Guelatao es bell&iacute;simo con su laguna, es un paseo. &iquest;No tienes el camino que se est&aacute; haciendo artesanal? Entonces, se los recomiendo, porque son dos d&iacute;as&hellip;</p>
+
+<p>INTERLOCUTORA:&nbsp;&lsquo;El camino de Benito&rsquo;.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;&lsquo;El camino de Benito&rsquo;, as&iacute; le pusimos. Es como una peregrinaci&oacute;n c&iacute;vica.</p>
+
+<p>INTERLOCUTORA:&nbsp;&iquest;Cu&aacute;ndo cree que se vaya a inaugurar este camino? Una fecha estimada de inauguraci&oacute;n del camino.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Yo espero que para&hellip; Miren esto, estamos arreglando. Pensamos que como para&hellip; Aqu&iacute; va, mira, este es. A ver, regresa esa.</p>
+
+<p>Lo est&aacute;n haciendo cinco autoridades municipales, nosotros les dimos los recursos y ellos, que son artistas, porque son caminos bell&iacute;simos, lo est&aacute;n&hellip;</p>
+
+<p>&iexcl;Ah!, ella era. A ver si la pones, el audio. Ella es de Guelatao y tambi&eacute;n familia del presidente Ju&aacute;rez y acaba de terminar, termin&oacute;, porque son autoridades de usos y costumbres, van cambiando, la asamblea los cambia.</p>
+
+<p>(INICIA VIDEO)</p>
+
+<p>VOZ MUJER:&nbsp;&hellip; responsabilidad, una gran encomienda para poder terminar este camino c&iacute;vico y este legado que va a dejar el presidente de la Rep&uacute;blica, el licenciado Andr&eacute;s Manuel L&oacute;pez Obrador.</p>
+
+<p>VOZ HOMBRE:&nbsp;Para nosotros este trabajo, este proyecto, pienso que es algo &uacute;nico, algo hist&oacute;rico, sabiendo que tambi&eacute;n van a venir muchos beneficios, tanto para la poblaci&oacute;n.&nbsp;</p>
+
+<p>(FINALIZA VIDEO)</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Regresa. Miren el paisaje. O sea, es que tienen que ir; si no, no&hellip;&nbsp;</p>
+
+<p>Nada m&aacute;s regresa donde est&aacute; la laguna. Ah&iacute; est&aacute;, atr&aacute;s. Ah, es que no se puede, &iquest;verdad?</p>
+
+<p>Ah&iacute; est&aacute; Guelatao, en esa laguna hay una historia. Es bell&iacute;simo. Yo creo que,&nbsp;para marzo, para marzo va a estar.</p>
+
+<p>Bueno, v&aacute;monos ya. &iexcl;Qu&eacute; barbaridad! &iexcl;Tard&iacute;simo!</p>
+
+<p>PREGUNTA:&nbsp;&iquest;A qu&eacute; horas ve a los empresarios?</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Ah, ahora, a las 10 y media. Es lo que les explicaba de los hoteles para Acapulco: lo que queremos es que el Tianguis Tur&iacute;stico, o sea, decidimos no suspenderlo y que se lleve a cabo en Acapulco, y estamos pidiendo a empresarios que tienen hoteles en Acapulco que nos ayuden, y ha habido muy buena respuesta. Y hoy voy a tener una reuni&oacute;n, no con todos, sino con un grupo, para que ellos a la vez convenzan a otros; de modo que para Semana Santa &mdash;el tianguis es abril, aunque Semana Santa es marzo&mdash; ya tengamos 30, 40 hoteles funcionando. Y que ya desde diciembre empiece de nuevo la actividad, el 24 de diciembre, que los acapulque&ntilde;os vuelvan a la normalidad. Fue una situaci&oacute;n muy dolorosa, muy fuerte para muchos.</p>
+
+<p>PREGUNTA:&nbsp;&iquest;Usted cu&aacute;ndo vuelve a Acapulco, presidente?</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Es posible que el mi&eacute;rcoles de la semana que viene, o sea, en ocho d&iacute;as. Voy a estar yendo.</p>
+
+<p>PREGUNTA:&nbsp;La ma&ntilde;anera va a ser el mi&eacute;rcoles aqu&iacute;, &iquest;verdad?</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;La ma&ntilde;anera va a ser el mi&eacute;rcoles aqu&iacute;.</p>
+
+<p>PREGUNTA:&nbsp;&iquest;Habr&aacute; una propuesta adicional (inaudible) a los intereses de los cr&eacute;ditos que adquieran los hoteleros?</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Vamos a ver. Miren, tenemos que resolver lo de los materiales de construcci&oacute;n, es como lo de las despensas, porque se van a entregar los fondos para la autoconstrucci&oacute;n para las viviendas, lo mismo en el caso de la construcci&oacute;n o reparaci&oacute;n de los hoteles, se requiere material de construcci&oacute;n y se requieren alba&ntilde;iles, trabajadores de la construcci&oacute;n, que no est&aacute; tan sencillo conseguir porque hay afortunadamente mucha obra en construcci&oacute;n en todos lados.</p>
+
+<p>Entonces, es de lo que se est&aacute; hablando, ya se est&aacute; hablando con la cementeras, con los que distribuyen materiales de construcci&oacute;n. Entonces estamos&hellip; Eso es lo que vamos a hablar.</p>
+
+<p>Confirm&oacute;&nbsp;Vidanta;&nbsp;confirm&oacute;, se llama Mundo Imperial, que tienen dos o tres hoteles; confirm&oacute; Slim, tiene un hotel.</p>
+
+<p>INTERVENCI&Oacute;N:&nbsp;Hern&aacute;ndez, del&nbsp;Princess.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:Hern&aacute;ndez, es Juan Antonio Hern&aacute;ndez, pero &eacute;l tiene tambi&eacute;n este Imperial&nbsp;y... Que, por cierto, nos est&aacute; ayudando mucho, porque nos dio ah&iacute; un espacio para concentrar alimentos, despensas. Todos, todos est&aacute;n ayudando.</p>
+
+<p>PREGUNTA:&nbsp;&iquest;La Convenci&oacute;n Bancaria?</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Eso todav&iacute;a no.</p>
+
+<p>Aqu&iacute; est&aacute;, aqu&iacute; est&aacute; lo de la basura, que me preguntabas. Mira, hay 130 camiones de basura. Ayer hablamos de esto, que s&iacute; hac&iacute;a falta, que se les solicitara a gobiernos de los estados, que nos ayudaran, pero me dec&iacute;an que ya lo est&aacute;n viendo. Llegan 50 de Cemex, ya nada m&aacute;s me agregaron aqu&iacute; que la prioridad son escuelas primarias y secundarias.</p>
+
+<p>PREGUNTA:&nbsp;Presidente, preguntas de Veracruz.</p>
+
+<p>PREGUNTA:&nbsp;&iquest;No va a recorrer las zonas afectadas a pie?&nbsp;</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Ya ma&ntilde;ana.&nbsp;</p>
+
+<p>Vean, invitados a las 10:00, ya en sala de espera.</p>
+
+<p>Ya me voy. Adi&oacute;s.</p>
+
+<p>---</p>
+</div>
+      </div>
+
+      <div class="col-md-4 col-xs-12 pull-right">
+
+
+
+
+          <div id="survey" class="survey-popup small-top-buffer">
+	<div class="row">
+  <a class="fire">
+    <span class="title">Contesta nuestra encuesta de satisfacción.</span>
+		<i style="color: white" class="fas fa-poll"></i>
+  </a>
+  <hr>
+  
+  <div class="survey col-sm-12 clearfix">
+	<form id="survey-form">
+	  <div class="survey-form">
+	  <fieldset id="query_1">
+		<legend>¿Cómo fue tu experiencia en gob.mx?</legend>
+		<div id="Q_A" class="btn-group row">
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncGood" class="ga-survey" value="Feliz" title="Satisactorio">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-good.svg" alt="">
+		  	</button>
+		  </div>
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncReg" class="ga-survey" value="Neutral" title="Neutral">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-neutral.svg" alt="">
+		  	</button>
+		  </div>
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncBad" class="ga-survey" value="Triste" title="No satisactorio">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-bad.svg" alt="">
+		  	</button>
+		  </div>
+		</div>
+	  </fieldset>
+	  <fieldset id="query_1_a" class="hidden">
+	  	<legend>¿Fue fácil encontrar lo que buscabas?</legend>
+	  	<div id="Q_B" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R1" value="1">
+	  		<label for="A_R">Muy Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R2" value="2">
+	  		<label for="A_R">Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R3" value="3">
+	  		<label for="A_R">Difícil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R4" value="4">
+	  		<label for="A_R">Muy Difícil</label>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_s" class="hidden">
+	  	<legend>¿De qué estado de la República nos visitas?</legend>	  	
+	  	<div class="col-md-12">
+  	  		<div class="form-group" style="margin-bottom: 114px;">
+  	  			<select id="estados" class="form-control"></select>
+  	  		</div>
+  	  		<div class="form-group">
+  	  			<button type="button" class="Q_S_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  		</div>
+  	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_alt" class="hidden">
+		<legend>¿Qué buscabas?</legend>
+	  	<div id="Q_I" class="clearfix">
+	  	  <div class="col-sm-12">
+	  		<textarea id="txtA" class="form-control" rows="6" maxlength="250" style="font-size: 14px; width: 100%;"></textarea>
+	  		<span class="small">Máximo 250 caracteres</span>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+  	  	  <button type="button" class="Q_I_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_b" class="hidden">
+	  	<legend>¿Qué te gustó más?</legend>
+	  	<p class="small">Puedes seleccionar más de uno.</p>
+	  	<div id="Q_C" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R1" type="checkbox" name="A_R" value="1">
+	  		<label for="A_R">La información es clara y precisa</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R2" type="checkbox" name="A_R" value="2">
+	  		<label for="A_R">El diseño es agradable</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R3" type="checkbox" name="A_R" value="3">
+	  		<label for="A_R">Está bien organizado</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R4" type="checkbox" name="A_R" value="4">
+	  		<label for="A_R">Es sencillo navegar</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R5" type="checkbox" name="A_R" value="5">
+	  		<label for="A_R">El lenguaje es amigable</label>
+	  	  </div>
+	  	  <div class="clearfix">
+	  	  	<button type="button" class="Q_C_btn btn btn-primary btn-small pull-right">Siguiente</button>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_c" class="hidden">
+	  	<legend>¿Recomendarías nuestro portal a un amigo o familiar?</legend>
+	  	<div id="Q_D" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="radEncC_R1" type="radio" name="A_R" value="4">
+	  		<label for="A_R">Si</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncC_R2" type="radio" name="A_R" value="1">
+	  		<label for="A_R">No</label>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+        <button type="button" class="btn-finalizar btn btn-primary btn-small pull-right" style="margin-left: 8px; margin-top: 2px;" disabled>Finalizar</button>
+        <img src="https://framework-gb.cdn.gob.mx/assets/images/oval-white.svg" class="pull-right hidden loading">
+      </div>
+	  </fieldset>
+
+	  <fieldset id="query_2" class="hidden">
+		<legend>¿Fue fácil encontrar lo que buscabas?</legend>
+	  	<div id="Q_F" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R1" type="radio" name="A_R" value="1">
+	  		<label for="A_R">Muy Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R2" type="radio" name="A_R" value="2">
+	  		<label for="A_R">Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R3" type="radio" name="A_R" value="3">
+	  		<label for="A_R">Difícil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R4" type="radio" name="A_R" value="4">
+	  		<label for="A_R">Muy Difícil</label>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_2_b" class="hidden">
+	  	<legend>¿Qué mejorarías?</legend>
+	  	<p class="small">Puedes seleccionar más de una opción.</p>
+	  	<div id="Q_G" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A1" type="checkbox" name="A_R" value="1">
+	  		<label for="A_R">Diseño</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A2" type="checkbox" name="A_R" value="2">
+	  		<label for="A_R">Navegación dentro del sitio</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A3" type="checkbox" name="A_R" value="3">
+	  		<label class="too-long" for="A_R">Claridad y precisión de la información</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A4" type="checkbox" name="A_R" value="4">
+	  		<label for="A_R">Organización de los contenidos</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A5" type="checkbox" name="A_R" value="5">
+	  		<label for="A_R">Lenguaje utilizado</label>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">	  	  
+	  	  <button type="button" class="btn-finalizar btn btn-primary btn-small pull-right" style="margin-left: 8px; margin-top: 2px;" disabled>Finalizar</button>
+	  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/oval-white.svg" class="hidden pull-right loading">
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_2_alt" class="hidden">
+		<legend>¿Qué buscabas?</legend>
+	  	<div id="Q_H" class="clearfix">
+	  	  <div class="col-sm-12">
+	  		<textarea id="txtA1" class="form-control" rows="6" maxlength="250" style="font-size: 14px; width: 100%;"></textarea>
+	  		<span class="small">Máximo 250 caracteres</span>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+  	  	  <button type="button" class="Q_H_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  	</div>
+	  </fieldset>
+
+	</div>
+	<p class="hidden survey-thanks" style="text-align: center; color: white; font-weight: 700;">Gracias por tu opinión.</p>
+	</form>
+
+  </div>
+</div>
+</div>
+
+<script type="text/javascript">
+$(function() {
+  var c = 0;
+  var fin = 0;
+  var tipo_cara = "";
+  var page_type = "Articulos";
+  var triggered = false;
+  var answers = {};
+  var properties = {};
+  var organization = "presidencia";
+  var section = "Blog";
+  var lang = "es";
+  properties.published_on = "2023-11-08 09:40:00 -0600";
+  properties.title = "Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 8 de noviembre de 2023";
+  properties.path = "/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-8-de-noviembre-de-2023";
+  properties.referer = "";
+  properties.viewfinder = navigator.userAgent.toLowerCase();
+  properties.screens = screen.width;
+  properties.device = screen.width;
+
+  $.getJSON('https://www.gob.mx/vun/estados?filter[order]=nombre%20ASC', function (selectOptions) {
+    for( var i = 0; i < selectOptions.length; i ++) {
+      var selectOptionsJSON = selectOptions[i];
+      $('#estados').append('<option value="'+ selectOptionsJSON.nombre +'">'+ selectOptionsJSON.nombre +'</option>');
+    }
+    $('#estados').append('<option value="Otro">Otro</option>')
+  });
+
+  $('.fire').click(function(event) {
+    $('.survey-popup').css({'height':'440px'});
+  });
+
+  $('#Q_A').find('button').click(function(event) {
+  	$('#query_s').removeClass('hidden');
+  	$("#query_1").addClass('hidden');
+  	answers.q1 = $(this).attr('id');
+  });
+
+  $(".ga-survey").click(function () {
+    tipo_cara = $(this).val();
+    var interval_time = [30];
+    (function timer () {
+      if (c < 1) {
+        setTimeout(function () {
+           if(fin < 1) {
+             set_ga("Inconclusa");
+             timer();
+           }
+        }, interval_time[c] * 1000);
+      }
+      c++;
+    })();
+  });
+
+  $('.Q_S_btn').click(function(event) {
+    if( answers.q1 === "radEncGood") {
+      $("#query_s").addClass('hidden');
+      $("#query_1_a").removeClass('hidden');
+    } else if(answers.q1 === "radEncReg" || answers.q1 === "radEncBad") {
+      $("#query_s").addClass('hidden');
+      $("#query_2").removeClass('hidden');
+    } else { }
+    // answers.q1 = $('#Q_A').find('button').attr('id');
+  });
+
+  $('#Q_B').find('input').click(function(event) {
+  	if( $(this).attr('id') === 'radEncA_R3' || $(this).attr('id') === 'radEncA_R4' )  {
+  	  $("#query_1_a").addClass('hidden');
+	  $("#query_1_alt").removeClass('hidden');
+  	} else {
+  	  $("#query_1_a").addClass('hidden');
+	  $("#query_1_b").removeClass('hidden');	
+  	}	
+	answers.q2 = $(this).attr('id');
+  });
+
+  $('.Q_I_btn').click(function(event) {
+  	event.preventDefault();
+  	$("#query_1_alt").addClass('hidden');
+	$("#query_1_b").removeClass('hidden');
+	answers.q5 = $('#txtA').val().substring(0, 250);
+  });
+
+  $('#Q_C').find('button').click(function(event) {
+	$("#query_1_b").addClass('hidden');
+	$("#query_1_c").removeClass('hidden');
+	var q3_array = [];
+	$('#Q_C').find('input:checked').each(function(index, el) {
+	  q3_array.push($(el).attr('id'));
+	});
+	answers.q3 = q3_array;
+  });
+
+  $('#Q_D').find('input').change(function(event) {
+  	answers.q4 = $(this).attr('id');
+  	$('.btn-finalizar').attr('disabled', false);
+  });
+
+  $('#Q_F').find('input').click(function(event) {
+	
+	answers.q2 = $(this).attr('id');
+
+	if( $(this).attr('id') === 'rdEncA_R3' || $(this).attr('id') === 'rdEncA_R4' ) {
+	  $("#query_2").addClass('hidden');
+	  $("#query_2_alt").removeClass('hidden');
+	} else {
+	  $("#query_2").addClass('hidden');
+	  $("#query_2_b").removeClass('hidden');
+	}
+  });
+
+  $('#Q_G').find('input').change(function(event) {
+  	if($('#Q_G').find('input:checked').length > 0) {
+	  $('.btn-finalizar').attr('disabled', false);
+    }
+    var q2_array = [];
+    $('#Q_G').find('input:checked').each(function(index, el) {
+	  q2_array.push($(el).attr('id'));
+	});
+	answers.q3 = q2_array;
+  });
+
+  $('.Q_H_btn').click(function(event) {
+  	event.preventDefault();
+  	$("#query_2_alt").addClass('hidden');
+	$("#query_2_b").removeClass('hidden');
+	answers.q5 = $('#txtA1').val().substring(0, 250);
+  });
+
+  $('.btn-finalizar').click(function (event) {
+    fin++;
+    $.ajax({
+      url: '/encuesta-satisfaccion',
+      type: 'post',
+      dataType: 'json',
+      data: { section: section, lang: lang, properties: properties, answers: answers },
+      beforeSend: function() {
+        $('.loading').removeClass('hidden');
+      },
+      success: function(data) {
+        set_ga("Finalizada");
+
+        $('.survey').hide();
+        $('.survey-popup').css({'height':'60px','background-color':'#dff0d8','border':'1px solid #d6e9c6'});
+        $('.survey-popup .title').text('Gracias por tu participación.').css({'color':'#3c763d'});
+        $('#icon-survey').removeClass('fa-file-text-o').addClass('fa-check-circle').css({'color':'#3c763d'});
+        setTimeout(function() {
+          $('.survey-popup').fadeOut('800');
+        }, 1600);
+      }
+    });
+  });
+
+  function set_ga(estatus) {
+    var pages_group = "Gobierno";
+    var organization_name = "presidencia";
+
+    console.log("Entro a apartado de encuesta de satisfacción. Estatus: "+ estatus);
+    console.log("Pages group: "+pages_group);
+    console.log("Sub group: "+organization_name);
+    console.log("Page type: "+page_type);
+    console.log("Face: "+tipo_cara);
+
+      console.log("Rails.env.production");
+      //Código GA para encuesta de satisfacción.
+		gtag('set', 'dimension14', pages_group);
+		gtag('set', 'dimension15', organization_name);
+		gtag('set', 'dimension16', page_type);
+		gtag('send', 'event', 'Encuesta de satisfacción', tipo_cara ,estatus);
+		gtag('set', 'dimension14', null);
+		gtag('set', 'dimension15', null);
+		gtag('set', 'dimension16', null);
+  }
+
+  $('#subscribe-survey').click(function(event) {
+	event.preventDefault();
+    var email = $("#email-survey").val();
+    var state = $('#estados').val();
+
+    if (email !== '' || email !== undefined) {
+	    try {
+	      $.ajax({
+	        url: "/subscribe",
+	        type: 'post',
+	        dataType: 'json',
+	        data : { email: {address: email} },
+	        success: function (data) {
+	            $('#responseSignup').html(data.message);
+	        },
+	        error: function (data) {
+	            $('#responseSignup').html(data.message);
+	        }
+	      });
+	    }catch(e){
+	      $("#responseEmail").innerText(e);
+	    }
+
+	    $.ajax({
+	    	url: '/signups',
+	    	type: 'POST',
+	    	dataType: 'json',
+	    	data: { section: section, lang: lang, properties: properties },
+	    	success: function() {
+	    		//console.log('exito');
+	    	}
+	    });
+	} else {
+		$('#responseSignup').html('Por favor llena todos los campos.');
+	}
+  });
+
+  $('#survey-form').submit(function(event) {
+    event.preventDefault();
+  });
+});
+</script>
+
+      </div>
+      <div class="col-sm-7 pull-left">
+        <div class="share-buttons clearfix vertical-buffer">
+  <div class="col-md-2"> <a class="twitter-share-button" data-url="https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-8-de-noviembre-de-2023" data-text="Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 8 de noviembre de 2023"></a></div>
+  <div class="col-md-2">
+    <div class="fb-share-button" data-href="https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-8-de-noviembre-de-2023" data-layout="button_count" data-size="small" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-8-de-noviembre-de-2023&amp;src=sdkpreparse">Compartir</a></div>
+  </div>
+</div>
+
+  <script type="text/javascript">
+    (function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v2.7";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+    
+    var pages_group = "Gobierno";
+    var page_type = "Artículos";
+    var organization_name = "presidencia";
+    var title_content = "Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 8 de noviembre de 2023";
+
+     window.twttr = (function (d,s,id) {
+       var t, js, fjs = d.getElementsByTagName(s)[0];
+       if (d.getElementById(id)) return; js=d.createElement(s); js.id=id;
+       js.src="//platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs);
+       return window.twttr || (t = { _e: [], ready: function(f){ t._e.push(f) } });
+     }(document, "script", "twitter-wjs"));
+
+     function trackTwitter(intent_event) {
+       if (intent_event) {
+         if (intent_event.target && intent_event.target.nodeName == 'IFRAME') {
+           console.log("Metrica Compartir Twitter - "+title_content);
+           console.log("Organization: "+organization_name);
+           console.log("Page type: "+page_type);
+           console.log("Title content: "+title_content);
+           ga('set', 'dimension14', pages_group);
+           ga('set', 'dimension15', organization_name);
+           ga('set', 'dimension16', page_type);
+           ga('send', 'event', 'Compartir en redes sociales', 'Twitter', title_content);
+           ga('set', 'dimension14', null);
+           ga('set', 'dimension15', null);
+           ga('set', 'dimension16', null);
+         }
+       }
+     }
+  </script>
+  <script type="text/javascript">
+     twttr.ready(function (twttr) {
+       twttr.events.bind('tweet', trackTwitter);
+     });
+  </script>
+
+
+      </div>
+    </div>
+    <div class="row top-buffer">
+  <div class="col-md-8">
+    <hr>
+    <div class="print col-ms-12 col-md-12 col-xs-12">
+      <span class="icon-printing"></span>
+      <a href="#">Imprime la página completa</a>
+        <p class="small" style="font-size: 14px; line-height: 1.6em;">
+          La legalidad, veracidad y la calidad de la información es estricta responsabilidad de la dependencia, entidad o empresa productiva del Estado que la proporcionó en virtud de sus atribuciones y/o facultades normativas.
+        </p>
+    </div>
+  </div>
+</div>
+
+  </div>
+  <input type="hidden" id="page_type" name="page_type" value="Articulos">
+  <input type="hidden" id="organization_name" name="organization_name" value="presidencia">
+</main>
+<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+
+<footer class="main-footer">
+  <div class="list-info">
+    <div class="container">
+
+      <div class="col-sm-3">
+        <img  src="https://framework-gb.cdn.gob.mx/landing/img/logoheader.svg"  href="/" alt="logo gobierno de méxico" class="logo_footer" style="max-width: 90%; margin-left: -27px;   margin-top: 12px;">
+      </div>
+      <div class="col-sm-3">
+        <h2>Enlaces</h2>
+        <ul>
+         <!-- <li><a  href="http://www.participa.gob.mx">Participa</a></li> -->
+          <li><a  href="https://datos.gob.mx/">Datos</a></li>
+          <li><a href="https://www.gob.mx/publicaciones" target="_blank" rel="noopener" title="Enlace abre en ventana nueva">Publicaciones </a></li>
+
+                  <li><a class="footer" href="https://consultapublicamx.plataformadetransparencia.org.mx/vut-web/faces/view/consultaPublica.xhtml?idEntidad=MzM=&amp;idSujetoObligado=MTAwMDE=#inicio" id="Transparencia" target="blank" title="Enlace abre en ventana nueva">Portal de Obligaciones de Transparencia</a></li>
+
+                  <li><a class="footer" href="https://www.infomex.org.mx/gobiernofederal/home.action" id="PNT" target="blank" title="Enlace abre PNT en ventana nueva">PNT</a></li>
+
+                  <li><a class="footer" href="http://www.inai.org.mx/" id="INAI" target="blank" title="Enlace abre sitio INAI en ventana nueva">INAI</a></li>
+
+          <li><a class="footer" id="INAI" href="http://alertadores.funcionpublica.gob.mx/" target="_blank" rel="alertadores">Alerta</a></li>
+          <li><a class="footer" id="SIDEC" href="http://sidec.funcionpublica.gob.mx/" target="_blank" rel="sidec">Denuncia</a></li>
+           </ul>
+      </div>
+      <div class="col-sm-3">
+        <h2>¿Qué es gob.mx?</h2>
+        <p>Es el portal único de trámites, información y participación ciudadana.  <a href="/que-es-gobmx" style="text-decoration: none;">Leer más </a></p>
+        <ul>
+
+        
+            <li><a href='http://www.gob.mx/epn'> Administraciones anteriores  </a></li>
+          <li><a href="/accesibilidad">Declaración de Accesibilidad</a></li>
+          <li><a href="/privacidadintegral">Aviso de privacidad</a></li>
+          <li><a href="/privacidadsimplificado">Aviso de privacidad simplificado</a></li>
+          <li><a href="/terminos">Términos y Condiciones </a></li>
+          <li><a href="/terminos#medidas-seguridad-informacion">Política de seguridad</a></li>
+          <li><a class="footer" id="Marco Juridico" href="http://www.ordenjuridico.gob.mx" target="_blank" rel="noopener" title="Enlace abre en ventana nueva">Marco jurídico</a></li>
+          <li><a href="/sitemap">Mapa de sitio</a></li>
+        </ul>
+      </div>
+      <div class="col-sm-3">
+        </p>
+        <h2>Síguenos en </h2>
+        <ul class="list-inline">
+          <li>
+            <a id="Facebook" href="https://www.facebook.com/gobmexico" target="_blank" rel="noopener" class="sendEst share-info footer" title="enlace a facebook abre en una nueva ventana">
+              <img alt="Facebook" src="https://framework-gb.cdn.gob.mx/landing/img/facebook.png" />
+            </a>
+          </li>
+          <li>
+            <a id="Twitter" href="https://twitter.com/GobiernoMX" target="_blank" rel="noopener" class="sendEst share-info footer" title="Enlace a twitter abre en una nueva ventana">
+              <img alt="Twitter" src="https://framework-gb.cdn.gob.mx/landing/img/twitter.png" />
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+  </div>
+  </div>
+
+  <div class="container-fluid footer-pleca">
+    <div class="row">
+      <div class="col">
+        <br><br>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script type="text/javascript">
+      $("a.footer").click(function () {
+          var pagina_sitio = window.location.pathname;
+          var outbound_link = $(this).attr("id");
+          var subgrupo_paginas = "presidencia";
+          var page_type = "Home";
+          var pages_group = "Gobierno";
+          if($("#page_type").length > 0){ page_type = $("#page_type").val(); }
+
+          console.log("Metrica links externos footer - "+outbound_link);
+          gtag('set', 'dimension14', pages_group);
+          gtag('set', 'dimension15', subgrupo_paginas);
+          gtag('set', 'dimension16', page_type);
+          gtag('send', 'event', 'Outbound link - Footer', outbound_link, pagina_sitio);
+          gtag('set', 'dimension14', null);
+          gtag('set, ‘dimension15', null);
+      })
+  </script>
+
+<input class="hidden" id="route" value="/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-8-de-noviembre-de-2023" type="hidden" >
+<!-- div id="fb-root"></div -->
+
+
+
+
+
+  <!-- Begin comScore Tag -->
+  <script>
+      var _comscore = _comscore || [];
+      _comscore.push({ c1: "2", c2: "17183199" });
+      (function() {
+          var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+          s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+          el.parentNode.insertBefore(s, el);
+      })();
+  </script>
+  <noscript>
+    <img src="https://sb.scorecardresearch.com/p?c1=2&c2=17183199&cv=2.0&cj=1" />
+  </noscript>
+  <!-- End comScore Tag -->
+
+  <script src="https://sb.scorecardresearch.com/c2/17183199/ct.js"></script>
+
+
+  <script type="text/javascript">
+
+      var _sf_startpt=(new Date()).getTime();
+      var _sf_async_config = { uid: 43659, domain: 'www.gob.mx', useCanonical: true } ;
+      (function() {
+          function loadChartbeat() { window._sf_endpt = (new Date()).getTime(); var e = document.createElement('script'); e.setAttribute('language', 'javascript'); e.setAttribute('type', 'text/javascript'); e.setAttribute('src','//static.chartbeat.com/js/chartbeat.js'); document.body.appendChild(e); };
+          var oldonload = window.onload;
+          window.onload = (typeof window.onload != 'function') ?
+              loadChartbeat : function()
+              { oldonload(); loadChartbeat(); };
+      })();
+      var ele = "/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-8-de-noviembre-de-2023";
+      if( "#{(@organization_site.present? ? @organization_site.category : 'gobmx')}" == "Campaña") {
+          var siteEls = 'campaign';
+      } else {
+          var siteEls = 'gobierno';
+      }
+
+      for( var i = 1; i < ele.split('/').length; i++ ) {
+          siteEls = siteEls + '.' + ele.split('/')[i];
+      }
+
+      function udm_(e){var t="comScore=",n=document,r=n.cookie,i="",s="indexOf",o="substring",u="length",a=2048,f,l="&ns_",c="&",h,p,d,v,m=window,g=m.encodeURIComponent||escape;if(r[s](t)+1)for(d=0,p=r.split(";"),v=p[u];d<v;d++)h=p[d][s](t),h+1&&(i=c+unescape(p[d][o](h+t[u])));e+=l+"_t="+ +(new Date)+l+"c="+(n.characterSet||n.defaultCharset||"")+"&c8="+g(n.title)+i+"&c7="+g(n.URL)+"&c9="+g(n.referrer),e[u]>a&&e[s](c)>0&&(f=e[o](0,a-8).lastIndexOf(c),e=(e[o](0,f)+l+"cut="+g(e[o](f+1)))[o](0,a)),n.images?(h=new Image,m.ns_p||(ns_p=h),h.src=e):n.write("<","p","><",'img src="',e,'" height="1" width="1" alt="*"',"><","/p",">")};
+      function uid_call(a, b){
+          ui_c2 = 17183199; // your corporate c2 client value
+          ui_ns_site = 'gobmx'; // your sites identifier
+          window.b_ui_event = window.c_ui_event != null ? window.c_ui_event:"",window.c_ui_event = a;
+          var ui_pixel_url = 'https://sb.scorecardresearch.com/p?c1=2&c2='+ui_c2+'&ns_site='+ui_ns_site+'&name='+a+'&ns_type=hidden&type=hidden&ns_ui_type='+b;
+          var b="comScore=",c=document,d=c.cookie,e="",f="indexOf",g="substring",h="length",i=2048,j,k="&ns_",l="&",m,n,o,p,q=window,r=q.encodeURIComponent||escape;if(d[f](b)+1)for(o=0,n=d.split(";"),p=n[h];o<p;o++)m=n[o][f](b),m+1&&(e=l+unescape(n[o][g](m+b[h])));ui_pixel_url+=k+"_t="+ +(new Date)+k+"c="+(c.characterSet||c.defaultCharset||"")+"&c8="+r(c.title)+e+"&c7="+r(c.URL)+"&c9="+r(c.referrer)+"&b_ui_event="+b_ui_event+"&c_ui_event="+c_ui_event,ui_pixel_url[h]>i&&ui_pixel_url[f](l)>0&&(j=ui_pixel_url[g](0,i-8).lastIndexOf(l),ui_pixel_url=(ui_pixel_url[g](0,j)+k+"cut="+r(ui_pixel_url[g](j+1)))[g](0,i)),c.images?(m=new Image,q.ns_p||(ns_p=m),m.src=ui_pixel_url):c.write("<p><img src='",ui_pixel_url,"' height='1' width='1' alt='*'></p>");
+      }
+      udm_('https://sb.scorecardresearch.com/b?c1=2&c2=17183199&ns_site=gobmx&name='+siteEls);
+  </script>
+
+  <noscript>
+    <img src="https://sb.scorecardresearch.com/p?c1=2&amp;c2=17183199&amp;ns_site=gobmx&amp;name=gobierno.presidencia.es.articulos.version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-8-de-noviembre-de-2023" height="1" width="1" alt="*" />
+  </noscript>
+<script>
+    let key = '';
+    $(function () {
+
+        $.getJSON("https://framework-gb.cdn.gob.mx/applications/cms/configGobmx.json", function(json) {
+            console.log(json.keyAnalytics); // this will show the info it in firebug console
+            key = json.keyAnalytics;
+            ga('create', key , 'auto', 'GobTracker');
+            ga('GobTracker.require', 'linker');
+            ga('GobTracker.linker:autoLink', ['www.gob.mx']);
+            ga('GobTracker.set', 'contentGroup1', 'Gobierno');
+            ga('GobTracker.set', 'contentGroup2', SubGroup);
+            ga('GobTracker.set', 'contentGroup3', PageType);
+            ga('GobTracker.set', 'dimension14', 'Gobierno');
+            ga('GobTracker.set', 'dimension15', SubGroup);
+            ga('GobTracker.set', 'dimension16', PageType);
+            ga('GobTracker.set', 'dimension13', 'No Registrado');
+            ga('GobTracker.send', 'pageview');
+            ga('GobTracker.set', 'contentGroup1', null);
+            ga('GobTracker.set', 'contentGroup2', null);
+            ga('GobTracker.set', 'contentGroup3', null);
+            ga('GobTracker.set', 'dimension14', null);
+            ga('GobTracker.set', 'dimension15', null);
+            ga('GobTracker.set', 'dimension16', null);
+            ga('GobTracker.set', 'dimension13', null);
+        });
+    });
+</script>
+
+<script src="https://framework-gb.cdn.gob.mx/applications/cms/modal_global_cms.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/gm/accesibilidad/js/gobmx-accesibilidad.min.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick.min.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick-lightbox.js"></script>
+<link rel="stylesheet" href="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick-lightbox.css">
+
+
+<script src="https://framework-gb.cdn.gob.mx/applications/cms/config_dependency.js"></script>
+<script type="text/javascript"  src="/0RVTuHxj0/t/mhEICJIQ/YiOkthVkYSfw/PRc4N0sKYQk/PwhFVTt/GPxQB"></script></body>
+
+</html>
+

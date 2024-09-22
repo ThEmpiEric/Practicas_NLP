@@ -1,0 +1,1527 @@
+<!DOCTYPE html>
+<html class='no-js' lang='es'>
+<head>
+    <title>
+  Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 25 de junio de 2024 | Presidencia de la República  | Gobierno | gob.mx
+</title>
+
+  <meta charset='UTF-8'>
+  <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#393C3E">
+
+  
+  <meta name="keywords" content="">
+  <meta name="description" content="Acto encabezado por el presidente Andrés Manuel López Obrador desde Palacio Nacional">
+  <meta name="author" content="Presidencia de la República ">
+
+  <meta content="Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 25 de junio de 2024" property="og:title" />
+  <meta content="https://www.gob.mxhttps://www.gob.mx/cms/uploads/article/main_image/146662/Conferencia_presidente_10.04.00_AM.jpeg" property="og:image" />
+  <meta content="gob.mx" property="og:site_name" />
+  <meta content="Acto encabezado por el presidente Andrés Manuel López Obrador desde Palacio Nacional" property="og:description" />
+  <meta content="http://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-25-de-junio-de-2024?idiom=es" property="og:url" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@gobmx" />
+  <meta name="twitter:title" content="Versión estenográfica. Conferencia de prensa del presidente Andrés..." />
+  <meta name="twitter:description" content="Acto encabezado por el presidente Andrés Manuel López Obrador desde Palacio Nacional" />
+  <meta name="twitter:image" content="https://www.gob.mxhttps://www.gob.mx/cms/uploads/article/main_image/146662/Conferencia_presidente_10.04.00_AM.jpeg" />
+
+
+  <meta content="authenticity_token" name="csrf-param" />
+<meta content="q3jFkS4T6CZhipy7VV4v5OO46xH4H6caYiZp7aLDmc4=" name="csrf-token" />
+
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700,600,300' rel='stylesheet' type='text/css'>
+  <link href='https://framework-gb.cdn.gob.mx/applications/cms/favicon.png' rel='shortcut icon'>
+  <link data-turbolinks-track="true" href="/cms/assets/application.css" media="all" rel="stylesheet" />
+  <link data-turbolinks-track="true" href="https://framework-gb.cdn.gob.mx/gm/accesibilidad/css/gobmx-accesibilidad.min.css" media="all" rel="stylesheet" />
+  
+
+  <!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+  <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+
+ <![endif]-->
+  <script async src="https://www.googletagmanager.com/gtag/js?id="></script>
+  <script src="https://framework-gb.cdn.gob.mx/applications/cms/carrusel/swiper-bundle.min.js"></script>
+
+  <link rel="stylesheet" href="https://framework-gb.cdn.gob.mx/applications/cms/carrusel/swiper-bundle.min.css">
+
+    <script type="text/javascript">
+
+        var SubGroup = '';
+        if(false || false){
+            SubGroup = 'Temas';
+        }else{
+            SubGroup = 'presidencia';
+        }
+        var PageType = '';
+        if(false){
+            PageType = 'Home'
+        }else{
+            if(false){
+                PageType = '';
+            }else {
+                var site = window.location.pathname;
+                var arrayPageType = ["articulos", "prensa", "agenda", "documentos", "multimedia", "galerias", "videos",
+                    "acciones_y_programas", "acciones-y-programas", "mi-foto-con-el-presidente",
+                    "estructuras", "descargables", "que-hacemos", "finanzas", "infografias"];
+
+                if (site.search("archivo") != -1) {
+                    PageType = "archivo_";
+                }
+                for (var i = 0; i < arrayPageType.length; i++) {
+                    if (site.search(arrayPageType[i]) != -1) {
+                        PageType += arrayPageType[i];
+                        break;
+                    }
+                }
+            }
+        }
+
+
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', '');
+
+        gtag('require', 'linker');
+        gtag('linker:autoLink', ['www.gob.mx']);
+        gtag('set', 'contentGroup1', 'Gobierno');
+        gtag('set', 'contentGroup2', SubGroup);
+        gtag('set', 'contentGroup3', PageType);
+        gtag('set', 'dimension14', 'Gobierno');
+        gtag('set', 'dimension15', SubGroup);
+        gtag('set', 'dimension16', PageType);
+        gtag('set', 'dimension13', 'No Registrado');
+        gtag('send', 'pageview');
+        gtag('set', 'contentGroup1', null);
+        gtag('set', 'contentGroup2', null);
+        gtag('set', 'contentGroup3', null);
+        gtag('set', 'dimension14', null);
+        gtag('set', 'dimension15', null);
+        gtag('set', 'dimension16', null);
+        gtag('set', 'dimension13', null);
+
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-144356475-1', 'auto', {'allowLinker':true});
+        ga('require', 'linker');
+        ga('linker:autoLink', ['www.gob.mx']);
+        ga('set', 'contentGroup1', 'Gobierno');
+        ga('set', 'contentGroup2', SubGroup);
+        ga('set', 'contentGroup3', PageType);
+        ga('set', 'dimension14', 'Gobierno');
+        ga('set', 'dimension15', SubGroup);
+        ga('set', 'dimension16', PageType);
+        ga('set', 'dimension13', 'No Registrado');
+        ga('send', 'pageview');
+        ga('set', 'contentGroup1', null);
+        ga('set', 'contentGroup2', null);
+        ga('set', 'contentGroup3', null);
+        ga('set', 'dimension14', null);
+        ga('set', 'dimension15', null);
+        ga('set', 'dimension16', null);
+        ga('set', 'dimension13', null);
+    </script>
+
+
+  <script type = "text/javascript"> console.log(true);
+  var rails_env_prod = true; </script>
+  <script src="/cms/assets/application.js"></script>
+  <script src="/cms/assets/imageReplace.js"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.js"></script>
+
+                              <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("True"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="N3JQ2-2RVHB-WJQMN-CEYEM-ATMWX",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"N3JQ2-2RVHB-WJQMN-CEYEM-ATMWX",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="xxqo3jv567lbgzxpkfsq-f-5164a119a-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"37","ak.cp":"413578","ak.ai":parseInt("270161",10),"ak.ol":"0","ak.cr":12,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"c0f88efd","ak.r":49405,"ak.a2":e,"ak.m":"b","ak.n":"essl","ak.bpcip":"189.224.237.0","ak.cport":29499,"ak.gh":"189.247.214.12","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"reno","ak.t":"1726959973","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==H3iLlAsOKGvCbNU5MSj/kpMHi9ex+ij8mf+LWJj8yF4sOJSk6FfYzeF61othmDhStHEDmxJam9Z4OEKMbrROYv62GBGF8zWUA9iyt1haoGCfmQi8l0TxEWLNL/1Eu12rcrlmO2t/qEPOd5u7FztOPYzOxyMNwQAGFtne3IV2piQ3koxg7hh9fnUroJBDV9seYB4El0gl15QQmVzYW0eZSIsd+4RggGB3Ah74sA98edBiQ6bBCuOKtrTCU84bwYGJrPx+Qwd0AlsiaiddnOosTy/yDrSCKQR8swqjHcbbpZ2EEBXtWEJYl2XRPoUFgNbyGIR3NMaYlcU3X5N0gKw8Sek7gaYBJ/PAYO6bNFtjNWYom5i+PwvN5aQEPyA+f0Ihgxg3WA17/nFUngxU+ISboZ2t5Y2IVR/9QJ5mKnRUBQE=","ak.pv":"113","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+<body>
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v13.0" nonce="MZ2GPb2d"></script><!-- a href="#principal" class="skip">Saltar al contenido principal</a -->
+  <header class=" navbar navbar-inverse">
+    <nav class="navbar navbar-inverse  navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-target="#navbarMainCollapse" data-toggle="collapse">
+            <span class="sr-only">Interruptor de Navegación</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a href="/" style="padding: 1px 3px 3px 3px;" class="navbar-brand " title="Ir a la página inicial">
+
+            <div class="logo-main"></div>
+          </a>
+        </div>
+        <div id="navbarMainCollapse" class="collapse navbar-collapse">
+          <ul class="nav navbar-nav navbar-right">
+           <li><a href="/tramites" title="Trámites">Trámites </a></li>
+            <li><a href="/gobierno" title="Gobierno">Gobierno</a></li>
+                  <li><a href="/presidencia/en" title="Versión en inglés del sitio web">English</a>
+                  </li>
+                </li>
+
+
+            <li>
+              <form accept-charset="UTF-8" action="/busqueda" method="get"><div style="display:none"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+                <input type="hidden" name="site" value="presidencia">
+                <button data-v-6394873e="" id="botonbuscar" type="button" class="btn btn-search"><a data-v-6394873e="" href="https://www.gob.mx/busqueda?utf8=✓" target="_blank" id="botbusca"><img data-v-6394873e="" alt="Buscar" src="https://framework-gb.cdn.gob.mx/landing/img/lupa.png"></a></button>
+</form>            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    
+
+
+        <script src="/cms/assets/level_jump.js"></script><section>
+<!-- Subnavegacion -->
+<nav class=" navbar-inverse sub-navbar fixed-top"
+     >
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#subenlaces">
+        <span class="sr-only">Interruptor de Navegación</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="link-name" href="?tab="></a>
+    </div>
+    <div class="collapse navbar-collapse" id="subenlaces">
+      <ul class="nav subnav navbar-nav navbar-right">
+              <li class="landing-btn">
+                    <a href='/presidencia/es/archivo/prensa'>
+                Comunicados            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='/presidencia/es/#5173'>
+                Directorio            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='https://transparencia.presidencia.gob.mx/presidencia/transparencia/politicas-de-tratamiento-de-datos-personales-de-la-oficina-de-la-presidencia-de-la-republica/'>
+                Protección de Datos Personales            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='https://www.gob.mx/presidencia/transparencia/'>
+                Transparencia            </a>
+            </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+<style>
+  .flag-banner {
+  top: 45px  !important;
+  }
+</style>
+<!-- div class="warning-nav" style="margin-top: 0px;">
+  <div class="container">
+    <div class="row clearfix">
+  <div class="col-xs-12 col-sm-12 col-md-12">Este contenido será modificado temporalmente en atención a las disposiciones legales y normativas en materia electoral, con motivo del inicio de periodo de campaña</div>
+  </div>
+  </div>
+</div -->
+</section>
+
+
+  </header>
+
+
+
+
+
+<main class="inner-page interior ficha">
+  <div class="container">
+  	<ol class="breadcrumb">
+  <li><a href="http://www.gob.mx"><span class="icon icon-home"></span><span class="sr-only">Inicio</span></a></li>
+  <li><a href="/presidencia">Presidencia de la República </a></li>
+  <li class="active">Blog</li>
+</ol>
+  	<div class="">
+      <div aria-hidden="true" class="hidden-xs font-changer internal print" tabindex="-1">
+  <button class="inc-font font-modifier">Aa+</button>
+  <button class="dec-font font-modifier">Aa-</button>
+</div>
+      <div class="marquee-padding">
+      <div class='post-list main-post-list'>
+<div class='marque-float-left'>
+<div class='right_arrow'></div>
+<div class='titulo-pub'>
+<small>Publicaciones Recientes</small>
+</div>
+</div>
+<div>
+<div class='container-marque'>
+<div id='headlines'>
+<div class='marquee'>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-19 13:44:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-19-de-septiembre-de-2024' title='Versió'>
+Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 19 de septiembre de 2024
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-18 12:36:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-18-de-septiembre-de-2024' title='Versió'>
+Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 18 de septiembre de 2024
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-17 13:51:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-entrega-de-estimulos-a-delegaciones-mexicanas-participantes-en-juegos-olimpicos-y-paralimpicos-paris-2024' title='Versió'>
+Versión estenográfica. Entrega de estímulos a delegaciones mexicanas participantes en Juegos Olímpicos y Paralímpicos París 2024
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-17 12:21:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-17-de-septiembre-de-2024' title='Versió'>
+Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 17 de septiembre de 2024
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-16 13:56:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-desfile-civico-militar' title='Versió'>
+Versión estenográfica. Desfile Cívico Militar
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+      </div>
+  	  <div class="col-md-7 col-xs-12 col-sm-12 pull-left" tabindex="0">
+  	  	<h1 class="bottom-buffer">Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 25 de junio de 2024</h1>
+  	  	<h2>Acto encabezado por el presidente Andrés Manuel López Obrador desde Palacio Nacional</h2>
+        <section class="">
+          <p>Presidencia de la República  | 25 de junio de 2024</p>
+        </section>
+  	  <div class="imagen-principal">
+  	      <img alt="Conferencia de prensa del presidente Andrés Manuel López Obrador" class="img-responsive img_curve" src="https://www.gob.mx/cms/uploads/article/main_image/146662/Conferencia_presidente_10.04.00_AM.jpeg" />
+  	      <span class="small">Conferencia de prensa del presidente Andrés Manuel López Obrador</span>
+      </div>
+      <div class="article-body"><p>&nbsp;</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR</strong>: Buenos d&iacute;as. &Aacute;nimo.</p>
+
+<p>Bueno, como todos los martes cada 15 d&iacute;as, se informa sobre seguridad y hoy vamos a dedicar esta conferencia a informarles c&oacute;mo estamos en seguridad, qu&eacute; se ha hecho en materia de seguridad p&uacute;blica. Vamos a iniciar con la secci&oacute;n &lsquo;Cero impunidad&rsquo;.</p>
+
+<p><strong>LUIS RODR&Iacute;GUEZ BUCIO, SUBSECRETARIO DE SEGURIDAD P&Uacute;BLICA DE LA SECRETAR&Iacute;A DE SEGURIDAD Y PROTECCI&Oacute;N CIUDADANA: </strong>Con su permiso, se&ntilde;or presidente. Muy buenos d&iacute;as.</p>
+
+<p>Voy a dar, me voy a permitir informar sobre el avance de &lsquo;Cero impunidad&rsquo; del 11 al 24 de junio. Tenemos tres extradiciones realizadas por la Fiscal&iacute;a General de la Rep&uacute;blica. Aqu&iacute; vemos los nombres. Son personas requeridas por las cortes de California, dos, y por la de Nueva York, por los delitos de homicidio, tentativa de homicidio, homicidio de segundo grado de un beb&eacute; y homicidio intencional, toma de rehenes y asociaci&oacute;n delictuosa.</p>
+
+<p>Detenciones relevantes, tenemos esta de Carlos &lsquo;N&rsquo;, &eacute;l fue detenido por la fiscal&iacute;a del estado de Chihuahua, tras cumplimentar una orden de aprehensi&oacute;n por el delito de desaparici&oacute;n cometida por particulares, esto ocurri&oacute; el 20 de junio del 22 en Cerocahui, Chihuahua. El hoy detenido, junto con quien fuera el l&iacute;der criminal de Urique, Jos&eacute; Noriel, alias &lsquo;el Chueco&rsquo;, y otros hombres armados llegaron hasta un domicilio en Cerocachui en busca de una persona de nombre Jes&uacute;s Armando. En el domicilio solamente se encontraba Paul Osvaldo, a quien privan de su libertad, llev&aacute;ndoselo en un veh&iacute;culo, adem&aacute;s de que le prendieron fuego a su vivienda. El cuerpo de Paul Osvaldo fue localizado sin vida el 4 de julio del 2022 en la comunidad El Chorro, municipio de Urique. Carlos &lsquo;N&rsquo; ya fue vinculado a proceso penal.</p>
+
+<p>Otra detenci&oacute;n relevante, de Daniel &lsquo;N&rsquo;, presunto integrante del grupo delictivo de la Familia Michoacana. &Eacute;l fue detenido por la Fiscal&iacute;a General de Justicia del Estado de M&eacute;xico, con apoyo del Ej&eacute;rcito Mexicano, Conaho y de la procuradur&iacute;a de Tlaxcala, tras cumplimentar una orden de aprehensi&oacute;n por el delito de homicidio calificado en agravio de una persona de identidad reservada, esto el 11 de enero del 2024 en Chicoloapan, Estado de M&eacute;xico. De acuerdo con las investigaciones ministeriales, la v&iacute;ctima se encontraba en la v&iacute;a p&uacute;blica en la colonia Real Costitl&aacute;n, lugar donde fue interceptado por Daniel y otros dos, quienes le habr&iacute;an disparado con arma de fuego ocasion&aacute;ndole la muerte. El m&oacute;vil del delito, hasta ahorita, tiene la fiscal&iacute;a que habr&iacute;a sido la negativa de la v&iacute;ctima a comercializar droga proporcionada por Daniel &lsquo;N&rsquo;. Daniel, despu&eacute;s de este homicidio, huy&oacute; a Tlaxcala, lugar donde fue detenido.</p>
+
+<p>Estas dos detenciones de Joaqu&iacute;n Jonathan y Brayan Manuel, ellos fueron detenidos por la Fiscal&iacute;a del estado de Guanajuato tras cumplimentar una orden de aprehensi&oacute;n por el delito de homicidio calificado de seis integrantes de una familia, cuatro mujeres y dos menores, esto ocurri&oacute; el 9 de junio del 2024, en Le&oacute;n, Guanajuato. De acuerdo con las investigaciones, los hoy detenidos habr&iacute;an ingresado a un domicilio en la colonia Industrial, de Le&oacute;n, Guanajuato, lugar donde privado de la vida a las seis v&iacute;ctimas con arma de fuego. Ya fueron vinculados a proceso con medida cautelar de prisi&oacute;n preventiva.</p>
+
+<p>Esta vinculaci&oacute;n a proceso de Mar&iacute;a del Rosario &lsquo;N&rsquo;, ella fue vinculada a proceso por su presunta participaci&oacute;n en los delitos de desaparici&oacute;n cometida por particulares, homicidio calificado y feminicidio y tortura cometido en agravio de tres hermanos Gonz&aacute;lez Moreno, esto en Guadalajara, Jalisco, en mayo del 2021. De acuerdo con las investigaciones de la Fiscal&iacute;a de Jalisco, las tres v&iacute;ctimas fueron privadas de su libertad en la colonia San Andr&eacute;s y llevadas a otra colonia, Monumental, lugar donde fueron torturadas y despu&eacute;s privadas de la vida. Los cuerpos de los tres hermanos aparecieron dos d&iacute;as despu&eacute;s en el kil&oacute;metro 27 de la carretera a Colotl&aacute;n a la altura de la comunidad del Pueblito. Por este hecho ya fue detenido y vinculado a proceso otra persona de nombre Oswaldo &lsquo;N&rsquo;, en el 2022.</p>
+
+<p>Esta vinculaci&oacute;n a proceso de Diana &lsquo;N&rsquo;, por el homicidio de Ricardo Arizmendi Reynoso, &eacute;l era candidato suplente a la alcald&iacute;a de Cuautla, en las pasadas elecciones, as&iacute; como por el feminicidio de una de sus trabajadoras de nombre Patricia, esto el 28 de mayo pasado en Cuautla, Morelos. De acuerdo con las investigaciones de la fiscal&iacute;a de Morelos, Ricardo Arizmendi se encontraba en su negocio de venta de abarrotes, junto con su trabajadora, al interior de la plaza 12 de Octubre, en Tetelcingo, a donde arrib&oacute; Diana y acciona su arma de fuego contra las v&iacute;ctimas, provoc&aacute;ndoles la muerte. Ella hab&iacute;a huido por la parte trasera de la plaza en una motocicleta que la esperaba en el exterior, presuntamente conducida por Luis Rodolfo &lsquo;N&rsquo;. Ellos dos enfrentan otro proceso penal por el delito de homicidio de otro comerciante en la misma plaza, ocurrido el 6 de junio del 2024.</p>
+
+<p>Esta sentencia, de prisi&oacute;n vitalicia m&aacute;s 46 a&ntilde;os y dos meses a Lev Norman, por el de delito de feminicidio de Lucero Jazm&iacute;n, de 23 a&ntilde;os, as&iacute; como por el delito de homicidio calificado en grado de tentativa del hermano de Lucero Jazm&iacute;n, ambos casos ocurrieron el 3 de octubre en San Mateo Atenco, Estado de M&eacute;xico. De acuerdo con las investigaciones de la fiscal&iacute;a del Estado de M&eacute;xico. Lucero Jazm&iacute;n se encontraba en compa&ntilde;&iacute;a del hoy sentenciado en el interior de un domicilio ubicado en el Barrio Santiaguito, lugar donde este la agredi&oacute; con un objeto punzocortante caus&aacute;ndole la muerte y posteriormente desmembr&oacute; su cuerpo. Lev Norman fue descubierto por el hermano de Lucero Jazm&iacute;n, quien tambi&eacute;n fue agredido por el sentenciado con el mismo objeto punzocortante lesion&aacute;ndolo de gravedad. El hoy sentenciado fue detenido por la polic&iacute;a municipal cuando intentaba huir llevando en una maleta los restos de Lucero Jazm&iacute;n.</p>
+
+<p>Esta otra sentencia, de 171 a&ntilde;os y seis meses de prisi&oacute;n, y 115 a&ntilde;os de prisi&oacute;n a Jes&uacute;s y Eduardo tras acreditar su responsabilidad en los delitos de homicidio calificado en grado de tentativa y homicidio contra servidores p&uacute;blicos en grado de tentativa, todo ello ocurri&oacute; en junio del 2021 en Valle de Santiago, Guanajuato. El primer hecho ocurri&oacute; el 3 de junio, cuando Jes&uacute;s lleg&oacute; a un domicilio en la colonia San Juan y asesin&oacute; a dos personas. Seis d&iacute;as despu&eacute;s, el segundo caso, cuando los hoy sentenciados ingresaron a un inmueble ubicado en la colonia La Loma y privaron de la vida con arma de fuego a cuatro personas. Un tercer caso, dos d&iacute;as despu&eacute;s, en un inmueble ubicado en la colonia Miravalle, lugar en el que ambos sentenciados dispararon contra agentes de la fiscal&iacute;a del estado de Guanajuato, hiriendo a uno de ellos y aqu&iacute; fue donde Jes&uacute;s &lsquo;N&rsquo; fueron detenidos en flagrancia.</p>
+
+<p>Tenemos tres casos que favorecen a presuntos delincuentes. Aqu&iacute; es una red de corrupci&oacute;n en Ceferesos en el tiempo de Genaro Garc&iacute;a Luna. La favorecida es Jannet Miriam, ella es investigada por su supuesta participaci&oacute;n en los delitos de peculado y delincuencia organizada y por el desv&iacute;o de cinco mil 112 millones de pesos, ella trabaja en PYRS. El juez que favorece es Gregorio Salazar Hern&aacute;ndez, quien el 14 de junio de este a&ntilde;o, en audiencia de revisi&oacute;n de medidas cautelares, dej&oacute; sin efectos la prisi&oacute;n preventiva justificada que hab&iacute;a contra Jannet Miriam, sustituy&eacute;ndolas por otras no privativas de la libertad en reclusi&oacute;n, y orden&oacute; su inmediata libertad sin cubrir los tr&aacute;mites de egreso obligatorios en estos casos y permiti&eacute;ndole su salida directamente de la sala de audiencia al t&eacute;rmino de la misma. Las nuevas medidas impuestos a Jannet Miriam fueron o son la presentaci&oacute;n semanal de manera virtual, garant&iacute;a econ&oacute;mica por dos millones de pesos y la prohibici&oacute;n de salir del pa&iacute;s, entre otras. De acuerdo con el juez, ya hab&iacute;an variado las condiciones que motivaron la imposici&oacute;n de la prisi&oacute;n preventiva justificada a Jannet Miriam en virtud de que su defensa logr&oacute; acreditar el arraigo domiciliario habitual y asiento de familia de la procesada.</p>
+
+<p>La que sigue. Tenemos tambi&eacute;n este caso de la suspensi&oacute;n provisional al exdirigente de un partido pol&iacute;tico en la Ciudad de M&eacute;xico, se trata de Cuauht&eacute;moc &lsquo;N&rsquo;, &eacute;l est&aacute; procesado por el delito de trata de personas cometido durante su gesti&oacute;n al frente de un partido pol&iacute;tico en la Ciudad de M&eacute;xico en el a&ntilde;o 2014. Aqu&iacute; la jueza Mar&iacute;a del Carmen Cisneros concedi&oacute; una suspensi&oacute;n provisional a Cuauht&eacute;moc &lsquo;N&rsquo; contra cualquier orden de aprehensi&oacute;n, presentaci&oacute;n y/o su ejecuci&oacute;n que existe en su contra, ello tras pagar una garant&iacute;a por 87 mil 500 pesos. El amparo fue promovido por Cuauht&eacute;moc contra los jueces de tr&aacute;mite de las 12 unidades de gesti&oacute;n judicial del Tribunal Superior de Justicia de la Ciudad de M&eacute;xico. Y, adem&aacute;s, la jueza orden&oacute; a dichas autoridades que en un t&eacute;rmino de 48 horas rindan sus informes previos sobre la existencia o no de los actos que se le reclaman. Cuauht&eacute;moc &lsquo;N&rsquo; contin&uacute;a en prisi&oacute;n preventiva por la causa penal de delito de trata de personas.</p>
+
+<p>Y tenemos este caso en el cambio de medidas cautelares de Luis &lsquo;N&rsquo;, al&iacute;as &lsquo;el Monedas&rsquo;. &Eacute;l es hijo de Jos&eacute; Antonio, al&iacute;as &lsquo;el Marro&rsquo;, y dos c&oacute;mplices m&aacute;s. Ellos fueron detenidos el 7 de enero del 2024 por la fiscal&iacute;a de Guanajuato con apoyo de la Secretar&iacute;a de la Seguridad P&uacute;blica en coordinaci&oacute;n con la Fiscal&iacute;a General de la Rep&uacute;blica tras repeler una agresi&oacute;n armada en San Antonio de los Morales, en Juventino Rosas, los delitos por los que fueron acusados es portaci&oacute;n de arma de fuego y posesi&oacute;n de droga. Aqu&iacute; los integrantes del Tribunal Colegiado en Materia Penal y Administrativa del 22 Circuito en Quer&eacute;taro el 17 de junio del 24 por unanimidad de votos concedi&oacute; a Luis Antonio &lsquo;N&rsquo; y sus c&oacute;mplices una suspensi&oacute;n provisional para dejar sin efecto la prisi&oacute;n preventiva oficiosa que les hab&iacute;a sido impuesta en la audiencia inicial el 9 de enero por considerarla inconvencional. La jueza tambi&eacute;n orden&oacute; celebrar audiencia y proceder al debate para imponer otras medidas cautelares, pudiendo ser incluso la prisi&oacute;n preventiva justificada.</p>
+
+<p>En este mismo caso, en cumplimiento a la resoluci&oacute;n del tribunal, la jueza Mar&iacute;a del Refugio Casta&ntilde;eda Guill&eacute;n celebr&oacute; la audiencia el 18 de junio del 24 en la que impuso como medidas cautelares la presentaci&oacute;n peri&oacute;dica y una garant&iacute;a econ&oacute;mica, y en el caso de Luis Antonio el no acercarse a los polic&iacute;as aprehensores y no salir del pa&iacute;s. La jueza prescindi&oacute; de la prisi&oacute;n preventiva justificada al considerar que, si bien Luis Antonio presentaba un alto riesgo de sustracci&oacute;n. no lo era tanto como para justificar la prisi&oacute;n preventiva; tambi&eacute;n desestim&oacute; el hecho de que Luis Antonio es el hijo de Jos&eacute; Antonio &lsquo;N&rsquo;, al&iacute;as &lsquo;el Marro&rsquo;. A los otros dos detenidos, la jueza tambi&eacute;n prescindi&oacute; de prisi&oacute;n preventiva justificada, pues a su consideraci&oacute;n hab&iacute;a poco riesgo de sustracci&oacute;n.</p>
+
+<p>Sobre este mismo caso, una vez que la jueza el 18 de junio, la jueza Casta&ntilde;eda Guillen, ordena a la directora del Cefereso n&uacute;mero 12 de Guanajuato para que en el t&eacute;rmino de 24 horas informe sobre el cumplimiento de su resoluci&oacute;n bajo el apercibimiento de multa en caso de incumplimiento; sin embargo, el &Oacute;rgano Desconcentrado de Prevenci&oacute;n y Readaptaci&oacute;n Social, PYRS, consult&oacute; a la Fiscal&iacute;a General de la Rep&uacute;blica y a las 32 fiscal&iacute;as estatales si los detenidos contaban o no con procesos o sentencias pendientes de cumplir. Esta consulta tard&oacute; 24 horas m&aacute;s de las autorizadas por la jueza para otorgar la libertad de los detenidos y por el tiempo excedido en dar cumplimiento a su resoluci&oacute;n la jueza hizo efectivo el apercibimiento a la titular del Cefereso n&uacute;mero 12 de Guanajuato, imponi&eacute;ndole tres multas, una de 200, otra de 400 y otra de 600 UMAS.</p>
+
+<p>Me voy a permitir en esta ocasi&oacute;n presentar este caso en el que se observan obst&aacute;culos para la impartici&oacute;n de justicia en el Centro de Justicia Penal Federal en Nuevo Le&oacute;n. Tenemos que se ha observado que este centro incumple su obligaci&oacute;n de impartir justicia en asuntos que importantes miles de millones de pesos en perjuicios fiscales. Esta situaci&oacute;n ha generado una serie de obst&aacute;culos significativos en el proceso judicial, afectando la pronta y eficaz resoluci&oacute;n de los casos. Se considera que no se ha impartido justicia porque las audiencias iniciales y de juicio oral han sufrido demoras significativas violando el derecho a una justicia expedita, como lo garantiza la Constituci&oacute;n y el C&oacute;digo Nacional de Procedimientos Penales.</p>
+
+<p>Casos importantes de defraudaci&oacute;n fiscal con montos que oscilan entre decenas de millones y casi dos mil millones de pesos han sido pospuestos repetidamente. El <em>modus operandi</em>, las demoras se atribuyen a cargas de trabajo excesivas, licencias de los jueces y ajustes en las agendas judiciales. En varios casos las audiencias iniciales se han programado hasta 10 meses despu&eacute;s de la solicitud sin justificaci&oacute;n adecuada. Y tenemos que en otros Centros de Justicia Penal Federal en el pa&iacute;s con mayores cargas de trabajo no presentan estas dilaciones, lo que incida posibles fallas espec&iacute;ficas en la gesti&oacute;n del centro de Nuevo Le&oacute;n.</p>
+
+<p>Tenemos estas siete causas penales. En este caso, bueno, aqu&iacute; est&aacute;n los montos de cada una, pero en esta audiencia se ha diferido cuatro veces; esta tambi&eacute;n, esta se ha diferido dos veces, tres veces; esta audiencia se program&oacute; siete meses despu&eacute;s de que se hab&iacute;a solicitado, esta audiencia se program&oacute; 10 meses despu&eacute;s de solicitada y esta audiencia fue reprogramada de mayo del 24 hasta abril del 2025, o sea, el pr&oacute;ximo a&ntilde;o. Entonces, el monto total que implican todas las causas penales aqu&iacute; descritas importan un total de tres mil 228 millones 951 mil 88 pesos 47 centavos.</p>
+
+<p>Ser&iacute;a todo, se&ntilde;or presidente. Me permito ceder el micr&oacute;fono a mi general secretario.</p>
+
+<p><strong>LUIS CRESENCIO SANDOVAL GONZ&Aacute;LEZ, SECRETARIO DE LA DEFENSA NACIONAL:</strong> Con su permiso, se&ntilde;or presidente. Continuando con el informe de seguridad conjunto, el informe corresponde del 11 al 24 de junio. Una vez que terminamos la tarea de garantizar la seguridad durante el proceso electoral se reestablecieron los efectivos para poder cubrir las misiones que se tienen asignadas.</p>
+
+<p>En total tenemos ya en el periodo 221 mil 106 elementos de Guardia Nacional y de Fuerzas Armadas atendiendo estas misiones, siendo la Guardia Nacional la fuerza que tiene mayor n&uacute;mero de efectivos desplegados en el territorio nacional. Vamos a ver los resultados:</p>
+
+<p>En aseguramientos de armas en este periodo que corresponde al informe, 291 armas aseguradas para hacer un total en la administraci&oacute;n de 51 mil 556 armas de diversos calibres.</p>
+
+<p>En granadas, ocho granadas en el periodo; en la administraci&oacute;n, tres mil 503.</p>
+
+<p>En cartuchos, 45 mil 999 cartuchos asegurados en este periodo, para un total de 19.6 millones de cartuchos.</p>
+
+<p>Detenidos, 446 detenidos de las diferentes organizaciones criminales, para un total de 87 mil 831 detenidos durante la administraci&oacute;n.</p>
+
+<p>Veh&iacute;culos asegurados, tenemos 382 veh&iacute;culos, para 97 mil 788 en la administraci&oacute;n.</p>
+
+<p>En fentanilo, en este periodo del 11 al 24 de junio se aseguraron ocho kilogramos de fentanilo y el total que se lleva en la administraci&oacute;n son ocho mil 300.3 kilogramos de este enervante asegurado.</p>
+
+<p>En metanfetaminas, 19 mil 101.8 kilogramos de metanfetaminas asegurados, para un total de 721 mil 252.6 kilogramos de este enervante que llevamos asegurado en la administraci&oacute;n.</p>
+
+<p>Coca&iacute;na, en el periodo, cuatro mil 450.7 kilogramos de coca&iacute;na; y en la administraci&oacute;n, 224 mil 236.5 kilogramos de esta coca&iacute;na.</p>
+
+<p>Marihuana, 427.7 kilogramos; en la administraci&oacute;n, 769 mil 904.2 kilogramos de marihuana asegurada.</p>
+
+<p>De hero&iacute;na, 800 gramos en el periodo, mil 605.3 kilogramos en la administraci&oacute;n.</p>
+
+<p>En aseguramientos de moneda nacional en el periodo, 1.6 millones de pesos asegurados a la delincuencia, y en la administraci&oacute;n, 665.2 millones de pesos. Y en d&oacute;lares americanos, 646 mil 154 en el periodo, para un total de 153.4 millones de pesos, perd&oacute;n, de d&oacute;lares.</p>
+
+<p>En plant&iacute;os y hect&aacute;reas de marihuana erradicadas, en el periodo fueron 152 plant&iacute;os, que corresponden a 17.8 hect&aacute;reas; en la administraci&oacute;n llevamos 82 mil 305 plant&iacute;os, que corresponden a 11 mil 207.2 hect&aacute;reas.</p>
+
+<p>En amapola, mil 147 plant&iacute;os en 329.4 hect&aacute;reas; en la administraci&oacute;n, 460 mil 911 plant&iacute;os de este enervante en 66 mil 400.3 hect&aacute;reas.</p>
+
+<p>En laboratorios clandestinos se localizaron y se inhabilitaron 16 laboratorios en el periodo; tambi&eacute;n, en esas &aacute;reas se aseguraron 18.36 toneladas de metanfetaminas y 27.9 toneladas de sustancias qu&iacute;micas. Con esto se evit&oacute; la producci&oacute;n de aproximadamente 23.36 toneladas de este enervante. Una afectaci&oacute;n en el periodo de seis mil 167 millones de pesos, esto es aproximado.</p>
+
+<p>En lo que llevamos de la administraci&oacute;n en laboratorios, ya hacemos un total de dos mil 542 laboratorios, 692.22 toneladas de metanfetamina asegurados; y de sustancias qu&iacute;micas, tres mil 561.46 toneladas de sustancias qu&iacute;micas. La afectaci&oacute;n estimada es de m&aacute;s de dos billones de pesos.</p>
+
+<p>En el combate al mercado il&iacute;cito de combustibles, 371 mil 660 litros recuperados, y lo que llevamos en la administraci&oacute;n de estos combustibles recuperados son 66 millones 757 mil 716 litros.</p>
+
+<p>Sobre los apoyos de seguridad que brinda la Guardia Nacional en las aduanas fronterizas e interiores, mantiene un efectivo de 444 mil efectivos en 21 aduanas fronterizas y 11 interiores; tambi&eacute;n en aeropuertos y aer&oacute;dromos tiene presencia, cubriendo 76 aeropuertos y 27 aer&oacute;dromos. Y en este periodo apoyo el traslado de 26 internos, realizando 21 operaciones de traslado.</p>
+
+<p>Este es el esfuerzo nacional para ver la participaci&oacute;n de la Guardia Nacional en los resultados en seguridad p&uacute;blica, se mantienen el 47 por ciento de los resultados. Aqu&iacute; resalta que en el fentanilo la Guardia Nacional ha asegurado el 45 por ciento del total que se lleva, en detenidos es el 43 por ciento del total; el rescate humanitario, ah&iacute; tiene una participaci&oacute;n importante, tiene 88 por ciento de los rescates humanitarios dentro de la estrategia para cubrir la frontera; en veh&iacute;culos el 55 por ciento de veh&iacute;culos que se le han asegurado a la delincuencia organizada, la Guardia Nacional lo ha realizado.</p>
+
+<p>Sobre la estrategia de inteligencia, lo que han hecho las diferentes dependencias, organismos, de inteligencia del Estado mexicano, se han logrado la detenci&oacute;n en el periodo de cuatro personas que pertenec&iacute;an al c&aacute;rtel del Pac&iacute;fico, esto fue en Sinaloa; hubo una del c&aacute;rtel Jalisco Nueva Generaci&oacute;n en Nayarit, y una m&aacute;s de la Familia Michoacana, este fue en Guerrero. Los resultados son seis detenidos y tres organizaciones delictivas a las que se afectaron.</p>
+
+<p>Cedo la palabra a la secretaria de Seguridad. Es todo, se&ntilde;or presidente.</p>
+
+<p><strong>ROSA ICELA RODR&Iacute;GUEZ VEL&Aacute;ZQUEZ, SECRETARIA DE SEGURIDAD Y PROTECCI&Oacute;N&nbsp;CIUDADANA:</strong> Con su permiso, se&ntilde;or presidente. Buenos d&iacute;as a todas y a todos.</p>
+
+<p>Hoy, en continuaci&oacute;n del informe presentado por quienes me antecedieron en la palabra, hoy estamos tambi&eacute;n con algunas de las acciones en materia de prevenci&oacute;n y tambi&eacute;n para dar certeza jur&iacute;dica a la poblaci&oacute;n que hace uso de estos programas.</p>
+
+<p>Primero, el informe sobre el Programa de Regularizaci&oacute;n de Veh&iacute;culos de Procedencia Extranjera, en donde participamos en 17 entidades del pa&iacute;s, los resultados son los siguientes:</p>
+
+<p>Del 19 de marzo del 2022 al 24 de junio de 2024 se han podido regularizar dos millones 358 mil 231 veh&iacute;culos, los cuales ya tienen los documentos que le dan regularizaci&oacute;n para su estancia en el pa&iacute;s. Hay que decir que son modelos del 2018 y anteriores. Con lo cual a la fecha se han obtenido m&aacute;s de cinco mil 895 millones 577 mil 500 pesos. Esto ha hecho posible la repavimentaci&oacute;n de cuatro millones 363 mil 546 metros cuadrados de avenidas en los estados participantes, que se encontraban estos lugares en malas condiciones.</p>
+
+<p>Estos son los reportes que hemos recibido de las entidades participantes, aqu&iacute; est&aacute; la entidad federativa y el total de metros cuadrados. Algunos de los estados no nos han reportado, pero est&aacute;n pavimentando tambi&eacute;n las entidades, al siguiente informe lo damos de manera completa.</p>
+
+<p>Estas son las entidades federativas que participan en el programa. Son 174 m&oacute;dulos, dos millones 358 mil 231 regularizados. Aqu&iacute; est&aacute; estado por estado, el esfuerzo que se ha hecho con estas entidades es importante. Y los recursos obtenidos que dec&iacute;amos anteriormente, cu&aacute;l es este monto. Pero hay que decir aqu&iacute; que son tres estados los que concentran el 51 por ciento del total de los recursos obtenidos y, por supuesto, de las regularizaciones, 17 estados beneficiados.</p>
+
+<p>Y decirles, invitarles a todos los que no han acudido a los m&oacute;dulos porque este programa cierra el 30 de septiembre pr&oacute;ximo.</p>
+
+<p>Tambi&eacute;n tenemos hoy el reporte sobre preliberaciones y amnist&iacute;as. Aqu&iacute; decir que se llevan, de julio de 2022 al 24 de junio pasado, han obtenido su libertad nueve mil 493 personas, de las cuales son mujeres, tambi&eacute;n enfermos de males cr&oacute;nico-degenerativos, adultos mayores, ind&iacute;genas, en fin.</p>
+
+<p>Y tambi&eacute;n el programa en el que el se&ntilde;or presidente nos ha hecho mucho hincapi&eacute;, que es el programa de amnist&iacute;as. Se han logrado 374 libertades por amnist&iacute;as. Esto es encabezado por la Secretar&iacute;a de Gobernaci&oacute;n, en donde se llevan 374 libertades, 127 mujeres, 247 hombres y de ellos han sido 35 ind&iacute;genas. Hay 50 resoluciones que se han calificado como positivas por parte de la Comisi&oacute;n de Amnist&iacute;a y que se encuentran en estudio para su confirmaci&oacute;n del juez competente.</p>
+
+<p>Tambi&eacute;n hay que decir de la buena participaci&oacute;n de los jueces que nos han otorgado estas libertades, tambi&eacute;n con su participaci&oacute;n. Y tambi&eacute;n decir, recordarles que hay 50 resoluciones que quisi&eacute;ramos que estuvieran dictaminadas lo antes posible para beneficio y por justicia a la poblaci&oacute;n.</p>
+
+<p>Tambi&eacute;n hoy informar sobre el desarme voluntario, esto significa que puedan canjear en los diferentes municipios prioritarios, canjear las armas de manera voluntaria por dinero en efectivo. Este programa se realiza en conjunto con la Secretar&iacute;a de la Defensa Nacional, ellos son la entidad que tiene esa facultad, y la Secretar&iacute;a de Seguridad se encarga de la coordinaci&oacute;n con los estados, con los municipios, de informar a la poblaci&oacute;n y de invitar a participar en este programa.</p>
+
+<p>A la fecha, el desarme ha llegado 63 municipios de 21 estados. Y han sido intercambiados en este programa itinerante mil 678 armas de fuego, para un total de ocho millones 43 mil 327 pesos. Aqu&iacute; est&aacute; el n&uacute;mero de municipios y cu&aacute;nto se ha erogado en cada uno de los a&ntilde;os en los que se ha llevado a cabo este programa.</p>
+
+<p>Aqu&iacute; est&aacute;n tambi&eacute;n, miren ustedes, armas cortas, 849; armas largas, 573; cartuchos, granadas, 236; cargadores, cartuchos de dinamita. Y esto se ha llevado a cabo en diferentes municipios y se va a llevar a cabo en otros tambi&eacute;n que est&aacute;n pendientes en estos d&iacute;as, vamos de manera itinerante con los m&oacute;dulos. Invitamos a la poblaci&oacute;n, sobre todo, para prevenir accidentes o que haya heridos u otros sucesos de consecuencias fatales.</p>
+
+<p>Adelante. Pues tambi&eacute;n estamos trabajando ah&iacute; en la cultura del no uso de juguetes b&eacute;licos, sino de juguetes did&aacute;cticos.</p>
+
+<p>Adelante. Y ahora me quiero referir a otro tema, si me permite, presidente, que nos falta. Por instrucci&oacute;n del presidente Andr&eacute;s Manuel L&oacute;pez Obrador hablaremos hoy sobre los homicidios de pol&iacute;ticos, candidatos y aspirantes a cargo de elecci&oacute;n popular que lamentablemente han tenido lugar en la historia contempor&aacute;nea de nuestro pa&iacute;s.</p>
+
+<p>Recordar que, en 1988, a unos d&iacute;as de la elecci&oacute;n donde contendi&oacute; para la Presidencia Carlos Salinas de Gortari, del PRI, fueron asesinados Francisco Javier Ovando y Rom&aacute;n Gil Heraldez, los operadores estrat&eacute;gicos de la campa&ntilde;a del ingeniero Cuauht&eacute;moc C&aacute;rdenas Sol&oacute;rzano, quien compet&iacute;a por el Frente Democr&aacute;tico Nacional. Entonces se gestaba un movimiento de izquierda, que fue visto como una amenaza por el viejo r&eacute;gimen. En el sexenio de Salinas de Gortari se gener&oacute; una escalada de represi&oacute;n que deriv&oacute; en el asesinato de m&aacute;s de 600 dirigentes militantes y simpatizantes de la oposici&oacute;n en los gobiernos de Carlos Salinas y de Ernesto Zedillo.</p>
+
+<p>Para el 23 de marzo de 1994, en el periodo salinista, tambi&eacute;n lamentablemente fue asesinado Luis Donaldo Colosio, candidato a la Presidencia de la Rep&uacute;blica por el PRI. Y meses despu&eacute;s tambi&eacute;n mataron al secretario general del PRI, Jos&eacute; Francisco Ruiz Massieu.</p>
+
+<p>En 2004 se registr&oacute; el homicidio de Guadalupe &Aacute;vila Salinas, candidata del PRD a la presidencia municipal de San Jos&eacute; Estancia Grande, Oaxaca.</p>
+
+<p>Para el 28 de junio de 2010, cuando Felipe Calder&oacute;n era presidente de M&eacute;xico, acribillaron a Rodolfo Torre Cant&uacute;, candidato del PRI a la gubernatura de Tamaulipas y quien en aquel momento se perfilaba como el aspirante con mayores posibilidades de triunfo.</p>
+
+<p>Tambi&eacute;n, en 2012 el alcalde electo de Matehuala, San Luis Potos&iacute;, el priista Edgar Morales P&eacute;rez fue ejecutado, igual que Margarito Gench&iacute; Casiano, candidato a diputado local por el PRD.</p>
+
+<p>En 2015, Enrique Mart&iacute;nez Salcedo, candidato de Morena a la alcald&iacute;a de Yur&eacute;cuaro, Michoac&aacute;n, fue asesinado.</p>
+
+<p>En el proceso electoral de 2018 se registraron los homicidios de 20 candidatos, siete de los cuales contend&iacute;an por una presidencia municipal, as&iacute; como Fernando Pur&oacute;n Johnston, quien buscaba una diputaci&oacute;n federal por el PRI.</p>
+
+<p>Durante el proceso que acabamos de vivir este 2024, en el que participaron m&aacute;s de 70 mil candidatos y candidatas, las agresiones se centraron en aspirantes locales, entre ellos suplentes a una regidur&iacute;a o sindicatura, as&iacute; como a presidencias municipales. Desafortunadamente en este periodo tuvo lugar el homicidio de 12 personas candidatas registradas oficialmente ante los institutos electorales locales.</p>
+
+<p>En este tiempo hemos visto el inter&eacute;s de grupos opositores al r&eacute;gimen actual para generar alarma y la idea equivocada de que M&eacute;xico vivi&oacute; el proceso electoral m&aacute;s violento de la historia reciente; pero esto no es as&iacute;, se trata de campa&ntilde;as que pretenden desprestigio al gobierno, un comparativo de los homicidios que tuvieron lugar en diferentes momentos y procesos electorales es muestra de ello. Hay que decir que las elecciones pasadas, la difusi&oacute;n de informaci&oacute;n se centraba sobre las candidaturas a la presidencia o a las gubernaturas, por lo que los actos de violencia contra quienes contend&iacute;an por puestos locales no eran mediatizados.</p>
+
+<p>El proceso electoral de este a&ntilde;o fue muy cuidado y vigilado por las Fuerzas Armadas, la Secretar&iacute;a de la Defensa Nacional, la Guardia Nacional. Se recibieron 645 peticiones de protecci&oacute;n, 595 de las cuales fueron atendidas y 50 declinadas por los propios solicitantes. Todos los candidatos que la pidieron tuvieron seguridad y la mantendr&aacute;n hasta que tomen posesi&oacute;n de su cargo. A la fecha, 121 cuentan con ella, los dem&aacute;s declinaron.</p>
+
+<p>No se registr&oacute; ning&uacute;n homicidio de contendientes a puestos de elecci&oacute;n federal ni a gubernaturas, como lamentablemente s&iacute; ocurri&oacute; en otras administraciones. Hay que aclarar que todas las vidas son importantes y los homicidios dolosos de pol&iacute;ticos son condenables. Y en lo que corresponde a las investigaciones, las fiscal&iacute;as estatales est&aacute;n a cargo para evitar la impunidad.</p>
+
+<p>El Gobierno de M&eacute;xico tiene claro que la democracia es el m&eacute;todo que debe prevalecer en la elecci&oacute;n de candidatos. Por eso, seguimos trabajando para lograr la pacificaci&oacute;n del pa&iacute;s.</p>
+
+<p>Gracias por su atenci&oacute;n. Es todo, presidente.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Bueno, vamos.</p>
+
+<p><strong>PREGUNTA:</strong> Gracias. Buenos a todos; buenos d&iacute;as, presidente.</p>
+
+<p>Bueno, pues ayer la nota mundial fue la liberaci&oacute;n de Julian Assange. Inmediatamente de que se supo, bueno, pues usted subi&oacute; un mensaje a la red social de X. Me gustar&iacute;a aprovechar la conferencia justamente para que usted abundara sobre esta liberaci&oacute;n de Julian Assange, fundador de WikiLeaks, luego, de que, bueno, lleg&oacute; a un acuerdo con el gobierno de los Estados Unidos, por favor.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Bueno, primero, felicitar a Julian, a sus familiares, a su pap&aacute;, a sus hermanos, a sus amigos, a millones de mexicanos y de todos los pa&iacute;ses del mundo que participaron para hacer posible la libertad de Julian Assange.</p>
+
+<p>Nosotros tambi&eacute;n nos sumamos a esa campa&ntilde;a y, como lo expres&eacute; en mi <em>Face</em>, estamos muy contentos por la salida de la c&aacute;rcel de Julian. Era una cosa muy injusta, era como tener en prisi&oacute;n la libertad y en especial la libertad de expresi&oacute;n.</p>
+
+<p>Y ahora ya, tambi&eacute;n como lo puse en el <em>Face</em>, est&aacute; contenta la Estatua de la Libertad, que entregaron los franceses en su momento al gobierno y al pueblo de Estados Unidos, esta estatua que est&aacute; en Nueva York, la Estatua de la Libertad. &iquest;Por qu&eacute; no la pones? Siempre hab&iacute;a yo sostenido de que se estaba convirtiendo en un s&iacute;mbolo vac&iacute;o y ahora la veo hasta contenta.</p>
+
+<p><strong>INTERLOCUTORA:</strong> &iquest;Piensa usted tener alg&uacute;n tipo de comunicaci&oacute;n con Julian Assange o con su familia en las pr&oacute;ximas horas, en los pr&oacute;ximos d&iacute;as?</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> No creo, pero nos sentimos muy contentos, ellos saben lo que hicimos, tanto con el gobierno del presidente Trump como en el gobierno del presidente Biden. Ha de estar content&iacute;sima.</p>
+
+<p>Hace unos d&iacute;as coment&eacute; que iba yo a dar a conocer las cartas que enviamos en su momento, tanto al presidente Trump como al presidente Biden. &iquest;No las tienes?</p>
+
+<p>Haciendo un poco de historia, cuando lo detienen de manera injusta, se acerca el final del gobierno del presidente Trump &mdash;llevamos muy buenas relaciones&mdash; y los presidentes de Estados Unidos pueden dar libertad a personas antes de salir, es una facultad que tienen, es parte de la tradici&oacute;n de los gobiernos de Estados Unidos, est&aacute; en sus leyes. Entonces, antes de terminar le envi&eacute; una carta para que le concediera el indulto.</p>
+
+<p>&lsquo;23 de diciembre del 20.</p>
+
+<p>&lsquo;Estimado presidente Donald Trump.</p>
+
+<p>&lsquo;Me permito apelar a su humanismo, a la cordialidad y el respeto que ha caracterizado la relaci&oacute;n entre nosotros y a su actitud de amistad para con M&eacute;xico y nuestro gobierno, para hacerle una petici&oacute;n especial en torno a la situaci&oacute;n del se&ntilde;or Julian Assange.</p>
+
+<p>&lsquo;En su reclusi&oacute;n en Londres, la salud del se&ntilde;or Assange se ha deteriorado severamente y se encuentra en riesgo real de morir en prisi&oacute;n. Si logra salir con vida de esa situaci&oacute;n, enfrenta una posible condena de c&aacute;rcel por muchos a&ntilde;os en Estados Unidos. En mi opini&oacute;n, aunque haya actuado de manera equivocada, es una persona movida por ideales y principios, y pienso que por ese hecho debiera ser merecedor de compasi&oacute;n.</p>
+
+<p>&lsquo;En horas recientes he sabido que usted, siguiendo una noble tradici&oacute;n institucional de su pa&iacute;s, dio una muestra de benevolencia al conceder indulto a varias personas, y considero oportuno rogarle que le extienda al se&ntilde;or Assange y le otorgue un indulto a fin de que pueda ser liberado. Si usted accede a mi petici&oacute;n, el gobierno de M&eacute;xico est&aacute; dispuesto a ofrecer las facilidades necesarias para que el se&ntilde;or Assange viaje de inmediato a mi pa&iacute;s, en donde ser&iacute;a recibido en calidad de asilado. Desde luego, de acuerdo con las leyes internacionales que rigen el derecho de asilo, M&eacute;xico garantizar&iacute;a que de esa situaci&oacute;n no se derivara amenaza o afectaci&oacute;n alguna a los intereses de Estados Unidos. En caso de que usted decidiera responder afirmativamente a esta solicitud, podr&iacute;a afirmar p&uacute;blicamente que lo hizo en respuesta a una petici&oacute;n de mi parte.</p>
+
+<p>&lsquo;Le expreso, presidente Trump, mi aprecio y mi estimaci&oacute;n de siempre. Su amigo&hellip;&rsquo;</p>
+
+<p>S&eacute;, me informaron que tuvo la carta y lo pens&oacute; &mdash;ya estaba terminando&mdash;, pero otros cercanos a &eacute;l participaron y le dijeron que no era conveniente, porque pues hab&iacute;a mucha presi&oacute;n al interior de Estados Unidos. Eso lo hicimos en diciembre del 20.</p>
+
+<p>Luego, si ustedes recuerdan, estuvimos en enero del 23, en la cumbre de Am&eacute;rica del Norte. Estuvo el primer ministro Trudeau, estuvo con nosotros el presidente Biden, estuvimos como dos o tres d&iacute;as juntos, y le entregu&eacute; esta carta:</p>
+
+<p>&lsquo;Estimado presidente Biden:</p>
+
+<p>&lsquo;En la relaci&oacute;n en nuestras naciones, son muchas las cosas que compartimos: la b&uacute;squeda de prosperidad de nuestros pueblos, la interdependencia de nuestras econom&iacute;as, el aporte de nuestros ciudadanos, la confianza entre gobiernos y la relaci&oacute;n de respeto entre nuestros pa&iacute;ses.</p>
+
+<p>&lsquo;Las constituciones de ambos Estados se basan en valores democr&aacute;ticos, de libertad y de justicia. En la Primera Enmienda, la Constituci&oacute;n de los Estados Unidos de Am&eacute;rica establece la defensa de las libertades, como la libertad de expresi&oacute;n, de palabra y de prensa, principios sobre los que se fund&oacute; la Uni&oacute;n Americana. La Constituci&oacute;n mexicana protege las libertades individuales y los derechos sociales.</p>
+
+<p>&lsquo;Con la confianza que otorgan los valores y objetivos compartidos y la amistad franca y sincera, me permito abordar el caso de Julian Assange, periodista australiano, que lleva 12 a&ntilde;os privado de su libertad. En abril cumple cuatro a&ntilde;os en una prisi&oacute;n de m&aacute;xima seguridad en Londres esperando un juicio para ser extraditado a Estados Unidos.</p>
+
+<p>&lsquo;Diversos organismos internacionales y civiles, legisladores, l&iacute;deres pol&iacute;ticos, gobernantes y periodistas demandan su libertad por violaciones a sus derechos humanos y al tratado de extradici&oacute;n entre Estados Unidos y Reino Unido, que proh&iacute;be la extradici&oacute;n por motivos pol&iacute;ticos. Los tribunales en Londres reconocen que la vida del se&ntilde;or Assange corre peligro si es extraditado.</p>
+
+<p>&lsquo;Existe consenso entre destacados especialistas de que este caso sentar&iacute;a un grave precedente que vulnera el periodismo en todo el mundo, en ello coinciden m&aacute;s de 25 organizaciones civiles por la libertad de expresi&oacute;n de Estados Unidos, as&iacute; como medios importantes como el <em>New York Times, el The Guardian, Le Monde, Der Spiegel y</em> <em>El Pa&iacute;s</em>, quienes, por cierto, publicaron la misma informaci&oacute;n que el se&ntilde;or Assange.</p>
+
+<p>&lsquo;Hay otros elementos. En noviembre de 2022, el Departamento de Justicia de Estados Unidos public&oacute; nuevas directrices sobre la libertad de prensa. En ellas se estipula que los periodistas tienen derecho a solicitar, recibir y publicar material clasificado por causa de inter&eacute;s p&uacute;blico. Al menos 17 de los 18 cargos en contra del se&ntilde;or Assange, cargos de la ley de espionaje, violan estas nuevas disposiciones de la justicia.</p>
+
+<p>&lsquo;Por tales razones, de manera respetuosa le pido que, en uso de sus facultades y autoridad moral, pueda solicitarle al fiscal general de Estados Unidos, Merrick Garland, se revise la legalidad de las acusaciones, as&iacute; como la petici&oacute;n de extradici&oacute;n que la sustentan. Me atrevo a hacer esta solicitud, pues considero que, adem&aacute;s de ser una injusticia, este caso afecta la imagen de Estados Unidos en el mundo.</p>
+
+<p>&lsquo;Lo he expresado en otras ocasiones, la Estatua de la Libertad no debe quedar como un s&iacute;mbolo vac&iacute;o. Adem&aacute;s, usted, presidente Biden, es un hombre con convicciones y es notorio que coincide con el pensamiento de mi paisano y maestro en filosof&iacute;a y cultura, el gran poeta Carlos Pellicer, que desde 1930 sosten&iacute;a: &lsquo;El anhelo de la libertad es el m&aacute;s grande fruto que ha cuajado el coraz&oacute;n humano, porque s&oacute;lo no siendo esclavos podemos no odiar, no tener rencores y hacer de nuestra vida, sin rencor y sin odio, el acto de justicia que Dios nos ha ordenado. Para ser justos, es necesario ser libres. Los sentimientos de justicia son hijos de la libertad, pues nunca siendo esclavos podemos ser justos&rsquo;.</p>
+
+<p>&lsquo;Como siempre, le agradezco su confianza y respeto.&rsquo;</p>
+
+<p>Bueno, esta carta fue en enero del 22, del 23, del a&ntilde;o pasado, &iquest;no?, s&iacute;. Y la ley&oacute; y me dijo: &lsquo;D&eacute;jeme ver&rsquo;. Yo le dije que ten&iacute;a inter&eacute;s en informarlo, en hacerlo p&uacute;blico. Y &eacute;l me dijo: &lsquo;&iquest;Por qu&eacute; no nos esperamos?&rsquo; Y no dije nada, pero s&iacute; a los familiares de Assange les entregu&eacute; los documentos.</p>
+
+<p>Entonces, me da mucho gusto, la verdad, lo de ayer.</p>
+
+<p><strong>INTERLOCUTORA:</strong> Bien, presidente, en otro tema, &iquest;nos podr&iacute;a ampliar c&oacute;mo es el acuerdo para que Suiza represente a M&eacute;xico en este conflicto con Ecuador? Entiendo que hubo la firma de un convenio &mdash;si nos lo pudieran ampliar&mdash; para que represente los intereses de M&eacute;xico.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Bueno, b&aacute;sicamente es que se cuiden los bienes de M&eacute;xico, que se cuide la embajada para que no sufra ning&uacute;n da&ntilde;o, en esto estriba el acuerdo. Estamos esperando que la Corte de Justicia Internacional resuelva sobre lo que nosotros consideramos, pues fue una violaci&oacute;n al derecho internacional y una violaci&oacute;n a nuestra soberan&iacute;a, el asalto a la Embajada de M&eacute;xico en Quito, en Ecuador, y la agresi&oacute;n a los diplom&aacute;ticos mexicanos.</p>
+
+<p><strong>INTERLOCUTORA:</strong> La semana pasada se dio a conocer que por cuarta ocasi&oacute;n se pospuso el dar a conocer la penalidad de la condena a Genaro Garc&iacute;a Luna por los delitos de narcotr&aacute;fico, falsedad de documentos, delincuencia organizada, esto porque su representaci&oacute;n legal gan&oacute; tiempo para, desde su perspectiva, ofrecer pruebas en favor de su cliente.</p>
+
+<p>Mi pregunta va encaminada a cu&aacute;l ser&iacute;a para el Gobierno de M&eacute;xico, para le jefe del Estado mexicano la pena m&aacute;s adecuada, la condena m&aacute;s adecuada que deber&iacute;a de recibir Garc&iacute;a Luna, tomando en cuenta que el exsecretario de Seguridad P&uacute;blica de M&eacute;xico fue declarado culpable de todos, de todos, de todos los cargos que se le acusaron por proteger al c&aacute;rtel de Sinaloa utilizando su cargo como secretario.</p>
+
+<p>La penalidad que se contempla all&aacute; en Estados Unidos, de acuerdo con su ordenamiento legal, va de 20 a&ntilde;os a cadena perpetua. Para el Gobierno de M&eacute;xico, para el jefe de Estado mexicano, &iquest;cu&aacute;l ser&iacute;a la pena adecuada a la condena en a&ntilde;os, d&iacute;as y meses que se deber&iacute;a dictar en contra de Garc&iacute;a Luna?</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Bueno, fue un asunto muy grave porque en ese gobierno encabezado por el Felipe Calder&oacute;n, que inicia con un fraude electoral, pues las organizaciones crim&iacute;nales, el narcotr&aacute;fico, se infiltr&oacute; en el gobierno, en los hechos prevaleci&oacute; un narcogobierno. Y hay las pruebas suficientes, porque no s&oacute;lo son las acusaciones, sino es la acumulaci&oacute;n de dinero.</p>
+
+<p>No puede ser posible que una gente que empieza de informante, joven, en el sistema de espionaje mexicano&hellip; Porque no estamos hablando de un heredero de fortuna familiar, estamos hablando de una persona que seguramente con el esfuerzo de sus padres termina una carrera y en relativamente poco tiempo, 20 a&ntilde;os, llega a acumular tanto dinero. Ahora que venga Pablo G&oacute;mez va a informar seguramente de la acusaci&oacute;n por corrupci&oacute;n atribuida a Garc&iacute;a Luna y a sus socios, pues estamos hablando de 700 millones de d&oacute;lares. Entonces, &iquest;c&oacute;mo sucedi&oacute; esto?</p>
+
+<p>Yo escrib&iacute; algo en mi libro. Pienso que, si no estaba enterado de la gravedad de lo que estaba pasando, Felipe Calder&oacute;n, s&iacute; le permiti&oacute; a Genaro Garc&iacute;a Luna actuar con mucho poder, y s&iacute; se afect&oacute; al pa&iacute;s, se da&ntilde;&oacute; al pa&iacute;s, y desde luego hubo p&eacute;rdidas de vidas humanas.</p>
+
+<p>Pero sobre la pena, eso corresponde a los jueces.</p>
+
+<p><strong>INTERLOCUTOR:</strong> &iquest;No teme una pena m&iacute;nima usted como presidente?</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Yo no opino de eso.</p>
+
+<p>Yo soy partidario de la no repetici&oacute;n. Si se deben de tocar estos temas y no guardar silencio es porque se debe buscar que no se repitan nunca m&aacute;s, nunca m&aacute;s que el crimen organizado, la delincuencia, tanto la delincuencia organizada como la delincuencia de cuello blanco&hellip; Porque tambi&eacute;n eso da&ntilde;&oacute; mucho a M&eacute;xico, el que todos los bienes del pa&iacute;s, no todos, pero muchos bienes, porque afortunadamente M&eacute;xico tiene muchos recursos naturales, pero muchos de esos bienes, del pueblo, de la naci&oacute;n, fueron trasladados a particulares, a traficantes de influencia, a gente cercana a presidentes, a gobernantes, y eso tambi&eacute;n da&ntilde;&oacute; mucho a M&eacute;xico. Por eso es delincuencia organizada, que no se debe de permitir, y delincuencia de cuello blanco, que tampoco debe permitirse.</p>
+
+<p>Yo recuerdo que la revista <em>Forbes</em> hac&iacute;a listas, sigue haciendo, de los multimillonarios de M&eacute;xico; y en una de esas listas por publicidad, por sensacionalismo, pon&iacute;an en la lista de los 10 m&aacute;s ricos de M&eacute;xico a Guzm&aacute;n Loera, pero creo que en el lugar 10. Cuando vi la lista, dije: pues no. S&iacute;, muy famoso Guzm&aacute;n Loera y tiene mucho dinero, pero no juega en Ligas Mayores; s&iacute; jugaba en triple A, la Liga del Pac&iacute;fico, la liga mexicana, en comparaci&oacute;n con los que se hicieron inmensamente ricos a partir de que rompi&oacute; la pi&ntilde;ata Salinas. Entre las cosas que ve uno, &iquest;no?, en <em>Forbes</em>.</p>
+
+<p>Esto para los j&oacute;venes, &iquest;no?, para que no internalicen todo lo que est&aacute;n viendo, porque puede ser muy atractivo, porque s&iacute; es una gente muy famosa, muy buscada, es el m&aacute;s buscado del mundo, que ofrecen las recompensas m&aacute;s jugosas, s&iacute;, s&iacute;, s&iacute;, pero hay otros que ni siquiera pierden su respetabilidad.</p>
+
+<p>Entonces, s&iacute;, en el caso de Garc&iacute;a Luna lo tiene que resolver el juzgado en Nueva York.</p>
+
+<p><strong>INTERLOCUTORA:</strong> &iquest;Tendr&iacute;a que ser severa la condena en a&ntilde;os?</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> No quiero yo opinar sobre eso. Lo &uacute;nico que me llama la atenci&oacute;n es que est&aacute;n posponiendo y posponiendo y posponiendo el veredicto final. Ya parecen los jueces de aqu&iacute;, que archivan expedientes o guardan expedientes, como esto que se est&aacute; ahora se&ntilde;alando, estos expedientes de los juzgados de Nuevo Le&oacute;n, todos tienen que ver con defraudaci&oacute;n fiscal, que no quieren pagar impuestos los de arriba; y, entonces, con puras <em>chicanadas</em>, con abogados tramposos, aplican t&aacute;cticas dilatorias, y m&aacute;s que ten&iacute;an la esperanza de que nos iba a ir mal al movimiento. Entonces vamos a esperar a que pase ya el gobierno.</p>
+
+<p><strong>INTERLOCUTORA:</strong> &iquest;Descarta que pudiera convertirse, por ejemplo, en un futuro, en testigo colaborador o protegido en Estados Unidos?</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Lo podr&iacute;a ser.</p>
+
+<p><strong>INTERLOCUTORA:</strong> &iquest;Ser&iacute;a bueno?</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Ser&iacute;a bueno que hable. Independientemente si le rebajan la pena, ayudar&iacute;a mucho al pa&iacute;s para que nunca jam&aacute;s vuelvan a repetirse esas cosas. Que aporte pruebas y que adem&aacute;s ayude a la purificaci&oacute;n de la vida p&uacute;bica del pa&iacute;s. Como seres humanos, que pueda decir: Pido perd&oacute;n por lo que hice, pero no fui solo, no actu&eacute; solo.</p>
+
+<p>Y ayuda tambi&eacute;n mucho a que se acabe lo de los chivos expiatorios, que no lo agarren como chivo expiatorio.</p>
+
+<p>Y que diga todo, desde el Cisen, qui&eacute;n le dio la orden de ir a buscar al segundo tirador en el asesinato de Luis Donaldo Colosio; c&oacute;mo fue ascendiendo con Zedillo, con Fox, c&oacute;mo lleg&oacute; con Calder&oacute;n.</p>
+
+<p>Y sus c&oacute;mplices, porque todav&iacute;a despu&eacute;s de estar con Calder&oacute;n sigui&oacute; con sus relaciones y haciendo negocios, vendiendo equipos.</p>
+
+<p>Ser&iacute;a muy bueno para el pa&iacute;s, para limpiar a M&eacute;xico de corrupci&oacute;n, porque eso es lo que m&aacute;s ha da&ntilde;ado al pa&iacute;s. Nada ha da&ntilde;ado m&aacute;s a M&eacute;xico que la corrupci&oacute;n pol&iacute;tica, la deshonestidad de los gobernantes.</p>
+
+<p><strong>INTERLOCUTORA:</strong> Bien, presidente.</p>
+
+<p>Usted, como cabeza del Sistema Nacional de Seguridad P&uacute;blica, sabe cu&aacute;ntas polic&iacute;as, cu&aacute;ntos polic&iacute;as hay. Mi pregunta va encaminada a ya este cierre de su administraci&oacute;n, aprovechando que est&aacute;n los integrantes del Gabinete de Seguridad, saber cu&aacute;ntos polic&iacute;as hay en M&eacute;xico. No me refiero a la Guardia Nacional, Fuerzas Armadas, no; polic&iacute;as en los estados, polic&iacute;as estatales y polic&iacute;as municipales, sobre todo a la luz de lo que ya estamos viendo, de que va a ser pr&aacute;cticamente un hecho que la Guardia Nacional, que lleva a cabo cerca de la mitad de las acciones en operativos en pro de la seguridad en M&eacute;xico, es la operativa. &iquest;Cu&aacute;ntos polic&iacute;as estatales y municipales hay en nuestro pa&iacute;s? Si tienen el dato, por favor.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> &iquest;T&uacute; tienes el dato?</p>
+
+<p><strong>ROSA ICELA RODR&Iacute;GUEZ VEL&Aacute;ZQUEZ:</strong> Con permiso, presidente.</p>
+
+<p>S&iacute;, efectivamente, hay un cuadro que viene n&uacute;mero por cada una de las entidades y los municipios, tambi&eacute;n. Le pedir&iacute;a al equipo, mientras est&aacute; aqu&iacute; el presidente, si nos puede acercar &mdash;si me permite, presidente&mdash; ese cuadro y que se los d&eacute; aqu&iacute; a los compa&ntilde;eros del vocero de la Presidencia, y nos puedan ayudar para darle exactamente el n&uacute;mero y no&hellip; Ser muy precisa en ese dato.</p>
+
+<p><strong>INTERLOCUTORA:</strong> Qu&eacute; amable, secretaria. Gracias.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Pero mientras viene el cuadro, que lo tenemos, es lo que se presenta por estado. Pero a ver si tenemos un concentrado de los elementos por estado en general. Cuando hacemos las evaluaciones en los estados se presenta cu&aacute;ntos elementos de Marina, de Defensa, Guardia Nacional, cu&aacute;ntos polic&iacute;as estatales, cu&aacute;ntos polic&iacute;as municipales. Hasta podr&iacute;amos presentar algunos, vamos a poner cinco y luego&hellip;</p>
+
+<p><strong>INTERLOCUTORA:</strong> S&iacute;, el concentrado de polic&iacute;as.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR: </strong>De todo, de todo.</p>
+
+<p><strong>INTERLOCUTORA: </strong>Mi inquietud es: polic&iacute;as estatales y municipales, o sea, es decir, que no pertenezcan a las Fuerzas Armadas, es mi inquietud.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> En general &mdash;ayer habl&aacute;bamos de eso, antier&mdash; va a ser muy importante la participaci&oacute;n, como est&aacute; sucediendo, de la Guardia Nacional.</p>
+
+<p>A ver, pon Guanajuato, pon Jalisco, pon dos por&hellip; Esta es Chiapas. Todo esto lo tenemos por estado y lo tenemos a nivel nacional. Pero este me va a servir para que se entienda la importancia de la Guardia Nacional, la creaci&oacute;n de la Guardia Nacional.</p>
+
+<p>Antes, ni el Ej&eacute;rcito ni la Marina, las Fuerzas Armadas pod&iacute;an hacer labores de seguridad p&uacute;blica, la Constituci&oacute;n se los imped&iacute;a. Entonces, se cre&oacute; la Guardia Nacional para hacer labor de seguridad p&uacute;blica y otras, pero fundamentalmente seguridad p&uacute;blica, un poco lo que pod&iacute;a ser la Polic&iacute;a Federal; sin embargo, la Polic&iacute;a Federal, desde que se cre&oacute; en el gobierno de Zedillo hasta el sexenio pasado, lo m&aacute;s que lleg&oacute; a tener fueron 40 mil elementos, y un porcentaje muy alto de personal administrativo y pocos elementos operativos, en realidad hab&iacute;a 20 mil elementos operativos para todo el pa&iacute;s.</p>
+
+<p>Lo que hicimos fue solicitar apoyo al Congreso, y se otorg&oacute;, para que tanto la Secretar&iacute;a de Marina como la Secretar&iacute;a de la Defensa pudieran ayudar en labores de seguridad p&uacute;blica. Porque pod&iacute;a estar un cuartel en una base naval y, si se comet&iacute;a un delito del fuero com&uacute;n enfrente del cuartel, legalmente no pod&iacute;an, ten&iacute;an otras misiones, y el problema del pa&iacute;s era y sigue siendo el de la seguridad interna.</p>
+
+<p>Entonces, s&iacute; necesitamos cuidar las costas, nuestros litorales, las fronteras, s&iacute; necesitamos defender, cuidar nuestra soberan&iacute;a, pero lo que m&aacute;s necesitamos es tranquilidad, paz al interior de nuestro pa&iacute;s. Entonces, hubo un giro y a partir de esa reforma se cont&oacute; con el apoyo de las Fuerzas Armadas y se cre&oacute;.</p>
+
+<p>El lunes pr&oacute;ximo vamos a tener un acto para conmemorar los cinco a&ntilde;os de la creaci&oacute;n de la Guardia Nacional. El d&iacute;a que corresponde es domingo, el pr&oacute;ximo domingo, pero vamos a hacerlo el lunes, va a ser una ceremonia en el Campo Marte.</p>
+
+<p>Al crearse la Guardia, nada m&aacute;s en personal, en elementos, de esos 40 mil, ahora hay 120 mil, y el prop&oacute;sito es que para el a&ntilde;o pr&oacute;ximo sean 150 mil elementos de la Guardia Nacional.</p>
+
+<p>Y no s&oacute;lo eso; 400 cuarteles. Ahora que fuimos a Oaxaca inauguramos unas instalaciones de la Guardia Nacional, un regimiento, incluso con unidad habitacional. Esto nunca lo hizo la Polic&iacute;a Federal, no hicieron un solo cuartel, mandaban a los elementos a acampar a la intemperie; o como no ten&iacute;an instalaciones, los concentraban aqu&iacute; y los mandaban cuando en un estado se agravaban las cosas y se hospedaban en hoteles, una cosa muy irregular. Entonces, eso ya no, ahora ya 400 instalaciones de la Guardia Nacional; incluso la Secretar&iacute;a de la Defensa otorg&oacute; en calidad de pr&eacute;stamo instalaciones, 100, son 500.</p>
+
+<p>Ahora en Acapulco, estamos construyendo 23 nuevas instalaciones, cuarteles, para dar la seguridad en Acapulco, pero&hellip;</p>
+
+<p><strong>LUIS CRESENCIO SANDOVAL GONZ&Aacute;LEZ:</strong> Noventa en todo el territorio estamos construyendo.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Noventa se est&aacute;n construyendo ahora, pero en total ya son como 400, m&aacute;s equipo, profesionalismo, formaci&oacute;n. Ya es una instituci&oacute;n que cuenta con el respaldo del pueblo; tiene, de acuerdo a la &uacute;ltima encuesta del Inegi, 75 por ciento de aceptaci&oacute;n por los mexicanos.</p>
+
+<p>Pero lo importante es esto. Por ejemplo, este es, dijimos Chiapas, en Chiapas la Secretar&iacute;a de Marina tiene dos mil 250 elementos; operativos, mil 800. El Ej&eacute;rcito y la Fuerza A&eacute;rea, nueve mil 973; operativos, nueve mil 76. La Guardia Nacional, seis mil 565; operativos, cinco mil 910. Seguridad P&uacute;blica, estos son polic&iacute;as, 10 mil 605, toda la polic&iacute;a de Chiapas; en total, 27 mil elementos.</p>
+
+<p>Hay lugares en donde la polic&iacute;a estatal y municipal, los elementos de la polic&iacute;a estatal y municipal es menor que el n&uacute;mero de guardias nacionales, y esto es muy bueno porque se est&aacute; reforzando la seguridad y la protecci&oacute;n.</p>
+
+<p>Pero s&iacute; vamos a entregarte hoy mismo.</p>
+
+<p>&iquest;Ya lo tienen?</p>
+
+<p><strong>JES&Uacute;S RAM&Iacute;REZ CUEVAS, COORDINADOR GENERAL DE COMUNICACI&Oacute;N SOCIAL Y VOCERO DE PRESIDENCIA:</strong> Tenemos el cuadro de las fuerzas estatales por estado, y municipales.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> A ver.</p>
+
+<p><strong>JES&Uacute;S RAM&Iacute;REZ CUEVAS:</strong> Falta la comparaci&oacute;n con las fuerzas federales.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> No, pero eso ya&hellip; Ah&iacute; est&aacute;: 125 mil municipales y 168 mil estatales; en total, 293 mil. Estos 293 mil vienen siendo el equivalente de las Fuerzas Armadas y de la Guardia Nacional, o sea, lo que tiene Marina, Defensa y Guardia Nacional; o sea, est&aacute; a la mitad.</p>
+
+<p>Nada m&aacute;s quiero ver Oaxaca. Ah&iacute; est&aacute;n incluidos los topiles, que es el servicio que se da a la comunidad desde j&oacute;venes. Son mil 500 municipios en Oaxaca; perd&oacute;n, 570, y tiene mil 892 municipales. Ah&iacute; est&aacute;n los voluntarios que participan sin cobrar. Es que en Oaxaca hay 418 municipios de usos y costumbres de los 570; 478, y ah&iacute; en los&hellip; perd&oacute;n, en los 418, no cobran las autoridades. Y hay que dar servicio a la comunidad desde joven y se empieza como topil. Entonces, por eso aparecen ah&iacute; mil 882, pero deben ser probablemente...</p>
+
+<p><strong>JES&Uacute;S RAM&Iacute;REZ CUEVAS:</strong> Tenemos Guardia Nacional y las fuerzas estatales por estado.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> A ver. Esa es buena.</p>
+
+<p>Hay estados en donde ya son m&aacute;s los elementos de la Guardia Nacional que los polic&iacute;as estatales y municipales. Por ejemplo, Aguascalientes, polic&iacute;a estatal, faltan municipales, pero son m&aacute;s la Guardia Nacional; notoriamente en Baja Sur, en Baja California; en Campeche s&iacute; son m&aacute;s los estatales.</p>
+
+<p><strong>JES&Uacute;S RAM&Iacute;REZ CUEVAS:</strong> En 19 estados.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> &iquest;Cu&aacute;ntos?</p>
+
+<p><strong>JES&Uacute;S RAM&Iacute;REZ CUEVAS:</strong> En 19 estados.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> En 19 estados son m&aacute;s los elementos de la Guardia Nacional.</p>
+
+<p><strong>INTERLOCUTORA:</strong> Gracias, presidente.</p>
+
+<p>Ya por mi parte, para terminar, nada m&aacute;s si nos pueden puntualizar si s&iacute; fue liberado el hijo de &lsquo;el Marro&rsquo;, porque como que no qued&oacute; muy claro.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> S&iacute;, s&iacute; fue liberado, y dos personas m&aacute;s. Porque resuelve el juez y da un plazo, entonces se tiene que hacer una revisi&oacute;n, tenemos la responsabilidad. Entonces, se llev&oacute; pues otras 24 horas, se hizo consulta en m&aacute;s de 30 estados, en todos, todas las fiscal&iacute;as. Y ya cuando no se encontr&oacute; nada, nada m&aacute;s estos delitos, y ya era la orden del juez, porque&hellip; multas, ya vamos a cooperar para pagar las multas a los compa&ntilde;eros de los reclusorios, porque si no ya despu&eacute;s es la instituci&oacute;n.</p>
+
+<p>Y suele tambi&eacute;n pasar, dan este tiempo para que&hellip; Bueno, acabamos de dar a conocer un caso que desde el juzgado sali&oacute;, o sea, el juez le dio la libertad sin mayor tr&aacute;mite a una persona. Por eso es necesaria la reforma fiscal, digo, perd&oacute;n, la reforma judicial.</p>
+
+<p><strong>INTERLOCUTORA:</strong> Ya, presidente, nada m&aacute;s, para no abusar, no seguir abusando del micr&oacute;fono, saber si ya inici&oacute; los tr&aacute;mites de su jubilaci&oacute;n, y m&aacute;s o menos el estimado de la pensi&oacute;n que va a recibir. Gracias.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Bueno, ya empec&eacute; a explorarlo. Yo trabaj&eacute; seis a&ntilde;os en el INI, en el Instituto Nacional Indigenista, de 1977 a 1982, y pagu&eacute; al Issste mi cuota, era yo director del INI, y tengo mis comprobantes.</p>
+
+<p>Luego, trabaj&eacute; cinco a&ntilde;os en el INCO, en el Instituto Nacional del Consumidor, pagu&eacute; al Issste. Nada m&aacute;s que ah&iacute; pas&oacute; algo muy especial: como me fui despu&eacute;s de candidato a Tabasco por el Frente Democr&aacute;tico Nacional en el 88, desapareci&oacute; mi expediente. Entonces, tuve que hacer un tr&aacute;mite especial en el Issste para que me reconocieran el tiempo.</p>
+
+<p>Entonces, ah&iacute; van como 10.</p>
+
+<p>Luego, fui cinco a&ntilde;os jefe de Gobierno; quince. Y ahora ya llevo cinco, son 20.</p>
+
+<p>Entonces, por ese tiempo y por la edad ya tengo derecho a recibir una pensi&oacute;n del Issste, pero va a ser como de 25, 30 mil pesos mensuales.</p>
+
+<p>Yo tengo otros ingresos porque recibo recursos por los libros. Eso me apoya, eso lo tiene Beatriz, ella es la que maneja esos ingresos, y tambi&eacute;n los sueldos desde siempre. Entonces, considero que con lo de la pensi&oacute;n me va a alcanzar para vivir en Palenque, no se gasta mucho, es barata la vida, y voy a estar solo.</p>
+
+<p>En el caso de Beatriz, ella sigue trabajando, es investigadora. Tiene, adem&aacute;s de ser maestra de la Universidad en Puebla, tiene lo del cargo de investigadora, creo que es B. &iquest;C&oacute;mo le llaman a eso? Investigadora nivel 2, aparte del sueldo del Sistema Nacional de Investigaciones. Entonces, ella tiene su vida hecha en eso, se dedica a eso, va a seguir trabajando en eso.</p>
+
+<p>Y lo que recibimos por los derechos de autor, ya decid&iacute; que son para ella y para Jes&uacute;s, yo no voy a gastar ya pr&aacute;cticamente nada, muy poco, porque ni modo que voy a andar con traje en Palenque, &iquest;no? Voy a estar muy c&oacute;modo con mis huaraches que me regalan de Oaxaca y con la ropa normal y, adem&aacute;s, como hay un poco de calor, camiseta.</p>
+
+<p><strong>PREGUNTA:</strong> Y la pensi&oacute;n del Bienestar.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Ah, y la pensi&oacute;n del Bienestar, s&iacute;, que ya tengo ah&iacute; ahorrado porque no he cobrado, lo estoy dejando ah&iacute; para cuando yo me vaya.</p>
+
+<p><strong>PREGUNTA:</strong> &iquest;Lo asistir&aacute; personal militar, presidente?</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> No, no, tengo pensando invitar a un joven compa&ntilde;ero, un hijo de un maestro m&iacute;o.</p>
+
+<p><strong>INTERLOCUTOR:</strong> &iquest;El hijo de Rodolfo Lara?</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> S&iacute;, de mi maestro, porque le tengo confianza, somos de la familia. Y ya.</p>
+
+<p>Y nada m&aacute;s pedirle a la gente que me cuide, pero que me cuiden no estando ah&iacute;, porque me va a dar mucha pena que lleguen, que les urge, que me necesitan; me va a partir el alma, pero es que si abro la puerta ya no la voy a poder cerrar. Y menos consultas pol&iacute;ticas, eso nada, absolutamente; es que no vamos a hablar de pol&iacute;tica, no, ya esos&hellip;</p>
+
+<p><strong>PREGUNTA:</strong> Los expresidentes, al retirarse, contaban con beneficios como choferes, ayuda para manutenci&oacute;n del hogar, lo que ellos&hellip;</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> S&iacute;, pero ya no, es que eso ya se termin&oacute;, era parte de las pensiones. En el caso de nosotros se le mantuvo un tiempo al presidente Fox, pero &eacute;l despu&eacute;s &mdash;y eso, muy limitado&mdash; &eacute;l mismo dijo que ya no quer&iacute;a el apoyo.</p>
+
+<p>Y luego, en el caso del presidente Calder&oacute;n, al principio s&iacute; pidi&oacute;. No s&eacute; si todav&iacute;a tiene el presidente Calder&oacute;n.</p>
+
+<p><strong>LUIS CRESENCIO SANDOVAL GONZ&Aacute;LEZ:</strong> Calder&oacute;n s&iacute;, Fox no.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> El presidente Calder&oacute;n s&iacute;.</p>
+
+<p><strong>PREGUNTA:</strong> &iquest;El presidente Pe&ntilde;a tambi&eacute;n?</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> No, el presidente Pe&ntilde;a no, no.</p>
+
+<p>Y en el caso del presidente Calder&oacute;n es que &eacute;l lo solicit&oacute; tambi&eacute;n, y el presidente Fox, y luego dijo que no. Estuvo un a&ntilde;o o dos a&ntilde;os.</p>
+
+<p>Pero ya no est&aacute;, ya no est&aacute; autorizado; sin embargo, se tiene la consideraci&oacute;n por cuestiones de seguridad.</p>
+
+<p><strong>PREGUNTA:</strong> Presidente, la otra vez dijo que usted responder&iacute;a al llamado de la doctora Sheinbaum, si &eacute;sta se lo hiciera, y que con ella s&iacute; hablar&iacute;a. &iquest;Qu&eacute; tipo de llamado tendr&iacute;a que ser para que usted hablara? &iquest;O a qu&eacute; se refer&iacute;a?</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Pues yo creo que no va a hacer falta, porque la presidenta electa es giganta, giganta.</p>
+
+<p>Y ahora s&iacute; estamos hablando bastante. En las giras aprovechamos y aprovechamos y aprovechamos para hablar, para hablar, para hablar, porque ya terminando, entregando la banda, yo me voy a Palenque y ya no quiero nada.</p>
+
+<p>Y ella va a poder sin ning&uacute;n problema, porque est&aacute; muy preparada, mucho muy preparada, va a ser una muy buena presidenta, muy buena, no va a tener ning&uacute;n problema. Lo estamos viendo ahora, la gente est&aacute; muy contenta con ella, mucho muy contenta. Y, adem&aacute;s, es una mujer con convicciones, con ideales, es una mujer honesta.</p>
+
+<p>S&oacute;lo que hubiese una situaci&oacute;n grav&iacute;sima. Por ejemplo, una invasi&oacute;n, una guerra, pero eso no va a haber, eso no va a haber.</p>
+
+<p><strong>PREGUNTA:</strong> &iquest;Dejar&iacute;a su retiro?</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> No. Si me pide que yo ayude en algo, ayudo, s&iacute;, ahora s&iacute; que la patria es primero.</p>
+
+<p><strong>INTERVENCI&Oacute;N:</strong> &iquest;Ella le pidi&oacute; que no se retire?</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> No, no, no. Ella ya sabe muy bien que yo tengo esta decisi&oacute;n tomada, que considero es lo mejor. Lo he dicho una y mil veces: soy partidario del sufragio efectivo, del voto efectivo de la democracia y de la no reelecci&oacute;n; soy maderista. No aspiro a ser jefe m&aacute;ximo, ni caudillo, ni hombre fuerte, ni l&iacute;der moral; mucho menos cacique. No me conocen mis adversarios; adem&aacute;s, ellos no saben de eso.</p>
+
+<p>Estoy terminando mi ciclo. Me siento muy contento, estoy a punto de decir: Misi&oacute;n cumplida. Tengo much&iacute;simo que agradecerle al pueblo de M&eacute;xico, mucho, mucho, mucho; le tengo un profundo amor al pueblo, sincero.</p>
+
+<p>Pude contribuir a que se hiciera realidad la democracia, el poder del pueblo; que no se usara nada m&aacute;s al pueblo, que no se usara la democracia como parapeto para simular que les importaba el pueblo, cuando en realidad lo que prevalec&iacute;a, lo que imperaba era una oligarqu&iacute;a, el gobierno para unos cuantos. El gobierno estaba convertido en un comit&eacute; al servicio de una minor&iacute;a rapaz, y ahora no es as&iacute;. Entonces, se avanz&oacute; mucho con la revoluci&oacute;n de las consciencias, la gente est&aacute; muy consciente, muy politizada, muy empoderada.</p>
+
+<p>Se le regres&oacute;, todav&iacute;a falta, pero se avanz&oacute; en regresarle la dignidad a nuestro pueblo y a nuestra naci&oacute;n; ahora a M&eacute;xico se le respeta.</p>
+
+<p>Y lo que siempre he dicho y es algo que deben los j&oacute;venes tener presente: en el ejercicio de la pol&iacute;tica no debe de haber mucho apego, ni al dinero ni al poder. Y no hay que ir a tantos fil&oacute;sofos, que hay muchos que hablan de este tema, soci&oacute;logos, polit&oacute;logos. San Francisco de As&iacute;s: &lsquo;Necesito poco; y lo poco que necesito, lo necesito poco&rsquo;.</p>
+
+<p>Y un consejo a todos, tambi&eacute;n: el dinero no es la felicidad. Muchas veces la acumulaci&oacute;n del dinero, la ambici&oacute;n al dinero, a lo material, en vez de producir felicidad, produce infelicidad. La felicidad es estar bien con uno mismo, estar bien con nuestra conciencia y estar bien con el pr&oacute;jimo. Y s&oacute;lo siendo buenos podemos ser felices. No hace falta, en el caso de la pol&iacute;tica, la perversidad. Hace falta actuar de buena fe, servir, tenerle amor al pueblo, no estar tramando. Porque el perverso no piensa; trama.</p>
+
+<p>Y el que act&uacute;a mal, ahora s&iacute; que, aqu&iacute; mismo en la tierra, tiene su merecido.</p>
+
+<p>&iquest;Y ahora de qu&eacute; sirve lo material? Claro que hay que seguir, &iquest;no?, produciendo dinero, porque no se puede distribuir lo que no se tiene, pero tambi&eacute;n no se trata de estar creando dinero sin que se distribuya, acaparando dinero en unas cuantas manos. Eso es muy vulgar, eso no tiene nada que ver con el humanismo y con la moralidad.</p>
+
+<p>Entonces, la presidenta es muy capaz, muy inteligente. Le va a ir muy bien a nuestro querido M&eacute;xico. No hay nada que yo vea que pueda significar un obst&aacute;culo para que M&eacute;xico siga creciendo y su pueblo siga benefici&aacute;ndose, no hay nada.</p>
+
+<p>En lo econ&oacute;mico, ya vieron lo que sucedi&oacute; con lo del peso. Los adversarios, que antes buscaban asesinatos y esc&aacute;ndalos, &iquest;no?, para afectar al gobierno, que estaban como zopilotes ah&iacute;, ahora pensaron como&hellip; Fue como un hurac&aacute;n popular, una gran ola de transformaci&oacute;n, y no estaban informados, parece mentira, pero no estaban informados los que supuestamente tienen mejor nivel econ&oacute;mico y presumen de tener tambi&eacute;n mejor nivel acad&eacute;mico, no estaban informados, porque viven en una burbuja y no quieren aceptar que existe el pueblo y que la pol&iacute;tica no es asunto de pol&iacute;ticos, la pol&iacute;tica es asunto de todos.</p>
+
+<p>Y eso tambi&eacute;n es una muestra &mdash;ojal&aacute; y recapaciten&mdash; de clasismo, de racismo, de discriminaci&oacute;n, cuando menos de sentirse superiores. Y el poder es humildad.</p>
+
+<p>Entonces, por eso yo creo que algunos se fueron a dormir, como Ferriz, que se fue a dormir, se levant&oacute; y pensaba que, seg&uacute;n &eacute;l, hab&iacute;a sido una pesadilla, y no, es la realidad.</p>
+
+<p>Entonces, entender al pueblo, respetar al pueblo.</p>
+
+<p><strong>PREGUNTA:</strong> Que no se busque ya en las redes, ya no salen como antes.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> S&iacute;. Pero es un buen tiempo tambi&eacute;n para la reflexi&oacute;n y para que todos aprendamos la lecci&oacute;n de las elecciones o la lecci&oacute;n de la elecci&oacute;n. Y para m&iacute; lo m&aacute;s importante es que se tome en cuenta al pueblo.</p>
+
+<p>Entonces, los expertos no esperaban. Imag&iacute;nense, viene un financiero o un representante de financieros en Estados Unidos y habla con un experto econ&oacute;mico, financiero, de la secci&oacute;n de finanzas del <em>Reforma</em>, o de la secci&oacute;n de finanzas de <em>El Financiero</em>, o habla con Casta&ntilde;eda, o habla con Aguilar Cam&iacute;n, o habla con Krauze, &iquest;qu&eacute; le van a decir? Ya no con el encuestador este famoso, &iquest;c&oacute;mo se llama?, el que daba empate.</p>
+
+<p><strong>JES&Uacute;S RAM&Iacute;REZ CUEVAS:</strong> Massive Caller.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> S&iacute;, Massive Caller. Pues se quedan con la idea.</p>
+
+<p>Incluso que hable con Claudio. Si hubiese hablado con Claudio antes de la elecci&oacute;n, &iquest;qu&eacute; le hubiese dicho Claudio? &lsquo;Pues s&iacute; vamos a perder la Presidencia, pero con un digito, y vamos a ganar la Ciudad de M&eacute;xico, y vamos a ganar Morelos, y vamos a ganar Veracruz&rsquo;, todo lo que dijeron.</p>
+
+<p>&lsquo;Y s&iacute;, podemos perder la mayor&iacute;a en el Congreso, pero ellos no pueden, no van a ganar la mayor&iacute;a calificada&rsquo;. Y de repente, dice la gente: &lsquo;Pues no, queremos esto&rsquo;. Y de ah&iacute; el nerviosismo, &iquest;no?, entonces se mueve lo del peso; ya va a ir pasando el tiempo, se va a ir acomodando, porque la econom&iacute;a del pa&iacute;s es muy fuerte, est&aacute; muy bien, comp&aacute;renla con cualquier otro pa&iacute;s, incluso con Estados Unidos, el desempe&ntilde;o econ&oacute;mico de los &uacute;ltimos a&ntilde;os, en todo: en deuda, en empleo, en crecimiento, en salarios; estoy hablando de incremento de salarios, no de lo que ganan en Estados Unidos en comparaci&oacute;n con lo que se gana en M&eacute;xico.</p>
+
+<p>Entonces, en lo econ&oacute;mico bien.</p>
+
+<p>La deuda va a crecer menos que con Felipe Calder&oacute;n, que con Pe&ntilde;a Nieto, a pesar del COVID y de la ca&iacute;da de la econom&iacute;a por el COVID, m&aacute;s profunda en 100 a&ntilde;os en el pa&iacute;s. Es un milagro en todo lo econ&oacute;mico.</p>
+
+<p>En lo social, la gente est&aacute; feliz. C&oacute;mo me hubiese gustado que todos nuestros adversarios&hellip; Que no enemigos, &iquest;eh? porque no queremos enemigos, ni tenemos ni queremos tener enemigos, y no hay que odiar. Pero s&iacute; me hubiese gustado que hubiesen ido en un vag&oacute;n del Tren del Istmo nada m&aacute;s viendo a la gente; bueno, ustedes que van a las giras, nada m&aacute;s que tienen que ser objetivas, objetivos, &iquest;no?</p>
+
+<p>No hacen cr&oacute;nicas, ese es un g&eacute;nero que ya no hay en el periodismo, le hace falta color.</p>
+
+<p><strong>INTERVENCI&Oacute;N:</strong> Miguel Reyes Razo.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Miguel Reyes Razo. Y hab&iacute;a otros; por ejemplo, el finado Avil&eacute;s, Jaime; y hab&iacute;a uno de <em>El Universal</em>.</p>
+
+<p><strong>JES&Uacute;S RAM&Iacute;REZ CUEVAS:</strong> Fidel Samaniego.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Fidel Samaniego.</p>
+
+<p>Y hab&iacute;a otro todav&iacute;a muy bueno para la cr&oacute;nica que estaba en <em>UnoM&aacute;sUno</em>.</p>
+
+<p><strong>INTERVENCI&Oacute;N:</strong> Luis Guti&eacute;rrez.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Luis Guti&eacute;rrez. Muy buenos para la cr&oacute;nica.</p>
+
+<p>Desde luego, Miguel Reyes Razo, de lo mejor. Ya les platiqu&eacute; que de ah&iacute; tom&oacute; nota H&eacute;ctor Aguilar Cam&iacute;n para hacer un buen libro, una buena novela, que se llama <em>Morir en el golfo</em>, porque el periodismo antes ten&iacute;a esto de la cr&oacute;nica y se fue perdiendo.</p>
+
+<p>&iquest;No est&aacute; aqu&iacute; Carmen Jaimes?</p>
+
+<p><strong>JES&Uacute;S RAM&Iacute;REZ CUEVAS:</strong> No.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Qu&eacute; bueno que no est&eacute; aqu&iacute;, porque quiero decir que la admiro mucho a Carmen Jaimes. No voy a decir de qu&eacute;&hellip; S&iacute;, s&iacute; lo voy a decir, es de <em>Televisa</em>, y es una profesional. Y ah&iacute; voy a ir hablando de otras y otros periodistas.</p>
+
+<p><strong>INTERVENCI&Oacute;N:</strong> &iquest;Le va a dar la entrevista antes de irse?</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> No, no. Pero es de lo mejor, por su objetividad, independientemente del medio en el que trabaja, que creo que he sido respetuoso con ella precisamente porque es una mujer seria y no le cambian o no le dan <em>l&iacute;nea,</em> o no padece del departamento de corte y confecci&oacute;n. Pero ten&iacute;a ese pendiente de hacerle un reconocimiento, una menci&oacute;n, porque son a&ntilde;os, desde que est&aacute;bamos en el gobierno de la ciudad y en el PRD, de muchos a&ntilde;os, muchos a&ntilde;os.</p>
+
+<p>Ya es hora, &iquest;eh?, ya es hora. V&aacute;monos ya.</p>
+
+<p>Nada m&aacute;s les voy a decir que vamos a despedirnos, pero va a ser fiest&oacute;n; o sea, se van preparando, &iquest;eh?, porque el lunes&hellip; El martes es el d&iacute;a de la entrega de la banda, que es martes 1&ordm;. El 30 es lunes, ese d&iacute;a, porque va a ser la &uacute;ltima ma&ntilde;anera, s&iacute;, una, dos, dos preguntitas, me voy a despedir, y fiesta.</p>
+
+<p><strong>PREGUNTA: </strong>&iquest;Qu&eacute; traemos?</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Pues chocolate, caf&eacute;, tortas de lech&oacute;n, tamales, cochinita pibil, zacahuil, un zacahuil; unas tortas de tamal, digo, perd&oacute;n, tortas de chilaquil.</p>
+
+<p><strong>PREGUNTA:</strong> Unas <em>guajolotas</em>.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Las <em>guajolotas</em>, de todo, de todo. Picadas tambi&eacute;n, para Veracruz.</p>
+
+<p>&iquest;C&oacute;mo se llama los que hacen de haba?</p>
+
+<p><strong>INTERVENCI&Oacute;N:</strong> Tlacoyos.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Tlacoyos, tlacoyos, tlacoyos. Unos tlacoyos,</p>
+
+<p>Ah, s&iacute;, tambi&eacute;n unas tlayudas con asiento, &iquest;no?, para que amarre bien con el&hellip;</p>
+
+<p><strong>INTERVENCI&Oacute;N:</strong> Pan de caz&oacute;n de Campeche.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Pan de caz&oacute;n de Campeche, nada m&aacute;s que ese s&iacute; es&hellip;</p>
+
+<p><strong>INTERVENCI&Oacute;N:</strong> Pan de burro.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Pan de burro, ese pan de burro.</p>
+
+<p>Queso, de todos los quesos, y chanchamitos. Tantas cosas. Garnachas.</p>
+
+<p>Bueno, v&aacute;monos a desayunar. Burritos, machaca.</p>
+
+<p>---</p>
+</div>
+      </div>
+
+      <div class="col-md-4 col-xs-12 pull-right">
+
+
+
+
+          <div id="survey" class="survey-popup small-top-buffer">
+	<div class="row">
+  <a class="fire">
+    <span class="title">Contesta nuestra encuesta de satisfacción.</span>
+		<i style="color: white" class="fas fa-poll"></i>
+  </a>
+  <hr>
+  
+  <div class="survey col-sm-12 clearfix">
+	<form id="survey-form">
+	  <div class="survey-form">
+	  <fieldset id="query_1">
+		<legend>¿Cómo fue tu experiencia en gob.mx?</legend>
+		<div id="Q_A" class="btn-group row">
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncGood" class="ga-survey" value="Feliz" title="Satisactorio">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-good.svg" alt="">
+		  	</button>
+		  </div>
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncReg" class="ga-survey" value="Neutral" title="Neutral">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-neutral.svg" alt="">
+		  	</button>
+		  </div>
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncBad" class="ga-survey" value="Triste" title="No satisactorio">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-bad.svg" alt="">
+		  	</button>
+		  </div>
+		</div>
+	  </fieldset>
+	  <fieldset id="query_1_a" class="hidden">
+	  	<legend>¿Fue fácil encontrar lo que buscabas?</legend>
+	  	<div id="Q_B" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R1" value="1">
+	  		<label for="A_R">Muy Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R2" value="2">
+	  		<label for="A_R">Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R3" value="3">
+	  		<label for="A_R">Difícil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R4" value="4">
+	  		<label for="A_R">Muy Difícil</label>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_s" class="hidden">
+	  	<legend>¿De qué estado de la República nos visitas?</legend>	  	
+	  	<div class="col-md-12">
+  	  		<div class="form-group" style="margin-bottom: 114px;">
+  	  			<select id="estados" class="form-control"></select>
+  	  		</div>
+  	  		<div class="form-group">
+  	  			<button type="button" class="Q_S_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  		</div>
+  	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_alt" class="hidden">
+		<legend>¿Qué buscabas?</legend>
+	  	<div id="Q_I" class="clearfix">
+	  	  <div class="col-sm-12">
+	  		<textarea id="txtA" class="form-control" rows="6" maxlength="250" style="font-size: 14px; width: 100%;"></textarea>
+	  		<span class="small">Máximo 250 caracteres</span>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+  	  	  <button type="button" class="Q_I_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_b" class="hidden">
+	  	<legend>¿Qué te gustó más?</legend>
+	  	<p class="small">Puedes seleccionar más de uno.</p>
+	  	<div id="Q_C" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R1" type="checkbox" name="A_R" value="1">
+	  		<label for="A_R">La información es clara y precisa</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R2" type="checkbox" name="A_R" value="2">
+	  		<label for="A_R">El diseño es agradable</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R3" type="checkbox" name="A_R" value="3">
+	  		<label for="A_R">Está bien organizado</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R4" type="checkbox" name="A_R" value="4">
+	  		<label for="A_R">Es sencillo navegar</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R5" type="checkbox" name="A_R" value="5">
+	  		<label for="A_R">El lenguaje es amigable</label>
+	  	  </div>
+	  	  <div class="clearfix">
+	  	  	<button type="button" class="Q_C_btn btn btn-primary btn-small pull-right">Siguiente</button>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_c" class="hidden">
+	  	<legend>¿Recomendarías nuestro portal a un amigo o familiar?</legend>
+	  	<div id="Q_D" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="radEncC_R1" type="radio" name="A_R" value="4">
+	  		<label for="A_R">Si</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncC_R2" type="radio" name="A_R" value="1">
+	  		<label for="A_R">No</label>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+        <button type="button" class="btn-finalizar btn btn-primary btn-small pull-right" style="margin-left: 8px; margin-top: 2px;" disabled>Finalizar</button>
+        <img src="https://framework-gb.cdn.gob.mx/assets/images/oval-white.svg" class="pull-right hidden loading">
+      </div>
+	  </fieldset>
+
+	  <fieldset id="query_2" class="hidden">
+		<legend>¿Fue fácil encontrar lo que buscabas?</legend>
+	  	<div id="Q_F" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R1" type="radio" name="A_R" value="1">
+	  		<label for="A_R">Muy Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R2" type="radio" name="A_R" value="2">
+	  		<label for="A_R">Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R3" type="radio" name="A_R" value="3">
+	  		<label for="A_R">Difícil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R4" type="radio" name="A_R" value="4">
+	  		<label for="A_R">Muy Difícil</label>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_2_b" class="hidden">
+	  	<legend>¿Qué mejorarías?</legend>
+	  	<p class="small">Puedes seleccionar más de una opción.</p>
+	  	<div id="Q_G" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A1" type="checkbox" name="A_R" value="1">
+	  		<label for="A_R">Diseño</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A2" type="checkbox" name="A_R" value="2">
+	  		<label for="A_R">Navegación dentro del sitio</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A3" type="checkbox" name="A_R" value="3">
+	  		<label class="too-long" for="A_R">Claridad y precisión de la información</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A4" type="checkbox" name="A_R" value="4">
+	  		<label for="A_R">Organización de los contenidos</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A5" type="checkbox" name="A_R" value="5">
+	  		<label for="A_R">Lenguaje utilizado</label>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">	  	  
+	  	  <button type="button" class="btn-finalizar btn btn-primary btn-small pull-right" style="margin-left: 8px; margin-top: 2px;" disabled>Finalizar</button>
+	  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/oval-white.svg" class="hidden pull-right loading">
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_2_alt" class="hidden">
+		<legend>¿Qué buscabas?</legend>
+	  	<div id="Q_H" class="clearfix">
+	  	  <div class="col-sm-12">
+	  		<textarea id="txtA1" class="form-control" rows="6" maxlength="250" style="font-size: 14px; width: 100%;"></textarea>
+	  		<span class="small">Máximo 250 caracteres</span>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+  	  	  <button type="button" class="Q_H_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  	</div>
+	  </fieldset>
+
+	</div>
+	<p class="hidden survey-thanks" style="text-align: center; color: white; font-weight: 700;">Gracias por tu opinión.</p>
+	</form>
+
+  </div>
+</div>
+</div>
+
+<script type="text/javascript">
+$(function() {
+  var c = 0;
+  var fin = 0;
+  var tipo_cara = "";
+  var page_type = "Articulos";
+  var triggered = false;
+  var answers = {};
+  var properties = {};
+  var organization = "presidencia";
+  var section = "Blog";
+  var lang = "es";
+  properties.published_on = "2024-06-25 09:21:00 -0600";
+  properties.title = "Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 25 de junio de 2024";
+  properties.path = "/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-25-de-junio-de-2024";
+  properties.referer = "";
+  properties.viewfinder = navigator.userAgent.toLowerCase();
+  properties.screens = screen.width;
+  properties.device = screen.width;
+
+  $.getJSON('https://www.gob.mx/vun/estados?filter[order]=nombre%20ASC', function (selectOptions) {
+    for( var i = 0; i < selectOptions.length; i ++) {
+      var selectOptionsJSON = selectOptions[i];
+      $('#estados').append('<option value="'+ selectOptionsJSON.nombre +'">'+ selectOptionsJSON.nombre +'</option>');
+    }
+    $('#estados').append('<option value="Otro">Otro</option>')
+  });
+
+  $('.fire').click(function(event) {
+    $('.survey-popup').css({'height':'440px'});
+  });
+
+  $('#Q_A').find('button').click(function(event) {
+  	$('#query_s').removeClass('hidden');
+  	$("#query_1").addClass('hidden');
+  	answers.q1 = $(this).attr('id');
+  });
+
+  $(".ga-survey").click(function () {
+    tipo_cara = $(this).val();
+    var interval_time = [30];
+    (function timer () {
+      if (c < 1) {
+        setTimeout(function () {
+           if(fin < 1) {
+             set_ga("Inconclusa");
+             timer();
+           }
+        }, interval_time[c] * 1000);
+      }
+      c++;
+    })();
+  });
+
+  $('.Q_S_btn').click(function(event) {
+    if( answers.q1 === "radEncGood") {
+      $("#query_s").addClass('hidden');
+      $("#query_1_a").removeClass('hidden');
+    } else if(answers.q1 === "radEncReg" || answers.q1 === "radEncBad") {
+      $("#query_s").addClass('hidden');
+      $("#query_2").removeClass('hidden');
+    } else { }
+    // answers.q1 = $('#Q_A').find('button').attr('id');
+  });
+
+  $('#Q_B').find('input').click(function(event) {
+  	if( $(this).attr('id') === 'radEncA_R3' || $(this).attr('id') === 'radEncA_R4' )  {
+  	  $("#query_1_a").addClass('hidden');
+	  $("#query_1_alt").removeClass('hidden');
+  	} else {
+  	  $("#query_1_a").addClass('hidden');
+	  $("#query_1_b").removeClass('hidden');	
+  	}	
+	answers.q2 = $(this).attr('id');
+  });
+
+  $('.Q_I_btn').click(function(event) {
+  	event.preventDefault();
+  	$("#query_1_alt").addClass('hidden');
+	$("#query_1_b").removeClass('hidden');
+	answers.q5 = $('#txtA').val().substring(0, 250);
+  });
+
+  $('#Q_C').find('button').click(function(event) {
+	$("#query_1_b").addClass('hidden');
+	$("#query_1_c").removeClass('hidden');
+	var q3_array = [];
+	$('#Q_C').find('input:checked').each(function(index, el) {
+	  q3_array.push($(el).attr('id'));
+	});
+	answers.q3 = q3_array;
+  });
+
+  $('#Q_D').find('input').change(function(event) {
+  	answers.q4 = $(this).attr('id');
+  	$('.btn-finalizar').attr('disabled', false);
+  });
+
+  $('#Q_F').find('input').click(function(event) {
+	
+	answers.q2 = $(this).attr('id');
+
+	if( $(this).attr('id') === 'rdEncA_R3' || $(this).attr('id') === 'rdEncA_R4' ) {
+	  $("#query_2").addClass('hidden');
+	  $("#query_2_alt").removeClass('hidden');
+	} else {
+	  $("#query_2").addClass('hidden');
+	  $("#query_2_b").removeClass('hidden');
+	}
+  });
+
+  $('#Q_G').find('input').change(function(event) {
+  	if($('#Q_G').find('input:checked').length > 0) {
+	  $('.btn-finalizar').attr('disabled', false);
+    }
+    var q2_array = [];
+    $('#Q_G').find('input:checked').each(function(index, el) {
+	  q2_array.push($(el).attr('id'));
+	});
+	answers.q3 = q2_array;
+  });
+
+  $('.Q_H_btn').click(function(event) {
+  	event.preventDefault();
+  	$("#query_2_alt").addClass('hidden');
+	$("#query_2_b").removeClass('hidden');
+	answers.q5 = $('#txtA1').val().substring(0, 250);
+  });
+
+  $('.btn-finalizar').click(function (event) {
+    fin++;
+    $.ajax({
+      url: '/encuesta-satisfaccion',
+      type: 'post',
+      dataType: 'json',
+      data: { section: section, lang: lang, properties: properties, answers: answers },
+      beforeSend: function() {
+        $('.loading').removeClass('hidden');
+      },
+      success: function(data) {
+        set_ga("Finalizada");
+
+        $('.survey').hide();
+        $('.survey-popup').css({'height':'60px','background-color':'#dff0d8','border':'1px solid #d6e9c6'});
+        $('.survey-popup .title').text('Gracias por tu participación.').css({'color':'#3c763d'});
+        $('#icon-survey').removeClass('fa-file-text-o').addClass('fa-check-circle').css({'color':'#3c763d'});
+        setTimeout(function() {
+          $('.survey-popup').fadeOut('800');
+        }, 1600);
+      }
+    });
+  });
+
+  function set_ga(estatus) {
+    var pages_group = "Gobierno";
+    var organization_name = "presidencia";
+
+    console.log("Entro a apartado de encuesta de satisfacción. Estatus: "+ estatus);
+    console.log("Pages group: "+pages_group);
+    console.log("Sub group: "+organization_name);
+    console.log("Page type: "+page_type);
+    console.log("Face: "+tipo_cara);
+
+      console.log("Rails.env.production");
+      //Código GA para encuesta de satisfacción.
+		gtag('set', 'dimension14', pages_group);
+		gtag('set', 'dimension15', organization_name);
+		gtag('set', 'dimension16', page_type);
+		gtag('send', 'event', 'Encuesta de satisfacción', tipo_cara ,estatus);
+		gtag('set', 'dimension14', null);
+		gtag('set', 'dimension15', null);
+		gtag('set', 'dimension16', null);
+  }
+
+  $('#subscribe-survey').click(function(event) {
+	event.preventDefault();
+    var email = $("#email-survey").val();
+    var state = $('#estados').val();
+
+    if (email !== '' || email !== undefined) {
+	    try {
+	      $.ajax({
+	        url: "/subscribe",
+	        type: 'post',
+	        dataType: 'json',
+	        data : { email: {address: email} },
+	        success: function (data) {
+	            $('#responseSignup').html(data.message);
+	        },
+	        error: function (data) {
+	            $('#responseSignup').html(data.message);
+	        }
+	      });
+	    }catch(e){
+	      $("#responseEmail").innerText(e);
+	    }
+
+	    $.ajax({
+	    	url: '/signups',
+	    	type: 'POST',
+	    	dataType: 'json',
+	    	data: { section: section, lang: lang, properties: properties },
+	    	success: function() {
+	    		//console.log('exito');
+	    	}
+	    });
+	} else {
+		$('#responseSignup').html('Por favor llena todos los campos.');
+	}
+  });
+
+  $('#survey-form').submit(function(event) {
+    event.preventDefault();
+  });
+});
+</script>
+
+      </div>
+      <div class="col-sm-7 pull-left">
+        <div class="share-buttons clearfix vertical-buffer">
+  <div class="col-md-2"> <a class="twitter-share-button" data-url="https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-25-de-junio-de-2024" data-text="Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 25 de junio de 2024"></a></div>
+  <div class="col-md-2">
+    <div class="fb-share-button" data-href="https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-25-de-junio-de-2024" data-layout="button_count" data-size="small" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-25-de-junio-de-2024&amp;src=sdkpreparse">Compartir</a></div>
+  </div>
+</div>
+
+  <script type="text/javascript">
+    (function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v2.7";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+    
+    var pages_group = "Gobierno";
+    var page_type = "Artículos";
+    var organization_name = "presidencia";
+    var title_content = "Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 25 de junio de 2024";
+
+     window.twttr = (function (d,s,id) {
+       var t, js, fjs = d.getElementsByTagName(s)[0];
+       if (d.getElementById(id)) return; js=d.createElement(s); js.id=id;
+       js.src="//platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs);
+       return window.twttr || (t = { _e: [], ready: function(f){ t._e.push(f) } });
+     }(document, "script", "twitter-wjs"));
+
+     function trackTwitter(intent_event) {
+       if (intent_event) {
+         if (intent_event.target && intent_event.target.nodeName == 'IFRAME') {
+           console.log("Metrica Compartir Twitter - "+title_content);
+           console.log("Organization: "+organization_name);
+           console.log("Page type: "+page_type);
+           console.log("Title content: "+title_content);
+           ga('set', 'dimension14', pages_group);
+           ga('set', 'dimension15', organization_name);
+           ga('set', 'dimension16', page_type);
+           ga('send', 'event', 'Compartir en redes sociales', 'Twitter', title_content);
+           ga('set', 'dimension14', null);
+           ga('set', 'dimension15', null);
+           ga('set', 'dimension16', null);
+         }
+       }
+     }
+  </script>
+  <script type="text/javascript">
+     twttr.ready(function (twttr) {
+       twttr.events.bind('tweet', trackTwitter);
+     });
+  </script>
+
+
+      </div>
+    </div>
+    <div class="row top-buffer">
+  <div class="col-md-8">
+    <hr>
+    <div class="print col-ms-12 col-md-12 col-xs-12">
+      <span class="icon-printing"></span>
+      <a href="#">Imprime la página completa</a>
+        <p class="small" style="font-size: 14px; line-height: 1.6em;">
+          La legalidad, veracidad y la calidad de la información es estricta responsabilidad de la dependencia, entidad o empresa productiva del Estado que la proporcionó en virtud de sus atribuciones y/o facultades normativas.
+        </p>
+    </div>
+  </div>
+</div>
+
+  </div>
+  <input type="hidden" id="page_type" name="page_type" value="Articulos">
+  <input type="hidden" id="organization_name" name="organization_name" value="presidencia">
+</main>
+<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+
+<footer class="main-footer">
+  <div class="list-info">
+    <div class="container">
+
+      <div class="col-sm-3">
+        <img  src="https://framework-gb.cdn.gob.mx/landing/img/logoheader.svg"  href="/" alt="logo gobierno de méxico" class="logo_footer" style="max-width: 90%; margin-left: -27px;   margin-top: 12px;">
+      </div>
+      <div class="col-sm-3">
+        <h2>Enlaces</h2>
+        <ul>
+         <!-- <li><a  href="http://www.participa.gob.mx">Participa</a></li> -->
+          <li><a  href="https://datos.gob.mx/">Datos</a></li>
+          <li><a href="https://www.gob.mx/publicaciones" target="_blank" rel="noopener" title="Enlace abre en ventana nueva">Publicaciones </a></li>
+
+                  <li><a class="footer" href="https://consultapublicamx.plataformadetransparencia.org.mx/vut-web/faces/view/consultaPublica.xhtml?idEntidad=MzM=&amp;idSujetoObligado=MTAwMDE=#inicio" id="Transparencia" target="blank" title="Enlace abre en ventana nueva">Portal de Obligaciones de Transparencia</a></li>
+
+                  <li><a class="footer" href="https://www.infomex.org.mx/gobiernofederal/home.action" id="PNT" target="blank" title="Enlace abre PNT en ventana nueva">PNT</a></li>
+
+                  <li><a class="footer" href="http://www.inai.org.mx/" id="INAI" target="blank" title="Enlace abre sitio INAI en ventana nueva">INAI</a></li>
+
+          <li><a class="footer" id="INAI" href="http://alertadores.funcionpublica.gob.mx/" target="_blank" rel="alertadores">Alerta</a></li>
+          <li><a class="footer" id="SIDEC" href="http://sidec.funcionpublica.gob.mx/" target="_blank" rel="sidec">Denuncia</a></li>
+           </ul>
+      </div>
+      <div class="col-sm-3">
+        <h2>¿Qué es gob.mx?</h2>
+        <p>Es el portal único de trámites, información y participación ciudadana.  <a href="/que-es-gobmx" style="text-decoration: none;">Leer más </a></p>
+        <ul>
+
+        
+            <li><a href='http://www.gob.mx/epn'> Administraciones anteriores  </a></li>
+          <li><a href="/accesibilidad">Declaración de Accesibilidad</a></li>
+          <li><a href="/privacidadintegral">Aviso de privacidad</a></li>
+          <li><a href="/privacidadsimplificado">Aviso de privacidad simplificado</a></li>
+          <li><a href="/terminos">Términos y Condiciones </a></li>
+          <li><a href="/terminos#medidas-seguridad-informacion">Política de seguridad</a></li>
+          <li><a class="footer" id="Marco Juridico" href="http://www.ordenjuridico.gob.mx" target="_blank" rel="noopener" title="Enlace abre en ventana nueva">Marco jurídico</a></li>
+          <li><a href="/sitemap">Mapa de sitio</a></li>
+        </ul>
+      </div>
+      <div class="col-sm-3">
+        </p>
+        <h2>Síguenos en </h2>
+        <ul class="list-inline">
+          <li>
+            <a id="Facebook" href="https://www.facebook.com/gobmexico" target="_blank" rel="noopener" class="sendEst share-info footer" title="enlace a facebook abre en una nueva ventana">
+              <img alt="Facebook" src="https://framework-gb.cdn.gob.mx/landing/img/facebook.png" />
+            </a>
+          </li>
+          <li>
+            <a id="Twitter" href="https://twitter.com/GobiernoMX" target="_blank" rel="noopener" class="sendEst share-info footer" title="Enlace a twitter abre en una nueva ventana">
+              <img alt="Twitter" src="https://framework-gb.cdn.gob.mx/landing/img/twitter.png" />
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+  </div>
+  </div>
+
+  <div class="container-fluid footer-pleca">
+    <div class="row">
+      <div class="col">
+        <br><br>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script type="text/javascript">
+      $("a.footer").click(function () {
+          var pagina_sitio = window.location.pathname;
+          var outbound_link = $(this).attr("id");
+          var subgrupo_paginas = "presidencia";
+          var page_type = "Home";
+          var pages_group = "Gobierno";
+          if($("#page_type").length > 0){ page_type = $("#page_type").val(); }
+
+          console.log("Metrica links externos footer - "+outbound_link);
+          gtag('set', 'dimension14', pages_group);
+          gtag('set', 'dimension15', subgrupo_paginas);
+          gtag('set', 'dimension16', page_type);
+          gtag('send', 'event', 'Outbound link - Footer', outbound_link, pagina_sitio);
+          gtag('set', 'dimension14', null);
+          gtag('set, ‘dimension15', null);
+      })
+  </script>
+
+<input class="hidden" id="route" value="/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-25-de-junio-de-2024" type="hidden" >
+<!-- div id="fb-root"></div -->
+
+
+
+
+
+  <!-- Begin comScore Tag -->
+  <script>
+      var _comscore = _comscore || [];
+      _comscore.push({ c1: "2", c2: "17183199" });
+      (function() {
+          var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+          s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+          el.parentNode.insertBefore(s, el);
+      })();
+  </script>
+  <noscript>
+    <img src="https://sb.scorecardresearch.com/p?c1=2&c2=17183199&cv=2.0&cj=1" />
+  </noscript>
+  <!-- End comScore Tag -->
+
+  <script src="https://sb.scorecardresearch.com/c2/17183199/ct.js"></script>
+
+
+  <script type="text/javascript">
+
+      var _sf_startpt=(new Date()).getTime();
+      var _sf_async_config = { uid: 43659, domain: 'www.gob.mx', useCanonical: true } ;
+      (function() {
+          function loadChartbeat() { window._sf_endpt = (new Date()).getTime(); var e = document.createElement('script'); e.setAttribute('language', 'javascript'); e.setAttribute('type', 'text/javascript'); e.setAttribute('src','//static.chartbeat.com/js/chartbeat.js'); document.body.appendChild(e); };
+          var oldonload = window.onload;
+          window.onload = (typeof window.onload != 'function') ?
+              loadChartbeat : function()
+              { oldonload(); loadChartbeat(); };
+      })();
+      var ele = "/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-25-de-junio-de-2024";
+      if( "#{(@organization_site.present? ? @organization_site.category : 'gobmx')}" == "Campaña") {
+          var siteEls = 'campaign';
+      } else {
+          var siteEls = 'gobierno';
+      }
+
+      for( var i = 1; i < ele.split('/').length; i++ ) {
+          siteEls = siteEls + '.' + ele.split('/')[i];
+      }
+
+      function udm_(e){var t="comScore=",n=document,r=n.cookie,i="",s="indexOf",o="substring",u="length",a=2048,f,l="&ns_",c="&",h,p,d,v,m=window,g=m.encodeURIComponent||escape;if(r[s](t)+1)for(d=0,p=r.split(";"),v=p[u];d<v;d++)h=p[d][s](t),h+1&&(i=c+unescape(p[d][o](h+t[u])));e+=l+"_t="+ +(new Date)+l+"c="+(n.characterSet||n.defaultCharset||"")+"&c8="+g(n.title)+i+"&c7="+g(n.URL)+"&c9="+g(n.referrer),e[u]>a&&e[s](c)>0&&(f=e[o](0,a-8).lastIndexOf(c),e=(e[o](0,f)+l+"cut="+g(e[o](f+1)))[o](0,a)),n.images?(h=new Image,m.ns_p||(ns_p=h),h.src=e):n.write("<","p","><",'img src="',e,'" height="1" width="1" alt="*"',"><","/p",">")};
+      function uid_call(a, b){
+          ui_c2 = 17183199; // your corporate c2 client value
+          ui_ns_site = 'gobmx'; // your sites identifier
+          window.b_ui_event = window.c_ui_event != null ? window.c_ui_event:"",window.c_ui_event = a;
+          var ui_pixel_url = 'https://sb.scorecardresearch.com/p?c1=2&c2='+ui_c2+'&ns_site='+ui_ns_site+'&name='+a+'&ns_type=hidden&type=hidden&ns_ui_type='+b;
+          var b="comScore=",c=document,d=c.cookie,e="",f="indexOf",g="substring",h="length",i=2048,j,k="&ns_",l="&",m,n,o,p,q=window,r=q.encodeURIComponent||escape;if(d[f](b)+1)for(o=0,n=d.split(";"),p=n[h];o<p;o++)m=n[o][f](b),m+1&&(e=l+unescape(n[o][g](m+b[h])));ui_pixel_url+=k+"_t="+ +(new Date)+k+"c="+(c.characterSet||c.defaultCharset||"")+"&c8="+r(c.title)+e+"&c7="+r(c.URL)+"&c9="+r(c.referrer)+"&b_ui_event="+b_ui_event+"&c_ui_event="+c_ui_event,ui_pixel_url[h]>i&&ui_pixel_url[f](l)>0&&(j=ui_pixel_url[g](0,i-8).lastIndexOf(l),ui_pixel_url=(ui_pixel_url[g](0,j)+k+"cut="+r(ui_pixel_url[g](j+1)))[g](0,i)),c.images?(m=new Image,q.ns_p||(ns_p=m),m.src=ui_pixel_url):c.write("<p><img src='",ui_pixel_url,"' height='1' width='1' alt='*'></p>");
+      }
+      udm_('https://sb.scorecardresearch.com/b?c1=2&c2=17183199&ns_site=gobmx&name='+siteEls);
+  </script>
+
+  <noscript>
+    <img src="https://sb.scorecardresearch.com/p?c1=2&amp;c2=17183199&amp;ns_site=gobmx&amp;name=gobierno.presidencia.es.articulos.version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-25-de-junio-de-2024" height="1" width="1" alt="*" />
+  </noscript>
+<script>
+    let key = '';
+    $(function () {
+
+        $.getJSON("https://framework-gb.cdn.gob.mx/applications/cms/configGobmx.json", function(json) {
+            console.log(json.keyAnalytics); // this will show the info it in firebug console
+            key = json.keyAnalytics;
+            ga('create', key , 'auto', 'GobTracker');
+            ga('GobTracker.require', 'linker');
+            ga('GobTracker.linker:autoLink', ['www.gob.mx']);
+            ga('GobTracker.set', 'contentGroup1', 'Gobierno');
+            ga('GobTracker.set', 'contentGroup2', SubGroup);
+            ga('GobTracker.set', 'contentGroup3', PageType);
+            ga('GobTracker.set', 'dimension14', 'Gobierno');
+            ga('GobTracker.set', 'dimension15', SubGroup);
+            ga('GobTracker.set', 'dimension16', PageType);
+            ga('GobTracker.set', 'dimension13', 'No Registrado');
+            ga('GobTracker.send', 'pageview');
+            ga('GobTracker.set', 'contentGroup1', null);
+            ga('GobTracker.set', 'contentGroup2', null);
+            ga('GobTracker.set', 'contentGroup3', null);
+            ga('GobTracker.set', 'dimension14', null);
+            ga('GobTracker.set', 'dimension15', null);
+            ga('GobTracker.set', 'dimension16', null);
+            ga('GobTracker.set', 'dimension13', null);
+        });
+    });
+</script>
+
+<script src="https://framework-gb.cdn.gob.mx/applications/cms/modal_global_cms.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/gm/accesibilidad/js/gobmx-accesibilidad.min.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick.min.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick-lightbox.js"></script>
+<link rel="stylesheet" href="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick-lightbox.css">
+
+
+<script src="https://framework-gb.cdn.gob.mx/applications/cms/config_dependency.js"></script>
+<script type="text/javascript"  src="/0RVTuHxj0/t/mhEICJIQ/YiOkthVkYSfw/PRc4N0sKYQk/PwhFVTt/GPxQB"></script></body>
+
+</html>
+

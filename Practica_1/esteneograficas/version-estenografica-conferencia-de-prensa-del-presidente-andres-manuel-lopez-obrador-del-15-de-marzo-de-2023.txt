@@ -1,0 +1,1507 @@
+<!DOCTYPE html>
+<html class='no-js' lang='es'>
+<head>
+    <title>
+  Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 15 de marzo de 2023 | Presidencia de la República  | Gobierno | gob.mx
+</title>
+
+  <meta charset='UTF-8'>
+  <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#393C3E">
+
+  
+  <meta name="keywords" content="">
+  <meta name="description" content="Acto encabezado por el presidente Andrés Manuel López Obrador desde Palacio Nacional">
+  <meta name="author" content="Presidencia de la República ">
+
+  <meta content="Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 15 de marzo de 2023" property="og:title" />
+  <meta content="https://www.gob.mxhttps://www.gob.mx/cms/uploads/article/main_image/130592/Conferencia_presidente_07.50.36__1_.jpeg" property="og:image" />
+  <meta content="gob.mx" property="og:site_name" />
+  <meta content="Acto encabezado por el presidente Andrés Manuel López Obrador desde Palacio Nacional" property="og:description" />
+  <meta content="http://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-15-de-marzo-de-2023?idiom=es" property="og:url" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@gobmx" />
+  <meta name="twitter:title" content="Versión estenográfica. Conferencia de prensa del presidente Andrés..." />
+  <meta name="twitter:description" content="Acto encabezado por el presidente Andrés Manuel López Obrador desde Palacio Nacional" />
+  <meta name="twitter:image" content="https://www.gob.mxhttps://www.gob.mx/cms/uploads/article/main_image/130592/Conferencia_presidente_07.50.36__1_.jpeg" />
+
+
+  <meta content="authenticity_token" name="csrf-param" />
+<meta content="EYOrlE+DkA1/Q2vV4QAVqjZlAf0G5VW5H7zPVkFmyYc=" name="csrf-token" />
+
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700,600,300' rel='stylesheet' type='text/css'>
+  <link href='https://framework-gb.cdn.gob.mx/applications/cms/favicon.png' rel='shortcut icon'>
+  <link data-turbolinks-track="true" href="/cms/assets/application.css" media="all" rel="stylesheet" />
+  <link data-turbolinks-track="true" href="https://framework-gb.cdn.gob.mx/gm/accesibilidad/css/gobmx-accesibilidad.min.css" media="all" rel="stylesheet" />
+  
+
+  <!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+  <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+
+ <![endif]-->
+  <script async src="https://www.googletagmanager.com/gtag/js?id="></script>
+  <script src="https://framework-gb.cdn.gob.mx/applications/cms/carrusel/swiper-bundle.min.js"></script>
+
+  <link rel="stylesheet" href="https://framework-gb.cdn.gob.mx/applications/cms/carrusel/swiper-bundle.min.css">
+
+    <script type="text/javascript">
+
+        var SubGroup = '';
+        if(false || false){
+            SubGroup = 'Temas';
+        }else{
+            SubGroup = 'presidencia';
+        }
+        var PageType = '';
+        if(false){
+            PageType = 'Home'
+        }else{
+            if(false){
+                PageType = '';
+            }else {
+                var site = window.location.pathname;
+                var arrayPageType = ["articulos", "prensa", "agenda", "documentos", "multimedia", "galerias", "videos",
+                    "acciones_y_programas", "acciones-y-programas", "mi-foto-con-el-presidente",
+                    "estructuras", "descargables", "que-hacemos", "finanzas", "infografias"];
+
+                if (site.search("archivo") != -1) {
+                    PageType = "archivo_";
+                }
+                for (var i = 0; i < arrayPageType.length; i++) {
+                    if (site.search(arrayPageType[i]) != -1) {
+                        PageType += arrayPageType[i];
+                        break;
+                    }
+                }
+            }
+        }
+
+
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', '');
+
+        gtag('require', 'linker');
+        gtag('linker:autoLink', ['www.gob.mx']);
+        gtag('set', 'contentGroup1', 'Gobierno');
+        gtag('set', 'contentGroup2', SubGroup);
+        gtag('set', 'contentGroup3', PageType);
+        gtag('set', 'dimension14', 'Gobierno');
+        gtag('set', 'dimension15', SubGroup);
+        gtag('set', 'dimension16', PageType);
+        gtag('set', 'dimension13', 'No Registrado');
+        gtag('send', 'pageview');
+        gtag('set', 'contentGroup1', null);
+        gtag('set', 'contentGroup2', null);
+        gtag('set', 'contentGroup3', null);
+        gtag('set', 'dimension14', null);
+        gtag('set', 'dimension15', null);
+        gtag('set', 'dimension16', null);
+        gtag('set', 'dimension13', null);
+
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-144356475-1', 'auto', {'allowLinker':true});
+        ga('require', 'linker');
+        ga('linker:autoLink', ['www.gob.mx']);
+        ga('set', 'contentGroup1', 'Gobierno');
+        ga('set', 'contentGroup2', SubGroup);
+        ga('set', 'contentGroup3', PageType);
+        ga('set', 'dimension14', 'Gobierno');
+        ga('set', 'dimension15', SubGroup);
+        ga('set', 'dimension16', PageType);
+        ga('set', 'dimension13', 'No Registrado');
+        ga('send', 'pageview');
+        ga('set', 'contentGroup1', null);
+        ga('set', 'contentGroup2', null);
+        ga('set', 'contentGroup3', null);
+        ga('set', 'dimension14', null);
+        ga('set', 'dimension15', null);
+        ga('set', 'dimension16', null);
+        ga('set', 'dimension13', null);
+    </script>
+
+
+  <script type = "text/javascript"> console.log(true);
+  var rails_env_prod = true; </script>
+  <script src="/cms/assets/application.js"></script>
+  <script src="/cms/assets/imageReplace.js"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.js"></script>
+
+                              <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("True"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="N3JQ2-2RVHB-WJQMN-CEYEM-ATMWX",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"N3JQ2-2RVHB-WJQMN-CEYEM-ATMWX",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="xxqo3jv567lbgzxpkjqq-f-fdf6d78aa-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"37","ak.cp":"413578","ak.ai":parseInt("270161",10),"ak.ol":"0","ak.cr":12,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"20d10bba","ak.r":49405,"ak.a2":e,"ak.m":"b","ak.n":"essl","ak.bpcip":"189.224.237.0","ak.cport":29971,"ak.gh":"189.247.214.15","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"reno","ak.t":"1726960225","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==NUGgIGJuhBu+3a0PBO9nxALQpWea7Fdcxv1v0AozoYVOcUbu5/fvJswIzIPFJ4/dPeICcis0hen6HVwHenJnQYdfluWzvxb/p3Iv0hmbA2lOP7BmnuVwnQYBvDP33agOWD4Ez6bwcBqEYAFpXzokwY/XrZl+CA4GcWqlTzV7Mf8itUYjxX/LNBEaFtLTdQOcGsAu0psFPZZ829IA8gpjkJbIBOKUU+Gkkyl6ur2HOnC+nC+XN+kOAMOdc+e//LSw8SOtK9Wr9UdI3MDOLtnBQWRlIE5YIUaA1RP+dLHy7UnX5Ic8uwYDYRrkQb2HrWIW1WwyDcnAy/VK9E3wV7UixxPYYhBr8MGwI96e34S+N1nLS6LTdvf2yh4ExXPAo3qEv+0e2LJnKQOtySgSIIazHhAnSTkZ32t4hIAkDj2BYfo=","ak.pv":"113","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+<body>
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v13.0" nonce="MZ2GPb2d"></script><!-- a href="#principal" class="skip">Saltar al contenido principal</a -->
+  <header class=" navbar navbar-inverse">
+    <nav class="navbar navbar-inverse  navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-target="#navbarMainCollapse" data-toggle="collapse">
+            <span class="sr-only">Interruptor de Navegación</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a href="/" style="padding: 1px 3px 3px 3px;" class="navbar-brand " title="Ir a la página inicial">
+
+            <div class="logo-main"></div>
+          </a>
+        </div>
+        <div id="navbarMainCollapse" class="collapse navbar-collapse">
+          <ul class="nav navbar-nav navbar-right">
+           <li><a href="/tramites" title="Trámites">Trámites </a></li>
+            <li><a href="/gobierno" title="Gobierno">Gobierno</a></li>
+                  <li><a href="/presidencia/en" title="Versión en inglés del sitio web">English</a>
+                  </li>
+                </li>
+
+
+            <li>
+              <form accept-charset="UTF-8" action="/busqueda" method="get"><div style="display:none"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+                <input type="hidden" name="site" value="presidencia">
+                <button data-v-6394873e="" id="botonbuscar" type="button" class="btn btn-search"><a data-v-6394873e="" href="https://www.gob.mx/busqueda?utf8=✓" target="_blank" id="botbusca"><img data-v-6394873e="" alt="Buscar" src="https://framework-gb.cdn.gob.mx/landing/img/lupa.png"></a></button>
+</form>            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    
+
+
+        <script src="/cms/assets/level_jump.js"></script><section>
+<!-- Subnavegacion -->
+<nav class=" navbar-inverse sub-navbar fixed-top"
+     >
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#subenlaces">
+        <span class="sr-only">Interruptor de Navegación</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="link-name" href="?tab="></a>
+    </div>
+    <div class="collapse navbar-collapse" id="subenlaces">
+      <ul class="nav subnav navbar-nav navbar-right">
+              <li class="landing-btn">
+                    <a href='/presidencia/es/archivo/prensa'>
+                Comunicados            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='/presidencia/es/#5173'>
+                Directorio            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='https://transparencia.presidencia.gob.mx/presidencia/transparencia/politicas-de-tratamiento-de-datos-personales-de-la-oficina-de-la-presidencia-de-la-republica/'>
+                Protección de Datos Personales            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='https://www.gob.mx/presidencia/transparencia/'>
+                Transparencia            </a>
+            </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+<style>
+  .flag-banner {
+  top: 45px  !important;
+  }
+</style>
+<!-- div class="warning-nav" style="margin-top: 0px;">
+  <div class="container">
+    <div class="row clearfix">
+  <div class="col-xs-12 col-sm-12 col-md-12">Este contenido será modificado temporalmente en atención a las disposiciones legales y normativas en materia electoral, con motivo del inicio de periodo de campaña</div>
+  </div>
+  </div>
+</div -->
+</section>
+
+
+  </header>
+
+
+
+
+
+<main class="inner-page interior ficha">
+  <div class="container">
+  	<ol class="breadcrumb">
+  <li><a href="http://www.gob.mx"><span class="icon icon-home"></span><span class="sr-only">Inicio</span></a></li>
+  <li><a href="/presidencia">Presidencia de la República </a></li>
+  <li class="active">Blog</li>
+</ol>
+  	<div class="">
+      <div aria-hidden="true" class="hidden-xs font-changer internal print" tabindex="-1">
+  <button class="inc-font font-modifier">Aa+</button>
+  <button class="dec-font font-modifier">Aa-</button>
+</div>
+      <div class="marquee-padding">
+      <div class='post-list main-post-list'>
+<div class='marque-float-left'>
+<div class='right_arrow'></div>
+<div class='titulo-pub'>
+<small>Publicaciones Recientes</small>
+</div>
+</div>
+<div>
+<div class='container-marque'>
+<div id='headlines'>
+<div class='marquee'>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-19 13:44:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-19-de-septiembre-de-2024' title='Versió'>
+Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 19 de septiembre de 2024
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-18 12:36:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-18-de-septiembre-de-2024' title='Versió'>
+Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 18 de septiembre de 2024
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-17 13:51:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-entrega-de-estimulos-a-delegaciones-mexicanas-participantes-en-juegos-olimpicos-y-paralimpicos-paris-2024' title='Versió'>
+Versión estenográfica. Entrega de estímulos a delegaciones mexicanas participantes en Juegos Olímpicos y Paralímpicos París 2024
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-17 12:21:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-17-de-septiembre-de-2024' title='Versió'>
+Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 17 de septiembre de 2024
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-16 13:56:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-desfile-civico-militar' title='Versió'>
+Versión estenográfica. Desfile Cívico Militar
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+      </div>
+  	  <div class="col-md-7 col-xs-12 col-sm-12 pull-left" tabindex="0">
+  	  	<h1 class="bottom-buffer">Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 15 de marzo de 2023</h1>
+  	  	<h2>Acto encabezado por el presidente Andrés Manuel López Obrador desde Palacio Nacional</h2>
+        <section class="">
+          <p>Presidencia de la República  | 15 de marzo de 2023</p>
+        </section>
+  	  <div class="imagen-principal">
+  	      <img alt="Conferencia de prensa del presidente Andrés Manuel López Obrador" class="img-responsive img_curve" src="https://www.gob.mx/cms/uploads/article/main_image/130592/Conferencia_presidente_07.50.36__1_.jpeg" />
+  	      <span class="small">Conferencia de prensa del presidente Andrés Manuel López Obrador</span>
+      </div>
+      <div class="article-body"><p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Buenos d&iacute;as. Me desvel&eacute; porque, &iquest;qu&eacute; creen?&nbsp;Volvi&oacute; a ganar M&eacute;xico, 2-1 a Inglaterra. Felicidades a nuestros representantes en el Cl&aacute;sico Mundial de B&eacute;isbol, felicidades a todos los integrantes del equipo mexicano. Se gan&oacute; ayer y hoy a las 12:00 del d&iacute;a contra Canad&aacute;, y pues voy a M&eacute;xico, eso est&aacute; muy claro. Nada m&aacute;s que tengan en cuenta dos cosas, las frases de &lsquo;Yogie&rsquo; Berra y de &lsquo;Babe&rsquo; Ruth:</p>
+
+<p>La de &lsquo;Yogi&rsquo; Berra: &lsquo;Esto no se acaba hasta que se acaba&rsquo;. Y no hay que confiarse, hay que aplicarse a fondo, como en todo, echarle ganas;&nbsp;no se puede hacer nada sin ganas, para todo se necesitan ganas.</p>
+
+<p>Y &lsquo;Babe&rsquo; Ruth dec&iacute;a: &lsquo;No se puede vencer a quien no sabe rendirse.</p>
+
+<p>Dos m&aacute;ximas del b&eacute;isbol.</p>
+
+<p>Pero estuvieron muy bien ayer, muy bien el picheo. El p&iacute;cher abridor, de primera. Su familia, de origen mexicano. Y me dec&iacute;a que cuando el&nbsp;manager&nbsp;Benjam&iacute;n Gil les habla de la estrategia que van a aplicar y m&aacute;s que nada los motiva a que defiendan los colores de M&eacute;xico, lo que representan, ya algunos que son&nbsp;mexico-estadounideses, como es el caso del p&iacute;cher de ayer, lo hace Benjam&iacute;n en espa&ntilde;ol y en ingl&eacute;s y ya le dicen: &lsquo;No, no, no. No queremos que nos lo transmitas en ingl&eacute;s, no queremos traducci&oacute;n nada m&aacute;s, que lo entendemos por nuestros padres&rsquo;. Y es muy importante lo que est&aacute; pasando en el equipo. Y ojal&aacute; les vaya bien hoy con Canad&aacute; y que pasen a la segunda etapa, a semifinales, les deseamos lo mejor.</p>
+
+<p>Vamos a la secci&oacute;n de los mi&eacute;rcoles de &#39;Qui&eacute;n es qui&eacute;n en las mentiras de la semana&#39;. Son much&iacute;simas las mentiras, pero es una muestra. Dicen que cuando se manejan bien las estad&iacute;sticas con una muestra es suficiente para saber c&oacute;mo se est&aacute; en cuanto a la situaci&oacute;n de los medios de informaci&oacute;n, que casi todos est&aacute;n en contra de nosotros, con honrosas excepciones, no todos. Y mucho menos los periodistas, la mayor&iacute;a de los periodistas simpatiza con nuestro movimiento, nada m&aacute;s que no dicen nada porque pueden perder su trabajo, se quedan calladitos. Y desde luego, los trabajadores de los medios.</p>
+
+<p>Son los de arriba, los&nbsp;machuchones, y los famosos, esos que ganan much&iacute;simo dinero, que en sentido estricto no son periodistas, son publicistas, porque el periodismo es un noble oficio que implica &eacute;tica, apego a la verdad, honestidad,&nbsp;y est&aacute; muy distante del af&aacute;n de lucro, no tiene que ver con el mercantilismo, con la venta, con la compra, con el alquiler de maneras de pensar y de consciencia;&nbsp;tiene que ver m&aacute;s con la dignidad.</p>
+
+<p>Pero, en fin, vamos a ver c&oacute;mo vamos.</p>
+
+<p>ANA ELIZABETH GARC&Iacute;A VILCHIS:&nbsp;Con su permiso, se&ntilde;or presidente.&nbsp;Buenos d&iacute;as a todas, a todos los representes de los medios de comunicaci&oacute;n aqu&iacute; y a todos y todas los que nos ven a trav&eacute;s de las plataformas digitales, las redes sociales.</p>
+
+<p>Vamos a iniciar con un absurdo. Inventan que militares venezolanos vienen a reprimir a M&eacute;xico. Y, bueno, los que difundieron esta noticia quedaron en rid&iacute;culo. El pasado fin de semana circul&oacute; un video&nbsp;en el que se observa a militares venezolanos llegando al Aeropuerto Internacional de la Ciudad de M&eacute;xico y a militares mexicanos que los reciben y los transportan.&nbsp;</p>
+
+<p>Opositores y periodistas contrarios a este gobierno publicaron mentiras, por supuesto. Aqu&iacute; vemos los tuits de Sergio Sarmiento, Joaqu&iacute;n L&oacute;pez-D&oacute;riga, Juan Carlos S&aacute;enz, entre otros usuarios, que sabemos que los acuerpan y reproducen estas mentiras, los cuales siguieron esta narrativa para inventar que militares venezolanos habr&iacute;an venido, escuche bien, a territorio nacional con la misi&oacute;n de &lsquo;perseguir a todo aquel que se oponga al r&eacute;gimen del presidente L&oacute;pez Obrador&rsquo;. As&iacute; de c&oacute;mico y tambi&eacute;n as&iacute; de ruin.</p>
+
+<p>Result&oacute; que representantes de las fuerzas armadas de Venezuela se encontraban en M&eacute;xico para participar en la Competencia Internacional&nbsp;Chimaltlalli&nbsp;2023, que se realiz&oacute; del 3 al 12 de marzo, en la que participaron estudiantes de planteles militares de nueve pa&iacute;ses del continente americano para medir su desempe&ntilde;o f&iacute;sico, t&aacute;ctico y &eacute;tico.</p>
+
+<p>Adem&aacute;s de Venezuela, tambi&eacute;n participaron Brasil, Canad&aacute;, Colombia, Estados Unidos, El Salvador, Honduras Rep&uacute;blica Dominicana y, por supuesto, M&eacute;xico.</p>
+
+<p>No falt&oacute;, como ya decimos, benditas redes sociales, a usuarios que aclararon en redes sociales y tambi&eacute;n en medios responsables que se trataba de la competencia internacional y no de lo que publicaron estos periodistas y opositores.</p>
+
+<p>Vamos con la segunda. Que Ovidio no es Ovidio. Ovidio, hijo de Joaqu&iacute;n Guzm&aacute;n Loera, &lsquo;el Chapo&rsquo;, fue notificado por un juez el pasado 7 de marzo de la solicitud de extradici&oacute;n que solicit&oacute; la justicia estadounidense; a esto, Ovidio Guzm&aacute;n declar&oacute; no ser el hijo de &lsquo;el Chapo&rsquo; Guzm&aacute;n ni la persona que requiere Estados Unidos.</p>
+
+<p>De inmediato, medios y la oposici&oacute;n, ya saben, se frotaron las manos y empezaron a difundir mentiras, desplegaron una gran cobertura medi&aacute;tica m&aacute;s o menos inusual en medios de comunicaci&oacute;n tanto digitales como impresos.</p>
+
+<p>Aqu&iacute; vemos a&nbsp;Reforma,&nbsp;Televisa,&nbsp;TV Azteca,&nbsp;Animal Pol&iacute;tico,&nbsp;Publimetro,&nbsp;El Financiero,&nbsp;C&oacute;digo Magenta&nbsp;y la lista sigue. A la declaraci&oacute;n de Ovidio, procesado por narcotr&aacute;fico, le siguieron mensajes en las redes sociales y comentarios de conductores de radio y televisi&oacute;n planteando la duda de si en verdad el detenido era quien se buscaba, en este caso Ovidio Guzm&aacute;n.</p>
+
+<p>Entre los comunicadores que sembraron la duda estuvieron H&eacute;ctor de&nbsp;Maule&oacute;n, quien asegur&oacute; que el verdadero Ovidio era el que liber&oacute; el presidente L&oacute;pez Obrador. Lo dejamos hasta aqu&iacute;. En la pantalla podemos ver qui&eacute;nes difundieron la mentira, y a estos se les sumaron muchos m&aacute;s. La conversaci&oacute;n sigue, por cierto, en redes sociales.</p>
+
+<p>Vamos con la &uacute;ltima. Felipe Calder&oacute;n declar&oacute; que hay persecuci&oacute;n pol&iacute;tica en su contra, lo cual es falso y pues &eacute;l lo sabe. Felipe Calder&oacute;n, expresidente de M&eacute;xico, duda del veredicto en contra de Genaro Garc&iacute;a Luna y se dice v&iacute;ctima, s&iacute;, se dice v&iacute;ctima de una persecuci&oacute;n pol&iacute;tica en su contra, lo cual es absolutamente falso.</p>
+
+<p>Pero vamos a pasar el video donde c&oacute;modamente desde Espa&ntilde;a el expresidente Felipe Calder&oacute;n declara ser perseguido pol&iacute;tico a causa del veredicto que se dio en Estados Unidos a su exsecretario de Seguridad P&uacute;blica acusado de narcotr&aacute;fico y v&iacute;nculos para exportar coca&iacute;na, para traficar coca&iacute;na en Estados Unidos. Vamos a verlo.</p>
+
+<p>(INICIA VIDEO)</p>
+
+<p>&nbsp;</p>
+
+<p>FELIPE CALDER&Oacute;N HINOJOSA:&nbsp;Yo soy un hombre de leyes y desde luego respeto las resoluciones de los tribunales cuando act&uacute;an conforme a derecho. Yo en lo personal tengo muchas dudas del veredicto porque hubiera esperado ver lo que tanto anunci&oacute; la fiscal&iacute;a, &iquest;no?: videos, grabaciones, fotograf&iacute;as, estados de cuenta, dep&oacute;sitos. Y la verdad, nada de eso exhibi&oacute;, todo fue en base a testimonios de criminales confesos, que, por cierto, a la mayor&iacute;a de ellos nosotros en nuestro gobierno perseguimos, capturamos y extraditamos.</p>
+
+<p>INTERVENCI&Oacute;N:&nbsp;Usted en un tuit, perd&oacute;n, se defendi&oacute; porque coment&oacute; que se ha instrumentalizado el fallo pol&iacute;ticamente contra usted.</p>
+
+<p>FELIPE CALDER&Oacute;N HINOJOSA:&nbsp;Es evidente que hay en M&eacute;xico una persecuci&oacute;n clar&iacute;sima de car&aacute;cter pol&iacute;tico-medi&aacute;tico en contra m&iacute;a, y que el fallo incluso se trata de utilizar para exacerbar esa persecuci&oacute;n, que es casi personal, de parte del gobierno.</p>
+
+<p>(FINALIZA VIDEO)</p>
+
+<p>ANA ELIZABETH GARC&Iacute;A VILCHIS:&nbsp;Bueno, hasta aqu&iacute; dejamos a Felipe Calder&oacute;n.&nbsp;</p>
+
+<p>Pero queremos recodarles, y tambi&eacute;n a todos los que nos est&aacute;n viendo, que esta declaraci&oacute;n es parte de quienes tambi&eacute;n defienden a Genaro Garc&iacute;a Luna no tan veladamente, m&aacute;s bien dudando del veredicto que se dio en la corte de Estados Unidos, periodistas, medios de comunicaci&oacute;n y por supuesto en redes sociales y todos los que forman parte de la oposici&oacute;n a este gobierno.</p>
+
+<p>Pero, por &uacute;ltimo, queremos presentarles un video, en colaboraci&oacute;n con Infodemia. Hoy est&aacute; dedicado a la campa&ntilde;a de ataques y noticias falsas en contra de M&eacute;xico por parte de medios de comunicaci&oacute;n y pol&iacute;ticos en Estados Unidos. Vamos a verlo.</p>
+
+<p>(INICIA VIDEO)</p>
+
+<p>VOZ HOMBRE:&nbsp;Legisladores y medios conservadores de Estados Unidos han lanzado una campa&ntilde;a de noticias falsas en contra de M&eacute;xico con los siguientes ejes desinformadores.</p>
+
+<p>Uno. Falso que el fentanilo s&oacute;lo se produzca en M&eacute;xico. El fentanilo fue aprobado por primera vez por la Administraci&oacute;n de Alimentos y Medicamentos de Estados Unidos, FDA, en 1968 y fue la d&eacute;cada de 1970 cuando inici&oacute; su uso il&iacute;cito.</p>
+
+<p>El fentanilo es un analg&eacute;sico de origen opioide, como la code&iacute;na, la metadona, la morfina y la oxicodona, que todav&iacute;a se distribuyen legalmente en Estados Unidos con diferentes marcas, cuyo uso y abuso ha generado la crisis de opioides en ese pa&iacute;s.</p>
+
+<p>Seg&uacute;n datos de los Centros para el Control y Prevenci&oacute;n de Enfermedades, CDC, entre 1999 y 2019 murieron m&aacute;s de medio m&aacute;s de mill&oacute;n de personas en Estados Unidos a causa de una sobredosis con opioides; mientras que en 2022 aproximadamente 70 mil personas fallecieron a causa de sobredosis de fentanilo en ese pa&iacute;s.</p>
+
+<p>El gobierno de Estados Unidos reconoce que M&eacute;xico no es la &uacute;nica fuente de fentanilo ilegal para ese pa&iacute;s. Adem&aacute;s del mercado negro que trafica con prescripciones m&eacute;dicas en la Uni&oacute;n Americana, las autoridades de ese pa&iacute;s identifican dos rutas de trafico de esta droga: la ruta directa desde China a Estados Unidos y la ruta China-M&eacute;xico-Estados Unidos, en la que los precursores qu&iacute;micos del fentanilo provenientes en su mayor&iacute;a de China y un tercio de ellos provenientes de la Uni&oacute;n Americana son utilizados o combinados con otras drogas para su posterior tr&aacute;fico a Estados Unidos.</p>
+
+<p>Dos. Falso que el Gobierno de M&eacute;xico no combate el tr&aacute;fico de fentanilo y otras drogas. Los decomisos de drogas sint&eacute;ticas han aumentado significativamente respecto a los sexenios pasados, durante la actual administraci&oacute;n se increment&oacute; en mil 49 por ciento los decomisos de fentanilo respecto al periodo 2014-2018; los de metanfetamina han incrementado 128 por ciento comparado con el periodo 2008-2012 y los de coca&iacute;na incrementaron 628 por ciento comparado con lo realizado entre 2008 y 2012. El desmantelamiento de laboratorios clandestinos ha aumentado 58 por ciento respecto al periodo 2008-2012. Tan solo de 2019 a 2022 se han asegurado mil 256 toneladas de precursores qu&iacute;micos de drogas.</p>
+
+<p>Tres. Falso que el Gobierno de M&eacute;xico protege a los c&aacute;rteles. En lo que va de la actual administraci&oacute;n el Gobierno de M&eacute;xico ha detenido a 68 mil 944 personas involucradas en el presunto trasiego de drogas, 136 por ciento m&aacute;s que en el periodo 2014-2018, de los cuales destaca la detenci&oacute;n de 22 l&iacute;deres, siete de ellos del c&aacute;rtel Pac&iacute;fico, incluido Ovidio Guzm&aacute;n, y seis del c&aacute;rtel Jalisco Nueva Generaci&oacute;n.</p>
+
+<p>Infodemia.</p>
+
+<p>(FINALIZA VIDEO)</p>
+
+<p>ANA ELIZABETH GARC&Iacute;A VILCHIS:&nbsp;Es cuanto, se&ntilde;or presidente. Muchas gracias.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Miren, dos cuestiones que considero importantes:</p>
+
+<p>Primero, sobre el fentanilo. Cuando llegamos al gobierno, como se sabe, los puertos estaban a cargo de la Secretar&iacute;a de Comunicaciones,&nbsp;y para poner orden, evitar el contrabando, el ingreso de drogas, se decidi&oacute; que los puertos los manejara la Secretar&iacute;a de Marina, porque hab&iacute;a puertos como Manzanillo, L&aacute;zaro C&aacute;rdenas, pr&aacute;cticamente tomados por la delincuencia;&nbsp;ah&iacute; se aplicaba la sentencia de&nbsp;plata o plomo. Por eso decidimos que el manejo de los puertos iba a estar a cargo de la Secretar&iacute;a de Marina, como las aduanas fronterizas a cargo de la Secretar&iacute;a de la Defensa.</p>
+
+<p>Esto ocasion&oacute; oposici&oacute;n;&nbsp;inclusive,&nbsp;fue uno de los motivos por lo que me present&oacute; su renuncia el secretario de Comunicaciones, el ingeniero Jim&eacute;nez Espri&uacute;;&nbsp;de manera muy franca me dijo: &lsquo;Yo no estoy de acuerdo con esto, porque siento que es militarizar el pa&iacute;s&rsquo;. Y lo respeto mucho, pero era muy importante el que se hiciera este cambio.&nbsp;&Eacute;l actu&oacute;&nbsp;de acuerdo a&nbsp;sus criterios, a sus convicciones,&nbsp;y yo tambi&eacute;n, como tengo la responsabilidad de conducir al gobierno tom&eacute; esa decisi&oacute;n.</p>
+
+<p>Y hemos avanzado, fue buena la decisi&oacute;n porque hemos podido decomisar much&iacute;sima droga en los puertos, incluso en las aduanas mar&iacute;timas y en las aduanas terrestres se han incrementado los ingresos; es decir, est&aacute; funcionando bien.</p>
+
+<p>Adem&aacute;s, la Secretar&iacute;a de Marina con Cofepris trabajaron para ordenar la importaci&oacute;n del fentanilo, que viene fundamentalmente de Asia. Antes, lo tenemos probado, llegaba el fentanilo a supuestos laboratorios clandestinos, se les permit&iacute;a la importaci&oacute;n y se usaba el fentanilo para el tr&aacute;fico, para introducirlo a Estados Unidos, laboratorios fantasmas que solicitaban el ingreso del fentanilo. Porque el fentanilo es un analg&eacute;sico que se utiliza para controlar el dolor en intervenciones quir&uacute;rgicas,&nbsp;cuando hay mucho dolor se utiliza el fentanilo.</p>
+
+<p>Se logr&oacute; en todo este tiempo hacer una revisi&oacute;n de los importadores del fentanilo, se depur&oacute; el n&uacute;mero de importadores y se establecieron requisitos para otorgar el permiso, para usar el fentanilo con fines m&eacute;dicos;&nbsp;ah&iacute; estamos.</p>
+
+<p>Tambi&eacute;n es notorio que el fentanilo para droga, para el narcotr&aacute;fico, se ha estado combatiendo y ha crecido much&iacute;simo el n&uacute;mero de decomisos,&nbsp;como nunca. Ah&iacute; est&aacute; el dato de cu&aacute;nto se ha decomisado. &iquest;Por qu&eacute; no lo pones? Es importante que se sepa que un kilo de fentanilo equivale a un mill&oacute;n de dosis y se han decomisado en el tiempo que llevamos seis toneladas, como nunca.</p>
+
+<p>A pesar de lo que estamos haciendo en M&eacute;xico, dir&iacute;a que m&aacute;s que en Estados Unidos sobre este flagelo, sobre esta utilizaci&oacute;n de una droga que es lo m&aacute;s adictiva y da&ntilde;ina que puede haber, estamos haciendo mucho en M&eacute;xico, ahora los pol&iacute;ticos republicanos y algunos tambi&eacute;n dem&oacute;cratas en Estados Unidos que no han hecho nada&hellip; Porque all&aacute; se distribuye esta droga y no se sabe de decomisos y de detenciones a los que se dedican a su distribuci&oacute;n;&nbsp;ni siquiera hay difusi&oacute;n en los medios informativos del da&ntilde;o que causa el fentanilo en Estados Unidos, pero se les hace f&aacute;cil culpar a M&eacute;xico de manera injustificada, por politiquer&iacute;a, por hipocres&iacute;a, y se han atrevido a decir que si nosotros no controlamos lo de la entrada de fentanilo a Estados Unidos &mdash;que, como tambi&eacute;n se ha advertido aqu&iacute;, no s&oacute;lo entra por M&eacute;xico, por la frontera de M&eacute;xico-Estados Unidos, entra directo tambi&eacute;n, y entra por Canad&aacute; de Asia&mdash; bueno, se han atrevido a decir que hasta van a presentar una iniciativa para que el ej&eacute;rcito estadounidense detenga a las bandas de narcotraficantes mexicanos, violando nuestra soberan&iacute;a.</p>
+
+<p>Eso nunca,&nbsp;jam&aacute;s lo vamos a permitir, pero como tenemos que informarles a todos los mexicanos y tambi&eacute;n a los estadounidenses para que no se dejen manipular, ya se tom&oacute; la decisi&oacute;n de que los c&oacute;nsules de M&eacute;xico en Estados Unidos informen a&nbsp;mexico-estadounidenses de esta situaci&oacute;n.</p>
+
+<p>No est&aacute;n haciendo su trabajo los legisladores de Estados&nbsp;Unidos, las autoridades de Estados Unidos, porque no est&aacute;n atendiendo las causas, no hay programas de atenci&oacute;n a los j&oacute;venes de Estados Unidos.</p>
+
+<p>&iquest;Por qu&eacute; es la adicci&oacute;n? &iquest;Por qu&eacute; el joven recurre a las drogas?</p>
+
+<p>Porque hay problemas, no s&oacute;lo en Estados Unidos; en M&eacute;xico, en todo el mundo, nada m&aacute;s que no se reconoce, problemas de desintegraci&oacute;n de las familias, de p&eacute;rdida de valores, culturales, morales, espirituales;&nbsp;porque los j&oacute;venes se sienten infelices, insatisfechos, solos, abandonados. Eso debe de atenderse, como lo estamos haciendo en M&eacute;xico.&nbsp;</p>
+
+<p>Antes,&nbsp;lo &uacute;nico que se hac&iacute;a en M&eacute;xico era llamar a los j&oacute;venes &lsquo;ninis&rsquo;, que ni estudian ni trabajan; ahora no, ahora los j&oacute;venes tienen becas para estudiar, los j&oacute;venes que no tienen posibilidades de trabajo, de estudio, son contratados y trabajan como aprendices y se atiende a los j&oacute;venes para que no los enganchen, para que no se los lleven las bandas de la delincuencia organizada.</p>
+
+<p>Y estamos fortaleciendo valores porque para nosotros la familia es la principal instituci&oacute;n de seguridad social. A ellos les falta hacer m&aacute;s este trabajo.&nbsp;</p>
+
+<p>Y con todo respeto, replantearse esa costumbre de que apenas los j&oacute;venes est&aacute;n en la adolescencia y ya tienen que abandonar a la familia, se tienen que ir. Les propon&iacute;a yo a los legisladores que vinieron de Estados Unidos de manera muy respetuosa que por qu&eacute; no, si un joven estaba estudiando o si un joven estaba con la familia, en vez de que a los 18 a&ntilde;os abandonara el hogar, se quedara dos a&ntilde;os, tres a&ntilde;os m&aacute;s, y que el gobierno ayudara a esa familia, porque es muy importante que el joven no est&eacute; solo, que tenga amor;&nbsp;apapacho, como decimos en M&eacute;xico.&nbsp;</p>
+
+<p>Y un programa amplio de difusi&oacute;n en todos estos medios que se dedican nada m&aacute;s de manera amarillista a hablar de los que pierden la vida lamentablemente por el fentanilo. Pero &iquest;por qu&eacute; estos medios de informaci&oacute;n no informan sobre las causas y sobre c&oacute;mo ayudar para que no haya esa adicci&oacute;n?</p>
+
+<p>&iquest;Por qu&eacute; comento todo esto?</p>
+
+<p>Porque voy a pedir a m&eacute;dicos y cient&iacute;ficos mexicanos que analicen la posibilidad que podamos sustituir el fentanilo con fines m&eacute;dicos por otros analg&eacute;sicos para dejar de usarlo, a ver si es posible. Porque antes se usaban otros analg&eacute;sicos. Y entonces, aunque tenemos el control, que no se ten&iacute;a antes, sobre el ingreso del fentanilo con usos m&eacute;dicos, de todas formas, al estar prohibido ya no habr&iacute;a ninguna posibilidad de que pudiese importarse y lo sustituimos por otros analg&eacute;sicos, a ver si esto es viable, con el compromiso de que todo lo que entre de manera ilegal y por contrabando va a seguir siendo combatido.</p>
+
+<p>Y esto mismo, si lo hacemos en M&eacute;xico, vamos a pedir que lo hagan en Estados Unidos, que tambi&eacute;n lo proh&iacute;ban para usos m&eacute;dicos.</p>
+
+<p>Yo les voy a informar acerca del an&aacute;lisis, del resultado, de esta propuesta. Queda abierta la convocatoria, el llamamiento para que los cient&iacute;ficos, los m&eacute;dicos, puedan informarnos.</p>
+
+<p>Todos sabemos que para prop&oacute;sitos m&eacute;dicos el fentanilo se utiliza para quitar el dolor de enfermedades terminales, cuando hacen operaciones que son muy dolorosas lo usan, pero antes se utilizaban otros analg&eacute;sicos. Hay que explorar esa posibilidad. Quer&iacute;a yo darlo a conocer.&nbsp;</p>
+
+<p>Y lo otro es que ayer comentamos de que el PAN hab&iacute;a contratado a una empresa de Garc&iacute;a Luna y ayer mismo el presidente del PAN lo reconoci&oacute;.</p>
+
+<p>(INICIA VIDEO)</p>
+
+<p>MARKO CORT&Eacute;S MENDOZA, PRESIDENTE DEL PARTIDO ACCI&Oacute;N NACIONAL (PAN):&nbsp;No existe ning&uacute;n otro con ninguna empresa de Garc&iacute;a Luna. De hecho, es parte de la persecuci&oacute;n. Obviamente nosotros no ten&iacute;amos conocimiento de ello, pero parte de la persecuci&oacute;n y de ese intento desesperado de desprestigiar a la m&aacute;s firme oposici&oacute;n en nuestro pa&iacute;s, pues es eso que el presidente ha venido se&ntilde;alando.</p>
+
+<p>Sin m&aacute;s, fue solamente ese contrato de prestaci&oacute;n de servicios para temas de personal y punto. Sin m&aacute;s, no existe ning&uacute;n otro.</p>
+
+<p>(FINALIZA VIDEO)</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Yo nada m&aacute;s lo &uacute;nico que quiero ahora, que, ya que est&aacute;n colaborando, que nos digan c&oacute;mo que&nbsp;tema para personal. A qu&eacute; se dedicaba Garc&iacute;a Luna, &iquest;no? O sea, a recursos humanos, o sea, al manejo de recursos humanos Ser&iacute;a bueno, &iquest;no?, saber para qu&eacute; fue, porque Garc&iacute;a Luna lo que sab&iacute;a,&nbsp;de acuerdo a&nbsp;lo que est&aacute; en el juicio, es escuchar, &iquest;no?, y el manejo de escoltas, pero &iquest;recursos humanos? Ya hay informaci&oacute;n.</p>
+
+<p>Y lo otro es pues invitar a Calder&oacute;n que ya defienda abiertamente a Garc&iacute;a Luna y que presente pruebas. Y no le hace que se trate de los tribunales de Estados Unidos, cuando se tiene la convicci&oacute;n de que est&aacute; uno actuando con apego a la verdad y se lucha por una causa justa se puede uno enfrentar a cualquier adversario. Por encima de todo est&aacute; la dignidad.</p>
+
+<p>Y repetirle que nosotros no lo perseguimos, ayer lo dije, lo reitero. Si lo estuvi&eacute;semos persiguiendo, hubi&eacute;semos presentado una denuncia. Nunca he hablado de que est&aacute; denunciado en un tribunal internacional por violaci&oacute;n de derechos humanos, nada m&aacute;s fui muy claro: a los expresidentes, s&oacute;lo si el pueblo lo aprueba, se les inician procesos de investigaci&oacute;n. Present&eacute; en su momento una solicitud para una consulta con ese fin y la gente no particip&oacute; en la cantidad que exige la Constituci&oacute;n, el 40 por ciento de los ciudadanos, para que la consulta sea vinculatoria, es decir, v&aacute;lida, participaron menos.</p>
+
+<p>S&iacute;, la mayor&iacute;a pidiendo juicio, creo que fueron como ocho millones o&hellip; &iquest;Cu&aacute;nto?</p>
+
+<p>INTERVENCI&Oacute;N:&nbsp;Siete millones.&nbsp;</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Siete millones, pero ten&iacute;a que haber participado el 40 por ciento. Claro, los conservadores llamaron a no votar, pero de todas maneras no se alcanz&oacute; el porcentaje y estamos cumpliendo ese compromiso que hicimos.</p>
+
+<p>Sin embargo, si &eacute;l siente que Garc&iacute;a Luna es inocente, pues que se enfrente a la fiscal&iacute;a de Estados Unidos y que se abra un buen debate, que ser&iacute;a muy sano para M&eacute;xico y para el mundo.</p>
+
+<p>Porque ning&uacute;n tribunal debe actuar de manera injusta y donde se quiera que se cometa un acto de injusticia tiene que haber una protesta y se debe de luchar en contra de las injusticias. Por ejemplo, deben de dejar en libertad a Assange, que eso no se debe de olvidar.</p>
+
+<p>Tienen preso a Assange, es como tener en prisi&oacute;n a la libertad, a la libertad de expresi&oacute;n la tienen en la c&aacute;rcel, y de eso no se habla nada. Los peri&oacute;dicos m&aacute;s influyentes que incluso informaron, el&nbsp;New York Times&nbsp;dio informaci&oacute;n sobre los cables y a ellos no los enjuiciaron, hicieron lo mismo que hizo Assange, dar a conocer informaci&oacute;n de cables del gobierno de Estados Unidos, exactamente lo mismo,&nbsp;New York Times&nbsp;y otros medios, y a ellos no los tocaron, y a Assange s&iacute; lo tienen en la c&aacute;rcel. El doble rasero de siempre, la hipocres&iacute;a, pero, en fin, ya.</p>
+
+<p>Ahora s&iacute;, v&aacute;monos. Qued&oacute; Liliana. Ya vez que s&iacute;.</p>
+
+<p>PREGUNTA:&nbsp;Pero es con el doctor Gatell, pero, en fin.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Pero, no, estamos hablando de temas m&eacute;dicos, ahora ya hasta especialistas nos estamos volviendo.</p>
+
+<p>INTERLOCUTORA:&nbsp;Gracias, se&ntilde;or presidente. Muy buenos d&iacute;as a todos y a todas. Liz, buenos d&iacute;as.</p>
+
+<p>En el tema del tabaco, se&ntilde;or presidente, no importa si son largos, cortos,&nbsp;light, mentolados, con filtro, sin filtro, todos ellos contienen al final m&aacute;s de cuatro mil sustancias cancer&iacute;genas.</p>
+
+<p>La gente que nos est&aacute; amablemente viendo podr&iacute;a hacer una reflexi&oacute;n acerca del tiempo que tarda en llegar la nicotina al cerebro despu&eacute;s de haber dado el primer golpe que se da en aproximadamente en un cigarrillo, entre 20 y 30, son siete segundos los que tarda esta sustancia en llegar al cerebro y empezar a estimularla. Si lo multiplicamos por 20 o por 30, son muchas las veces que se estimula en el momento al cerebro.</p>
+
+<p>Esta estimulaci&oacute;n empieza a producir en estos siete segundos la adicci&oacute;n al cigarrillo. Una cajetilla contiene al menos 20 de estos. En el INER, en el Instituto Nacional de Enfermedades Respiratorias, en la Cl&iacute;nica del Tabaco, se menciona que el mexicano es un fumador ocasional. Ocasional ellos lo refieren a que fuma en el momento, en el&nbsp;desestr&eacute;s&nbsp;del trabajo, a media ma&ntilde;ana, que fuman en el momento de la comida, que fuman cuando tienen una situaci&oacute;n de socializaci&oacute;n que pudiera ser una reuni&oacute;n familiar los fines de semana o con amigos, y llegan a gastar alrededor de 50 mil pesos o 60 mil pesos anuales, lo que pudiera utilizarse para poder adquirir un enganche de una propiedad o de un veh&iacute;culo.</p>
+
+<p>Tambi&eacute;n se conoce que en el pa&iacute;s al menos hay 68 mil muertes atribuidas al consumo del tabaco. En el mundo existen alrededor de unos ocho millones de fumadores y se cree que al menos el uno por ciento son fumadores no directos, es decir, el amigo, el pap&aacute;, la hermana, la pareja son fumadores pasivos que pudieran adquirir alg&uacute;n tipo de enfermedades, entre ellas much&iacute;simos tumores malignos.</p>
+
+<p>Hay unas lesiones precancerosas que empiezan a salir en el labio como una especie de &aacute;mpula, una ampolla, que a veces sana y se regenera la piel y vuelve a sanar, y se vuelve a exhibir y se vuelve a formar esta costra en el labio.</p>
+
+<p>Estas lesiones precancerosas son el resultado de la exposici&oacute;n al elevado calor que se tiene en el contacto de la mucosa con el cigarrillo. Y no solamente del cigarrillo convencional, tambi&eacute;n de los cigarros electr&oacute;nicos o de estos nuevos dispositivos conocidos como&nbsp;vapers. La cantidad o los grados que puede alcanzar supera los 300, a veces hasta los 600 grados el calor, por eso estas lesiones.</p>
+
+<p>Y le comento todo esto, presidente, porque seguramente usted y mucha de la gente, los expertos en salud lo conocen, no es algo nuevo, es algo que se ha conocido todo el tiempo. Sin embargo, la jueza Claudia Hurtado de Mendoza, juez segundo del distrito de Nuevo Le&oacute;n, le otorg&oacute; la suspensi&oacute;n a favor de la exhibici&oacute;n de estos productos a una tienda denominada Oxxo.</p>
+
+<p>Se conoce o m&aacute;s o menos se entiende que el modelo de los&nbsp;Oxxos, si bien no es una franquicia como tal, s&iacute; son una especie de arrendamiento que a veces la utilizan las familias o grupos de amigos para poder tener recursos y ser independientes en el &aacute;mbito laboral. Pero este amparo que se otorga a este peque&ntilde;o grupo de empresarios, o solamente un empresario porque no se conoce, lo adjudicaron todos los&nbsp;Oxxos&nbsp;en todo el pa&iacute;s. Desafortunadamente esta ley que se aprob&oacute; para prohibir la exhibici&oacute;n de los empaques de los productos como tal ha pasado de largo por estas tiendas, se siguen exhibiendo.&nbsp;</p>
+
+<p>Tuvimos en&nbsp;Pulso Saludable&nbsp;la oportunidad de preguntarle a varios de los expendedores de estas tiendas de conveniencia por qu&eacute; los vend&iacute;an, si nos pod&iacute;an ense&ntilde;ar el amparo. Ellos nos dicen que efectivamente est&aacute;n amparados; no cuentan con el amparo y lo siguen vendiendo.</p>
+
+<p>Otra de las importantes circunstancias es que hubo otra jueza que otorg&oacute; la negatividad de este amparo a la empresa de Walmart, y Walmart hoy en d&iacute;a no exhibe, como algunos otros comercios, no exhiben estos productos.</p>
+
+<p>Existen alrededor de 600 amparos despu&eacute;s de que al d&iacute;a siguiente de que se dio a conocer esta ley, se&ntilde;or presidente. Y yo con esta remembranza de todos los efectos nocivos que trae a la salud, quisiera sensibilizar a las juezas, a los jueces, a que contemplen la posibilidad de que esto se est&aacute; haciendo por un tema de salud.</p>
+
+<p>S&eacute; que hay personas que pensar&iacute;an que esta situaci&oacute;n es un tema de autoritarismo, pero no creo que se relacione con esta palabra, que suena fuerte, pero cuando se pierden muchas vidas&hellip;. Tambi&eacute;n hoy en d&iacute;a se conoce, o bueno, ya se conoce desde hace mucho que el cigarrillo comienza a debilitar la piel, a las personas les cuesta mucho trabajo subir de peso por esta situaci&oacute;n que viven con esta adicci&oacute;n a la nicotina.</p>
+
+<p>Tambi&eacute;n otra de las circunstancias es que es una de las principales promotoras de la enfermedad de ateroesclerosis, que lo que hace es que las arterias comienzan a endurecerse y esto impide que el flujo sangu&iacute;neo contin&uacute;e, se hacen una especie de charcos, se empiezan a producir los peque&ntilde;os c&uacute;mulos de sangre y estos se pueden separar por la potencia y la urgencia que tiene el organismo de llevar sangre al m&uacute;sculo cardiaco y entonces puede sobrevenir un infarto en el cerebro o en el coraz&oacute;n por este coagulo desprendido.</p>
+
+<p>Entonces, quisiera conocer, si me lo permite, se&ntilde;or presidente, en dos partes: ahora que tuviera la oportunidad de tener a la gente aqu&iacute; de salud, conocer la postura que tienen ellos, si van a comenzar a trav&eacute;s del doctor&nbsp;Svarch, de Cofepris, a hacer esta verificaci&oacute;n; y, por supuesto, me gustar&iacute;a conocer su opini&oacute;n al respecto. Esa ser&iacute;a mi primera pregunta.&nbsp;</p>
+
+<p>Gracias.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Bueno, pues yo creo que con tu exposici&oacute;n tan clara ya no hay m&aacute;s que decir.</p>
+
+<p>Te felicito, te felicitamos por lo que est&aacute;s haciendo, la manera tan profesional como expones este asunto y el mensaje para sensibilizar a jueces de que no otorguen estos amparos y que tomen en cuenta, como siempre lo hemos dicho, la salud del pueblo;&nbsp;que,&nbsp;por encima de lo mercantil, de lo lucrativo, se tiene que cuidar la salud de los mexicanos, eso es actuar como buenos jueces.</p>
+
+<p>Con la exposici&oacute;n que hiciste ya no hay nada que decir. De todas formas, le vamos a pedir al doctor Alcocer, al doctor L&oacute;pez-Gatell, que traigan para la pr&oacute;xima,&nbsp;informaci&oacute;n, que se da los martes, algo relacionado con lo que est&aacute;s proponiendo t&uacute;, con lo que expusiste, se lo dejamos a ellos para que traigan una respuesta.&nbsp;</p>
+
+<p>INTERLOCUTORA:&nbsp;Y un dato adicional. Un ciclo de quimioterapia, es decir, un tratamiento que equivale a 28 d&iacute;as de una persona que vive hoy con c&aacute;ncer en el pulm&oacute;n pudiera llegar a costar hasta 300 mil pesos.</p>
+
+<p>Entonces, son recursos que se pudieran estar destinando a otras &aacute;reas de la salud que no se han dejado de estimular a estos pacientes, pero que desafortunadamente la industria tabacalera no alcanza a percibir todav&iacute;a el da&ntilde;o tan grave y severo.</p>
+
+<p>Y el exhibir estos productos no est&aacute; dise&ntilde;ado al p&uacute;blico ya cautivo, est&aacute;n dise&ntilde;ando a los nuevos, a los que no conocen, a los que quieren innovar en este tema; entonces, por eso es tan importante que no se exhiban y por eso esta ley, porque se est&aacute; pensando en estas nuevas generaciones, se&ntilde;or presidente.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;S&iacute;, vamos a procurar que se cumpla con la ley y que los jueces no otorguen estos amparos.&nbsp;</p>
+
+<p>Y tambi&eacute;n un llamado a los empresarios, porque pueden ellos contribuir bastante. Un buen empresario&nbsp;tiene que tenerdimensi&oacute;n social, c&iacute;vica, no estar pensando nada m&aacute;s en el lucro.</p>
+
+<p>Entonces, ah&iacute; queda eso. Si te parece, en la pr&oacute;xima exposici&oacute;n de los encargados del sector&nbsp;Salud dan respuesta a tuplanteamiento, y felicidades.</p>
+
+<p>INTERLOCUTORA:&nbsp;Gracias, se&ntilde;or presidente.&nbsp;</p>
+
+<p>Y en una segunda pregunta, justamente con el tema del fentanilo en la pasada Cumbre de L&iacute;deres de Am&eacute;rica del Norte, el presidente Joe&nbsp;Biden&nbsp;dec&iacute;a que mueren alrededor de 100 mil norteamericanos por el abuso y consumo de esta sustancia.</p>
+
+<p>La semana pasada estuvo con usted Elizabeth Sherwood-Randall, ella, la asesora de Seguridad de la Casa Blanca, justamente con quien platic&oacute; de fentanilo y el tema de las armas. Me gustar&iacute;a conocer si llegaron a alg&uacute;n tipo de acuerdos, cu&aacute;les son detalladamente, de ser posible, dado que en semanas anteriores tuve la oportunidad de platicar con la doctora Evalinda Barr&oacute;n, ella es la directora general de la Comisi&oacute;n Nacional contra las Adicciones, la&nbsp;Conadic, y ella me dec&iacute;a que, efectivamente, el mexicano consume fentanilo, pero no es un tema de seguridad nacional ni tampoco que sea tan importante, sino que no es meritorio, pero el consumo del fentanilo en el mexicano no es una prioridad, m&aacute;s sin embargo, el cristal s&iacute;.</p>
+
+<p>En ese tenor quisiera conocer, si me puede apoyar en esto, cu&aacute;les fueron los acuerdos a los que llegaron.</p>
+
+<p>Esa ser&iacute;a mi segunda pregunta. Gracias.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Se acord&oacute; seguir trabajando de manera conjunta, ayudando a que no llegue el fentanilo por nuestra frontera a Estados Unidos, y lo estamos haciendo;&nbsp;existe un plan con ese prop&oacute;sito de cooperaci&oacute;n. Sin embargo, lo que gener&oacute; la discrepancia de los &uacute;ltimos tiempos es que quisieron, con prop&oacute;sitos politiqueros, algunos legisladores republicanos, culpar a M&eacute;xico, incluso amenazar con intervenir con el ej&eacute;rcito estadounidense.&nbsp;</p>
+
+<p>Muy ofensivo y muy hip&oacute;crita, porque este es un asunto de las dos naciones, de los dos pueblos, de los dos gobiernos;&nbsp;no es culpar al vecino, es ver la paja en el ojo ajeno y no la viga en el propio.</p>
+
+<p>Entonces, por eso estamos planteando: A ver, &iquest;qu&eacute; hacen ustedes? &iquest;Qu&eacute; es lo que ustedes hacen? &iquest;C&oacute;mo combaten a los narcotraficantes, distribuidores de droga en Estados Unidos? Porque no sabemos nada sobre eso.&nbsp;&iquest;Cu&aacute;nto decomisan?</p>
+
+<p>Lo m&aacute;s importante, &iquest;qu&eacute; est&aacute;n haciendo para que los j&oacute;venes no decidan, no opten por la droga?, &iquest;c&oacute;mo est&aacute; el plan educativo, la difusi&oacute;n del da&ntilde;o que causan las drogas? &iquest;Qu&eacute; est&aacute;n haciendo los medios masivos de informaci&oacute;n para ayudar a que los j&oacute;venes no se inclinen por las drogas?&nbsp;Pero adem&aacute;s &iquest;qu&eacute; est&aacute;n haciendo las autoridades? &iquest;La DEA qu&eacute; hace?</p>
+
+<p>&iquest;Por qu&eacute; un agente de la DEA en M&eacute;xico, el jefe de la DEA en M&eacute;xico, se vincul&oacute; con narcotraficantes mexicanos y lo &uacute;nico que hicieron fue destituirlo? Y pas&oacute; de noche la noticia, estoy seguro que las televisoras de Estados Unidos ni se dijo nada. Esto no es de manique&iacute;smo, no es de buenos y malos, es una forma muy simplista, ramplona, superficial de ver un problema.</p>
+
+<p>Entonces, hablamos de que tenemos que continuar con la cooperaci&oacute;n, que lo vamos a hacer, pero tambi&eacute;n, y esto es para todos los mexicanos, nosotros tenemos tres prioridades para enfrentar el problema de la inseguridad y de la violencia:</p>
+
+<p>Primero, atender las causas, es decir, que en M&eacute;xico los j&oacute;venes no tomen el camino de las conductas antisociales y para eso es que estamos destinando recursos a&nbsp;Programas de Bienestar. Que haya trabajo, que los salarios sean justos, que se atienda a los j&oacute;venes, que se garantice el derecho a la educaci&oacute;n, a la salud, que se combata a la pobreza, que se fortalezcan valores culturales, morales, espirituales, porque si algo nos ha salvado frente a todas las calamidades han sido nuestras culturas, las ra&iacute;ces profundas que tenemos en lo cultural en M&eacute;xico.&nbsp;</p>
+
+<p>Porque este pa&iacute;s se fund&oacute; hace miles de a&ntilde;os y nuestros antepasados nos dejaron una herencia de costumbres, de tradiciones, de h&aacute;bitos buenos. Uno de esos h&aacute;bitos buenos es la fraternidad en nuestras familias, por eso tenemos que evitar la desintegraci&oacute;n de las familias.</p>
+
+<p>Entonces, eso es lo primero, que los delincuentes no se lleven a los j&oacute;venes, que no los enganchen, y por eso las becas a los j&oacute;venes y por eso J&oacute;venes Construyendo el Futuro, eso es lo primero.</p>
+
+<p>Lo segundo, a partir de atender las causas, que reforcemos nuestras costumbres, nuestras tradiciones para que no aumente el consumo de drogas en el pa&iacute;s. Porque una cosa es el narcotr&aacute;fico y otra cosa es el consumo. Y, en efecto, nosotros no tenemos aqu&iacute; un consumo elevado de fentanilo, s&iacute; cristal, pero tambi&eacute;n muy localizado.</p>
+
+<p>&iquest;Y por qu&eacute; no hay tanto consumo de droga? &iquest;Por qu&eacute; no crece tanto el consumo de droga? &iquest;Por lo que hace el gobierno? No, por nuestras tradiciones, por lo que hacen nuestras familias, por la manera&nbsp;como somos los mexicanos, no hay una actitud, una afici&oacute;n hacia las drogas, no, son ciertos lugares que los tenemos muy claros.</p>
+
+<p>Y ah&iacute; viene lo tercero. O sea, primero, no permitir el aumento en el consumo, porque si nos aumenta el consumo nos aumenta la violencia, nos aumentan los homicidios, por eso lo tercero es reducir el n&uacute;mero de homicidios.</p>
+
+<p>El caso Guanajuato, ah&iacute; hay m&aacute;s consumo, m&aacute;s narcomenudeo, por alguna raz&oacute;n ah&iacute; se extendi&oacute; el consumo y ah&iacute; las bandas se enfrentan por el mercado interno, por la venta de la droga, ah&iacute;. Y por eso los homicidios, 70 por ciento de los asesinatos en Guanajuato est&aacute;n vinculados con el narcomenudeo, se enfrentan las bandas.</p>
+
+<p>Bueno, hay menos homicidios en Sinaloa, en Tamaulipas que en Guanajuato;&nbsp;inclusive menos homicidios en Jalisco. Donde est&aacute;n las sedes de las organizaciones, si no hay consumo, hay menos homicidios.</p>
+
+<p>Entonces, recapitulando, primero, atender las causas; segundo, que no permitamos que aumente el consumo, y ah&iacute; tenemos que hacer uso de todo, apoyar a los j&oacute;venes, mucha difusi&oacute;n, que es lo que estamos haciendo, del da&ntilde;o que causan las drogas, o sea, que no nos aumente, porque si nos aumenta el consumo interno nos aumenta el n&uacute;mero de homicidios. Desgraciadamente,&nbsp;la p&eacute;rdida de vidas humanas, aun cuando se trata de homicidios entre las mismas bandas,&nbsp;son seres humanos. No queremos eso. Entonces eso es lo tercero.</p>
+
+<p>Claro, esto va acompa&ntilde;ado de no permitir la corrupci&oacute;n ni la impunidad. Nada de venta de plazas, nada de Garc&iacute;a Lunas, no aceptar un&nbsp;narco-Estado, como existi&oacute;.</p>
+
+<p>Y tambi&eacute;n cooperar con Estados Unidos, cooperar con Estados Unidos para que no entre droga por la frontera de M&eacute;xico a Estados Unidos. Pero que no se malinterprete, que no quieran que eso sea lo primero, no, vamos a seguir cooperando y apoyando por cuestiones humanitarias, por solidaridad, pero no vamos a ser nosotros sus empleados y nos van a venir a decir: &lsquo;Te vas a dedicar &uacute;nicamente a esto&rsquo;. No, nosotros somos libres, soberanos, tenemos nuestra estrategia.</p>
+
+<p>Antes, y ese fue el error de Calder&oacute;n, que les abri&oacute; la puerta y puso al gobierno al servicio de las agencias, ellos mandaban. Y entregaban helic&oacute;pteros artillados con el Plan M&eacute;rida y se tomaban la foto con la entrega de armamentos los embajadores. Bueno, hay una foto ah&iacute; de Garc&iacute;a Luna con la se&ntilde;ora, con todo respeto, la se&ntilde;ora Clinton, porque era eso.</p>
+
+<p>Y es un poco lo que ellos plantean. Ah, &lsquo;cooperaci&oacute;n&rsquo;, bueno, hasta el del PAN dice: &lsquo;Aliniense&nbsp;a la DEA, convi&eacute;rtanse en polic&iacute;as del gobierno estadounidense&rsquo;. Si a nosotros nos eligen en M&eacute;xico para proteger a los mexicanos, para cuidar a los mexicanos, y desde luego en el concierto de las naciones tenemos que ayudarnos mutuamente, pero no someternos, y menos a estrategias fallidas.</p>
+
+<p>&iexcl;C&oacute;mo le vamos a dejar a la DEA el manejo de la seguridad en M&eacute;xico, si han demostrado que no pueden! &iquest;O ha habido buenos resultados en Estados Unidos en cuanto al combate a la droga? No. Y nosotros s&iacute; vamos avanzando, y estamos reduciendo el n&uacute;mero de homicidios y estamos atendiendo a los j&oacute;venes.&nbsp;</p>
+
+<p>Entonces, tu pregunta es muy buena porque ayuda a entender m&aacute;s cu&aacute;l es el papel de nuestro gobierno. Vamos a seguir ayudando, cooperando con Estados Unidos, pero no subordinados.</p>
+
+<p>Lo otro,&nbsp;el manejo de las armas o el contrabando de armas. Ayer el presidente&nbsp;Biden&nbsp;emiti&oacute; una resoluci&oacute;n, un decreto, para un mejor control en la venta de armas, algo que celebro, y qu&eacute; bueno que hizo, que llev&oacute; a cabo esta acci&oacute;n.</p>
+
+<p>Porque, &iquest;de d&oacute;nde vienen las armas que utilizan los narcotraficantes en M&eacute;xico?&nbsp;Pues de Estados Unidos, y all&aacute; las compran sin ning&uacute;n control, es un gran negocio, y tambi&eacute;n para Estados Unidos.</p>
+
+<p>&iquest;Por qu&eacute; no controlan, sobre todo, la venta de armas de alto poder? &iquest;Qu&eacute; hacen con eso?</p>
+
+<p>El 80 por ciento de las armas que utilizan aqu&iacute; las organizaciones criminales, las de alto poder, vienen de Estados Unidos y no hay control, pueden comprar una ametralladora en un supermercado, en una armer&iacute;a.</p>
+
+<p>Entonces, es interesante el tema, qu&eacute; bueno que se est&aacute; ventilando, porque antes las autoridades mexicanas se quedaban calladas, no dec&iacute;an nada; al contrario.</p>
+
+<p>Con Calder&oacute;n se hizo ese acuerdo del operativo R&aacute;pido y Furioso para meter armas a M&eacute;xico, supuestamente para detectar d&oacute;nde estaban las bandas. Imag&iacute;nense si no lo sab&iacute;a Garc&iacute;a Luna d&oacute;nde estaban las bandas si,&nbsp;de acuerdo a&nbsp;los testimonios, conviv&iacute;a con ellos. Entonces, el operativo fue meter armas supuestamente de contrabando con sensores para que monitorearan esas armas y encontraran d&oacute;nde estaban las bandas.</p>
+
+<p>&iquest;Qu&eacute; pas&oacute;?</p>
+
+<p>Pues les quitaron los sensores y las usaron para sus actividades il&iacute;citas, y con esas armas le quitaron la vida a mexicanos y a estadounidenses. Se hizo la investigaci&oacute;n y de repente,carpetazo all&aacute;, en Estados Unidos, y aqu&iacute; lo mismo, negando, no se sab&iacute;a, cuando fue un acuerdo entre gobiernos.</p>
+
+<p>Entonces, es interesante que todo esto lo conozca la gente, que adem&aacute;s ya lo saben los mexicanos, hace falta m&aacute;s informaci&oacute;n en Estados Unidos. Por eso lo de Marcelo fue muy bueno, porque manipulan mucho en Estados Unidos.&nbsp;</p>
+
+<p>Entonces, esto que estamos tratando se desconoce en Estados Unidos, pero ahora f&iacute;jense que la ma&ntilde;anera la ven much&iacute;simos paisanos en Estados Unidos, millones.</p>
+
+<p>Muy bien.&nbsp;</p>
+
+<p>INTERLOCUTORA:&nbsp;Finalmente, se&ntilde;or presidente, en el tema del Tren Maya quisiera conocer si en la zona de Calakmul&hellip; Se conoce actualmente s&oacute;lo una pir&aacute;mide porque es muy extenso, pero cuando uno est&aacute; en la cima de la pir&aacute;mide el gu&iacute;a siempre nos dice que ese horizonte que se ve es la frontera con Guatemala y ah&iacute; es un vestigio muy interesante en materia cultural que une a estas dos naciones.</p>
+
+<p>Yo quisiera conocer si se est&aacute; pensando en ampliar o hacer algo para que los mexicanos tuvi&eacute;ramos oportunidad de llegar hasta all&aacute; y conocer esta zona. Esa ser&iacute;a mi &uacute;ltima pregunta.</p>
+
+<p>Gracias.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Es muy buena pregunta, porque tiene que ver con nuestro pasado, con el florecimiento de la cultura maya, de lo que hablamos de nuestro pasado grandioso por las civilizaciones que florecieron en M&eacute;xico, esto ayuda mucho tambi&eacute;n.&nbsp;Aclarar&nbsp;de que no fueron los europeos los que nos trajeron la civilizaci&oacute;n o nos civilizaron. No, M&eacute;xico viene de lejos, de miles de a&ntilde;os.</p>
+
+<p>&iquest;Por qu&eacute; no pones el plano, por favor, Jes&uacute;s, del tren? Que es muy interesante esto.</p>
+
+<p>Los europeos nos invaden hace 500 a&ntilde;os, incluso Tenochtitl&aacute;n se funda hace 700 a&ntilde;os, pero Calakmul se funda en el siglo VI, hace 14 siglos, mil 400 a&ntilde;os. O sea, Tenochtitl&aacute;n 700 y Calakmul mil 600&hellip;&nbsp;No, mil 400 a&ntilde;os, siglo VI, mil 200 a&ntilde;os. No, mil 400, porque es del siglo VI de nuestra era, para 2000 son mil 400 a&ntilde;os, y Tenochtitlan se funda 700 a&ntilde;os, o sea, que Calakmul se funda en el siglo VI, pero en lo que es el periodo cl&aacute;sico maya; sin embargo, Calakmul ya hab&iacute;a sido habitado tres siglos antes de nuestra era. O sea que a esos mil 400 hay que sumarle 900, estar&iacute;amos hablando de dos mil 300 a&ntilde;os de la existencia de Calakmul.</p>
+
+<p>&iquest;Por qu&eacute; no pones la pintura de 300 antes de Cristo de Calakmul?, que son dos mil 300 a&ntilde;os. Esto es de hace dos mil 300 a&ntilde;os. Pon&nbsp;La mujer del vestido transparente. Miren eso, la belleza, el arte, dos mil 300 a&ntilde;os.</p>
+
+<p>Regresando, los europeos, que nos traen la civilizaci&oacute;n, que nos civilizaron, seg&uacute;n la historia oficial y occidental y&nbsp;colonizante, 500 a&ntilde;os, y esto dos mil 300 a&ntilde;os lleva.</p>
+
+<p>Porque este sitio cuando se termine el tren se va a abrir. Claro, va a ser con reservaci&oacute;n, que lo vamos a cuidar, no va a ser as&iacute; de entrada masiva, desde luego para todos, nada de exclusividades, pero lo tenemos que cuidar.</p>
+
+<p>Esto es un templo que cubrieron con las nuevas, entre comillas, pir&aacute;mides, donde estuviste, que son del siglo VI de nuestra era, est&aacute; abajo. Yo entr&eacute; y hay mascarones con estuco y estos murales. Esto es una joya, esto no lo tienen en otra parte, esto es arte, miren todo esto, eso es lo que est&aacute; ah&iacute;. Lo cubrieron, lo cuidaron, lo protegieron.</p>
+
+<p>Esto pasa tambi&eacute;n en Teotihuacan, Teotihuac&aacute;n, como se le quiera decir, tambi&eacute;n debajo del Templo del Sol, de la Luna, hay vestigios de culturas anteriores, de civilizaciones anteriores.&nbsp;</p>
+
+<p>Dec&iacute;a un historiador, arque&oacute;logo cuando le preguntaron: &lsquo;&iquest;Oiga, y cu&aacute;ntos sitios arqueol&oacute;gicos hay en M&eacute;xico? Y contest&oacute;: &lsquo;Uno&rsquo;. &lsquo;&iquest;C&oacute;mo?&rsquo; &lsquo;S&iacute;, M&eacute;xico&rsquo;. Es que todo estaba poblado, todo estaba poblado.</p>
+
+<p>A ver, &iquest;por qu&eacute; no pones el mapa de nuevo? Ten&iacute;amos, por cuestiones de los l&iacute;mites, que desde luego no exist&iacute;an&hellip; Este es el l&iacute;mite de M&eacute;xico con Guatemala y aqu&iacute; est&aacute; Belice, son los l&iacute;mites, pero esto no exist&iacute;a, la naci&oacute;n maya, se desarrolla pues Honduras, Guatemala, Campeche y la pen&iacute;nsula, as&iacute;.</p>
+
+<p>Entonces, &iquest;qu&eacute; nos est&aacute; pasando? Y qu&eacute; interesante lo del trabajo exploratorio que se est&aacute; haciendo con el Tren Maya, que cuando liberamos todo este tramo, con el derecho de v&iacute;a y brincando todos los obst&aacute;culos de los&nbsp;seudoambientalistas&nbsp;y nuestros adversarios&hellip;&nbsp;Estos son cuatro tramos, este es uno, que est&aacute; a cargo de la empresa Mota-Engil; de aqu&iacute; de Esc&aacute;rcega est&aacute; Carso hasta Calkin&iacute;, es otro tramo; aqu&iacute; est&aacute; INDI, que es otra empresa, hasta Izamal, y de aqu&iacute; hasta Canc&uacute;n est&aacute; ICA.</p>
+
+<p>Entonces, nos dividimos los tramos las secretar&iacute;as de Bienestar, de Medio Ambiente, todos los secretarios, secretarias, est&aacute;n all&aacute; metidos ayudando. Y result&oacute; que le ped&iacute; al director de Antropolog&iacute;a e Historia, Diego Prieto, que nos ayudara en este tramo, de Calkin&iacute; a Izamal, pasando por M&eacute;rida, pensando que aqu&iacute; &iacute;bamos a encontrar el mayor n&uacute;mero de vestigios arqueol&oacute;gicos. Y s&iacute;, encontramos como tres mil vestigios y se recuperaron, ya est&aacute;n en un museo en M&eacute;rida y se est&aacute; trabajando para restaurarlos y van a ser exhibidas las piezas, como estamos recuperando todo.</p>
+
+<p>Bueno, pero pens&aacute;bamos que aqu&iacute;, pero, sorpresa, este tramo&hellip; Aqu&iacute; est&aacute; Calakmul, aqu&iacute; es donde estuviste, por aqu&iacute;. De aqu&iacute; a Esc&aacute;rcega, que tiene que ver con los l&iacute;mites de Guatemala, 10 mil vestigios. Tuvimos que hacer 21 cambios de trazo. Completamente poblado toda esta zona de los antiguos mayas, m&aacute;s que la pen&iacute;nsula.</p>
+
+<p>Entonces, tu pregunta es&hellip; Cuando se empez&oacute; a concebir lo de la ruta dijimos&hellip; Y se lo propuse al presidente de Guatemala, y &eacute;l ten&iacute;a disposici&oacute;n, pero intervinieron otros factores, porque lo que le plante&eacute; es&hellip; Aqu&iacute; es El Triunfo, es Tabasco, y aqu&iacute; empieza el l&iacute;mite, y es la l&iacute;nea divisoria y es recta.</p>
+
+<p>Entonces, dijimos: V&aacute;monos, en vez de venirnos ac&aacute;, aqu&iacute; en esta, vamos a agarrar aqu&iacute; toda la l&iacute;nea y ya subimos para llegar a Calakmul por atr&aacute;s. Porque aqu&iacute;, del lado de Guatemala, en l&iacute;nea recta est&aacute; un sitio arqueol&oacute;gico que se llama El Mirador, que es espl&eacute;ndido, igual que Calakmul. Y en l&iacute;nea recta est&aacute; Tikal y aqu&iacute; est&aacute; Flores.</p>
+
+<p>Entonces, a Guatemala le conven&iacute;a, si ya &iacute;bamos a hacer nosotros aqu&iacute; esto, una parada aqu&iacute; exactamente en el mirador que est&aacute; a tres, cuatro kil&oacute;metros de la l&iacute;nea, y luego ellos pod&iacute;an hacer un sendero cuidando, porque es zona de reserva, pero para comunicar Tikal, como se comunicaban antes los sitios arqueol&oacute;gicos, Tikal, El Mirador y Calakmul.</p>
+
+<p>Pero resulta que se tuvo un problema de l&iacute;mites con Guatemala en la &eacute;poca de Porfirio D&iacute;az y hubo incluso hasta un arbitraje internacional, y se defini&oacute; ya esto, esta frontera y esta otra, que esta era la del conflicto, sobre todo por los madereros, por los que se dedicaban a las llamadas monter&iacute;as, que explotaban la caoba y se met&iacute;an de Chiapas a Guatemala por la Lacandona, y hubo un problema de l&iacute;mites, incluso estuvimos a punto de que se declarara una guerra, la &uacute;nica guerra por Guatemala, por eso. Entonces, qued&oacute; en Guatemala, aun cuando en organismos internacionales se le dio la raz&oacute;n a M&eacute;xico. Y ya est&aacute; resuelto y estas mojoneras, estos l&iacute;mites con mojoneras ya est&aacute;n definidos.&nbsp;</p>
+
+<p>Cuando le plante&eacute; al presidente&nbsp;&mdash;a nosotros nos conven&iacute;a porque aqu&iacute; es un derecho de v&iacute;a&mdash; cuando se lo plante&eacute;, dice: &lsquo;D&eacute;jeme que yo lo analice&rsquo;, y no quiso despu&eacute;s. O sea, le iba a generar problemas, ya ven, en todos lados hay opositores, adversarios, y lo iban a acusar de estar aceptando los antiguos l&iacute;mites, &iquest;no?, y por eso no se hizo. Pero aqu&iacute; se est&aacute; haciendo.&nbsp;</p>
+
+<p>Les cuento que para resolver aqu&iacute; tenemos como 150 arque&oacute;logos y tenemos brigadas.&nbsp;</p>
+
+<p>Tenemos de aqu&iacute; a ac&aacute; siete subtramos, el primer subtramo est&aacute; a cargo de la gobernadora Mara Lezama, de Quintana Roo; y otro subtramo de la gobernadora Layda Sansores, ac&aacute;; y en medio, los cinco subtramos, dos subsecretarias, Ariadna Montiel y Mar&iacute;a Luisa Albores, y tres subsecretarios, m&aacute;s ingenieros militares, oficiales de la Defensa y arque&oacute;logos, que son los que est&aacute;n llevando a cabo todos los trabajos de libramiento; aun cuando ya cambi&oacute; el trazo,&nbsp;de todas maneras estamos rescatando vestigios arqueol&oacute;gicos.&nbsp;</p>
+
+<p>Pero tu pregunta es muy importante porque el desarrollo de la gran cultura maya se da en todo Centroam&eacute;rica, no hab&iacute;a los l&iacute;mites territoriales que hay ahora.&nbsp;</p>
+
+<p>INTERVENCI&Oacute;N:&nbsp;&iquest;Cu&aacute;ndo venden los boletos para la inauguraci&oacute;n, presidente?</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Todav&iacute;a estamos en eso, pero ya vamos avanzando.</p>
+
+<p>S&iacute; les garantizo que es la obra m&aacute;s importante que se est&aacute; construyendo en el mundo. En el mundo no hay una obra as&iacute;, porque son mil 554 kil&oacute;metros, es como de Canc&uacute;n a la Ciudad de M&eacute;xico en l&iacute;nea recta. Y de M&eacute;rida a Chetumal es doble v&iacute;a electrificada y en el resto es di&eacute;sel de bajo azufre, no contaminante, que es el que se va a distribuir ya en toda la pen&iacute;nsula y en el sureste.</p>
+
+<p>Esto es el futuro del sureste, es lo que le va a permitir a los pobladores de cinco estados sus ingresos a futuro, las nuevas generaciones, porque aqu&iacute; est&aacute;n llegando 30 millones de turistas y con el tren van a bajar, se van a internar, y por ac&aacute; tambi&eacute;n. Hay pa&iacute;ses en Europa que viven del turismo.</p>
+
+<p>Entonces, el tren es el m&aacute;s grande en ecolog&iacute;a, estamos hablando de las reservas de flora, de fauna, m&aacute;s importante de M&eacute;xico y de las m&aacute;s importantes del mundo, que es selva tropical. Es turismo y es arqueolog&iacute;a.</p>
+
+<p>Dicen los especialistas en turismo: &lsquo;Tren tem&aacute;tico&rsquo;. No es as&iacute;, pero es muy integral. Y si de esos 30 millones logramos que el 10 por ciento utilice el tren ya le damos vida, porque tenemos que preocuparnos por las culturas prehisp&aacute;nicas, por los antiguos pobladores de esta regi&oacute;n, pero tambi&eacute;n por los actuales pobladores.</p>
+
+<p>Entonces, cuando se hacen consultas &mdash;eso no lo saben los&nbsp;seudoambientalistas, &iquest;no?&mdash;,&nbsp;cuando se hacen consultas o encuestas, la mayor&iacute;a est&aacute; a favor porque se sienten orgullosos.</p>
+
+<p>Primero, es la recuperaci&oacute;n de un pasado glorioso, de arte, de cultura y, luego, son ingresos para una zona que ha estado abandonada por mucho tiempo.</p>
+
+<p>F&iacute;jense, estamos haciendo, entre otras cosas&hellip; Aqu&iacute; no hab&iacute;a agua, apenas se hab&iacute;a introducido un acueducto muy deficiente; ahora estamos haciendo un acueducto desde aqu&iacute; a ac&aacute;, es una inversi&oacute;n como de dos mil 500 millones de pesos, nunca les va a faltar ya el agua.</p>
+
+<p>Todo esto est&aacute; poblado de los a&ntilde;os 60 a la fecha. O sea, despu&eacute;s del florecimiento de la cultura maya todo esto qued&oacute;, incluso todo esto, Quintana Roo, abandonado.</p>
+
+<p>Quintana Roo ten&iacute;a en el porfiriato 14 mil habitantes, era una c&aacute;rcel, era la Siberia tropical, aqu&iacute; estuvieron presos los dirigentes de la huelga de R&iacute;o Blanco, en Veracruz.&nbsp;</p>
+
+<p>Aqu&iacute; nada m&aacute;s estaban los ind&iacute;genas mayas defendiendo sus tierras.&nbsp;</p>
+
+<p>Aqu&iacute; se llev&oacute; a cabo una gran represi&oacute;n, aqu&iacute; estuvo Huerta antes de su felon&iacute;a, antes de ordenar el asesinato de Madero, quemando pueblos. Este, Akumal, lo quem&oacute; Huerta.</p>
+
+<p>F&iacute;jense las vueltas que da la vida, esto es ahora El Para&iacute;so, son las zonas m&aacute;s bellas.</p>
+
+<p>Esta isla se la hab&iacute;a entregado Porfirio D&iacute;az al hermano de Justo Sierra. Y tambi&eacute;n todo lo que es esto, Chetumal, el hijo de Bernardo Reyes era el due&ntilde;o tambi&eacute;n. Pero ni siquiera ocupaban las tierras, eran campamentos chicleros, pero estaban en el abandono.</p>
+
+<p>A partir de los a&ntilde;os 60, 70, empiezan a llegar colonos de todo M&eacute;xico, de Michoac&aacute;n. Les empiezan a dar tierras aqu&iacute;, todo esto, Campeche, Quintana Roo. Aqu&iacute; hay de Michoac&aacute;n, del Estado de M&eacute;xico, de Guerrero, de Jalisco, de Veracruz, de Chiapas. Aqu&iacute; vino a trabajar, porque le dieron tierra, mi abuelo, que era campesino;&nbsp;est&aacute; enterrado aqu&iacute; en un ejido que se llama Constituci&oacute;n.</p>
+
+<p>Pero eran tierras muy dif&iacute;ciles de trabajar por falta de agua, y se fueron poblando, son tierras de colonos. Bueno, todo, pues Canc&uacute;n empieza a darse a conocer a principios de los 70, empieza el proyecto de construcci&oacute;n de los hoteles en Canc&uacute;n, en los 70 del siglo pasado.</p>
+
+<p>Entonces, es un proyecto para el futuro.</p>
+
+<p>Adelante y adelante.</p>
+
+<p>PREGUNTA:&nbsp;Buenos d&iacute;as, presidente.</p>
+
+<p>Carlos Dom&iacute;nguez, de&nbsp;Naci&oacute;n 14.</p>
+
+<p>Preguntarle qu&eacute; est&aacute; pasando en la refiner&iacute;a de&nbsp;Deer&nbsp;Park, de Pemex, en Houston, presidente. Ayer llam&oacute; mucha la atenci&oacute;n en redes sociales un incendio al interior de la refiner&iacute;a, y tambi&eacute;n hace tres semanas. Si tiene informaci&oacute;n al respecto, presidente.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;No tengo informaci&oacute;n. Seguramente pudo haber habido un accidente, pero la refiner&iacute;a est&aacute; operando bien, tiene una capacidad productiva de arriba del 80 por ciento, procesa 340 mil barriles diarios de crudo y tiene 80, un poco m&aacute;s de su capacidad, est&aacute; bien, incluso con utilidades. Puede ser que haya sucedido alg&uacute;n accidente ayer, pero tienen un programa de mantenimiento muy estricto. Se quedaron todos los trabajadores, todo el personal administrativo, porque lo han hecho muy bien.&nbsp;</p>
+
+<p>INTERLOCUTOR:&nbsp;Bueno, hay videos de este incendio.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;S&iacute;, puede ser, pero yo no los he visto y no me lo reportaron. Posiblemente no haya sido una cosa grave porque, si no, s&iacute; me hubiesen dicho.</p>
+
+<p>INTERLOCUTOR:&nbsp;Okey.</p>
+
+<p>Retomar un tema, presidente, que traje hace dos semanas. Me permito leer para no omitir ning&uacute;n detalle. Tuve la oportunidad de aqu&iacute; reproducirle un audio que forma parte de un video que circula desde hace tres a&ntilde;os en redes sociales en el cual un&nbsp;seudodefensor&nbsp;de derechos humanos, de nombre Raymundo Ramos, de Nuevo Laredo, pues habla por tel&eacute;fono con el l&iacute;der criminal de un c&aacute;rtel.</p>
+
+<p>Este tipo es muy conocido en Nuevo Laredo como un &lsquo;halc&oacute;n&rsquo; m&aacute;s, presidente, del c&aacute;rtel del Noreste y tambi&eacute;n repudiado por la ciudadan&iacute;a, pues su reputaci&oacute;n en la frontera es tan baja como su calidad moral, ya que lucrar con la bandera de los derechos humanos para una ciudad violentada como Nuevo Laredo es del desagrado de toda la ciudadan&iacute;a, pues jam&aacute;s ha defendido a una v&iacute;ctima leg&iacute;tima.</p>
+
+<p>Despu&eacute;s de reproducirle aqu&iacute; el audio que comprueba que esta persona defiende a delincuentes, muchos espacios informativos, de los denominados de cobertura nacional le abrieron espacios para tratar de limpiar el honor que nunca ha tenido y para que acusara que mi posicionamiento hab&iacute;a sido sembrado por su equipo de Comunicaci&oacute;n Social, lo que, de una vez aclaro, es una mentira.</p>
+
+<p>Pero no conforme con eso, la semana pasada vino aqu&iacute; una representante de un medio de comunicaci&oacute;n en evidente decadencia a tratar de acusar a su gobierno de espiar a quien calific&oacute; como un inocente civil, cuando se trata de un delincuente que opera para un c&aacute;rtel criminal. Y est&aacute; comprobado, preg&uacute;ntele a los tamaulipecos, preg&uacute;ntele a los de Nuevo Laredo, que lo conocemos muy bien y estamos hartos de &eacute;l, presidente.&nbsp;</p>
+
+<p>Por eso, en esta ocasi&oacute;n, se&ntilde;or presidente, me gustar&iacute;a volver a presentarle m&aacute;s informaci&oacute;n que refuerza esta narrativa de que este supuesto civil no es un ciudadano honorable al que en alg&uacute;n momento y por alg&uacute;n motivo se le dio alg&uacute;n seguimiento de inteligencia que ayudara a combatir al c&aacute;rtel para el que trabaja y cuya evidencia de su operaci&oacute;n criminal abunda en las redes sociales, incluso desde antes que comenzara su administraci&oacute;n en diciembre de 2018.</p>
+
+<p>Ahora, me gustar&iacute;a hacer esto para aprovechar este gran espacio que usted tiene, presidente, para que tanto&nbsp;Art&iacute;culo 19, como Carmen Aristegui, Azucena Uresti, L&oacute;pez-D&oacute;riga, Ciro G&oacute;mez Leyva y quienes la semana pasada aqu&iacute; lo calificaron de un civil y lo defendieron, y a la vez tambi&eacute;n a los intereses de un c&aacute;rtel de la droga, para ver si entienden el da&ntilde;o que le hacen a Tamaulipas y a M&eacute;xico al impulsar las campa&ntilde;as medi&aacute;ticas de este tipo en contra de nuestras honorables Fuerzas Armadas.</p>
+
+<p>Aprovechar para preguntarle cu&aacute;l es el mensaje que se le est&aacute; dando a quienes conforman las filas de las Fuerzas Armadas y a quienes en el futuro desean formar parte de ellas, cuando un delincuente de tan baja calidad moral, utilizando recursos econ&oacute;micos del crimen, los puede humillar, desacreditar y calumniar en complicidad con medios de comunicaci&oacute;n, que lo &uacute;nico que buscan es volver a sus privilegios, y al hacer mancuernas con criminales como Raymundo Ramos, logran que sus actividades en favor de la seguridad para la sociedad que sean puestos en duda, pese a que diariamente dan su vida para proteger al pueblo al que juraron lealtad, presidente.</p>
+
+<p>En esta ocasi&oacute;n me gustar&iacute;a presentarle un audio que forma parte de un video de la detenci&oacute;n en 2015 de quien fuera jefe de plaza del c&aacute;rtel del Noreste en Nuevo Laredo, de un sujeto de nombre Ramiro P&eacute;rez Moreno, alias &lsquo;el Rama&rsquo;, en el que pues ni m&aacute;s ni menos confiesa cu&aacute;l es la actividad de este&nbsp;seudodefensor&nbsp;de derechos humanos, Raymundo Ramos, al interior de este grupo criminal. Si me lo permite, se lo pongo, presidente.</p>
+
+<p>Y que les quede claro a estos medios que dicen que aqu&iacute; se siembran cosas y que esta persona es espiada por su Gobierno, cuando no, es una actividad que se realiz&oacute; desde antes.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;S&uacute;belo t&uacute; a la red, nada m&aacute;s, s&uacute;belo t&uacute; a la red.</p>
+
+<p>INTERLOCUTOR:&nbsp;Bueno, ah&iacute; lo vamos a subir. Ya est&aacute;, pero lo volvemos a subir, presidente, para que ver si&hellip;</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;No, pero t&uacute;, hazlo t&uacute;.</p>
+
+<p>Mira, Carmen Aristegui y&nbsp;Art&iacute;culo 19, y todos ellos, todos los que mencionaste, est&aacute;n en contra de nosotros; entonces, cualquier cosa que vaya en contra de nosotros la difunden.</p>
+
+<p>INTERLOCUTOR:&nbsp;As&iacute; sea un representante del narco.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Aun cuando sea un absurdo, aunque sea una calumnia. Bueno, estamos viendo, pues, c&oacute;mo L&oacute;pez-D&oacute;riga, c&oacute;mo Loret de Mola, como Sergio Sarmiento, hablan de que vienen militares venezolanos a reprimir, o qu&eacute; extra&ntilde;o que ahora vienen militares venezolanos, y no se informan o no tienen cuidado de saber, enterarse, de que es un evento que hacen varios ej&eacute;rcitos, el de Venezuela, el de Estados Unidos, el de Canad&aacute;, el de M&eacute;xico, entre otros pa&iacute;ses. Y ah&iacute; se van y se ensartan porque les gana el coraje, no voy a decir odio, coraje;&nbsp;los obnubila.</p>
+
+<p>Entonces, ahora con este tema,&nbsp;lo mismo, ah&iacute; van, porque no aceptan, no me creen que nosotros no espiamos a nadie. Porque c&oacute;mo lo van a aceptar, c&oacute;mo me van a creer si ellos ya me juzgaron: yo miento, yo soy autoritario, yo soy militarista. Ya tienen esa idea, es una consigna.</p>
+
+<p>Adem&aacute;s, as&iacute; es como se justifican ante sus audiencias, sobre todo hacia el sector conservador de la poblaci&oacute;n, que existe y que es cuantioso, son 20, 25 millones que tienen esa convicci&oacute;n conservadora, que son adem&aacute;s respetables.</p>
+
+<p>Que tambi&eacute;n, hagamos lo que hagamos no los vamos a convencer. Yo, ya desde que est&aacute;bamos en la lucha para la transformaci&oacute;n, cuando me encontraba yo una gente as&iacute; les dec&iacute;a: Est&aacute; bien, sigue tu camino, ah&iacute; vas, no me voy a poner contigo a discutir porque no te voy a convencer.</p>
+
+<p>Ya les platiqu&eacute; lo que sucedi&oacute; una vez en un avi&oacute;n, que me invita el piloto a la cabina y que voy, ya est&aacute;bamos aterrizando en la ciudad, y empieza a decirme, &iquest;no?: &lsquo;Pues yo no coincido con muchas&nbsp;cosas&nbsp;de usted, pero lo que s&iacute; no acepto, lo que s&iacute; rechazo completamente es al PRI, son unos&nbsp;corruptos&rsquo;, y, as&iacute;, &iquest;no? Y me dec&iacute;a y me dec&iacute;a, y yo ya cansado tambi&eacute;n de las giras y eso, yo no quer&iacute;a hablar, yo quer&iacute;a ver c&oacute;mo aterrizaban en la noche.&nbsp;</p>
+
+<p>Me invitaban varias veces, estuve en las cabinas, &iquest;no?, es interesante el aterrizaje. Me pon&iacute;an ah&iacute; una sillita que tienen en medio el copiloto y el piloto y ah&iacute; est&aacute;. Y me mandaban a invitar los pilotos con&nbsp;las&nbsp;sobrecargos, &iquest;no?, muy amables.</p>
+
+<p>Les digo: S&iacute;, cuando ya vayamos llegando voy a ir. Y ah&iacute; iba yo, y esa vez empieza: &lsquo;Unos corruptos y esto y el otro&rsquo;. Yo me quedaba callado. &lsquo;&iquest;Y usted qu&eacute; opina?&rsquo; Le digo mira: T&uacute; eres simpatizantes del PAN &mdash;se queda as&iacute;&mdash; te voy a decir que son lo mismo los del PRI y los del PAN.</p>
+
+<p>Vamos a llegar a un aeropuerto ahorita, que lo hicieron los del PAN, 11 mil millones de pesos la Terminal&nbsp;2, con Fox, y se robaron la mitad del dinero, pero ni modo que yo te convenza, porque t&uacute; lees a Sergio Sarmiento, escuchas a L&oacute;pez-D&oacute;riga. O sea, para qu&eacute; hablamos, sigue tu camino, ah&iacute; la llevas, vas bien.&nbsp;</p>
+
+<p>Y ya, le digo: Ya me voy porque voy a buscar mi maleta, y ya me fui a buscar mi maleta, a mi asiento, saqu&eacute; mi maleta. Y cuando salgo me estaba esperando casi en la puerta: &lsquo;Oiga &mdash;con un papel&mdash; &iquest;me puede dar un aut&oacute;grafo para mi pap&aacute;?&nbsp;Porque mi pap&aacute; le admira mucho&rsquo;.&nbsp;S&iacute;, &iquest;c&oacute;mo se llama tu pap&aacute;? Con todo mi cari&ntilde;o y un abrazo. Le digo: A tu pap&aacute; s&iacute;, porque tu&nbsp;pap&aacute; es un hombre inteligente.&nbsp;</p>
+
+<p>Pero a veces me encuentro a algunos que dicen: &lsquo;Es que usted es el &iacute;dolo de mi mam&aacute;, es el &iacute;dolo de mi pap&aacute;&rsquo;. Ah, &iquest;quiere decir que t&uacute; est&aacute;s pensando de otra manera? &lsquo;S&iacute;&rsquo;. Y siempre les contesto eso: Ah&iacute; me le das un abrazo y un beso a tu mami, porque es muy inteligente, te&nbsp;rayaste&nbsp;con la mam&aacute; que tienes. Pero ya no puede uno, pues, cambiarlos a estas alturas.&nbsp;</p>
+
+<p>Miren, te voy a poner. Ese d&iacute;a yo habl&eacute; de que una cosa era la inteligencia que se requer&iacute;a para evitar la fuerza, para combatir a los delincuentes; adem&aacute;s, que se hace en el centro de inteligencia, hace esa labor, est&aacute; reglamentada, est&aacute; legalizada, solicita para intervenir un tel&eacute;fono autorizaci&oacute;n al Ministerio P&uacute;blico, el Ministerio P&uacute;blico solicita que se le autorice al centro de inteligencia que pueda intervenir un tel&eacute;fono, lo solicita a un juez. As&iacute; es como se act&uacute;a.&nbsp;</p>
+
+<p>Entonces, hablo de que una cosa es la inteligencia y otra cosa es el espionaje. El espionaje es lo que nos hac&iacute;an a nosotros, lo que Garc&iacute;a Luna y lo que hac&iacute;an todos estos que ahora se convierten en paladines de la libertad, Claudio X. Gonz&aacute;lez y a todos los que les paga Claudio, porque tiene periodistas que reciben recursos de su fundaci&oacute;n, que a la vez recibe esa fundaci&oacute;n dinero del gobierno de Estados Unidos.</p>
+
+<p>Bueno, cuando se genera esa pol&eacute;mica, que qu&eacute; bueno que no estabas t&uacute;, cuando se genera esa pol&eacute;mica, empiezan en las redes, &iquest;no?, porque vino una compa&ntilde;era a plantearlo, empiezan en las redes toda una campa&ntilde;a, todos, todos, todos, en coro.&nbsp;</p>
+
+<p>Pero hay un mensaje, un tuit ―que a ver si lo encuentras― del que fue director del&nbsp;Cisen&nbsp;con Calder&oacute;n,&nbsp;Vald&eacute;s. B&uacute;scalo. Vean c&oacute;mo ense&ntilde;an el cobre. Este se&ntilde;or era el de inteligencia y espionaje del&nbsp;Cisen.</p>
+
+<p>Esas son las siglas. &iquest;C&oacute;mo es el&nbsp;Cisen? &iquest;Centro qu&eacute;? Inteligencia. Ah&iacute; estuvo, bueno, ah&iacute; estuvo Garc&iacute;a Luna, ah&iacute; estuvo el que fue procurador y luego ministro de la Corte, Medina Mora; Tello Pe&oacute;n. Bueno, muchos personajes ah&iacute;. Pero este Vel&aacute;zquez o&hellip;</p>
+
+<p>INTERVENCI&Oacute;N:&nbsp;Guillermo&nbsp;Vald&eacute;s.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Vald&eacute;s, le hac&iacute;a las encuestas y sigue haciendo a Calder&oacute;n, y luego a Pe&ntilde;a. Y despu&eacute;s de hacerle las encuestas a Calder&oacute;n, lo nombra del&nbsp;Cisen&nbsp;y est&aacute; todo el tiempo en que est&aacute; Garc&iacute;a Luna.</p>
+
+<p>Bueno, viene la pol&eacute;mica esta de hace unos d&iacute;as y van a ver lo que pone, me trata de inexperto, que yo no s&eacute; cu&aacute;l es la diferencia entre espionaje e inteligencia. Claro, el experto es &eacute;l, pero en corrupci&oacute;n, &eacute;l es experto en simular, porque siendo experto nunca se dio cuenta de lo que hac&iacute;a Garc&iacute;a Luna.</p>
+
+<p>&iquest;&Eacute;l es o es&hellip;? &Eacute;l es, miren:</p>
+
+<p>As&iacute;, querer justificar el espionaje ilegal que hizo el Ej&eacute;rcito a Raymundo Ramos &mdash;es el se&ntilde;or al que te refieres&mdash; afirmando que no era espionaje, sino que se trataba de inteligencia, s&oacute;lo exhibi&oacute; la ignorancia de L&oacute;pez Obrador. En cuatro a&ntilde;os que ha sido presidente, bien pudo aprender el A, B, C de la inteligencia&rsquo;. No quiero saber, quiero ser ne&oacute;fito.</p>
+
+<p>INTERLOCUTOR:&nbsp;S&oacute;lo para aclarar, presidente, la mayor divulgaci&oacute;n de informaci&oacute;n que supone que este sujeto opera para el c&aacute;rtel del Norestes es anterior a su gobierno, lo &uacute;nico que se divulg&oacute; de su posible actividad dentro del c&aacute;rtel es una llamada que tambi&eacute;n podr&iacute;a referir que no fue antes de su gobierno por el contexto de lo que hablan.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;S&iacute;, pero ya, ya, ya.&nbsp;</p>
+
+<p>INTERLOCUTOR:&nbsp;Algo que&nbsp;Animal Pol&iacute;tico&nbsp;no pudo.&nbsp;</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Ya, ya.</p>
+
+<p>INTERLOCUTOR:&nbsp;Y el mensaje a las filas del Ej&eacute;rcito, presidente.&nbsp;</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Eso, que tienen todo su derecho de expresarse, ya lo extern&eacute; aqu&iacute;.&nbsp;</p>
+
+<p>Y que tengan confianza, que no se act&uacute;a bajo. El gobierno que represento no est&aacute; sujeto a chantajes ni a presi&oacute;n de nadie. Actuamos siempre con apego a la legalidad y a la justicia.</p>
+
+<p>Entonces, que tengan confianza, que, si sus familiares son inocentes, si no cometieron ning&uacute;n delito, van a ser atendidos, escuchados y, si est&aacute;n en la c&aacute;rcel, liberados si son inocentes, que tengan confianza porque no fabricamos delitos.</p>
+
+<p>INTERLOCUTOR:&nbsp;Su postura, presidente, tambi&eacute;n sobre el&hellip; Posterior a los hechos ocurridos en Matamoros de estos cuatro ciudadanos norteamericanos, el exgobernador de Tamaulipas, Francisco Garc&iacute;a Cabeza de Vaca sube un video a las redes sociales en el que pr&aacute;cticamente en tono, por as&iacute; decirlo, burl&oacute;n dice que en su gobierno estuvo mejor la situaci&oacute;n en cuanto a seguridad en Tamaulipas, aprovech&aacute;ndose de una manera un poco pues no muy bien de la desgracia y de lo que estaba sucediendo, la crisis que hab&iacute;a en el estado.</p>
+
+<p>Entonces, su postura al respecto, presidente. &iquest;Y qu&eacute; est&aacute; haciendo su administraci&oacute;n para ayudar al reforzamiento de la seguridad en la frontera y que no vuelvan a suceder estas cosas?</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Mira, en Tamaulipas los ciudadanos de Tamaulipas, los tamaulipecos, son ejemplo de buenos ciudadanos, porque supieron resolver el problema del mal gobierno que hab&iacute;a en Tamaulipas por la v&iacute;a pac&iacute;fica y por la v&iacute;a democr&aacute;tica, y ahora tienen un gobernador honesto, un hombre bueno, una gente que le tenemos toda la confianza y eso es una garant&iacute;a el tener un buen gobernador.</p>
+
+<p>Am&eacute;rico Villareal es un buen gobernante, un buen ciudadano, una buena persona, no es una gente mafiosa, ni de malas entra&ntilde;as.</p>
+
+<p>Am&eacute;rico Villarreal es un humanista &iacute;ntegro, recto, honesto, como lo merec&iacute;a Tamaulipas, como lo merec&iacute;a Tamaulipas y su pueblo, porque el pueblo de Tamaulipas merece un mejor destino. Entonces, eso es lo que yo puedo decir.</p>
+
+<p>INTERLOCUTOR:&nbsp;Desde su perspectiva, &iquest;c&oacute;mo manej&oacute; el gobernador la crisis, presidente?</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Muy bien, mucho muy bien. Bueno, tan es as&iacute; que aqu&iacute; est&aacute;bamos en la ma&ntilde;ana y me habla para darme la informaci&oacute;n.&nbsp;</p>
+
+<p>&iquest;Saben qu&eacute; dijo L&oacute;pez-D&oacute;riga?</p>
+
+<p>Que ya sab&iacute;amos y que fue armado, como ellos est&aacute;n acostumbrados a los montajes, de que cuando me habl&oacute; el gobernador de Tamaulipas, eso lo dijo L&oacute;pez-D&oacute;riga, ya era una cosa que hab&iacute;amos planeado que &eacute;l iba a hablar, y fue algo totalmente espont&aacute;neo. Pero ni modo, as&iacute; son las cosas. No enojarnos, no hay que enojarse, porque estamos haciendo las cosas de buena fe.</p>
+
+<p>Ya nos vamos a desayunar. Ma&ntilde;ana t&uacute; eres el primero, t&uacute; eres el primero y, aunque haya motines emocionales, no me importa.</p>
+
+<p>Adi&oacute;s.&nbsp;</p>
+
+<p>---</p>
+</div>
+      </div>
+
+      <div class="col-md-4 col-xs-12 pull-right">
+
+
+
+
+          <div id="survey" class="survey-popup small-top-buffer">
+	<div class="row">
+  <a class="fire">
+    <span class="title">Contesta nuestra encuesta de satisfacción.</span>
+		<i style="color: white" class="fas fa-poll"></i>
+  </a>
+  <hr>
+  
+  <div class="survey col-sm-12 clearfix">
+	<form id="survey-form">
+	  <div class="survey-form">
+	  <fieldset id="query_1">
+		<legend>¿Cómo fue tu experiencia en gob.mx?</legend>
+		<div id="Q_A" class="btn-group row">
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncGood" class="ga-survey" value="Feliz" title="Satisactorio">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-good.svg" alt="">
+		  	</button>
+		  </div>
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncReg" class="ga-survey" value="Neutral" title="Neutral">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-neutral.svg" alt="">
+		  	</button>
+		  </div>
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncBad" class="ga-survey" value="Triste" title="No satisactorio">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-bad.svg" alt="">
+		  	</button>
+		  </div>
+		</div>
+	  </fieldset>
+	  <fieldset id="query_1_a" class="hidden">
+	  	<legend>¿Fue fácil encontrar lo que buscabas?</legend>
+	  	<div id="Q_B" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R1" value="1">
+	  		<label for="A_R">Muy Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R2" value="2">
+	  		<label for="A_R">Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R3" value="3">
+	  		<label for="A_R">Difícil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R4" value="4">
+	  		<label for="A_R">Muy Difícil</label>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_s" class="hidden">
+	  	<legend>¿De qué estado de la República nos visitas?</legend>	  	
+	  	<div class="col-md-12">
+  	  		<div class="form-group" style="margin-bottom: 114px;">
+  	  			<select id="estados" class="form-control"></select>
+  	  		</div>
+  	  		<div class="form-group">
+  	  			<button type="button" class="Q_S_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  		</div>
+  	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_alt" class="hidden">
+		<legend>¿Qué buscabas?</legend>
+	  	<div id="Q_I" class="clearfix">
+	  	  <div class="col-sm-12">
+	  		<textarea id="txtA" class="form-control" rows="6" maxlength="250" style="font-size: 14px; width: 100%;"></textarea>
+	  		<span class="small">Máximo 250 caracteres</span>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+  	  	  <button type="button" class="Q_I_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_b" class="hidden">
+	  	<legend>¿Qué te gustó más?</legend>
+	  	<p class="small">Puedes seleccionar más de uno.</p>
+	  	<div id="Q_C" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R1" type="checkbox" name="A_R" value="1">
+	  		<label for="A_R">La información es clara y precisa</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R2" type="checkbox" name="A_R" value="2">
+	  		<label for="A_R">El diseño es agradable</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R3" type="checkbox" name="A_R" value="3">
+	  		<label for="A_R">Está bien organizado</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R4" type="checkbox" name="A_R" value="4">
+	  		<label for="A_R">Es sencillo navegar</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R5" type="checkbox" name="A_R" value="5">
+	  		<label for="A_R">El lenguaje es amigable</label>
+	  	  </div>
+	  	  <div class="clearfix">
+	  	  	<button type="button" class="Q_C_btn btn btn-primary btn-small pull-right">Siguiente</button>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_c" class="hidden">
+	  	<legend>¿Recomendarías nuestro portal a un amigo o familiar?</legend>
+	  	<div id="Q_D" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="radEncC_R1" type="radio" name="A_R" value="4">
+	  		<label for="A_R">Si</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncC_R2" type="radio" name="A_R" value="1">
+	  		<label for="A_R">No</label>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+        <button type="button" class="btn-finalizar btn btn-primary btn-small pull-right" style="margin-left: 8px; margin-top: 2px;" disabled>Finalizar</button>
+        <img src="https://framework-gb.cdn.gob.mx/assets/images/oval-white.svg" class="pull-right hidden loading">
+      </div>
+	  </fieldset>
+
+	  <fieldset id="query_2" class="hidden">
+		<legend>¿Fue fácil encontrar lo que buscabas?</legend>
+	  	<div id="Q_F" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R1" type="radio" name="A_R" value="1">
+	  		<label for="A_R">Muy Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R2" type="radio" name="A_R" value="2">
+	  		<label for="A_R">Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R3" type="radio" name="A_R" value="3">
+	  		<label for="A_R">Difícil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R4" type="radio" name="A_R" value="4">
+	  		<label for="A_R">Muy Difícil</label>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_2_b" class="hidden">
+	  	<legend>¿Qué mejorarías?</legend>
+	  	<p class="small">Puedes seleccionar más de una opción.</p>
+	  	<div id="Q_G" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A1" type="checkbox" name="A_R" value="1">
+	  		<label for="A_R">Diseño</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A2" type="checkbox" name="A_R" value="2">
+	  		<label for="A_R">Navegación dentro del sitio</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A3" type="checkbox" name="A_R" value="3">
+	  		<label class="too-long" for="A_R">Claridad y precisión de la información</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A4" type="checkbox" name="A_R" value="4">
+	  		<label for="A_R">Organización de los contenidos</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A5" type="checkbox" name="A_R" value="5">
+	  		<label for="A_R">Lenguaje utilizado</label>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">	  	  
+	  	  <button type="button" class="btn-finalizar btn btn-primary btn-small pull-right" style="margin-left: 8px; margin-top: 2px;" disabled>Finalizar</button>
+	  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/oval-white.svg" class="hidden pull-right loading">
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_2_alt" class="hidden">
+		<legend>¿Qué buscabas?</legend>
+	  	<div id="Q_H" class="clearfix">
+	  	  <div class="col-sm-12">
+	  		<textarea id="txtA1" class="form-control" rows="6" maxlength="250" style="font-size: 14px; width: 100%;"></textarea>
+	  		<span class="small">Máximo 250 caracteres</span>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+  	  	  <button type="button" class="Q_H_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  	</div>
+	  </fieldset>
+
+	</div>
+	<p class="hidden survey-thanks" style="text-align: center; color: white; font-weight: 700;">Gracias por tu opinión.</p>
+	</form>
+
+  </div>
+</div>
+</div>
+
+<script type="text/javascript">
+$(function() {
+  var c = 0;
+  var fin = 0;
+  var tipo_cara = "";
+  var page_type = "Articulos";
+  var triggered = false;
+  var answers = {};
+  var properties = {};
+  var organization = "presidencia";
+  var section = "Blog";
+  var lang = "es";
+  properties.published_on = "2023-03-15 09:08:00 -0600";
+  properties.title = "Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 15 de marzo de 2023";
+  properties.path = "/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-15-de-marzo-de-2023";
+  properties.referer = "";
+  properties.viewfinder = navigator.userAgent.toLowerCase();
+  properties.screens = screen.width;
+  properties.device = screen.width;
+
+  $.getJSON('https://www.gob.mx/vun/estados?filter[order]=nombre%20ASC', function (selectOptions) {
+    for( var i = 0; i < selectOptions.length; i ++) {
+      var selectOptionsJSON = selectOptions[i];
+      $('#estados').append('<option value="'+ selectOptionsJSON.nombre +'">'+ selectOptionsJSON.nombre +'</option>');
+    }
+    $('#estados').append('<option value="Otro">Otro</option>')
+  });
+
+  $('.fire').click(function(event) {
+    $('.survey-popup').css({'height':'440px'});
+  });
+
+  $('#Q_A').find('button').click(function(event) {
+  	$('#query_s').removeClass('hidden');
+  	$("#query_1").addClass('hidden');
+  	answers.q1 = $(this).attr('id');
+  });
+
+  $(".ga-survey").click(function () {
+    tipo_cara = $(this).val();
+    var interval_time = [30];
+    (function timer () {
+      if (c < 1) {
+        setTimeout(function () {
+           if(fin < 1) {
+             set_ga("Inconclusa");
+             timer();
+           }
+        }, interval_time[c] * 1000);
+      }
+      c++;
+    })();
+  });
+
+  $('.Q_S_btn').click(function(event) {
+    if( answers.q1 === "radEncGood") {
+      $("#query_s").addClass('hidden');
+      $("#query_1_a").removeClass('hidden');
+    } else if(answers.q1 === "radEncReg" || answers.q1 === "radEncBad") {
+      $("#query_s").addClass('hidden');
+      $("#query_2").removeClass('hidden');
+    } else { }
+    // answers.q1 = $('#Q_A').find('button').attr('id');
+  });
+
+  $('#Q_B').find('input').click(function(event) {
+  	if( $(this).attr('id') === 'radEncA_R3' || $(this).attr('id') === 'radEncA_R4' )  {
+  	  $("#query_1_a").addClass('hidden');
+	  $("#query_1_alt").removeClass('hidden');
+  	} else {
+  	  $("#query_1_a").addClass('hidden');
+	  $("#query_1_b").removeClass('hidden');	
+  	}	
+	answers.q2 = $(this).attr('id');
+  });
+
+  $('.Q_I_btn').click(function(event) {
+  	event.preventDefault();
+  	$("#query_1_alt").addClass('hidden');
+	$("#query_1_b").removeClass('hidden');
+	answers.q5 = $('#txtA').val().substring(0, 250);
+  });
+
+  $('#Q_C').find('button').click(function(event) {
+	$("#query_1_b").addClass('hidden');
+	$("#query_1_c").removeClass('hidden');
+	var q3_array = [];
+	$('#Q_C').find('input:checked').each(function(index, el) {
+	  q3_array.push($(el).attr('id'));
+	});
+	answers.q3 = q3_array;
+  });
+
+  $('#Q_D').find('input').change(function(event) {
+  	answers.q4 = $(this).attr('id');
+  	$('.btn-finalizar').attr('disabled', false);
+  });
+
+  $('#Q_F').find('input').click(function(event) {
+	
+	answers.q2 = $(this).attr('id');
+
+	if( $(this).attr('id') === 'rdEncA_R3' || $(this).attr('id') === 'rdEncA_R4' ) {
+	  $("#query_2").addClass('hidden');
+	  $("#query_2_alt").removeClass('hidden');
+	} else {
+	  $("#query_2").addClass('hidden');
+	  $("#query_2_b").removeClass('hidden');
+	}
+  });
+
+  $('#Q_G').find('input').change(function(event) {
+  	if($('#Q_G').find('input:checked').length > 0) {
+	  $('.btn-finalizar').attr('disabled', false);
+    }
+    var q2_array = [];
+    $('#Q_G').find('input:checked').each(function(index, el) {
+	  q2_array.push($(el).attr('id'));
+	});
+	answers.q3 = q2_array;
+  });
+
+  $('.Q_H_btn').click(function(event) {
+  	event.preventDefault();
+  	$("#query_2_alt").addClass('hidden');
+	$("#query_2_b").removeClass('hidden');
+	answers.q5 = $('#txtA1').val().substring(0, 250);
+  });
+
+  $('.btn-finalizar').click(function (event) {
+    fin++;
+    $.ajax({
+      url: '/encuesta-satisfaccion',
+      type: 'post',
+      dataType: 'json',
+      data: { section: section, lang: lang, properties: properties, answers: answers },
+      beforeSend: function() {
+        $('.loading').removeClass('hidden');
+      },
+      success: function(data) {
+        set_ga("Finalizada");
+
+        $('.survey').hide();
+        $('.survey-popup').css({'height':'60px','background-color':'#dff0d8','border':'1px solid #d6e9c6'});
+        $('.survey-popup .title').text('Gracias por tu participación.').css({'color':'#3c763d'});
+        $('#icon-survey').removeClass('fa-file-text-o').addClass('fa-check-circle').css({'color':'#3c763d'});
+        setTimeout(function() {
+          $('.survey-popup').fadeOut('800');
+        }, 1600);
+      }
+    });
+  });
+
+  function set_ga(estatus) {
+    var pages_group = "Gobierno";
+    var organization_name = "presidencia";
+
+    console.log("Entro a apartado de encuesta de satisfacción. Estatus: "+ estatus);
+    console.log("Pages group: "+pages_group);
+    console.log("Sub group: "+organization_name);
+    console.log("Page type: "+page_type);
+    console.log("Face: "+tipo_cara);
+
+      console.log("Rails.env.production");
+      //Código GA para encuesta de satisfacción.
+		gtag('set', 'dimension14', pages_group);
+		gtag('set', 'dimension15', organization_name);
+		gtag('set', 'dimension16', page_type);
+		gtag('send', 'event', 'Encuesta de satisfacción', tipo_cara ,estatus);
+		gtag('set', 'dimension14', null);
+		gtag('set', 'dimension15', null);
+		gtag('set', 'dimension16', null);
+  }
+
+  $('#subscribe-survey').click(function(event) {
+	event.preventDefault();
+    var email = $("#email-survey").val();
+    var state = $('#estados').val();
+
+    if (email !== '' || email !== undefined) {
+	    try {
+	      $.ajax({
+	        url: "/subscribe",
+	        type: 'post',
+	        dataType: 'json',
+	        data : { email: {address: email} },
+	        success: function (data) {
+	            $('#responseSignup').html(data.message);
+	        },
+	        error: function (data) {
+	            $('#responseSignup').html(data.message);
+	        }
+	      });
+	    }catch(e){
+	      $("#responseEmail").innerText(e);
+	    }
+
+	    $.ajax({
+	    	url: '/signups',
+	    	type: 'POST',
+	    	dataType: 'json',
+	    	data: { section: section, lang: lang, properties: properties },
+	    	success: function() {
+	    		//console.log('exito');
+	    	}
+	    });
+	} else {
+		$('#responseSignup').html('Por favor llena todos los campos.');
+	}
+  });
+
+  $('#survey-form').submit(function(event) {
+    event.preventDefault();
+  });
+});
+</script>
+
+      </div>
+      <div class="col-sm-7 pull-left">
+        <div class="share-buttons clearfix vertical-buffer">
+  <div class="col-md-2"> <a class="twitter-share-button" data-url="https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-15-de-marzo-de-2023" data-text="Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 15 de marzo de 2023"></a></div>
+  <div class="col-md-2">
+    <div class="fb-share-button" data-href="https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-15-de-marzo-de-2023" data-layout="button_count" data-size="small" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-15-de-marzo-de-2023&amp;src=sdkpreparse">Compartir</a></div>
+  </div>
+</div>
+
+  <script type="text/javascript">
+    (function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v2.7";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+    
+    var pages_group = "Gobierno";
+    var page_type = "Artículos";
+    var organization_name = "presidencia";
+    var title_content = "Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 15 de marzo de 2023";
+
+     window.twttr = (function (d,s,id) {
+       var t, js, fjs = d.getElementsByTagName(s)[0];
+       if (d.getElementById(id)) return; js=d.createElement(s); js.id=id;
+       js.src="//platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs);
+       return window.twttr || (t = { _e: [], ready: function(f){ t._e.push(f) } });
+     }(document, "script", "twitter-wjs"));
+
+     function trackTwitter(intent_event) {
+       if (intent_event) {
+         if (intent_event.target && intent_event.target.nodeName == 'IFRAME') {
+           console.log("Metrica Compartir Twitter - "+title_content);
+           console.log("Organization: "+organization_name);
+           console.log("Page type: "+page_type);
+           console.log("Title content: "+title_content);
+           ga('set', 'dimension14', pages_group);
+           ga('set', 'dimension15', organization_name);
+           ga('set', 'dimension16', page_type);
+           ga('send', 'event', 'Compartir en redes sociales', 'Twitter', title_content);
+           ga('set', 'dimension14', null);
+           ga('set', 'dimension15', null);
+           ga('set', 'dimension16', null);
+         }
+       }
+     }
+  </script>
+  <script type="text/javascript">
+     twttr.ready(function (twttr) {
+       twttr.events.bind('tweet', trackTwitter);
+     });
+  </script>
+
+
+      </div>
+    </div>
+    <div class="row top-buffer">
+  <div class="col-md-8">
+    <hr>
+    <div class="print col-ms-12 col-md-12 col-xs-12">
+      <span class="icon-printing"></span>
+      <a href="#">Imprime la página completa</a>
+        <p class="small" style="font-size: 14px; line-height: 1.6em;">
+          La legalidad, veracidad y la calidad de la información es estricta responsabilidad de la dependencia, entidad o empresa productiva del Estado que la proporcionó en virtud de sus atribuciones y/o facultades normativas.
+        </p>
+    </div>
+  </div>
+</div>
+
+  </div>
+  <input type="hidden" id="page_type" name="page_type" value="Articulos">
+  <input type="hidden" id="organization_name" name="organization_name" value="presidencia">
+</main>
+<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+
+<footer class="main-footer">
+  <div class="list-info">
+    <div class="container">
+
+      <div class="col-sm-3">
+        <img  src="https://framework-gb.cdn.gob.mx/landing/img/logoheader.svg"  href="/" alt="logo gobierno de méxico" class="logo_footer" style="max-width: 90%; margin-left: -27px;   margin-top: 12px;">
+      </div>
+      <div class="col-sm-3">
+        <h2>Enlaces</h2>
+        <ul>
+         <!-- <li><a  href="http://www.participa.gob.mx">Participa</a></li> -->
+          <li><a  href="https://datos.gob.mx/">Datos</a></li>
+          <li><a href="https://www.gob.mx/publicaciones" target="_blank" rel="noopener" title="Enlace abre en ventana nueva">Publicaciones </a></li>
+
+                  <li><a class="footer" href="https://consultapublicamx.plataformadetransparencia.org.mx/vut-web/faces/view/consultaPublica.xhtml?idEntidad=MzM=&amp;idSujetoObligado=MTAwMDE=#inicio" id="Transparencia" target="blank" title="Enlace abre en ventana nueva">Portal de Obligaciones de Transparencia</a></li>
+
+                  <li><a class="footer" href="https://www.infomex.org.mx/gobiernofederal/home.action" id="PNT" target="blank" title="Enlace abre PNT en ventana nueva">PNT</a></li>
+
+                  <li><a class="footer" href="http://www.inai.org.mx/" id="INAI" target="blank" title="Enlace abre sitio INAI en ventana nueva">INAI</a></li>
+
+          <li><a class="footer" id="INAI" href="http://alertadores.funcionpublica.gob.mx/" target="_blank" rel="alertadores">Alerta</a></li>
+          <li><a class="footer" id="SIDEC" href="http://sidec.funcionpublica.gob.mx/" target="_blank" rel="sidec">Denuncia</a></li>
+           </ul>
+      </div>
+      <div class="col-sm-3">
+        <h2>¿Qué es gob.mx?</h2>
+        <p>Es el portal único de trámites, información y participación ciudadana.  <a href="/que-es-gobmx" style="text-decoration: none;">Leer más </a></p>
+        <ul>
+
+        
+            <li><a href='http://www.gob.mx/epn'> Administraciones anteriores  </a></li>
+          <li><a href="/accesibilidad">Declaración de Accesibilidad</a></li>
+          <li><a href="/privacidadintegral">Aviso de privacidad</a></li>
+          <li><a href="/privacidadsimplificado">Aviso de privacidad simplificado</a></li>
+          <li><a href="/terminos">Términos y Condiciones </a></li>
+          <li><a href="/terminos#medidas-seguridad-informacion">Política de seguridad</a></li>
+          <li><a class="footer" id="Marco Juridico" href="http://www.ordenjuridico.gob.mx" target="_blank" rel="noopener" title="Enlace abre en ventana nueva">Marco jurídico</a></li>
+          <li><a href="/sitemap">Mapa de sitio</a></li>
+        </ul>
+      </div>
+      <div class="col-sm-3">
+        </p>
+        <h2>Síguenos en </h2>
+        <ul class="list-inline">
+          <li>
+            <a id="Facebook" href="https://www.facebook.com/gobmexico" target="_blank" rel="noopener" class="sendEst share-info footer" title="enlace a facebook abre en una nueva ventana">
+              <img alt="Facebook" src="https://framework-gb.cdn.gob.mx/landing/img/facebook.png" />
+            </a>
+          </li>
+          <li>
+            <a id="Twitter" href="https://twitter.com/GobiernoMX" target="_blank" rel="noopener" class="sendEst share-info footer" title="Enlace a twitter abre en una nueva ventana">
+              <img alt="Twitter" src="https://framework-gb.cdn.gob.mx/landing/img/twitter.png" />
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+  </div>
+  </div>
+
+  <div class="container-fluid footer-pleca">
+    <div class="row">
+      <div class="col">
+        <br><br>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script type="text/javascript">
+      $("a.footer").click(function () {
+          var pagina_sitio = window.location.pathname;
+          var outbound_link = $(this).attr("id");
+          var subgrupo_paginas = "presidencia";
+          var page_type = "Home";
+          var pages_group = "Gobierno";
+          if($("#page_type").length > 0){ page_type = $("#page_type").val(); }
+
+          console.log("Metrica links externos footer - "+outbound_link);
+          gtag('set', 'dimension14', pages_group);
+          gtag('set', 'dimension15', subgrupo_paginas);
+          gtag('set', 'dimension16', page_type);
+          gtag('send', 'event', 'Outbound link - Footer', outbound_link, pagina_sitio);
+          gtag('set', 'dimension14', null);
+          gtag('set, ‘dimension15', null);
+      })
+  </script>
+
+<input class="hidden" id="route" value="/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-15-de-marzo-de-2023" type="hidden" >
+<!-- div id="fb-root"></div -->
+
+
+
+
+
+  <!-- Begin comScore Tag -->
+  <script>
+      var _comscore = _comscore || [];
+      _comscore.push({ c1: "2", c2: "17183199" });
+      (function() {
+          var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+          s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+          el.parentNode.insertBefore(s, el);
+      })();
+  </script>
+  <noscript>
+    <img src="https://sb.scorecardresearch.com/p?c1=2&c2=17183199&cv=2.0&cj=1" />
+  </noscript>
+  <!-- End comScore Tag -->
+
+  <script src="https://sb.scorecardresearch.com/c2/17183199/ct.js"></script>
+
+
+  <script type="text/javascript">
+
+      var _sf_startpt=(new Date()).getTime();
+      var _sf_async_config = { uid: 43659, domain: 'www.gob.mx', useCanonical: true } ;
+      (function() {
+          function loadChartbeat() { window._sf_endpt = (new Date()).getTime(); var e = document.createElement('script'); e.setAttribute('language', 'javascript'); e.setAttribute('type', 'text/javascript'); e.setAttribute('src','//static.chartbeat.com/js/chartbeat.js'); document.body.appendChild(e); };
+          var oldonload = window.onload;
+          window.onload = (typeof window.onload != 'function') ?
+              loadChartbeat : function()
+              { oldonload(); loadChartbeat(); };
+      })();
+      var ele = "/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-15-de-marzo-de-2023";
+      if( "#{(@organization_site.present? ? @organization_site.category : 'gobmx')}" == "Campaña") {
+          var siteEls = 'campaign';
+      } else {
+          var siteEls = 'gobierno';
+      }
+
+      for( var i = 1; i < ele.split('/').length; i++ ) {
+          siteEls = siteEls + '.' + ele.split('/')[i];
+      }
+
+      function udm_(e){var t="comScore=",n=document,r=n.cookie,i="",s="indexOf",o="substring",u="length",a=2048,f,l="&ns_",c="&",h,p,d,v,m=window,g=m.encodeURIComponent||escape;if(r[s](t)+1)for(d=0,p=r.split(";"),v=p[u];d<v;d++)h=p[d][s](t),h+1&&(i=c+unescape(p[d][o](h+t[u])));e+=l+"_t="+ +(new Date)+l+"c="+(n.characterSet||n.defaultCharset||"")+"&c8="+g(n.title)+i+"&c7="+g(n.URL)+"&c9="+g(n.referrer),e[u]>a&&e[s](c)>0&&(f=e[o](0,a-8).lastIndexOf(c),e=(e[o](0,f)+l+"cut="+g(e[o](f+1)))[o](0,a)),n.images?(h=new Image,m.ns_p||(ns_p=h),h.src=e):n.write("<","p","><",'img src="',e,'" height="1" width="1" alt="*"',"><","/p",">")};
+      function uid_call(a, b){
+          ui_c2 = 17183199; // your corporate c2 client value
+          ui_ns_site = 'gobmx'; // your sites identifier
+          window.b_ui_event = window.c_ui_event != null ? window.c_ui_event:"",window.c_ui_event = a;
+          var ui_pixel_url = 'https://sb.scorecardresearch.com/p?c1=2&c2='+ui_c2+'&ns_site='+ui_ns_site+'&name='+a+'&ns_type=hidden&type=hidden&ns_ui_type='+b;
+          var b="comScore=",c=document,d=c.cookie,e="",f="indexOf",g="substring",h="length",i=2048,j,k="&ns_",l="&",m,n,o,p,q=window,r=q.encodeURIComponent||escape;if(d[f](b)+1)for(o=0,n=d.split(";"),p=n[h];o<p;o++)m=n[o][f](b),m+1&&(e=l+unescape(n[o][g](m+b[h])));ui_pixel_url+=k+"_t="+ +(new Date)+k+"c="+(c.characterSet||c.defaultCharset||"")+"&c8="+r(c.title)+e+"&c7="+r(c.URL)+"&c9="+r(c.referrer)+"&b_ui_event="+b_ui_event+"&c_ui_event="+c_ui_event,ui_pixel_url[h]>i&&ui_pixel_url[f](l)>0&&(j=ui_pixel_url[g](0,i-8).lastIndexOf(l),ui_pixel_url=(ui_pixel_url[g](0,j)+k+"cut="+r(ui_pixel_url[g](j+1)))[g](0,i)),c.images?(m=new Image,q.ns_p||(ns_p=m),m.src=ui_pixel_url):c.write("<p><img src='",ui_pixel_url,"' height='1' width='1' alt='*'></p>");
+      }
+      udm_('https://sb.scorecardresearch.com/b?c1=2&c2=17183199&ns_site=gobmx&name='+siteEls);
+  </script>
+
+  <noscript>
+    <img src="https://sb.scorecardresearch.com/p?c1=2&amp;c2=17183199&amp;ns_site=gobmx&amp;name=gobierno.presidencia.es.articulos.version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-15-de-marzo-de-2023" height="1" width="1" alt="*" />
+  </noscript>
+<script>
+    let key = '';
+    $(function () {
+
+        $.getJSON("https://framework-gb.cdn.gob.mx/applications/cms/configGobmx.json", function(json) {
+            console.log(json.keyAnalytics); // this will show the info it in firebug console
+            key = json.keyAnalytics;
+            ga('create', key , 'auto', 'GobTracker');
+            ga('GobTracker.require', 'linker');
+            ga('GobTracker.linker:autoLink', ['www.gob.mx']);
+            ga('GobTracker.set', 'contentGroup1', 'Gobierno');
+            ga('GobTracker.set', 'contentGroup2', SubGroup);
+            ga('GobTracker.set', 'contentGroup3', PageType);
+            ga('GobTracker.set', 'dimension14', 'Gobierno');
+            ga('GobTracker.set', 'dimension15', SubGroup);
+            ga('GobTracker.set', 'dimension16', PageType);
+            ga('GobTracker.set', 'dimension13', 'No Registrado');
+            ga('GobTracker.send', 'pageview');
+            ga('GobTracker.set', 'contentGroup1', null);
+            ga('GobTracker.set', 'contentGroup2', null);
+            ga('GobTracker.set', 'contentGroup3', null);
+            ga('GobTracker.set', 'dimension14', null);
+            ga('GobTracker.set', 'dimension15', null);
+            ga('GobTracker.set', 'dimension16', null);
+            ga('GobTracker.set', 'dimension13', null);
+        });
+    });
+</script>
+
+<script src="https://framework-gb.cdn.gob.mx/applications/cms/modal_global_cms.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/gm/accesibilidad/js/gobmx-accesibilidad.min.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick.min.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick-lightbox.js"></script>
+<link rel="stylesheet" href="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick-lightbox.css">
+
+
+<script src="https://framework-gb.cdn.gob.mx/applications/cms/config_dependency.js"></script>
+<script type="text/javascript"  src="/0RVTuHxj0/t/mhEICJIQ/YiOkthVkYSfw/PRc4N0sKYQk/PwhFVTt/GPxQB"></script></body>
+
+</html>
+

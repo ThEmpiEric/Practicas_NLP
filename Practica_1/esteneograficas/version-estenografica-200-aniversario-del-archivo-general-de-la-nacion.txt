@@ -1,0 +1,1291 @@
+<!DOCTYPE html>
+<html class='no-js' lang='es'>
+<head>
+    <title>
+  Versión estenográfica. 200 Aniversario del Archivo General de la Nación | Presidencia de la República  | Gobierno | gob.mx
+</title>
+
+  <meta charset='UTF-8'>
+  <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#393C3E">
+
+  
+  <meta name="keywords" content="">
+  <meta name="description" content="Acto encabezado por el presidente Andrés Manuel López Obrador desde la Ciudad de México">
+  <meta name="author" content="Presidencia de la República ">
+
+  <meta content="Versión estenográfica. 200 Aniversario del Archivo General de la Nación" property="og:title" />
+  <meta content="https://www.gob.mxhttps://www.gob.mx/cms/uploads/article/main_image/136603/WhatsApp_Image_2023-08-23_at_13.29.40.jpeg" property="og:image" />
+  <meta content="gob.mx" property="og:site_name" />
+  <meta content="Acto encabezado por el presidente Andrés Manuel López Obrador desde la Ciudad de México" property="og:description" />
+  <meta content="http://www.gob.mx/presidencia/es/articulos/version-estenografica-200-aniversario-del-archivo-general-de-la-nacion?idiom=es" property="og:url" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@gobmx" />
+  <meta name="twitter:title" content="Versión estenográfica. 200 Aniversario del Archivo General de la N..." />
+  <meta name="twitter:description" content="Acto encabezado por el presidente Andrés Manuel López Obrador desde la Ciudad de México" />
+  <meta name="twitter:image" content="https://www.gob.mxhttps://www.gob.mx/cms/uploads/article/main_image/136603/WhatsApp_Image_2023-08-23_at_13.29.40.jpeg" />
+
+
+  <meta content="authenticity_token" name="csrf-param" />
+<meta content="KQoow8NQRqJvjtvjJgSA/0p6LvLT8uWGTMKqeyVHIEg=" name="csrf-token" />
+
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700,600,300' rel='stylesheet' type='text/css'>
+  <link href='https://framework-gb.cdn.gob.mx/applications/cms/favicon.png' rel='shortcut icon'>
+  <link data-turbolinks-track="true" href="/cms/assets/application.css" media="all" rel="stylesheet" />
+  <link data-turbolinks-track="true" href="https://framework-gb.cdn.gob.mx/gm/accesibilidad/css/gobmx-accesibilidad.min.css" media="all" rel="stylesheet" />
+  
+
+  <!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+  <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+
+ <![endif]-->
+  <script async src="https://www.googletagmanager.com/gtag/js?id="></script>
+  <script src="https://framework-gb.cdn.gob.mx/applications/cms/carrusel/swiper-bundle.min.js"></script>
+
+  <link rel="stylesheet" href="https://framework-gb.cdn.gob.mx/applications/cms/carrusel/swiper-bundle.min.css">
+
+    <script type="text/javascript">
+
+        var SubGroup = '';
+        if(false || false){
+            SubGroup = 'Temas';
+        }else{
+            SubGroup = 'presidencia';
+        }
+        var PageType = '';
+        if(false){
+            PageType = 'Home'
+        }else{
+            if(false){
+                PageType = '';
+            }else {
+                var site = window.location.pathname;
+                var arrayPageType = ["articulos", "prensa", "agenda", "documentos", "multimedia", "galerias", "videos",
+                    "acciones_y_programas", "acciones-y-programas", "mi-foto-con-el-presidente",
+                    "estructuras", "descargables", "que-hacemos", "finanzas", "infografias"];
+
+                if (site.search("archivo") != -1) {
+                    PageType = "archivo_";
+                }
+                for (var i = 0; i < arrayPageType.length; i++) {
+                    if (site.search(arrayPageType[i]) != -1) {
+                        PageType += arrayPageType[i];
+                        break;
+                    }
+                }
+            }
+        }
+
+
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', '');
+
+        gtag('require', 'linker');
+        gtag('linker:autoLink', ['www.gob.mx']);
+        gtag('set', 'contentGroup1', 'Gobierno');
+        gtag('set', 'contentGroup2', SubGroup);
+        gtag('set', 'contentGroup3', PageType);
+        gtag('set', 'dimension14', 'Gobierno');
+        gtag('set', 'dimension15', SubGroup);
+        gtag('set', 'dimension16', PageType);
+        gtag('set', 'dimension13', 'No Registrado');
+        gtag('send', 'pageview');
+        gtag('set', 'contentGroup1', null);
+        gtag('set', 'contentGroup2', null);
+        gtag('set', 'contentGroup3', null);
+        gtag('set', 'dimension14', null);
+        gtag('set', 'dimension15', null);
+        gtag('set', 'dimension16', null);
+        gtag('set', 'dimension13', null);
+
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-144356475-1', 'auto', {'allowLinker':true});
+        ga('require', 'linker');
+        ga('linker:autoLink', ['www.gob.mx']);
+        ga('set', 'contentGroup1', 'Gobierno');
+        ga('set', 'contentGroup2', SubGroup);
+        ga('set', 'contentGroup3', PageType);
+        ga('set', 'dimension14', 'Gobierno');
+        ga('set', 'dimension15', SubGroup);
+        ga('set', 'dimension16', PageType);
+        ga('set', 'dimension13', 'No Registrado');
+        ga('send', 'pageview');
+        ga('set', 'contentGroup1', null);
+        ga('set', 'contentGroup2', null);
+        ga('set', 'contentGroup3', null);
+        ga('set', 'dimension14', null);
+        ga('set', 'dimension15', null);
+        ga('set', 'dimension16', null);
+        ga('set', 'dimension13', null);
+    </script>
+
+
+  <script type = "text/javascript"> console.log(true);
+  var rails_env_prod = true; </script>
+  <script src="/cms/assets/application.js"></script>
+  <script src="/cms/assets/imageReplace.js"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.js"></script>
+
+                              <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("True"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="N3JQ2-2RVHB-WJQMN-CEYEM-ATMWX",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"N3JQ2-2RVHB-WJQMN-CEYEM-ATMWX",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="xxqo3jv567lbgzxpkifq-f-de4a059c0-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"37","ak.cp":"413578","ak.ai":parseInt("270161",10),"ak.ol":"0","ak.cr":13,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"c10c66fe","ak.r":49405,"ak.a2":e,"ak.m":"b","ak.n":"essl","ak.bpcip":"189.224.237.0","ak.cport":29811,"ak.gh":"189.247.214.12","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"reno","ak.t":"1726960139","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==EkZMw5CI4LjxFXrt6mNBFfcx4MuoXJSDJm4cUI8oLo53M+ZO0JBztaaQVX/TJ7ZR28+RWH3T2FlaHB+3QP44aXaoC5XO6jqFuwXAOGrJUevYF2iNDZB0HHKvJ2PbLWtnyDNbzCGpydpu9VykYdnIcIZ5hsmkbfLzeafKk7AQVwWA1hc0HE9ursYyEUIiln2jRxbsZWkOOn6jOGh5y6Cje7PAru22YU0QKFiOHhzBseixWPcgIpvWTHnnKR3TPBlQ2LaSoqNqhpXggJQY21bN17ipbZihb3Vbp/tCFKTg5RLB5zT5X++1ebRxOG/wpDCsiIAVr5J5Pzbrr0tXJKB2rf86oSzF0maFCVrYMgyJT5R3Tdirx0Iis0XPQ8lM16xvarzDFq4ni7QukhDj6zb3f9zLAxZjkd5OHCHFwpmHCYo=","ak.pv":"113","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+<body>
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v13.0" nonce="MZ2GPb2d"></script><!-- a href="#principal" class="skip">Saltar al contenido principal</a -->
+  <header class=" navbar navbar-inverse">
+    <nav class="navbar navbar-inverse  navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-target="#navbarMainCollapse" data-toggle="collapse">
+            <span class="sr-only">Interruptor de Navegación</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a href="/" style="padding: 1px 3px 3px 3px;" class="navbar-brand " title="Ir a la página inicial">
+
+            <div class="logo-main"></div>
+          </a>
+        </div>
+        <div id="navbarMainCollapse" class="collapse navbar-collapse">
+          <ul class="nav navbar-nav navbar-right">
+           <li><a href="/tramites" title="Trámites">Trámites </a></li>
+            <li><a href="/gobierno" title="Gobierno">Gobierno</a></li>
+                  <li><a href="/presidencia/en" title="Versión en inglés del sitio web">English</a>
+                  </li>
+                </li>
+
+
+            <li>
+              <form accept-charset="UTF-8" action="/busqueda" method="get"><div style="display:none"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+                <input type="hidden" name="site" value="presidencia">
+                <button data-v-6394873e="" id="botonbuscar" type="button" class="btn btn-search"><a data-v-6394873e="" href="https://www.gob.mx/busqueda?utf8=✓" target="_blank" id="botbusca"><img data-v-6394873e="" alt="Buscar" src="https://framework-gb.cdn.gob.mx/landing/img/lupa.png"></a></button>
+</form>            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    
+
+
+        <script src="/cms/assets/level_jump.js"></script><section>
+<!-- Subnavegacion -->
+<nav class=" navbar-inverse sub-navbar fixed-top"
+     >
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#subenlaces">
+        <span class="sr-only">Interruptor de Navegación</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="link-name" href="?tab="></a>
+    </div>
+    <div class="collapse navbar-collapse" id="subenlaces">
+      <ul class="nav subnav navbar-nav navbar-right">
+              <li class="landing-btn">
+                    <a href='/presidencia/es/archivo/prensa'>
+                Comunicados            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='/presidencia/es/#5173'>
+                Directorio            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='https://transparencia.presidencia.gob.mx/presidencia/transparencia/politicas-de-tratamiento-de-datos-personales-de-la-oficina-de-la-presidencia-de-la-republica/'>
+                Protección de Datos Personales            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='https://www.gob.mx/presidencia/transparencia/'>
+                Transparencia            </a>
+            </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+<style>
+  .flag-banner {
+  top: 45px  !important;
+  }
+</style>
+<!-- div class="warning-nav" style="margin-top: 0px;">
+  <div class="container">
+    <div class="row clearfix">
+  <div class="col-xs-12 col-sm-12 col-md-12">Este contenido será modificado temporalmente en atención a las disposiciones legales y normativas en materia electoral, con motivo del inicio de periodo de campaña</div>
+  </div>
+  </div>
+</div -->
+</section>
+
+
+  </header>
+
+
+
+
+
+<main class="inner-page interior ficha">
+  <div class="container">
+  	<ol class="breadcrumb">
+  <li><a href="http://www.gob.mx"><span class="icon icon-home"></span><span class="sr-only">Inicio</span></a></li>
+  <li><a href="/presidencia">Presidencia de la República </a></li>
+  <li class="active">Blog</li>
+</ol>
+  	<div class="">
+      <div aria-hidden="true" class="hidden-xs font-changer internal print" tabindex="-1">
+  <button class="inc-font font-modifier">Aa+</button>
+  <button class="dec-font font-modifier">Aa-</button>
+</div>
+      <div class="marquee-padding">
+      <div class='post-list main-post-list'>
+<div class='marque-float-left'>
+<div class='right_arrow'></div>
+<div class='titulo-pub'>
+<small>Publicaciones Recientes</small>
+</div>
+</div>
+<div>
+<div class='container-marque'>
+<div id='headlines'>
+<div class='marquee'>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-19 13:44:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-19-de-septiembre-de-2024' title='Versió'>
+Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 19 de septiembre de 2024
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-18 12:36:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-18-de-septiembre-de-2024' title='Versió'>
+Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 18 de septiembre de 2024
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-17 13:51:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-entrega-de-estimulos-a-delegaciones-mexicanas-participantes-en-juegos-olimpicos-y-paralimpicos-paris-2024' title='Versió'>
+Versión estenográfica. Entrega de estímulos a delegaciones mexicanas participantes en Juegos Olímpicos y Paralímpicos París 2024
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-17 12:21:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-17-de-septiembre-de-2024' title='Versió'>
+Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 17 de septiembre de 2024
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-16 13:56:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-desfile-civico-militar' title='Versió'>
+Versión estenográfica. Desfile Cívico Militar
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+      </div>
+  	  <div class="col-md-7 col-xs-12 col-sm-12 pull-left" tabindex="0">
+  	  	<h1 class="bottom-buffer">Versión estenográfica. 200 Aniversario del Archivo General de la Nación</h1>
+  	  	<h2>Acto encabezado por el presidente Andrés Manuel López Obrador desde la Ciudad de México</h2>
+        <section class="">
+          <p>Presidencia de la República  | 23 de agosto de 2023</p>
+        </section>
+  	  <div class="imagen-principal">
+  	      <img alt="200 Aniversario del Archivo General de la Nación" class="img-responsive img_curve" src="https://www.gob.mx/cms/uploads/article/main_image/136603/WhatsApp_Image_2023-08-23_at_13.29.40.jpeg" />
+  	      <span class="small">200 Aniversario del Archivo General de la Nación</span>
+      </div>
+      <div class="article-body"><p><strong>MODERADOR: </strong> Preside este evento, 200 Aniversario del Archivo General de la Naci&oacute;n, el presidente constitucional de los Estados Unidos Mexicanos, licenciado Andr&eacute;s Manuel L&oacute;pez Obrador.</p>
+
+<p>Lo acompa&ntilde;an:</p>
+
+<p>La esposa del presidente de los Estados Unidos Mexicanos, doctora Beatriz Guti&eacute;rrez Mueller.</p>
+
+<p>El jefe de Gobierno de la Ciudad de M&eacute;xico, Mart&iacute; Batres Guadarrama.</p>
+
+<p>La secretaria de Gobernaci&oacute;n, Luisa Mar&iacute;a Alcalde Luj&aacute;n.</p>
+
+<p>El director general del Archivo General de la Naci&oacute;n, Carlos Enrique Ruiz Abreu.</p>
+
+<p>Asimismo, damos la bienvenida al personal del Archivo General de la Naci&oacute;n, as&iacute; como a los representantes de los medios de comunicaci&oacute;n y a quienes nos siguen a trav&eacute;s de las redes sociales.</p>
+
+<p>Todas y todos ustedes sean bienvenidos.</p>
+
+<p>Procedemos con el mensaje de bienvenida a cargo del jefe de gobierno de la Ciudad de M&eacute;xico, maestro Mart&iacute; Batres Guadarrama.</p>
+
+<p><strong>MART&Iacute; BATRES GUADARRAMA, JEFE DE GOBIERNO DE LA CIUDAD DE M&Eacute;XICO:</strong> Licenciado Andr&eacute;s Manuel L&oacute;pez Obrador, presidente constitucional de los Estados Unidos Mexicanos.</p>
+
+<p>Doctora Beatriz Guti&eacute;rrez Mueller.</p>
+
+<p>Licenciada Luisa Mar&iacute;a Alcalde Luj&aacute;n, secretaria de Gobernaci&oacute;n.</p>
+
+<p>Doctor Carlos Enrique Ruiz Abreu.</p>
+
+<p>Dos a&ntilde;os despu&eacute;s de que se declar&oacute; la Independencia nacional, y justo en el momento inmediato siguiente a la ca&iacute;da del imperio de Iturbide, se aprueba la creaci&oacute;n del Archivo General y P&uacute;blico de la Naci&oacute;n. Aquel momento formaba parte de la primera gran transformaci&oacute;n de nuestra patria, se estaban creando las bases jur&iacute;dicas y pol&iacute;ticas del nuevo estado independiente.</p>
+
+<p>El nombre del nuevo archivo no era casual, los papeles no eran de una instituci&oacute;n u otra, sino del nuevo Estado, por eso se llama &lsquo;Archivo General&rsquo;. Los documentos no eran propiedad de un rey o un emperador; ni siquiera de un gobierno, sino de todos los mexicanos, por eso se llam&oacute;: &lsquo;Archivo P&uacute;blico&rsquo;.</p>
+
+<p>Durante la guerra de intervenci&oacute;n francesa este Archivo de la Naci&oacute;n anduvo peregrinando, junto con el presidente Benito Ju&aacute;rez. De ese tama&ntilde;o era su importancia.</p>
+
+<p>Los documentos del archivo no s&oacute;lo conformaron la base jur&iacute;dica para la actuaci&oacute;n de gobierno, sino tambi&eacute;n para el ejercicio de los derechos de las y los mexicanos. As&iacute; lo demuestra la historia de los pueblos, cuyos documentos se resguardan en los fondos de este archivo.</p>
+
+<p>Pondremos un ejemplo emblem&aacute;tico. En su obra <em>Ra&iacute;z y raz&oacute;n de Zapata,</em> el profesor Jes&uacute;s Sotelo Incl&aacute;n refiere que un primo del general Emiliano Zapata, Francisco Chico Franco, le cont&oacute; que, en una ocasi&oacute;n, en medio de los combates, acudieron unos revolucionarios del estado de Michoac&aacute;n a conferenciar con el Caudillo del Sur para cerciorarse de su sinceridad y de sus intereses revolucionarios.</p>
+
+<p>El general mand&oacute; llamar a Chico Franco, orden&aacute;ndole llevarle ante el tesoro. Chico se fue y despu&eacute;s de un rato regres&oacute; con una caja de lat&oacute;n y la entreg&oacute; a su jefe; este la abri&oacute; y le mostr&oacute; a los michoacanos la raz&oacute;n de su lucha, los documentos que durante siglos hab&iacute;an generado los representantes del pueblo de Anenecuilco para defender sus derechos ante el implacable avance de las haciendas, siglos de consciencia colectiva, de esfuerzo constante por construir derechos mediante la defensa de las tierras y aguas, por alcanzar la justicia estaban representados en esos documentos que eran traslados, o sea, copias de los originales que se resguardaban en los acervos de las instituciones.</p>
+
+<p>Los documentos son, tal como puede observarse, materializaci&oacute;n de largas luchas del pueblo. Los documentos resguardados aqu&iacute;, aqu&iacute; donde estuvieron presos Heberto Castillo, Jos&eacute; Revueltas, David Alfaro Siqueiros, dan cuenta tambi&eacute;n de las traiciones del r&eacute;gimen pol&iacute;tico que en las &uacute;ltimas d&eacute;cadas del siglo XX y primeros a&ntilde;os del siglo XXI reprimi&oacute; ferozmente las luchas del pueblo, permiti&oacute; acumular inmensas fortunas al amparo del poder y privatiz&oacute; los bienes de la naci&oacute;n.</p>
+
+<p>La obra social, progresista, libertaria, de la Cuarta Transformaci&oacute;n tambi&eacute;n quedar&aacute; como memoria viva en este Archivo General de la Naci&oacute;n.</p>
+
+<p>Quiero terminar recordando lo que dec&iacute;a el maestro Arnaldo C&oacute;rdova: &lsquo;La historia es, ante todo, memoria del pasado en el presente, es una recreaci&oacute;n colectiva, incluso cuando se la convierte en ciencia, es decir, en explicaci&oacute;n, en respuesta a los porqu&eacute;s del presente y en la afirmaci&oacute;n demostrable o sujeta a demostraci&oacute;n. Es, sobre todo, el hogar de la consciencia de un pueblo&rsquo;.</p>
+
+<p>Muchas gracias al Archivo General de la Naci&oacute;n por resguardar durante 200 a&ntilde;os nuestra memoria hist&oacute;rica. Y felicidades a todo su personal. Muchas gracias.</p>
+
+<p><strong>MODERADOR:&nbsp; </strong>Solicitamos la palabra al director general del Archivo General de la Naci&oacute;n, doctor Carlos Enrique Ruiz Abreu.</p>
+
+<p><strong>CARLOS ENRIQUE RUIZ ABREU, DIRECTOR GENERAL DEL ARCHIVO GENERAL DE LA NACI&Oacute;N:</strong> Buenos d&iacute;as a todos.</p>
+
+<p>Licenciado Andr&eacute;s Manuel L&oacute;pez Obrador, presidente de M&eacute;xico.</p>
+
+<p>Doctora Beatriz Guti&eacute;rrez Mueller.</p>
+
+<p>Licenciado Mart&iacute; Batres Guadarrama.</p>
+
+<p>La licenciada Luisa Mar&iacute;a Alcalde.</p>
+
+<p>Bienvenidos todos.</p>
+
+<p>Jefe de gobierno de la Ciudad de M&eacute;xico.</p>
+
+<p>Amigas y amigos:</p>
+
+<p>Sean bienvenidos a este palacio del saber universal, que resguarda la memoria, con documentos de m&aacute;s de cinco siglos.</p>
+
+<p>Hace 40 a&ntilde;os llegu&eacute; a este archivo, motivado por dos proyectos de investigaciones, cuando estudiaba la carrera de Historia y para hacer mi tesis de licenciatura, y el proyecto de localizar y microfilmar documentos, todos los documentos existentes en el Archivo General de la Naci&oacute;n sobre la historia de Tabasco, desde el siglo XVI hasta el XX, tarea en la que volqu&eacute; todos mis esfuerzos y tiempo, que conclu&iacute; satisfactoriamente.</p>
+
+<p>Desde entonces comprend&iacute; que un archivo es un oasis, es un centro de conocimiento, es la m&uacute;sica que evita la soledad de un historiador; tambi&eacute;n entend&iacute; que es la materia prima de la historia estaba en los archivos. Por ende, como la ceiba de mi pueblo, me enraic&eacute; aqu&iacute; y aqu&iacute; estar&eacute; hasta mi &uacute;ltimo aliento.</p>
+
+<p>Durante muchos a&ntilde;os he sido testigo de lo que se ha hecho en este archivo y de lo que se ha dejado de hacer. Y es precisamente gracias a esta experiencia que al inicio de esta administraci&oacute;n nos enfocamos en las tareas sustantivas abandonadas durante d&eacute;cadas.</p>
+
+<p>De manera urgente hicimos un diagn&oacute;stico en 2019, fino y profundo, para saber las condiciones reales en que se encontraba el AGN para poder emprender proyectos de corto, mediano y largo plazo.</p>
+
+<p>El resultado nos dio la raz&oacute;n. Cero proyectos de conservaci&oacute;n, 60 por ciento del acervo total de este archivo no estaba descrito, el 20 por ciento descrito era homog&eacute;neo y el otro 20 por ciento era completamente irregular.</p>
+
+<p>Respecto a la digitalizaci&oacute;n, la encontramos pr&aacute;cticamente en ceros. Adem&aacute;s, heredamos cuatro mil 977 solicitudes de bajas documentales de rezago de la Administraci&oacute;n P&uacute;blica Federal. Ante este panorama, la estrategia a seguir fue simple y sencilla:&nbsp; nos pusimos a trabajar.</p>
+
+<p>Miren ustedes las paradojas que tiene la vida. La penitenciaria dej&oacute; de funcionar en 1975 y se convirti&oacute; en archivo un d&iacute;a como hoy, de 1982. Desde entonces, pareciera que los documentos depositados alrededor de este pan&oacute;ptico en el que nos encontramos hoy, en las siete cruj&iacute;as que pueden ver a su alrededor, ahora galer&iacute;as, y en las 886 celdas, ahora acervos, los documentos fueron encerrados, igual que un d&iacute;a los reos.</p>
+
+<p>Unos sal&iacute;an a ver la luz, otros quedaban presos en el tiempo y en el espacio, en lo que fue la antigua c&aacute;rcel de Lecumberri. Es decir, salieron los presos, entraron los documentos y corrieron la misma suerte.</p>
+
+<p>Durante 36 a&ntilde;os estuvieron olvidados, no tomados en cuenta, sin ser ordenados y clasificados, sin instrumentos de consulta, sin ser descritos, sin obtener su libertad para gozo de infinidad de investigadores, como si hubieran cometido alg&uacute;n delito estaban en la oscuridad total dentro de un palacio negro, pareciera que las autoridades no deseaban que el pueblo de M&eacute;xico y del mundo conociera la rica y abundante historia que guardan.</p>
+
+<p>Si me lo permite, se&ntilde;or presidente, voy a referirme a aquella reuni&oacute;n de trabajo que tuvimos cuando le present&eacute; el diagn&oacute;stico, dos horas de reflexi&oacute;n, an&aacute;lisis y compromisos. Recuerdo perfectamente su cara de asombro, de tristeza y de coraje, al mismo tiempo que de esperanza y fortaleza de que juntos, con trabajo y disciplina constante, levantar&iacute;amos a este elefante reum&aacute;tico al que yo llam&eacute; desde entonces &lsquo;la memoria encarcelada&rsquo;, as&iacute; le titul&eacute; a este discurso, la memoria de M&eacute;xico, &lsquo;la memoria de M&eacute;xico encarcelada y liberada&rsquo;.</p>
+
+<p>Usted me pregunt&oacute;: &lsquo;&iquest;Qu&eacute; necesitas?, y respond&iacute;: Manos, muchas manos y recursos para preservar, describir, digitalizar la memoria de M&eacute;xico, entre otras tareas urgentes. De hecho, plan con ma&ntilde;a, junto al diagn&oacute;stico yo llevaba la tarea completa: a un lado del horror, la ilusi&oacute;n y la estrategia para salir adelante.</p>
+
+<p>El compromiso qued&oacute; sellado, recursos fiscales y extraordinarios del Instituto Nacional para Devolver al Pueblo lo Robado, todo para liberar, para poner en libertad la memoria de M&eacute;xico y entregarla al pueblo de M&eacute;xico. Desde entonces, gracias a la generosidad de usted y de la doctora Beatriz Guti&eacute;rrez Mueller hemos avanzado mucho, porque hemos trabajado de forma intensa.</p>
+
+<p>El Archivo General de la Naci&oacute;n es un organismo p&uacute;blico descentralizado, no sectorizado, con personalidad jur&iacute;dica y patrimonios propios, con autonom&iacute;a t&eacute;cnica y de gesti&oacute;n. Se concibe como la entidad especialidad en materia de archivos a nivel nacional y &oacute;rgano de consulta del Poder Ejecutivo federal.</p>
+
+<p>Entre sus nobles labores se encuentra la de presidir el Consejo Nacional de Archivos, &oacute;rgano rector de la archiv&iacute;stica de este pa&iacute;s. El AGN acompa&ntilde;a y promueve el desarrollo archiv&iacute;stico nacional, resguarda y conserva el acervo hist&oacute;rico m&aacute;s importante de Am&eacute;rica Latina con 54 kil&oacute;metros lineales de documentaci&oacute;n. Tambi&eacute;n, preside el Consejo Honorario para la Memoria Hist&oacute;rica de M&eacute;xico, que inspira a ser la instancia garante del derecho a la memoria de la naci&oacute;n.</p>
+
+<p>Para garantizar el cumplimiento de su funci&oacute;n p&uacute;blica, el Archivo General de la Naci&oacute;n cuenta con un &oacute;rgano de gobierno integrado por las secretar&iacute;as de Gobernaci&oacute;n, Funci&oacute;n P&uacute;blica, Hacienda y Cr&eacute;dito P&uacute;blico; Educaci&oacute;n P&uacute;blica, Cultura y Relaciones Exteriores, as&iacute; como por el Consejo Nacional de Humanidades, Ciencia y Tecnolog&iacute;a; tambi&eacute;n, cuenta con &oacute;rgano interno de control y un comisario p&uacute;blico, quienes se encargan de vigilar las actividades administrativas de esta instituci&oacute;n.</p>
+
+<p>Ante el estado de precariedad encontrado en el diagn&oacute;stico realizado en 2019, la estrategia a seguir fue la siguiente: convertir lo negativo en positivo. Para ello, emprendimos e implementamos un plan de emergencia consistente, aunque parezca mentira, en trabajar en las tareas sustantivas de un archivo, crear instrumentos normativos para realizar de manera adecuada los procesos t&eacute;cnicos, como son, entre otros, conservar, describir y digitalizar el acervo.</p>
+
+<p>En estos cinco a&ntilde;os se cambi&oacute; completamente la estructura del archivo, se le dio sentido a cada direcci&oacute;n, subdirecci&oacute;n y jefatura, con el nombre que le corresponde de acuerdo a la Ley General de Archivos y al estatuto org&aacute;nico. De esa manera, todo hoy, todo, est&aacute; en su lugar. Por ello, har&eacute; una breve descripci&oacute;n de los alcances de cada una de las direcciones.</p>
+
+<p>La Direcci&oacute;n de Preservaci&oacute;n del Patrimonio Documental tiene como objetivo implementar mejores pr&aacute;cticas en la preservaci&oacute;n del patrimonio documental de la naci&oacute;n, elaborar normativa e incorporar metodolog&iacute;as para la conservaci&oacute;n, clasificaci&oacute;n y catalogaci&oacute;n de los documentos hist&oacute;ricos bajo su custodia.</p>
+
+<p>Con el af&aacute;n de conocer a ciencia cierta el volumen total del acervo, se ha logrado identificar un total de 306 mil 209 cajas y en esta administraci&oacute;n hemos creado un inventario topogr&aacute;fico de 50 mil 886 cajas y vol&uacute;menes, aunque a&uacute;n hay mucho por identificar el avance es significativo.</p>
+
+<p>Esta direcci&oacute;n lleva a cabo importantes acciones de conservaci&oacute;n preventiva y estabilizaci&oacute;n. Entre estas acciones destacan la elaboraci&oacute;n de 40 diagn&oacute;sticos generales de conservaci&oacute;n, limpieza profunda y desinfecci&oacute;n de dos millones 729 mil fojas, la estabilizaci&oacute;n de 41 mil 135 documentos textuales y gr&aacute;ficos, la encuadernaci&oacute;n de 219 vol&uacute;menes y la colocaci&oacute;n de 67 mil guardas de materiales especiales en conservaci&oacute;n.</p>
+
+<p>El rezago de descripci&oacute;n de los fondos documentales es de tal magnitud, que nos va a llevar muchos a&ntilde;os poder alcanzar el 100 por ciento.</p>
+
+<p>Para que ustedes comprendan mejor lo delicado del asunto, les explico: tenemos en este archivo miles de cajas y vol&uacute;menes, sabemos que son de un fondo determinado, pero no sabemos el asunto particular de cada expediente.</p>
+
+<p>Traducido a nuestra historia nacional, significa que a&uacute;n hay por describir muchas de sus particularidades e infinidad de hechos hist&oacute;ricos de M&eacute;xico de los &uacute;ltimos 500 a&ntilde;os, y mucho de nuestro conocimiento actual puede ser enriquecido o puede ser transformado radicalmente. As&iacute; de importante es describir los documentos de un archivo.</p>
+
+<p>Ante este panorama, dise&ntilde;amos una estrategia s&oacute;lida para abordar esta situaci&oacute;n y avanzar en la descripci&oacute;n de los fondos parcialmente descritos, as&iacute; como para homologar los elementos de descripci&oacute;n de los elementos existentes.</p>
+
+<p>Como resultado, hemos creado 180 mil nuevas fichas descriptivas y hemos homologado dos millones 860 mil registros e instrumentos de descripci&oacute;n existente. Adem&aacute;s, hemos integrado 35 diagn&oacute;sticos generales de organizaci&oacute;n y descripci&oacute;n de fondos y colecciones hist&oacute;ricas. Describir para conocer nuestra historia es una forma de liberar la memoria de M&eacute;xico encarcelada por d&eacute;cadas.</p>
+
+<p>La direcci&oacute;n de Tecnolog&iacute;as de la Informaci&oacute;n y Comunicaciones de Archivo General de la Naci&oacute;n es un pilar fundamental para la preservaci&oacute;n y acceso al patrimonio documental del pa&iacute;s. Esta administraci&oacute;n recibi&oacute; 373 mil im&aacute;genes digitalizadas que cumplen con un est&aacute;ndar de calidad adecuado y homologado.</p>
+
+<p>Es un privilegio anunciar que, gracias al invaluable apoyo recibido por el presidente de M&eacute;xico, hoy se han digitalizado 11 millones de im&aacute;genes. Al final de esta gesti&oacute;n contaremos con 15 millones de im&aacute;genes.</p>
+
+<p>No lo quer&iacute;a yo decir, pero me voy a salir del guion. Yo so&ntilde;&eacute; hace cinco a&ntilde;os pod&iacute;amos digitalizar los 120 fondos coloniales que tiene este archivo, nada m&aacute;s de La Colonia, 120, pero por la pandemia y, lo tengo que decir tambi&eacute;n, por la burocracia muchas veces no se va a poder, pero s&iacute; vamos a dejar 50 fondos documentales digitalizados y son los m&aacute;s solicitados desde hace d&eacute;cadas en este archivo. En fin, el reto es dejar un objeto digital perfecto, al grado que nuestro original digital se vuelva tan importante como nuestro original en papel, obviamente guardando las proporciones.</p>
+
+<p>La digitalizaci&oacute;n permite tambi&eacute;n liberar la memoria de M&eacute;xico. La Direcci&oacute;n de Desarrollo Archiv&iacute;stico Nacional tiene como objetivo impulsar la organizaci&oacute;n y administraci&oacute;n homog&eacute;nea de los archivos. A partir de la entrada en vigor de la Ley General de Archivos en junio de 2019 el desaf&iacute;o m&aacute;s importante que enfrentamos fue el aumento de los sujetos obligados, que pas&oacute; de 780 a 12 mil sujetos obligados.</p>
+
+<p>Hasta hoy hemos podido brindar tres mil 676 asesor&iacute;as y acompa&ntilde;amientos a los sujetos obligados, adem&aacute;s implementamos una plataforma para el Registro Nacional de Archivos.</p>
+
+<p>Gracias al invaluable apoyo recibido a trav&eacute;s de los recursos del Instituto Nacional para Devolverle al Pueblo lo Robado, pudimos desarrollar una plataforma gratuita de capacitaci&oacute;n en l&iacute;nea con altos est&aacute;ndares de educaci&oacute;n a distancia. Estamos orgullosos de informar que a tan s&oacute;lo unos meses de su lanzamiento hemos registrado en dicha plataforma nueve mil 914 inscripciones y capacitado a seis mil 915 servidores p&uacute;blicos.</p>
+
+<p>Al comienzo de esta administraci&oacute;n nos encontramos con el rezago de cuatro mil 977 solicitudes de bajas documentales de la administraci&oacute;n p&uacute;blica federal, lo que signific&oacute; un gran desaf&iacute;o; sin embargo, hoy es un gran honor y privilegio informar, se&ntilde;or presidente, que hemos abatido por completo ese rezago heredado y atendido nuevas solicites, sumando un total de nueve mil 437 solicitudes atendidas.</p>
+
+<p>Con el fin de impulsar el desarrollo archiv&iacute;stico de M&eacute;xico y preservar la memoria nacional, desarrollamos el Programa Memoria de los Archivos, Archivos de la Memoria. Gracias a esto, se llev&oacute; a cabo un levantamiento de datos respecto al estado en que se encuentran los 32 archivos estatales y los dos mil 469 archivos municipales.</p>
+
+<p>En dos a&ntilde;os hemos llevado a cabo 78 sesiones virtuales con representantes de los archivos estatales y hemos logrado recopilar cinco mil 137 fichas de reconocimiento.</p>
+
+<p>La Oficina para la Memoria Hist&oacute;rica de M&eacute;xico del Archivo General de la Naci&oacute;n tiene la funci&oacute;n de dirigir la operaci&oacute;n del repositorio digital &lsquo;Mem&oacute;rica M&eacute;xico, haz memoria&rsquo;, para difundir y promover el derecho a la memoria nacional, con el objetivo de poner a disposici&oacute;n del p&uacute;blico en general, archivos digitales de diversa naturaleza relacionados con la historia y las expresiones culturales de M&eacute;xico. Abordamos m&aacute;s de 968 temas.</p>
+
+<p>Este a&ntilde;o terminaremos con 300 mil recursos digitales ingresados al repositorio y hemos difundido 68 exposiciones provenientes de bibliotecas, hemerotecas, archivos p&uacute;blicos y privados, nacionales e internacionales, raz&oacute;n por la cual el repositorio ha recibido hasta el d&iacute;a de hoy 902 mil visitas.</p>
+
+<p>La Direcci&oacute;n de Gesti&oacute;n y Acceso y Difusi&oacute;n del Patrimonio Documental es la encargada de brindar servicios al p&uacute;blico, crear estrategias para fomentar el uso institucional y social del patrimonio documental resguardado por el AGN, considerando las necesidades de consulta, investigaci&oacute;n, y divulgaci&oacute;n, as&iacute; como la promoci&oacute;n de la labor archiv&iacute;stica en M&eacute;xico.</p>
+
+<p>Al inicio de la gesti&oacute;n, el archivo contaba con un mecanismo de atenci&oacute;n que limitaban el acceso a la ciudadan&iacute;a. Nosotros dimos un paso adelante con la apertura irrestricta a la consulta del acerco hist&oacute;rico. Actualmente, se atienden, en promedio, a 82 investigadores al d&iacute;a, una cifra considerable si se compara con los 20 investigadores que se atend&iacute;an en 2018.</p>
+
+<p>En total, esta direcci&oacute;n ha atendido, durante la presente administraci&oacute;n, a 38 mil 291 usuarios quienes tuvieron acceso a 250 mil expedientes del acervo hist&oacute;rico resguardado por nuestra instituci&oacute;n.</p>
+
+<p>La Direcci&oacute;n de Asuntos Jur&iacute;dicos tiene la funci&oacute;n de asesorar y acompa&ntilde;ar a las unidades y &aacute;reas administrativas durante el desahogo de sus actividades. El &aacute;rea jur&iacute;dica del archivo trabaja en la consolidaci&oacute;n del Consejo Nacional de Archivos y sus comisiones de trabajo, as&iacute; como en la elaboraci&oacute;n de la primera pol&iacute;tica nacional de gesti&oacute;n, documentaci&oacute;n y administraci&oacute;n de archivos, que permitir&aacute; tener un mecanismo que mida y promueva el desarrollo archiv&iacute;stico del pa&iacute;s.</p>
+
+<p>Tambi&eacute;n colabora en la operaci&oacute;n del Consejo Honorario para la Memoria Hist&oacute;rica, a trav&eacute;s del cual el Archivo General de la Naci&oacute;n aspira a dar cumplimiento a su atribuci&oacute;n de difundir y proyectar el derecho a la memoria de la naci&oacute;n.</p>
+
+<p>Finalmente, con el apoyo de la Presidencia de la Rep&uacute;blica se cre&oacute; la Subdirecci&oacute;n para la Protecci&oacute;n y Restituci&oacute;n del Patrimonio Documental, que ha permitido el aseguramiento de 75 lotes de documentos hist&oacute;ricos que se quer&iacute;an subastar y la repatriaci&oacute;n de 19 documentos, as&iacute; como el establecimiento de una doctrina jur&iacute;dica especializada en la materia y dise&ntilde;o e implementaci&oacute;n de estrategias masivas para prevenir y combatir el tr&aacute;fico il&iacute;cito de nuestro patrimonio, porque nuestro patrimonio no se vende, se ama y se defiende.</p>
+
+<p>La Direcci&oacute;n de Administraci&oacute;n est&aacute; enfocada en optimizar recursos y contar con una infraestructura administrativa s&oacute;lida para llevar a cabo procedimientos de adquisici&oacute;n y contrataciones en estricto apego a las leyes correspondientes.</p>
+
+<p>Con la entrada en vigor de la Ley General de Archivos, a partir de enero del 2019 iniciamos el tr&aacute;mite de desincorporaci&oacute;n de la Secretar&iacute;a de Gobernaci&oacute;n para convertirnos en un &oacute;rgano p&uacute;blico descentralizado.</p>
+
+<p>En los &uacute;ltimos cinco a&ntilde;os nuestro presupuesto ha aumentado a&ntilde;o tras a&ntilde;o hasta alcanzar un 200 por ciento m&aacute;s respecto a lo asignado en 2018. Este incremento se debi&oacute; al aumento de nuestra plantilla laboral y a los recursos otorgados por el Indep. Se ha dado seguimiento y atenci&oacute;n a ocho actos de fiscalizaci&oacute;n implementados por el &oacute;rgano interno de control, dos por la Auditor&iacute;a Superior de la Federaci&oacute;n y uno por la Secretar&iacute;a de la Funci&oacute;n P&uacute;blica. Todas esas acciones han concluido satisfactoriamente, mientras que tres se encuentran actualmente en proceso.</p>
+
+<p>Para el AGN ha sido prioritario dar cumplimiento a la instrucci&oacute;n presidencial de liberar la documentaci&oacute;n relacionada con violaciones a los derechos humanos, es por ello que en esta administraci&oacute;n asumimos el reto de gestionar y describir sin la intervenci&oacute;n de ninguna ajena al archivo los 12 mil millones de fojas, as&iacute; como los cuatro millones de fichas de inteligencia.</p>
+
+<p>Adem&aacute;s, se lograron establecer las condiciones jur&iacute;dicas para que la informaci&oacute;n contenida en la documentaci&oacute;n relacionada con violaciones a derechos humanos bajo resguardo de nuestro acervo hist&oacute;rico fuera completamente p&uacute;blica, por lo que hoy, hoy, ya no se generan versiones p&uacute;blicas.</p>
+
+<p>Este a&ntilde;o se plantea digitalizar, por lo menos, cuatro millones de fichas de inteligencia y ponerlas a disposici&oacute;n de cualquier persona desde internet.</p>
+
+<p>El Archivo General de la Naci&oacute;n actualiz&oacute; sus procedimientos internos para poder recibir m&aacute;s documentos relacionados con violaci&oacute;n a derechos humanos. De este modo, el Centro Nacional de Inteligencia ha transferido a este archivo expedientes hist&oacute;ricos, seg&uacute;n el acuerdo presidencial del 27 de febrero de 2019.</p>
+
+<p>Asimismo, en 2021, de 2021 a la fecha hemos trabajado de forma coordinada con la Comisi&oacute;n de la Verdad y Justicia, el mecanismo para la verdad y esclarecimiento hist&oacute;rico. La Secretar&iacute;a de Marina y de la Defensa Nacional, a quienes asesoramos y capacitamos en materia de organizaci&oacute;n y conservaci&oacute;n y digitalizaci&oacute;n de los documentos hist&oacute;ricos.</p>
+
+<p>El reto es complejo, pero estamos convencidos de que vamos por buen camino. En el Archivo General de la Naci&oacute;n seguimos trabajando para liberar la documentaci&oacute;n que resguarda en su acervo, as&iacute; como en mecanismos que faciliten a las corporaciones de inteligencia dar cuenta de sus actos, sin poner en riesgo la seguridad nacional.</p>
+
+<p>Antes de despedirme, quiero hacer una menci&oacute;n especial y agradecer al programa J&oacute;venes Construyendo el Futuro por su invaluable y constante apoyo.</p>
+
+<p>Se ponen de pie por favor. J&oacute;venes Construyendo el Futuro. Aqu&iacute;, aqu&iacute; en el archivo, podemos comprobar la pertinencia y viabilidad de dicho programa, hasta el d&iacute;a de hoy han llegado 188 j&oacute;venes, de los cuales hemos contratado a 52, todos ellos profesionistas, a quienes se les ha capacitado y se encuentran dando lo mejor de s&iacute;. Gracias por el apoyo.</p>
+
+<p>En diciembre del 2018, el Archivo General de la Naci&oacute;n ten&iacute;a 219 trabajadores; hoy somos 516, contratamos a archivistas, restauradores, digitalizadores, ingenieros inform&aacute;ticos, historiadores y abogados, todos, todos estamos hoy aqu&iacute; con la <em>corbata</em> puesta.</p>
+
+<p>Por favor, p&oacute;nganse de pie, los 516 trabajadores est&aacute;n aqu&iacute;.&nbsp; Y los directores de &aacute;rea, por favor, que est&aacute;n aqu&iacute; en frente, gracias, les doy las gracias a todos los trabajadores por su dedicaci&oacute;n y esfuerzo, nos hemos convertido en un grupo compacto, somos los guardianes del patrimonio y de la historia de la naci&oacute;n.</p>
+
+<p>Este es un buen d&iacute;a, se&ntilde;or presidente, para darle las gracias a usted y a la doctora Beatriz Guti&eacute;rrez Mueller, de manera personal y a nombre de todos los trabajadores que aqu&iacute; est&aacute;n presentes, por el gran apoyo brindado, pero, estoy seguro que quien se lo agradecer&aacute; a&uacute;n m&aacute;s es esta instituci&oacute;n, la historia, los usuarios y, en general, el pueblo de M&eacute;xico por ayudar a conservar la memoria de nuestro pa&iacute;s y liberarla.</p>
+
+<p>Al t&eacute;rmino de esta administraci&oacute;n, es decir, en el a&ntilde;o que viene, podremos irnos con la frente en alto, aunque tenemos claro que falta mucho por hacer.</p>
+
+<p>Todos nosotros, los 516 trabajadores del Archivo General de la Naci&oacute;n hicimos nuestro mejor esfuerzo y disminuimos los porcentajes de rezago encontrados en el 2018.</p>
+
+<p>La memoria de M&eacute;xico hoy est&aacute; en completa libertad. Pasamos del olvido a la esperanza.</p>
+
+<p>Muchas gracias a todos y a todas por acompa&ntilde;arnos y ser testigos de esta parte de la historia. Gracias.</p>
+
+<p><strong>MODERADOR:</strong> Solicitamos de manera respetuosa al presidente de los Estados Unidos Mexicanos, licenciado Andr&eacute;s Manuel L&oacute;pez Obrador, y al pres&iacute;dium que lo acompa&ntilde;a, llevar a cabo la develaci&oacute;n del billete de la Loter&iacute;a Nacional conmemorativo a los 200 A&ntilde;os del Archivo General de la Naci&oacute;n.</p>
+
+<p><strong>(DEVELACI&Oacute;N DE BILLETE)</strong></p>
+
+<p><strong>MODERADOR:</strong> Estimado p&uacute;blico, escuchemos el mensaje que nos dirige el presidente constitucional de los Estados Unidos Mexicanos, licenciado Andr&eacute;s Manuel L&oacute;pez Obrador.</p>
+
+<p><strong>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:</strong> Amigas, amigos:</p>
+
+<p>Como se ha dicho, en nuestro gobierno hemos dado atenci&oacute;n especial al cuidado de la memoria hist&oacute;rica y cultural de nuestro pa&iacute;s, se han conservado edificios hist&oacute;ricos, templos, zonas arqueol&oacute;gicas, bibliotecas y archivos.</p>
+
+<p>En nuestro pa&iacute;s, en M&eacute;xico, se encuentran dos de los m&aacute;s importantes archivos del continente americano: este Archivo General de la Naci&oacute;n, aqu&iacute; donde estamos, y el Archivo General Agrario.</p>
+
+<p>De todo el mundo vienen a consultarlos en este lugar, que fue una terrible c&aacute;rcel en tiempos del porfiriato. El Archivo General de la Naci&oacute;n es el encargado de preservar y difundir la memoria documental de M&eacute;xico y cumple hoy 200 a&ntilde;os como instituci&oacute;n, aunque su acervo tiene una antig&uuml;edad mayor a los 450 a&ntilde;os. No s&oacute;lo hay documentos, sino tambi&eacute;n fotograf&iacute;as, ilustraciones, mapas, planos, audiovisuales, microfilmes, una biblioteca y una important&iacute;sima hemeroteca.</p>
+
+<p>Por su parte, el Archivo General Agrario guarda planos, c&oacute;dices, t&iacute;tulos primordiales, testimonios de fundaciones de la mayor&iacute;a de nuestros pueblos, villas, y es tambi&eacute;n muy consultado por peque&ntilde;os propietarios ejidatarios, comuneros, abogados, cient&iacute;ficos, estudiosos e investigadores de M&eacute;xico y de otros pa&iacute;ses.</p>
+
+<p>La mayor parte de este archivo contiene testimonios de las acciones agrarias que se iniciaron con la restituci&oacute;n de bienes comunales y la entrega o dotaci&oacute;n de ejidos, desde la promulgaci&oacute;n de la Ley Agraria del 6 de enero de 1915.</p>
+
+<p>Como sabemos, a consecuencia del sismo del 2017, la sede del Archivo Agrario qued&oacute; severamente da&ntilde;ada. Nos importa mucho preservar, sobre todo por sus documentos, y aunque todav&iacute;a no se hace el cambio, es importante decirlo porque no se conoce, que estamos construyendo la nueva sede para el Archivo Agrario en la avenida Ju&aacute;rez n&uacute;mero 92, en una superficie de m&aacute;s de media hect&aacute;rea; tendr&aacute; un museo, un parque y otras zonas comunes.</p>
+
+<p>Esta obra est&aacute; a cargo de la Secretar&iacute;a de Desarrollo Urbano y Vivienda, de Rom&aacute;n Meyer, que est&aacute; aqu&iacute; con nosotros el secretario, y que deber&aacute; terminarse en julio del a&ntilde;o pr&oacute;ximo para iniciar la mudanza de 45 mil metros lineales de documentos. S&iacute; vamos a lograrlo, &iquest;verdad?</p>
+
+<p>El Archivo General de la Naci&oacute;n, como aqu&iacute; lo mencion&oacute; Carlos Ruiz Abreu, ha recibido m&aacute;s recursos que nunca. Porque a veces se piensa que s&oacute;lo es el Tren Maya, y la refiner&iacute;a, y los acueductos, y las carreteras, y el apoyo a los adultos mayores y a las personas con discapacidad, y las becas para los estudiantes de familias pobres; no, tambi&eacute;n nos ocupamos de los archivos, sobre todo de este, que es muy importante.</p>
+
+<p>Durante el periodo anterior, pues no hab&iacute;a apoyo para este importante Archivo General de la Naci&oacute;n, faltaban muchas cosas. Ahora se ha ido avanzando.,</p>
+
+<p>Y estamos cumpliendo con el compromiso tambi&eacute;n de abrir, como aqu&iacute; se dijo, los archivos secretos de la antigua Direcci&oacute;n Federal de Seguridad y del Centro de Inteligencia y Seguridad Nacional, el Cisen, que est&aacute;n relacionados con espionaje pol&iacute;tico, guerra sucia, desaparecidos y la participaci&oacute;n de diversas entidades del gobierno federal en actos de violaci&oacute;n de derechos humanos y contra la paz y la seguridad p&uacute;blica.</p>
+
+<p>Pero no solo hemos atendido al Archivo General de la Naci&oacute;n y al Archivo Agrario; tambi&eacute;n, como sabemos, en todo el pa&iacute;s hay importantes archivos, colecciones de documentos que debemos preservar, conocer, consultar, difundir, porque en ellos se cuentan los muchos episodios de la vida de nuestro pa&iacute;s sin los cuales no podr&iacute;amos explicar el presente y, por supuesto, no podr&iacute;amos avizorar el futuro, el porvenir.</p>
+
+<p>No puedo mencionar todo, pero se ha realizado bastante, muchas acciones relevantes en el Acervo Hist&oacute;rico Diplom&aacute;tico de la Secretar&iacute;a de Relaciones Exteriores, que est&aacute; por cumplir 55 a&ntilde;os de existencia.</p>
+
+<p>Ahora se cre&oacute; un Acervo Hist&oacute;rico Digital, como aqu&iacute; se mencion&oacute;, y se han intensificado los convenios de cooperaci&oacute;n nacional e internacional con gobiernos e instituciones acad&eacute;micas, sobre todo con pa&iacute;ses de Am&eacute;rica Latina, Europa y con China.</p>
+
+<p>Como en todos los archivos, se han elaborado programas de capacitaci&oacute;n digital en l&iacute;nea para ajustarnos a las normas internacionales.</p>
+
+<p>La Secretar&iacute;a de Hacienda, por otra parte, tiene a su cargo la biblioteca &lsquo;Miguel Lerdo de Tejada&rsquo;, que cuenta con casi 95 a&ntilde;os de haber sido conformada y posee una de las hemerotecas m&aacute;s importantes del pa&iacute;s. En ella se ha mejorado todo lo relacionado con cat&aacute;logo, se han llevado a cabo trabajos de conservaci&oacute;n y an&aacute;lisis de colecciones, as&iacute; como un sistema de automatizaci&oacute;n de bibliotecas para el control e identificaci&oacute;n y acceso al patrimonio que resguarda.</p>
+
+<p>Muchos de los recursos que se han destinado a los archivos de M&eacute;xico proviene, como aqu&iacute; se ha dicho, del Instituto para Devolver al Pueblo lo Robado. Adem&aacute;s, en todos estos lugares se han organizado exposiciones, visitas y actividades culturales de toda &iacute;ndole, porque &iquest;de qu&eacute; nos sirve tener esos tesoros bien guardados, si el p&uacute;blico en general no puede conocerlos y apreciarlos?</p>
+
+<p>Por ello, tambi&eacute;n, desde el inicio de mi gobierno impulsamos el repositorio digital &lsquo;Mem&oacute;rica M&eacute;xico, haz memoria&rsquo;, para que, desde cualquier lugar, cualquier persona, pueda conocer qu&eacute; se preserva en los archivos de M&eacute;xico y qu&eacute; hay de M&eacute;xico en otros sitios similares del resto del mundo. En este portal ya se cuenta con 300 mil objetos digitales provenientes de muchas colecciones, 300 mil objetos digitales provenientes de muchas colecciones.</p>
+
+<p>Nos importa que estudiantes j&oacute;venes, maestros, puedan conocer fotograf&iacute;as, pinturas, esculturas, dibujos, papeles, cartas y muchas otras cosas sin necesidad de trasladarse a los lugares donde se preservan los documentos. Todo esto lo hemos podido hacer porque tenemos convicciones y nos importa mucho la historia. Siempre repito que la historia, como dec&iacute;a Cicer&oacute;n, es la maestra de la vida. Quien no sabe de d&oacute;nde viene dif&iacute;cilmente va a saber hacia d&oacute;nde va.</p>
+
+<p>Lo he hecho por convicci&oacute;n, porque me ha tocado visitar los archivos, trabajar en archivos, porque me gusta mucho, me causa mucho placer escribir sobre historia y por eso s&eacute; la importancia que tienen los documentos de los archivos.</p>
+
+<p>Pero tambi&eacute;n, adem&aacute;s de que es mi responsabilidad como gobernante, porque es cuidar la memoria de nuestro querido pueblo, lo hago porque tengo en la casa una mujer que se dedica a la investigaci&oacute;n y al estudio, y me ha estado recordando de que debo de apoyar a los archivos. As&iacute; es, &iquest;verdad, Carlos?</p>
+
+<p>Termino felicitando a mi paisano Carlos Ruiz Abreu. Ya nada m&aacute;s falt&oacute; que trajera a la Sonora Santanera. Porque no s&eacute; si saben ustedes, que Carlos es de Santa Ana, C&aacute;rdenas, Tabasco. Entonces, a los que nacieron ah&iacute; en Santa Ana&hellip; Que ahora se llama Andr&eacute;s S&aacute;nchez Magallanes, un liberal importante, pero la gente le sigue llamando Santa Anna. De ah&iacute; era Carlos Colorado, el director de la Sonora Santanera, que se llamaba as&iacute;, la Santanera; entonces, nada m&aacute;s falt&oacute; que trajeras a la Santanera, porque &iexcl;c&oacute;mo te aplaudieron, &iquest;eh?! Otro aplauso.</p>
+
+<p>Carlos es un historiador muy apasionado. Nos conocemos desde hace tiempo. &Eacute;l sabe que yo siempre le he encontrado parecido a paisanos nuestros. Ahora recuerdo a tres que se parecen a Carlos, aunque a lo mejor Carlos est&aacute; creciendo mucho, mucho, mucho.</p>
+
+<p>Hay un paisano nuestro que se dedic&oacute; a trabajar aqu&iacute;, bueno, en el anterior Archivo de la Naci&oacute;n, y fue director de la Biblioteca Nacional, Manuel Mestre Ghigliazza. Y es un muy importante su historia porque &eacute;l fue maderista y estuvo en la c&aacute;rcel cuando la dictadura porfirista en Tabasco. Y sali&oacute; de la c&aacute;rcel y lo eligieron gobernador de Tabasco, maderista. Pero en pol&iacute;tica suele pasar que alcanzar la fama, el respeto, lleva toda una vida; y esa fama, esos m&eacute;ritos se pueden perder en segundos, en minutos de titubeos, de malas decisiones.</p>
+
+<p>Entonces, siendo gobernador Mestre, se da el golpe de Estado, el asesinato del presidente Madero, el Ap&oacute;stol de la Democracia, aqu&iacute; cerca, en 1913, y Huerta manda un telegrama a todos los gobernadores autoproclam&aacute;ndose presidente despu&eacute;s del asesinato de Madero. Y Mestre le contesta el telegrama reconoci&eacute;ndolo. Claro, en ese entonces, de todos los gobernadores solo uno se enfrent&oacute; a Huerta: Venustiano Carranza; todos los dem&aacute;s se alinearon.</p>
+
+<p>Entonces, Mestre cometi&oacute; ese grave error, una decisi&oacute;n hist&oacute;rica, importante, y fue condenado al ostracismo y termin&oacute;, pues siendo director de la Biblioteca Nacional. Y gracias a eso, porque todo tiene sus pros y sus contras, recopil&oacute; documentos y datos para la historia de Tabasco; cuatro tomos, una gran aportaci&oacute;n para conocer todo lo que fue la primera mitad del siglo XIX en Tabasco y otro libro m&aacute;s sobre la intervenci&oacute;n estadounidense en Tabasco cuando el gran zarpazo de 1847.</p>
+
+<p>Entonces, en lo bueno, muy parecido a Mestre<strong>.</strong></p>
+
+<p>Tambi&eacute;n otro historiador, investigador de primera, tabasque&ntilde;o: el maestro Santa Mar&iacute;a, Francisco Javier Santamar&iacute;a, revolucionario, estudioso. A &eacute;l le debemos el mejor diccionario, desde mi punto de vista, sobre mexicanismos. Y se escap&oacute; de ser fusilado en Huitzilac, cuando la masacre de Huitzilac.</p>
+
+<p>&Eacute;l era de los presos, con el general Serrano, y los llevaban a Cuernavaca, &eacute;l mismo lo cuenta, para fusilarlo. Iban formados y se hizo a un lado, se pas&oacute; a la banqueta y empez&oacute; a caminar en sentido opuesto y se salv&oacute;. Y luego ya fue gobernador de Tabasco en los a&ntilde;os 50. Y gracias a &eacute;l tenemos, y al maestro Pellicer, el Museo de Antropolog&iacute;a, el Museo Tabasco de las piezas arqueol&oacute;gicas mayas y olmecas, gracias al maestro Francisco Santamar&iacute;a.</p>
+
+<p>Su biblioteca, ampl&iacute;sima, muy buena, est&aacute; en la Universidad de Berkeley, como hay muchas bibliotecas de historiadores, de estudiosos, de investigadores, en las universidades de Estados Unidos. Carlos se parece, tambi&eacute;n, al maestro Santamar&iacute;a.</p>
+
+<p>Y se parece tambi&eacute;n a alguien que era asiduo visitante, investigador aqu&iacute; en este archivo: al maestro Alfonso Taracena, tambi&eacute;n tabasque&ntilde;o. Yo creo que es el que m&aacute;s visitaba este archivo y el que m&aacute;s aport&oacute; para la historia de la Revoluci&oacute;n mexicana, porque tiene varios tomos de su historia de la Revoluci&oacute;n mexicana, y cuenta lo sucedido d&iacute;a a d&iacute;a, se parece mucho.</p>
+
+<p>En lo &uacute;nico &mdash;bueno, y deseo que se parezca tambi&eacute;n&mdash;, porque el maestro Taracena muri&oacute; a los 99 a&ntilde;os, y yo te deseo que t&uacute; le ganes tambi&eacute;n, que nos vivas mucho.</p>
+
+<p>Y estoy muy contento, la verdad, porque estamos conmemorando estos 200 a&ntilde;os del archivo, y s&iacute; se ha avanzado.</p>
+
+<p>Y felicitar a todos los trabajadores de este archivo, los que guardan la memoria de nuestro querido M&eacute;xico.</p>
+
+<p>Muchas gracias.</p>
+
+<p><strong>MODERADOR:</strong> Les solicitamos guardar el debido respeto para entonar nuestro Himno Nacional Mexicano.</p>
+
+<p><strong>(HIMNO NACIONAL)</strong></p>
+
+<p><strong>MODERADOR:</strong> De esta manera concluye este evento. Se despide de ustedes el presidente de los Estados Unidos Mexicanos, licenciado Andr&eacute;s Manuel L&oacute;pez Obrador.</p>
+
+<p>---</p>
+
+<p>&nbsp;</p>
+</div>
+      </div>
+
+      <div class="col-md-4 col-xs-12 pull-right">
+
+
+
+
+          <div id="survey" class="survey-popup small-top-buffer">
+	<div class="row">
+  <a class="fire">
+    <span class="title">Contesta nuestra encuesta de satisfacción.</span>
+		<i style="color: white" class="fas fa-poll"></i>
+  </a>
+  <hr>
+  
+  <div class="survey col-sm-12 clearfix">
+	<form id="survey-form">
+	  <div class="survey-form">
+	  <fieldset id="query_1">
+		<legend>¿Cómo fue tu experiencia en gob.mx?</legend>
+		<div id="Q_A" class="btn-group row">
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncGood" class="ga-survey" value="Feliz" title="Satisactorio">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-good.svg" alt="">
+		  	</button>
+		  </div>
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncReg" class="ga-survey" value="Neutral" title="Neutral">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-neutral.svg" alt="">
+		  	</button>
+		  </div>
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncBad" class="ga-survey" value="Triste" title="No satisactorio">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-bad.svg" alt="">
+		  	</button>
+		  </div>
+		</div>
+	  </fieldset>
+	  <fieldset id="query_1_a" class="hidden">
+	  	<legend>¿Fue fácil encontrar lo que buscabas?</legend>
+	  	<div id="Q_B" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R1" value="1">
+	  		<label for="A_R">Muy Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R2" value="2">
+	  		<label for="A_R">Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R3" value="3">
+	  		<label for="A_R">Difícil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R4" value="4">
+	  		<label for="A_R">Muy Difícil</label>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_s" class="hidden">
+	  	<legend>¿De qué estado de la República nos visitas?</legend>	  	
+	  	<div class="col-md-12">
+  	  		<div class="form-group" style="margin-bottom: 114px;">
+  	  			<select id="estados" class="form-control"></select>
+  	  		</div>
+  	  		<div class="form-group">
+  	  			<button type="button" class="Q_S_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  		</div>
+  	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_alt" class="hidden">
+		<legend>¿Qué buscabas?</legend>
+	  	<div id="Q_I" class="clearfix">
+	  	  <div class="col-sm-12">
+	  		<textarea id="txtA" class="form-control" rows="6" maxlength="250" style="font-size: 14px; width: 100%;"></textarea>
+	  		<span class="small">Máximo 250 caracteres</span>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+  	  	  <button type="button" class="Q_I_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_b" class="hidden">
+	  	<legend>¿Qué te gustó más?</legend>
+	  	<p class="small">Puedes seleccionar más de uno.</p>
+	  	<div id="Q_C" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R1" type="checkbox" name="A_R" value="1">
+	  		<label for="A_R">La información es clara y precisa</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R2" type="checkbox" name="A_R" value="2">
+	  		<label for="A_R">El diseño es agradable</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R3" type="checkbox" name="A_R" value="3">
+	  		<label for="A_R">Está bien organizado</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R4" type="checkbox" name="A_R" value="4">
+	  		<label for="A_R">Es sencillo navegar</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R5" type="checkbox" name="A_R" value="5">
+	  		<label for="A_R">El lenguaje es amigable</label>
+	  	  </div>
+	  	  <div class="clearfix">
+	  	  	<button type="button" class="Q_C_btn btn btn-primary btn-small pull-right">Siguiente</button>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_c" class="hidden">
+	  	<legend>¿Recomendarías nuestro portal a un amigo o familiar?</legend>
+	  	<div id="Q_D" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="radEncC_R1" type="radio" name="A_R" value="4">
+	  		<label for="A_R">Si</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncC_R2" type="radio" name="A_R" value="1">
+	  		<label for="A_R">No</label>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+        <button type="button" class="btn-finalizar btn btn-primary btn-small pull-right" style="margin-left: 8px; margin-top: 2px;" disabled>Finalizar</button>
+        <img src="https://framework-gb.cdn.gob.mx/assets/images/oval-white.svg" class="pull-right hidden loading">
+      </div>
+	  </fieldset>
+
+	  <fieldset id="query_2" class="hidden">
+		<legend>¿Fue fácil encontrar lo que buscabas?</legend>
+	  	<div id="Q_F" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R1" type="radio" name="A_R" value="1">
+	  		<label for="A_R">Muy Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R2" type="radio" name="A_R" value="2">
+	  		<label for="A_R">Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R3" type="radio" name="A_R" value="3">
+	  		<label for="A_R">Difícil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R4" type="radio" name="A_R" value="4">
+	  		<label for="A_R">Muy Difícil</label>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_2_b" class="hidden">
+	  	<legend>¿Qué mejorarías?</legend>
+	  	<p class="small">Puedes seleccionar más de una opción.</p>
+	  	<div id="Q_G" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A1" type="checkbox" name="A_R" value="1">
+	  		<label for="A_R">Diseño</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A2" type="checkbox" name="A_R" value="2">
+	  		<label for="A_R">Navegación dentro del sitio</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A3" type="checkbox" name="A_R" value="3">
+	  		<label class="too-long" for="A_R">Claridad y precisión de la información</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A4" type="checkbox" name="A_R" value="4">
+	  		<label for="A_R">Organización de los contenidos</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A5" type="checkbox" name="A_R" value="5">
+	  		<label for="A_R">Lenguaje utilizado</label>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">	  	  
+	  	  <button type="button" class="btn-finalizar btn btn-primary btn-small pull-right" style="margin-left: 8px; margin-top: 2px;" disabled>Finalizar</button>
+	  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/oval-white.svg" class="hidden pull-right loading">
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_2_alt" class="hidden">
+		<legend>¿Qué buscabas?</legend>
+	  	<div id="Q_H" class="clearfix">
+	  	  <div class="col-sm-12">
+	  		<textarea id="txtA1" class="form-control" rows="6" maxlength="250" style="font-size: 14px; width: 100%;"></textarea>
+	  		<span class="small">Máximo 250 caracteres</span>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+  	  	  <button type="button" class="Q_H_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  	</div>
+	  </fieldset>
+
+	</div>
+	<p class="hidden survey-thanks" style="text-align: center; color: white; font-weight: 700;">Gracias por tu opinión.</p>
+	</form>
+
+  </div>
+</div>
+</div>
+
+<script type="text/javascript">
+$(function() {
+  var c = 0;
+  var fin = 0;
+  var tipo_cara = "";
+  var page_type = "Articulos";
+  var triggered = false;
+  var answers = {};
+  var properties = {};
+  var organization = "presidencia";
+  var section = "Blog";
+  var lang = "es";
+  properties.published_on = "2023-08-23 12:41:00 -0600";
+  properties.title = "Versión estenográfica. 200 Aniversario del Archivo General de la Nación";
+  properties.path = "/presidencia/es/articulos/version-estenografica-200-aniversario-del-archivo-general-de-la-nacion";
+  properties.referer = "";
+  properties.viewfinder = navigator.userAgent.toLowerCase();
+  properties.screens = screen.width;
+  properties.device = screen.width;
+
+  $.getJSON('https://www.gob.mx/vun/estados?filter[order]=nombre%20ASC', function (selectOptions) {
+    for( var i = 0; i < selectOptions.length; i ++) {
+      var selectOptionsJSON = selectOptions[i];
+      $('#estados').append('<option value="'+ selectOptionsJSON.nombre +'">'+ selectOptionsJSON.nombre +'</option>');
+    }
+    $('#estados').append('<option value="Otro">Otro</option>')
+  });
+
+  $('.fire').click(function(event) {
+    $('.survey-popup').css({'height':'440px'});
+  });
+
+  $('#Q_A').find('button').click(function(event) {
+  	$('#query_s').removeClass('hidden');
+  	$("#query_1").addClass('hidden');
+  	answers.q1 = $(this).attr('id');
+  });
+
+  $(".ga-survey").click(function () {
+    tipo_cara = $(this).val();
+    var interval_time = [30];
+    (function timer () {
+      if (c < 1) {
+        setTimeout(function () {
+           if(fin < 1) {
+             set_ga("Inconclusa");
+             timer();
+           }
+        }, interval_time[c] * 1000);
+      }
+      c++;
+    })();
+  });
+
+  $('.Q_S_btn').click(function(event) {
+    if( answers.q1 === "radEncGood") {
+      $("#query_s").addClass('hidden');
+      $("#query_1_a").removeClass('hidden');
+    } else if(answers.q1 === "radEncReg" || answers.q1 === "radEncBad") {
+      $("#query_s").addClass('hidden');
+      $("#query_2").removeClass('hidden');
+    } else { }
+    // answers.q1 = $('#Q_A').find('button').attr('id');
+  });
+
+  $('#Q_B').find('input').click(function(event) {
+  	if( $(this).attr('id') === 'radEncA_R3' || $(this).attr('id') === 'radEncA_R4' )  {
+  	  $("#query_1_a").addClass('hidden');
+	  $("#query_1_alt").removeClass('hidden');
+  	} else {
+  	  $("#query_1_a").addClass('hidden');
+	  $("#query_1_b").removeClass('hidden');	
+  	}	
+	answers.q2 = $(this).attr('id');
+  });
+
+  $('.Q_I_btn').click(function(event) {
+  	event.preventDefault();
+  	$("#query_1_alt").addClass('hidden');
+	$("#query_1_b").removeClass('hidden');
+	answers.q5 = $('#txtA').val().substring(0, 250);
+  });
+
+  $('#Q_C').find('button').click(function(event) {
+	$("#query_1_b").addClass('hidden');
+	$("#query_1_c").removeClass('hidden');
+	var q3_array = [];
+	$('#Q_C').find('input:checked').each(function(index, el) {
+	  q3_array.push($(el).attr('id'));
+	});
+	answers.q3 = q3_array;
+  });
+
+  $('#Q_D').find('input').change(function(event) {
+  	answers.q4 = $(this).attr('id');
+  	$('.btn-finalizar').attr('disabled', false);
+  });
+
+  $('#Q_F').find('input').click(function(event) {
+	
+	answers.q2 = $(this).attr('id');
+
+	if( $(this).attr('id') === 'rdEncA_R3' || $(this).attr('id') === 'rdEncA_R4' ) {
+	  $("#query_2").addClass('hidden');
+	  $("#query_2_alt").removeClass('hidden');
+	} else {
+	  $("#query_2").addClass('hidden');
+	  $("#query_2_b").removeClass('hidden');
+	}
+  });
+
+  $('#Q_G').find('input').change(function(event) {
+  	if($('#Q_G').find('input:checked').length > 0) {
+	  $('.btn-finalizar').attr('disabled', false);
+    }
+    var q2_array = [];
+    $('#Q_G').find('input:checked').each(function(index, el) {
+	  q2_array.push($(el).attr('id'));
+	});
+	answers.q3 = q2_array;
+  });
+
+  $('.Q_H_btn').click(function(event) {
+  	event.preventDefault();
+  	$("#query_2_alt").addClass('hidden');
+	$("#query_2_b").removeClass('hidden');
+	answers.q5 = $('#txtA1').val().substring(0, 250);
+  });
+
+  $('.btn-finalizar').click(function (event) {
+    fin++;
+    $.ajax({
+      url: '/encuesta-satisfaccion',
+      type: 'post',
+      dataType: 'json',
+      data: { section: section, lang: lang, properties: properties, answers: answers },
+      beforeSend: function() {
+        $('.loading').removeClass('hidden');
+      },
+      success: function(data) {
+        set_ga("Finalizada");
+
+        $('.survey').hide();
+        $('.survey-popup').css({'height':'60px','background-color':'#dff0d8','border':'1px solid #d6e9c6'});
+        $('.survey-popup .title').text('Gracias por tu participación.').css({'color':'#3c763d'});
+        $('#icon-survey').removeClass('fa-file-text-o').addClass('fa-check-circle').css({'color':'#3c763d'});
+        setTimeout(function() {
+          $('.survey-popup').fadeOut('800');
+        }, 1600);
+      }
+    });
+  });
+
+  function set_ga(estatus) {
+    var pages_group = "Gobierno";
+    var organization_name = "presidencia";
+
+    console.log("Entro a apartado de encuesta de satisfacción. Estatus: "+ estatus);
+    console.log("Pages group: "+pages_group);
+    console.log("Sub group: "+organization_name);
+    console.log("Page type: "+page_type);
+    console.log("Face: "+tipo_cara);
+
+      console.log("Rails.env.production");
+      //Código GA para encuesta de satisfacción.
+		gtag('set', 'dimension14', pages_group);
+		gtag('set', 'dimension15', organization_name);
+		gtag('set', 'dimension16', page_type);
+		gtag('send', 'event', 'Encuesta de satisfacción', tipo_cara ,estatus);
+		gtag('set', 'dimension14', null);
+		gtag('set', 'dimension15', null);
+		gtag('set', 'dimension16', null);
+  }
+
+  $('#subscribe-survey').click(function(event) {
+	event.preventDefault();
+    var email = $("#email-survey").val();
+    var state = $('#estados').val();
+
+    if (email !== '' || email !== undefined) {
+	    try {
+	      $.ajax({
+	        url: "/subscribe",
+	        type: 'post',
+	        dataType: 'json',
+	        data : { email: {address: email} },
+	        success: function (data) {
+	            $('#responseSignup').html(data.message);
+	        },
+	        error: function (data) {
+	            $('#responseSignup').html(data.message);
+	        }
+	      });
+	    }catch(e){
+	      $("#responseEmail").innerText(e);
+	    }
+
+	    $.ajax({
+	    	url: '/signups',
+	    	type: 'POST',
+	    	dataType: 'json',
+	    	data: { section: section, lang: lang, properties: properties },
+	    	success: function() {
+	    		//console.log('exito');
+	    	}
+	    });
+	} else {
+		$('#responseSignup').html('Por favor llena todos los campos.');
+	}
+  });
+
+  $('#survey-form').submit(function(event) {
+    event.preventDefault();
+  });
+});
+</script>
+
+      </div>
+      <div class="col-sm-7 pull-left">
+        <div class="share-buttons clearfix vertical-buffer">
+  <div class="col-md-2"> <a class="twitter-share-button" data-url="https://www.gob.mx/presidencia/articulos/version-estenografica-200-aniversario-del-archivo-general-de-la-nacion" data-text="Versión estenográfica. 200 Aniversario del Archivo General de la Nación"></a></div>
+  <div class="col-md-2">
+    <div class="fb-share-button" data-href="https://www.gob.mx/presidencia/articulos/version-estenografica-200-aniversario-del-archivo-general-de-la-nacion" data-layout="button_count" data-size="small" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://www.gob.mx/presidencia/articulos/version-estenografica-200-aniversario-del-archivo-general-de-la-nacion&amp;src=sdkpreparse">Compartir</a></div>
+  </div>
+</div>
+
+  <script type="text/javascript">
+    (function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v2.7";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+    
+    var pages_group = "Gobierno";
+    var page_type = "Artículos";
+    var organization_name = "presidencia";
+    var title_content = "Versión estenográfica. 200 Aniversario del Archivo General de la Nación";
+
+     window.twttr = (function (d,s,id) {
+       var t, js, fjs = d.getElementsByTagName(s)[0];
+       if (d.getElementById(id)) return; js=d.createElement(s); js.id=id;
+       js.src="//platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs);
+       return window.twttr || (t = { _e: [], ready: function(f){ t._e.push(f) } });
+     }(document, "script", "twitter-wjs"));
+
+     function trackTwitter(intent_event) {
+       if (intent_event) {
+         if (intent_event.target && intent_event.target.nodeName == 'IFRAME') {
+           console.log("Metrica Compartir Twitter - "+title_content);
+           console.log("Organization: "+organization_name);
+           console.log("Page type: "+page_type);
+           console.log("Title content: "+title_content);
+           ga('set', 'dimension14', pages_group);
+           ga('set', 'dimension15', organization_name);
+           ga('set', 'dimension16', page_type);
+           ga('send', 'event', 'Compartir en redes sociales', 'Twitter', title_content);
+           ga('set', 'dimension14', null);
+           ga('set', 'dimension15', null);
+           ga('set', 'dimension16', null);
+         }
+       }
+     }
+  </script>
+  <script type="text/javascript">
+     twttr.ready(function (twttr) {
+       twttr.events.bind('tweet', trackTwitter);
+     });
+  </script>
+
+
+      </div>
+    </div>
+    <div class="row top-buffer">
+  <div class="col-md-8">
+    <hr>
+    <div class="print col-ms-12 col-md-12 col-xs-12">
+      <span class="icon-printing"></span>
+      <a href="#">Imprime la página completa</a>
+        <p class="small" style="font-size: 14px; line-height: 1.6em;">
+          La legalidad, veracidad y la calidad de la información es estricta responsabilidad de la dependencia, entidad o empresa productiva del Estado que la proporcionó en virtud de sus atribuciones y/o facultades normativas.
+        </p>
+    </div>
+  </div>
+</div>
+
+  </div>
+  <input type="hidden" id="page_type" name="page_type" value="Articulos">
+  <input type="hidden" id="organization_name" name="organization_name" value="presidencia">
+</main>
+<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+
+<footer class="main-footer">
+  <div class="list-info">
+    <div class="container">
+
+      <div class="col-sm-3">
+        <img  src="https://framework-gb.cdn.gob.mx/landing/img/logoheader.svg"  href="/" alt="logo gobierno de méxico" class="logo_footer" style="max-width: 90%; margin-left: -27px;   margin-top: 12px;">
+      </div>
+      <div class="col-sm-3">
+        <h2>Enlaces</h2>
+        <ul>
+         <!-- <li><a  href="http://www.participa.gob.mx">Participa</a></li> -->
+          <li><a  href="https://datos.gob.mx/">Datos</a></li>
+          <li><a href="https://www.gob.mx/publicaciones" target="_blank" rel="noopener" title="Enlace abre en ventana nueva">Publicaciones </a></li>
+
+                  <li><a class="footer" href="https://consultapublicamx.plataformadetransparencia.org.mx/vut-web/faces/view/consultaPublica.xhtml?idEntidad=MzM=&amp;idSujetoObligado=MTAwMDE=#inicio" id="Transparencia" target="blank" title="Enlace abre en ventana nueva">Portal de Obligaciones de Transparencia</a></li>
+
+                  <li><a class="footer" href="https://www.infomex.org.mx/gobiernofederal/home.action" id="PNT" target="blank" title="Enlace abre PNT en ventana nueva">PNT</a></li>
+
+                  <li><a class="footer" href="http://www.inai.org.mx/" id="INAI" target="blank" title="Enlace abre sitio INAI en ventana nueva">INAI</a></li>
+
+          <li><a class="footer" id="INAI" href="http://alertadores.funcionpublica.gob.mx/" target="_blank" rel="alertadores">Alerta</a></li>
+          <li><a class="footer" id="SIDEC" href="http://sidec.funcionpublica.gob.mx/" target="_blank" rel="sidec">Denuncia</a></li>
+           </ul>
+      </div>
+      <div class="col-sm-3">
+        <h2>¿Qué es gob.mx?</h2>
+        <p>Es el portal único de trámites, información y participación ciudadana.  <a href="/que-es-gobmx" style="text-decoration: none;">Leer más </a></p>
+        <ul>
+
+        
+            <li><a href='http://www.gob.mx/epn'> Administraciones anteriores  </a></li>
+          <li><a href="/accesibilidad">Declaración de Accesibilidad</a></li>
+          <li><a href="/privacidadintegral">Aviso de privacidad</a></li>
+          <li><a href="/privacidadsimplificado">Aviso de privacidad simplificado</a></li>
+          <li><a href="/terminos">Términos y Condiciones </a></li>
+          <li><a href="/terminos#medidas-seguridad-informacion">Política de seguridad</a></li>
+          <li><a class="footer" id="Marco Juridico" href="http://www.ordenjuridico.gob.mx" target="_blank" rel="noopener" title="Enlace abre en ventana nueva">Marco jurídico</a></li>
+          <li><a href="/sitemap">Mapa de sitio</a></li>
+        </ul>
+      </div>
+      <div class="col-sm-3">
+        </p>
+        <h2>Síguenos en </h2>
+        <ul class="list-inline">
+          <li>
+            <a id="Facebook" href="https://www.facebook.com/gobmexico" target="_blank" rel="noopener" class="sendEst share-info footer" title="enlace a facebook abre en una nueva ventana">
+              <img alt="Facebook" src="https://framework-gb.cdn.gob.mx/landing/img/facebook.png" />
+            </a>
+          </li>
+          <li>
+            <a id="Twitter" href="https://twitter.com/GobiernoMX" target="_blank" rel="noopener" class="sendEst share-info footer" title="Enlace a twitter abre en una nueva ventana">
+              <img alt="Twitter" src="https://framework-gb.cdn.gob.mx/landing/img/twitter.png" />
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+  </div>
+  </div>
+
+  <div class="container-fluid footer-pleca">
+    <div class="row">
+      <div class="col">
+        <br><br>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script type="text/javascript">
+      $("a.footer").click(function () {
+          var pagina_sitio = window.location.pathname;
+          var outbound_link = $(this).attr("id");
+          var subgrupo_paginas = "presidencia";
+          var page_type = "Home";
+          var pages_group = "Gobierno";
+          if($("#page_type").length > 0){ page_type = $("#page_type").val(); }
+
+          console.log("Metrica links externos footer - "+outbound_link);
+          gtag('set', 'dimension14', pages_group);
+          gtag('set', 'dimension15', subgrupo_paginas);
+          gtag('set', 'dimension16', page_type);
+          gtag('send', 'event', 'Outbound link - Footer', outbound_link, pagina_sitio);
+          gtag('set', 'dimension14', null);
+          gtag('set, ‘dimension15', null);
+      })
+  </script>
+
+<input class="hidden" id="route" value="/presidencia/es/articulos/version-estenografica-200-aniversario-del-archivo-general-de-la-nacion" type="hidden" >
+<!-- div id="fb-root"></div -->
+
+
+
+
+
+  <!-- Begin comScore Tag -->
+  <script>
+      var _comscore = _comscore || [];
+      _comscore.push({ c1: "2", c2: "17183199" });
+      (function() {
+          var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+          s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+          el.parentNode.insertBefore(s, el);
+      })();
+  </script>
+  <noscript>
+    <img src="https://sb.scorecardresearch.com/p?c1=2&c2=17183199&cv=2.0&cj=1" />
+  </noscript>
+  <!-- End comScore Tag -->
+
+  <script src="https://sb.scorecardresearch.com/c2/17183199/ct.js"></script>
+
+
+  <script type="text/javascript">
+
+      var _sf_startpt=(new Date()).getTime();
+      var _sf_async_config = { uid: 43659, domain: 'www.gob.mx', useCanonical: true } ;
+      (function() {
+          function loadChartbeat() { window._sf_endpt = (new Date()).getTime(); var e = document.createElement('script'); e.setAttribute('language', 'javascript'); e.setAttribute('type', 'text/javascript'); e.setAttribute('src','//static.chartbeat.com/js/chartbeat.js'); document.body.appendChild(e); };
+          var oldonload = window.onload;
+          window.onload = (typeof window.onload != 'function') ?
+              loadChartbeat : function()
+              { oldonload(); loadChartbeat(); };
+      })();
+      var ele = "/presidencia/es/articulos/version-estenografica-200-aniversario-del-archivo-general-de-la-nacion";
+      if( "#{(@organization_site.present? ? @organization_site.category : 'gobmx')}" == "Campaña") {
+          var siteEls = 'campaign';
+      } else {
+          var siteEls = 'gobierno';
+      }
+
+      for( var i = 1; i < ele.split('/').length; i++ ) {
+          siteEls = siteEls + '.' + ele.split('/')[i];
+      }
+
+      function udm_(e){var t="comScore=",n=document,r=n.cookie,i="",s="indexOf",o="substring",u="length",a=2048,f,l="&ns_",c="&",h,p,d,v,m=window,g=m.encodeURIComponent||escape;if(r[s](t)+1)for(d=0,p=r.split(";"),v=p[u];d<v;d++)h=p[d][s](t),h+1&&(i=c+unescape(p[d][o](h+t[u])));e+=l+"_t="+ +(new Date)+l+"c="+(n.characterSet||n.defaultCharset||"")+"&c8="+g(n.title)+i+"&c7="+g(n.URL)+"&c9="+g(n.referrer),e[u]>a&&e[s](c)>0&&(f=e[o](0,a-8).lastIndexOf(c),e=(e[o](0,f)+l+"cut="+g(e[o](f+1)))[o](0,a)),n.images?(h=new Image,m.ns_p||(ns_p=h),h.src=e):n.write("<","p","><",'img src="',e,'" height="1" width="1" alt="*"',"><","/p",">")};
+      function uid_call(a, b){
+          ui_c2 = 17183199; // your corporate c2 client value
+          ui_ns_site = 'gobmx'; // your sites identifier
+          window.b_ui_event = window.c_ui_event != null ? window.c_ui_event:"",window.c_ui_event = a;
+          var ui_pixel_url = 'https://sb.scorecardresearch.com/p?c1=2&c2='+ui_c2+'&ns_site='+ui_ns_site+'&name='+a+'&ns_type=hidden&type=hidden&ns_ui_type='+b;
+          var b="comScore=",c=document,d=c.cookie,e="",f="indexOf",g="substring",h="length",i=2048,j,k="&ns_",l="&",m,n,o,p,q=window,r=q.encodeURIComponent||escape;if(d[f](b)+1)for(o=0,n=d.split(";"),p=n[h];o<p;o++)m=n[o][f](b),m+1&&(e=l+unescape(n[o][g](m+b[h])));ui_pixel_url+=k+"_t="+ +(new Date)+k+"c="+(c.characterSet||c.defaultCharset||"")+"&c8="+r(c.title)+e+"&c7="+r(c.URL)+"&c9="+r(c.referrer)+"&b_ui_event="+b_ui_event+"&c_ui_event="+c_ui_event,ui_pixel_url[h]>i&&ui_pixel_url[f](l)>0&&(j=ui_pixel_url[g](0,i-8).lastIndexOf(l),ui_pixel_url=(ui_pixel_url[g](0,j)+k+"cut="+r(ui_pixel_url[g](j+1)))[g](0,i)),c.images?(m=new Image,q.ns_p||(ns_p=m),m.src=ui_pixel_url):c.write("<p><img src='",ui_pixel_url,"' height='1' width='1' alt='*'></p>");
+      }
+      udm_('https://sb.scorecardresearch.com/b?c1=2&c2=17183199&ns_site=gobmx&name='+siteEls);
+  </script>
+
+  <noscript>
+    <img src="https://sb.scorecardresearch.com/p?c1=2&amp;c2=17183199&amp;ns_site=gobmx&amp;name=gobierno.presidencia.es.articulos.version-estenografica-200-aniversario-del-archivo-general-de-la-nacion" height="1" width="1" alt="*" />
+  </noscript>
+<script>
+    let key = '';
+    $(function () {
+
+        $.getJSON("https://framework-gb.cdn.gob.mx/applications/cms/configGobmx.json", function(json) {
+            console.log(json.keyAnalytics); // this will show the info it in firebug console
+            key = json.keyAnalytics;
+            ga('create', key , 'auto', 'GobTracker');
+            ga('GobTracker.require', 'linker');
+            ga('GobTracker.linker:autoLink', ['www.gob.mx']);
+            ga('GobTracker.set', 'contentGroup1', 'Gobierno');
+            ga('GobTracker.set', 'contentGroup2', SubGroup);
+            ga('GobTracker.set', 'contentGroup3', PageType);
+            ga('GobTracker.set', 'dimension14', 'Gobierno');
+            ga('GobTracker.set', 'dimension15', SubGroup);
+            ga('GobTracker.set', 'dimension16', PageType);
+            ga('GobTracker.set', 'dimension13', 'No Registrado');
+            ga('GobTracker.send', 'pageview');
+            ga('GobTracker.set', 'contentGroup1', null);
+            ga('GobTracker.set', 'contentGroup2', null);
+            ga('GobTracker.set', 'contentGroup3', null);
+            ga('GobTracker.set', 'dimension14', null);
+            ga('GobTracker.set', 'dimension15', null);
+            ga('GobTracker.set', 'dimension16', null);
+            ga('GobTracker.set', 'dimension13', null);
+        });
+    });
+</script>
+
+<script src="https://framework-gb.cdn.gob.mx/applications/cms/modal_global_cms.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/gm/accesibilidad/js/gobmx-accesibilidad.min.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick.min.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick-lightbox.js"></script>
+<link rel="stylesheet" href="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick-lightbox.css">
+
+
+<script src="https://framework-gb.cdn.gob.mx/applications/cms/config_dependency.js"></script>
+<script type="text/javascript"  src="/0RVTuHxj0/t/mhEICJIQ/YiOkthVkYSfw/PRc4N0sKYQk/PwhFVTt/GPxQB"></script></body>
+
+</html>
+

@@ -1,0 +1,1825 @@
+<!DOCTYPE html>
+<html class='no-js' lang='es'>
+<head>
+    <title>
+  Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 1° de noviembre de 2023 | Presidencia de la República  | Gobierno | gob.mx
+</title>
+
+  <meta charset='UTF-8'>
+  <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#393C3E">
+
+  
+  <meta name="keywords" content="">
+  <meta name="description" content="Acto encabezado por el presidente Andrés Manuel López Obrador desde Palacio Nacional">
+  <meta name="author" content="Presidencia de la República ">
+
+  <meta content="Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 1° de noviembre de 2023" property="og:title" />
+  <meta content="https://www.gob.mxhttps://www.gob.mx/cms/uploads/article/main_image/139219/Conferencia_presidente_07.55.35.jpeg" property="og:image" />
+  <meta content="gob.mx" property="og:site_name" />
+  <meta content="Acto encabezado por el presidente Andrés Manuel López Obrador desde Palacio Nacional" property="og:description" />
+  <meta content="http://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-1-de-noviembre-de-2023?idiom=es" property="og:url" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@gobmx" />
+  <meta name="twitter:title" content="Versión estenográfica. Conferencia de prensa del presidente Andrés..." />
+  <meta name="twitter:description" content="Acto encabezado por el presidente Andrés Manuel López Obrador desde Palacio Nacional" />
+  <meta name="twitter:image" content="https://www.gob.mxhttps://www.gob.mx/cms/uploads/article/main_image/139219/Conferencia_presidente_07.55.35.jpeg" />
+
+
+  <meta content="authenticity_token" name="csrf-param" />
+<meta content="jNRVkdEKcNVISgKDubKH1tMMDZb5A6pQt/jKBJevGuU=" name="csrf-token" />
+
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700,600,300' rel='stylesheet' type='text/css'>
+  <link href='https://framework-gb.cdn.gob.mx/applications/cms/favicon.png' rel='shortcut icon'>
+  <link data-turbolinks-track="true" href="/cms/assets/application.css" media="all" rel="stylesheet" />
+  <link data-turbolinks-track="true" href="https://framework-gb.cdn.gob.mx/gm/accesibilidad/css/gobmx-accesibilidad.min.css" media="all" rel="stylesheet" />
+  
+
+  <!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+  <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+
+ <![endif]-->
+  <script async src="https://www.googletagmanager.com/gtag/js?id="></script>
+  <script src="https://framework-gb.cdn.gob.mx/applications/cms/carrusel/swiper-bundle.min.js"></script>
+
+  <link rel="stylesheet" href="https://framework-gb.cdn.gob.mx/applications/cms/carrusel/swiper-bundle.min.css">
+
+    <script type="text/javascript">
+
+        var SubGroup = '';
+        if(false || false){
+            SubGroup = 'Temas';
+        }else{
+            SubGroup = 'presidencia';
+        }
+        var PageType = '';
+        if(false){
+            PageType = 'Home'
+        }else{
+            if(false){
+                PageType = '';
+            }else {
+                var site = window.location.pathname;
+                var arrayPageType = ["articulos", "prensa", "agenda", "documentos", "multimedia", "galerias", "videos",
+                    "acciones_y_programas", "acciones-y-programas", "mi-foto-con-el-presidente",
+                    "estructuras", "descargables", "que-hacemos", "finanzas", "infografias"];
+
+                if (site.search("archivo") != -1) {
+                    PageType = "archivo_";
+                }
+                for (var i = 0; i < arrayPageType.length; i++) {
+                    if (site.search(arrayPageType[i]) != -1) {
+                        PageType += arrayPageType[i];
+                        break;
+                    }
+                }
+            }
+        }
+
+
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', '');
+
+        gtag('require', 'linker');
+        gtag('linker:autoLink', ['www.gob.mx']);
+        gtag('set', 'contentGroup1', 'Gobierno');
+        gtag('set', 'contentGroup2', SubGroup);
+        gtag('set', 'contentGroup3', PageType);
+        gtag('set', 'dimension14', 'Gobierno');
+        gtag('set', 'dimension15', SubGroup);
+        gtag('set', 'dimension16', PageType);
+        gtag('set', 'dimension13', 'No Registrado');
+        gtag('send', 'pageview');
+        gtag('set', 'contentGroup1', null);
+        gtag('set', 'contentGroup2', null);
+        gtag('set', 'contentGroup3', null);
+        gtag('set', 'dimension14', null);
+        gtag('set', 'dimension15', null);
+        gtag('set', 'dimension16', null);
+        gtag('set', 'dimension13', null);
+
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-144356475-1', 'auto', {'allowLinker':true});
+        ga('require', 'linker');
+        ga('linker:autoLink', ['www.gob.mx']);
+        ga('set', 'contentGroup1', 'Gobierno');
+        ga('set', 'contentGroup2', SubGroup);
+        ga('set', 'contentGroup3', PageType);
+        ga('set', 'dimension14', 'Gobierno');
+        ga('set', 'dimension15', SubGroup);
+        ga('set', 'dimension16', PageType);
+        ga('set', 'dimension13', 'No Registrado');
+        ga('send', 'pageview');
+        ga('set', 'contentGroup1', null);
+        ga('set', 'contentGroup2', null);
+        ga('set', 'contentGroup3', null);
+        ga('set', 'dimension14', null);
+        ga('set', 'dimension15', null);
+        ga('set', 'dimension16', null);
+        ga('set', 'dimension13', null);
+    </script>
+
+
+  <script type = "text/javascript"> console.log(true);
+  var rails_env_prod = true; </script>
+  <script src="/cms/assets/application.js"></script>
+  <script src="/cms/assets/imageReplace.js"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.js"></script>
+
+                              <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("True"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="N3JQ2-2RVHB-WJQMN-CEYEM-ATMWX",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"N3JQ2-2RVHB-WJQMN-CEYEM-ATMWX",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="xxqo3jv567lbgzxpkhpq-f-6ffbe8fae-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"37","ak.cp":"413578","ak.ai":parseInt("270161",10),"ak.ol":"0","ak.cr":12,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"c106ff26","ak.r":49405,"ak.a2":e,"ak.m":"b","ak.n":"essl","ak.bpcip":"189.224.237.0","ak.cport":64450,"ak.gh":"189.247.214.12","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"reno","ak.t":"1726960095","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==t+Zs7WH39a3js3VMH4Mo7sC5+hW8RYTL4E0DiMDl1Ss4h/2b2FWx04X1NOk3qtSDLKX3onvoG0an9TYLQCOTWdUs2gN6IGAk7Qx2Qm4xlZ7lS/EpTwW+ZeB053XrLroXzzxQ/+An14kj+mRId7yUQyZQnG/n2k6qqJ8rZ/B51/NKhWNHnMgU5I4kUsDKbrHl0/CSzRiSRgaptXuty3tdqW9BtTwCVl1LejFBG0aOBGV8MEq4Wlcy+PVYTqsCGw6NyXmEGQt1SQFMRH2UQZkw8If2A4ciorZskidHng1W1YdCJ9apzCdd0isguoSpw8oEYXrUw+2bUnbuADmXozWHziw+jMsRljbhBbfu0LReojotGiuG3gsloQ9rMPOA1qE2LHB+3b9Zk3vUYRUMU7jCagg4mK1BWN2UYug828/weG8=","ak.pv":"113","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+<body>
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v13.0" nonce="MZ2GPb2d"></script><!-- a href="#principal" class="skip">Saltar al contenido principal</a -->
+  <header class=" navbar navbar-inverse">
+    <nav class="navbar navbar-inverse  navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-target="#navbarMainCollapse" data-toggle="collapse">
+            <span class="sr-only">Interruptor de Navegación</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a href="/" style="padding: 1px 3px 3px 3px;" class="navbar-brand " title="Ir a la página inicial">
+
+            <div class="logo-main"></div>
+          </a>
+        </div>
+        <div id="navbarMainCollapse" class="collapse navbar-collapse">
+          <ul class="nav navbar-nav navbar-right">
+           <li><a href="/tramites" title="Trámites">Trámites </a></li>
+            <li><a href="/gobierno" title="Gobierno">Gobierno</a></li>
+                  <li><a href="/presidencia/en" title="Versión en inglés del sitio web">English</a>
+                  </li>
+                </li>
+
+
+            <li>
+              <form accept-charset="UTF-8" action="/busqueda" method="get"><div style="display:none"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+                <input type="hidden" name="site" value="presidencia">
+                <button data-v-6394873e="" id="botonbuscar" type="button" class="btn btn-search"><a data-v-6394873e="" href="https://www.gob.mx/busqueda?utf8=✓" target="_blank" id="botbusca"><img data-v-6394873e="" alt="Buscar" src="https://framework-gb.cdn.gob.mx/landing/img/lupa.png"></a></button>
+</form>            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    
+
+
+        <script src="/cms/assets/level_jump.js"></script><section>
+<!-- Subnavegacion -->
+<nav class=" navbar-inverse sub-navbar fixed-top"
+     >
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#subenlaces">
+        <span class="sr-only">Interruptor de Navegación</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="link-name" href="?tab="></a>
+    </div>
+    <div class="collapse navbar-collapse" id="subenlaces">
+      <ul class="nav subnav navbar-nav navbar-right">
+              <li class="landing-btn">
+                    <a href='/presidencia/es/archivo/prensa'>
+                Comunicados            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='/presidencia/es/#5173'>
+                Directorio            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='https://transparencia.presidencia.gob.mx/presidencia/transparencia/politicas-de-tratamiento-de-datos-personales-de-la-oficina-de-la-presidencia-de-la-republica/'>
+                Protección de Datos Personales            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='https://www.gob.mx/presidencia/transparencia/'>
+                Transparencia            </a>
+            </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+<style>
+  .flag-banner {
+  top: 45px  !important;
+  }
+</style>
+<!-- div class="warning-nav" style="margin-top: 0px;">
+  <div class="container">
+    <div class="row clearfix">
+  <div class="col-xs-12 col-sm-12 col-md-12">Este contenido será modificado temporalmente en atención a las disposiciones legales y normativas en materia electoral, con motivo del inicio de periodo de campaña</div>
+  </div>
+  </div>
+</div -->
+</section>
+
+
+  </header>
+
+
+
+
+
+<main class="inner-page interior ficha">
+  <div class="container">
+  	<ol class="breadcrumb">
+  <li><a href="http://www.gob.mx"><span class="icon icon-home"></span><span class="sr-only">Inicio</span></a></li>
+  <li><a href="/presidencia">Presidencia de la República </a></li>
+  <li class="active">Blog</li>
+</ol>
+  	<div class="">
+      <div aria-hidden="true" class="hidden-xs font-changer internal print" tabindex="-1">
+  <button class="inc-font font-modifier">Aa+</button>
+  <button class="dec-font font-modifier">Aa-</button>
+</div>
+      <div class="marquee-padding">
+      <div class='post-list main-post-list'>
+<div class='marque-float-left'>
+<div class='right_arrow'></div>
+<div class='titulo-pub'>
+<small>Publicaciones Recientes</small>
+</div>
+</div>
+<div>
+<div class='container-marque'>
+<div id='headlines'>
+<div class='marquee'>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-19 13:44:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-19-de-septiembre-de-2024' title='Versió'>
+Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 19 de septiembre de 2024
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-18 12:36:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-18-de-septiembre-de-2024' title='Versió'>
+Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 18 de septiembre de 2024
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-17 13:51:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-entrega-de-estimulos-a-delegaciones-mexicanas-participantes-en-juegos-olimpicos-y-paralimpicos-paris-2024' title='Versió'>
+Versión estenográfica. Entrega de estímulos a delegaciones mexicanas participantes en Juegos Olímpicos y Paralímpicos París 2024
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-17 12:21:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-17-de-septiembre-de-2024' title='Versió'>
+Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 17 de septiembre de 2024
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-16 13:56:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-desfile-civico-militar' title='Versió'>
+Versión estenográfica. Desfile Cívico Militar
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+      </div>
+  	  <div class="col-md-7 col-xs-12 col-sm-12 pull-left" tabindex="0">
+  	  	<h1 class="bottom-buffer">Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 1° de noviembre de 2023</h1>
+  	  	<h2>Acto encabezado por el presidente Andrés Manuel López Obrador desde Palacio Nacional</h2>
+        <section class="">
+          <p>Presidencia de la República  | 01 de noviembre de 2023</p>
+        </section>
+  	  <div class="imagen-principal">
+  	      <img alt="Conferencia de prensa del presidente Andrés Manuel López Obrador" class="img-responsive img_curve" src="https://www.gob.mx/cms/uploads/article/main_image/139219/Conferencia_presidente_07.55.35.jpeg" />
+  	      <span class="small">Conferencia de prensa del presidente Andrés Manuel López Obrador</span>
+      </div>
+      <div class="article-body"><p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Buenos d&iacute;as. &Aacute;nimo, ya empez&oacute; el frio.&nbsp;</p>
+
+<p>Bueno, el d&iacute;a de hoy y ma&ntilde;ana lo dedicamos a recordar a nuestros difuntos. Hoy tenemos esta rueda de prensa, ma&ntilde;ana no, regresamos hasta el viernes a la rueda de prensa.&nbsp;</p>
+
+<p>Me acompa&ntilde;an los miembros del gabinete, la mayor&iacute;a de los integrantes del gabinete del gobierno federal, y nos acompa&ntilde;a la maestra Evelyn Salgado Pineda, gobernadora de Guerrero, porque vamos a dar a conocer la propuesta b&aacute;sica para seguir apoyando a la gente en Acapulco, en Coyuca de Ben&iacute;tez, quienes fueron afectados por el hurac&aacute;n Otis, se va a dar a conocer el plan de reconstrucci&oacute;n el d&iacute;a de hoy.</p>
+
+<p>Ojal&aacute; y la gente del pa&iacute;s, pero de manera especial la gente de Guerrero y de Acapulco, y de Coyuca en particular, puedan buscar la forma de conocer este plan, escuchar este plan, porque de esta manera ya se va a contar con la informaci&oacute;n de lo que se est&aacute; haciendo, se seguir&aacute; haciendo, y evitar la manipulaci&oacute;n, las mentiras, el amarillismo, todo eso que, en vez de ayudar, perjudica, porque inquieta, genera temores y agrava m&aacute;s la situaci&oacute;n de por s&iacute; dif&iacute;cil por los da&ntilde;os que ocasion&oacute; este hurac&aacute;n.</p>
+
+<p>Entonces, que se tenga toda la informaci&oacute;n. Y el mensaje es que no est&aacute;n solos los afectados, los damnificados, cuentan con el apoyo del pueblo de M&eacute;xico, que siempre es muy fraterno, muy solidario, y desde luego con el apoyo del gobierno.</p>
+
+<p>Entonces, vamos a darle la palabra primero a la gobernadora de Guerrero y luego yo voy a leer los puntos b&aacute;sicos de este plan de reconstrucci&oacute;n, en qu&eacute; consiste este plan para beneficio de la gente de Guerrero y de Coyuca.</p>
+
+<p>Y despu&eacute;s, ya vienen los n&uacute;meros, los datos, las inversiones. Esto va a estar a cargo del secretario de Hacienda, Rogelio Ram&iacute;rez de la O, de todo lo que,&nbsp;en t&eacute;rminos generales, toda la inversi&oacute;n estimada que se va a destinar, que se va a dirigir a Acapulco y a Coyuca de Ben&iacute;tez. Entonces, en eso vamos.&nbsp;</p>
+
+<p>Evelyn, adelante.</p>
+
+<p>EVELYN SALGADO PINEDA, GOBERNADORA DE GUERRERO:Muchas gracias. Buenos d&iacute;as. con su permiso, se&ntilde;or presidente.</p>
+
+<p>Bueno, quiero iniciar con un agradecimiento a todas y a todos los que est&aacute;n apoyando a nuestro estado de Guerrero en estos tan dif&iacute;ciles, tan complicados. No hay palabras, se los digo de todo coraz&oacute;n, para expresar nuestro agradecimiento. Nuestro reconocimiento a la grandeza de un pueblo solidario y fraterno como lo es nuestro pueblo mexicano.</p>
+
+<p>Agradecerle&nbsp;a usted, presidente, por todo su apoyo, por toda su solidaridad y su cari&ntilde;o para nuestro pueblo; a todas las instituciones que nos han apoyado: a Sedena, Marina, Guardia Nacional, a todo el gabinete de salud, a la Comisi&oacute;n Federal de Electricidad;&nbsp;a Bienestar por ese censo a marchas forzadas que est&aacute;n realizando, a todas y a todos los titulares que han estado con nosotros desde el inicio, desde el primer momento, realizando un trabajo extraordinario. De verdad, muchas gracias.&nbsp;</p>
+
+<p>Como lo hemos informado, el hurac&aacute;n Otis, un fen&oacute;meno de condiciones extraordinarias que provoc&oacute; una devastaci&oacute;n enorme en nuestro estado, particularmente en Acapulco y en Coyuca de Ben&iacute;tez, un fen&oacute;meno sin precedentes que hasta el momento registra el lamentable fallecimiento, seg&uacute;n las cifras de la&nbsp;Fiscal&iacute;a General&nbsp;del estado, de 46 personas, as&iacute; como de 58 personas que se encuentran en calidad de no localizadas.&nbsp;Informar&nbsp;que ya nos contactamos con las familias de las v&iacute;ctimas para expresarles toda nuestra solidaridad y, por supuesto, todo el respaldo y todo el apoyo.</p>
+
+<p>Estamos reforzando el programa emergente de b&uacute;squeda, lo hemos reforzado con 31 c&eacute;lulas de las comisiones nacionales y locales de derechos humanos de la Secretar&iacute;a de Gobernaci&oacute;n y la comisi&oacute;n local de b&uacute;squeda, que al momento han localizado con vida a 394 personas que no ten&iacute;an ning&uacute;n tipo de contacto con sus seres queridos.</p>
+
+<p>Con un despliegue total de m&aacute;s de mil 500 personas trabajamos en la limpieza de todas las calles y avenidas. Hemos visitado las colonias y comunidades, llevando la distribuci&oacute;n diaria de m&aacute;s de un mill&oacute;n 300 mil litros de agua, garantizando la entrega de m&aacute;s de 63 mil raciones diarias de alimentos a trav&eacute;s de los distintos comedores y albergues, as&iacute; como la atenci&oacute;n m&eacute;dica de las familias afectadas con el despliegue de unidades m&eacute;dicas m&oacute;viles especializadas en el estado, las llamadas Caravanas de la Salud.</p>
+
+<p>Estamos trabajando a marchas forzadas desde el primer momento. En cuanto termine esta conferencia nos regresamos de inmediato a seguir atendiendo todas las colonias, todas las comunidades, tanto de Acapulco, de Coyuca, de los municipios afectados.</p>
+
+<p>Y tenemos la convicci&oacute;n, se&ntilde;or presidente, de que, en unidad, con voluntad y con el apoyo de todo el pueblo de M&eacute;xico vamos a salir adelante.</p>
+
+<p>Decirles que los guerrerenses somos un pueblo valiente, es un pueblo que sabe levantarse ante cualquier adversidad. No tengo duda de que con su ayuda y de todo el gabinete federal, de todas y de todos los mexicanos que nos&nbsp;han expresado, manifestado su apoyo y tambi&eacute;n incluso ayuda de nivel ya internacional, de otros pa&iacute;ses, que tambi&eacute;n est&aacute;n brindando apoyo para el puerto de Acapulco y otros municipios. Y por supuesto que, con el cari&ntilde;o de todas las y los mexicanos que nos han apoyado con todo el coraz&oacute;n, Acapulco volver&aacute; a brillar.</p>
+
+<p>Y yo quiero cerrar esta participaci&oacute;n con un poema n&aacute;huatl&nbsp;que ejemplifica lo que estamos viviendo en Acapulco, algo sin precedentes, algo hist&oacute;rico, pero de lo cual nos vamos a levantar:</p>
+
+<p>&lsquo;Arrancaron nuestros frutos, cortaron nuestras ramas, quemaron nuestro tronco, pero nada podr&aacute; matar nuestras ra&iacute;ces.&rsquo;</p>
+
+<p>Acapulco nuevamente se podr&aacute; de pie.</p>
+
+<p>Que viva Guerrero</p>
+
+<p>Muchas gracias a todas y a todos. Gracias, se&ntilde;or presidente.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Bueno, voy a dar lectura a la propuesta b&aacute;sica para ayudar a la gente de Acapulco y otros municipios afectados, b&aacute;sicamente Coyuca de Ben&iacute;tez. Este es el plan general de reconstrucci&oacute;n:</p>
+
+<p>Uno. Apoyar con todo lo necesario a los familiares de quienes perdieron la vida por el hurac&aacute;n e intensificar la b&uacute;squeda de los desaparecidos acompa&ntilde;ando siempre a sus seres queridos.</p>
+
+<p>Dos. Adelantar dos meses, desde el lunes pr&oacute;ximo, el pago de todos los&nbsp;Programas de Bienestar: pensi&oacute;n a adultos mayores, a personas con discapacidad, becas, apoyo a productores, pescadores, a j&oacute;venes y otros.</p>
+
+<p>Tres. Incorporar a 10 mil j&oacute;venes m&aacute;s, 10 mil j&oacute;venes m&aacute;s se van a contratar del programa J&oacute;venes Construyendo el Futuro para realizar labores de limpieza, construcci&oacute;n, pintura y otras actividades, y van a recibir un salario m&iacute;nimo, el equivalente a un salario m&iacute;nimo, esto a partir del d&iacute;a de hoy, empieza la contrataci&oacute;n de 10 mil j&oacute;venes. Es ampliar el programa que ya se aplica en Acapulco y en todo el pa&iacute;s de J&oacute;venes Construyendo el Futuro.&nbsp;</p>
+
+<p>Cuatro. Aumentar&aacute; al doble el n&uacute;mero de becas para estudiantes de nivel b&aacute;sico, es decir, las becas en Acapulco pasar&aacute;n de 45 mil a 90 mil becas de inmediato.</p>
+
+<p>Cinco. Se establecer&aacute;n seis meses de pr&oacute;rroga en el pago de Infonavit, Fovissste y del Seguro Social.</p>
+
+<p>Seis. No se pagar&aacute; el servicio de luz, de energ&iacute;a el&eacute;ctrica,&nbsp;de noviembre de 2023 a febrero de 2024.</p>
+
+<p>Siete. Se entregar&aacute; una canasta b&aacute;sica de 24 productos alimenticios por semana, una canasta b&aacute;sica a cada familia por semana con 24 productos. Se incluye a todas las familias de Acapulco, alrededor de 250 mil familias damnificadas, este apoyo que implica distribuir tres millones de canastas b&aacute;sicas se va a llevar a cabo durante tres meses. Ya se habl&oacute; con cuatro grandes centros comerciales: con Walmart, con Soriana, Comercial Mexicana y Chedraui.</p>
+
+<p>Ocho. Se otorgar&aacute;n a partir de esta semana a todos los hogares ocho mil pesos para limpieza y pintura, a todos los hogares de Acapulco. Y a las viviendas afectadas desde 35 mil pesos hasta 60 mil pesos seg&uacute;n sus da&ntilde;os y con apego al censo que se est&aacute; realizando. Hasta ahora se llevan censadas 50 mil hogares, pero no se va a esperar a terminar el censo, ya se va a empezar a entregar estos apoyos en tanto se sigue avanzando en el censo.</p>
+
+<p>Nueve. A todas las familias damnificadas se les entregar&aacute; un paquete de enseres dom&eacute;sticos, que consiste en una cama, una estufa, un refrigerador, un ventilador y una vajilla.</p>
+
+<p>Diez. Se otorgar&aacute;n 20 mil cr&eacute;ditos a la palabra de 25 mil pesos sin intereses, pagaderos en tres a&ntilde;os, con seis meses de gracia, en beneficio de peque&ntilde;os comerciantes, due&ntilde;os de talleres, fondas y otros prestadores de servicios.</p>
+
+<p>Once. El gobierno federal destinar&aacute; del presupuesto p&uacute;blico de este a&ntilde;o 10 mil millones de pesos para el abastecimiento y mejoramiento de las l&iacute;neas de distribuci&oacute;n de agua, drenaje, arreglo de calles, alumbrado p&uacute;blico, hospitales, escuelas;&nbsp;se van a mejorar los dos aeropuertos y otros servicios.</p>
+
+<p>Doce. No se cobrar&aacute;n impuestos ni en Acapulco ni en Coyuca desde octubre, desde el mes pasado, hasta febrero de 2024. &iquest;Qu&eacute; no se cobrar&aacute;? IVA, impuesto sobre la renta y otros impuestos y derechos, repito, ni en Acapulco ni en Coyuca.&nbsp;</p>
+
+<p>Trece. Se establecer&aacute; en cada colonia de m&aacute;s de mil viviendas un cuartel de la Guardia Nacional con 250 elementos en cada una para garantizar la paz y la tranquilidad de todos los ciudadanos y evitar el robo en vivienda, en establecimientos comerciales, en gasoliner&iacute;as, en el transporte de mercanc&iacute;as, en la distribuci&oacute;n de gas, para lograr lo m&aacute;s pronto posible la normalidad y la convivencia pac&iacute;fica en la vida p&uacute;blica.</p>
+
+<p>Catorce. Nacional Financiera otorgar&aacute; cr&eacute;ditos sin intereses para peque&ntilde;as y medianas empresas.</p>
+
+<p>Quince. La Secretar&iacute;a de Hacienda apoyar&aacute; con el pago de la mitad de los intereses a quienes soliciten cr&eacute;dito, esto va destinado a 377 hoteles de Acapulco. Si contratan cr&eacute;ditos con la banca comercial, desde luego para restaurar, rehabilitar los hoteles, la mitad de los intereses los va a absorber la Secretar&iacute;a de Hacienda.</p>
+
+<p>Diecis&eacute;is. La Secretar&iacute;a de Infraestructura, Comunicaciones destinar&aacute; 218 millones de pesos de su presupuesto actual para rehabilitar la autopista Acapulco-Chilpancingo, as&iacute; como la carretera federal, los dos libramientos que conectan la Costa Grande con la Costa Chica de Guerrero, puentes y otras obras viales.</p>
+
+<p>Ya se est&aacute; avanzando en estas obras, ya hay comunicaci&oacute;n, que no hab&iacute;a, tanto en la autopista como en la carretera federal libre a Acapulco y ya se restableci&oacute; tambi&eacute;n la comunicaci&oacute;n de los libramientos de la Costa Grande hacia la Costa Chica para no tener necesariamente que pasar por la costera. Ya ayer que fuimos constatamos de que es menos el tr&aacute;fico por la costera porque ya est&aacute;n funcionando estos dos libramientos.</p>
+
+<p>Diecisiete. Toda la obra de reconstrucci&oacute;n de Acapulco y Coyuca ser&aacute; coordinada por Luisa Mar&iacute;a&nbsp;Alcalde&nbsp;Lujan, secretaria de Gobernaci&oacute;n, y por Evelyn Salgado Pineda, gobernadora constitucional de Guerrero.</p>
+
+<p>Dieciocho. Nuestro especial reconocimiento a los trabajadores y directivos de la Comisi&oacute;n Federal de Electricidad por su eficaz trabajo, sin precedentes, en casos de emergencia en el mundo, pues en una semana, en una semana han logrado restituir pr&aacute;cticamente todo el servicio de energ&iacute;a el&eacute;ctrica en Acapulco, en una semana despu&eacute;s de que el hurac&aacute;n tumb&oacute; m&aacute;s de 10 mil postes de luz.</p>
+
+<p>Estuvimos pensando en poner 100 por ciento, pero todav&iacute;a hay poquitos lugares sin energ&iacute;a. Sin duda, en estos d&iacute;as se llega al 100 por ciento del restablecimiento del servicio el&eacute;ctrico en Acapulco, gracias al trabajo comprometido, eficaz, responsable de los trabajadores de la Comisi&oacute;n Federal de Electricidad, a los directivos, a todos los que desde el primer momento se trasladaron all&aacute; con equipos y a colocar postes, trasladar postes hasta por helic&oacute;ptero, levantar las torres de la Comisi&oacute;n Federal de Electricidad, l&iacute;neas de electricidad que ya est&aacute;n coloc&aacute;ndose. Ya ayer est&aacute; pr&aacute;cticamente alumbrado de nuevo todo Acapulco, ayer por la noche, tarde-noche.</p>
+
+<p>Diecinueve. Tambi&eacute;n queremos subrayar, destacar el trabajo responsable de 19 mil soldados, marinos y elementos de la Guardia Nacional; tres instituciones: la Defensa, la Secretar&iacute;a de Marina y la Guardia Nacional. Hay 19 mil elementos de estas tres instituciones trabajando desde el inicio de la tragedia, responsables de aplicar los planes de auxilio a la poblaci&oacute;n y llevar a cabo labores de limpieza, levantamiento de &aacute;rboles, abasto de despensas, de agua, atenci&oacute;n m&eacute;dica, traslado de enfermos y seguridad p&uacute;blica.</p>
+
+<p>Veinte. En especial, nuestro reconocimiento al pueblo de Acapulco y de Coyuca de Ben&iacute;tez que, a pesar de estar afectados, a pesar de la tristeza, no han perdido la fe, siguen luchando por la vida y juntos lograremos pronto, muy pronto volver a poner de pie al bello y nost&aacute;lgico puerto de Acapulco.</p>
+
+<p>Este es el plan.&nbsp;</p>
+
+<p>Y ahora se va a dar a conocer toda la inversi&oacute;n que estimamos. Es importante decir, en lo general, que contamos con presupuesto para financiar todas estas necesidades, estos programas, y que no los consideramos o no consideremos el destinar estos recursos como gasto, sino es una inversi&oacute;n. Afortunadamente tenemos finanzas p&uacute;blicas sanas y se cuenta con los recursos sin l&iacute;mite cuando se&nbsp;trata de beneficiar al pueblo. Entonces, el secretario de Hacienda va a informarles cu&aacute;nto estimamos, es una aproximaci&oacute;n. Y si se requiere m&aacute;s, vamos a ampliar el presupuesto.</p>
+
+<p>ROGELIO RAM&Iacute;REZ DE LA O, SECRETARIO DE HACIENDA Y CR&Eacute;DITO P&Uacute;BLICO:&nbsp;Con su permiso, se&ntilde;or presidente.</p>
+
+<p>El costo de la inversi&oacute;n que estamos ya varios d&iacute;as trabajando para aproximarlo lo m&aacute;s posible a las necesidades es de 61 mil 313 millones de pesos y se distribuye entre los 20 puntos que se&ntilde;al&oacute; el presidente de la Rep&uacute;blica. Ese es el monto de inversi&oacute;n.&nbsp;Incluye:</p>
+
+<p>El adelanto del pago de pensiones y programas para el Bienestar.</p>
+
+<p>La ampliaci&oacute;n por 10 mil j&oacute;venes al programa J&oacute;venes Construyendo el Futuro.</p>
+
+<p>El aumento al doble del n&uacute;mero de becas nivel b&aacute;sico.</p>
+
+<p>La pr&oacute;rroga por seis meses en pago de Infonavit, Fovissste y Seguro Social.</p>
+
+<p>El no pago por el servicio de luz de octubre de 2023 a enero de 2024.</p>
+
+<p>La entrega de la canasta b&aacute;sica semanal para 250 mil familias durante tres meses.</p>
+
+<p>El apoyo para viviendas de ocho mil a todas las viviendas y 35 mil hasta 60 mil pesos seg&uacute;n el grado de afectaci&oacute;n de acuerdo con el censo.</p>
+
+<p>El apoyo para locales, 45 mil pesos para los locales afectados.</p>
+
+<p>Cr&eacute;ditos a la Palabra de la Financiera del Bienestar.</p>
+
+<p>Plan de recuperaci&oacute;n de infraestructura urbana.</p>
+
+<p>Exenci&oacute;n de impuestos por parte del Servicio de Administraci&oacute;n Tributaria, IVA, ISR e impuestos especiales entre octubre 2023 y febrero 2024.</p>
+
+<p>La implementaci&oacute;n de los cuarteles de la Guardia Nacional en las colonias que se describieron en el punto que se&ntilde;al&oacute; el presidente L&oacute;pez Obrador.</p>
+
+<p>El otorgamiento de cr&eacute;ditos por Nacional Financiera sin intereses para las peque&ntilde;as y medianas empresas.</p>
+
+<p>El otorgamiento por parte de la Secretar&iacute;a de Hacienda del pago de la mitad de los intereses para los cr&eacute;ditos otorgados por la banca comercial a 373 hoteles de Acapulco.</p>
+
+<p>La rehabilitaci&oacute;n de la infraestructura carretera.</p>
+
+<p>Los paquetes de enseres dom&eacute;sticos da&ntilde;ados por la inundaci&oacute;n.</p>
+
+<p>La recuperaci&oacute;n de la infraestructura de energ&iacute;a el&eacute;ctrica por parte de la Comisi&oacute;n Federal de Electricidad.</p>
+
+<p>El apoyo a todas las escuelas con el programa La Escuela es Nuestro.</p>
+
+<p>Y el apoyo extraordinario para productores y pescadores que son, entre todos, 34 mil 609 beneficiarios.</p>
+
+<p>Ese es el marco de la cobertura de este programa de inversi&oacute;n para atender la emergencia de Acapulco.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Bueno, pues eso es lo que quer&iacute;amos informar.&nbsp;</p>
+
+<p>Y abrimos para preguntas. Quedaron pendientes algunos compa&ntilde;eros ayer, creo que dos o tres, pero no tengo aqu&iacute;&hellip; Carlos Pozos, Irving Pineda e Isabel Gonz&aacute;lez.&nbsp;</p>
+
+<p>PREGUNTA:&nbsp;Buenos d&iacute;as, presidente de todos los mexicanos, a todos los servidores p&uacute;blicos que aqu&iacute; nos acompa&ntilde;an, a los colegas.</p>
+
+<p>Quisiera, si usted me lo permite, se&ntilde;or presidente, tambi&eacute;n enviar un saludo a todos los pobladores de Guerrero y principalmente a mis vecinos de la colonia Llano Largo de Navidad. Les env&iacute;o un saludo y toda mi solidaridad.</p>
+
+<p>Y, bueno, presidente, usted acaba de iniciar tambi&eacute;n esta ma&ntilde;anera record&aacute;ndonos que hoy es d&iacute;a 1&ordm; de noviembre de 2024 y hoy inician las festividades con motivo de todos los mexicanos recordamos a nuestros muertos. Yo quisiera, si usted me permite, con todo respeto, leer una carta, una calaverita que hizo nuestro equipo de Lord Mol&eacute;cula para usted, con todo respeto, redactado por nuestra colega reportera Brenda Fonseca. &iquest;Me permitir&iacute;a leerla?</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;S&iacute;.</p>
+
+<p>INTERLOCUTOR:&nbsp;Inicia as&iacute;, dice:&nbsp;</p>
+
+<p>&lsquo;La parca a la ma&ntilde;anera lleg&oacute;, en primera fila se sent&oacute;, con el presidente L&oacute;pez Obrador se present&oacute; y este del susto brinc&oacute;.</p>
+
+<p>&lsquo;Ya te lleg&oacute; tu hora, patr&oacute;n. El presidente le hizo una petici&oacute;n:&nbsp;huesudita, no me lleves al pante&oacute;n, &iquest;qu&eacute; no ves que estoy al final de mi gesti&oacute;n?&nbsp;</p>
+
+<p>&lsquo;Obrador, d&eacute;jate de tanta alharaca, ya te carg&oacute; la calaca, olv&iacute;date de la polaca y es hora&nbsp;que&nbsp;te tires en la hamaca.</p>
+
+<p>&lsquo;L&oacute;pez Obrador intento una persuasi&oacute;n:&nbsp;calaquita, es tiempo de la Cuarta Transformaci&oacute;n y no le puedo fallar a la naci&oacute;n, dame chance de acabar con la corrupci&oacute;n.&nbsp;</p>
+
+<p>&lsquo;La flaca le respondi&oacute; con voz omnipotente: Okey, te dejo entre tanto muerto viviente, confiando plenamente en que ser&aacute;s el mejor presidente.&rsquo;</p>
+
+<p>Esta es una humilde&hellip;</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Muy buena.</p>
+
+<p>INTERLOCUTOR:&nbsp;Gracias, se&ntilde;or presidente.</p>
+
+<p>Bueno, tambi&eacute;n usted el pasado 17 de octubre me dej&oacute; de tarea buscar en cu&aacute;ntas ocasiones en los informes anteriores de sexenios se hab&iacute;a pronunciado la palabra &lsquo;austeridad&rsquo;. Comentarle, presidente, ya le mand&eacute; la informaci&oacute;n a Jes&uacute;s, la tarea: en 24 a&ntilde;os de los gobiernos neoliberales, con Ernesto Zedillo, Vicente Fox Quesada, Felipe Calder&oacute;n y Enrique Pe&ntilde;a Nieto, se hicieron alusi&oacute;n a la palabra &lsquo;austeridad&rsquo; &uacute;nicamente en 40 ocasiones durante sus informes de gobierno:</p>
+
+<p>Ernesto Zedillo solamente en dos ocasiones en esos seis a&ntilde;os de sus informes se hizo.</p>
+
+<p>Vicente Fox, tambi&eacute;n, solamente dos.</p>
+
+<p>Cabe resaltar, presidente, que el doctor Zedillo nada m&aacute;s cita dos veces la palabra &lsquo;austeridad&rsquo;: cuando &eacute;l da el tema de Fobaproa, cuando se da la crisis econ&oacute;mica, y &uacute;nicamente utiliza dos veces la palabra &lsquo;austeridad&rsquo; en sus discursos de informe de gobierno.</p>
+
+<p>Reitero, Vicente Fox solamente en dos ocasiones.</p>
+
+<p>Felipe Calder&oacute;n Hinojosa en tres.</p>
+
+<p>Y Enrique Pe&ntilde;a Nieto en 33 ocasiones.&nbsp;</p>
+
+<p>Aqu&iacute; est&aacute; la tarea y, si gusta, ya se la compart&iacute; a Jes&uacute;s Ram&iacute;rez Cuevas.</p>
+
+<p>Bueno, inicio con mi primera pregunta, presidente. Hablando de rapaces y oportunistas que saquearon a M&eacute;xico, se&ntilde;or presidente, mi pregunta es directa: &iquest;qu&eacute; opini&oacute;n le merece que el pr&oacute;fugo de la justicia Billy &Aacute;lvarez haya aparecido en una entrevista con David&nbsp;Faitelson&nbsp;en la que se burla de la autoridad mexicana para decir que no es pr&oacute;fugo de la justicia a pesar del saqueo y su red de colusi&oacute;n que construy&oacute; en la Cooperativa Cruz Azul y en el futbol mexicano y sobre todo protegido por el r&eacute;gimen del PRI y del PAN, donde su abogada Marisela Morales, que, usted recordara, fue el art&iacute;fice del desafuero del que usted sufri&oacute;, presidente?</p>
+
+<p>&iquest;Qu&eacute; opini&oacute;n le merece este se&ntilde;or Billy &Aacute;lvarez? Si tiene alg&uacute;n comentario.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Pues no tengo opini&oacute;n.&nbsp;No&nbsp;sab&iacute;a yo sobre su reaparici&oacute;n.&nbsp;</p>
+
+<p>No conozco a detalle todo el juicio que hay, la controversia judicial al interior de la Cooperativa Cruz Azul, por eso no puedo opinar nada. S&oacute;lo&nbsp;aclarar&nbsp;que, cuando el desafuero, no era la se&ntilde;ora Marisela la procuradora, sino Macedo de la Concha, la se&ntilde;ora Marisela fue despu&eacute;s.</p>
+
+<p>De ella me acuerdo, s&iacute; me acuerdo porque fue la que otorg&oacute; la exoneraci&oacute;n al exgobernador Moreira, antes de que terminara Calder&oacute;n. Porque enga&ntilde;aban de que eran distintos, siempre lo he dicho, el PRI y el PAN ten&iacute;an enga&ntilde;ada a la gente, que se estaba investigando al gobernador Moreira en el tiempo de Calder&oacute;n, que se estaba haciendo una auditor&iacute;a, incluso hasta se le detuvo en Espa&ntilde;a. Y usaban los panistas en los m&iacute;tines el asunto de Moreira, acus&aacute;ndolo de corrupci&oacute;n y de que hab&iacute;a endeudado al estado, hasta que nos lleg&oacute; informaci&oacute;n de que el mismo Calder&oacute;n al final, ya cuando el licenciado Pe&ntilde;a Nieto es presidente electo, lo exonera de todos los delitos.</p>
+
+<p>Pero no se sab&iacute;a y segu&iacute;an hablando de que iban a meter a la c&aacute;rcel a Moreira, cuando ya le hab&iacute;an extendido un oficio para exonerarlo de todos los delitos, un acuerdo arriba, cupular.Entonces, s&iacute; tuvimos que decir en todas las plazas que estaban enga&ntilde;ando a la gente.&nbsp;</p>
+
+<p>Y s&iacute; me acuerdo&nbsp;que,&nbsp;en ese entonces quien era la procuradora era esta se&ntilde;ora, Marisela, pero en el caso del desafuero era Macedo de la Concha, que tuvo que renunciar despu&eacute;s.</p>
+
+<p>En lo que corresponde a lo de Cruz Azul no tengo m&aacute;s informaci&oacute;n.</p>
+
+<p>INTERLOCUTOR:&nbsp;Okey, presidente.</p>
+
+<p>Mi segunda pregunta es: en el Estado de M&eacute;xico aproximadamente un 33 por ciento de la poblaci&oacute;n migr&oacute; a Estados Unidos en los tiempos de los gobiernos neoliberales del PRI. Ante la temporada de visitas de migrante a nuestro pa&iacute;s, el Instituto Nacional de Migraci&oacute;n, al frente de Francisco Gardu&ntilde;o, ha implementado programas de protecci&oacute;n a migrantes para su estancia.</p>
+
+<p>Y, en tanto, en el Estado de M&eacute;xico, al frente de la maestra Delfina G&oacute;mez ha implementado el programa Migrante Mexiquense Operativo Invierno 2023-2024, del 1&ordm; de diciembre del 2023 hasta el 7 de enero del 2024. Este programa ofrece a los migrantes mexiquenses y connacionales orientaci&oacute;n, apoyo, asistencia en su visita o tr&aacute;nsito por el Estado de M&eacute;xico, a fin de procurar su seguridad y la de sus bienes durante el periodo vacacional de invierno y evitar que as&iacute; sean v&iacute;ctimas de abuso y extorsi&oacute;n.</p>
+
+<p>Mi pregunta ser&iacute;a, presidente: &iquest;ser&aacute; posible recomendar estos programas del Estado de M&eacute;xico a otros estados de la rep&uacute;blica y se establezca como modelo?</p>
+
+<p>&iquest;Y cu&aacute;l ser&iacute;a el mensaje que usted le mandar&iacute;a a esos h&eacute;roes y hero&iacute;nas de migrantes mexicanos que regresan en esta temporada a visitar a su patria?</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Que son bienvenidos, desde luego. Que estamos muy contentos, satisfechos, en deuda con ellos porque han mostrado su solidaridad, su fraternidad, el amor a sus familias en los momentos m&aacute;s dif&iacute;ciles por los que hemos atravesado, sobre todo cuando la pandemia, no dejaron solos a sus familiares, enviaron sus apoyos, sus remesas y siguieron ayudando. Es un fen&oacute;meno y es parte de lo amoroso que es el pueblo de M&eacute;xico, la fraternidad que hay en el pueblo de M&eacute;xico, c&oacute;mo est&aacute;n enviando apoyos a sus familiares.&nbsp;</p>
+
+<p>Este a&ntilde;o se estima que vamos a rebasar los 63 mil millones de d&oacute;lares en remesas, r&eacute;cord, algo nunca visto, tenemos un incremento con relaci&oacute;n al a&ntilde;o pasado del 10 por ciento. Estuvimos a punto de llegar a 60 mil millones de d&oacute;lares el a&ntilde;o pasado y ahora vamos a rebasar los 60 mil, van a ser alrededor de 63 mil millones de d&oacute;lares. Eso no sucede en otras partes del mundo, porque s&iacute; hay migrantes de todo el mundo, todos los pa&iacute;ses tienen migraci&oacute;n, somos una humanidad migrante, pero el que se tenga migrantes y que esos migrantes ayuden a sus familiares, que no se olviden de sus familiares, que no les den la espalda a sus familiares de sus pa&iacute;ses de origen, eso es &uacute;nico, excepcional; s&iacute; sucede en otras partes, pero lo de M&eacute;xico es sin precedente, no hay.&nbsp;</p>
+
+<p>Debemos de estar compitiendo, es cosa de verlo, con la India, con China, debemos estar como en tercer lugar, en el tercer lugar, en el tercer lugar, s&iacute;; pero en poblaci&oacute;n, lo que env&iacute;an los mexicanos migrantes a sus familiares yo creo que, es&nbsp;per c&aacute;pita, es mayor, es el ingreso mayor.</p>
+
+<p>Entonces, desde luego que son bienvenidos a M&eacute;xico. Cuidarlos, protegerlos.</p>
+
+<p>Y esto que est&aacute;n haciendo en el Estado de M&eacute;xico yo estoy seguro&nbsp;que&nbsp;lo aplican en todos los gobiernos estatales, y el gobierno federal igual, vamos a estar apoyando, protegiendo a nuestros migrantes.</p>
+
+<p>INTERLOCUTOR:&nbsp;Perfecto.</p>
+
+<p>Presidente, y, finalmente, usted nos ha pedido aqu&iacute; investiguemos de d&oacute;nde tienen tantos millones y bienes los voceros del conservadurismo de los medios de manipulaci&oacute;n tradicionales y para muestra un bot&oacute;n:</p>
+
+<p>Los ingresos del periodista Joaqu&iacute;n L&oacute;pez-D&oacute;riga Velandia, con 55 a&ntilde;os en la profesi&oacute;n del periodismo, siendo pasante de abogado, naci&oacute; en Madrid hace 76 a&ntilde;os y ha sido favorecido con diversos contratos desde que comenz&oacute; trabajando, donde lo conoc&iacute;, en&nbsp;El Heraldo&nbsp;de M&eacute;xico,&nbsp;ah&iacute; fue columnista de la columna&nbsp;En privado.</p>
+
+<p>Todos los millones reportados con esas adjudicaciones no se explican en su totalidad, los bienes que se ha reportado la familia L&oacute;pez-D&oacute;riga, en los que destacan seis departamentos de lujo en el Club de Golf Bosques, otros siete en la colonia Polanco en la misma Ciudad de M&eacute;xico, un lujoso yate valuado con 40 millones de pesos en Acapulco y una suite residencial en Villa Alejandra, tambi&eacute;n en Acapulco.</p>
+
+<p>Este periodista es due&ntilde;o de&nbsp;Astron&nbsp;Publicidad y de&nbsp;AnklaComunicaciones, donde hac&iacute;a campa&ntilde;as publicitarias para los gobiernos de M&eacute;xico en los tiempos de Felipe Calder&oacute;n, Fox y Pe&ntilde;a Nieto.&nbsp;</p>
+
+<p>Su estancia en el&nbsp;noticiero,&nbsp;cobraba 200 mil pesos mensuales por conducir el noticiero de&nbsp;Televisa.</p>
+
+<p>Su yate, como lo coment&eacute;, valorado en 40 millones de pesos mexicanos. Un reportero, como nosotros los aqu&iacute; presentes, con un salario m&iacute;nimo profesional pues tendr&iacute;amos que trabajar los siete d&iacute;as de la semana en forma ininterrumpida por 594 mil a&ntilde;os, presidente, para poder tener ese yate.</p>
+
+<p>Tiene una mansi&oacute;n tipo castillo en Espa&ntilde;a, donde naci&oacute;, un apartamento en Miami, junto con Loret de Mola; y otro, como le reitero, en Polanco y casas en el Pedregal.</p>
+
+<p>Tambi&eacute;n se ha visto envuelto en un esc&aacute;ndalo por haber recibido un cheque de 10 mil millones de pesos por campa&ntilde;as pol&iacute;ticas en tiempos de transici&oacute;n entre Calder&oacute;n y Pe&ntilde;a Nieto. La fuente es de un&nbsp;exreportero&nbsp;de Televisa y fuente de internet.&nbsp;</p>
+
+<p>Con 251 millones de pesos, L&oacute;pez-D&oacute;riga Velandia fue el periodista que m&aacute;s dinero obtuvo en la administraci&oacute;n de Enrique Pe&ntilde;a Nieto de una lista de periodistas y empresas que obtuvieron contratos de publicidad oficial en la administraci&oacute;n de Pe&ntilde;a Nieto. En el listado &eacute;l aparece como el periodista con 251 millones 482 mil pesos;&nbsp;en segundo&nbsp;lugar,&nbsp;le sigue Federico Arreola.</p>
+
+<p>En la p&aacute;gina&nbsp;Poder Web Fuente&nbsp;su hijo, esposa socios son sus prestanombres.&nbsp;</p>
+
+<p>El presupuesto aprobado por las Secretar&iacute;as de Estado de Comunicaci&oacute;n Social en el 2018 fue de mil 160 millones de pesos, pero en esas administraciones se gastaron seis mil 373 millones de pesos, de acuerdo con el Instituto Mexicano para la Competitividad en su m&aacute;s reciente an&aacute;lisis de gasto de cuenta p&uacute;blica.</p>
+
+<p>Adem&aacute;s de cobrar como conductor principal del Noticiero Televisa, L&oacute;pez-D&oacute;riga Velandia firm&oacute; contratos a trav&eacute;s de la empresa de su familia durante los &uacute;ltimos siete a&ntilde;os de los gobiernos federales, equivalentes a 148 mil millones de pesos de contribuciones de todos nosotros por nuestros impuestos; el 100 por ciento fueron adjudicaciones directas, presidente.&nbsp;</p>
+
+<p>Luego de la muerte del se&ntilde;or Emilio Azc&aacute;rraga Milmo, &lsquo;el Tigre&rsquo;, fue la escuela del grupo de hombres poderosos para quienes la pantalla grande, ante todo, era un negocio, no un servicio p&uacute;blico concesionado, as&iacute; lo redacta el especialista en an&aacute;lisis de audiencias, Jenaro Villamil, hoy servidor p&uacute;blico de la Cuarta T, en su libro&nbsp;El sexenio de Televisa.&nbsp;Y en esa escuela de hacer negocios, aprovechando los reflectores de una plataforma concesionada que tuvo L&oacute;pez-D&oacute;riga durante m&aacute;s de 20 a&ntilde;os, se filtr&oacute;: a su n&uacute;cleo familiar, entre su hijo mayor y su esposa acumularon un largo y turbio expediente que va desde esc&aacute;ndalos en para&iacute;sos fiscales y el apoderamiento de farmac&eacute;uticas que tuvieron que justificarse en la Bolsa Mexicana de Valores y frontalmente en enfrentamientos y demandas con familias millonarias.</p>
+
+<p>Finalmente, presidente, L&oacute;pez-D&oacute;riga Velandia tiene, le reitero, las empresas&nbsp;Tankfarm&nbsp;Capital de M&eacute;xico y&nbsp;Telecomportal&nbsp;S.A. de C.V. y&nbsp;Ankla&nbsp;Comunicaciones.&nbsp;</p>
+
+<p>Y pues esa ser&iacute;a la explicaci&oacute;n, por qu&eacute; este se&ntilde;or, este periodista de las estrellas, pues tiene tanto dinero.</p>
+
+<p>Esa ser&iacute;a mi aportaci&oacute;n y eso es todo, presidente. Gracias.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Muy bien. Bueno, pues ya distes a conocer tu opini&oacute;n.&nbsp;</p>
+
+<p>Es importante aclarar que aqu&iacute; hay libertad de expresi&oacute;n, pero no significa que todo lo que se dice sea cierto, apegado a la verdad, hay veces que no es cre&iacute;ble todo. Por ejemplo, lo de los montos, en este caso &mdash;yo lo digo con todo respeto a Carlos Pozos&mdash; se me hace much&iacute;simo porque se habla de miles&nbsp;de millones. Puede ser que sean cientos o mil millones, que es bastante, pero creo que cientos de millones, pero miles ya son palabras mayores.</p>
+
+<p>Y hay niveles, siempre hemos hablado de esto, los que s&iacute; tienen miles son los due&ntilde;os de los medios, y eso no todos. Hay como&hellip; Los que aparecen en la lista de los hombres m&aacute;s ricos del mundo, por ejemplo, no s&eacute;&hellip; &iquest;Por qu&eacute; no pones la lista de los de&nbsp;Forbes, de los m&aacute;s ricos de M&eacute;xico, de los 10? Y ah&iacute; no est&aacute; Joaqu&iacute;n, ni Loret, ni&hellip; &iquest;C&oacute;mo se llama el que gana m&aacute;s de todos, que est&aacute; en Estados Unidos?</p>
+
+<p>INTERVENCI&Oacute;N:&nbsp;Jorge Ramos.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Jorge Ramos, s&iacute;.</p>
+
+<p>No, no, no, no llegan, estamos hablando de grandes ligas: luego, hay la triple A; luego, la del Pac&iacute;fico, la mexicana. Hay niveles, pues. Luego, la de tranviarios, la de los municipios, pero para tener una idea.</p>
+
+<p>S&iacute; tienen, y adem&aacute;s es su trabajo. Les pagan much&iacute;simo porque, independientemente de ser buenos o malos periodistas, pues son parte de un engranaje de privilegios.</p>
+
+<p>Pero estos son los m&aacute;s ricos de M&eacute;xico, o sea, seis, &iquest;no? Son 10, pero Carlos Slim es el m&aacute;s rico, tiene 93 mil millones de d&oacute;lares, seg&uacute;n la revista&nbsp;Forbes. Porque, como dicen algunos, hay niveles, pues. Pero yo a veces digo: &iquest;Por qu&eacute; te ofendes si&hellip;?</p>
+
+<p>Estos son. C&oacute;mo obtuvieron la riqueza ya es otro asunto.</p>
+
+<p>Y lo que s&iacute; tiene que reconocerse a algunos de ellos, quiz&aacute; no a todos, es que han conservado y han aumentado su riqueza, porque lo m&aacute;s reprobable es el caso de los que se elevan o los elevan y se hacen inmensamente ricos al amparo del poder p&uacute;blico de la noche a la ma&ntilde;ana,&nbsp;y resulta&nbsp;que&nbsp;en una, dos generaciones se acaban todo. Eso es lo m&aacute;s cuestionable desde mi punto de vista.</p>
+
+<p>Pero, a ver, pero regr&eacute;sala. Pero el primero es Carlos; luego, Larrea, que es minero. S&iacute; hay diferencias, f&iacute;jense que,&nbsp;de 93 mil a 26 mil, porque Carlos s&iacute; aparece entre los m&aacute;s ricos del mundo.&nbsp;</p>
+
+<p>Tambi&eacute;n, ah&iacute; hay, en los &uacute;ltimos tiempos, algo inexplicable, desproporcionado, de c&oacute;mo de la nada empiezan a surgir personajes que tienen 250, 300 mil millones de d&oacute;lares y no tienen inversiones productivas, sino todo, b&aacute;sicamente, est&aacute; relacionado con la especulaci&oacute;n financiera, porque esta es otra diferencia, una cosa es la actividad productiva y otra cosa es el mundo financiero, la especulaci&oacute;n.</p>
+
+<p>Larrea, que es minero; Ricardo Salinas, que es de Banco Azteca; la familia Servitje, que es Bimbo; Alejandro&nbsp;Baill&egrave;res, que es el heredero del se&ntilde;or&nbsp;Baill&egrave;res, de Pe&ntilde;oles, de don Alberto, que falleci&oacute;.</p>
+
+<p>INTERVENCI&Oacute;N:&nbsp;Y del Palacio de Hierro.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Aparte, aparte.</p>
+
+<p>Y la se&ntilde;ora Mar&iacute;a Asunci&oacute;n Aramburuzabala, de Grupo Modelo y tambi&eacute;n de desarrollo inmobiliario, y una mujer de empresas, de negocios.</p>
+
+<p>A ver, seguimos adelante, la siete, la se&ntilde;ora Eva&nbsp;Gonda&nbsp;de Rivera y familia, no s&eacute; exactamente a qu&eacute; se dedica; Juan Domingo, s&iacute;, &eacute;l es del Tequila Cuervo.&nbsp;</p>
+
+<p>Ah, la se&ntilde;ora Garza Lag&uuml;era, de Monterrey, ellos siempre han tenido. Cuando empezaron a hacer estas listas, la familia de los m&aacute;s ricos, con&nbsp;Forbes, cuando comenzaron a hacer estas listas de los m&aacute;s ricos, antes de Salinas la &uacute;nica familia que aparec&iacute;a con dos mil millones de d&oacute;lares era la familia Garza Lag&uuml;era, Garza Sada, la &uacute;nica, y cuando termin&oacute; Salinas ya hab&iacute;a 24 en la lista con 48 mil millones de&nbsp;d&oacute;lares. O sea, es nada m&aacute;s para tener una idea de lo que signific&oacute; la transferencia de bienes de la naci&oacute;n, bienes del pueblo a particulares,&nbsp;y no todos supieron conservar eso que les dieron o que compraron en condiciones favorables; otros fracasaron, les dieron bancos y no supieron manejarlos, o derrocharon toda la riqueza. Pero s&iacute; era la &uacute;nica familia que hab&iacute;a.</p>
+
+<p>Luego, en el n&uacute;mero, &iquest;a d&oacute;nde vamos?&nbsp;Nueve, la familia Arango, los antiguos de Aurrera.</p>
+
+<p>Rufino&nbsp;Vigil&nbsp;tambi&eacute;n ya tiempo de ser empresario.</p>
+
+<p>Carlos Hank, s&iacute;, &eacute;l es nieto del maestro, del profesor Carlos Hank Gonz&aacute;lez y nieto tambi&eacute;n de Roberto Gonz&aacute;lez, por eso es, se llama igual que el abuelo paterno, Carlos Hank Gonz&aacute;lez, pero el Gonz&aacute;lez es por don Roberto Gonz&aacute;lez, que era el due&ntilde;o de Maseca y tambi&eacute;n del banco Banorte.</p>
+
+<p>Y la familia Robinson; los Bours, ese es Bachoco.&nbsp;</p>
+
+<p>Pero ya lo dejamos ah&iacute;. Entonces, si ustedes se dan cuenta, esto es lo m&aacute;s cuantioso en cuanto a acumulaci&oacute;n de riqueza. Los periodistas famosos pues no, no.</p>
+
+<p>Todav&iacute;a hay como un segundo nivel, un tercer nivel, y los periodistas que m&aacute;s ganan dinero est&aacute;n como en el cuarto, el quinto nivel. Y s&iacute; trabajan, y son inteligentes, y son profesionales, el asunto es que juegan un papel en un r&eacute;gimen de corrupci&oacute;n y de privilegios, tienen que legitimar a un r&eacute;gimen que beneficia a minor&iacute;as, son parte del sistema de los gobiernos olig&aacute;rquicos que existen en todo el mundo.</p>
+
+<p>&iquest;Qu&eacute; es la oligarqu&iacute;a?&nbsp;</p>
+
+<p>Es el gobierno de una minor&iacute;a. Pero como no se podr&iacute;a justificar una oligarqu&iacute;a, ya cuesta trabajo, por ejemplo, la justificaci&oacute;n de la monarqu&iacute;a, ya cuesta trabajo justificarlo, pues cuesta m&aacute;s trabajo justificar un gobierno olig&aacute;rquico; entonces, ese gobierno olig&aacute;rquico en los hechos tiene que simular de que es un gobierno democr&aacute;tico.</p>
+
+<p>Entonces, para simular de que es un gobierno democr&aacute;tico, entonces se habla de las libertades, se tiene que hablar de la diversidad, de la pluralidad, de gobierno de todos, pero es demagogia.</p>
+
+<p>Entonces, para simular, para enga&ntilde;ar, pues necesitan la demagogia y ese es el papel de algunos medios de informaci&oacute;n: buscar manipular y ocultar cosas, callar. Hay much&iacute;simas cuestiones que pasaban antes que el pueblo de M&eacute;xico no sab&iacute;a.</p>
+
+<p>&iquest;Y cu&aacute;ntos peri&oacute;dicos&nbsp;hab&iacute;an?</p>
+
+<p>Much&iacute;simos.</p>
+
+<p>&iquest;Y cu&aacute;ntas estaciones de radio?</p>
+
+<p>Miles.</p>
+
+<p>&iquest;Y canales de televisi&oacute;n?</p>
+
+<p>Much&iacute;simos, y adem&aacute;s con cobertura casi total y, sin embargo, la gente no sab&iacute;a de todo porque el poder medi&aacute;tico es parte del sostener este sistema olig&aacute;rquico, no es un gobierno del pueblo, para el pueblo, con el pueblo, que eso es la democracia.</p>
+
+<p>Es lo que recomend&oacute; el migrante en San Quint&iacute;n, que es lo que aplicamos y que no deber&iacute;a de molestar a nadie, me dijo: &lsquo;As&iacute; como el presidente Ju&aacute;rez separ&oacute; a la Iglesia del poder civil, porque a Dios lo que es de Dios y al C&eacute;sar lo que es el del C&eacute;sar, as&iacute; lo que se necesita ahora ―me dijo, me recomend&oacute;―&nbsp;es separa el poder econ&oacute;mico del poder pol&iacute;tico, y que el gobierno en vez de estar s&oacute;lo al servicio de una minor&iacute;a sea un gobierno para todos, para ricos y para pobres, para la gente del campo, para la gente de la ciudad, para creyentes, no creyentes&rsquo;, y esto es lo que procuramos hacer.</p>
+
+<p>Y, desde luego, como debe de haber justicia, se le tiene que dar m&aacute;s al que tiene menos o al que m&aacute;s lo necesita, y en eso hasta los m&aacute;s ricos de M&eacute;xico han ido acept&aacute;ndolo; algunos no, algunos est&aacute;n enojados, pero tambi&eacute;n ya se les va a ir pasando.</p>
+
+<p>Pero no debe uno odiar, no es un asunto personal. Hablaba yo la vez pasada de que la pol&iacute;tica no es un pleito, &lsquo;en lo personal no te vuelvo a ver&rsquo;, &lsquo;no quiero ni volver a escuchar tu nombre&rsquo;, &lsquo;t&uacute; ya no existes para m&iacute;&rsquo;. Ahora est&aacute; de moda eso de que&hellip; &iquest;C&oacute;mo los apagan en las redes sociales?</p>
+
+<p>INTERVENCI&Oacute;N:&nbsp;El bloqueo.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;&lsquo;Te bloqueo&rsquo;. Nosotros no podemos bloquear a nadie, el pol&iacute;tico tiene que estar dispuesto a hablar con todos, a no odiar, no bloquear a nadie, entender las cosas, explicar;&nbsp;todo tiene una explicaci&oacute;n.</p>
+
+<p>Y, adem&aacute;s, hay algo que es fundamental: no podemos todos pensar de la misma manera, no puede haber pensamiento &uacute;nico, somos distintos hasta en las familias, nuestros hijos,&nbsp;cada quien&nbsp;tiene su criterio.</p>
+
+<p>Entonces, aprender a ser respetuosos con todos y no odiar para nada. Y s&iacute; es importante que no haya&nbsp;temas tab&uacute;, que no sea como antes, que no se pod&iacute;a tocar al intocable, o de eso no se habla. La vida p&uacute;blica tiene que ser cada vez m&aacute;s p&uacute;blica.</p>
+
+<p>Tambi&eacute;n, no es necesario insultar, decir groser&iacute;as. &iquest;Por qu&eacute;? Nada m&aacute;s argumentar por qu&eacute; no est&aacute; uno de acuerdo con alguien y ya. Pero el pueblo de M&eacute;xico es un pueblo tambi&eacute;n muy educado, sobre todo la gente humilde, la gente pobre, es muy respetuosa, mucho muy respetuosa, nadie es capaz de mentar madre y mucho menos a una autoridad. La gente de pueblo respeta mucho a las autoridades, hasta en exceso, porque hay autoridades que no respetan al pueblo y, sin embargo, el pueblo los respeta. Pero, bueno, ese es el asunto.</p>
+
+<p>V&aacute;monos con Irving.</p>
+
+<p>PREGUNTA:&nbsp;Hola, buenos d&iacute;as. Aqu&iacute; me voy un poco r&aacute;pido porque tambi&eacute;n est&aacute; Isabel ahora s&iacute; que formada en la lista de preguntas.</p>
+
+<p>&iquest;Usted comparte este pron&oacute;stico o esta estimaci&oacute;n que han hecho empresarios en torno a que Acapulco se recuperar&aacute; en dos a&ntilde;os? Es decir, &iquest;en dos a&ntilde;os lo podemos ver como estaba antes del paso del hurac&aacute;n Otis?</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Yo pienso que menos tiempo, yo pienso que en menos tiempo. Bueno, es una semana de esta tragedia, se est&aacute; cumpliendo ahora, entr&oacute; a las 12 y media de la noche de hoy hace ocho d&iacute;as y ya se restableci&oacute; pr&aacute;cticamente el servicio el&eacute;ctrico.</p>
+
+<p>INTERLOCUTOR:&nbsp;&iquest;Ya est&aacute; al 100 por ciento?</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Casi al 100 por ciento, &iacute;bamos a ponerlo al 100 por ciento, pero faltan algunos sitios y para que nuestros adversarios no fueran a decir: &lsquo;&iexcl;Mentira, no est&aacute; al 100 por ciento! &iexcl;Miren, aqu&iacute; estoy en un hogar, desde cu&aacute;ndo no tienen luz!&rsquo;, y se hace el gran reportaje. Entonces, mejor, &iquest;c&oacute;mo le pusimos?, a ver, matizamos.</p>
+
+<p>INTERLOCUTOR:&nbsp;&iquest;Entonces ser&iacute;a como al 95 por ciento?</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;M&aacute;s del 90, pero no quisimos ponerlo as&iacute;, dijimos &lsquo;pr&aacute;cticamente&rsquo;. Pero realmente no lo hace nadie en el mundo, ning&uacute;n equipo de trabajadores electricistas del mundo hace lo que llevaron a cabo los electricistas de M&eacute;xico.</p>
+
+<p>Y esto no es nuevo, cuando la nevada en Texas, all&aacute; tardaron creo que m&aacute;s de un mes en restablecer el servicio y aqu&iacute; se restableci&oacute; &mdash;con menos efectos, desde luego&mdash; en una semana.</p>
+
+<p>&iquest;Cu&aacute;nto tiempo nos va a llevar el que Acapulco vuelva a la normalidad en su totalidad?</p>
+
+<p>Va a depender, m&aacute;s que nada, de las inversiones que se hagan para restaurar, restablecer&nbsp;la hoteler&iacute;a; pero las viviendas, lo que tiene que ver con la gente y el apoyo a la gente y los servicios p&uacute;blicos, yo les dir&iacute;a que ya en diciembre se van a notar ya los cambios, ya para diciembre.</p>
+
+<p>INTERLOCUTOR:&nbsp;&iquest;Antes del 25 de diciembre?</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;S&iacute;, queremos que para la Navidad sea distinta, que no sea una amarga Navidad.</p>
+
+<p>Porque, &iquest;qu&eacute; va a significar este plan? Va a significar que, en tres meses, noviembre, diciembre, enero, ellos, todos, las familias van a tener garantizados sus alimentos.</p>
+
+<p>Van a tener ingresos adicionales para pagar su gas, por ejemplo.&nbsp;</p>
+
+<p>Muchos ya van a tener sus estufas, sus refrigeradores, lo que perdieron. Ya tenemos 10 mil&hellip; No, seis&hellip; &iquest;Cu&aacute;ntos?</p>
+
+<p>LUIS CRESENCIO SANDOVAL GONZ&Aacute;LEZ:&nbsp;Cinco mil.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Cinco mil paquetes de enseres.</p>
+
+<p>INTERLOCUTOR:&nbsp;Okey, o sea, el paquete va a llegar f&iacute;sico: va a llegar el refrigerador, la estufa, f&iacute;sicamente a los domicilios.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;S&iacute;, s&iacute;.</p>
+
+<p>Pero &iquest;de qu&eacute; va a depender? O sea, estamos hablando de alrededor de 250 mil paquetes, son 250 mil estufas, 250 mil refrigeradores, 250 mil colchones.&nbsp;</p>
+
+<p>La vez pasada&hellip; Todo esto lo hacemos porque ya hemos enfrentado otras tragedias. Por ejemplo, atendimos a 200 mil damnificados cuando la inundaci&oacute;n en Tabasco, y como estaba pasando la pandemia no fue f&aacute;cil conseguir los electrodom&eacute;sticos, entonces nos llev&oacute; tiempo conseguir para entregar a todas las casas en Tabasco los electrodom&eacute;sticos.</p>
+
+<p>Esto que hablamos de entregar ocho mil pesos de inicio para limpiar, pintar, arreglar, ya lo hicimos, o sea, lo hicimos en Tabasco, lo hicimos en Veracruz, lo hicimos en Oaxaca, en Hidalgo; o sea, ya lo hemos hecho. Entonces, vamos a buscar la forma de seguir avanzando.</p>
+
+<p>La construcci&oacute;n de vivienda, Raquel Buenrostro, secretaria de Econom&iacute;a, que est&aacute; aqu&iacute;, ya est&aacute; hablando con fabricantes y distribuidores de materiales de construcci&oacute;n para poner centros en Acapulco de distribuci&oacute;n de estos materiales con precios justos, que no haya abusos. Y todos est&aacute;n ayudando: cementeros, los que venden varillas, l&aacute;minas y otros materiales.</p>
+
+<p>&iquest;Por qu&eacute;?</p>
+
+<p>Porque son 250 mil viviendas, unas m&aacute;s afectadas que otras.&nbsp;</p>
+
+<p>&iquest;No tienes la primera muestra que hicieron de viviendas m&aacute;s afectadas, menos afectadas? &iquest;No lo traes ah&iacute;? Es que es interesante esto.</p>
+
+<p>Entonces, no es hacer las 250 mil viviendas con empresas, es autoconstrucci&oacute;n, porque la gente asume&hellip; Como se han hecho las casas en M&eacute;xico, la mayor&iacute;a de las casas.</p>
+
+<p>&iquest;Qui&eacute;nes hacen las casas?</p>
+
+<p>Las mismas familias, contratan a un maestro alba&ntilde;il, a los ayudantes, compran los materiales y ellos van haciendo sus casas.</p>
+
+<p>Es muy importante tambi&eacute;n que se den las indicaciones t&eacute;cnicas. Este hurac&aacute;n fue muy fuerte, muy fuerte, pero se tuvo la ventaja, entre otras, de que ya hay m&aacute;s viviendas de concreto, de material, entonces resistieron. Incluso el caso de los hoteles, habl&aacute;bamos de que no quedaron vidrios, las paredes de, &iquest;c&oacute;mo se llama el material?&nbsp;Tablarroca, todo eso no qued&oacute; nada. Sin embargo, las estructuras &mdash;hay que analizarlas tambi&eacute;n, de todas formas&mdash; las estructuras quedaron de pie, o sea, las de concreto y de acero.</p>
+
+<p>Esta es una peque&ntilde;a muestra de lo que llevan censado, es una estimaci&oacute;n, pero a partir de una muestra. A ver, ven.</p>
+
+<p>ARIADNA MONTIEL REYES, SECRETARIA DE BIENESTAR:Muchas gracias. Buenos d&iacute;as.</p>
+
+<p>Si quieren poner la&nbsp;primer l&aacute;mina, la que me dec&iacute;a. Llevamos hasta este momento 50 mil viviendas censadas aproximadamente, 50 mil 637 viviendas entre Acapulco y Coyuca de Ben&iacute;tez. Con esta proporci&oacute;n podemos sacar una estimaci&oacute;n de los siguientes.</p>
+
+<p>Adelante, la otra l&aacute;mina. Exacto. Tenemos un porcentaje, por ejemplo, de p&eacute;rdida total de la vivienda del 23 por ciento de la muestra de 50 mil y as&iacute; estimamos sobre las 224 mil viviendas que hay en Acapulco, seg&uacute;n Inegi. De todos modos, como nosotros estamos yendo casa por casa, tenemos la cuantificaci&oacute;n de las viviendas y vamos avanzando en ello.</p>
+
+<p>Entonces, hicimos esta estimaci&oacute;n entre la p&eacute;rdida total de la vivienda, el da&ntilde;o grave que comprometa un da&ntilde;o estructural, medio y menor&nbsp;&mdash;que muchos se les volaron sus techos que son de l&aacute;mina, hay que recordar que Guerrero es un estado de los m&aacute;s pobres del pa&iacute;s y siempre les pega mucho m&aacute;s, como tambi&eacute;n fue en Oaxaca cuando atendimos el hurac&aacute;n Agatha&mdash;,&nbsp;da&ntilde;o menor y las casas sin da&ntilde;o.</p>
+
+<p>Y en el censo preguntamos da&ntilde;os a la vivienda, los servicios de la vivienda, los enseres, a la infraestructura local y tambi&eacute;n a los locales comerciales.</p>
+
+<p>Es cuanto, presidente.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Eso es b&aacute;sicamente.</p>
+
+<p>Entonces, a tu pregunta, &iquest;cu&aacute;nto tiempo puede llevar?&nbsp;Nosotros vamos a avanzar para diciembre ya vamos a estar pr&aacute;cticamente terminando lo p&uacute;blico; pero la construcci&oacute;n,&nbsp;de acuerdo al&nbsp;censo, son 373 hoteles, la rehabilitaci&oacute;n, eso va a llevar m&aacute;s tiempo.</p>
+
+<p>Sin embargo, se est&aacute;n logrando cosas como el que los seguros o, mejor dicho, las aseguradoras entreguen ya pronto un porcentaje a los due&ntilde;os de los hoteles, la banca comercial est&aacute; dispuesta a ayudar entregando tambi&eacute;n r&aacute;pido los cr&eacute;ditos y nosotros estamos dando ese apoyo adicional de pagar la mitad del inter&eacute;s en los cr&eacute;ditos.</p>
+
+<p>Entonces las empresas constructoras van a tener aqu&iacute;, en el caso de los hoteles, pues 333 o 37 frentes de trabajo, y se puede avanzar.&nbsp;</p>
+
+<p>Las playas est&aacute;n ah&iacute;, la belleza de la bah&iacute;a, que es &uacute;nica, eso est&aacute; ah&iacute;, es bell&iacute;simo Acapulco, y es la parte material. Por eso dec&iacute;amos que lo que m&aacute;s nos duele son las p&eacute;rdidas de vidas humanas, porque lo material de una u otra forma se restablece, se recupera, y lo vamos a hacer.</p>
+
+<p>INTERLOCUTOR:&nbsp;&iquest;Y ya con este censo ustedes determinan si les toca ocho mil, 20 mil o hasta 60 mil pesos, dependiendo la gravedad del da&ntilde;o y eso, supongo, se va a hacer en un dep&oacute;sito?</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;S&iacute;, directo, tambi&eacute;n que eso es importante. O sea, se le entrega a la mam&aacute;, al pap&aacute; de familia, y ya ellos se hacen cargo de administrar. Nosotros lo que vamos a hacer es, como comentaba, el que puedan tener acceso a los materiales de construcci&oacute;n, que no haya abusos, y pues en el pueblo, en todos los pueblos hay trabajadores de la construcci&oacute;n, en todos los pueblos.</p>
+
+<p>INTERLOCUTOR:&nbsp;Presidente, &iquest;cu&aacute;l es la situaci&oacute;n o la versi&oacute;n oficial que tiene el gobierno federal o el Gabinete de Seguridad de lo que pas&oacute; el d&iacute;a de hurac&aacute;n en el Club de Yates?, &iquest;cu&aacute;ntas personas desaparecidas tienen solamente de esa parte?, &iquest;cu&aacute;ntas personas han rescatado?, &iquest;cu&aacute;l es la versi&oacute;n oficial que tiene su gobierno?</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;La versi&oacute;n que se tiene es la que recoge la procuradur&iacute;a sobre el n&uacute;mero de fallecidos con el procedimiento que se sigue en estos casos, y tambi&eacute;n de personas que van a buscar a familiares que no encuentran. Y se est&aacute; buscando, ayudando a localizarlos. Por ejemplo, Relaciones Exteriores nos entreg&oacute;&hellip; A ver si lo tienes, el dato.</p>
+
+<p>INTERLOCUTOR:&nbsp;Sac&oacute; un bolet&iacute;n el domingo, de que hab&iacute;an localizado a 263 personas.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;S&iacute;, pero todav&iacute;a el de hoy &mdash;pr&eacute;stamelo&mdash; 348 localizados de los extranjeros y 17 no localizados; pero, de esos 17 no localizados, s&oacute;lo tres s&iacute;&nbsp;se tiene ya informaci&oacute;n de que lamentablemente perdieron la vida, lo dijimos aqu&iacute; desde hace dos o tres d&iacute;as: un canadiense, un estadounidense y un ingl&eacute;s. Pero eran residentes de Acapulco, no eran turistas; o sea, su origen es Estados Unidos, Reino Unido y Canad&aacute;, pero resid&iacute;an.</p>
+
+<p>INTERLOCUTOR:&nbsp;O sea, viv&iacute;an en Acapulco, pues.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Viv&iacute;an ah&iacute; en Acapulco. Entonces, esto es lo que tenemos.</p>
+
+<p>No se va a cerrar para nada esta lista, son los que han fallecido y los que est&aacute;n desaparecidos o no localizados, porque t&uacute; me entregabas ayer lo de los no localizados y que ya hab&iacute;an encontrado. &iquest;Por qu&eacute; no lo explicas?</p>
+
+<p>INTERLOCUTOR:&nbsp;S&iacute;, porque est&aacute; un poco confuso ah&iacute;.</p>
+
+<p>EVELYN SALGADO PINEDA:&nbsp;Bueno, tenemos un programa que dijimos que se va a reforzar &mdash;incluso ahorita regresando a Acapulco vamos a ampliar a 10 brigadas m&aacute;s de las que ya tenemos&mdash; de b&uacute;squeda, porque a&uacute;n no se restablece al 100 por ciento la conectividad, no se cuenta con internet o para realizar llamadas telef&oacute;nicas; entonces, muchos de ellos se fueron con sus vecinos, a casas de otros vecinos, otros est&aacute;n con familiares o est&aacute;n incluso en los albergues.</p>
+
+<p>Ya tenemos la lista y los nombres. Con esta Comisi&oacute;n de B&uacute;squeda lo que hacemos es que acudimos directamente a sus hogares, preguntamos. Ah&iacute; es donde hemos encontrado la cantidad mayor de personas.</p>
+
+<p>Y vamos a continuar con toda la b&uacute;squeda y localizaci&oacute;n de personas que han sido reportadas, incluso por familiares y amigos como no localizados. Pero hasta el momento la cifra preliminar que maneja la fiscal&iacute;a general del estado es la que ya compartimos anteriormente.&nbsp;</p>
+
+<p>INTERLOCUTOR:&nbsp;Gobernadora, pero, por ejemplo, nada m&aacute;s aclarar la situaci&oacute;n del Club de Yates que es lo que ha causado much&iacute;simo ruido. &iquest;Cu&aacute;ntas personas estaban ah&iacute; esa noche?, porque hay un reporte y una nota de una agencia internacional donde hablan&nbsp;que&nbsp;durante el hurac&aacute;n hab&iacute;a 100 personas en ese club de yates, luego que hab&iacute;a 30 desaparecidos, luego vimos inclusive a personas que estaban en esa parte, ah&iacute; en la costera Miguel Alem&aacute;n buscando a sus familiares. &iquest;Propiamente de ese punto cu&aacute;l es la informaci&oacute;n que usted tiene?</p>
+
+<p>EVELYN SALGADO PINEDA:&nbsp;Bueno, continuamos con la investigaci&oacute;n. El informe que nos da la&nbsp;Fiscal&iacute;a General&nbsp;del estado es que ellos contin&uacute;an con la b&uacute;squeda.</p>
+
+<p>Es complicado porque tambi&eacute;n es en el mar. Muchos de ellos abandonaron estos barcos, alcanzaron a resguardarse. Tenemos contacto con muchos&nbsp;de los capitanes de estos yates, de estos barcos, que obviamente tuvieron un aviso previo de lo que ven&iacute;a; decidieron permanecer dentro de estas embarcaciones. Pero hemos tenido contacto con muchos de ellos que en cuanto a empezaron a ver los vientos muy fuertes, pues ellos son hombres de mar, se dieron cuenta que no era algo normal, decidieron resguardarse muchos de ellos.</p>
+
+<p>Incluso me comentan que se quedaron en el mar, debajo, resguardados, porque ah&iacute; sintieron como que cierta calma, porque si se le levantaban los vientos eran tan fuertes, de alrededor de 330 kil&oacute;metros por hora, que no hubieran sobrevivido. Entonces, ellos permanecieron en el mar resguard&aacute;ndose, es por eso&nbsp;quesobrevivieron.</p>
+
+<p>Tenemos contacto con ellos, les hemos brindado todo el apoyo por parte del gobierno federal, del gobierno estatal.</p>
+
+<p>Y la&nbsp;Fiscal&iacute;a General&nbsp;del estado contin&uacute;a la b&uacute;squeda. Si hubiera cuerpos, decesos lamentables, ellos van a informar en su momento. Pero la cifra preliminar que nos han dado ha sido esa.</p>
+
+<p>INTERLOCUTOR:&nbsp;&iquest;A usted le toc&oacute; el hurac&aacute;n en Acapulco?</p>
+
+<p>EVELYN SALGADO PINEDA:&nbsp;S&iacute;, por supuesto, yo estaba ah&iacute;, incluso en redes sociales hay una transmisi&oacute;n en vivo alrededor de las 11:20 de la noche, una hora antes incluso de que el hurac&aacute;n llegara ya con vientos fuertes, ah&iacute; est&aacute; en las redes sociales, ah&iacute; est&aacute; la transmisi&oacute;n, est&aacute; el horario.</p>
+
+<p>Yo empiezo a comentar, estaba con mi hermana, est&aacute;bamos en el carro y empezamos a comentar que ya se estaban cayendo algunas ramas, que estaba lloviendo ya muy fuerte, que por favor no salieran de sus casas, que se resguardaran.</p>
+
+<p>D&iacute;as antes incluso tuve un aviso de cancelaci&oacute;n de clases, de suspensi&oacute;n de clases para todo el estado. Suspend&iacute; el informe, el segundo informe de gobierno d&iacute;as antes tambi&eacute;n.</p>
+
+<p>Tuvimos una reuni&oacute;n de manera virtual con todos los presidentes de la Costa Chica, de la Costa Grande, con la presidenta de Acapulco, para informarles de c&oacute;mo estaba la situaci&oacute;n. En ese momento era tormenta tropical y estuvimos manej&aacute;ndolo de esa manera, siempre en perfecta coordinaci&oacute;n con el gobierno federal, con la coordinadora nacional de Protecci&oacute;n Civil que nos iba enviando informaci&oacute;n.</p>
+
+<p>Y, bueno, despu&eacute;s ustedes vieron que en 12 horas pas&oacute; de tormenta tropical a hurac&aacute;n categor&iacute;a 5. Pero una hora, hora y media antes del hurac&aacute;n yo estuve transmitiendo en vivo pidiendo a toda la poblaci&oacute;n que se resguardara. Estuvimos ah&iacute;, vivimos los estragos.</p>
+
+<p>Todos tenemos, no s&eacute;, da&ntilde;os de cualquier &iacute;ndole, pero, como bien lo dice nuestro presidente, los da&ntilde;os materiales poco a poco se ir&aacute;n recuperando, lo que m&aacute;s nos lastima, lo que m&aacute;s nos duele son estas p&eacute;rdidas humanas, por eso he instruido a todos los equipos, a todas las brigadas y personalmente estoy al frente de las brigadas de b&uacute;squeda y localizaci&oacute;n de las personas.&nbsp;</p>
+
+<p>INTERLOCUTOR:&nbsp;Gracias, gobernadora.</p>
+
+<p>EVELYN SALGADO PINEDA:&nbsp;Gracias a ustedes.</p>
+
+<p>INTERLOCUTOR:&nbsp;Presidente, otra cosa: &iquest;no ha pensado en utilizar la ma&ntilde;anera para alertar las tormentas?</p>
+
+<p>Bueno, recuerdo yo que cuando empezaba la ma&ntilde;anera algunas veces, algunas tormentas tropicales se alertaban aqu&iacute;. &iquest;No ha pensado en volver a alertar las tormentas tropicales aqu&iacute; en la ma&ntilde;anera o cuando ya estas se convierten en huracanes?</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;S&iacute;, lo hacemos cada vez que se necesita, se requiere.</p>
+
+<p>Miren, cuando las inundaciones en Tabasco, andaba en una gira, me acuerdo, en Nayarit, y empez&oacute; a crecer el volumen de agua en la presa Pe&ntilde;itas ya de manera muy peligrosa, iba a haber un desfogue que iba a inundar por completo a Villahermosa, a la capital, y me traslad&eacute;.</p>
+
+<p>Ya hab&iacute;an tomado una decisi&oacute;n, se revis&oacute;, esperamos un tiempo, desde luego avisamos; afortunadamente se logr&oacute; atemperar el da&ntilde;o, porque estuvimos ah&iacute; pendientes.</p>
+
+<p>Ahora lo mismo, lo que pasa es que nuestros adversarios, que no nuestros enemigos porque no tenemos enemigos, nuestros adversarios pol&iacute;ticos quisieran que nos fuera mal, de &mdash;parecer&iacute;a incre&iacute;ble&mdash; que las desgracias fuesen mayores para culparnos. Y claro, somos responsables y asumimos nuestra responsabilidad, pero una cosa es ser responsable y otra cosa es ser culpable, son cosas distintas.</p>
+
+<p>En el caso del hurac&aacute;n yo estuve pendiente todo el tiempo, todo el tiempo. Mand&eacute; aviso con anticipaci&oacute;n y hay constancia, porque aun cuando se desarroll&oacute; o evolucion&oacute; a grave en poco tiempo estuve al tanto, desde el reporte de las seis. Bueno, d&iacute;as antes se inform&oacute; a la poblaci&oacute;n, hubo reuniones de todo el equipo de Protecci&oacute;n Civil en Guerrero, con todas las autoridades y yo estuve pendiente.</p>
+
+<p>Mi reporte fue de las 8:25.</p>
+
+<p>INTERLOCUTOR:&nbsp;S&iacute;, donde dijo que tocar&iacute;a categor&iacute;a 5, que ya iba a tocar, tocaba tierra.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;S&iacute;, s&iacute;, que iba a llegar y la equivocaci&oacute;n es, porque as&iacute; estaba el reporte, que iba a entrar de 4:00 a 6:00 de la ma&ntilde;ana, y de Acapulco a Tecpan en ese tramo de la costa; pero no, se fue directo a Acapulco y por la velocidad&hellip;</p>
+
+<p>Que eso tambi&eacute;n lo tienen que ver los especialistas, porque yo retomo el dato del centro de huracanes que funciona en Estados Unidos, y hay una intercomunicaci&oacute;n con todos los centros de Am&eacute;rica Latina, y se tiene comunicaci&oacute;n constante.</p>
+
+<p>Entonces de todas maneras hago el llamado a las 8:25 de la noche, y fue milagroso.&nbsp;</p>
+
+<p>Cuando yo decido ir all&aacute; es porque no hay comunicaci&oacute;n de nada, de nada, pero mi preocupaci&oacute;n principal era el que pod&iacute;an perder la vida mucha gente.</p>
+
+<p>Y, s&iacute;, cuando llegamos y vimos c&oacute;mo estaba, yo estaba esperando el informe de fallecidos porque en toda la carretera, primero, nueve horas de aqu&iacute; a Acapulco. Uno, dos, tres, cuatro veh&iacute;culos en el trayecto: uno que se qued&oacute; atascado, dos camionetas de un maestro, una estaquita y otra de un minero, para llegar, y camin&eacute;, caminamos a pie porque lleg&oacute; el momento en que no se pudo, nos atascamos y bajamos del&nbsp;Jeep&nbsp;y a caminar.</p>
+
+<p>Y, de todas maneras, si no nos hubi&eacute;semos atascado en ese sitio &mdash;les estoy hablando de 40 kil&oacute;metros, que fueron los m&aacute;s dif&iacute;ciles, del 40 precisamente, del kil&oacute;metro 40 hasta Acapulco&mdash; de todas maneras, si no nos hubi&eacute;semos atascado ah&iacute;, no hubi&eacute;semos pasado porque estaba completamente desbordado el r&iacute;o Papagayo y se hab&iacute;a llevado la carretera, y tuvimos que pasar por el cerro.</p>
+
+<p>Y del otro lado un maestro con su camionetita nos llev&oacute; a otro lugar donde ya no se pod&iacute;a pasar, tambi&eacute;n rota la carretera. Pasamos ah&iacute; caminando y el minero nos llev&oacute;. Pero cuando llegamos a Acapulco, nada m&aacute;s de ver los &aacute;rboles y las casas y toda la destrucci&oacute;n, bueno, en todo el camino&hellip; Y nos reunimos, pensamos en la base naval; no pod&iacute;amos avanzar 50 metros porque estaban los &aacute;rboles y estaban los postes tirados, y&nbsp;parotasenormes arrancadas.</p>
+
+<p>Entonces, llegamos y ya el Ej&eacute;rcito, la Marina, ya estaban, las autoridades del municipio, del estado, ya trabajando. Y eso fue.&nbsp;</p>
+
+<p>Y vamos a sacar adelante a Acapulco. Y la gente est&aacute; ayudando bien. Nos afect&oacute; mucho la falta de comunicaci&oacute;n, el aislamiento, porque si hubi&eacute;semos podido&hellip; Tuve que grabar un mensaje para que lo pasaran en las colonias, pero estamos hablando de 270 colonias, 500.</p>
+
+<p>EVELYN SALGADO PINEDA:&nbsp;Son m&aacute;s de 234 comunidades.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Doscientas treinta y cuatro comunidades. Entonces, la comunicaci&oacute;n.</p>
+
+<p>Por eso nuestro cuestionamiento respetuoso al periodismo amarillista, porque en esos momentos no hay comunicaci&oacute;n y si lo que se va a escuchar es alarmista nada m&aacute;s&hellip; Por eso habl&aacute;bamos de zopilotes, de buitres. Eso no se debe de hacer, no se puede utilizar el dolor humano con prop&oacute;sitos publicitarios, de&nbsp;rating;&nbsp;mucho menos como venganza.</p>
+
+<p>Si tienen problemas con nosotros, vamos a dirimirlos; si no les cae bien el presidente o consideran que el presidente los ha afectado, entonces contra el presidente, pero no contra el pueblo.</p>
+
+<p>Es como lo de la familia. O sea, con cualquiera de ustedes s&iacute;, son periodistas, somos personajes de la vida p&uacute;blica, pero &iquest;qu&eacute; tienen que ver nuestros hijos si no est&aacute;n metidos?</p>
+
+<p>Lo mismo, yo creo&nbsp;que&nbsp;hasta peor, &iquest;qu&eacute; tiene que ver el pueblo, el pobre pueblo?&nbsp;</p>
+
+<p>Y esto aplica en general, &iquest;por qu&eacute; los bloqueos de potencias a otros pa&iacute;ses?&nbsp;Porque tienen problema arriba, las c&uacute;pulas de poder, &iquest;y qui&eacute;n sufre?&nbsp;El pueblo, en todas las guerras, en todas las confrontaciones. &iquest;Por qu&eacute; no separar?</p>
+
+<p>Pero, bueno, es entender de que debemos de ser profesionales.</p>
+
+<p>Y no es nada nuevo. Alguien dijo, el luchador social m&aacute;s importante que ha existido en el mundo, que la verdad nos har&aacute; libres. Eso es todo, eso es todo. No mentir.</p>
+
+<p>Y claro que, ya dije, no podemos ser todos iguales y pues son concepciones distintas en una democracia, y vamos a debatir y vamos a resolver nuestras diferencias y, si se puede, y se deber&iacute;a hacerse de esa manera, acudamos a instancias judiciales, pero no actuemos de manera vil, no son tiempos para canallas. Entonces, es todo.</p>
+
+<p>O sea, afortunadamente ya vamos saliendo, vamos a seguir ayudando en Acapulco, en Coyuca de Ben&iacute;tez, en todo M&eacute;xico porque hay millones de damnificados por la pol&iacute;tica neoliberal, por la pol&iacute;tica de saqueo, por la corrupci&oacute;n.</p>
+
+<p>Entonces, tenemos que seguir adelante, ayudando a quien lo necesita, impulsando las actividades econ&oacute;micas, creando empleos.</p>
+
+<p>Me acaba de mandar una nota la secretaria de Relaciones Exteriores, Alicia B&aacute;rcena, urgente para informar al presidente:</p>
+
+<p>&lsquo;Buenos d&iacute;as.</p>
+
+<p>&lsquo;Me permito informar que Michelle Rabel avis&oacute; que ya sali&oacute; de Gaza y va encamino al Cairo. Seguimos al pendiente con el embajador de M&eacute;xico en Egipto&rsquo;.</p>
+
+<p>Es una de las compa&ntilde;eras que estaba&hellip;</p>
+
+<p>INTERLOCUTOR:&nbsp;Ella era la doctora que estaba apoyando, que el a&ntilde;o pasado estaba en M&eacute;dicos sin Fronteras, que apoyaba, &iquest;no?</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;S&iacute;, ya la esperan. Justo ahora est&aacute;n en una reuni&oacute;n para obtener informaci&oacute;n sobre cu&aacute;ndo se incluir&aacute; a B&aacute;rbara&nbsp;Lango&nbsp;en la lista de salida. Ellas no eran rehenes, pero estaban en la Franja de Gaza.</p>
+
+<p>Es la informaci&oacute;n.&nbsp;</p>
+
+<p>INTERLOCUTOR:&nbsp;Presidente, ya por &uacute;ltimo y finalmente: entonces, bueno, por la narrativa y por lo que usted est&aacute; contando, se mantiene Laura Vel&aacute;zquez como titular de Protecci&oacute;n Civil. Usted, por lo que estoy escuchando, ve bien su trabajo.</p>
+
+<p>Y, nada m&aacute;s, finalmente, en esto que hablaba del amarillismo, yo tambi&eacute;n creo que hay que reconocer a los compa&ntilde;eros periodistas que s&iacute; est&aacute;n ah&iacute; en el lugar de los hechos y que tambi&eacute;n la han pasado complicado en la cobertura del hurac&aacute;n, y pr&aacute;cticamente todos los medios.&nbsp;</p>
+
+<p>Y que a veces tambi&eacute;n van y se los agarran de pi&ntilde;ata en redes sociales y que, la verdad, son reporteros que ni la deben ni la temen, y est&aacute;n ah&iacute; al pie del ca&ntilde;&oacute;n. Y a veces creo, y no estoy de acuerdo personalmente, en que se los agarren de pi&ntilde;ata en redes sociales en redes sociales por estar difundiendo informaci&oacute;n y noticias justo en el momento en el que suceden.&nbsp;</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;S&iacute;,&nbsp;yadem&aacute;s, ya lo dije ayer y estoy convencido, o sea, la mayor&iacute;a de los periodistas venden su trabajo, no su conciencia. Y no est&aacute; en los periodistas el problema, es arriba.</p>
+
+<p>Siempre nos malacostumbraron a echarle la culpa al de abajo, hasta en el caso del gobierno,&nbsp;&lsquo;no es el presidente, no es el gobernador, son sus colaboradores, son los de abajo que no le ayudan&rsquo;. Nada, mentira.</p>
+
+<p>Esto es un sistema en lo econ&oacute;mico y en lo pol&iacute;tico piramidal, las decisiones se toman arriba por lo general, y es lo mismo en el caso de las empresas.&nbsp;</p>
+
+<p>El caso de los medios, &iquest;por qu&eacute; son los ataques a nosotros?Porque est&aacute;n enojados los de arriba, nada m&aacute;s que para qu&eacute; les cuento cu&aacute;l es el motivo del enojo, porque ya no quiero que se haga m&aacute;s grande el esc&aacute;ndalo.</p>
+
+<p>No es para que&hellip; Porque si siguen con la lanzada en contra del gobierno nos vayan a tumbar. No, no, no, ya cambiaron las cosas, sino sencillamente es porque tiene que haber prudencia, tranquilidad.</p>
+
+<p>Pero no es el que va a cubrir, no, lo mandan: &lsquo;Y b&uacute;scale, b&uacute;scale, b&uacute;scale, para demostrar de que este es un gobierno incapaz&rsquo;&rsquo;.</p>
+
+<p>Se atreve a decir un due&ntilde;o de un medio de informaci&oacute;n famoso que no s&oacute;lo hay incapacidad, sino corrupci&oacute;n. &iquest;D&oacute;nde est&aacute;? Si hay corrupci&oacute;n, lo que hay que hacer es presentar una denuncia o dar las pruebas; pero, no, pura griter&iacute;a y bajo la m&aacute;xima del hampa &mdash;ni quiero decir del periodismo&mdash; del hampa de la oligarqu&iacute;a, de que la calumnia, cuando no mancha, tizna. Y cada vez gritan m&aacute;s, insultan. Ya ser&eacute;nese.</p>
+
+<p>Miren la actitud de la presidenta de la Suprema Corte de Justicia, muy bien su respuesta. Claro que tenemos diferencias, pero por encima de nuestras diferencias tiene que prevalecer siempre el inter&eacute;s general, el inter&eacute;s del pueblo. Celebro lo que decidieron, que los 15 mil millones de pesos del fideicomiso del Poder Judicial se destinen para apoyar a los damnificados de Acapulco, lo veo muy bien.&nbsp;</p>
+
+<p>INTERVENCI&Oacute;N:&nbsp;(Inaudible)</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;No, pero ya ese es otro asunto, ya la decisi&oacute;n importante es el que por escrito la presidenta de la Suprema Corte se comprometa a que van a entregar a los damnificados los 15 mil millones de pesos, hay un escrito.</p>
+
+<p>PREGUNTA:&nbsp;Pero no lo dice as&iacute;.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;&iquest;C&oacute;mo?</p>
+
+<p>INTERLOCUTORA:&nbsp;No lo dice as&iacute;, tiene una redacci&oacute;n ambigua, tiene una relaci&oacute;n ambigua la respuesta.</p>
+
+<p>PREGUNTA:&nbsp;Dijo la ministra, lo que est&aacute; en la carta, presidente, &lsquo;es una alternativa real para trabajar como est&aacute; en beneficio de la poblaci&oacute;n&rsquo;.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Ah&iacute; est&aacute;.</p>
+
+<p>INTERLOCUTORA:&nbsp;Y que est&aacute; en espera justamente de saber c&oacute;mo se trabaja.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Ah, no, yo lo entend&iacute;&hellip;.</p>
+
+<p>INTERLOCUTORA:&nbsp;Usted ayer dijo, propon&iacute;a, dec&iacute;a: &lsquo;Estoy pensando en voz alta, la creaci&oacute;n de un comit&eacute;&rsquo;.&nbsp;</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;S&iacute;, yo lo estoy pidiendo.</p>
+
+<p>INTERLOCUTORA:&nbsp;&iquest;Ya se tiene formalmente por escrito qu&eacute; dir&iacute;a el SAT,&nbsp;qu&eacute; dir&iacute;a la Tesorer&iacute;a, qu&eacute; dir&iacute;a el secretario de Hacienda para empezar a trabajar y la conformaci&oacute;n del comit&eacute; de parte del presidente?&nbsp;Por ejemplo, del gobierno de la Rep&uacute;blica, &iquest;qui&eacute;nes estar&iacute;an?</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Yo lo que creo, a ver:</p>
+
+<p>N&uacute;mero uno, que celebro la decisi&oacute;n que tom&oacute; la presidenta de la Suprema Corte. F&iacute;jese c&oacute;mo son las cosas, debe de haber varios, muchos enojados con esto, que se deben de haber sentido traicionados porque apuestan al pleito, &lsquo;&iexcl;c&oacute;mo es que la presidenta cede, cuando deber&iacute;a de seguir atacando!&rsquo; Porque sus interesesson otros. Lo que ellos est&aacute;n pensando, como dec&iacute;a Churchill, no es en la pr&oacute;xima generaci&oacute;n, sino en la pr&oacute;xima elecci&oacute;n, porque no ven m&aacute;s all&aacute;. Entonces, est&aacute;n imbuidos en la politiquer&iacute;a.</p>
+
+<p>Entonces, &lsquo;ahora, ahora, ahora es el momento, pleito, pleito, pleito&rsquo;. &lsquo;A la Suprema Corte, al Poder Judicial, no se le toca, no se le toca, no se le toca&rsquo;. Y ah&iacute; est&aacute;n todos, &iquest;no? &Aacute;lvarez Icaza y los del PAN y&hellip;</p>
+
+<p>INTERVENCI&Oacute;N:&nbsp;(inaudible)</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;S&iacute;, s&iacute;, s&iacute;, aspirantes a cargos, s&iacute;, pero esto es un asunto distinto, tiene que ver de una relaci&oacute;n entre poderes, es un asunto de Estado, s&iacute;, de Estado.</p>
+
+<p>Entonces, por eso ya seguramente no les gust&oacute;, porque ellos quieren.&nbsp;</p>
+
+<p>Es lo mismo de lo del hurac&aacute;n. Antes lo de la pandemia, ahora lo del hurac&aacute;n: &lsquo;est&aacute;n ocultando informaci&oacute;n&rsquo;, &lsquo;son ineficientes, son much&iacute;simos m&aacute;s los muertos&rsquo;, &lsquo;hay abandono completo en Acapulco&rsquo;, &lsquo;no se est&aacute; atendiendo&rsquo;. O sea, con prop&oacute;sitos politiqueros.</p>
+
+<p>Entonces, en primer lugar, celebro que hayan tomado esa decisi&oacute;n en la corte, lo celebro, primero.</p>
+
+<p>Segundo, si un juez present&oacute; un amparo no hay ning&uacute;n problema, se va a resolver.</p>
+
+<p>&iquest;Y qui&eacute;n lo va a resolver?</p>
+
+<p>Pues el Poder Judicial con el Poder Legislativo, porque a nosotros no nos han devuelto nada. O sea, todav&iacute;a no ha llegado a la tesorer&iacute;a el dinero del fideicomiso porque todav&iacute;a no se termina todo el proceso de aprobaci&oacute;n de la Ley de Ingreso y de la Ley de Presupuesto; entonces, esperemos. Eso es lo segundo.</p>
+
+<p>Lo tercero, si no van a aportar los 15 mil millones por cualquier motivo, nosotros tenemos los recursos para apoyar a los damnificados; pero ser&iacute;a muy bueno, un buen gesto, el que esos recursos se aplicaran para apoyar a la gente, al pueblo que lo necesita.</p>
+
+<p>Y lo otro es una situaci&oacute;n de coordinaci&oacute;n.</p>
+
+<p>&iquest;Qu&eacute; propuse ayer?</p>
+
+<p>Que intervenga el Poder Legislativo, que intervenga el Poder Judicial y va a intervenir el Poder Ejecutivo, y yo estoy nombrando con ese prop&oacute;sito a la secretaria de Gobernaci&oacute;n y se va a apoyar la secretaria de Gobernaci&oacute;n en el secretario de Hacienda. Y se va a buscar la comunicaci&oacute;n a partir de hoy con la ministra de la Suprema Corte de Justicia, que envi&oacute; el oficio, y se va a tener comunicaci&oacute;n tambi&eacute;n con representantes del Congreso, tanto de la C&aacute;mara de Diputados como la C&aacute;mara de Senadores, a ver si se logra un acuerdo.</p>
+
+<p>Y lo otro del amparo, pues ya las instancias correspondientes van a resolver.&nbsp;</p>
+
+<p>Pero independientemente de lo que vaya a resultar o de lo accesorio, lo importante es que yo ayer hago un planteamiento y ayer mismo &mdash;para m&iacute;, de manera responsable&mdash; hay una respuesta de la presidenta de la corte. Hasta ah&iacute; me quedo. Y lo celebro por el bien de todos.&nbsp;</p>
+
+<p>Pero t&uacute; sigues.</p>
+
+<p>INTERVENCI&Oacute;N:&nbsp;(inaudible)&hellip;&nbsp;legisladores que de alguna manera agilizaran todos estos procedimientos, sobre todo para que tuvieran los recursos, porque los damnificados en Acapulco y en Coyuca de Ben&iacute;tez lo necesitan. &iquest;Cu&aacute;l ser&iacute;a el llamado a legisladores, presidente?</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Pues que lo atiendan, creo que a partir de hoy ya Luisa Mar&iacute;a va a buscar a la presidenta de la corte y a los directivos del Congreso para buscar un acuerdo y aqu&iacute; se va a informar.</p>
+
+<p>De todas maneras, esto que dimos a conocer hoy ya est&aacute; en marcha. Ya se habl&oacute;, por ejemplo, con los distribuidores de la canasta b&aacute;sica.&nbsp;</p>
+
+<p>Ya se sabe, tambi&eacute;n se informa a la gente, porque hay muchas cosas que se tienen que ir dando a conocer que, como todav&iacute;a se est&aacute; reinstalando la luz, quedamos que ya hay energ&iacute;a el&eacute;ctrica, pero no hay refrigeradores, no hay c&oacute;mo guardar alimentos de la canasta, que son 24 productos.</p>
+
+<p>&iquest;Cu&aacute;les son los productos, tambi&eacute;n?</p>
+
+<p>Los que evaluamos todos los lunes. &iquest;Se acuerdan&nbsp;que&nbsp;tenemos una canasta b&aacute;sica? Pero incluye carne, de pollo, de res.</p>
+
+<p>Entonces, vamos a sustituir en la primera semana, segunda semana, en tanto se tienen ya refrigeradores, carnes por algunos productos enlatados; pero todo lo dem&aacute;s, por ejemplo, el jitomate va a cambiar, pero hay otros, las latas, hay unas&hellip; las de verduras esas s&iacute; van.</p>
+
+<p>A ver plat&iacute;calo.</p>
+
+<p>RAQUEL BUENROSTRO S&Aacute;NCHEZ, SECRETARIA DE ECONOM&Iacute;A:&nbsp;Ya tuvimos, como dice el presidente, un par de reuniones y estamos trabajando con las tiendas comerciales para que nos ayuden a hacer las canastas lo m&aacute;s r&aacute;pido posible. Est&aacute;n Walmart, Comercial Mexicana, Chedraui y Soriana.</p>
+
+<p>La idea es al principio, ahorita, porque ya se est&aacute; restableciendo la electricidad, como dijo el presidente, pero tambi&eacute;n ellos tienen que checar c&oacute;mo est&aacute;n sus instalaciones el&eacute;ctricas. Entonces, no va a haber refrigeradores a lo mejor en algunos lados, eso puede tomar de una semana a dos semanas, y en ese periodo lo que se va a hacer es que en la canasta b&aacute;sica se va a sustituir producto que pueda ser perecedero, que no soporte el calor, por cosas que se puedan conservar mejor.</p>
+
+<p>La carne fresca, principalmente y el jitomate, que son delicados al calor, los vamos a sustituir por otro tipo de prote&iacute;na, prote&iacute;na enlatada, pero sigue siendo prote&iacute;na, m&aacute;s o menos para compensar esa alimentaci&oacute;n.</p>
+
+<p>Y el jitomate tambi&eacute;n, o las verduras o algo que no se pueda transportar por el tema del calor, del clima, sustituirlo por&hellip; Hay latas de verduras, hay pur&eacute; de jitomate, hay otras cosas que los vamos a ir sustituyendo.</p>
+
+<p>Y tenemos hoy, volvemos a tener reuniones con las empresas y las empresas desde que empezamos a platicar. La idea es que hoy nos digan a partir de cu&aacute;ndo vamos a poder, nos van a poder empezar a entregar los productos, y tan pronto nos los empiecen a entregar los productos, ya nos hemos coordinado con la Fuerzas Armadas para hacer la distribuci&oacute;n.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;F&iacute;jense que no sab&iacute;a, pero ya los grupos parlamentarios de la C&aacute;mara de Diputados aceptaron la propuesta.</p>
+
+<p>A ver, por favor.</p>
+
+<p>LUISA MAR&Iacute;A ALCALDE LUJ&Aacute;N, SECRETARIA DE GOBERNACI&Oacute;N:&nbsp;S&iacute;, s&iacute;, le mandaron una carta, presidente recientemente que dice:</p>
+
+<p>&lsquo;Sirva este medio para hacer de su conocimiento que la Junta de Coordinaci&oacute;n Pol&iacute;tica de la C&aacute;mara de Diputados se adhiere a la convocatoria que realizo el d&iacute;a de hoy para integrar un comit&eacute; compuesto por representantes de los tres Poder de la Uni&oacute;n con el prop&oacute;sito de constituir un fondo de ayuda para atender los estragos proyectados por el hurac&aacute;n Otis.</p>
+
+<p>&lsquo;Con ello, este &oacute;rgano se compromete a colaborar para que los recursos acumulados de los fideicomisos que deber&aacute;n reintegrarse a la&nbsp;Tesofe,&nbsp;se destinen a la garant&iacute;a de las personas damnificadas en el estado de Guerrero.</p>
+
+<p>&lsquo;Sin m&aacute;s por el momento, nos mantendremos pendientes de los lineamientos referentes a la convocatoria y a las acciones a realizar, con el fin de apoyar a nuestros hermanos damnificados&rsquo;.</p>
+
+<p>Y aqu&iacute; est&aacute; quien firma, empezando por el presidente de la Junta de Coordinaci&oacute;n Pol&iacute;tica, que es del grupo parlamentario del PAN, es Jorge Romero Herrera; estaba tambi&eacute;n Ignacio Mier, coordinador&nbsp;del grupo parlamentario de Morena; est&aacute; Rub&eacute;n Ignacio Moreira, coordinador del grupo parlamentario del Partido Revolucionario Institucional; tenemos a Carlos Alberto Puente, coordinador del grupo parlamentario del Partido Verde Ecologista; Alberto Anaya, coordinador del grupo parlamentario del Partido del Trabajo; Jorge &Aacute;lvarez M&aacute;ynez &mdash;bueno, ah&iacute; no est&aacute; su firma, habr&iacute;a que ver&mdash; del grupo parlamentario de Movimiento Ciudadano, entendemos que tambi&eacute;n se incorpora, y el coordinador del grupo parlamentario del Partido de la Revoluci&oacute;n Democr&aacute;tica, Luis &Aacute;ngel Espinosa.</p>
+
+<p>Entonces, tambi&eacute;n, dado que es la C&aacute;mara de Diputados la que est&aacute; a cargo del presupuesto, pues ellos ser&iacute;an los que integrar&iacute;an tambi&eacute;n este comit&eacute;.&nbsp;</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Entonces, va bien.&nbsp;</p>
+
+<p>INTERLOCUTORA:&nbsp;Presidente, en m&aacute;s de esto de Acapulco, plantearle: &iquest;cu&aacute;l ser&aacute; el mecanismo? Seguramente ya lo vieron, que se va a aplicar para todas aquellas personas que ya hab&iacute;an pagado su hospedaje en Acapulco para estos d&iacute;as, para el D&iacute;a de Muertos, para el puente del Buen Fin, para la Navidad. &iquest;Cu&aacute;l va a ser el criterio, el mecanismo? &iquest;Ya lo pensaron? &iquest;Ya han hablado con hoteleros? Eso, por un lado.</p>
+
+<p>Y, por el otro, si con toda esta tremenda emergencia que ha sucedido en Acapulco sigue en firme su viaje a San Francisco el pr&oacute;ximo 14 y 15 de noviembre.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;&iquest;Tienen informaci&oacute;n?</p>
+
+<p>EVELYN CECIA SALGADO PINEDA:&nbsp;Ya hubo una reuni&oacute;n, un acercamiento, sobre c&oacute;mo se les iba a apoyar a ellos y ya ellos yo creo que dar&aacute;n a conocer a quienes reservaron.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Lo que nos dice la gobernadora es que los hoteleros van a informar.&nbsp;</p>
+
+<p>INTERLOCUTORA:&nbsp;&iquest;Se sabe m&aacute;s o menos para cuando se informar&aacute;?</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;No sabemos, pero nosotros vamos a indagar, ya para la pr&oacute;xima nosotros les informamos a ustedes.</p>
+
+<p>INTERLOCUTORA:&nbsp;Y del tema de Acapulco, en esta parte tan dif&iacute;cil de la p&eacute;rdida de vidas humanas, &iquest;para cu&aacute;ndo estima la gobernadora y las autoridades, sobre todo, del rescate de embarcaciones&nbsp;hundidas, tener un n&uacute;mero m&aacute;s aproximado de p&eacute;rdida de vidas o de personas desaparecidas?, &iquest;qu&eacute; es lo que ustedes est&aacute;n calculando?</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Vamos a estar informando sobre esto diario, o sea, se est&aacute; informando, la fiscal&iacute;a de Guerrero y la gobernadora est&aacute;n en esto, y constantemente se va a estar informando. El viernes nosotros vamos a informar porque ma&ntilde;ana no vamos a estar, pero el viernes s&iacute;.</p>
+
+<p>INTERLOCUTORA:&nbsp;Presidente, &iquest;ya comenz&oacute; el rescate de las embarcaciones, como lo hab&iacute;a se&ntilde;alado el secretario de Marina?</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Esto, el almirante, si usted quiere informar.</p>
+
+<p>JOS&Eacute; RAFAEL OJEDA DUR&Aacute;N, SECRETARIO DE MARINA:&nbsp;S&iacute;, para informarles, con respecto a las embarcaciones, desde el&nbsp;d&iacute;a jueves&nbsp;se empez&oacute; a levantar un censo. Estamos empezando, primero, por las embarcaciones que prestan el servicio tur&iacute;stico.&nbsp;</p>
+
+<p>En el Club de Yates no nos podemos meter, es una cuesti&oacute;n privada, ah&iacute; vamos a hablar con ellos a ver si se les ofrece algo.</p>
+
+<p>Pero lo que estamos haciendo es sobre las &aacute;reas de prestadores de servicio de toda la bah&iacute;a. Llevamos aproximadamente, hasta el d&iacute;a de ayer, hoy no he tenido la informaci&oacute;n, pero son aproximadamente entre 40 y 45 embarcaciones ya detectadas que s&iacute; sufrieron da&ntilde;os. No hay hasta ahorita, afortunadamente, p&eacute;rdida de vidas humanas.</p>
+
+<p>Hoy tambi&eacute;n en la ma&ntilde;ana nos vamos a pasar a Puerto Marqu&eacute;s, que tambi&eacute;n nos pidieron ah&iacute; el apoyo, pero se va a llevar unos d&iacute;as, ya estamos haciendo ese censo y d&iacute;a con d&iacute;a, como dice el se&ntilde;or presidente, les vamos a ir informando.</p>
+
+<p>Gracias.</p>
+
+<p>PREGUNTA:&nbsp;(inaudible) de pescadores, familiares que ped&iacute;an eso.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Es lo mismo, o sea, es la b&uacute;squeda en general de todos.</p>
+
+<p>INTERLOCUTORA:&nbsp;Bien, cambiando de tema, presidente, este es ya un planteamiento: en d&iacute;as recientes nos enteramos&nbsp;que&nbsp;la Selecci&oacute;n Mexicana de B&eacute;isbol se ha hecho acreedora al Premio Nacional del Deporte 2023. Y, bueno, le traigo un presente de la Casa del B&eacute;isbol. Sabemos que hoy se va a reunir con algunos integrantes de esta selecci&oacute;n que ha tenido muchos triunfos en el &uacute;ltimo a&ntilde;o principalmente. Y bueno, es un obsequio, sabemos de su gusto por el b&eacute;isbol.</p>
+
+<p>Imagen Televisi&oacute;n&nbsp;me encarg&oacute; la misi&oacute;n de d&aacute;rselo, de que ojal&aacute; le guste. Es un jersey que utilizan los conductores. &iquest;Se lo puedo entregar?</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;S&iacute;.</p>
+
+<p>INTERLOCUTORA:&nbsp;&iquest;S&iacute;? Con permiso. Ojal&aacute; le guste. El n&uacute;mero 3. Dice: &lsquo;AMLO&#39;. Y sabemos, queremos saber a qui&eacute;nes va a recibir el d&iacute;a de hoy, presidente, aqu&iacute; en Palacio Nacional.</p>
+
+<p>INTERLOCUTORA:&nbsp;Que se la ponga.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;No, no.&nbsp;</p>
+
+<p>&iquest;Saben por qu&eacute; la muestro as&iacute;?&nbsp;</p>
+
+<p>Porque me da mucho gusto de que&nbsp;Imagen, s&iacute;, ya est&aacute; transmitiendo los juegos, y eso es importante, la transmisi&oacute;n de los juegos.</p>
+
+<p>As&iacute;, fraternamente, cari&ntilde;osamente, antes dec&iacute;an los de los noticieros de deportes: &lsquo;Y ahora vamos &mdash;dec&iacute;an los noticieros en general&mdash;,&nbsp;vamos a la secci&oacute;n de deportes&rsquo;. Con todo respeto, puro futbol la secci&oacute;n de deportes. Ahora ya no, ahora ya&hellip;&nbsp;</p>
+
+<p>Y estamos pendientes de los Panamericanos. Ah&iacute; vamos, ah&iacute; vamos, ah&iacute; vamos en Chile y est&aacute;n uy bien los deportistas.&nbsp;&iexcl;&Aacute;nimo!, &iexcl;&Aacute;nimo!</p>
+
+<p>Y pues queremos que se siga impulsando a todos los deportes en el pa&iacute;s, vamos a seguir ayudando. Y en el caso del b&eacute;isbol est&aacute; muy bien lo que est&aacute; haciendo&nbsp;Imagen. Y nos vamos a seguir reuniendo.</p>
+
+<p>INTERLOCUTORA:&nbsp;&iquest;Con qui&eacute;n? &iquest;A qui&eacute;n recibe al&nbsp;ratito?</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;S&iacute;, vamos a estar con algunos beisbolistas, creo que no s&eacute; si hoy o el viernes, no s&eacute; exactamente, pero ya les informamos, les vamos a informar.</p>
+
+<p>Ya v&aacute;monos, &iquest;no?</p>
+
+<p>PREGUNTA:&nbsp;&iquest;(Inaudible) es temporal o permanente?</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;&iquest;Cu&aacute;l es?</p>
+
+<p>INTERLOCUTORA:&nbsp;La instalaci&oacute;n de cuarteles de la Guardia Nacional en colonias de m&aacute;s de mil viviendas.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Hasta lograr la normalidad completa, completa.</p>
+
+<p>INTERLOCUTORA:&nbsp;&iquest;Cu&aacute;ntos cuarteles calculan?</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;A ver, son como cinco mil elementos de la Guardia, si est&aacute;n distribuidos&hellip;</p>
+
+<p>INTERVENC&Iacute;&Oacute;N:&nbsp;Son cinco mil, se&ntilde;or.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Cinco mil.</p>
+
+<p>EVELYN CECIA SALGADO PINEDA:&nbsp;Me dieron el reporte, son mil 399, entre colonias, comunidades, pueblos, ampliaciones, unidades habitacionales, fraccionamientos. Pero ya es total, comunidades y colonias mil 399.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Y los cuarteles son aproximadamente&hellip; Estamos viendo eso, s&iacute;, porque son para cada mil.</p>
+
+<p>PREGUNTA:&nbsp;&iquest;Va a ser bancarizada o va a ser en efectivo?&nbsp;Dada la complejidad del tema</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;De las dos formas, porque se est&aacute; rehabilitando el Banco de Bienestar, las sucursales del Banco del Bienestar, ya con energ&iacute;a el&eacute;ctrica, con sistemas de internet y al mismo tiempo, con el apoyo de la Guardia Nacional, pagos de manera directa.&nbsp;</p>
+
+<p>PREGUNTA:&nbsp;&iquest;Ya se cobr&oacute; el bono catastr&oacute;fico?</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;&iquest;Por qu&eacute; no&hellip;? Lo del bono t&uacute; podr&iacute;as explicarlo, qu&eacute; mejor que el subsecretario de Ingresos.</p>
+
+<p>GABRIEL YORIO GONZ&Aacute;LEZ, SUBSECRETARIO DE HACIENDA Y CR&Eacute;DITO P&Uacute;BLICO:&nbsp;Con el permiso del presidente.</p>
+
+<p>Todav&iacute;a se est&aacute; determinando los par&aacute;metros del bono catastr&oacute;fico. El bono catastr&oacute;fico es un monto de 460 millones de d&oacute;lares, incluye el evento que sucedi&oacute; en el estado de Guerrero y tambi&eacute;n la zona geogr&aacute;fica.</p>
+
+<p>Es muy probable que, dependiendo de la evaluaci&oacute;n, bueno,&nbsp;los recursos estar&iacute;an entre 30 y 60 millones de d&oacute;lares, eso todav&iacute;a est&aacute; por determinarse, presidente.&nbsp;</p>
+
+<p>INTERLOCUTOR:&nbsp;&iquest;Va a ser l&iacute;nea de cr&eacute;dito o dinero?</p>
+
+<p>GABRIEL YORIO GONZ&Aacute;LEZ:&nbsp;Es dinero, es un&nbsp;reintegro&nbsp;a la tesorer&iacute;a.&nbsp;</p>
+
+<p>INTERLOCUTOR: &iquest;y los seguros?</p>
+
+<p>GABRIEL YORIO GONZ&Aacute;LEZ:&nbsp;Los seguros, actualmente tenemos un seguro de cinco mil millones de pesos, que pueden ser utilizados para deducir gastos asociados a la reconstrucci&oacute;n en Guerrero, de esta manera durante el a&ntilde;o podr&iacute;amos reembolsar hasta cinco mil millones de pesos con este seguro param&eacute;trico.</p>
+
+<p>INTERLOCUTOR:&nbsp;De todo, del&nbsp;Fonden, de estos seguros y dem&aacute;s, m&aacute;s los 15 mil de la Suprema Corte se llegar&iacute;a como a 40 mil millones de pesos, pero se necesitan casi cerca de 60.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;S&iacute;, es que no hay l&iacute;mite. Es un estimado de m&aacute;s de 60 mil millones, pero, si se requiere m&aacute;s, vamos a tener m&aacute;s.</p>
+
+<p>&iquest;Cu&aacute;nto tenemos en&nbsp;caja?</p>
+
+<p>GABRIEL YORIO GONZ&Aacute;LEZ:&nbsp;En&nbsp;caja&nbsp;tenemos casi 600 mil millones.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;A ver, pues expl&iacute;calo. Digo, no es para presumir.</p>
+
+<p>GABRIEL YORIO GONZ&Aacute;LEZ:&nbsp;S&iacute;, en la caja est&aacute; m&aacute;s o menos un saldo l&iacute;quido, en efectivo, en 600 mil millones de pesos.</p>
+
+<p>Ser&iacute;a&nbsp;cuanto.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:Pobremente.</p>
+
+<p>Bueno, v&aacute;monos a desayunar. Adi&oacute;s.</p>
+
+<p>---</p>
+</div>
+      </div>
+
+      <div class="col-md-4 col-xs-12 pull-right">
+
+
+
+
+          <div id="survey" class="survey-popup small-top-buffer">
+	<div class="row">
+  <a class="fire">
+    <span class="title">Contesta nuestra encuesta de satisfacción.</span>
+		<i style="color: white" class="fas fa-poll"></i>
+  </a>
+  <hr>
+  
+  <div class="survey col-sm-12 clearfix">
+	<form id="survey-form">
+	  <div class="survey-form">
+	  <fieldset id="query_1">
+		<legend>¿Cómo fue tu experiencia en gob.mx?</legend>
+		<div id="Q_A" class="btn-group row">
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncGood" class="ga-survey" value="Feliz" title="Satisactorio">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-good.svg" alt="">
+		  	</button>
+		  </div>
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncReg" class="ga-survey" value="Neutral" title="Neutral">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-neutral.svg" alt="">
+		  	</button>
+		  </div>
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncBad" class="ga-survey" value="Triste" title="No satisactorio">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-bad.svg" alt="">
+		  	</button>
+		  </div>
+		</div>
+	  </fieldset>
+	  <fieldset id="query_1_a" class="hidden">
+	  	<legend>¿Fue fácil encontrar lo que buscabas?</legend>
+	  	<div id="Q_B" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R1" value="1">
+	  		<label for="A_R">Muy Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R2" value="2">
+	  		<label for="A_R">Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R3" value="3">
+	  		<label for="A_R">Difícil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R4" value="4">
+	  		<label for="A_R">Muy Difícil</label>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_s" class="hidden">
+	  	<legend>¿De qué estado de la República nos visitas?</legend>	  	
+	  	<div class="col-md-12">
+  	  		<div class="form-group" style="margin-bottom: 114px;">
+  	  			<select id="estados" class="form-control"></select>
+  	  		</div>
+  	  		<div class="form-group">
+  	  			<button type="button" class="Q_S_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  		</div>
+  	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_alt" class="hidden">
+		<legend>¿Qué buscabas?</legend>
+	  	<div id="Q_I" class="clearfix">
+	  	  <div class="col-sm-12">
+	  		<textarea id="txtA" class="form-control" rows="6" maxlength="250" style="font-size: 14px; width: 100%;"></textarea>
+	  		<span class="small">Máximo 250 caracteres</span>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+  	  	  <button type="button" class="Q_I_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_b" class="hidden">
+	  	<legend>¿Qué te gustó más?</legend>
+	  	<p class="small">Puedes seleccionar más de uno.</p>
+	  	<div id="Q_C" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R1" type="checkbox" name="A_R" value="1">
+	  		<label for="A_R">La información es clara y precisa</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R2" type="checkbox" name="A_R" value="2">
+	  		<label for="A_R">El diseño es agradable</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R3" type="checkbox" name="A_R" value="3">
+	  		<label for="A_R">Está bien organizado</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R4" type="checkbox" name="A_R" value="4">
+	  		<label for="A_R">Es sencillo navegar</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R5" type="checkbox" name="A_R" value="5">
+	  		<label for="A_R">El lenguaje es amigable</label>
+	  	  </div>
+	  	  <div class="clearfix">
+	  	  	<button type="button" class="Q_C_btn btn btn-primary btn-small pull-right">Siguiente</button>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_c" class="hidden">
+	  	<legend>¿Recomendarías nuestro portal a un amigo o familiar?</legend>
+	  	<div id="Q_D" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="radEncC_R1" type="radio" name="A_R" value="4">
+	  		<label for="A_R">Si</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncC_R2" type="radio" name="A_R" value="1">
+	  		<label for="A_R">No</label>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+        <button type="button" class="btn-finalizar btn btn-primary btn-small pull-right" style="margin-left: 8px; margin-top: 2px;" disabled>Finalizar</button>
+        <img src="https://framework-gb.cdn.gob.mx/assets/images/oval-white.svg" class="pull-right hidden loading">
+      </div>
+	  </fieldset>
+
+	  <fieldset id="query_2" class="hidden">
+		<legend>¿Fue fácil encontrar lo que buscabas?</legend>
+	  	<div id="Q_F" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R1" type="radio" name="A_R" value="1">
+	  		<label for="A_R">Muy Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R2" type="radio" name="A_R" value="2">
+	  		<label for="A_R">Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R3" type="radio" name="A_R" value="3">
+	  		<label for="A_R">Difícil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R4" type="radio" name="A_R" value="4">
+	  		<label for="A_R">Muy Difícil</label>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_2_b" class="hidden">
+	  	<legend>¿Qué mejorarías?</legend>
+	  	<p class="small">Puedes seleccionar más de una opción.</p>
+	  	<div id="Q_G" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A1" type="checkbox" name="A_R" value="1">
+	  		<label for="A_R">Diseño</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A2" type="checkbox" name="A_R" value="2">
+	  		<label for="A_R">Navegación dentro del sitio</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A3" type="checkbox" name="A_R" value="3">
+	  		<label class="too-long" for="A_R">Claridad y precisión de la información</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A4" type="checkbox" name="A_R" value="4">
+	  		<label for="A_R">Organización de los contenidos</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A5" type="checkbox" name="A_R" value="5">
+	  		<label for="A_R">Lenguaje utilizado</label>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">	  	  
+	  	  <button type="button" class="btn-finalizar btn btn-primary btn-small pull-right" style="margin-left: 8px; margin-top: 2px;" disabled>Finalizar</button>
+	  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/oval-white.svg" class="hidden pull-right loading">
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_2_alt" class="hidden">
+		<legend>¿Qué buscabas?</legend>
+	  	<div id="Q_H" class="clearfix">
+	  	  <div class="col-sm-12">
+	  		<textarea id="txtA1" class="form-control" rows="6" maxlength="250" style="font-size: 14px; width: 100%;"></textarea>
+	  		<span class="small">Máximo 250 caracteres</span>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+  	  	  <button type="button" class="Q_H_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  	</div>
+	  </fieldset>
+
+	</div>
+	<p class="hidden survey-thanks" style="text-align: center; color: white; font-weight: 700;">Gracias por tu opinión.</p>
+	</form>
+
+  </div>
+</div>
+</div>
+
+<script type="text/javascript">
+$(function() {
+  var c = 0;
+  var fin = 0;
+  var tipo_cara = "";
+  var page_type = "Articulos";
+  var triggered = false;
+  var answers = {};
+  var properties = {};
+  var organization = "presidencia";
+  var section = "Blog";
+  var lang = "es";
+  properties.published_on = "2023-11-01 09:14:00 -0600";
+  properties.title = "Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 1° de noviembre de 2023";
+  properties.path = "/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-1-de-noviembre-de-2023";
+  properties.referer = "";
+  properties.viewfinder = navigator.userAgent.toLowerCase();
+  properties.screens = screen.width;
+  properties.device = screen.width;
+
+  $.getJSON('https://www.gob.mx/vun/estados?filter[order]=nombre%20ASC', function (selectOptions) {
+    for( var i = 0; i < selectOptions.length; i ++) {
+      var selectOptionsJSON = selectOptions[i];
+      $('#estados').append('<option value="'+ selectOptionsJSON.nombre +'">'+ selectOptionsJSON.nombre +'</option>');
+    }
+    $('#estados').append('<option value="Otro">Otro</option>')
+  });
+
+  $('.fire').click(function(event) {
+    $('.survey-popup').css({'height':'440px'});
+  });
+
+  $('#Q_A').find('button').click(function(event) {
+  	$('#query_s').removeClass('hidden');
+  	$("#query_1").addClass('hidden');
+  	answers.q1 = $(this).attr('id');
+  });
+
+  $(".ga-survey").click(function () {
+    tipo_cara = $(this).val();
+    var interval_time = [30];
+    (function timer () {
+      if (c < 1) {
+        setTimeout(function () {
+           if(fin < 1) {
+             set_ga("Inconclusa");
+             timer();
+           }
+        }, interval_time[c] * 1000);
+      }
+      c++;
+    })();
+  });
+
+  $('.Q_S_btn').click(function(event) {
+    if( answers.q1 === "radEncGood") {
+      $("#query_s").addClass('hidden');
+      $("#query_1_a").removeClass('hidden');
+    } else if(answers.q1 === "radEncReg" || answers.q1 === "radEncBad") {
+      $("#query_s").addClass('hidden');
+      $("#query_2").removeClass('hidden');
+    } else { }
+    // answers.q1 = $('#Q_A').find('button').attr('id');
+  });
+
+  $('#Q_B').find('input').click(function(event) {
+  	if( $(this).attr('id') === 'radEncA_R3' || $(this).attr('id') === 'radEncA_R4' )  {
+  	  $("#query_1_a").addClass('hidden');
+	  $("#query_1_alt").removeClass('hidden');
+  	} else {
+  	  $("#query_1_a").addClass('hidden');
+	  $("#query_1_b").removeClass('hidden');	
+  	}	
+	answers.q2 = $(this).attr('id');
+  });
+
+  $('.Q_I_btn').click(function(event) {
+  	event.preventDefault();
+  	$("#query_1_alt").addClass('hidden');
+	$("#query_1_b").removeClass('hidden');
+	answers.q5 = $('#txtA').val().substring(0, 250);
+  });
+
+  $('#Q_C').find('button').click(function(event) {
+	$("#query_1_b").addClass('hidden');
+	$("#query_1_c").removeClass('hidden');
+	var q3_array = [];
+	$('#Q_C').find('input:checked').each(function(index, el) {
+	  q3_array.push($(el).attr('id'));
+	});
+	answers.q3 = q3_array;
+  });
+
+  $('#Q_D').find('input').change(function(event) {
+  	answers.q4 = $(this).attr('id');
+  	$('.btn-finalizar').attr('disabled', false);
+  });
+
+  $('#Q_F').find('input').click(function(event) {
+	
+	answers.q2 = $(this).attr('id');
+
+	if( $(this).attr('id') === 'rdEncA_R3' || $(this).attr('id') === 'rdEncA_R4' ) {
+	  $("#query_2").addClass('hidden');
+	  $("#query_2_alt").removeClass('hidden');
+	} else {
+	  $("#query_2").addClass('hidden');
+	  $("#query_2_b").removeClass('hidden');
+	}
+  });
+
+  $('#Q_G').find('input').change(function(event) {
+  	if($('#Q_G').find('input:checked').length > 0) {
+	  $('.btn-finalizar').attr('disabled', false);
+    }
+    var q2_array = [];
+    $('#Q_G').find('input:checked').each(function(index, el) {
+	  q2_array.push($(el).attr('id'));
+	});
+	answers.q3 = q2_array;
+  });
+
+  $('.Q_H_btn').click(function(event) {
+  	event.preventDefault();
+  	$("#query_2_alt").addClass('hidden');
+	$("#query_2_b").removeClass('hidden');
+	answers.q5 = $('#txtA1').val().substring(0, 250);
+  });
+
+  $('.btn-finalizar').click(function (event) {
+    fin++;
+    $.ajax({
+      url: '/encuesta-satisfaccion',
+      type: 'post',
+      dataType: 'json',
+      data: { section: section, lang: lang, properties: properties, answers: answers },
+      beforeSend: function() {
+        $('.loading').removeClass('hidden');
+      },
+      success: function(data) {
+        set_ga("Finalizada");
+
+        $('.survey').hide();
+        $('.survey-popup').css({'height':'60px','background-color':'#dff0d8','border':'1px solid #d6e9c6'});
+        $('.survey-popup .title').text('Gracias por tu participación.').css({'color':'#3c763d'});
+        $('#icon-survey').removeClass('fa-file-text-o').addClass('fa-check-circle').css({'color':'#3c763d'});
+        setTimeout(function() {
+          $('.survey-popup').fadeOut('800');
+        }, 1600);
+      }
+    });
+  });
+
+  function set_ga(estatus) {
+    var pages_group = "Gobierno";
+    var organization_name = "presidencia";
+
+    console.log("Entro a apartado de encuesta de satisfacción. Estatus: "+ estatus);
+    console.log("Pages group: "+pages_group);
+    console.log("Sub group: "+organization_name);
+    console.log("Page type: "+page_type);
+    console.log("Face: "+tipo_cara);
+
+      console.log("Rails.env.production");
+      //Código GA para encuesta de satisfacción.
+		gtag('set', 'dimension14', pages_group);
+		gtag('set', 'dimension15', organization_name);
+		gtag('set', 'dimension16', page_type);
+		gtag('send', 'event', 'Encuesta de satisfacción', tipo_cara ,estatus);
+		gtag('set', 'dimension14', null);
+		gtag('set', 'dimension15', null);
+		gtag('set', 'dimension16', null);
+  }
+
+  $('#subscribe-survey').click(function(event) {
+	event.preventDefault();
+    var email = $("#email-survey").val();
+    var state = $('#estados').val();
+
+    if (email !== '' || email !== undefined) {
+	    try {
+	      $.ajax({
+	        url: "/subscribe",
+	        type: 'post',
+	        dataType: 'json',
+	        data : { email: {address: email} },
+	        success: function (data) {
+	            $('#responseSignup').html(data.message);
+	        },
+	        error: function (data) {
+	            $('#responseSignup').html(data.message);
+	        }
+	      });
+	    }catch(e){
+	      $("#responseEmail").innerText(e);
+	    }
+
+	    $.ajax({
+	    	url: '/signups',
+	    	type: 'POST',
+	    	dataType: 'json',
+	    	data: { section: section, lang: lang, properties: properties },
+	    	success: function() {
+	    		//console.log('exito');
+	    	}
+	    });
+	} else {
+		$('#responseSignup').html('Por favor llena todos los campos.');
+	}
+  });
+
+  $('#survey-form').submit(function(event) {
+    event.preventDefault();
+  });
+});
+</script>
+
+      </div>
+      <div class="col-sm-7 pull-left">
+        <div class="share-buttons clearfix vertical-buffer">
+  <div class="col-md-2"> <a class="twitter-share-button" data-url="https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-1-de-noviembre-de-2023" data-text="Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 1° de noviembre de 2023"></a></div>
+  <div class="col-md-2">
+    <div class="fb-share-button" data-href="https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-1-de-noviembre-de-2023" data-layout="button_count" data-size="small" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-1-de-noviembre-de-2023&amp;src=sdkpreparse">Compartir</a></div>
+  </div>
+</div>
+
+  <script type="text/javascript">
+    (function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v2.7";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+    
+    var pages_group = "Gobierno";
+    var page_type = "Artículos";
+    var organization_name = "presidencia";
+    var title_content = "Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 1° de noviembre de 2023";
+
+     window.twttr = (function (d,s,id) {
+       var t, js, fjs = d.getElementsByTagName(s)[0];
+       if (d.getElementById(id)) return; js=d.createElement(s); js.id=id;
+       js.src="//platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs);
+       return window.twttr || (t = { _e: [], ready: function(f){ t._e.push(f) } });
+     }(document, "script", "twitter-wjs"));
+
+     function trackTwitter(intent_event) {
+       if (intent_event) {
+         if (intent_event.target && intent_event.target.nodeName == 'IFRAME') {
+           console.log("Metrica Compartir Twitter - "+title_content);
+           console.log("Organization: "+organization_name);
+           console.log("Page type: "+page_type);
+           console.log("Title content: "+title_content);
+           ga('set', 'dimension14', pages_group);
+           ga('set', 'dimension15', organization_name);
+           ga('set', 'dimension16', page_type);
+           ga('send', 'event', 'Compartir en redes sociales', 'Twitter', title_content);
+           ga('set', 'dimension14', null);
+           ga('set', 'dimension15', null);
+           ga('set', 'dimension16', null);
+         }
+       }
+     }
+  </script>
+  <script type="text/javascript">
+     twttr.ready(function (twttr) {
+       twttr.events.bind('tweet', trackTwitter);
+     });
+  </script>
+
+
+      </div>
+    </div>
+    <div class="row top-buffer">
+  <div class="col-md-8">
+    <hr>
+    <div class="print col-ms-12 col-md-12 col-xs-12">
+      <span class="icon-printing"></span>
+      <a href="#">Imprime la página completa</a>
+        <p class="small" style="font-size: 14px; line-height: 1.6em;">
+          La legalidad, veracidad y la calidad de la información es estricta responsabilidad de la dependencia, entidad o empresa productiva del Estado que la proporcionó en virtud de sus atribuciones y/o facultades normativas.
+        </p>
+    </div>
+  </div>
+</div>
+
+  </div>
+  <input type="hidden" id="page_type" name="page_type" value="Articulos">
+  <input type="hidden" id="organization_name" name="organization_name" value="presidencia">
+</main>
+<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+
+<footer class="main-footer">
+  <div class="list-info">
+    <div class="container">
+
+      <div class="col-sm-3">
+        <img  src="https://framework-gb.cdn.gob.mx/landing/img/logoheader.svg"  href="/" alt="logo gobierno de méxico" class="logo_footer" style="max-width: 90%; margin-left: -27px;   margin-top: 12px;">
+      </div>
+      <div class="col-sm-3">
+        <h2>Enlaces</h2>
+        <ul>
+         <!-- <li><a  href="http://www.participa.gob.mx">Participa</a></li> -->
+          <li><a  href="https://datos.gob.mx/">Datos</a></li>
+          <li><a href="https://www.gob.mx/publicaciones" target="_blank" rel="noopener" title="Enlace abre en ventana nueva">Publicaciones </a></li>
+
+                  <li><a class="footer" href="https://consultapublicamx.plataformadetransparencia.org.mx/vut-web/faces/view/consultaPublica.xhtml?idEntidad=MzM=&amp;idSujetoObligado=MTAwMDE=#inicio" id="Transparencia" target="blank" title="Enlace abre en ventana nueva">Portal de Obligaciones de Transparencia</a></li>
+
+                  <li><a class="footer" href="https://www.infomex.org.mx/gobiernofederal/home.action" id="PNT" target="blank" title="Enlace abre PNT en ventana nueva">PNT</a></li>
+
+                  <li><a class="footer" href="http://www.inai.org.mx/" id="INAI" target="blank" title="Enlace abre sitio INAI en ventana nueva">INAI</a></li>
+
+          <li><a class="footer" id="INAI" href="http://alertadores.funcionpublica.gob.mx/" target="_blank" rel="alertadores">Alerta</a></li>
+          <li><a class="footer" id="SIDEC" href="http://sidec.funcionpublica.gob.mx/" target="_blank" rel="sidec">Denuncia</a></li>
+           </ul>
+      </div>
+      <div class="col-sm-3">
+        <h2>¿Qué es gob.mx?</h2>
+        <p>Es el portal único de trámites, información y participación ciudadana.  <a href="/que-es-gobmx" style="text-decoration: none;">Leer más </a></p>
+        <ul>
+
+        
+            <li><a href='http://www.gob.mx/epn'> Administraciones anteriores  </a></li>
+          <li><a href="/accesibilidad">Declaración de Accesibilidad</a></li>
+          <li><a href="/privacidadintegral">Aviso de privacidad</a></li>
+          <li><a href="/privacidadsimplificado">Aviso de privacidad simplificado</a></li>
+          <li><a href="/terminos">Términos y Condiciones </a></li>
+          <li><a href="/terminos#medidas-seguridad-informacion">Política de seguridad</a></li>
+          <li><a class="footer" id="Marco Juridico" href="http://www.ordenjuridico.gob.mx" target="_blank" rel="noopener" title="Enlace abre en ventana nueva">Marco jurídico</a></li>
+          <li><a href="/sitemap">Mapa de sitio</a></li>
+        </ul>
+      </div>
+      <div class="col-sm-3">
+        </p>
+        <h2>Síguenos en </h2>
+        <ul class="list-inline">
+          <li>
+            <a id="Facebook" href="https://www.facebook.com/gobmexico" target="_blank" rel="noopener" class="sendEst share-info footer" title="enlace a facebook abre en una nueva ventana">
+              <img alt="Facebook" src="https://framework-gb.cdn.gob.mx/landing/img/facebook.png" />
+            </a>
+          </li>
+          <li>
+            <a id="Twitter" href="https://twitter.com/GobiernoMX" target="_blank" rel="noopener" class="sendEst share-info footer" title="Enlace a twitter abre en una nueva ventana">
+              <img alt="Twitter" src="https://framework-gb.cdn.gob.mx/landing/img/twitter.png" />
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+  </div>
+  </div>
+
+  <div class="container-fluid footer-pleca">
+    <div class="row">
+      <div class="col">
+        <br><br>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script type="text/javascript">
+      $("a.footer").click(function () {
+          var pagina_sitio = window.location.pathname;
+          var outbound_link = $(this).attr("id");
+          var subgrupo_paginas = "presidencia";
+          var page_type = "Home";
+          var pages_group = "Gobierno";
+          if($("#page_type").length > 0){ page_type = $("#page_type").val(); }
+
+          console.log("Metrica links externos footer - "+outbound_link);
+          gtag('set', 'dimension14', pages_group);
+          gtag('set', 'dimension15', subgrupo_paginas);
+          gtag('set', 'dimension16', page_type);
+          gtag('send', 'event', 'Outbound link - Footer', outbound_link, pagina_sitio);
+          gtag('set', 'dimension14', null);
+          gtag('set, ‘dimension15', null);
+      })
+  </script>
+
+<input class="hidden" id="route" value="/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-1-de-noviembre-de-2023" type="hidden" >
+<!-- div id="fb-root"></div -->
+
+
+
+
+
+  <!-- Begin comScore Tag -->
+  <script>
+      var _comscore = _comscore || [];
+      _comscore.push({ c1: "2", c2: "17183199" });
+      (function() {
+          var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+          s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+          el.parentNode.insertBefore(s, el);
+      })();
+  </script>
+  <noscript>
+    <img src="https://sb.scorecardresearch.com/p?c1=2&c2=17183199&cv=2.0&cj=1" />
+  </noscript>
+  <!-- End comScore Tag -->
+
+  <script src="https://sb.scorecardresearch.com/c2/17183199/ct.js"></script>
+
+
+  <script type="text/javascript">
+
+      var _sf_startpt=(new Date()).getTime();
+      var _sf_async_config = { uid: 43659, domain: 'www.gob.mx', useCanonical: true } ;
+      (function() {
+          function loadChartbeat() { window._sf_endpt = (new Date()).getTime(); var e = document.createElement('script'); e.setAttribute('language', 'javascript'); e.setAttribute('type', 'text/javascript'); e.setAttribute('src','//static.chartbeat.com/js/chartbeat.js'); document.body.appendChild(e); };
+          var oldonload = window.onload;
+          window.onload = (typeof window.onload != 'function') ?
+              loadChartbeat : function()
+              { oldonload(); loadChartbeat(); };
+      })();
+      var ele = "/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-1-de-noviembre-de-2023";
+      if( "#{(@organization_site.present? ? @organization_site.category : 'gobmx')}" == "Campaña") {
+          var siteEls = 'campaign';
+      } else {
+          var siteEls = 'gobierno';
+      }
+
+      for( var i = 1; i < ele.split('/').length; i++ ) {
+          siteEls = siteEls + '.' + ele.split('/')[i];
+      }
+
+      function udm_(e){var t="comScore=",n=document,r=n.cookie,i="",s="indexOf",o="substring",u="length",a=2048,f,l="&ns_",c="&",h,p,d,v,m=window,g=m.encodeURIComponent||escape;if(r[s](t)+1)for(d=0,p=r.split(";"),v=p[u];d<v;d++)h=p[d][s](t),h+1&&(i=c+unescape(p[d][o](h+t[u])));e+=l+"_t="+ +(new Date)+l+"c="+(n.characterSet||n.defaultCharset||"")+"&c8="+g(n.title)+i+"&c7="+g(n.URL)+"&c9="+g(n.referrer),e[u]>a&&e[s](c)>0&&(f=e[o](0,a-8).lastIndexOf(c),e=(e[o](0,f)+l+"cut="+g(e[o](f+1)))[o](0,a)),n.images?(h=new Image,m.ns_p||(ns_p=h),h.src=e):n.write("<","p","><",'img src="',e,'" height="1" width="1" alt="*"',"><","/p",">")};
+      function uid_call(a, b){
+          ui_c2 = 17183199; // your corporate c2 client value
+          ui_ns_site = 'gobmx'; // your sites identifier
+          window.b_ui_event = window.c_ui_event != null ? window.c_ui_event:"",window.c_ui_event = a;
+          var ui_pixel_url = 'https://sb.scorecardresearch.com/p?c1=2&c2='+ui_c2+'&ns_site='+ui_ns_site+'&name='+a+'&ns_type=hidden&type=hidden&ns_ui_type='+b;
+          var b="comScore=",c=document,d=c.cookie,e="",f="indexOf",g="substring",h="length",i=2048,j,k="&ns_",l="&",m,n,o,p,q=window,r=q.encodeURIComponent||escape;if(d[f](b)+1)for(o=0,n=d.split(";"),p=n[h];o<p;o++)m=n[o][f](b),m+1&&(e=l+unescape(n[o][g](m+b[h])));ui_pixel_url+=k+"_t="+ +(new Date)+k+"c="+(c.characterSet||c.defaultCharset||"")+"&c8="+r(c.title)+e+"&c7="+r(c.URL)+"&c9="+r(c.referrer)+"&b_ui_event="+b_ui_event+"&c_ui_event="+c_ui_event,ui_pixel_url[h]>i&&ui_pixel_url[f](l)>0&&(j=ui_pixel_url[g](0,i-8).lastIndexOf(l),ui_pixel_url=(ui_pixel_url[g](0,j)+k+"cut="+r(ui_pixel_url[g](j+1)))[g](0,i)),c.images?(m=new Image,q.ns_p||(ns_p=m),m.src=ui_pixel_url):c.write("<p><img src='",ui_pixel_url,"' height='1' width='1' alt='*'></p>");
+      }
+      udm_('https://sb.scorecardresearch.com/b?c1=2&c2=17183199&ns_site=gobmx&name='+siteEls);
+  </script>
+
+  <noscript>
+    <img src="https://sb.scorecardresearch.com/p?c1=2&amp;c2=17183199&amp;ns_site=gobmx&amp;name=gobierno.presidencia.es.articulos.version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-1-de-noviembre-de-2023" height="1" width="1" alt="*" />
+  </noscript>
+<script>
+    let key = '';
+    $(function () {
+
+        $.getJSON("https://framework-gb.cdn.gob.mx/applications/cms/configGobmx.json", function(json) {
+            console.log(json.keyAnalytics); // this will show the info it in firebug console
+            key = json.keyAnalytics;
+            ga('create', key , 'auto', 'GobTracker');
+            ga('GobTracker.require', 'linker');
+            ga('GobTracker.linker:autoLink', ['www.gob.mx']);
+            ga('GobTracker.set', 'contentGroup1', 'Gobierno');
+            ga('GobTracker.set', 'contentGroup2', SubGroup);
+            ga('GobTracker.set', 'contentGroup3', PageType);
+            ga('GobTracker.set', 'dimension14', 'Gobierno');
+            ga('GobTracker.set', 'dimension15', SubGroup);
+            ga('GobTracker.set', 'dimension16', PageType);
+            ga('GobTracker.set', 'dimension13', 'No Registrado');
+            ga('GobTracker.send', 'pageview');
+            ga('GobTracker.set', 'contentGroup1', null);
+            ga('GobTracker.set', 'contentGroup2', null);
+            ga('GobTracker.set', 'contentGroup3', null);
+            ga('GobTracker.set', 'dimension14', null);
+            ga('GobTracker.set', 'dimension15', null);
+            ga('GobTracker.set', 'dimension16', null);
+            ga('GobTracker.set', 'dimension13', null);
+        });
+    });
+</script>
+
+<script src="https://framework-gb.cdn.gob.mx/applications/cms/modal_global_cms.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/gm/accesibilidad/js/gobmx-accesibilidad.min.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick.min.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick-lightbox.js"></script>
+<link rel="stylesheet" href="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick-lightbox.css">
+
+
+<script src="https://framework-gb.cdn.gob.mx/applications/cms/config_dependency.js"></script>
+<script type="text/javascript"  src="/0RVTuHxj0/t/mhEICJIQ/YiOkthVkYSfw/PRc4N0sKYQk/PwhFVTt/GPxQB"></script></body>
+
+</html>
+

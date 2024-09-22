@@ -1,0 +1,1709 @@
+<!DOCTYPE html>
+<html class='no-js' lang='es'>
+<head>
+    <title>
+  Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 12 de febrero de 2024 | Presidencia de la República  | Gobierno | gob.mx
+</title>
+
+  <meta charset='UTF-8'>
+  <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#393C3E">
+
+  
+  <meta name="keywords" content="">
+  <meta name="description" content="Acto encabezado por el presidente Andrés Manuel López Obrador, desde Palacio Nacional">
+  <meta name="author" content="Presidencia de la República ">
+
+  <meta content="Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 12 de febrero de 2024" property="og:title" />
+  <meta content="https://www.gob.mxhttps://www.gob.mx/cms/uploads/article/main_image/142297/Conferencia_presidente_8.07.17_AM__1_.jpeg" property="og:image" />
+  <meta content="gob.mx" property="og:site_name" />
+  <meta content="Acto encabezado por el presidente Andrés Manuel López Obrador, desde Palacio Nacional" property="og:description" />
+  <meta content="http://www.gob.mx/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-12-de-febrero-de-2024?idiom=es" property="og:url" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@gobmx" />
+  <meta name="twitter:title" content="Versión estenográfica. Conferencia de prensa del presidente Andrés..." />
+  <meta name="twitter:description" content="Acto encabezado por el presidente Andrés Manuel López Obrador, desde Palacio Nacional" />
+  <meta name="twitter:image" content="https://www.gob.mxhttps://www.gob.mx/cms/uploads/article/main_image/142297/Conferencia_presidente_8.07.17_AM__1_.jpeg" />
+
+
+  <meta content="authenticity_token" name="csrf-param" />
+<meta content="exP/62BS0bnw2SPNie0SahMLdCE2E8PEGLDKGTeaEKM=" name="csrf-token" />
+
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700,600,300' rel='stylesheet' type='text/css'>
+  <link href='https://framework-gb.cdn.gob.mx/applications/cms/favicon.png' rel='shortcut icon'>
+  <link data-turbolinks-track="true" href="/cms/assets/application.css" media="all" rel="stylesheet" />
+  <link data-turbolinks-track="true" href="https://framework-gb.cdn.gob.mx/gm/accesibilidad/css/gobmx-accesibilidad.min.css" media="all" rel="stylesheet" />
+  
+
+  <!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+  <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+
+ <![endif]-->
+  <script async src="https://www.googletagmanager.com/gtag/js?id="></script>
+  <script src="https://framework-gb.cdn.gob.mx/applications/cms/carrusel/swiper-bundle.min.js"></script>
+
+  <link rel="stylesheet" href="https://framework-gb.cdn.gob.mx/applications/cms/carrusel/swiper-bundle.min.css">
+
+    <script type="text/javascript">
+
+        var SubGroup = '';
+        if(false || false){
+            SubGroup = 'Temas';
+        }else{
+            SubGroup = 'presidencia';
+        }
+        var PageType = '';
+        if(false){
+            PageType = 'Home'
+        }else{
+            if(false){
+                PageType = '';
+            }else {
+                var site = window.location.pathname;
+                var arrayPageType = ["articulos", "prensa", "agenda", "documentos", "multimedia", "galerias", "videos",
+                    "acciones_y_programas", "acciones-y-programas", "mi-foto-con-el-presidente",
+                    "estructuras", "descargables", "que-hacemos", "finanzas", "infografias"];
+
+                if (site.search("archivo") != -1) {
+                    PageType = "archivo_";
+                }
+                for (var i = 0; i < arrayPageType.length; i++) {
+                    if (site.search(arrayPageType[i]) != -1) {
+                        PageType += arrayPageType[i];
+                        break;
+                    }
+                }
+            }
+        }
+
+
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', '');
+
+        gtag('require', 'linker');
+        gtag('linker:autoLink', ['www.gob.mx']);
+        gtag('set', 'contentGroup1', 'Gobierno');
+        gtag('set', 'contentGroup2', SubGroup);
+        gtag('set', 'contentGroup3', PageType);
+        gtag('set', 'dimension14', 'Gobierno');
+        gtag('set', 'dimension15', SubGroup);
+        gtag('set', 'dimension16', PageType);
+        gtag('set', 'dimension13', 'No Registrado');
+        gtag('send', 'pageview');
+        gtag('set', 'contentGroup1', null);
+        gtag('set', 'contentGroup2', null);
+        gtag('set', 'contentGroup3', null);
+        gtag('set', 'dimension14', null);
+        gtag('set', 'dimension15', null);
+        gtag('set', 'dimension16', null);
+        gtag('set', 'dimension13', null);
+
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-144356475-1', 'auto', {'allowLinker':true});
+        ga('require', 'linker');
+        ga('linker:autoLink', ['www.gob.mx']);
+        ga('set', 'contentGroup1', 'Gobierno');
+        ga('set', 'contentGroup2', SubGroup);
+        ga('set', 'contentGroup3', PageType);
+        ga('set', 'dimension14', 'Gobierno');
+        ga('set', 'dimension15', SubGroup);
+        ga('set', 'dimension16', PageType);
+        ga('set', 'dimension13', 'No Registrado');
+        ga('send', 'pageview');
+        ga('set', 'contentGroup1', null);
+        ga('set', 'contentGroup2', null);
+        ga('set', 'contentGroup3', null);
+        ga('set', 'dimension14', null);
+        ga('set', 'dimension15', null);
+        ga('set', 'dimension16', null);
+        ga('set', 'dimension13', null);
+    </script>
+
+
+  <script type = "text/javascript"> console.log(true);
+  var rails_env_prod = true; </script>
+  <script src="/cms/assets/application.js"></script>
+  <script src="/cms/assets/imageReplace.js"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.js"></script>
+
+                              <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("True"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="N3JQ2-2RVHB-WJQMN-CEYEM-ATMWX",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"N3JQ2-2RVHB-WJQMN-CEYEM-ATMWX",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="xxqo3jv567lbgzxpkgqq-f-59cbb38ba-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"37","ak.cp":"413578","ak.ai":parseInt("270161",10),"ak.ol":"0","ak.cr":12,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"20b78eec","ak.r":49405,"ak.a2":e,"ak.m":"b","ak.n":"essl","ak.bpcip":"189.224.237.0","ak.cport":64330,"ak.gh":"189.247.214.15","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"reno","ak.t":"1726960033","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==E443nPMx1QhOEgROUeZNZ7pdUnOgQOuVMV4sWb20tdityZw72c7CRiLsuke6ybqUBBuDjKmEMqwsMTmTkob6Z8qkp5mMZAPw9xR5H3p06oVMLgPKLz1/Hp9caaKKeU14Apacn4mQ3jm8ei/3JKszHCCcbhPb/Yj48nJSX2sYLMDW1SkBBS5vCgV37vvwX8bkanNCP0gC6vUe04bUZklb/7LneivX1lOT+Wqo9gXrWqmHjaFG/ldwNCRntxhm2aDe5PD880jURZmzqw/64R+IryaSr3G9ZDveDuAPbOFcUQdwadLbBbqlNhOttUXJdzC/on1xWUZZpsB0sV4vEr3ybL6CHIclepdDITLGcKe2tVeS+UZpSvaCIqyVx3H98eg7yGHfnCI29h1/R8mkudRkZRSK85haVrWXlcDZ+T0Av7Q=","ak.pv":"113","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+<body>
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v13.0" nonce="MZ2GPb2d"></script><!-- a href="#principal" class="skip">Saltar al contenido principal</a -->
+  <header class=" navbar navbar-inverse">
+    <nav class="navbar navbar-inverse  navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-target="#navbarMainCollapse" data-toggle="collapse">
+            <span class="sr-only">Interruptor de Navegación</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a href="/" style="padding: 1px 3px 3px 3px;" class="navbar-brand " title="Ir a la página inicial">
+
+            <div class="logo-main"></div>
+          </a>
+        </div>
+        <div id="navbarMainCollapse" class="collapse navbar-collapse">
+          <ul class="nav navbar-nav navbar-right">
+           <li><a href="/tramites" title="Trámites">Trámites </a></li>
+            <li><a href="/gobierno" title="Gobierno">Gobierno</a></li>
+                  <li><a href="/presidencia/en" title="Versión en inglés del sitio web">English</a>
+                  </li>
+                </li>
+
+
+            <li>
+              <form accept-charset="UTF-8" action="/busqueda" method="get"><div style="display:none"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+                <input type="hidden" name="site" value="presidencia">
+                <button data-v-6394873e="" id="botonbuscar" type="button" class="btn btn-search"><a data-v-6394873e="" href="https://www.gob.mx/busqueda?utf8=✓" target="_blank" id="botbusca"><img data-v-6394873e="" alt="Buscar" src="https://framework-gb.cdn.gob.mx/landing/img/lupa.png"></a></button>
+</form>            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    
+
+
+        <script src="/cms/assets/level_jump.js"></script><section>
+<!-- Subnavegacion -->
+<nav class=" navbar-inverse sub-navbar fixed-top"
+     >
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#subenlaces">
+        <span class="sr-only">Interruptor de Navegación</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="link-name" href="?tab="></a>
+    </div>
+    <div class="collapse navbar-collapse" id="subenlaces">
+      <ul class="nav subnav navbar-nav navbar-right">
+              <li class="landing-btn">
+                    <a href='/presidencia/es/archivo/prensa'>
+                Comunicados            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='/presidencia/es/#5173'>
+                Directorio            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='https://transparencia.presidencia.gob.mx/presidencia/transparencia/politicas-de-tratamiento-de-datos-personales-de-la-oficina-de-la-presidencia-de-la-republica/'>
+                Protección de Datos Personales            </a>
+            </li>
+    <li class="landing-btn">
+                    <a href='https://www.gob.mx/presidencia/transparencia/'>
+                Transparencia            </a>
+            </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+<style>
+  .flag-banner {
+  top: 45px  !important;
+  }
+</style>
+<!-- div class="warning-nav" style="margin-top: 0px;">
+  <div class="container">
+    <div class="row clearfix">
+  <div class="col-xs-12 col-sm-12 col-md-12">Este contenido será modificado temporalmente en atención a las disposiciones legales y normativas en materia electoral, con motivo del inicio de periodo de campaña</div>
+  </div>
+  </div>
+</div -->
+</section>
+
+
+  </header>
+
+
+
+
+
+<main class="inner-page interior ficha">
+  <div class="container">
+  	<ol class="breadcrumb">
+  <li><a href="http://www.gob.mx"><span class="icon icon-home"></span><span class="sr-only">Inicio</span></a></li>
+  <li><a href="/presidencia">Presidencia de la República </a></li>
+  <li class="active">Blog</li>
+</ol>
+  	<div class="">
+      <div aria-hidden="true" class="hidden-xs font-changer internal print" tabindex="-1">
+  <button class="inc-font font-modifier">Aa+</button>
+  <button class="dec-font font-modifier">Aa-</button>
+</div>
+      <div class="marquee-padding">
+      <div class='post-list main-post-list'>
+<div class='marque-float-left'>
+<div class='right_arrow'></div>
+<div class='titulo-pub'>
+<small>Publicaciones Recientes</small>
+</div>
+</div>
+<div>
+<div class='container-marque'>
+<div id='headlines'>
+<div class='marquee'>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-19 13:44:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-19-de-septiembre-de-2024' title='Versió'>
+Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 19 de septiembre de 2024
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-18 12:36:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-18-de-septiembre-de-2024' title='Versió'>
+Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 18 de septiembre de 2024
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-17 13:51:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-entrega-de-estimulos-a-delegaciones-mexicanas-participantes-en-juegos-olimpicos-y-paralimpicos-paris-2024' title='Versió'>
+Versión estenográfica. Entrega de estímulos a delegaciones mexicanas participantes en Juegos Olímpicos y Paralímpicos París 2024
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-17 12:21:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-17-de-septiembre-de-2024' title='Versió'>
+Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 17 de septiembre de 2024
+</a>
+</div>
+</div>
+<div class='marque-news'>
+<button class='btn btn-primary btn-xs active btn-new' type='button'>Nuevo</button>
+<div class='date-marque'><i class='far fa-calendar-alt'></i><small>2024-09-16 13:56:00 -0600</small>
+</div>
+<div class='format-paragraph'>
+<a href='/presidencia/es/articulos/version-estenografica-desfile-civico-militar' title='Versió'>
+Versión estenográfica. Desfile Cívico Militar
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+      </div>
+  	  <div class="col-md-7 col-xs-12 col-sm-12 pull-left" tabindex="0">
+  	  	<h1 class="bottom-buffer">Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 12 de febrero de 2024</h1>
+  	  	<h2>Acto encabezado por el presidente Andrés Manuel López Obrador, desde Palacio Nacional</h2>
+        <section class="">
+          <p>Presidencia de la República  | 12 de febrero de 2024</p>
+        </section>
+  	  <div class="imagen-principal">
+  	      <img alt="Conferencia de prensa del presidente Andrés Manuel López Obrador" class="img-responsive img_curve" src="https://www.gob.mx/cms/uploads/article/main_image/142297/Conferencia_presidente_8.07.17_AM__1_.jpeg" />
+  	      <span class="small">Conferencia de prensa del presidente Andrés Manuel López Obrador</span>
+      </div>
+      <div class="article-body"><p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Buenos d&iacute;as. &Aacute;nimo.</p>
+
+<p>Bueno, vamos a iniciar la semana. Tenemos todav&iacute;a, sigue la infecci&oacute;n, no se me quita el&nbsp;tutupiche, pero ya se me va a quitar.</p>
+
+<p>Bueno. vamos a informar el d&iacute;a de hoy sobre tres asuntos:</p>
+
+<p>El primero, como lo hacemos todos los lunes, el qui&eacute;n es qui&eacute;n en los precios, combustibles.</p>
+
+<p>Luego, vamos a informar sobre el avance en el Tren Maya. Estuve por all&aacute; este fin de semana. Y Mar&iacute;a Luisa, Luisa Mar&iacute;a, perd&oacute;n,&nbsp;Alcalde&nbsp;Luj&aacute;n, secretaria de Gobernaci&oacute;n, nos va a informar sobre la reforma que estamos promoviendo para el Poder Judicial, porque es algo muy importante.&nbsp;</p>
+
+<p>Se ha ido avanzando bastante en el Poder Legislativo, desde luego en el Ejecutivo, pero el Poder Judicial est&aacute; tomado, est&aacute; secuestrado, est&aacute; al servicio de una minor&iacute;a rapaz, est&aacute; al servicio de la delincuencia llamada organizada y de la delincuencia de cuello blanco. Entonces, s&oacute;lo con la participaci&oacute;n de la gente, con la democracia, con el m&eacute;todo democr&aacute;tico, eligiendo jueces, que el pueblo elija abogados &iacute;ntegros, incorruptibles, con vocaci&oacute;n de justicia, s&oacute;lo as&iacute; vamos a poder avanzar.</p>
+
+<p>Y esto no es un asunto que se va a lograr f&aacute;cilmente en el corto plazo, va a llevar tiempo, pero hay que empezar. Es algo que nos dec&iacute;an cuando nos dec&iacute;an que hay una especie de enajenaci&oacute;n en el gobierno, que s&oacute;lo pod&iacute;a resolverse el problema de la inseguridad y de la violencia con medidas coercitivas, con mano dura. Se pon&iacute;an enfrente de la televisi&oacute;n, de las c&aacute;maras, para decir: &lsquo;No me va a temblar la mano; el que la hace, la paga&rsquo;. Y&nbsp;&lsquo;leyes m&aacute;s severas&rsquo;, y&nbsp;&lsquo;c&aacute;rceles&rsquo;.&nbsp;</p>
+
+<p>Y se dedicaban a saquear, a robar, ten&iacute;an en el abandono al pueblo, salarios muy bajos, de los salarios m&aacute;s precarios del mundo, el abandono a los j&oacute;venes, privatizaci&oacute;n de la salud, privatizaci&oacute;n de la educaci&oacute;n. Y cuando habl&aacute;bamos que se deb&iacute;an atender las causas para enfrentar el problema de la violencia nos dec&iacute;an: &lsquo;S&iacute;, s&iacute;, s&iacute;, pero eso lleva mucho tiempo. &iquest;Cu&aacute;ndo vamos a&hellip;?&rsquo; Pues s&iacute;, s&iacute; lleva tiempo, pero hay que empezar.</p>
+
+<p>Porque no se puede enfrentar la violencia con la violencia, eso es un error. Eso puede funcionar transitoriamente, pero donde hay descomposici&oacute;n social, donde hay pobreza, donde hay abandono, donde se desprecia a los j&oacute;venes, donde hay desintegraci&oacute;n en las familias, &iquest;cu&aacute;ndo se va a resolver el problema de inseguridad y de violencia?</p>
+
+<p>Lo estamos viendo con nuestros vecinos, amigos, que les estamos ayudando y lo vamos a seguir haciendo porque es un asunto humanitario, ese es el ejemplo, Estados Unidos, una potencia en lo econ&oacute;mico, en lo b&eacute;lico, y un problema que no es f&aacute;cil de resolver porque tiene sus or&iacute;genes en una crisis profunda en lo social y en lo cultural el consumo del fentanilo; 100 mil muertos, lamentablemente la mayor&iacute;a j&oacute;venes, por el consumo del fentanilo. &iquest;Y eso c&oacute;mo se resuelve? &iquest;Con la bomba at&oacute;mica? &iquest;Destinado la mitad del presupuesto a la industria b&eacute;lica? No.</p>
+
+<p>Por eso, hay que atener las causas y hay que partir del criterio de que los seres humanos no nacemos malos;&nbsp;son las circunstancias las que llevan a algunos a tomar el camino de las conductas antisociales. Y si cambia la circunstancia, cambia todo. Es yo y mis circunstancias. Y si cambio las circunstancias, cambio yo.</p>
+
+<p>Es lo mismo el Poder Judicial. Claro que es complejo y va a llevar tiempo,&nbsp;porque es un problema estructural que tiene que ver con la abogac&iacute;a, la formaci&oacute;n en las universidades de los abogados, que tiene que ver con la moralizaci&oacute;n de la vida p&uacute;blica, que tiene que ver con el abandonar el af&aacute;n de lucro, pero hay que comenzar.</p>
+
+<p>Y algo que ayuda mucho es el que no se mantengan los poderes de &eacute;lite, sino que se vaya purificando la vida p&uacute;blica con la participaci&oacute;n de todos, que se termine con el elitismo,&nbsp;con la idea de que la pol&iacute;tica es asunto de los pol&iacute;ticos, de las &eacute;lites, no, que le preguntemos siempre al pueblo para no equivocarnos;&nbsp;mandar obedeciendo al pueblo. Y si el pueblo se equivoca,&nbsp;vuelve a mandar, porque vivimos en una democracia.</p>
+
+<p>Entonces, vamos a elegir a los jueces, que el pueblo los elija. El pueblo tiene, adem&aacute;s de ser muy inteligente, un instinto certero, sabe qui&eacute;n es recto, qui&eacute;n no; sabe qui&eacute;n es honesto, qui&eacute;n no; sabe qui&eacute;n le tiene amor al pueblo y qui&eacute;n lo desprecia. No hay que pensar que la gente es insensible.</p>
+
+<p>Lo que nosotros hemos hecho para transformar este pa&iacute;s lo hemos hecho siguiendo las recomendaciones del pueblo, recogiendo los sentimientos del pueblo, esos son mis asesores, millones de mexicanos, que tienen mucho sentido com&uacute;n, que es el menos com&uacute;n de los sentidos, a veces.</p>
+
+<p>&iquest;Y qu&eacute; es, tambi&eacute;n entre otras cosas, la pol&iacute;tica?</p>
+
+<p>Juicio pr&aacute;ctico,&nbsp;y el pueblo tiene mucho juicio pr&aacute;ctico, sabe muy bien qu&eacute; conviene y qu&eacute; no conviene.</p>
+
+<p>Entonces, s&iacute; es importante la reforma al Poder Judicial.&nbsp;</p>
+
+<p>Y ayer ve&iacute;a yo que se alarmaban, &iquest;no?, de manera hip&oacute;crita, algunos periodistas conservadores o medios, porque dije aqu&iacute; que, en efecto, la reforma al Poder Judicial ten&iacute;a que ver con los cambios y aprovechando que vienen las elecciones. Claro, claro que s&iacute;, con toda transparencia, porque no se puede reformar el Poder Judicial si no se tiene mayor&iacute;a calificada en el&nbsp;Congreso, ni en la C&aacute;mara de Diputados ni en la C&aacute;mara de Senadores.&nbsp;</p>
+
+<p>Y eso,&nbsp;muchos, la mayor&iacute;a, no lo saben,&nbsp;y yo tengo que estarlo diciendo,&nbsp;porque antes eran temas vedados, de esto no se hablaba, qu&eacute; les iba a convenir a los corruptos que la gente supiera c&oacute;mo funciona el Poder Legislativo, mucho menos les conven&iacute;a a los corruptos que se supiera c&oacute;mo funcionaba el Poder Judicial, no se sab&iacute;an ni el nombre de uno de los ministros, ni cu&aacute;ntos ministros hay en la corte, ni los magistrados de distrito, ni mucho menos el nombre de un juez federal, era como el limbo, y ahora todos tenemos que saber.</p>
+
+<p>&iexcl;Ah!, porque dec&iacute;an que la pol&iacute;tica, repito, era asunto de los pol&iacute;ticos, no del pueblo: &lsquo;La econom&iacute;a es asunto de los economistas, son temas tan complejos, tan complejos, que no cualquiera los puede dominar&rsquo;. Imag&iacute;nense que,&nbsp;en lo pol&iacute;tico,&nbsp;uno de los m&aacute;s elevados lleg&oacute; a decir&mdash; una eminencia&mdash; que la corrupci&oacute;n era parte de la cultura del pueblo de M&eacute;xico. En lo econ&oacute;mico,&nbsp;otra eminencia, secretario de Hacienda, hace poco lleg&oacute; a decir que no importaba que subiera el precio de las gasolinas,&nbsp;porque la mayor&iacute;a de la gente no ten&iacute;a carros y que no les afectaba. Eminencias. Y pues no hay que dejarles a estos que sean los que decidan, ni en pol&iacute;tica ni en econom&iacute;a.</p>
+
+<p>&iexcl;Cu&aacute;nto nos enga&ntilde;aron &mdash;no voy a dejar de repetirlo&mdash; que si aumentaba el salario era malo porque aumentaba la inflaci&oacute;n! &iexcl;Cu&aacute;nto nos enga&ntilde;aron diciendo que el problema de la falta de presupuesto era porque no pagaban impuestos los de la econom&iacute;a informal, cuando los que no pagaban impuestos eran los de arriba, los de mero arriba, el pueblo s&iacute;, pero los de arriba no! &iexcl;Cu&aacute;ntas mentiras!</p>
+
+<p>Y todav&iacute;a, &iquest;no?, siguen en algunos peri&oacute;dicos, en la radio, en la televisi&oacute;n hablando, la opini&oacute;n de los expertos. Seg&uacute;n los expertos, no est&aacute; bien que se reformen las leyes en beneficio de los jubilados, seg&uacute;n los expertos.</p>
+
+<p>Yo recuerdo que cuando decidimos, hace m&aacute;s de 20 a&ntilde;os, que se iban a entregar pensiones a adultos mayores, seg&uacute;n los expertos, eso iba a llevar a la quiebra al gobierno de la ciudad, y hac&iacute;an corridas financieras con actuarios en donde no se iba a poder entregar las pensiones a los adultos mayores. S&iacute; se pudo, y se pueden muchas cosas. Pero, claro, los expertos, &iquest;qui&eacute;nes son?, &iquest;a qu&eacute; intereses obedecen?, &iquest;a qui&eacute;n les sirven?&nbsp;Pues a los de arriba, a los corruptos, a los que se sent&iacute;an due&ntilde;os de M&eacute;xico. Como esto ya cambi&oacute;, pues ya son otras cosas.</p>
+
+<p>Pero, bueno, vamos a entrar en materia y le pedimos al procurador federal del Consumidor, que est&aacute;n de fiesta.</p>
+
+<p>DAVID AGUILAR ROMERO, PROCURADOR FEDERAL DEL CONSUMIDOR:&nbsp;Se&ntilde;or presidente, muy buenos d&iacute;as; secretaria Luisa Mar&iacute;a, mi general, a todos los medios de comunicaci&oacute;n, buenos d&iacute;as.</p>
+
+<p>Arrancamos el d&iacute;a de hoy con el &lsquo;Qui&eacute;n es qui&eacute;n en el precio de los combustibles&rsquo;. Y tenemos que para el pasado 8 de febrero la mezcla mexicana se cotiz&oacute; en el mercado internacional en 71 d&oacute;lares con 50 centavos y para el caso de M&eacute;xico encontramos para esa misma fecha precios promedio de 22.81 pesos por la gasolina regular, 24.41 pesos para la Premium y 24 pesos con 77 centavos en el caso del di&eacute;sel.</p>
+
+<p>Para esta semana los incentivos fiscales ser&aacute;n 2.8 para la gasolina regular y 13.7 para el di&eacute;sel, en el caso de la Premium no contar&aacute; con incentivo esta semana.</p>
+
+<p>Pasando ahora a las ganancias que se obtienen por franquicia, nos encontramos con que al arranque de febrero&nbsp;Redco,&nbsp;Chevron&nbsp;y Arco fueron aquellas que m&aacute;s le ganaron por litro vendido. Y, por el contrario,&nbsp;Orsan, Hidrosina y Exxon&nbsp;Mobil&nbsp;fueron las marcas que tuvieron los indicadores de ganancia m&aacute;s bajos, esto es las aliadas de&nbsp;los consumidores y las consumidoras&nbsp;al arranque de este mes.</p>
+
+<p>Pasemos ahora a los combustibles por regi&oacute;n, y tenemos&nbsp;que&nbsp;al inicio de este mes, para el caso de la gasolina regular, la estaci&oacute;n&nbsp;Corpogas, de inmobiliaria Corralejo, all&aacute; en Solidaridad, Quintana Roo, ofreci&oacute; el litro en 24 pesos con 75 centavos, algo bastante elevado si lo comparamos con franquicia Pemex en Tuxtepec, Oaxaca, que ofreci&oacute; el litro en 22 pesos con 38 centavos.</p>
+
+<p>En este caso con solamente 15 centavos de ganancia y al igual que este tambi&eacute;n podemos mencionar a Tesoro, en Baja Sur, en 22.66 pesos; G500, 22 con 27 centavos en M&eacute;rida;&nbsp;Petrolike&nbsp;a 21.49 en Jalisco; y una vez m&aacute;s Valero que en Toluca ofreci&oacute; el litro en 21 pesos con 23 centavos.</p>
+
+<p>Pasando ahora a la gasolinera Premium, nos encontramos con Arco, de Grupo&nbsp;Enermar, que nuevamente en Guaymas, Sonora, se fueron a 26 pesos con 79 centavos por litro, pero con 3.50 pesos de ganancia. Casos parecidos en el indicador y precios altos como, por ejemplo, BP aqu&iacute; en Ciudad de M&eacute;xico; Shell, en Guanajuato, entre otros, como las m&aacute;s caras durante la semana pasada.</p>
+
+<p>Seguimos con la Premium, y ahora vemos tambi&eacute;n que existen las m&aacute;s baratas con indicadores menores, y una vez m&aacute;s tenemos a franquicia Los Pinos, de S&uacute;per Servicio F&aacute;tima, all&aacute; en Saltillo, Coahuila, quien ofreci&oacute; a 22 pesos con 99 centavos el litro, con una ganancia &uacute;nicamente de 17 centavos. Gracias por este esfuerzo a Los Pinos, que repite nuevamente all&aacute; en Coahuila. Tenemos tambi&eacute;n casos como Pemex en Chihuahua, Hidalgo y Guerrero; G500 en Michoac&aacute;n y Yucat&aacute;n, e Eagle Gas, en Sinaloa, y Valero, una vez m&aacute;s, en Veracruz.</p>
+
+<p>Pasamos ahora el di&eacute;sel y la importancia que este combustible tiene en la econom&iacute;a nacional, y otra vez tenemos una franquicia de Arco, esta de corporativo&nbsp;Enervisi&oacute;n, quienes de los 26 peso con 36 centavos que pidieron por litro vendido, se embolsaron cuatro pesos con 35 centavos de ganancia, esto all&aacute; en Hermosillo; pero, por el contrario, tenemos el caso de G500, que en el otro extremo del pa&iacute;s, all&aacute; en M&eacute;rida, ofreci&oacute; el litro de di&eacute;sel en 24 pesos con 40 centavos y &uacute;nicamente 15 centavos de ganancia.</p>
+
+<p>Y, ojo, como lo mencionado estos datos son referentes y no quiere decir que alguien de Sonora vaya a cargar a Yucat&aacute;n, pero s&iacute; saber, como consumidor informado, que siempre existir&aacute;n opciones en menos de 10 kil&oacute;metros a la redonda m&aacute;s baratas en su propia ciudad, como, por ejemplo,&nbsp;RedPetroil, en Sinaloa, Valero, en Tampico, Pemex, en Chiapas; o&nbsp;Carvel, en Chihuahua, con precios, en este caso, del di&eacute;sel por debajo de los 24.50.</p>
+
+<p>Pasando ahora al tema de verificaci&oacute;n, debo decirles que atendimos 317 denuncias durante la primera semana de febrero, realizamos 382 verificaciones o visitas de constataci&oacute;n. Una gasolinera se neg&oacute; a ser verificada en Tijuana, otra m&aacute;s se neg&oacute; a que se le colocaran los sellos de inmovilizaci&oacute;n en Tulancingo, Hidalgo.&nbsp;Y encontramos cinco estaciones que no daban litros de a litro, esto en Guanajuato, Nuevo Le&oacute;n, Chiapas y dos en el Estado de M&eacute;xico.</p>
+
+<p>Ahora bien, en cuanto al qui&eacute;n es qui&eacute;n en el precio del gas LP, tenemos que, con corte al 7 de febrero, en el caso de gas por kil&oacute;gramo, este se cotiz&oacute; a nivel internacional en 22 pesos con 76 centavos, frente al precio promedio nacional en el que se vendi&oacute; en M&eacute;xico de solamente 19 pesos con 67 centavos, en el caso del gas por litro este se cotiz&oacute; en el exterior en 12 pesos con 31 centavos frente a los 10 pesos con 62 centavos por litro promedio a nivel nacional.&nbsp;</p>
+
+<p>En general es una buena semana, pues en las 220 regiones en las que la CRE ha dividido al pa&iacute;s para determinar los precios m&aacute;ximo, estos se cumplieron en cuanto a las 797 visitas que realizamos e incluso nos encontramos con algunos casos interesantes, por ejemplo, en Zihuatanejo, Guerrero, en donde el litro de gas LP, en el caso de GG-Gas, quien lo vendi&oacute; en 10 pesos con siete centavos, por ejemplo, 57 centavos por debajo de su precio m&aacute;ximo por regi&oacute;n y as&iacute; otros casos parecidos en Zacatecas, Guanajuato, Jalisco y Sinaloa.</p>
+
+<p>Y lo mismo en el gas en cilindros, el que se vende por kilo, pues encontramos casos en Jalisco, Tamaulipas, Chiapas, entre otros. Pero llam&oacute; la atenci&oacute;n el caso, nuevamente, de Gas Providencia,&nbsp;que&nbsp;en San Luis de la Paz, en Guanajuato, vendi&oacute; en 18.42 pesos el kilo, 64 centavos por debajo de su precio m&aacute;ximo.</p>
+
+<p>Finalmente, en temas de verificaci&oacute;n sobre gas LP, entre el 3 y el 9 de febrero informamos que, de las 797 verificaciones ya mencionadas, resultaron con infracci&oacute;n seis; se inmoviliz&oacute; un veh&iacute;culo, as&iacute; como 10 instrumentos de medici&oacute;n y 10 cilindros por condiciones de inseguridad.</p>
+
+<p>Ahora pasamos al qui&eacute;n es qui&eacute;n es los precios de la canasta b&aacute;sica, en donde vemos que la estabilidad se mantiene, sobre todo en la l&iacute;nea de los precios m&aacute;ximos obtenida en la &uacute;ltima semana y&nbsp;sobre todo, como lo hemos enfatizado desde hace cinco semanas, entre los precios m&iacute;nimos, siempre por debajo del &Iacute;ndice Nacional de Precios al Consumidor en el rubro de alimentos, y donde podemos informar que estamos en un promedio, se&ntilde;or presidente, de 834 pesos por canasta de los 24 productos que la integran. Subrayo, son 24 productos que juntos conforman esta canasta b&aacute;sica y que es un referente para cualquier parte del pa&iacute;s en una familia promedio de cuatro personas y con los criterios nutrimentales m&iacute;nimos &oacute;ptimos para cada persona que la integra.</p>
+
+<p>Pero pasemos ahora a los datos por zonas, y en el caso de la zona norte nos encontramos con que, del 29 de enero al 2 de febrero, Chedraui, centro sur, en Quer&eacute;taro, ofreci&oacute; en mil 31 pesos con 40 centavos la canasta, frente a Bodega Aurrera, 11 sur, all&aacute; en Puebla, en la capital, y esta empresa de Grupo Walmart, que andan con todo, como les dec&iacute;a cuando el d&iacute;a de la premiaci&oacute;n, est&aacute;n enfatizando con precios bastante bajos, y dio esta canasta en 754 pesos con 40 centavos.</p>
+
+<p>Un poquito m&aacute;s al norte, en la zona centro norte, y en el mismo periodo de monitoreo, Chedraui Altozano, all&aacute; en Morelia, ofreci&oacute; esta canasta en 944 pesos con 90 centavos; y en contraste, Bodega Aurrera, una vez m&aacute;s all&aacute; en Guadalajara, la tuvo &uacute;nicamente en 757 pesos con 60 centavos.</p>
+
+<p>En la zona norte, tenemos una vez m&aacute;s a Casa Ley con la canasta en mil 10 pesos con 55 centavos, ah&iacute; en Saltillo, Coahuila; y, por el contrario, en esa misma zona, pero en Chihuahua, en la capital, otra vez Walmart sucursal Fuentes Mares, con la misma, en &uacute;nicamente 778 pesos con 90 centavos.</p>
+
+<p>Finalmente, desplaz&aacute;ndonos hacia la zona sur del pa&iacute;s, tenemos que la central de abastos de M&eacute;rida se ubic&oacute; con el precio de la canasta en mil 37 pesos con 20 centavos, y aparece nuevamente en el puerto de Veracruz, Soriana H&iacute;per, en su sucursal Floresta, con un precio muy interesante de 819 pesos con 17 centavos.</p>
+
+<p>Y como bien lo coment&oacute; el se&ntilde;or presidente, la semana pasada esta instituci&oacute;n, Profeco, cumpli&oacute; 48 a&ntilde;os, 48 a&ntilde;os que se dicen f&aacute;cil, pero son 48 a&ntilde;os de servir a millones, millones y millones de consumidoras y consumidores. Pero, sobre todo, debo de felicitar a todas mis compa&ntilde;eras y compa&ntilde;eros quienes, a su vez, nos felicitamos, se&ntilde;or presidente, por el compromiso que tenemos, pero sobre todo la confianza que estrat&eacute;gicamente ha dado a esta instituci&oacute;n a lo largo de estos primeros cinco a&ntilde;os para ser parte de la transformaci&oacute;n del pa&iacute;s. Para ello, tenemos un video, si usted lo permite.</p>
+
+<p>(INICIA VIDEO)</p>
+
+<p>VOZ MUJER:&nbsp;A finales de los a&ntilde;os 70 se cre&oacute; el Instituto Nacional del Consumidor. El INCO reformul&oacute; y reinvent&oacute; una nueva forma de pensamiento y de actuar en respeto con nuestra comunidad y con el medioambiente.</p>
+
+<p>1976 fue un buen a&ntilde;o para el consumidor mexicano: mientras que el INCO promov&iacute;a el consumo como derecho humano, paralelamente&nbsp;se cre&oacute; la Ley Federal de Protecci&oacute;n al Consumidor y con ella la Procuradur&iacute;a Federal del Consumidor, convirtiendo a M&eacute;xico en el segundo pa&iacute;s en Am&eacute;rica Latina en contar con certeza jur&iacute;dica en la protecci&oacute;n de los derechos de consumo. Fue en 1992 que ambas instituciones, IMCO y Profeco se fusionaron para que el trabajo conjunto tuviera mayor impacto e influencia, con un alcance promedio mensual de m&aacute;s de nueve millones de personas.</p>
+
+<p>La Revista del Consumidor es considerada hoy en d&iacute;a uno de los medios de comunicaci&oacute;n del gobierno m&aacute;s relevante en el pa&iacute;s y referente para otras agencias de protecci&oacute;n al consumidor a nivel internacional.</p>
+
+<p>El programa &lsquo;Qui&eacute;n es qui&eacute;n en los precios&rsquo; es uno de los m&aacute;s importantes de la instituci&oacute;n y en la actual administraci&oacute;n se consolid&oacute; como una herramienta que ayuda al Gobierno de M&eacute;xico a mantener estabilidad en los precios de combustibles y evitar la carest&iacute;a en productos b&aacute;sicos.</p>
+
+<p>Est&eacute;s en donde est&eacute;s, Profeco te defiende con oficinas en las 38 zonas comerciales m&aacute;s importantes del pa&iacute;s. El tel&eacute;fono del consumidor, reconocido medio de&nbsp;contacto,&nbsp;atiende mensualmente a m&aacute;s de 100 mil consumidores. Acercamos informaci&oacute;n veraz sobre los productos de mayor consumo con los estudios de calidad, siendo Profeco la &uacute;nica agencia de protecci&oacute;n que cuenta con su propio laboratorio de investigaci&oacute;n y una estrategia de verificaci&oacute;n y vigilancia permanente, adem&aacute;s de contar con la certificaci&oacute;n oficial para calibrar instrumentos de medici&oacute;n, b&aacute;sculas, bombas de gasolina, relojes y m&aacute;s.</p>
+
+<p>El trabajo de la Procuradur&iacute;a Federal del Consumidor ha tomado una relevancia mayor en este sexenio gracias a la confianza del gobierno de presidente L&oacute;pez Obrador. Y en este 2024 Profeco cumple 48 a&ntilde;os transformando la industria y agregando calidad y bienestar a la vida de los consumidores de M&eacute;xico.&nbsp;</p>
+
+<p>VOZ DE MUJER:&nbsp;Procuradur&iacute;a Federal del Consumidor.</p>
+
+<p>(FINALIZA VIDEO)</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Felicidades.</p>
+
+<p>&Oacute;SCAR DAVID LOZANO &Aacute;GUILA, DIRECTOR GENERAL DEL TREN MAYA:&nbsp;Muy buenos d&iacute;as. Con su permiso, se&ntilde;or presidente. Buenos d&iacute;as a todas y a todos.&nbsp;</p>
+
+<p>La verdad, es un gusto estar aqu&iacute; con ustedes nuevamente. La Secretar&iacute;a de la Defensa Nacional va a informar c&oacute;mo estamos operando hasta el d&iacute;a de la fecha, hasta el 11 de febrero, que como cerramos las operaciones el d&iacute;a de ayer.</p>
+
+<p>Ustedes han conocido c&oacute;mo hemos estado operando diariamente en el Tren Maya, proporcionando servicios, precisamente en los primeros d&iacute;as de Canc&uacute;n a San Francisco de Campeche y retorno, en dos horarios, 7:00 y 11:00 de la ma&ntilde;ana; y, posteriormente, desde el 1&ordm; de enero hasta el d&iacute;a de hoy hemos funcionado tambi&eacute;n con cuatro servicios que corren desde Canc&uacute;n hasta Palenque y de Palenque a Canc&uacute;n, en horarios de 7:00 y 9:00 de la ma&ntilde;ana.</p>
+
+<p>&iquest;C&oacute;mo estamos operando?</p>
+
+<p>Precisamente con trenes de servicio regular de cuatro coches, trenes di&eacute;sel con capacidad para 221 pasajeros.&nbsp;Al d&iacute;a de hoytenemos en operaci&oacute;n cinco trenes: mantenemos cuatro de manera continua en uso y uno de reserva.</p>
+
+<p>Debo de agradecer much&iacute;simo a la cantidad de gente que ha asistido y que se ha subido al tren. En estos 55 d&iacute;as de operaciones hemos tenido la capacidad de transportar a 50 mil 976 pasajeros; se dice f&aacute;cil, pero eso es en promedio, 927 personas diarias movi&eacute;ndose a trav&eacute;s de los cuatro trenes, suben y bajan.</p>
+
+<p>El promedio de ocupaci&oacute;n es interesant&iacute;simo, un 84 por ciento de ocupaci&oacute;n, 186 pasajeros en promedio. En cada una de las estaciones se suben y bajan. Hemos cumplido con los horarios y eso es importante, que sepan que el tren se est&aacute; moviendo conforme&nbsp;a los horarios programados, llegando a la hora que se dice y saliendo precisamente para garantizar un servicio de calidad.</p>
+
+<p>Nuestros pasajeros, si los dividimos por hombres y mujeres, aqu&iacute; est&aacute;n, 27 mil 851 mujeres, 23 mil 125 hombres; adultos, 47 mil 881 y tres mil 95 ni&ntilde;os.&nbsp;</p>
+
+<p>Y aqu&iacute; una parte importante, se ha vendido m&aacute;s en&nbsp;taquilla&nbsp;que en l&iacute;nea. Eso es c&oacute;mo estamos operando al d&iacute;a de la fecha y por tipo de tarifa, porque tambi&eacute;n es importante que sepan que se ofrece el servicio diferenciado, los pasajeros especiales, maestros, estudiantes, personas de la tercera edad, tambi&eacute;n personas de movilidad reducida se est&aacute;n moviendo a trav&eacute;s del tren; 19 mil 890 pasajeros locales, aquellos que utilizan para trasladarse de un lugar a otro por razones de trabajo o simplemente por comodidad, 20 mil 456 turistas nacionales y apenas mil 787 turistas internacionales</p>
+
+<p>La siguiente l&aacute;mina, por favor. Ah&iacute; vemos los destinos o las rutas que tienen mayor demanda. Sigue comport&aacute;ndose de manera consistente desde M&eacute;rida a Teya al Canc&uacute;n-Aeropuerto, cuatro mil 872 personas que compran boleto en esa ruta.</p>
+
+<p>San Francisco de Campeche a M&eacute;rida-Teya; Canc&uacute;n-Aeropuerto-M&eacute;rida-Teya, M&eacute;rida-Teya a San Francisco de Campeche, Canc&uacute;n-Aeropuerto-Valladolid, y as&iacute; observamos que todas las rutas que atiende el Tren Maya han tenido&nbsp;demanda. Eso es importante, porque nos va dando una semblanza de c&oacute;mo debemos de operar los trenes, c&oacute;mo vamos a operar posteriormente ya la demanda para atender cu&aacute;les son las mayores o las mejores rutas para atender la demanda de los pasajeros.</p>
+
+<p>Ah&iacute; vemos los destinos con mayor demanda: en primer&nbsp;lugar&nbsp;es M&eacute;rida-Teya, con 13 mil 155 pasajeros; en segundo lugar Canc&uacute;n-Aeropuerto, con 12 mil 238; en tercer lugar Campeche-San Francisco de Campeche, nueve mil 400 pasajeros; Valladolid con cinco mil 221 y Palenque con tres mil 755.</p>
+
+<p>Todo este movimiento de gente est&aacute; ayudando tambi&eacute;n a las visitas a las zonas arqueol&oacute;gicas, a los lugares tur&iacute;sticos, de tal suerte que estamos teniendo, de verdad, o cumpliendo el compromiso de atender precisamente el transporte de pasajeros a lo largo de toda la ruta del Tren Maya.</p>
+
+<p>Estos son los recorridos, la suma del kilometraje que se ha recorrido. Se dice f&aacute;cil hablar de 158 mil kil&oacute;metros, eso es lo que se ha recorrido, utilizando los cinco trenes que tenemos en operaci&oacute;n, los primeros cuatro ya cercanos a los 40 mil kil&oacute;metros y el &uacute;ltimo que acaba de entrar en operaci&oacute;n, el D005, que lleva cuatro mil 300 kil&oacute;metros recorridos. Esa es la suma del esfuerzo que est&aacute; haciendo el Tren Maya.</p>
+
+<p>En la siguiente l&aacute;mina podemos platicarles a ustedes que el 28 de febrero se har&aacute; un recorrido de supervisi&oacute;n que tiene un punto importante, que va a diferenciar el resto de las rutas. Lo que vamos a hacer es recorrer toda esta distancia con mayor velocidad, pero siempre manteniendo la premisa de la seguridad, vamos a ir incrementando la velocidad de 120 a 140 kil&oacute;metros por hora en una ruta que iniciar&aacute; en Palenque a las 7:00 de la ma&ntilde;ana, y terminaremos en Canc&uacute;n.&nbsp;</p>
+
+<p>Debemos de comprender que el tren se desplaza en cierta velocidad en los tramos en donde es posible. Cuando tienes que entrar a una estaci&oacute;n, hay que disminuir la velocidad. Uno dice: si sumamos todos los tiempos de recorrido&hellip; Quisi&eacute;ramos que el tren funcionara a los 140 kil&oacute;metros de manera constante; sin embargo, no es posible porque tenemos que bajar la velocidad para entrar a una estaci&oacute;n y al tener 22 estaciones a lo largo de la ruta&hellip; Cuando tengamos posibilidad de hacer recorridos directos, es decir, cuando podamos hacer de Canc&uacute;n a M&eacute;rida directamente, pues vamos a reducir dr&aacute;sticamente los tiempos, porque no vamos a tener que entrar en desviada en cada una de las estaciones y eso nos va a permitir ser un poco m&aacute;s o m&aacute;s, mucho m&aacute;s eficientes en la administraci&oacute;n de los tiempos de los recorridos. Esta va a ser una prueba muy importante.</p>
+
+<p>Y tambi&eacute;n, comentarles &mdash;la siguiente l&aacute;mina&mdash; como ya lo ha anunciado el se&ntilde;or presidente de la Rep&uacute;blica, el d&iacute;a 29 de febrero vamos a inaugurar precisamente el tramo de Canc&uacute;n-Playa Carmen. Y es de Canc&uacute;n aeropuerto, que es una estaci&oacute;n muy importante, es la puerta de entrada a la ruta del Tren Maya; Puerto Morelos y Playa del Carmen, estas tres estaciones o estas dos, se estar&aacute;n incorporando a todo el circuito ferroviario, tendremos 24 estaciones en operaci&oacute;n de las 34 que comprenden el circuito ferroviario.</p>
+
+<p>Y vamos a ofrecer horarios. Y aqu&iacute; hay una parte important&iacute;sima, que es destinar el tren muy de ma&ntilde;ana, muy temprano, para transportar a la gente que trabaja en la Riviera Maya, esto nos instruy&oacute; el se&ntilde;or presidente de la Rep&uacute;blica cubrirlo, de tal suerte que podamos brindar ese servicio a las 6:00 de la ma&ntilde;ana para salir a Playa del Carmen y en horario tur&iacute;stico ser&aacute; de 9:00, 12:00 y 15:00 horas.</p>
+
+<p>La salida desde Playa del Carmen: 7:30 de regreso de Playa de Carmen hacia Canc&uacute;n, y de 10:30 a 13:30 y 16:30 horas de Paya del Carmen a Canc&uacute;n. Esta es el tramo que se va a inaugurar de doble v&iacute;a, de 50.57 kil&oacute;metros y el 29 de febrero estaremos&nbsp;dando inicio a&nbsp;las operaciones.</p>
+
+<p>Tambi&eacute;n &mdash;la siguiente l&aacute;mina&mdash;&nbsp;informarles&nbsp;que es importante que sepan que s&iacute; hay servicio. De repente han aparecido p&aacute;ginas que no son las de venta de boletos. La p&aacute;gina web del Tren Maya es&nbsp;<a href="http://www.trenmaya.gob.mx/">www.trenmaya.gob.mx</a>, desde ah&iacute; podemos acceder a la compra de boletos, para adquirir boletos en tarifas nacionales e internacionales, en viajes sencillos, en viajes redondos.</p>
+
+<p>La mayor&iacute;a de la gente acude a las taquillas. Tenemos 14 taquillas en 14 estaciones operando en este momento y tambi&eacute;n estamos incorporando estas dos, estaremos incorporando el 1&ordm; de marzo Puerto Morelos y Canc&uacute;n; y en puntos comerciales: en la Torre N&iacute;a,en M&eacute;rida,&nbsp;y la Plaza Galer&iacute;as,&nbsp;en San Francisco de Campeche, estamos tambi&eacute;n vendiendo boletos. Realmente, hemos tenido una respuesta muy importante de la gente.</p>
+
+<p>Y en la siguiente l&aacute;mina&nbsp;decirles&nbsp;que vamos a inaugurar la fase n&uacute;mero 3 el 29 de febrero, y vamos a tener oportunidad de conocer muchos lugares: la zona arqueol&oacute;gica de San Miguelito, la de El Rey, los manglares de Nichupt&eacute;, el arrecife de Puerto Morelos. Hay tantas cosas que ver,&nbsp;que de verdad que tenemos que aprovechar la disponibilidad del Tren Maya.</p>
+
+<p>Muchas gracias, se&ntilde;or presidente. Pasar&iacute;amos un peque&ntilde;o video relacionado con estos d&iacute;as de operaci&oacute;n&nbsp;</p>
+
+<p>(INICIA VIDEO)</p>
+
+<p>VOZ HOMBRE:&nbsp;El Tren Maya contin&uacute;a su recorrido por el sureste de M&eacute;xico. Del 16 de diciembre de 2023 al 11 de febrero de 2024 el Tren Maya ha transportado a 50 mil 976 pasajeros, brindando un servicio de calidad c&oacute;modo, seguro y eficiente.&nbsp;</p>
+
+<p>INTERVENCI&Oacute;N HOMBRE:&nbsp;Los invitamos a los que tengan la oportunidad. Est&aacute; incre&iacute;ble, moderno, mucha seguridad y, la verdad, nunca me hab&iacute;a sentido en un lugar tan seguro como aqu&iacute;, as&iacute; que escogimos el mejor lugar de la Rep&uacute;blica para venir a conocer el Tren Maya.&nbsp;</p>
+
+<p>VOZ HOMBRE:&nbsp;En estos 55 d&iacute;as de operaci&oacute;n el Tren Maya ha conectado a algunos de los destinos m&aacute;s importantes del sureste mexicano, promoviendo la riqueza natural y cultural de la regi&oacute;n entre los 22 mil 243 turistas nacionales e internacionales. Adem&aacute;s, ha brindado conectividad a los 19 mil 890 usuarios locales que utilizan el Tren Maya como un medio de transporte interurbano.</p>
+
+<p>(FINALIZA VIDEO)</p>
+
+<p>LUISA MAR&Iacute;A ALCALDE, SECRETARIA DE GOBERNACI&Oacute;N:Con su permiso, presidente. Compa&ntilde;eras, compa&ntilde;eros de los medios de comunicaci&oacute;n y de los que nos ven a trav&eacute;s de las redes sociales:</p>
+
+<p>La idea el d&iacute;a de hoy es poder entrar un poquito m&aacute;s a fondo sobre la propuesta de reforma al Poder Judicial, es una de las principales reformas que ha propuesto el presidente de M&eacute;xico y que hoy se est&aacute;n discutiendo en la C&aacute;mara de Diputados.</p>
+
+<p>Tiene que ver con una reforma que responda al reclamo del pueblo de M&eacute;xico de contar con una instituci&oacute;n, un Poder Judicial que imparta justicia, que sea independiente, que est&eacute; legitimado, pero sobre todo que resuelva sus problem&aacute;ticas con independencias, ajeno a intereses privados, que tenga la sensibilidad de conocer cu&aacute;les son las problem&aacute;ticas que est&aacute; viviendo la ciudadan&iacute;a, que abone a combatir la impunidad y tambi&eacute;n un &oacute;rgano que pueda ser vigilado como cualquier servidor p&uacute;blico de que no se act&uacute;e al margen de la ley y con actos de corrupci&oacute;n.</p>
+
+<p>Entonces, los objetivos de la reforma de forma m&aacute;s concreta:</p>
+
+<p>Primero, est&aacute; una nueva integraci&oacute;n de la Suprema Corte de Justicia de la Naci&oacute;n, para que pueda ser m&aacute;s eficiente, austera, transparente, trat&aacute;ndose del m&aacute;ximo tribunal en nuestro pa&iacute;s.</p>
+
+<p>Segundo, la elecci&oacute;n popular de ministros, magistrados y jueces, es decir, que cuenten con una legitimidad democr&aacute;tica a partir del voto popular.</p>
+
+<p>N&uacute;mero tres, la sustituci&oacute;n del Consejo de la Judicatura Federal. No solamente dividir en dos nuevas instituciones, sino que realmente se garantice que se cuente con instancias para poder tener una vigilancia.</p>
+
+<p>Y, finalmente, nuevas reglas, nuevas reglas que tienen que ver, uno, conque realmente la justicia sea expedita, es decir, r&aacute;pida, no lo que conocemos hoy como juicios interminables a trav&eacute;s de amparos y resoluciones.</p>
+
+<p>Y equilibrio de poderes. Otra de las problem&aacute;ticas que hemos venido viendo es c&oacute;mo el Poder Judicial se ha puesto por encima de los otros poderes, incluso llegando a desaparecer leyes aprobadas por el congreso.</p>
+
+<p>Primero, la nueva integraci&oacute;n de la Suprema Corte de Justicia de la Naci&oacute;n. En la reforma se establece se reduce el n&uacute;mero de ministras y de ministros. Hoy hay 11; no es necesario contar con esa cantidad, por eso se reduce a nueve integrantes.</p>
+
+<p>Tambi&eacute;n, se reduce el periodo de su encargo de 15 a 12 a&ntilde;os.</p>
+
+<p>Se desaparecen las dos salas. Hoy la Suprema Corte trabaja en dos salas y despu&eacute;s trabaja en pleno. La idea es desaparecer estas salas, que son muy opacas en la resoluci&oacute;n de sus conflictos, y que solamente se sesione en pleno a trav&eacute;s de sesiones que deber&aacute;n ser p&uacute;blicas, transparentes, todas y todos tener la posibilidad de conocer qu&eacute; est&aacute;n determinando y decidiendo los ministros.</p>
+
+<p>Por el otro lado, se elimina la pensi&oacute;n vitalicia, el famoso haber de retiro para actuales y futuros ministros y ministras, que conocemos que se trata de haberes de retiro muy onerosos.</p>
+
+<p>Y, finamente, se reitera &mdash;hay que recordar que esto ya lo establec&iacute;a la Constituci&oacute;n, pero se&nbsp;vuelve a reiterar&nbsp;de manera mucho m&aacute;s clara&mdash; que las remuneraciones de los ministros, de las ministras deben&nbsp;ajustarse al tope m&aacute;ximo establecido en la Constituci&oacute;n, que es lo percibido por el presidente de la Rep&uacute;blica.</p>
+
+<p>Respecto a la elecci&oacute;n del voto popular tanto de ministros, de magistrados, como jueces, una cosa que establece la reforma es que va a haber una elecci&oacute;n extraordinaria, va a haber una elecci&oacute;n extraordinaria que se realizar&iacute;a, en caso de aprobarse en 2025, el pr&oacute;ximo a&ntilde;o, donde se renovar&iacute;an todos los jueces, las juezas, todos los magistrados y todos los ministros; es decir, por esa ocasi&oacute;n en esa elecci&oacute;n extraordinaria habr&iacute;a una votaci&oacute;n integral de todo el Poder Judicial. Y podr&aacute;n participar en esta elecci&oacute;n &mdash;por supuesto, si son propuestos&mdash; los actuales jueces, los actuales magistrados y tambi&eacute;n incluso los actuales ministros de la&nbsp;corte,podr&iacute;an estar en la boleta y podr&iacute;an ser votados.</p>
+
+<p>&iquest;C&oacute;mo se va a seleccionar el caso de los ministros de la Suprema Corte, tambi&eacute;n de los magistrados del Tribunal Electoral y de esta figura nueva que es el Tribunal de Disciplina, que habremos de tocar m&aacute;s adelante?</p>
+
+<p>Se van a elegir a nivel nacional en las elecciones, primero en esta extraordinaria y despu&eacute;s en las ordinarias, a partir de estas propuestas, el Poder Ejecutivo va a proponer 10 candidatos, el Poder Legislativo va a proponer 10, cinco la C&aacute;mara de Diputados y cinco la C&aacute;mara de Senadores, y el Poder Judicial, a trav&eacute;s de la Suprema Corte de Justicia a va a proponer 10 candidatos. Estos 30 se integrar&aacute;n para cada una de estas carteras, de estos espacios, para poder elegir a los ministros y a los magistrados del Tribunal Electoral y del Tribunal de Disciplina.&nbsp;</p>
+
+<p>En el caso de los mil 633 magistrados de circuito y jueces de distrito, que esa es la cantidad que existe actualmente, se va a elegir en cada uno de los 32 circuitos judiciales. Es decir, cuando se trate de ministros, todas y todos los mexicanos vamos a votar por los ministros de la corte; trat&aacute;ndose de los magistrados y jueces, a uno le tocar&aacute; votar por los jueces y magistrados que correspondan a su circuito judicial, es decir, pr&aacute;cticamente a su entidad federativa.</p>
+
+<p>El proceso electoral y los resultados de la elecci&oacute;n, el Senado de la Rep&uacute;blica es el encargado de verificar que las candidaturas cumplan con los requisitos de la ley. Mucho se ha hablado de qui&eacute;nes podr&aacute;n ser candidatos. La ley establece que tiene que cumplir los requisitos, por ejemplo, de contar con la licenciatura, de tener experiencia en la materia, y es el Senado el que va a hacer esta evaluaci&oacute;n de que se cumpla con dichos requisitos. Y es el Instituto Nacional de Elecciones y Consultas, el INEC, en caso de que se apruebe la reforma electoral &mdash;el INE se transforme en el INEC&mdash;, quien va a organizar le elecci&oacute;n.</p>
+
+<p>Hay que recordar que va a haber una elecci&oacute;n extraordinaria, pero despu&eacute;s todas estas elecciones se van a ir empatando a las elecciones ordinarias, tanto las intermedias como para presidente de la Rep&uacute;blica.&nbsp;</p>
+
+<p>Las campa&ntilde;as duran 60 d&iacute;as, no habr&aacute; una etapa de precampa&ntilde;as.</p>
+
+<p>Y no se permite el financiamiento p&uacute;blico privado, las personas candidatas tendr&aacute;n acceso a tiempos de radio y de televisi&oacute;n para poder difundir propuestas y podr&aacute;n participar en foros de debate.</p>
+
+<p>Los partidos pol&iacute;ticos no podr&aacute;n realizar proselitismo a favor o en contra de alguna candidatura, es un proceso ajeno a los partidos pol&iacute;ticos.&nbsp;</p>
+
+<p>Y el Tribunal Electoral del Poder Judicial es quien va a resolver las impugnaciones y va a declarar los resultados, salvo cuando se trate de sus propios integrantes, porque hay que recordar que tambi&eacute;n el Tribunal Electoral se integra por magistrados electos por voto popular, as&iacute; que en el caso del Tribunal&nbsp;Electoral le tocar&aacute; a la Suprema Corte de Justicia de la Naci&oacute;n ser la autoridad responsable de validar los resultados.</p>
+
+<p>Tenemos tambi&eacute;n reglas espec&iacute;ficas en caso de ausencia definitiva de alg&uacute;n ministro, de alg&uacute;n magistrado o alg&uacute;n juez: el Senado designar&aacute; por mayor&iacute;a calificada a una persona interina. Esta persona va a estar en tanto que se realice la nueva elecci&oacute;n ordinaria; no se va a hacer una elecci&oacute;n cada que falta un magistrado, o un juez o un ministro, sino que habr&aacute; interinos, y una vez que llegue la elecci&oacute;n ordinaria, entonces ah&iacute; se votar&aacute;n los ministros, magistrados o jueces que tengan ausencias definitivas.</p>
+
+<p>Para ministros de la Suprema Corte, magistrados del Tribunal de Disciplina, el Ejecutivo federal es quien propone la terna, como sucede actualmente; para magistrados de circuito y jueces, el &oacute;rgano administrativo propone la terna; y para magistrados electorales, le toca a la Suprema Corte de Justicia proponer esta terna para los interinatos.</p>
+
+<p>Y luego, tenemos este, que es un elemento fundamental en la reforma: parte del gran problema que tenemos en el Poder Judicial es la falta de vigilancia, es que el actual Consejo de la Judicatura Federal no tiene la posibilidad &mdash;o s&iacute; la tiene, pero no la ejerce&mdash; de realmente vigilar una actuaci&oacute;n correcta por parte de los juzgadores y por eso hemos visto tantas cosas en estos a&ntilde;os.</p>
+
+<p>Se integra este Tribunal de Disciplina Judicial por cinco magistrados electos por voto popular, es decir, d&aacute;ndoles independencia al ejercer sus decisiones. Es una elecci&oacute;n por seis a&ntilde;os, propuesta por los Poderes de la Uni&oacute;n, ya dijimos, por el Ejecutivo, por el Legislativo y por Judicial.</p>
+
+<p>Podr&aacute; recibir denuncias de cualquier persona, de cualquier ciudadanos o de cualquier autoridad, y va a investigar, va a investigar tanto a ministros, magistrados, jueces y personal judicial por actos contrarios a la ley, al inter&eacute;s p&uacute;blico o a la administraci&oacute;n de justicia, incluyendo hechos de corrupci&oacute;n, tr&aacute;fico de influencias, nepotismo, complicidad o encubrimiento de personas delincuentes, o cuando sus resoluciones no se ajusten a los principios de objetividad, imparcialidad, independencia, profesionalismo o excelencia. Las sanciones incluyen desde amonestaciones, pueden ser multas, pueden ser suspensiones, pueden ser, incluso, destituciones.&nbsp;</p>
+
+<p>En el caso espec&iacute;fico de los ministros, el Tribunal de Disciplina no podr&aacute; llegar a destituirlos, pero s&iacute; puede presentar un juicio pol&iacute;tico ante el congreso para que se lleve el procedimiento, pero s&iacute; puede destituir en el caso de jueces y magistrados cuando acredite alguna de estas actuaciones fuera de la ley.</p>
+
+<p>Entonces, tenemos este Tribunal de Disciplina que se va a encargar exclusivamente de la vigilancia, del buen actuar de los jueces y magistrados, y aparte tenemos el &Oacute;rgano de Administraci&oacute;n.</p>
+
+<p>Hoy estas tareas se combinan en el Consejo de la Judicatura. Y aparte no tienen independencia, porque el Consejo de la Judicatura se integra por siete, y la presidenta o el presidente de la Suprema Corte es la cabeza del Consejo de la Judicatura y eso genera varios conflictos de inter&eacute;s. Por ello, va a tener autonom&iacute;a, la Suprema Corte no va a participar en el Tribunal de Disciplina y tampoco va a participar en el &oacute;rgano administrativo.</p>
+
+<p>El &Oacute;rgano de Administraci&oacute;n Judicial se integra por cinco personas designadas por un periodo de seis a&ntilde;os por parte de los Poderes de la Uni&oacute;n: el Poder Ejecutivo nombrar&aacute; uno, el Senado nombrar&aacute; uno, y la Suprema Corte nombrar&aacute; a tres, responsables de funcionamientos administrativos, de la carrera judicial, del control interno, as&iacute; como de elaborar los presupuestos del Poder Judicial.</p>
+
+<p>Nuevas reglas. Tambi&eacute;n, no solamente es c&oacute;mo se integra el Poder Judicial, sino nuevas reglas necesarias para el buen funcionamiento:</p>
+
+<p>Uno, justicia expedita. Una de las grandes problem&aacute;ticas que tenemos es que pasan los a&ntilde;os, se pasan los plazos y no pasa absolutamente nada. Entonces, se establece un plazo m&aacute;ximo de seis meses para que los jueces puedan resolver en el caso de asuntos fiscales y un a&ntilde;o para el caso de asuntos penales.</p>
+
+<p>En el caso en el que se rebasen estos plazos, los juzgadores tienen que justificarle al Tribunal de Disciplina cu&aacute;les fueron las razones por las cuales se excedieron los plazos sin haber resuelto previamente. Y el Tribunal de Disciplina va a investigar si en efecto hubo circunstancias que lo justifiquen; y si no, como ya dijimos, puede incluso sancionar.</p>
+
+<p>Segundo elemento important&iacute;simo, el tema de las famosas suspensiones. Se proh&iacute;be otorgar suspensiones contra leyes con efectos generales en amparos, controversias constitucionales y acciones de inconstitucionalidad.</p>
+
+<p>Vamos a poner algunos ejemplos muy recientes: dos ministros de la corte anularon los efectos de la ley el&eacute;ctrica, un ministro decidi&oacute; que no se entregaran los libros de texto. O los propios fideicomisos, &iquest;no?, los fideicomisos, pasa una ley para que los fideicomisos del Poder Judicial sean regresados a la tesorer&iacute;a y hay una suspensi&oacute;n de amparo.</p>
+
+<p>Entonces, todas estas decisiones que emanan de la mayor&iacute;a del Congreso de la Uni&oacute;n, que son votados por voto popular, no pueden ser suspendidos&nbsp;a priori&nbsp;por parte de jueces, magistrados y ministros, y por eso se hace expreso en la Constituci&oacute;n.</p>
+
+<p>Por el otro lado, en el caso de la justicia local, los poderes judiciales de las entidades federativas deber&aacute;n establecer reglas para la elecci&oacute;n directa de sus magistrados y jueces. Es decir, es una reforma que implica tambi&eacute;n la misma renovaci&oacute;n y los mismos procedimientos para la justicia local en las entidades federativas.</p>
+
+<p>Y, finalmente, el tema de los fideicomisos del Poder Judicial. Una vez que concluyan los juicios pendientes, deber&aacute;n reintegrarse al Fondo de Pensiones para el Bienestar. Pero se establece claramente, ya no en la ley, como sucedi&oacute;, sino en la Constituci&oacute;n, que no puede haber fideicomisos y que todos los derechos laborales, por supuesto, est&aacute;n garantizados a trav&eacute;s del presupuesto federal.</p>
+
+<p>Eso es, presidente, los ejes de la reforma. Es&nbsp;cuanto.</p>
+
+<p>PREGUNTA:&nbsp;Buenos d&iacute;as, presidente; buenos d&iacute;as a todas y a todos.</p>
+
+<p>Nancy Flores, de la revista&nbsp;Contral&iacute;nea.</p>
+
+<p>Presidente, en la revista&nbsp;Contral&iacute;nea&nbsp;tuvimos acceso al informe preliminar de la Auditor&iacute;a Superior de la Federaci&oacute;n sobre esta fiscalizaci&oacute;n que se hizo al Instituto Nacional de Transparencia. Y, entre otras cosas, se encontr&oacute; que en el ejercicio fiscal 2022 los siete comisionados activos en ese momento habr&iacute;an incurrido en algunas presuntas irregularidades por 1.4 millones de pesos de presupuesto destinado a gastos de representaci&oacute;n, que son estas comidas que les paga el pueblo de M&eacute;xico, y tambi&eacute;n en viajes, viajes al interior de la Rep&uacute;blica y tambi&eacute;n al extranjero.</p>
+
+<p>En este sentido, nada m&aacute;s voy a referirme a un caso, el caso del comisionado presidente actual, que es Adri&aacute;n Alcal&aacute;. Y ah&iacute; se encuentra la auditor&iacute;a, entre otras cosas, que por estos gastos de representaci&oacute;n hay algunos gastos que se cubrieron con la tarjeta American Express en cantinas, estos son montos que van de tres mil a cuatro mil 500 pesos.</p>
+
+<p>Y nosotros entrevistamos al presidente del INAI, Adri&aacute;n Alcal&aacute;, para preguntarle sobre estos gastos, y &eacute;l dice que no ten&iacute;an ninguna prohibici&oacute;n de acudir a ciertos lugares, siempre y cuando no consumiera alcohol, asegura que en su caso no se consumi&oacute; alcohol, pese a estos montos.</p>
+
+<p>Entonces, presidente, preguntarle, porque estas revelaciones que hace ahora la Auditor&iacute;a Superior de la Federaci&oacute;n se suman a casos como el del gasto con esta tarjeta American Express que se hizo en su momento en un&nbsp;table dance&nbsp;por el entonces comisionado &Oacute;scar Guerra Ford. Y estas tarjetas fueron canceladas apenas despu&eacute;s de que&nbsp;Contral&iacute;nea&nbsp;revel&oacute; esta situaci&oacute;n.</p>
+
+<p>Usted ha mandado ya una iniciativa para reformarlo; m&aacute;s bien, para extinguir este tipo de organismos aut&oacute;nomos que, lejos de garantizar derechos, empiezan a comportarse de esta manera.</p>
+
+<p>Preguntarle, presidente, su opini&oacute;n al respecto en este contexto de la reforma y sobre todo de las campa&ntilde;as que buscan decirnos que institutos como el de la transparencia son fundamentales y sin ellos se va a caer el pa&iacute;s.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Bueno, pues ya conocen mi opini&oacute;n: todos estos organismos, la mayor&iacute;a de ellos, los crearon en el periodo neoliberal, cuando se tom&oacute; por asalto el gobierno y se puso el gobierno al servicio de una minor&iacute;a, delincuentes de cuello blanco. Necesitaban que el gobierno, de manera descarada, sin l&iacute;mites de ning&uacute;n tipo, estuviese al servicio de sus intereses, y eso fue lo que padecimos durante 36 a&ntilde;os.&nbsp;</p>
+
+<p>Es que es grav&iacute;simo, lo que pasa que, como fueron c&oacute;mplices la mayor&iacute;a de los medios de informaci&oacute;n, estas cosas no se difunden, no se dan a conocer, porque los medios eran parte de esta red de componendas y de complicidades.</p>
+
+<p>Pero es grav&iacute;simo que,&nbsp;en nuestro pa&iacute;s, en 36 a&ntilde;os, se hagan reformas a la Constituci&oacute;n general, a la carta magna, s&oacute;lo para legitimar el robo, la corrupci&oacute;n en contra de la mayor&iacute;a de los mexicanos. Si se hace una revisi&oacute;n de todas las reformas, una por una desde 1983 hasta el 2018 &mdash;y esto deber&iacute;a de ser un tema de investigaci&oacute;n en las escuelas de derecho, de ciencia social, en las universidades&mdash;, se van a encontrar c&oacute;mo desapareci&oacute; el inter&eacute;s p&uacute;blico, que debe estar en el esp&iacute;ritu de todas las leyes y se estableci&oacute; el predominio del inter&eacute;s particular.</p>
+
+<p>Entonces, para llevar a cabo toda esta operaci&oacute;n de convertir lo p&uacute;blico en privado crearon una estructura, un andamiaje paralelo al gobierno legal y empezaron a hablar de las nuevas pol&iacute;ticas p&uacute;blicas: la transparencia, el no permitir la preponderancia de un actor en el comercio, la econom&iacute;a, el no permitir los monopolios. Para eso, hab&iacute;a que crear un organismo. Y as&iacute; como se consideraron monopolios a Pemex, a la Comisi&oacute;n Federal de Electricidad, hab&iacute;a que crear organismos aut&oacute;nomos para darle el mismo trato, y en la mayor&iacute;a de los casos un trato m&aacute;s destacado a las empresas particulares, tratar mejor a Shell que a Pemex, tratar mejor a Iberdrola que a la Comisi&oacute;n Federal de Electricidad.</p>
+
+<p>En el asunto de las comunicaciones hicieron todo un esc&aacute;ndalo: que se iban a democratizar los medios de informaci&oacute;n, que no iban a haber agentes preponderantes o monopolios. Y todos los que hab&iacute;an ido a estudiar al extranjero, estas nuevas pol&iacute;ticas p&uacute;blicas se presentaban en los programas de radio con Aristegui, los que estaban de moda en ese entonces, a hablar tanto de la transparencia como del combate a los monopolios en la comunicaci&oacute;n.</p>
+
+<p>Crearon todas estas oficinas costos&iacute;simas y todo fue una simulaci&oacute;n, porque, si se hace una revisi&oacute;n despu&eacute;s de a&ntilde;os de haberse fundado todas estas oficinas, sobre su aporte si hay transparencia, si hay&nbsp;menos control monop&oacute;lico en los medios de comunicaci&oacute;n, pues vamos a encontrar que est&aacute; igual o peor, sigue lo mismo y, sin embargo, no dejan de ser muy costosos, onerosos.</p>
+
+<p>Y los servidores p&uacute;blicos est&aacute;n bien atendidos; funcionarios, no servidores, con sueldos elevad&iacute;simos, vi&aacute;ticos y todo esto, tarjetas para ir a restaurantes o bares.&nbsp;</p>
+
+<p>Entonces, todo eso queremos quitarlo. Desde luego, no les gusta. Pero el instituto de la informaci&oacute;n nunca vio nada de la corrupci&oacute;n que imperaba, nunca. &iquest;Conocen ustedes alguna denuncia? Al contrario, eran y siguen siendo&nbsp;tapaderas.</p>
+
+<p>Entonces, hay una iniciativa ahora para que dejen de existir todos esos institutos fachadas, y que estas funciones las cumpla el gobierno, como es su funci&oacute;n constitucional: que lo que tiene que ver con el otorgamiento de concesiones para medios de informaci&oacute;n,&nbsp;pues tenga que ver con la Secretar&iacute;a de Comunicaciones; que todas las oficinas de regulaci&oacute;n del sector energ&eacute;tico est&eacute;n en Pemex, en la Comisi&oacute;n Federal de Electricidad o en la Secretar&iacute;a de Energ&iacute;a; que la transparencia est&eacute; en la Secretar&iacute;a de la Funci&oacute;n P&uacute;blica, en el Poder Legislativo, en la Auditor&iacute;a Superior de la Federaci&oacute;n, o en la Fiscal&iacute;a General de la Rep&uacute;blica.</p>
+
+<p>Claro que hay instancias para actuar, en ninguna ley se dice que est&aacute; permitido robar, en ninguna ley se dice que se puede ir a un bar y utilizar dinero del presupuesto p&uacute;blico, que es dinero del pueblo, y no les pasa nada por lo mismo tambi&eacute;n, porque llega el Poder Judicial y Laynez dice &lsquo;no&rsquo;;&nbsp;su alteza seren&iacute;sima,&nbsp;Laynez,dice&nbsp;&lsquo;no&rsquo;.</p>
+
+<p>Por eso queremos llevar a cabo esta reforma. Y va a depender de los ciudadanos. &iquest;Quieren que todo esto contin&uacute;e? Bueno, pues que lo sepamos cuando se lleve a cabo la elecci&oacute;n, porque esta elecci&oacute;n pr&oacute;xima es, al mismo tiempo, un refer&eacute;ndum, un plebiscito, es: &iquest;Quieres que contin&uacute;e la transformaci&oacute;n o quieres que regresen los de antes, los corruptos? Y entonces, ah&iacute; empieza el debate.</p>
+
+<p>&iquest;Quieres que contin&uacute;e la transformaci&oacute;n?</p>
+
+<p>&lsquo;No, no, no quiero, porque pues ya no quiero tener un presidente como Andr&eacute;s Manuel vinculado al narco&rsquo;. &iquest;No ven cu&aacute;ntos mensajes se difundieron sobre eso? Millones.</p>
+
+<p>&lsquo;Quiero un presidente obediente, al servicio de la DEA, un servidor&nbsp;afanosito,&nbsp;de los potentados de M&eacute;xico. Quiero a alguien que sea sensato y que no est&eacute; diciendo que no hay clases, c&oacute;mo no, no somos iguales, el que no tiene nada es porque le ha ido mal, tiene mala suerte, no tiene buena fortuna. Adem&aacute;s, &iexcl;c&oacute;mo vamos a ser todos iguales! &iquest;C&oacute;mo es eso que dice el presidente que no existen las razas, si yo soy de sangre azul, pertenezco a la moronga azul?&rsquo;</p>
+
+<p>Entonces, hay oportunidad.&nbsp;&iexcl;C&oacute;mo va a ser eso de que el que no transa no avanza! Y muchas cosas, hay mucha informaci&oacute;n. Entonces, la gente va a decidir. Por eso es muy importante la elecci&oacute;n pr&oacute;xima. Yo le tengo mucha confianza a la gente, al pueblo de M&eacute;xico. La verdad, la verdad, es excepcional, y ahora m&aacute;s,porque se est&aacute; empoderando, no s&oacute;lo por cuestiones de que est&aacute; sintiendo que se le toma en cuenta y que ellos deciden, y que son muy contentos, muy felices, sino hay algo que los llena de orgullo a los mexicanos: su origen, la dicha enorme que les produce el ser mexicanos, el pertenecer a uno de los pa&iacute;ses con m&aacute;s cultura en el mundo, formar parte de un pa&iacute;s que es una potencia cultural, como pocos en el mundo. Eso es importante.</p>
+
+<p>Es que era una civilizaci&oacute;n sometida. Y siempre ha estado presente, pero ahora se han exaltado esos valores m&aacute;s que nunca, esas reservas de valores, culturales, morales, espirituales. Por eso, la gente est&aacute; muy contenta.</p>
+
+<p>Y pueden Claudio X. Gonz&aacute;lez, y Salinas de Gortari, y Calder&oacute;n, y Fox, y Garc&iacute;a Luna, y sus v&iacute;nculos con la DEA y con otras dependencias de gobiernos extranjeros, y con la Internacional de Derecha, que existe, utilizar medios electr&oacute;nicos, destinar miles de millones de millones de d&oacute;lares a comprar&nbsp;bots&nbsp;hasta en Holanda para poner el mensaje: &lsquo;L&oacute;pez Obrador, presidente narco&rsquo;;&nbsp;todo, todo, todo eso. No hacen nada, no hacen mella, porque tenemos autoridad moral, tenemos autoridad pol&iacute;tica y tenemos el respaldo de los ciudadanos. Adem&aacute;s, la mentira es reaccionaria, la verdad es revolucionaria. No pueden y, lo dec&iacute;a muy bien el presidente Ju&aacute;rez:&nbsp;el triunfo de la reacci&oacute;n es moralmente imposible.</p>
+
+<p>Estaba yo viendo un mensaje en el tuit de Casta&ntilde;eda. Ponlo, porque le quiero contestar. Casta&ntilde;eda tiene una historia, son de esas cosas que suelen pasar: su pap&aacute;, extraordinario diplom&aacute;tico de carrera, don Jorge Casta&ntilde;eda, pero &eacute;l al principio, de joven, pues era rebelde, consecuente;&nbsp;quiso hasta ser guerrillero, y estuvo entren&aacute;ndose en Cuba. A lo mejor vas a encontrar por ah&iacute; una portada del&nbsp;Proceso&nbsp;de hace tiempo, en donde est&aacute; con su uniforme de guerrillero.&nbsp;Pero se cans&oacute; de eso y se fue volviendo muy conservador. Y suele pasar de que a veces estos renegados pol&iacute;ticos son peores que los conservadores de alcurnia.&nbsp;</p>
+
+<p>Recuerdo que lleg&oacute; a ser secretario de Relaciones Exteriores de Fox y cuando aquella famosa llamada de Fox con el comandante Castro, porque ven&iacute;a. F&iacute;jense el nivel de indignidad de la pol&iacute;tica exterior en ese entonces: no quer&iacute;a el expresidente Bush que participara el comandante Castro. O Fox y Casta&ntilde;eda, o Casta&ntilde;eda porque creo que Fox no le entend&iacute;a mucho a las cosas, deciden que no est&eacute; en la reuni&oacute;n el comandante Castro, una reuni&oacute;n de estas de los pa&iacute;ses de Am&eacute;rica, una reuni&oacute;n a celebrarse en M&eacute;xico. Todo esto,&nbsp;por los j&oacute;venes, porque ayuda mucho, porque se olvidan estas cosas.</p>
+
+<p>Entonces, quer&iacute;an convencer al comandante Castro de que viniera, estuviese antes de que llegara el presidente de Estados Unidos, Bush, y se fuera. Entonces, le llaman o se lleva a cabo esa llamada. Como son todas esas llamadas de hombre de Estado, de presidentes, pues todos graban, todos graban. Yo estoy seguro&nbsp;que&hellip; Acabo de hablar con el presidente&nbsp;Biden, y &eacute;l es una gente muy recta, pero por cuestiones de seguridad graban las llamadas, eso ya es conocido.</p>
+
+<p>Pero yo creo que no les import&oacute;, o no sab&iacute;an, o actuaron con menosprecio tambi&eacute;n, que eso suele pasar, y empiezan a hablar por tel&eacute;fono y le dice, entre otras cosas, el presidente Fox al comandante Castro algo as&iacute; como: &lsquo;Mira, comes y te vas&rsquo;, el &lsquo;comes y te vas&rsquo;. Y el que estaba ah&iacute; asesorando al presidente Fox era Casta&ntilde;eda, el que hab&iacute;a estado all&aacute; de joven queriendo ser guerrillero, pero ya con una postura diametralmente opuesta.</p>
+
+<p>Con nosotros ha tenido diferencias, conmigo. Una vez se atrevi&oacute;, cuando el desafuero, a decir que me deb&iacute;an de eliminar, matar; despu&eacute;s, ofreci&oacute; disculpas p&uacute;blicamente.&nbsp;</p>
+
+<p>Ahora pone esto porque debe ser amigo, tambi&eacute;n, del periodista Tim Golden:</p>
+
+<p>&lsquo;&iquest;Le queda el mote de #narcopresidente a L&oacute;pez Obrador? Por ahora es imposible afirmarlo, pero tampoco resulta factible rechazarlo&rsquo;.&nbsp;Narcopresidente.</p>
+
+<p>Pues decirle a Jorge que lo que estimo m&aacute;s importante en mi vida es mi honestidad y que tengo tranquila mi consciencia, y no me voy a rendir. Mientras est&eacute; como dirigente, como servidor p&uacute;blico, voy a mantener mis ideales y mis principios en alto.</p>
+
+<p>Y una lecci&oacute;n importante para los j&oacute;venes, es que para poder enfrentar a las mafias del poder se necesita ser honesto y tener autoridad moral. Cuando se tiene honestidad, cuando se act&uacute;a con rectitud, cuando se es consecuente, al mismo tiempo se es libre. Y es un gran placer la libertad, es algo&nbsp;sublime, es un gozo, llega a ser hasta arrogancia, la arrogancia de sentirse libres, pero eso tiene que ser cuando se act&uacute;a de manera consecuente, cuando se act&uacute;a como uno piensa; la incongruencia&nbsp;no,&nbsp;no ayuda.</p>
+
+<p>Entonces, regresando a lo de la transparencia, se puede que cualquier otro organismo se haga cargo de esta dependencia pantalla que s&oacute;lo simula, son como&nbsp;tapaderas.</p>
+
+<p>Y que tambi&eacute;n no se piense que un trabajador de esa dependencia se va a quedar sin empleo, no, nada m&aacute;s son los de arriba, que ganan 250, 300 mil pesos mensuales con todos estos gastos superfluos, con todos estos privilegios.&nbsp;Entonces, son muchos los ahorros y ese dinero es para las becas.</p>
+
+<p>Qu&eacute; importante es lo que se dio a conocer hace unos d&iacute;as, de c&oacute;mo con las becas de educaci&oacute;n media superior, que se entregan a alumnas, alumnos de todo el pa&iacute;s de educaci&oacute;n p&uacute;blica, se ha logrado reducir el abandono en la escuela. A ver si no pones ese dato, porque no s&oacute;lo es decir&hellip;</p>
+
+<p>Miren. &iquest;A nivel qu&eacute;? Media superior.&nbsp;De 14 por ciento que abandonaban la escuela, a nueve. Estamos hablando de la edad m&aacute;s riesgosa, es la adolescencia. Mantener a los j&oacute;venes en la escuela es important&iacute;simo;&nbsp;es ense&ntilde;anza, pero tambi&eacute;n es que tengan la orientaci&oacute;n de otros j&oacute;venes, de los maestros, de sentirse como en sus casas, la escuela es la segunda casa, el segundo hogar.</p>
+
+<p>&iquest;Por qu&eacute; se logra esto?</p>
+
+<p>Porque se tiene una beca.</p>
+
+<p>&iquest;Y de d&oacute;nde sale el presupuesto para estas becas?</p>
+
+<p>Pues de no permitir la corrupci&oacute;n, de no permitir gastos superfluos, derroche, lujos en el gobierno. Entonces, esto es mucho muy importante, ese es el prop&oacute;sito. Y si se sigue con ese tren de gastos innecesarios, pues entonces no hay para programas sociales y a veces ni siquiera para pagar la n&oacute;mina, el gasto corriente, todo lo que consume el mismo gobierno, que estaba ensimismado porque todo el presupuesto se quedaba en el mismo gobierno, no le llegaba nada a la gente;&nbsp;inclusive,&nbsp;ten&iacute;an que pedir cr&eacute;ditos o aumentar impuestos, o aumentar el precio de las gasolinas. Este es un modelo nuevo, distinto, y nos est&aacute; dando resultados, por eso estamos reduciendo la pobreza y por eso estamos reduciendo la desigualdad.</p>
+
+<p>&iquest;Y de qu&eacute; sirven esos organismos?&nbsp;&iquest;En qu&eacute; ayudan?</p>
+
+<p>En nada, con ese prop&oacute;sito, con ese fin.</p>
+
+<p>INTERLOCUTORA:&nbsp;Y nada m&aacute;s para puntualizar, presidente, usted dec&iacute;a que sirven como&nbsp;tapadera&nbsp;de la corrupci&oacute;n; en realidad, tambi&eacute;n sirven como&nbsp;tapadera&nbsp;de su propia corrupci&oacute;n, porque ni siquiera investigan este tipo de gastos.</p>
+
+<p>Algunos hallazgos que trae este informe preliminar de la Auditor&iacute;a Superior de la Federaci&oacute;n es que pagaban con esta misma tarjeta American Express hasta su s&uacute;per, sus medicamentos, en fin. Y todo esto s&oacute;lo fue practicado a los siete comisionados, o sea, ya nos imaginaremos si se revisaran m&aacute;s &aacute;reas.</p>
+
+<p>En otro tema, presidente, ahora que est&aacute;bamos viendo el tema de la reforma al Poder Judicial de la Federaci&oacute;n, recientemente la Suprema Corte de Justicia de la Naci&oacute;n determin&oacute; que se hicieran&nbsp;p&uacute;blicos todas las documentaciones que tuviera la Unidad de Inteligencia Financiera sobre el&nbsp;malware&nbsp;Pegasus.</p>
+
+<p>En ese sentido, la&nbsp;corte dijo que este&nbsp;malware&nbsp;se hab&iacute;a adquirido en el sexenio de Enrique Pe&ntilde;a Nieto y que ellos estaban comprometidos con la transparencia y la rendici&oacute;n de cuentas, porque supuestamente tienen un af&aacute;n de que esto se conozca porque el&nbsp;software&nbsp;fue usado para espiar a enemigos pol&iacute;ticos, a periodistas, a defensores de derechos humanos, etc&eacute;tera.</p>
+
+<p>Pero aqu&iacute; preguntarle, presidente, sobre esta posici&oacute;n facciosa de la Suprema Corte de Justicia de la Naci&oacute;n de simular esta especie de transparencia con claros fines pol&iacute;ticos, cuando en realidad no fue Enrique Pe&ntilde;a Nieto quien adquiri&oacute; por primera vez este&nbsp;malware, fue Felipe Calder&oacute;n Hinojosa en el momento en el que,&nbsp;al frente de la Secretar&iacute;a de Seguridad P&uacute;blica y de toda esta Plataforma M&eacute;xico,&nbsp;estaba Genaro Garc&iacute;a Luna.</p>
+
+<p>Y es una postura facciosa porque claramente no se refieren de nueva cuenta al poder que adquiri&oacute; Garc&iacute;a Luna en aquel sexenio que tambi&eacute;n hac&iacute;an espionaje pol&iacute;tico, y ya sabemos que no es la primera vez que la Suprema Corte de Justicia de la Naci&oacute;n act&uacute;a para,&nbsp;de alguna manera,&nbsp;encubrir lo que pas&oacute; en el sexenio de Felipe Calder&oacute;n.</p>
+
+<p>Entonces, su opini&oacute;n al respecto. Y nada m&aacute;s para que no digan que esto es informaci&oacute;n falsa, nosotros tuvimos acceso en 2011 a estos contratos, que son los originales o los primeros contratos de Pegasus;&nbsp;est&aacute;n fechados,&nbsp;los primeros de ellos,&nbsp;en 2010. Y en ese sentido, pues aqu&iacute; est&aacute;n las pruebas de que fue Felipe Calder&oacute;n y tambi&eacute;n en contubernio, ya sabemos, con Genaro Garc&iacute;a Luna.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Pues, yo pienso que hay que entregar todo eso y lo que tiene que ver con el sexenio de presidente Pe&ntilde;a y lo que tiene que ver con nuestro gobierno;&nbsp;no ocultar nada, entregarlo todo.</p>
+
+<p>Le vamos a pedir a Pablo que venga y que hable de eso, y de todo lo que ha hecho la oficina de inteligencia financiera durante nuestro gobierno, que nos diga c&oacute;mo va la devoluci&oacute;n de bienes que los jueces en Florida le han entregado a M&eacute;xico, al Gobierno de M&eacute;xico, que eran de Garc&iacute;a Luna. Y hay bastante informaci&oacute;n, que hable de todo, de informaci&oacute;n de las cuentas, porque todos estamos expuestos. &iquest;C&oacute;mo se llama el principio?</p>
+
+<p>INTERLOCUTORA:&nbsp;Personas pol&iacute;ticamente expuestas.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:Pol&iacute;ticamente expuestas, de nosotros, del presidente, de su familia, a lo mejor tambi&eacute;n los periodistas, de los&nbsp;machuchones, los ministros. Que nos hable de c&oacute;mo est&aacute;n los manejos de cuentas de Garc&iacute;a Luna, de los expresidentes, de una vez todo; eso es lo que est&aacute; pidiendo la Suprema Corte.</p>
+
+<p>INTERLOCUTORA:&nbsp;S&iacute;, es lo que fall&oacute; la Suprema Corte.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;&iexcl;Ah, no! Hay que cumplirles.</p>
+
+<p>PREGUNTA:&nbsp;&iquest;Cu&aacute;ndo?</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;La semana pr&oacute;xima. No, esta misma, se puede preparar, vamos a dejarlo para el jueves. No, vamos a Acapulco el jueves; el viernes, para que conozcamos todo esto.</p>
+
+<p>INTERLOCUTORA:&nbsp;Finalmente, preguntarle, porque en la revista&nbsp;Contral&iacute;nea&nbsp;documentamos la relaci&oacute;n que exist&iacute;a entre Claudio X. Guajardo, el l&iacute;der moral de la oposici&oacute;n, y el CIDE, esta instituci&oacute;n educativa de car&aacute;cter p&uacute;blico, a trav&eacute;s de varios contratos, varios convenios a los que tuvimos acceso.</p>
+
+<p>En la &eacute;poca en la que Sergio L&oacute;pez Ayll&oacute;n estaba al frente del CIDE,&nbsp;pues se firmaron estos convenios. Tan s&oacute;lo decir que cuando se funda Mexicanos Contra la Corrupci&oacute;n y la Impunidad, Sergio L&oacute;pez Ayll&oacute;n participa dentro del Consejo Consultivo Independiente de Mexicanos Contra la Corrupci&oacute;n y la Impunidad; pero desde este cargo, desde esta, digamos, relaci&oacute;n, a los seis meses de fundada Mexicanos Contra la Corrupci&oacute;n y la Impunidad se le da el primer convenio y de ah&iacute; se derivan otros seis convenios para que fuera esta asociaci&oacute;n civil, que en realidad es un grupo de presi&oacute;n, quien diera clases de periodismo a trav&eacute;s de un diplomado de periodismo de investigaci&oacute;n.</p>
+
+<p>Esto llama la atenci&oacute;n, no s&oacute;lo por el periodo, apenas ten&iacute;a seis meses de creada la organizaci&oacute;n, el director del CIDE participaba en esa organizaci&oacute;n, sino adem&aacute;s porque para ejercer esta profesi&oacute;n, esta rama de las ciencias sociales se necesita honestidad, independencia, responsabilidad social y tambi&eacute;n estar comprometidos con la b&uacute;squeda de la verdad, algo que Mexicanos Contra la Corrupci&oacute;n y la Impunidad, al ser un grupo&nbsp;de presi&oacute;n, no lo tiene, y no lo tiene porque baste ver la forma en c&oacute;mo funcionaba, ten&iacute;a un &aacute;rea de litigio y un &aacute;rea de supuesto periodismo.</p>
+
+<p>Por una parte, en el &aacute;rea de litigio met&iacute;an centenas de amparos, por ejemplo, ya en el actual sexenio contra las principales obras p&uacute;blicas y al mismo tiempo su &aacute;rea de periodismo criticaba que esas obras se iban retrasando, sin decir que eran ellos a trav&eacute;s de sus amparos los que estaban generando estos atrasos.</p>
+
+<p>Entonces, preguntarle, presidente, sobre lo que podr&iacute;a ser un plan perverso de estos grupos de poder para controlar o,&nbsp;de alguna manera capturar,&nbsp;desde las bases, ya no s&oacute;lo desde las corporaciones medi&aacute;ticas, sino tambi&eacute;n desde los reporteros con esta ideolog&iacute;a o este pensamiento de que el periodismo de investigaci&oacute;n s&oacute;lo se enfoca en el Poder Ejecutivo, que el INAI no se toca, que la Suprema Corte de Justicia no se toca, que el INE no se toca y que el sector empresarial, que es un poder f&aacute;ctico, no se tocan, porque son supuestamente sociedad civil.</p>
+
+<p>Entonces, presidente, preguntarle sobre esto, porque usted en su libro reciente denominado&nbsp;&iexcl;Gracias!, pues habla mucho de este contubernio entre las corporaciones medi&aacute;ticas, el poder empresarial y tambi&eacute;n el poder pol&iacute;tico, los partidos de oposici&oacute;n en este caso, y pone demasiados ejemplos en su libro de cu&aacute;nto da&ntilde;o ha hecho al pueblo de M&eacute;xico este tipo de contubernio.</p>
+
+<p>Gracias, presidente.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;S&iacute;, yo creo que con la visita de Pablo va a ayudar mucho, es un informe de qu&eacute; ha hecho la oficina de inteligencia financiera en el tiempo que estamos. Y no s&oacute;lo para los de afuera, no s&oacute;lo denuncias de empresarios, traficantes de influencia, que no son empresarios, sino tambi&eacute;n de todo el gobierno, incluido el gobierno nuestro y el presidente y sus familiares. y todo lo que haya, y ministros de la corte, todo lo que se tenga, expresidentes, hallazgos importantes.</p>
+
+<p>Que conste que no es para presentar denuncias, porque ya quedamos que para iniciar denuncias contra expresidentes se ten&iacute;a que llevar a cabo una consulta, que se celebr&oacute; y vot&oacute; mucha gente, pero no fue suficiente para que fuese vinculatoria la consulta, eso ya no podr&iacute;a aplicar, nada m&aacute;s es para ver qui&eacute;n es qui&eacute;n en el manejo de los dineros de quienes estamos expuestos.&nbsp;</p>
+
+<p>Somos&hellip; Luisa Mar&iacute;a.</p>
+
+<p>LUISA MAR&Iacute;A ALCALDE LUJ&Aacute;N:&nbsp;Servidores p&uacute;blicos.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;No, pero el t&eacute;rmino.</p>
+
+<p>LUISA MAR&Iacute;A ALCALDE LUJ&Aacute;N:&nbsp;Personajes pol&iacute;ticos, digo, pol&iacute;ticamente expuestas.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Personas pol&iacute;ticamente expuestas.</p>
+
+<p>Yo una vez quer&iacute;a cobrar un cheque terminando una elecci&oacute;n &mdash;creo que fue la del 12&mdash; de 300 mil pesos cuando termin&oacute; la campa&ntilde;a, y creo que por seis meses me dieron 50 mil pesos mensuales, y me dieron mi cheque. Era yo candidato y quise ir a cobrar. No, en el banco le daba pena a la compa&ntilde;era ah&iacute;. Es que aparece en la relaci&oacute;n. &lsquo;Venga despu&eacute;s&rsquo;. S&iacute; me pagaron, porque como yo soy perseverante, pero me llev&eacute; como tres meses para poder cobrar los 300 mil pesos.&nbsp;No s&eacute; si fue&hellip; S&iacute;, fue despu&eacute;s del 12. Y eso lo don&eacute;, en alguna situaci&oacute;n dif&iacute;cil de la gente lo don&eacute;. Pero para sacarlo me cost&oacute;.</p>
+
+<p>Entonces, va a ser muy interesante ahora que venga Pablo, sobre todo que nos explique c&oacute;mo est&aacute; lo de Garc&iacute;a Luna, c&oacute;mo va la denuncia. Y si nos lo est&aacute; pidiendo la corte, pues lo tenemos que hacer y adem&aacute;s hay que hacerlo, que haya transparencia.</p>
+
+<p>T&uacute; sigues.</p>
+
+<p>PREGUNTA:&nbsp;Buenos d&iacute;as, se&ntilde;or presidente; buenos d&iacute;as, secretaria, procurador general. Buenos d&iacute;as a todas y a todos.</p>
+
+<p>Diego El&iacute;as Cedillo, del&nbsp;Sistema Informativo de Tabasco, Diario Presente.</p>
+
+<p>Se&ntilde;or presidente, antes que otra cosa, quiero retomar precisamente que hoy es el aniversario 65 de&nbsp;Diario&nbsp;Presente&nbsp;en el estado de Tabasco, lleva 65 a&ntilde;os, valga la redundancia, imprimi&eacute;ndose continuamente.&nbsp;</p>
+
+<p>En este tenor, presidente, quiero hacerle una pregunta 100 por ciento&nbsp;choca,&nbsp;la realidad, aprovechando la presencia del general &Aacute;guila, este tema del Tren Maya, que es un tema que compete en totalidad al sureste mexicano.</p>
+
+<p>En primer lugar, se&ntilde;or presidente, quiero retomar que las carreteras para llegar al sureste mexicano&hellip; Para llegar al sureste se tiene que pasar por Tabasco s&iacute; o s&iacute;; entonces, precisamente, presidente el d&iacute;a de la gira, cuando se inaugur&oacute; el tramo de Campeche a Canc&uacute;n yo llegu&eacute; a Tabasco y me doy cuenta de que,&nbsp;para subir del lado de Campeche, esta carretera, si no me equivoco, que es&nbsp;Atasta, se llama, que es s&oacute;lo de un carril, pues siempre ha tenido este problema y es el &uacute;nico acceso para llegar a Campeche. Presidente, saber de principio si se tiene contemplado un plan por parte del gobierno federal para ampliar estas carreteras que conectan al sureste mexicano.</p>
+
+<p>Y aprovechando el tema del Tren Maya y la presencia del general &Aacute;guila, preguntarle puntualmente cu&aacute;ndo ya se va a estar completamente inaugurado el Tren Maya en totalidad.</p>
+
+<p>Y tambi&eacute;n, presidente, entiendo que el concepto del tren de pasajeros es, vamos a llamarlo un externalidad positiva derivado de toda la infraestructura que requiere el tren en general, en todo el circuito. Preguntarle al general c&oacute;mo va el tema del transporte de carga, cu&aacute;l es el beneficio que esto va a generar al sureste mexicano, porque tambi&eacute;n sabemos, por ejemplo, que Canc&uacute;n tiende a ser muy caro, precisamente por el transporte de mercanc&iacute;as, M&eacute;rida, etc&eacute;tera. Entonces, preguntarle,&nbsp;presidente, c&oacute;mo ha avanzado el tema del transporte de carga puntualmente en toda la v&iacute;a del Tren Maya.</p>
+
+<p>Gracias.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Bueno, pues felicidades a los que hacen el&nbsp;Presente. Su director m&aacute;s importante, Jorge Calles Broca, y ya fallecido. Un peri&oacute;dico muy importante en Tabasco durante mucho tiempo. Su hijo tambi&eacute;n se dedicaba al periodismo, no s&eacute; ahora a qu&eacute; se dedique, escrib&iacute;a muy bien.</p>
+
+<p>&Uacute;ltimamente creo que el peri&oacute;dico lo adquiri&oacute; Nacho Cobos, que es amigo de nosotros, es buena persona, pero es m&aacute;s bueno todav&iacute;a su hermano, que es sacerdote jesuita. Y felicidades a todos los trabajadores.</p>
+
+<p>Ah&iacute; es parte de la historia del periodismo de Tabasco. Ah&iacute; escrib&iacute;a durante mucho tiempo un periodista tambi&eacute;n ya fallecido, Pedro Luis Hern&aacute;ndez. &iexcl;C&oacute;mo me gustar&iacute;a leer en estos tiempos una columna de &eacute;l!, porque era de los columnistas con sentido del humor. Y as&iacute; otros en el peri&oacute;dico&nbsp;Presente.</p>
+
+<p>Y acerca de lo que planteas, es importante que se sepa que el mantenimiento de la carretera de Coatzacoalcos a Villahermosa est&aacute; contratado, fue de los contratos que dejaron en la administraci&oacute;n pasada y se respetaron, por eso esa carretera tiene que tener buen servicio, tiene que estar en buen estado, y ah&iacute; se los encargo mucho a mis paisanos que est&eacute;n pendientes, porque se deben de estar destinando como 700 millones, de 500 a 700 millones anuales para el mantenimiento de Coatzacoalcos a Villahermosa. A lo mejor eso no se sab&iacute;a.</p>
+
+<p>Era m&aacute;s, y se logr&oacute; un acuerdo con estas empresas constructoras, porque por ocho carreteras, as&iacute; el pago permanente de mantenimiento se ten&iacute;a que destinar alrededor de ocho o 10 mil millones de pesos al a&ntilde;o. Entonces, como tuvimos un ahorro hablamos con ellos, no se les cancelaron los contratos y ahorramos mil millones por a&ntilde;o, que es un dinero que va directo, est&aacute; etiquetado para la construcci&oacute;n de caminos de mano de obra en La Monta&ntilde;a de Guerrero, se les entrega ese dinero a los presidentes municipales de esa regi&oacute;n, que es de las m&aacute;s pobres de M&eacute;xico. Pero, bueno, eso en cuanto al camino.&nbsp;</p>
+
+<p>La otra carretera que mencionas es la que va de Villahermosa a Ciudad del Carmen. Ya hay una parte que es de doble carril, pero falta todo lo que es municipio de Centla, pasando por Frontera, los l&iacute;mites de Tabasco con Campeche y Atasta, que es ah&iacute; donde se hace el embudo porque est&aacute; muy reducida la carretera.</p>
+
+<p>Hay que buscar una soluci&oacute;n. Ya hay un proyecto, nada m&aacute;s que no nos va a dar a nosotros ya tiempo, van a ser de esos proyectos que yo voy a dejar recomendados; estoy seguro de que me van a hacer caso, no en todo, pero en varias cosas que voy a dar a conocer, porque es mi obligaci&oacute;n al terminar, puedo decir: Nos falt&oacute; esto porque no tuvimos tiempo; se ha hecho mucho, pero era bastante el atraso, el rezago. Y esos proyectos, por ejemplo, son muy importantes para Campeche, y otros que deben de impulsarse en Campeche y en Tabasco.</p>
+
+<p>Qued&oacute;, por ejemplo, pendiente, ya se tiene el proyecto, pero falta resolver el problema del derecho de v&iacute;a y construir el ramal de estaci&oacute;n Chontalpa a Dos Bocas, porque cuando se produce la gasolina&hellip; Que ser&iacute;a muy bueno que un d&iacute;a vinieran los ingenieros petroleros a explicar c&oacute;mo se produce la gasolina, porque no es ir a la bomba y cargar, es que para tener esa gasolina es un proceso que lleva mucho trabajo de obreros, de t&eacute;cnicos. Imag&iacute;nense lo que es vivir en una refiner&iacute;a, y c&oacute;mo estaba antes, en refiner&iacute;as abandonadas, sin mantenimiento y tambi&eacute;n sin equipos anticontaminantes.&nbsp;</p>
+
+<p>Ahora puedo decir &mdash;ayer estuve en M&eacute;rida&mdash;, ya para la satisfacci&oacute;n de todos los que viven en la&nbsp;pen&iacute;nsula de Yucat&aacute;n, todo el di&eacute;sel que se consume ya es bajo azufre, ya no tiene azufre, esa es una buena noticia. Estamos llevando el di&eacute;sel a la pen&iacute;nsula, a Progreso, de la refiner&iacute;a&nbsp;Deer&nbsp;Park, y es un di&eacute;sel sin azufre, sin contaminantes. Esto,&nbsp;para tus paisanos.</p>
+
+<p>Y as&iacute; quedaron algunos proyectos pendientes, pero vamos a hablar, a decir: Aqu&iacute; est&aacute; el proyecto, ya no nos dio tiempo.</p>
+
+<p>Ah, les dec&iacute;a yo que los residuos de las gasolinas se procesan. Por eso estamos construyendo dos plantas&nbsp;coquizadoras, para exprimir m&aacute;s el crudo y limpiar los petrol&iacute;feros, y sacar m&aacute;s gasolina y menos contaminaci&oacute;n.</p>
+
+<p>Pero de todas maneras queda un residuo, coque, que hay que sacarlo. Entonces, ya est&aacute; por empezar a producir en su totalidad, que tambi&eacute;n es un proceso, Dos Bocas, pero necesitamos sacar el coque, entonces tenemos dos opciones:</p>
+
+<p>Una que es por el puerto de Dos Bocas, se est&aacute; ya iniciando la construcci&oacute;n de un muelle especial para eso.</p>
+
+<p>Pero lo mejor es sacarlo por ferrocarril, y hace falta construir esa v&iacute;a de Chontalpa a Dos Bocas. Ya est&aacute; el proyecto, falta resolver lo del derecho de v&iacute;a.</p>
+
+<p>Aprovecho aqu&iacute; para decirles a mis paisanos que est&aacute;n en lo que es el derecho de v&iacute;a, que nos ayuden, que se hacen aval&uacute;os de conformidad con la ley y se les paga lo que se utiliza como derecho de v&iacute;a; que no se comete ninguna injusticia, que a todos se les pagan las indemnizaciones; se les paga el terreno a precio comercial por donde requiere ir la v&iacute;a.</p>
+
+<p>Son proyectos que son muy importantes hacia el futuro. Claro, ya lo m&aacute;s importante es que vamos a tener 280 mil barriles de gasolinas en Dos Bocas, que los vamos a sacar por buquetanques y tambi&eacute;n con pipas.</p>
+
+<p>Estamos hablando del 20 por ciento, casi el 20 por ciento de toda la producci&oacute;n, de todo el consumo de gasolinas del pa&iacute;s, esa refiner&iacute;a. Entonces, se ha ido avanzando.</p>
+
+<p>Acerca del tren de carga, pues se lo dejamos aqu&iacute; al general.&nbsp;</p>
+
+<p>&Oacute;SCAR DAVID LOZANO &Aacute;GUILA:&nbsp;Muchas gracias, se&ntilde;or presidente. Muchas gracias por tu pregunta.</p>
+
+<p>De verdad, el proyecto integral Tren Maya comprende tambi&eacute;n el sistema de carga. Este es un proceso, el que hemos estado siguiendo.</p>
+
+<p>La primera etapa, como t&uacute; bien lo dijiste, es la parte del tren de pasajeros, es consolidar la construcci&oacute;n de toda la infraestructura que comprende los mil 554 kil&oacute;metros de v&iacute;a.</p>
+
+<p>El tren requiere necesariamente el establecimiento de una serie de instalaciones para el transporte de mercanc&iacute;as y sobre todo porque estrat&eacute;gicamente es importante conectar el corredor interoce&aacute;nico del Istmo de Tehuantepec con el Tren Maya. El punto de conexi&oacute;n ser&aacute; Palenque, ese es el plan.</p>
+
+<p>Ahorita tenemos el proyecto a nivel conceptual, en el que incluimos la terminal multimodal de intercambio de mercanc&iacute;as en Palenque; se prev&eacute; la construcci&oacute;n tambi&eacute;n de un patio de operaciones ferroviarias en Esc&aacute;rcega, otro m&aacute;s en&hellip; Logramos ah&iacute; con algunos de los ejidos, las problem&aacute;ticas ah&iacute; en Campeche, y se logr&oacute; en Pomuch, en Pomuch se logr&oacute; obtener el predio para la construcci&oacute;n de ese patio de operaciones.</p>
+
+<p>En&nbsp;Poxil&aacute;, que es muy cercano a M&eacute;rida, se prev&eacute; la construcci&oacute;n tambi&eacute;n, o el propio proyecto, de un centro de operaciones ferroviarias, donde tradicionalmente ya exist&iacute;a para la conexi&oacute;n hacia el norte, precisamente hacer un libramiento ferroviario y llegar a una terminal multimodal el Progreso, que nos permita conectar el puerto de Progreso y de alguna manera, podamos trasladar mercanc&iacute;as, no solo hacia la exportaci&oacute;n, sino tambi&eacute;n la importaci&oacute;n al resto del pa&iacute;s.</p>
+
+<p>Y si continuamos el circuito, tenemos un patio de operaciones ferroviarias tambi&eacute;n en Valladolid, que tradicionalmente ya exist&iacute;a cuando el FIT, exist&iacute;a ese patio de operaciones que surt&iacute;a a la Comisi&oacute;n Federal, a las cementeras.</p>
+
+<p>Y en Canc&uacute;n, que lo mencionaste,&nbsp;definitivamente&nbsp;Canc&uacute;n se abastece diariamente en productos perecederos, no tiene capacidad de mantener una reserva estrat&eacute;gica. El tren va a proporcionar esa posibilidad de tener una terminal tambi&eacute;n multimodal de carga ah&iacute; en Canc&uacute;n, ya est&aacute; proyectada de esa manera.&nbsp;</p>
+
+<p>Despu&eacute;s de Canc&uacute;n, en Tulum vamos a tener una conexi&oacute;n a trav&eacute;s del aeropuerto, el Aeropuerto Internacional de Tulum.</p>
+
+<p>Y bajamos a una terminal que tambi&eacute;n est&aacute; proyectada a construirse en el ejido de Juan Sarabia, ah&iacute; en el municipio de Oth&oacute;n P. Blanco, en Chetumal, esa es la otra terminal multimodal, que pretende tambi&eacute;n conectar en un futuro hacia Centroam&eacute;rica.</p>
+
+<p>Y, finalmente, el patio de operaciones ferroviarias en Xpujil. Esos patios de operaciones intermedios que le llamamos, tanto Xpujil, Valladolid, Campeche, esos patios de operaciones pretenden garantizar la continuidad y sacar mercanc&iacute;as locales, eso es apoyar el crecimiento econ&oacute;mico local. Y por supuesto Esc&aacute;rcega, que tambi&eacute;n es la puerta de entrada a la pen&iacute;nsula.</p>
+
+<p>Conceptualmente el proyecto ya est&aacute; terminado, est&aacute; dise&ntilde;ado. Ser&aacute; una segunda etapa importante del proyecto integral del Tren Maya, como lo ha dicho el se&ntilde;or presidente de la Rep&uacute;blica, est&aacute; proyectado que sea as&iacute;. Adem&aacute;s, es important&iacute;simo para alcanzar el punto de equilibrio y para lograr hacer rentable todo el proyecto integral. Es decir, el servicio de transporte de mercanc&iacute;as va a subsidiar el transporte de los pasajeros, esa es la realidad, as&iacute; es como est&aacute; proyectado.</p>
+
+<p>Y creo, no s&eacute; si con eso responda.</p>
+
+<p>INTERLOCUTOR:&nbsp;&iquest;Ya han platicado con empresas puntualmente, general?</p>
+
+<p>&Oacute;SCAR DAVID LOZANO &Aacute;GUILA:&nbsp;&iquest;Empresas?</p>
+
+<p>INTERLOCUTOR:&nbsp;Con iniciativa privada, algo. &iquest;Ya est&aacute; sustentado todo esto? O sea, &iquest;ya hay empresas que han dicho: &lsquo;Yo quiero entrarle&rsquo;?</p>
+
+<p>&Oacute;SCAR DAVID LOZANO &Aacute;GUILA:&nbsp;S&iacute;, hay mucho inter&eacute;s. La verdad es que en el proceso de la planeaci&oacute;n hemos tenido la oportunidad de conversar y de iniciar pl&aacute;ticas con empresas interesadas, obviamente no es conveniente decir qui&eacute;nes son, pero s&iacute; hay mucho inter&eacute;s de empresas que est&aacute;n hoy por hoy transportando sus mercanc&iacute;as a trav&eacute;s de veh&iacute;culos terrestres, a trav&eacute;s de las carreteras y que ven la oportunidad de transportar todas esas materias primas que abastecen, sobre todo a la Riviera Maya o todo lo que entra y sale de Progreso, que definitivamente va a impactar en la econom&iacute;a, van a optimizar sus costos y le van a permitir de alguna manera mejorar sus resultados.</p>
+
+<p>S&iacute; tenemos conversaciones y s&iacute; tenemos, inclusive, no tratos, no puedo llamar tratos, porque es hasta el momento en que se formaliza, pero s&iacute; tenemos mucho inter&eacute;s manifiesto de empresas que est&aacute;n definitivamente a favor de incorporarse a las terminales de transferencia o de transporte de mercanc&iacute;as.</p>
+
+<p>INTERLOCUTOR:&nbsp;Nada m&aacute;s para puntualizar, no s&eacute; si el presidente o usted me pudiera comentar cu&aacute;ndo ya queda inaugurado 100 por ciento todo el circuito del Tren Maya. Se hablaba&nbsp;que&nbsp;ser&iacute;a a finales de febrero, ahorita usted en la ma&ntilde;ana especific&oacute; que se va a abrir desde Canc&uacute;n hasta Playa del Carmen, si no me equivoco; entonces faltar&iacute;a el tramo de Playa del Carmen a Palenque. Conocer cu&aacute;ndo se tiene.</p>
+
+<p>&Oacute;SCAR DAVID LOZANO &Aacute;GUILA:&nbsp;A Esc&aacute;rcega.</p>
+
+<p>INTERLOCUTOR:&nbsp;A Esc&aacute;rcega, perd&oacute;n. Conocer cu&aacute;ndo se tiene previsto ya que todo el circuito quede 100 por ciento concretado.</p>
+
+<p>INTERVENCI&Oacute;N:&nbsp;Pues, tambi&eacute;n esa pregunta es buena, porque el presidente de la Rep&uacute;blica lo ha dicho en muchas ocasiones, nos gustar&iacute;a poder inaugurando conforme vaya gener&aacute;ndose o termin&aacute;ndose la infraestructura.</p>
+
+<p>Entramos en un periodo de veda que podemos hacer eventos p&uacute;blicos y por esa raz&oacute;n el se&ntilde;or presidente ha decidido&nbsp;que&nbsp;hasta junio, a finales del mes de junio tengamos ya concluidos todos los sistemas ferroviarios, es decir, los mil 554 kil&oacute;metros de v&iacute;a se tendr&aacute;n para esa fecha. La conexi&oacute;n que estamos hablando, que t&uacute; est&aacute;s mencionando desde Playa del Carmen a Tulum, de Tulum a Chetumal, de Chetumal a Xpujil y hasta Esc&aacute;rcega, es decir, esa parte de infraestructura ferroviaria deber&aacute; quedar ya incorporada de manera gradual para finales del mes de junio y que podamos definir una fecha para que se pueda inaugurar todo el circuito ferroviario.</p>
+
+<p>&iquest;Con eso respondo tu pregunta?</p>
+
+<p>INTERLOCUTOR:&nbsp;S&iacute;, muchas gracias&nbsp;</p>
+
+<p>&Oacute;SCAR DAVID LOZANO &Aacute;GUILA:&nbsp;Es cuanto, se&ntilde;or presidente.</p>
+
+<p>INTERLOCUTOR:&nbsp;Gracias, presidente.</p>
+
+<p>En otro tema, en un tema pol&iacute;tico 100 por ciento. Usted mencion&oacute; hace unos d&iacute;as que su &uacute;ltimo evento p&uacute;blico en la Plaza de la Constituci&oacute;n ser&iacute;a el Grito de la Independencia, la noche del 15 de septiembre.</p>
+
+<p>Saco esto a relucir porque se est&aacute; haciendo un llamado a la gente a asistir el 1&ordm; de marzo al Z&oacute;calo.</p>
+
+<p>&iquest;A qu&eacute; voy Con esto, presidente?</p>
+
+<p>Usted nos dio a conocer aqu&iacute; tambi&eacute;n que el cuadro que va a poner en la galer&iacute;a de los presidentes iba a ser precisamente con fondo del Z&oacute;calo lleno. Preguntarle cu&aacute;l es estatus de este cuadro, si ya est&aacute; terminado.</p>
+
+<p>Y, tambi&eacute;n, si usted lo considera prudente, si nos&nbsp;podr&iacute;a&nbsp;revelar qui&eacute;n va a ser el autor de dicha obra. &iquest;Y c&oacute;mo va el&nbsp;status&nbsp;del mismo?</p>
+
+<p>Gracias.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Bueno, pues s&iacute; vamos a celebrar el d&iacute;a 15, que es el grito. Ah&iacute; en mi libro hablo de eso, de c&oacute;mo los mexicanos celebramos el grito, el inicio de la&nbsp;independencia, no la consumaci&oacute;n. Es interesante, &iquest;no?, o sea, celebramos el inicio y no cuando se consuma la Independencia,&nbsp;10 a&ntilde;os despu&eacute;s.&nbsp;</p>
+
+<p>Porque &iquest;qui&eacute;n inicia la independencia? &iquest;Qui&eacute;n da el grito? &iquest;Y&nbsp;por qu&eacute; lucha? &iquest;Y&nbsp;qui&eacute;n consuma la independencia? &iquest;Qui&eacute;n entra triunfante y se consuma la Independencia?&nbsp;Pero &iquest;c&oacute;mo piensa?</p>
+
+<p>F&iacute;jense la sabidur&iacute;a del pueblo de M&eacute;xico, la sensibilidad del pueblo de M&eacute;xico: nos gusta m&aacute;s el que grita, el que inicia la independencia, que el que la consuma, porque Hidalgo no s&oacute;lo busca la independencia, sino busca la justicia, la abolici&oacute;n de la esclavitud; e Iturbide, que es el que consuma la Independencia, pues ven&iacute;a del Ej&eacute;rcito Realista y al final demostr&oacute; que lo que le interesaba m&aacute;s era ponerse la diadema imperial, y a Hidalgo le importaba el pueblo raso.</p>
+
+<p>Entonces, ese es un d&iacute;a importante, por eso es el gran festejo de los mexicanos: el Grito de Independencia. Entonces, ese va a ser el acto con el que me voy a despedir p&uacute;blica, pol&iacute;ticamente. Despu&eacute;s, est&aacute; el acto, vamos a decir, protocolario, formal de la entrega de la banda, que eso creo que es el d&iacute;a 1&ordm; de octubre en el&nbsp;Congreso.</p>
+
+<p>Y acerca del retrato oficial, pues ya lo est&aacute;n haciendo, pero no quiero poner nervioso al pintor. Pero s&iacute; es en el balc&oacute;n y teniendo detr&aacute;s al Z&oacute;calo, porque yo ah&iacute; me form&eacute; tambi&eacute;n. As&iacute; como me form&eacute; en las comunidades ind&iacute;genas mayas chontales de Tabasco, tambi&eacute;n en el Z&oacute;calo, y desde luego en la calle, en las comunidades, en los pueblos; entonces, no podr&iacute;a yo tomarme una foto o que me hagan un retrato en una oficina, mejor el Z&oacute;calo. Pero yo espero que ya vaya avanzado. Y s&iacute; les puedo asegurar una cosa: no voy a salir con el&nbsp;tutupiche.</p>
+
+<p>INTERLOCUTOR:&nbsp;Ya nada m&aacute;s para concluir, este fin de semana, el s&aacute;bado puntualmente, sali&oacute; a la venta ya su libro en diversas librer&iacute;as de la Ciudad de M&eacute;xico. Llama mucho la atenci&oacute;n, presidente, a la par de lo que usted ya hab&iacute;a mostrado, el costo del&nbsp;mismo,&nbsp;se presume incluso que es m&aacute;s barato de lo que se podr&iacute;a esperar. Preguntarle, presidente, si usted platic&oacute; con la editorial para que el costo fuese asequible y tambi&eacute;n si tiene usted planeado recibir regal&iacute;as de dicha obra.</p>
+
+<p>Y aprovechando, presidente, quiero abusar de la coyuntura y hacer honor a la p&aacute;gina 4 o 3 del libro, que usted lo dedica para los j&oacute;venes, ver si es posible si le pudiese usted poner su firma a este ejemplar. Gracias.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Ah, pues va a ser de los primeros. A ver, tr&aacute;elo de una vez. La firma. Este te lo firmo. Ah&iacute; est&aacute;.</p>
+
+<p>INTERLOCUTOR:&nbsp;Muchas gracias, presidente.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Va a venderse a buen precio, porque la editorial hizo un buen trabajo, es un papel bueno y creo que no costoso, delgado; la &uacute;nica cosa es que la letra s&iacute; es peque&ntilde;a, pero hay que leerlo poco a poco.</p>
+
+<p>PREGUNTA:&nbsp;(inaudible)</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;S&iacute;, ya. Pero es a los j&oacute;venes, porque hay cosas que yo creo que s&iacute; les va a&hellip; Les ayuda, les ayuda bastante.</p>
+
+<p>Bueno, vamos contigo.</p>
+
+<p>PREGUNTA:&nbsp;Muchas gracias, presidente.</p>
+
+<p>Nancy Rodr&iacute;guez, de&nbsp;Oro S&oacute;lido&nbsp;y&nbsp;Empuje Migrante.</p>
+
+<p>Precisamente, presidente, su opini&oacute;n acerca de esta malsana relaci&oacute;n que durante los &uacute;ltimos 30 a&ntilde;os entre representantes de medios de comunicaci&oacute;n y&nbsp;coment&oacute;cratas, con hombres de poder, presidente, sobre todo, es preocupante, porque pues tienen el poder del micr&oacute;fono y para las nuevas generaciones, como usted precisamente lo dice, hay muchos nuevos comunicadores.</p>
+
+<p>Ciro G&oacute;mez-Leyva, presidente, hace unos d&iacute;as visiblemente emocionado incluso, celebr&oacute; el regreso de Manlio Fabio Beltrones. Reiter&oacute; que es su buen amigo, que es su vecino, que van a correr juntos, que hacen ejercicio juntos porque hay un parque cercano a su casa.</p>
+
+<p>Pero tambi&eacute;n, presidente, Denise&nbsp;Dresser, con una gran sonrisa y tambi&eacute;n visiblemente emocionada, dio a conocer, textual dijo ella: &lsquo;La primera vez que estuve a solas con Carlos Salinas de Gortari fue en su avi&oacute;n presidencial&rsquo;.</p>
+
+<p>Esto solo como dos ejemplos, presidente, esta relaci&oacute;n malsana, se agudiz&oacute; con estos grandes se&ntilde;ores se&ntilde;alados corruptores, y corruptores dir&iacute;a yo.</p>
+
+<p>&iquest;Cu&aacute;l ser&iacute;a su opini&oacute;n, presidente, precisamente para estas nuevas generaciones?, porque pues ellos con el poder del micr&oacute;fono est&aacute;n exponiendo que eso es normal, y eso no es normal, se hizo normal a ra&iacute;z de pagar estas plumas, estas lenguas, a ra&iacute;z de que lleg&oacute; Carlos Salinas de Gortari se agudiz&oacute; con estos se&ntilde;ores del poder. Esto, por una parte, me gustar&iacute;a conocer su opini&oacute;n.</p>
+
+<p>Pero, tambi&eacute;n, presidente, en este mismo tema sobre Manlio Fabio Beltrones, encabez&oacute; un foro sobre gobiernos de coalici&oacute;n hace unos d&iacute;as, y es realmente sorprendente, presidente, que le aplaudieron, le externaron su admiraci&oacute;n pues Jes&uacute;s Ortega, Jes&uacute;s Zambrano y otros perredistas que estaban ah&iacute; presentes; incluso, bueno, pues tambi&eacute;n Enrique de la Madrid, el que mencionaba usted, hijo de la Madrid, que calific&oacute; a su padre de que estaba con demencia.&nbsp;</p>
+
+<p>Y tambi&eacute;n, bueno, pues &iquest;cu&aacute;l es su opini&oacute;n al respecto, presidente, de estas figuras que desgraciadamente&nbsp;le&nbsp;han hecho tanto da&ntilde;o a los medios de comunicaci&oacute;n, a los comunicadores, a los columnistas, que no los obligan, si no los seducen por el poder, el privilegio, el dinero?</p>
+
+<p>Su opini&oacute;n, presidente. Gracias.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Bueno, yo creo que estamos en un momento muy especial, como se titul&oacute; un buen libro de un escritor israel&iacute;, que escribi&oacute; una biograf&iacute;a de Fouch&eacute;, y muchos textos muy buenos, a &eacute;l y a&nbsp;Kapuscinski&nbsp;los considero los mejores escritores.</p>
+
+<p>Uno,&nbsp;Kapuscinski, m&aacute;s por el lado del periodismo, y este que ahora me voy a acordar, que llam&oacute; a uno de sus libros&nbsp;Momentos estelares de la historia.</p>
+
+<p>JES&Uacute;S RAM&Iacute;REZ CUEVAS, COORDINADOR GENERAL DE COMUNICACI&Oacute;N SOCIAL Y VOCERO DE PRESIDENCIA:&nbsp;Stefan&nbsp;Zweig.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;S&iacute;, &eacute;l. Es que no quiero yo pronunciar mal porque ya ven c&oacute;mo le va a uno, pero s&iacute; se los describo. Ponlo.</p>
+
+<p>Se los recomiendo, el libro. Es bell&iacute;simo, son momentos estelares en la historia, desde el descubrimiento o reencuentro o la reinvenci&oacute;n de Am&eacute;rica, como se le quiera denominar, hasta los &uacute;ltimos d&iacute;as de Cicer&oacute;n, la llegada de Lenin a Rusia, y esos momentos estelares.</p>
+
+<p>Nosotros estamos viviendo, los mexicanos, un momento as&iacute;, es un momento estelar la historia de nuestra patria, en la historia patria, eso es lo que yo pienso, porque se est&aacute; llevando a cabo una transformaci&oacute;n.</p>
+
+<p>Pero, tambi&eacute;n, cuando hay una transformaci&oacute;n, hay cosas que no desaparecen del todo y tambi&eacute;n lo nuevo no termina de nacer. Ese, Stefan&nbsp;Zweig. &iquest;Es de Suecia?</p>
+
+<p>JES&Uacute;S RAM&Iacute;REZ CUEVAS:&nbsp;De Alemania.&nbsp;</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Alem&aacute;n. Y estuvo en Austria y se suicid&oacute; en Brasil, pas&oacute; antes a Nueva York. Es un gran escritor, vale la pena, vale la pena; yo creo que es el mejor escritor israel&iacute;, mejor que Marx, que tambi&eacute;n&hellip;</p>
+
+<p>JES&Uacute;S RAM&Iacute;REZ CUEVAS:&nbsp;Austriaco que se nacionaliz&oacute; brit&aacute;nico.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;S&iacute;, s&iacute;.</p>
+
+<p>Marx es el gran cient&iacute;fico, pero como escritor,&nbsp;&eacute;l;&nbsp;muy bueno.</p>
+
+<p>Entonces, estamos viviendo un momento as&iacute;, estelar en nuestro pa&iacute;s, y est&aacute; sucediendo eso. Yo creo que va a seguir lo nuevo, va a continuar la transformaci&oacute;n, y va a quedar en lo anecd&oacute;tico la picaresca de la pol&iacute;tica mexicana.</p>
+
+<p>S&iacute; tenemos que estar hablando de eso y escribir de eso, en mi libro trato algo de eso, pero falta, faltan muchas cosas, para que no se olvide. Entonces, por eso &mdash;s&iacute;, esta es otra edici&oacute;n, esta es la que yo tengo&mdash; por eso pues es natural que se den estos encuentros, &iquest;no?, con todos estos personajes. Adem&aacute;s, es leg&iacute;timo, muy leg&iacute;timo.</p>
+
+<p>Manlio Fabio fue el presidente de la C&aacute;mara de Diputados cuando me destituyeron, cuando hicieron el acuerdo PRI y PAN para destituirme como jefe de&nbsp;Gobierno, &eacute;l era el presidente; y ah&iacute; estaba pues Chuayffet y otros, y los del PAN porque esto lo tramaron en Los Pinos, Gobernaci&oacute;n, Salinas, Diego Fern&aacute;ndez, as&iacute; fue. &iexcl;Ah!, y el presidente de la corte en ese entonces, el nieto del gran escritor Mariano Azuela.</p>
+
+<p>Pero ya no debemos tampoco anclarnos en eso, somos un pa&iacute;s libre, democr&aacute;tico, y hay que argumentar. Y la verdad,&nbsp;tenemos ganado el debate, por eso a veces se enojan y por eso ense&ntilde;an el cobre con mentiras y calumnias, y dinero para campa&ntilde;as negras.</p>
+
+<p>Imag&iacute;nense que ponen: &lsquo;AMLO, presidente narco&rsquo; y reproducen el mensaje. Cuando lo vimos, eran 170 millones, en M&eacute;xico somos 130 millones, pero ni el Super&nbsp;Bowl. Entonces, &iquest;c&oacute;mo no darse cuenta de que es todo un aparato de control y manipulaci&oacute;n, aceitado con mucho dinero? Al final, es un timbre de orgullo.</p>
+
+<p>Imag&iacute;nense cu&aacute;ntos empleos generamos nosotros, a cu&aacute;ntos les llega dinero y les llegan ingresos para atacarnos, cu&aacute;ntos viven de eso.</p>
+
+<p>Lo que se&nbsp;tiene que tener&nbsp;en cuenta, y yo pienso que esa&nbsp;es una batalla pendiente que hay que seguir dando, es la de enfrentar tanto a los medios como los contenidos vinculados con el prop&oacute;sito de manipular para someter y para robar,&nbsp;y esa es una labor que hay que hacer, es una gran tarea que les va a quedar a ustedes y a todos, s&iacute;, a las nuevas generaciones, a ustedes, las nuevas generaciones.&nbsp;</p>
+
+<p>Pero eso es muy importante no soltar ese tema, porque es lo &uacute;nico que les queda:&nbsp;la manipulaci&oacute;n, el control medi&aacute;tico, porque el dinero deja de tener efectos cuando el pueblo toma consciencia.</p>
+
+<p>Entonces, por eso es importante la revoluci&oacute;n de las consciencias. El uso de la fuerza bruta no les ayuda, no les sirve, como le dec&iacute;a&nbsp;Talleyrand&nbsp;a Napole&oacute;n: &lsquo;Las bayonetas sirven para todo, menos para sentarse en ellas&rsquo;. Eso no les funciona, la fuerza bruta, eso es transitorio, ni el dinero, lo que m&aacute;s les funciona y es eficaz, se ha demostrado, se sigue demostrando, es la manipulaci&oacute;n, y eso lo llevan a cabo con los medios.</p>
+
+<p>Ayuda mucho la educaci&oacute;n convencional, pero tambi&eacute;n la educaci&oacute;n pol&iacute;tica, la concientizaci&oacute;n, eso es importante, eso es lo que nos puede ayudar a limpiar, a purificar la vida p&uacute;blica en M&eacute;xico y en el mundo; si no, van a seguir cometiendo latrocinios y van a buscar que resulte todo normal, que todo se acepte.</p>
+
+<p>Lo que pasaba aqu&iacute; con el tema de la corrupci&oacute;n, que se ve&iacute;a ya normal, no estaba en las universidades el tema de la corrupci&oacute;n, no estaba en los centros de investigaci&oacute;n, en la academia, menos en el parlamento, en el&nbsp;Congreso, en los gobiernos, en el discurso pol&iacute;tico, nada, y era el principal problema de M&eacute;xico, el n&uacute;mero de uno.</p>
+
+<p>&iquest;C&oacute;mo lograron eso?</p>
+
+<p>Bueno, a trav&eacute;s de la manipulaci&oacute;n, a trav&eacute;s de sostener que el que no transa no avanza, burlarse, diciendo de que la moral es un &aacute;rbol que da moras y que sirve para pura cosa; o esto, que la corrupci&oacute;n es parte de la cultura del pueblo de M&eacute;xico, cuando es exactamente lo opuesto.</p>
+
+<p>Si no lograron corromper al pueblo, o sea, lograr su prop&oacute;sito de eclipsar por completo con corrupci&oacute;n al pueblo de M&eacute;xico, fue por nuestros valores, por la herencia cultural que nos dejaron los antepasados. La mayor riqueza hoy del pueblo de M&eacute;xico es la honestidad de su gente, la mayor riqueza de M&eacute;xico es la honestidad de su pueblo, eso viene de lejos.</p>
+
+<p>Hay una parte en el libro &mdash;pr&eacute;stamelo&mdash; hay una parte donde hablo de eso, y el cap&iacute;tulo se llama&nbsp;&lsquo;El Humanismo Mexicano&rsquo;, de la herencia que nos dejaron las antiguas culturas, y hablo&nbsp;que&nbsp;el Humanismo Mexicano est&aacute; fincado en dos pies: es herencia cultural y la fecunda historia de M&eacute;xico, sobre todo el ejemplo de nuestros h&eacute;roes, m&aacute;rtires, que es &uacute;nico. F&iacute;jense que resalto cuatro cosas de ese M&eacute;xico profundo:</p>
+
+<p>Uno, el poco individualismo que exist&iacute;a en las sociedades prehisp&aacute;nicas, sobre todo en lo que tiene que ver con la explotaci&oacute;n de la tierra de manera comunal, que eso es importante, no se aprecia en documentos, en c&oacute;dices el predominio de la propiedad privada, la tierra era comunal y eso qued&oacute;.</p>
+
+<p>Lo otro es el principio de ayuda mutua, en algunos lugares le llaman la mano, que todav&iacute;a est&aacute; vigente en pueblos, municipios de Oaxaca; no necesariamente es el trabajo asalariado, sino la ayuda mutua, la cooperaci&oacute;n.</p>
+
+<p>Otra caracter&iacute;stica que heredamos, buena, el esp&iacute;ritu libertario de nuestro pueblo. A pesar de que,&nbsp;en algunos murales, esculturas, aparecen esclavos, era una sociedad muy libertaria, muy libre, no exist&iacute;a la esclavitud.</p>
+
+<p>Y lo &uacute;ltimo que considero important&iacute;simo es la honestidad, que sigue siendo, digo aqu&iacute;, la mayor riqueza de nuestro pa&iacute;s. &lsquo;La corrupci&oacute;n es un es un fen&oacute;meno relativamente nuevo, iniciado con la invasi&oacute;n extranjera y fomentado por la codicia y el lucro que acompa&ntilde;an casi siempre al af&aacute;n de avaricia, superioridad, mando y dominio&rsquo;.</p>
+
+<p>Y pues hablo de que los invasores fueron movidos por la ambici&oacute;n al dinero, al oro, la fiebre del oro. Miren lo que dec&iacute;an los antiguos sobre la ambici&oacute;n, sobre la avaricia. Aqu&iacute; est&aacute;:</p>
+
+<p>&lsquo;Los libros del&nbsp;Chilam&nbsp;Balam. Se constata con extra&ntilde;eza &mdash;cito&mdash; la desmedida ambici&oacute;n de los codiciosos se&ntilde;ores, los codiciosos gobernantes, los codiciosos usurpadores. Asimismo, se advierte que habr&aacute; &mdash;cito&mdash; mucha miseria en los a&ntilde;os del imperio de la codicia, gran sufrimiento que terminar&aacute; con la dispersi&oacute;n y la ruina de los pueblos.&rsquo;</p>
+
+<p>Pero, estamos terminando una etapa as&iacute;, decadente, y est&aacute; iniciando otra nueva, y lleva tiempo que se consolide, pero debemos de estar muy satisfechos por eso, por lo que se est&aacute; logrando.</p>
+
+<p>INTERVENCI&Oacute;N:&nbsp;Una patria nueva.</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Una patria nueva, s&iacute;. Y esto va a dar frutos, tiene que dar frutos la continuidad.</p>
+
+<p>INTERLOCUTORA:&nbsp;Gracias, presidente.</p>
+
+<p>En otro tema, presidente, pues ya tambi&eacute;n, empujando el tema de atenci&oacute;n a nuestros hermanos migrantes en Estados Unidos, f&iacute;jese que ya se lograron algunas reuniones f&iacute;sicas, personales, entre la presidenta del INE y la canciller Alicia B&aacute;rcena. Entonces, bueno, pues esto es empujando el voto migrante.</p>
+
+<p>Incluso, bueno, tienen hasta el 20 de este mes, de febrero, para ir a registrar y sacar su INE. Por instrucciones, ya acordaron el INE y la Secretar&iacute;a de Relaciones Exteriores de ampliar este plazo.</p>
+
+<p>Y, sobre todo, que me parece algo muy bueno para nuestros hermanos migrantes, presidente, que para sacar su credencial del INE pueden ir sin cita a los consulados; pero aqu&iacute; es donde hay un poquito de problema, presidente, porque hay algunos consulados que pues no han querido atender a los hermanos migrantes.</p>
+
+<p>Aqu&iacute; le tengo nada m&aacute;s unos cuantos, ya ve que son m&aacute;s de 50, son 51, 52 consulados, es el consulado Raleigh, es el consulado de Phoenix y es el consulado de Atlanta, Georgia, que han ido hermanos migrantes que hemos dado seguimiento a que fueran y les dicen que no tienen informaci&oacute;n.</p>
+
+<p>Entonces, pues ya ve que usted, como dice, esta ma&ntilde;anera la ven muchos all&aacute;, para que informe, si usted lo considera, presidente, que tienen hasta el 20 para sacar su credencial del INE; y que es su obligaci&oacute;n por parte de los consulados, porque ya la canciller lo orden&oacute;, que atiendan para ayudarles a sacar su credencial del INE, presidente.</p>
+
+<p>Y, bueno, pues tambi&eacute;n en estas reformas pues viene el voto migrante, que sea m&aacute;s f&aacute;cil a trav&eacute;s del pasaporte, a trav&eacute;s de la cartilla consular y electr&oacute;nicamente. Entonces, pues si tiene alg&uacute;n comentario acerca de estos adelantos, que es la primera vez, presidente, que se re&uacute;ne la presidenta del INE, en este caso, con estos cambios que ha habido y la canciller para empujar este voto migrante.&nbsp;</p>
+
+<p>Y ya, por &uacute;ltimo, tambi&eacute;n en este tema de nuestros hermanos migrantes, presidente, vinieron aqu&iacute; a M&eacute;xico unos hermanos migrantes de Puerto Rico que quieren una casa de cultura, aqu&iacute; tienen, incluso ellos ya identificaron una casa de cultura all&aacute; en Puerto Rico.</p>
+
+<p>Tambi&eacute;n f&iacute;jese que hay un hermano mexicano que vive en Guatemala y que incautaron su coche, y adem&aacute;s lo estaba pagando; ya lo termin&oacute; de pagar y ahora resulta que lo est&aacute;n buscando por el SAT, porque tiene que pagar impuestos. Entonces, aqu&iacute; vienen los datos.</p>
+
+<p>Y&nbsp;ya&nbsp;por &uacute;ltimo, presidente, f&iacute;jese que me contact&oacute; a trav&eacute;s de redes sociales este&hellip; pues es cr&iacute;tico de medios, Jos&eacute; Antonio Fern&aacute;ndez, de&nbsp;Pantalla de Cristal, y me pidi&oacute; que si habr&iacute;a la posibilidad de que usted se enterara que hay un nuevo libro que se llama&nbsp;Conquista frustrada, historia verdadera, de Jes&uacute;s Mondrag&oacute;n, y que habla, precisamente, ya del tema que usted solicit&oacute; a Espa&ntilde;a para que ofrecieran disculpas a nuestros pueblos originarios. Entonces, quer&iacute;an que usted supiera que ya hay literatura en relaci&oacute;n de este tema.</p>
+
+<p>Eso es todo, presidente.</p>
+
+<p>Ah, y tambi&eacute;n le quer&iacute;a agradecer las dedicatorias que me hizo a los tres libros que le dej&eacute;.</p>
+
+<p>Muchas gracias, presidente.&nbsp;</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Y aqu&iacute; con Jes&uacute;s sobre tus planteamientos.&nbsp;</p>
+
+<p>Y qu&eacute; bien que se dio este encuentro de la secretaria de Relaciones, de Alicia, con la presidenta del INE, para que se den facilidades y que los paisanos puedan votar ahora con las elecciones.</p>
+
+<p>V&aacute;monos al desayuno, ma&ntilde;ana seguimos.</p>
+
+<p>Ven. Ahora s&iacute; me vas a dar tu nombre completo&nbsp;</p>
+
+<p>PREGUNTA:&nbsp;&iquest;Hay gira presidente este fin de semana?&nbsp;</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;S&iacute;.</p>
+
+<p>PREGUNTA:&nbsp;&iquest;A d&oacute;nde va de gira, presidente?</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:Consentido.</p>
+
+<p>PREGUNTA:&nbsp;&iquest;A d&oacute;nde va este fin de semana, presidente?</p>
+
+<p>PRESIDENTE ANDR&Eacute;S MANUEL L&Oacute;PEZ OBRADOR:&nbsp;Vamos a ir a&hellip; Les adelanto del viaje a Acapulco, va a ser la ma&ntilde;anera el jueves en Acapulco; est&aacute;n invitadas, invitados.</p>
+
+<p>Y hoy en la tarde ya les damos a conocer, o ma&ntilde;ana a m&aacute;s tardar, la agenda del fin de semana.</p>
+
+<p>---</p>
+</div>
+      </div>
+
+      <div class="col-md-4 col-xs-12 pull-right">
+
+
+
+
+          <div id="survey" class="survey-popup small-top-buffer">
+	<div class="row">
+  <a class="fire">
+    <span class="title">Contesta nuestra encuesta de satisfacción.</span>
+		<i style="color: white" class="fas fa-poll"></i>
+  </a>
+  <hr>
+  
+  <div class="survey col-sm-12 clearfix">
+	<form id="survey-form">
+	  <div class="survey-form">
+	  <fieldset id="query_1">
+		<legend>¿Cómo fue tu experiencia en gob.mx?</legend>
+		<div id="Q_A" class="btn-group row">
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncGood" class="ga-survey" value="Feliz" title="Satisactorio">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-good.svg" alt="">
+		  	</button>
+		  </div>
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncReg" class="ga-survey" value="Neutral" title="Neutral">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-neutral.svg" alt="">
+		  	</button>
+		  </div>
+		  <div class="col-md-4 col-xs-4">
+		  	<button id="radEncBad" class="ga-survey" value="Triste" title="No satisactorio">
+		  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/icons/survey/ico-survey-bad.svg" alt="">
+		  	</button>
+		  </div>
+		</div>
+	  </fieldset>
+	  <fieldset id="query_1_a" class="hidden">
+	  	<legend>¿Fue fácil encontrar lo que buscabas?</legend>
+	  	<div id="Q_B" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R1" value="1">
+	  		<label for="A_R">Muy Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R2" value="2">
+	  		<label for="A_R">Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R3" value="3">
+	  		<label for="A_R">Difícil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input type="radio" name="A_R" id="radEncA_R4" value="4">
+	  		<label for="A_R">Muy Difícil</label>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_s" class="hidden">
+	  	<legend>¿De qué estado de la República nos visitas?</legend>	  	
+	  	<div class="col-md-12">
+  	  		<div class="form-group" style="margin-bottom: 114px;">
+  	  			<select id="estados" class="form-control"></select>
+  	  		</div>
+  	  		<div class="form-group">
+  	  			<button type="button" class="Q_S_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  		</div>
+  	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_alt" class="hidden">
+		<legend>¿Qué buscabas?</legend>
+	  	<div id="Q_I" class="clearfix">
+	  	  <div class="col-sm-12">
+	  		<textarea id="txtA" class="form-control" rows="6" maxlength="250" style="font-size: 14px; width: 100%;"></textarea>
+	  		<span class="small">Máximo 250 caracteres</span>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+  	  	  <button type="button" class="Q_I_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_b" class="hidden">
+	  	<legend>¿Qué te gustó más?</legend>
+	  	<p class="small">Puedes seleccionar más de uno.</p>
+	  	<div id="Q_C" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R1" type="checkbox" name="A_R" value="1">
+	  		<label for="A_R">La información es clara y precisa</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R2" type="checkbox" name="A_R" value="2">
+	  		<label for="A_R">El diseño es agradable</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R3" type="checkbox" name="A_R" value="3">
+	  		<label for="A_R">Está bien organizado</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R4" type="checkbox" name="A_R" value="4">
+	  		<label for="A_R">Es sencillo navegar</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncA_R5" type="checkbox" name="A_R" value="5">
+	  		<label for="A_R">El lenguaje es amigable</label>
+	  	  </div>
+	  	  <div class="clearfix">
+	  	  	<button type="button" class="Q_C_btn btn btn-primary btn-small pull-right">Siguiente</button>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_1_c" class="hidden">
+	  	<legend>¿Recomendarías nuestro portal a un amigo o familiar?</legend>
+	  	<div id="Q_D" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="radEncC_R1" type="radio" name="A_R" value="4">
+	  		<label for="A_R">Si</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="radEncC_R2" type="radio" name="A_R" value="1">
+	  		<label for="A_R">No</label>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+        <button type="button" class="btn-finalizar btn btn-primary btn-small pull-right" style="margin-left: 8px; margin-top: 2px;" disabled>Finalizar</button>
+        <img src="https://framework-gb.cdn.gob.mx/assets/images/oval-white.svg" class="pull-right hidden loading">
+      </div>
+	  </fieldset>
+
+	  <fieldset id="query_2" class="hidden">
+		<legend>¿Fue fácil encontrar lo que buscabas?</legend>
+	  	<div id="Q_F" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R1" type="radio" name="A_R" value="1">
+	  		<label for="A_R">Muy Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R2" type="radio" name="A_R" value="2">
+	  		<label for="A_R">Fácil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R3" type="radio" name="A_R" value="3">
+	  		<label for="A_R">Difícil</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="rdEncA_R4" type="radio" name="A_R" value="4">
+	  		<label for="A_R">Muy Difícil</label>
+	  	  </div>
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_2_b" class="hidden">
+	  	<legend>¿Qué mejorarías?</legend>
+	  	<p class="small">Puedes seleccionar más de una opción.</p>
+	  	<div id="Q_G" class="radio-group clearfix">
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A1" type="checkbox" name="A_R" value="1">
+	  		<label for="A_R">Diseño</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A2" type="checkbox" name="A_R" value="2">
+	  		<label for="A_R">Navegación dentro del sitio</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A3" type="checkbox" name="A_R" value="3">
+	  		<label class="too-long" for="A_R">Claridad y precisión de la información</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A4" type="checkbox" name="A_R" value="4">
+	  		<label for="A_R">Organización de los contenidos</label>
+	  	  </div>
+	  	  <div class="col-sm-12">
+	  		<input id="ckEncB_A5" type="checkbox" name="A_R" value="5">
+	  		<label for="A_R">Lenguaje utilizado</label>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">	  	  
+	  	  <button type="button" class="btn-finalizar btn btn-primary btn-small pull-right" style="margin-left: 8px; margin-top: 2px;" disabled>Finalizar</button>
+	  	  <img src="https://framework-gb.cdn.gob.mx/assets/images/oval-white.svg" class="hidden pull-right loading">
+	  	</div>
+	  </fieldset>
+
+	  <fieldset id="query_2_alt" class="hidden">
+		<legend>¿Qué buscabas?</legend>
+	  	<div id="Q_H" class="clearfix">
+	  	  <div class="col-sm-12">
+	  		<textarea id="txtA1" class="form-control" rows="6" maxlength="250" style="font-size: 14px; width: 100%;"></textarea>
+	  		<span class="small">Máximo 250 caracteres</span>
+	  	  </div>
+	  	</div>
+	  	<div class="clearfix">
+  	  	  <button type="button" class="Q_H_btn btn btn-primary btn-small pull-right">Siguiente</button>
+  	  	</div>
+	  </fieldset>
+
+	</div>
+	<p class="hidden survey-thanks" style="text-align: center; color: white; font-weight: 700;">Gracias por tu opinión.</p>
+	</form>
+
+  </div>
+</div>
+</div>
+
+<script type="text/javascript">
+$(function() {
+  var c = 0;
+  var fin = 0;
+  var tipo_cara = "";
+  var page_type = "Articulos";
+  var triggered = false;
+  var answers = {};
+  var properties = {};
+  var organization = "presidencia";
+  var section = "Blog";
+  var lang = "es";
+  properties.published_on = "2024-02-12 10:28:00 -0600";
+  properties.title = "Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 12 de febrero de 2024";
+  properties.path = "/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-12-de-febrero-de-2024";
+  properties.referer = "";
+  properties.viewfinder = navigator.userAgent.toLowerCase();
+  properties.screens = screen.width;
+  properties.device = screen.width;
+
+  $.getJSON('https://www.gob.mx/vun/estados?filter[order]=nombre%20ASC', function (selectOptions) {
+    for( var i = 0; i < selectOptions.length; i ++) {
+      var selectOptionsJSON = selectOptions[i];
+      $('#estados').append('<option value="'+ selectOptionsJSON.nombre +'">'+ selectOptionsJSON.nombre +'</option>');
+    }
+    $('#estados').append('<option value="Otro">Otro</option>')
+  });
+
+  $('.fire').click(function(event) {
+    $('.survey-popup').css({'height':'440px'});
+  });
+
+  $('#Q_A').find('button').click(function(event) {
+  	$('#query_s').removeClass('hidden');
+  	$("#query_1").addClass('hidden');
+  	answers.q1 = $(this).attr('id');
+  });
+
+  $(".ga-survey").click(function () {
+    tipo_cara = $(this).val();
+    var interval_time = [30];
+    (function timer () {
+      if (c < 1) {
+        setTimeout(function () {
+           if(fin < 1) {
+             set_ga("Inconclusa");
+             timer();
+           }
+        }, interval_time[c] * 1000);
+      }
+      c++;
+    })();
+  });
+
+  $('.Q_S_btn').click(function(event) {
+    if( answers.q1 === "radEncGood") {
+      $("#query_s").addClass('hidden');
+      $("#query_1_a").removeClass('hidden');
+    } else if(answers.q1 === "radEncReg" || answers.q1 === "radEncBad") {
+      $("#query_s").addClass('hidden');
+      $("#query_2").removeClass('hidden');
+    } else { }
+    // answers.q1 = $('#Q_A').find('button').attr('id');
+  });
+
+  $('#Q_B').find('input').click(function(event) {
+  	if( $(this).attr('id') === 'radEncA_R3' || $(this).attr('id') === 'radEncA_R4' )  {
+  	  $("#query_1_a").addClass('hidden');
+	  $("#query_1_alt").removeClass('hidden');
+  	} else {
+  	  $("#query_1_a").addClass('hidden');
+	  $("#query_1_b").removeClass('hidden');	
+  	}	
+	answers.q2 = $(this).attr('id');
+  });
+
+  $('.Q_I_btn').click(function(event) {
+  	event.preventDefault();
+  	$("#query_1_alt").addClass('hidden');
+	$("#query_1_b").removeClass('hidden');
+	answers.q5 = $('#txtA').val().substring(0, 250);
+  });
+
+  $('#Q_C').find('button').click(function(event) {
+	$("#query_1_b").addClass('hidden');
+	$("#query_1_c").removeClass('hidden');
+	var q3_array = [];
+	$('#Q_C').find('input:checked').each(function(index, el) {
+	  q3_array.push($(el).attr('id'));
+	});
+	answers.q3 = q3_array;
+  });
+
+  $('#Q_D').find('input').change(function(event) {
+  	answers.q4 = $(this).attr('id');
+  	$('.btn-finalizar').attr('disabled', false);
+  });
+
+  $('#Q_F').find('input').click(function(event) {
+	
+	answers.q2 = $(this).attr('id');
+
+	if( $(this).attr('id') === 'rdEncA_R3' || $(this).attr('id') === 'rdEncA_R4' ) {
+	  $("#query_2").addClass('hidden');
+	  $("#query_2_alt").removeClass('hidden');
+	} else {
+	  $("#query_2").addClass('hidden');
+	  $("#query_2_b").removeClass('hidden');
+	}
+  });
+
+  $('#Q_G').find('input').change(function(event) {
+  	if($('#Q_G').find('input:checked').length > 0) {
+	  $('.btn-finalizar').attr('disabled', false);
+    }
+    var q2_array = [];
+    $('#Q_G').find('input:checked').each(function(index, el) {
+	  q2_array.push($(el).attr('id'));
+	});
+	answers.q3 = q2_array;
+  });
+
+  $('.Q_H_btn').click(function(event) {
+  	event.preventDefault();
+  	$("#query_2_alt").addClass('hidden');
+	$("#query_2_b").removeClass('hidden');
+	answers.q5 = $('#txtA1').val().substring(0, 250);
+  });
+
+  $('.btn-finalizar').click(function (event) {
+    fin++;
+    $.ajax({
+      url: '/encuesta-satisfaccion',
+      type: 'post',
+      dataType: 'json',
+      data: { section: section, lang: lang, properties: properties, answers: answers },
+      beforeSend: function() {
+        $('.loading').removeClass('hidden');
+      },
+      success: function(data) {
+        set_ga("Finalizada");
+
+        $('.survey').hide();
+        $('.survey-popup').css({'height':'60px','background-color':'#dff0d8','border':'1px solid #d6e9c6'});
+        $('.survey-popup .title').text('Gracias por tu participación.').css({'color':'#3c763d'});
+        $('#icon-survey').removeClass('fa-file-text-o').addClass('fa-check-circle').css({'color':'#3c763d'});
+        setTimeout(function() {
+          $('.survey-popup').fadeOut('800');
+        }, 1600);
+      }
+    });
+  });
+
+  function set_ga(estatus) {
+    var pages_group = "Gobierno";
+    var organization_name = "presidencia";
+
+    console.log("Entro a apartado de encuesta de satisfacción. Estatus: "+ estatus);
+    console.log("Pages group: "+pages_group);
+    console.log("Sub group: "+organization_name);
+    console.log("Page type: "+page_type);
+    console.log("Face: "+tipo_cara);
+
+      console.log("Rails.env.production");
+      //Código GA para encuesta de satisfacción.
+		gtag('set', 'dimension14', pages_group);
+		gtag('set', 'dimension15', organization_name);
+		gtag('set', 'dimension16', page_type);
+		gtag('send', 'event', 'Encuesta de satisfacción', tipo_cara ,estatus);
+		gtag('set', 'dimension14', null);
+		gtag('set', 'dimension15', null);
+		gtag('set', 'dimension16', null);
+  }
+
+  $('#subscribe-survey').click(function(event) {
+	event.preventDefault();
+    var email = $("#email-survey").val();
+    var state = $('#estados').val();
+
+    if (email !== '' || email !== undefined) {
+	    try {
+	      $.ajax({
+	        url: "/subscribe",
+	        type: 'post',
+	        dataType: 'json',
+	        data : { email: {address: email} },
+	        success: function (data) {
+	            $('#responseSignup').html(data.message);
+	        },
+	        error: function (data) {
+	            $('#responseSignup').html(data.message);
+	        }
+	      });
+	    }catch(e){
+	      $("#responseEmail").innerText(e);
+	    }
+
+	    $.ajax({
+	    	url: '/signups',
+	    	type: 'POST',
+	    	dataType: 'json',
+	    	data: { section: section, lang: lang, properties: properties },
+	    	success: function() {
+	    		//console.log('exito');
+	    	}
+	    });
+	} else {
+		$('#responseSignup').html('Por favor llena todos los campos.');
+	}
+  });
+
+  $('#survey-form').submit(function(event) {
+    event.preventDefault();
+  });
+});
+</script>
+
+      </div>
+      <div class="col-sm-7 pull-left">
+        <div class="share-buttons clearfix vertical-buffer">
+  <div class="col-md-2"> <a class="twitter-share-button" data-url="https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-12-de-febrero-de-2024" data-text="Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 12 de febrero de 2024"></a></div>
+  <div class="col-md-2">
+    <div class="fb-share-button" data-href="https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-12-de-febrero-de-2024" data-layout="button_count" data-size="small" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-12-de-febrero-de-2024&amp;src=sdkpreparse">Compartir</a></div>
+  </div>
+</div>
+
+  <script type="text/javascript">
+    (function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v2.7";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+    
+    var pages_group = "Gobierno";
+    var page_type = "Artículos";
+    var organization_name = "presidencia";
+    var title_content = "Versión estenográfica. Conferencia de prensa del presidente Andrés Manuel López Obrador del 12 de febrero de 2024";
+
+     window.twttr = (function (d,s,id) {
+       var t, js, fjs = d.getElementsByTagName(s)[0];
+       if (d.getElementById(id)) return; js=d.createElement(s); js.id=id;
+       js.src="//platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs);
+       return window.twttr || (t = { _e: [], ready: function(f){ t._e.push(f) } });
+     }(document, "script", "twitter-wjs"));
+
+     function trackTwitter(intent_event) {
+       if (intent_event) {
+         if (intent_event.target && intent_event.target.nodeName == 'IFRAME') {
+           console.log("Metrica Compartir Twitter - "+title_content);
+           console.log("Organization: "+organization_name);
+           console.log("Page type: "+page_type);
+           console.log("Title content: "+title_content);
+           ga('set', 'dimension14', pages_group);
+           ga('set', 'dimension15', organization_name);
+           ga('set', 'dimension16', page_type);
+           ga('send', 'event', 'Compartir en redes sociales', 'Twitter', title_content);
+           ga('set', 'dimension14', null);
+           ga('set', 'dimension15', null);
+           ga('set', 'dimension16', null);
+         }
+       }
+     }
+  </script>
+  <script type="text/javascript">
+     twttr.ready(function (twttr) {
+       twttr.events.bind('tweet', trackTwitter);
+     });
+  </script>
+
+
+      </div>
+    </div>
+    <div class="row top-buffer">
+  <div class="col-md-8">
+    <hr>
+    <div class="print col-ms-12 col-md-12 col-xs-12">
+      <span class="icon-printing"></span>
+      <a href="#">Imprime la página completa</a>
+        <p class="small" style="font-size: 14px; line-height: 1.6em;">
+          La legalidad, veracidad y la calidad de la información es estricta responsabilidad de la dependencia, entidad o empresa productiva del Estado que la proporcionó en virtud de sus atribuciones y/o facultades normativas.
+        </p>
+    </div>
+  </div>
+</div>
+
+  </div>
+  <input type="hidden" id="page_type" name="page_type" value="Articulos">
+  <input type="hidden" id="organization_name" name="organization_name" value="presidencia">
+</main>
+<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+
+<footer class="main-footer">
+  <div class="list-info">
+    <div class="container">
+
+      <div class="col-sm-3">
+        <img  src="https://framework-gb.cdn.gob.mx/landing/img/logoheader.svg"  href="/" alt="logo gobierno de méxico" class="logo_footer" style="max-width: 90%; margin-left: -27px;   margin-top: 12px;">
+      </div>
+      <div class="col-sm-3">
+        <h2>Enlaces</h2>
+        <ul>
+         <!-- <li><a  href="http://www.participa.gob.mx">Participa</a></li> -->
+          <li><a  href="https://datos.gob.mx/">Datos</a></li>
+          <li><a href="https://www.gob.mx/publicaciones" target="_blank" rel="noopener" title="Enlace abre en ventana nueva">Publicaciones </a></li>
+
+                  <li><a class="footer" href="https://consultapublicamx.plataformadetransparencia.org.mx/vut-web/faces/view/consultaPublica.xhtml?idEntidad=MzM=&amp;idSujetoObligado=MTAwMDE=#inicio" id="Transparencia" target="blank" title="Enlace abre en ventana nueva">Portal de Obligaciones de Transparencia</a></li>
+
+                  <li><a class="footer" href="https://www.infomex.org.mx/gobiernofederal/home.action" id="PNT" target="blank" title="Enlace abre PNT en ventana nueva">PNT</a></li>
+
+                  <li><a class="footer" href="http://www.inai.org.mx/" id="INAI" target="blank" title="Enlace abre sitio INAI en ventana nueva">INAI</a></li>
+
+          <li><a class="footer" id="INAI" href="http://alertadores.funcionpublica.gob.mx/" target="_blank" rel="alertadores">Alerta</a></li>
+          <li><a class="footer" id="SIDEC" href="http://sidec.funcionpublica.gob.mx/" target="_blank" rel="sidec">Denuncia</a></li>
+           </ul>
+      </div>
+      <div class="col-sm-3">
+        <h2>¿Qué es gob.mx?</h2>
+        <p>Es el portal único de trámites, información y participación ciudadana.  <a href="/que-es-gobmx" style="text-decoration: none;">Leer más </a></p>
+        <ul>
+
+        
+            <li><a href='http://www.gob.mx/epn'> Administraciones anteriores  </a></li>
+          <li><a href="/accesibilidad">Declaración de Accesibilidad</a></li>
+          <li><a href="/privacidadintegral">Aviso de privacidad</a></li>
+          <li><a href="/privacidadsimplificado">Aviso de privacidad simplificado</a></li>
+          <li><a href="/terminos">Términos y Condiciones </a></li>
+          <li><a href="/terminos#medidas-seguridad-informacion">Política de seguridad</a></li>
+          <li><a class="footer" id="Marco Juridico" href="http://www.ordenjuridico.gob.mx" target="_blank" rel="noopener" title="Enlace abre en ventana nueva">Marco jurídico</a></li>
+          <li><a href="/sitemap">Mapa de sitio</a></li>
+        </ul>
+      </div>
+      <div class="col-sm-3">
+        </p>
+        <h2>Síguenos en </h2>
+        <ul class="list-inline">
+          <li>
+            <a id="Facebook" href="https://www.facebook.com/gobmexico" target="_blank" rel="noopener" class="sendEst share-info footer" title="enlace a facebook abre en una nueva ventana">
+              <img alt="Facebook" src="https://framework-gb.cdn.gob.mx/landing/img/facebook.png" />
+            </a>
+          </li>
+          <li>
+            <a id="Twitter" href="https://twitter.com/GobiernoMX" target="_blank" rel="noopener" class="sendEst share-info footer" title="Enlace a twitter abre en una nueva ventana">
+              <img alt="Twitter" src="https://framework-gb.cdn.gob.mx/landing/img/twitter.png" />
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+  </div>
+  </div>
+
+  <div class="container-fluid footer-pleca">
+    <div class="row">
+      <div class="col">
+        <br><br>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <script type="text/javascript">
+      $("a.footer").click(function () {
+          var pagina_sitio = window.location.pathname;
+          var outbound_link = $(this).attr("id");
+          var subgrupo_paginas = "presidencia";
+          var page_type = "Home";
+          var pages_group = "Gobierno";
+          if($("#page_type").length > 0){ page_type = $("#page_type").val(); }
+
+          console.log("Metrica links externos footer - "+outbound_link);
+          gtag('set', 'dimension14', pages_group);
+          gtag('set', 'dimension15', subgrupo_paginas);
+          gtag('set', 'dimension16', page_type);
+          gtag('send', 'event', 'Outbound link - Footer', outbound_link, pagina_sitio);
+          gtag('set', 'dimension14', null);
+          gtag('set, ‘dimension15', null);
+      })
+  </script>
+
+<input class="hidden" id="route" value="/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-12-de-febrero-de-2024" type="hidden" >
+<!-- div id="fb-root"></div -->
+
+
+
+
+
+  <!-- Begin comScore Tag -->
+  <script>
+      var _comscore = _comscore || [];
+      _comscore.push({ c1: "2", c2: "17183199" });
+      (function() {
+          var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+          s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+          el.parentNode.insertBefore(s, el);
+      })();
+  </script>
+  <noscript>
+    <img src="https://sb.scorecardresearch.com/p?c1=2&c2=17183199&cv=2.0&cj=1" />
+  </noscript>
+  <!-- End comScore Tag -->
+
+  <script src="https://sb.scorecardresearch.com/c2/17183199/ct.js"></script>
+
+
+  <script type="text/javascript">
+
+      var _sf_startpt=(new Date()).getTime();
+      var _sf_async_config = { uid: 43659, domain: 'www.gob.mx', useCanonical: true } ;
+      (function() {
+          function loadChartbeat() { window._sf_endpt = (new Date()).getTime(); var e = document.createElement('script'); e.setAttribute('language', 'javascript'); e.setAttribute('type', 'text/javascript'); e.setAttribute('src','//static.chartbeat.com/js/chartbeat.js'); document.body.appendChild(e); };
+          var oldonload = window.onload;
+          window.onload = (typeof window.onload != 'function') ?
+              loadChartbeat : function()
+              { oldonload(); loadChartbeat(); };
+      })();
+      var ele = "/presidencia/es/articulos/version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-12-de-febrero-de-2024";
+      if( "#{(@organization_site.present? ? @organization_site.category : 'gobmx')}" == "Campaña") {
+          var siteEls = 'campaign';
+      } else {
+          var siteEls = 'gobierno';
+      }
+
+      for( var i = 1; i < ele.split('/').length; i++ ) {
+          siteEls = siteEls + '.' + ele.split('/')[i];
+      }
+
+      function udm_(e){var t="comScore=",n=document,r=n.cookie,i="",s="indexOf",o="substring",u="length",a=2048,f,l="&ns_",c="&",h,p,d,v,m=window,g=m.encodeURIComponent||escape;if(r[s](t)+1)for(d=0,p=r.split(";"),v=p[u];d<v;d++)h=p[d][s](t),h+1&&(i=c+unescape(p[d][o](h+t[u])));e+=l+"_t="+ +(new Date)+l+"c="+(n.characterSet||n.defaultCharset||"")+"&c8="+g(n.title)+i+"&c7="+g(n.URL)+"&c9="+g(n.referrer),e[u]>a&&e[s](c)>0&&(f=e[o](0,a-8).lastIndexOf(c),e=(e[o](0,f)+l+"cut="+g(e[o](f+1)))[o](0,a)),n.images?(h=new Image,m.ns_p||(ns_p=h),h.src=e):n.write("<","p","><",'img src="',e,'" height="1" width="1" alt="*"',"><","/p",">")};
+      function uid_call(a, b){
+          ui_c2 = 17183199; // your corporate c2 client value
+          ui_ns_site = 'gobmx'; // your sites identifier
+          window.b_ui_event = window.c_ui_event != null ? window.c_ui_event:"",window.c_ui_event = a;
+          var ui_pixel_url = 'https://sb.scorecardresearch.com/p?c1=2&c2='+ui_c2+'&ns_site='+ui_ns_site+'&name='+a+'&ns_type=hidden&type=hidden&ns_ui_type='+b;
+          var b="comScore=",c=document,d=c.cookie,e="",f="indexOf",g="substring",h="length",i=2048,j,k="&ns_",l="&",m,n,o,p,q=window,r=q.encodeURIComponent||escape;if(d[f](b)+1)for(o=0,n=d.split(";"),p=n[h];o<p;o++)m=n[o][f](b),m+1&&(e=l+unescape(n[o][g](m+b[h])));ui_pixel_url+=k+"_t="+ +(new Date)+k+"c="+(c.characterSet||c.defaultCharset||"")+"&c8="+r(c.title)+e+"&c7="+r(c.URL)+"&c9="+r(c.referrer)+"&b_ui_event="+b_ui_event+"&c_ui_event="+c_ui_event,ui_pixel_url[h]>i&&ui_pixel_url[f](l)>0&&(j=ui_pixel_url[g](0,i-8).lastIndexOf(l),ui_pixel_url=(ui_pixel_url[g](0,j)+k+"cut="+r(ui_pixel_url[g](j+1)))[g](0,i)),c.images?(m=new Image,q.ns_p||(ns_p=m),m.src=ui_pixel_url):c.write("<p><img src='",ui_pixel_url,"' height='1' width='1' alt='*'></p>");
+      }
+      udm_('https://sb.scorecardresearch.com/b?c1=2&c2=17183199&ns_site=gobmx&name='+siteEls);
+  </script>
+
+  <noscript>
+    <img src="https://sb.scorecardresearch.com/p?c1=2&amp;c2=17183199&amp;ns_site=gobmx&amp;name=gobierno.presidencia.es.articulos.version-estenografica-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-del-12-de-febrero-de-2024" height="1" width="1" alt="*" />
+  </noscript>
+<script>
+    let key = '';
+    $(function () {
+
+        $.getJSON("https://framework-gb.cdn.gob.mx/applications/cms/configGobmx.json", function(json) {
+            console.log(json.keyAnalytics); // this will show the info it in firebug console
+            key = json.keyAnalytics;
+            ga('create', key , 'auto', 'GobTracker');
+            ga('GobTracker.require', 'linker');
+            ga('GobTracker.linker:autoLink', ['www.gob.mx']);
+            ga('GobTracker.set', 'contentGroup1', 'Gobierno');
+            ga('GobTracker.set', 'contentGroup2', SubGroup);
+            ga('GobTracker.set', 'contentGroup3', PageType);
+            ga('GobTracker.set', 'dimension14', 'Gobierno');
+            ga('GobTracker.set', 'dimension15', SubGroup);
+            ga('GobTracker.set', 'dimension16', PageType);
+            ga('GobTracker.set', 'dimension13', 'No Registrado');
+            ga('GobTracker.send', 'pageview');
+            ga('GobTracker.set', 'contentGroup1', null);
+            ga('GobTracker.set', 'contentGroup2', null);
+            ga('GobTracker.set', 'contentGroup3', null);
+            ga('GobTracker.set', 'dimension14', null);
+            ga('GobTracker.set', 'dimension15', null);
+            ga('GobTracker.set', 'dimension16', null);
+            ga('GobTracker.set', 'dimension13', null);
+        });
+    });
+</script>
+
+<script src="https://framework-gb.cdn.gob.mx/applications/cms/modal_global_cms.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/gm/accesibilidad/js/gobmx-accesibilidad.min.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick.min.js"></script>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick-lightbox.js"></script>
+<link rel="stylesheet" href="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/slick-lightbox.css">
+
+
+<script src="https://framework-gb.cdn.gob.mx/applications/cms/config_dependency.js"></script>
+<script type="text/javascript"  src="/0RVTuHxj0/t/mhEICJIQ/YiOkthVkYSfw/PRc4N0sKYQk/PwhFVTt/GPxQB"></script></body>
+
+</html>
+
