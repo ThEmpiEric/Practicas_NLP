@@ -5,7 +5,9 @@ Este repositorio contendrá las prácticas realizadas durante el curso de **Proc
 - Práctica: Web Scraping (Talacha) de las conferencias esteneograficas de AMLO  
 - Práctica: NLTK introductorio
 - Práctica: BoW
-- 
+- Práctica:
+- Práctica: NLM 
+
   
 
 
